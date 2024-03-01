@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.it_it
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Selezionare un modello valido.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Selezionare un sistema operativo valido.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Selezionare una nuvola valida.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'L\'etichetta non può contenere caratteri speciali.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Inserire un\'etichetta.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Il nome dell\'host sembra non essere valido.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Selezionare un modello valido.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Selezionare se consentire a un cliente di impostare il modello.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Selezionare un sistema operativo valido.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Selezionare se consentire a un client di impostare il sistema operativo.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Selezionare una nuvola valida.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Selezionare se consentire a un cliente di impostare un cloud.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Inserire il numero di nodi da assegnare.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'L\'utente deve dichiarare di aver compreso l\'azione di reinstallazione per poter eseguire la reinstallazione del modello.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Selezionare un modello valido.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Si è verificato un errore e non è stato possibile reinstallare il modello.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Si è verificato un errore e non è stato possibile annullare il servizio.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Si è verificato un errore e non è stato possibile eseguire l\'azione.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Si è verificato un errore e non è stato possibile aggiornare la macchina virtuale.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Impossibile aggiungere i nodi richiesti.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Non è stato possibile stabilire una connessione al server. Verificare che l\'indirizzo e-mail e la chiave API siano corretti.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Inserire la chiave API.';
+$lang['Vpsdotnet.!error.email.format'] = 'Inserire un indirizzo e-mail valido.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Inserire un\'etichetta per questo server.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Password';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Console';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Password:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Console';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Ripristino della password';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Ripristino della password';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Cambiare il nome di host';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Nome host';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Cambiare il nome di host';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Reinstallare';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Sono consapevole che con la reinstallazione tutti i dati presenti sul server verranno eliminati in modo permanente e verranno installati il sistema operativo e il modello selezionati.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Modello';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Sistema operativo';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Reinstallare';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Azioni del server';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Sconosciuto';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'In attesa';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Non in linea';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'In linea';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Stato del server';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Reimpostare la password';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Reimpostare la password';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Cambiare il nome di host';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Nome host';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Cambiare il nome di host';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Reinstallare';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Sono consapevole che con la reinstallazione tutti i dati presenti sul server verranno eliminati in modo permanente e verranno installati il sistema operativo e il modello selezionati.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Modello';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Sistema operativo';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Reinstallare';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Stato del server';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Azioni';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Sconosciuto';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'In attesa';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Non in linea';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'In linea';
+$lang['Vpsdotnet.!actions.password'] = 'Reimpostare la password';
+$lang['Vpsdotnet.!actions.hostname'] = 'Cambiare il nome di host';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Reinstallare';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Spegnimento';
+$lang['Vpsdotnet.!actions.reboot'] = 'Riavvio';
+$lang['Vpsdotnet.!actions.boot'] = 'Stivale';
+$lang['Vpsdotnet.tab_client_console'] = 'Console';
+$lang['Vpsdotnet.tab_client_actions'] = 'Azioni del server';
+$lang['Vpsdotnet.tab_console'] = 'Console';
+$lang['Vpsdotnet.tab_actions'] = 'Azioni del server';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Modello';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Sistema operativo';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Nuvola/Zona';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'Etichetta VPS';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Nome host';
+$lang['Vpsdotnet.package_fields.template'] = 'Modello';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Selezionare il modello';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Lasciare che il cliente imposti il modello';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Sistema operativo';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Selezionare il sistema operativo';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Lasciare che il cliente imposti il sistema operativo e il modello';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Nuvola/Zona';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Selezionare una nuvola/zona';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Lasciare che il cliente imposti Cloud/Zona, Sistema operativo e Template.';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Numero di nodi';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Aggiornamento del server';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Impostazioni di base';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Modifica del server VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Aggiungi server';
+$lang['Vpsdotnet.row_meta.key'] = 'Chiave API';
+$lang['Vpsdotnet.row_meta.email'] = 'Email';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Etichetta del server';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Impostazioni di base';
+$lang['Vpsdotnet.add_row.box_title'] = 'Aggiungere un server VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Password';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Indirizzo IP primario';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Non esistono gruppi di server.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Siete sicuri di voler eliminare questo gruppo di server?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Cancellare';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Modifica';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Opzioni';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Conteggio del server';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Nome del gruppo';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'Gruppi di server master VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Non ci sono server.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Siete sicuri di voler cancellare questo server?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Cancellare';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Modifica';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Opzioni';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Email';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Etichetta del server';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'Server master VPS.NET';
+$lang['Vpsdotnet.add_module_group'] = 'Aggiungi gruppo di server';
+$lang['Vpsdotnet.add_module_row'] = 'Aggiungi server';
+$lang['Vpsdotnet.please_wait'] = 'Attendere prego...';
+$lang['Vpsdotnet.order_options.first'] = 'Primo server non completo';
+$lang['Vpsdotnet.module_group'] = 'Gruppo Master VPS.NET';
+$lang['Vpsdotnet.module_row_plural'] = 'Server';
+$lang['Vpsdotnet.module_row'] = 'Server master VPS.NET';
+$lang['Vpsdotnet.description'] = 'VPS.NET offre hosting di server virtualizzati.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+
