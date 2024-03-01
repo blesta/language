@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.cs_cz
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Aktualizace nastavení';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-mail';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Poštovní směrovací číslo';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Stát/provincie';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Země';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Město';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adresa 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adresa 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Název';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Společnost/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Příjmení';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Jméno';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Pouze pro čtení';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Zobrazit';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Požadované';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Pole';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Zaškrtněte pole, která by měla být vyžadována při vytváření nebo aktualizaci klienta nebo kontaktu.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Povinná pole klienta';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Vlastní pole klienta > Povinná pole klienta';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Vlastní regex';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Ano';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Ne';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Odstranění adresy';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Výchozí';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Název možnosti';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Hodnota';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Přidání další možnosti';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Výchozí hodnota textu';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Výchozí hodnota Zkontrolováno';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Hodnota';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Upravit vlastní pole';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Šifrování hodnot';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Vlastní regex';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Požadované';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Pouze pro čtení pro klienty';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Viditelný pro klienty';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Typ';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Odkaz';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Název je definice jazyka';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Název';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Upravit vlastní pole';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Vlastní pole klienta > Upravit vlastní pole';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Odstranění stránky';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Výchozí';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Název možnosti';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Hodnota';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Přidání další možnosti';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Vyžadování tohoto pole a jeho nezobrazení klientům bude mít za následek, že klienti se nebudou moci zaregistrovat nebo aktualizovat informace o svém účtu.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Výchozí hodnota textu';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Výchozí hodnota Zkontrolováno';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Hodnota';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Přidání vlastního pole';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Šifrování hodnot';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Vlastní regex';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Požadované';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Pouze pro čtení pro klienty';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Viditelný pro klienty';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Typ';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Odkaz';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Název je definice jazyka';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Název';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Skupina klientů';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Přidání vlastního pole';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Vlastní pole klienta > Přidat vlastní pole';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Neexistují žádná vlastní pole.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Odstraněním tohoto vlastního pole se odstraní všechna data, která jsou pro něj uložena, pro každého klienta v rámci této skupiny. Opravdu chcete toto vlastní pole odstranit?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Odstranit';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Upravit';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Možnosti';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Pouze pro čtení pro klienty';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Viditelný pro klienty';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Požadované';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Název';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Vytvořit pole';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Procházení vlastních polí klienta';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Vlastní pole klienta > Procházet';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Odeslat';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Zabránění platbám od neověřených klientů';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'ID klienta Hodnota přírůstku';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID klienta Počáteční hodnota';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Formát ID klienta';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Povolení ověřování e-mailu';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Vynucení uživatelských jmen e-mailu';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Všechny kontakty';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Primární kontakty';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Žádné --';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Vynucení jedinečných kontaktních e-mailových adres';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Obecná nastavení klienta';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Obecné';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Zaškrtnutá hodnota možnosti bude výchozí hodnotou zvolenou při přidání této možnosti pro klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Pokud je toto políčko zaškrtnuto, bude ve výchozím nastavení zaškrtnuto při přidání tohoto vlastního pole pro klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Zde zadaný text bude výchozí hodnotou nastavenou pro tuto možnost při přidání tohoto vlastního pole pro klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Hodnota odeslaná při zaškrtnutí políčka.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Zaškrtněte toto políčko, chcete-li hodnotu uložit šifrovaně. To se důrazně doporučuje, pokud ukládáte citlivé nebo osobní údaje.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Tato možnost se zobrazí, pokud je možnost "Required" nastavena na hodnotu "Custom Regex". Zde zadejte vlastní regulární výraz pro ověření tohoto pole.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Výběrem možnosti "Ano" zajistíte, aby byla pro toto pole zadána hodnota, u typů s rozbalovací nabídkou se tato možnost musí objevit v seznamu možností. Výběrem možnosti "Ne" přijmete pro toto pole libovolnou hodnotu. Vyberte "Custom Regex", chcete-li pro platnost tohoto pole použít vlastní regulární výraz.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Zaškrtnutím tohoto políčka klient toto vlastní pole nezmění. Pole určená pouze pro čtení budou automaticky nastavena na přiřazenou výchozí hodnotu.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Zaškrtnutím povolíte klientům zobrazit a aktualizovat toto pole.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Vlastní pole se zobrazí jako vybraný typ formuláře.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Vlastní odkaz, který lze vložit do názvu pole. Text, na který chcete odkaz použít, uzavřete do hranatých závorek (např. [termíny]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Toto políčko zaškrtněte pouze v případě, že jste přidali definici jazyka pro toto vlastní pole do souboru vlastního jazyka.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Toto je zobrazovací název tohoto pole. Může se jednat o definici jazyka.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Vlastní pole se použije pouze pro členy vybrané skupiny klientů.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Následná čísla ID klientů se o tuto hodnotu zvýší.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Počáteční hodnota ID klienta je počáteční hodnota pro ID klienta. Noví klienti budou mít tuto hodnotu, pokud není menší než hodnota posledního vytvořeného Klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Client ID Format je formát ID klienta. Výsledkem hodnoty ABC-{číslo} bude ID klienta ABC-1500, kde 1500 je hodnota ID klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Zaškrtněte, chcete-li odeslat ověřovací e-mail při vytvoření nového přihlášení nebo při změně e-mailové adresy klienta. Oznámení se bude zobrazovat na profilu klienta, dokud nebude ověřen.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Klienti musí jako uživatelské jméno použít svou e-mailovou adresu, nikoli definovat vlastní. Stávající klienti se mohou stále přihlašovat pod svým stávajícím uživatelským jménem.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Omezí e-mailové adresy pro kontakty. Primární kontakty znamená, že žádné dva primární kontakty (tj. klienti) nemohou mít stejnou e-mailovou adresu. Všechny kontakty znamená, že žádný kontakt jakéhokoli typu nemůže mít stejnou e-mailovou adresu jako jiný kontakt.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Při požadavku na výběr státu/provincie postupujte opatrně. Některé země nemají žádné státy. Klienti v těchto zemích by nemohli uložit své kontaktní údaje. Doporučujeme toto pole nevyžadovat.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Pokud je zaškrtnuto, klient nemůže pole upravovat, pokud obsahuje nějaká data.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Formát ID klienta musí obsahovat {číslo}.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'POZNÁMKA: Tato nastavení se vztahují pouze na skupiny klientů, které dědí svá nastavení od společnosti.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Obecná nastavení byla úspěšně aktualizována.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Požadovaná pole byla úspěšně aktualizována.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Vlastní pole klienta bylo úspěšně odstraněno.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Vlastní pole klienta bylo úspěšně vytvořeno.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Vlastní pole klienta bylo úspěšně aktualizováno.';
+
