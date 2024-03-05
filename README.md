@@ -1,0 +1,25 @@
+# About
+Blesta was written in English, US (en_us). Other languages are included as part of this repository, and are machine translated. Feel free to fork this repository and make changes for your own use. These languages are included automatically with Blesta as of version 5.10.0.
+
+# Install
+To install these languages, follow the steps:
+
+1. Download the files from this repository.
+2. Upload the files to the primary directory for your Blesta installation.
+3. In Blesta, visit Settings > Company > General: Internationalization, and click to install each language you want to use.
+
+# Languages Supported
+
+| Language Name  | Language Code |
+| ------------- | ------------- |
+| Español, ES  | es_es  |
+| Français, FR  | fr_fr  |
+| Ελληνικά, GR  | el_gr  |
+| Italiano, IT  | it_it  |
+| Československý, CZ  | cz_cz  |
+| Nederlands, NL  | nl_nl  |
+| Polski, PL  | pl_pl  |
+| Svenska, SE  | sv_se  |
+| Pyccĸий, RU  | ru_ru  |
+| Dansk, DK  | da_dk  |
+| Português, BR  | pt_br  |
