@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.da_dk
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.description'] = 'VPS.NET tilbyder virtualiseret serverhosting.';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET Master Server';
+$lang['Vpsdotnet.module_row_plural'] = 'Servere';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET Master Group';
+$lang['Vpsdotnet.order_options.first'] = 'Første ikke-fulde server';
+$lang['Vpsdotnet.please_wait'] = 'Vent venligst...';
+$lang['Vpsdotnet.add_module_row'] = 'Tilføj server';
+$lang['Vpsdotnet.add_module_group'] = 'Tilføj servergruppe';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'VPS.NET-masterservere';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Server-etiket';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'E-mail';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Valgmuligheder';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Rediger';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Slet';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Er du sikker på, at du vil slette denne server?';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Der er ingen servere.';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'VPS.NET Master Server-grupper';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Gruppens navn';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Antal servere';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Valgmuligheder';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Rediger';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Slet';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Er du sikker på, at du vil slette denne servergruppe?';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Der er ingen servergrupper.';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Primær IP-adresse';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Adgangskode';
+$lang['Vpsdotnet.add_row.box_title'] = 'Tilføj VPS.NET-server';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Grundlæggende indstillinger';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Server-etiket';
+$lang['Vpsdotnet.row_meta.email'] = 'E-mail';
+$lang['Vpsdotnet.row_meta.key'] = 'API-nøgle';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Tilføj server';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Rediger VPS.NET-server';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Grundlæggende indstillinger';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Opdater server';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Antal noder';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Lad klienten indstille Cloud/Zone, operativsystem og skabelon';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Vælg en sky/zone';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Sky/Zone';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Lad klienten indstille operativsystem og skabelon';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Vælg operativsystem';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Operativsystem';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Lad kunden indstille skabelonen';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Vælg skabelon';
+$lang['Vpsdotnet.package_fields.template'] = 'Skabelon';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Værtsnavn';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS-mærke';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Sky/Zone';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Operativsystem';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Skabelon';
+$lang['Vpsdotnet.tab_actions'] = 'Serverhandlinger';
+$lang['Vpsdotnet.tab_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_actions'] = 'Serverhandlinger';
+$lang['Vpsdotnet.tab_client_console'] = 'Konsol';
+$lang['Vpsdotnet.!actions.boot'] = 'Støvle';
+$lang['Vpsdotnet.!actions.reboot'] = 'Genstart';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Nedlukning';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Geninstaller';
+$lang['Vpsdotnet.!actions.hostname'] = 'Skift værtsnavn';
+$lang['Vpsdotnet.!actions.password'] = 'Nulstil adgangskode';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'Afventer';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Ukendt';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Handlinger';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Serverstatus';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Geninstaller';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Operativsystem';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Skabelon';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Jeg forstår, at ved geninstallation slettes alle data på serveren permanent, og det valgte operativsystem og skabelon installeres.';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Geninstaller';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Skift værtsnavn';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Værtsnavn';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Skift værtsnavn';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Nulstil adgangskode';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Nulstil adgangskode';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Serverstatus';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'Afventer';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Ukendt';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Serverhandlinger';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Geninstaller';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Operativsystem';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Skabelon';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Jeg forstår, at ved geninstallation slettes alle data på serveren permanent, og det valgte operativsystem og skabelon installeres.';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Geninstaller';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Skift værtsnavn';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Værtsnavn';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Skift værtsnavn';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Nulstil adgangskode';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Nulstil adgangskode';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Adgangskode:';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Adgangskode';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Indtast venligst en etiket til denne server.';
+$lang['Vpsdotnet.!error.email.format'] = 'Indtast venligst en gyldig e-mailadresse.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Indtast venligst din API-nøgle.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Der kunne ikke oprettes forbindelse til serveren. Kontroller venligst, at e-mailadressen og API-nøglen er korrekte.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Kan ikke tilføje de nødvendige noder.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Der opstod en fejl, og den virtuelle maskine kunne ikke opdateres.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Der opstod en fejl, og handlingen kunne ikke udføres.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Der opstod en fejl, og tjenesten kunne ikke annulleres.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Der opstod en fejl, og skabelonen kunne ikke geninstalleres.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Vælg venligst en gyldig skabelon.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Du skal bekræfte, at du forstår geninstallationshandlingen for at kunne udføre geninstallationen af skabelonen.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Indtast venligst antallet af noder, der skal tildeles.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Vælg, om du vil tillade en klient at indstille en sky.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Vælg venligst en gyldig sky.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Vælg, om du vil tillade en klient at indstille operativsystemet.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Vælg venligst et gyldigt operativsystem.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Vælg, om du vil tillade en klient at indstille skabelonen.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Vælg venligst en gyldig skabelon.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Værtsnavnet ser ud til at være ugyldigt.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Indtast venligst en etiket.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Etiketten må ikke indeholde specialtegn.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Vælg venligst en gyldig sky.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Vælg venligst et gyldigt operativsystem.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Vælg venligst en gyldig skabelon.';
+

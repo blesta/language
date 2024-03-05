@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.nl_nl
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Selecteer een geldig sjabloon.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Selecteer een geldig besturingssysteem.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Selecteer een geldige cloud.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Het label mag geen speciale tekens bevatten.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Voer een label in.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'De hostnaam lijkt ongeldig te zijn.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Selecteer een geldig sjabloon.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Selecteer of een klant de sjabloon mag instellen.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Selecteer een geldig besturingssysteem.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Selecteer of een client het besturingssysteem mag instellen.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Selecteer een geldige cloud.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Selecteer of een klant een cloud mag instellen.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Voer het aantal nodes in dat moet worden toegewezen.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'U moet bevestigen dat u de herinstallatieactie begrijpt om de sjabloon opnieuw te kunnen installeren.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Selecteer een geldig sjabloon.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Er is een fout opgetreden en de sjabloon kon niet opnieuw worden geïnstalleerd.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Er is een fout opgetreden en de service kon niet worden geannuleerd.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Er is een fout opgetreden en de actie kon niet worden uitgevoerd.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Er is een fout opgetreden en de virtuele machine kon niet worden bijgewerkt.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Kan vereiste knooppunten niet toevoegen.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Er kon geen verbinding worden gemaakt met de server. Controleer of het e-mailadres en de API-sleutel correct zijn.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Voer uw API-sleutel in.';
+$lang['Vpsdotnet.!error.email.format'] = 'Voer een geldig e-mailadres in.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Voer een label in voor deze server.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Wachtwoord';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Console';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Wachtwoord:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Console';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Wachtwoord opnieuw instellen';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Wachtwoord opnieuw instellen';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Hostnaam wijzigen';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Hostnaam';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Hostnaam wijzigen';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Installeer  opnieuw';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Ik begrijp dat bij herinstallatie alle gegevens op de server permanent worden verwijderd en het geselecteerde besturingssysteem en sjabloon worden geïnstalleerd.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Sjabloon';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Besturingssysteem';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Installeer  opnieuw';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Serveracties';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Onbekend';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'In afwachting van';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Serverstatus';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Wachtwoord opnieuw instellen';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Wachtwoord opnieuw instellen';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Hostnaam wijzigen';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Hostnaam';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Hostnaam wijzigen';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Installeer  opnieuw';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Ik begrijp dat bij herinstallatie alle gegevens op de server permanent worden verwijderd en het geselecteerde besturingssysteem en sjabloon worden geïnstalleerd.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Sjabloon';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Besturingssysteem';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Installeer  opnieuw';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Serverstatus';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Acties';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Onbekend';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'In afwachting van';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.!actions.password'] = 'Wachtwoord opnieuw instellen';
+$lang['Vpsdotnet.!actions.hostname'] = 'Hostnaam wijzigen';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Installeer  opnieuw';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Afsluiten';
+$lang['Vpsdotnet.!actions.reboot'] = 'Herstart';
+$lang['Vpsdotnet.!actions.boot'] = 'Laars';
+$lang['Vpsdotnet.tab_client_console'] = 'Console';
+$lang['Vpsdotnet.tab_client_actions'] = 'Serveracties';
+$lang['Vpsdotnet.tab_console'] = 'Console';
+$lang['Vpsdotnet.tab_actions'] = 'Serveracties';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Sjabloon';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Besturingssysteem';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Wolk/Zone';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS label';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Hostnaam';
+$lang['Vpsdotnet.package_fields.template'] = 'Sjabloon';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Selecteer sjabloon';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Laat klant sjabloon instellen';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Besturingssysteem';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Selecteer besturingssysteem';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Laat client besturingssysteem en sjabloon instellen';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Wolk/Zone';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Selecteer een Cloud/Zone';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Laat klant Cloud/Zone, besturingssysteem en sjabloon instellen';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Aantal knooppunten';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Server bijwerken';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Basisinstellingen';
+$lang['Vpsdotnet.edit_row.box_title'] = 'VPS.NET server bewerken';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Server toevoegen';
+$lang['Vpsdotnet.row_meta.key'] = 'API-sleutel';
+$lang['Vpsdotnet.row_meta.email'] = 'E-mail';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Serverlabel';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Basisinstellingen';
+$lang['Vpsdotnet.add_row.box_title'] = 'VPS.NET server toevoegen';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Wachtwoord';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Primair IP-adres';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Er zijn geen servergroepen.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Weet je zeker dat je deze servergroep wilt verwijderen?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Verwijder';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Bewerk';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Opties';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Aantal servers';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Naam groep';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'VPS.NET Hoofdservergroepen';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Er zijn geen servers.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Weet je zeker dat je deze server wilt verwijderen?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Verwijder';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Bewerk';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Opties';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'E-mail';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Serverlabel';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'VPS.NET Hoofdservers';
+$lang['Vpsdotnet.add_module_group'] = 'Servergroep toevoegen';
+$lang['Vpsdotnet.add_module_row'] = 'Server toevoegen';
+$lang['Vpsdotnet.please_wait'] = 'Even geduld...';
+$lang['Vpsdotnet.order_options.first'] = 'Eerste niet-volledige server';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET Hoofdgroep';
+$lang['Vpsdotnet.module_row_plural'] = 'Servers';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET Hoofdserver';
+$lang['Vpsdotnet.description'] = 'VPS.NET biedt gevirtualiseerde serverhosting.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

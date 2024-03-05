@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.nl_nl
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Instellingen bijwerken';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefoon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-mail';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Postcode';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Staat/provincie';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Land';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Stad';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adres 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adres 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Titel';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Bedrijf/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Achternaam';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Voornaam';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Alleen lezen';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Toon';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Vereist';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Veld';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Vink de velden aan die verplicht moeten zijn bij het maken of bijwerken van een klant of contactpersoon.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Vereiste klantvelden';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Instellingen > Bedrijf > Klantopties > Klant aangepaste velden > Vereiste klantvelden';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Aangepaste Regex';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Ja';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Geen';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Verwijder';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Standaard';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Optie Naam';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Waarde';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Extra optie toevoegen';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standaard tekstwaarde';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standaardwaarde Gecontroleerd';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Waarde';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Aangepast veld bewerken';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Waarden coderen';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Aangepaste Regex';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Vereist';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Alleen lezen voor klanten';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Zichtbaar voor klanten';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Naam is een taaldefinitie';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Naam';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Aangepast veld bewerken';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Instellingen > Bedrijf > Klantopties > Aangepaste velden klant > Aangepast veld bewerken';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Verwijder';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Standaard';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Optie Naam';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Waarde';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Extra optie toevoegen';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Het verplicht stellen van dit veld, maar het niet zichtbaar maken voor klanten, zal ertoe leiden dat klanten zich niet kunnen registreren of hun accountgegevens niet kunnen bijwerken.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standaard tekstwaarde';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standaardwaarde Gecontroleerd';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Waarde';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Aangepast veld toevoegen';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Waarden coderen';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Aangepaste Regex';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Vereist';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Alleen lezen voor klanten';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Zichtbaar voor klanten';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Naam is een taaldefinitie';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Naam';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Klantengroep';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Aangepast veld toevoegen';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Instellingen > Bedrijf > Klantopties > Klant aangepaste velden > Aangepast veld toevoegen';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Er zijn geen aangepaste velden.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Als je dit aangepaste veld verwijdert, worden alle gegevens verwijderd die ervoor zijn opgeslagen voor elke klant binnen deze groep. Weet je zeker dat je dit aangepaste veld wilt verwijderen?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Verwijder';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Bewerk';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Opties';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Alleen lezen voor klanten';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Zichtbaar voor klanten';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Vereist';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Type';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Naam';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Maak veld';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Aangepaste velden van klanten doorbladeren';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Instellingen > Bedrijf > Klantopties > Aangepaste velden klant > Bladeren';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Stuur  in';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Voorkom betalingen van niet-geverifieerde klanten';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Klant-ID Verhoogingswaarde';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Klant-ID Beginwaarde';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Klant-ID-indeling';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'E-mailverificatie inschakelen';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'E-mailgebruikersnamen forceren';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Alle contactpersonen';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Primaire contacten';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Geen.';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Unieke e-mailadressen voor contactpersonen afdwingen';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Algemene clientinstellingen';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Instellingen > Bedrijf > Klantopties > Algemeen';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'De waarde van de aangevinkte optie is de standaardwaarde die wordt geselecteerd wanneer deze optie wordt toegevoegd voor een klant.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Als dit is aangevinkt, wordt dit selectievakje standaard aangevinkt wanneer dit aangepaste veld wordt toegevoegd voor een klant.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'De tekst die hier wordt ingevoerd, is de standaardwaarde die is ingesteld voor deze optie wanneer dit aangepaste veld wordt toegevoegd voor een klant.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'De waarde die wordt verzonden wanneer het selectievakje is ingeschakeld.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Vink dit vakje aan om de waarde versleuteld op te slaan. Dit wordt sterk aangeraden als je gevoelige of persoonlijk identificeerbare informatie opslaat.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Deze optie wordt weergegeven als "Vereist" is ingesteld op "Aangepaste Regex". Voer hier de aangepaste reguliere expressie in om te valideren voor dit veld.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Selecteer "Ja" om ervoor te zorgen dat er een waarde wordt gegeven voor dit veld, voor Drop Down types moet de optie verschijnen in de lijst met opties. Selecteer "Nee" om een willekeurige waarde voor dit veld te accepteren. Selecteer "Aangepaste Regex" om een aangepaste reguliere expressie te gebruiken om dit veld te valideren.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Als je dit vakje aanvinkt, kan dit aangepaste veld niet worden gewijzigd door de klant. Alleen-lezen velden worden automatisch ingesteld op de toegewezen standaardwaarde.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Vink aan om clients toe te staan dit veld te zien en bij te werken.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Het aangepaste veld verschijnt als het geselecteerde formuliertype.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Een aangepaste link die kan worden ingevoegd in de naam van het veld. Zet de tekst waarop je de link wilt toepassen tussen vierkante haken (bijvoorbeeld [termen]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Schakel dit vakje alleen in als je een taaldefinitie voor dit aangepaste veld hebt toegevoegd in het bestand Aangepaste taal.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Dit is de weergavenaam voor dit veld. Het kan een taaldefinitie zijn.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Het aangepaste veld is alleen van toepassing op leden van de geselecteerde klantgroep.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Nummers van daaropvolgende Client ID\'s worden met deze waarde verhoogd.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Client ID Start is de beginwaarde voor Client ID\'s. Nieuwe clients krijgen deze waarde, tenzij hij lager is dan de waarde van de laatst aangemaakte Client ID. Nieuwe cliënten hebben deze waarde, tenzij deze lager is dan de waarde van de laatst aangemaakte cliënt.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Client ID Format is het formaat van de Client ID. Een waarde van ABC-{num} zal resulteren in een Client ID van ABC-1500 waarbij 1500 de ID-waarde van de klant is.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Vink aan om een e-mail ter verificatie te sturen wanneer een nieuwe aanmelding wordt gemaakt of wanneer een klant zijn e-mailadres wijzigt. Er verschijnt een melding op het profiel van de klant totdat hij is geverifieerd.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Klanten moeten hun e-mailadres als gebruikersnaam gebruiken in plaats van zelf een gebruikersnaam te definiëren. Bestaande klanten kunnen nog steeds inloggen met hun huidige gebruikersnaam.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Beperkt e-mailadressen voor contactpersonen. Primaire contactpersonen betekent dat geen twee primaire contactpersonen (d.w.z. klanten) hetzelfde e-mailadres kunnen hebben. Alle contactpersonen betekent dat geen enkele contactpersoon hetzelfde e-mailadres kan hebben als een andere contactpersoon.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Wees voorzichtig met het selecteren van een staat/provincie. Sommige landen hebben geen staten. Klanten in die landen kunnen hun contactgegevens dan niet opslaan. We raden aan dit veld niet verplicht te stellen.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Als deze optie is aangevinkt, kan het veld niet worden gewijzigd door de client als het gegevens bevat.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'De indeling Client ID moet {num} bevatten.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'OPMERKING: Deze instellingen zijn alleen van toepassing op klantgroepen die hun instellingen erven van het bedrijf.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'De algemene instellingen zijn succesvol bijgewerkt.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'De vereiste velden zijn bijgewerkt.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Het aangepaste veld van de klant is verwijderd.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Het aangepaste veld voor de klant is succesvol aangemaakt.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Het aangepaste veld van de klant is bijgewerkt.';
+

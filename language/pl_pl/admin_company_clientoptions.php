@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.pl_pl
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Ustawienia aktualizacji';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Faks';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-mail';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Kod pocztowy';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Państwo/Prowincja';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Kraj';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Miasto';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adres 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adres 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Tytuł';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Firma/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Nazwisko';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Imię';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Tylko do odczytu';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Pokaż';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Wymagane';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Pole';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Zaznacz pola, które powinny być wymagane podczas tworzenia lub aktualizacji klienta lub kontaktu.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Wymagane pola klienta';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Ustawienia > Firma > Opcje klienta > Niestandardowe pola klienta > Wymagane pola klienta';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Regex niestandardowy';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Tak';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Nie';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Usunąć';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Domyślne';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Nazwa opcji';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Wartość';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Dodaj dodatkową opcję';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Domyślna wartość tekstowa';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Sprawdzona wartość domyślna';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Wartość';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Edytuj pole niestandardowe';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Szyfrowanie wartości';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex niestandardowy';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Wymagane';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Tylko do odczytu dla klientów';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Widoczny dla klientów';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Typ';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Nazwa jest definicją języka';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Nazwa';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Edytuj pole niestandardowe';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Ustawienia > Firma > Opcje klienta > Pola niestandardowe klienta > Edytuj pole niestandardowe';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Usunąć';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Domyślne';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Nazwa opcji';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Wartość';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Dodaj dodatkową opcję';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Wymaganie tego pola bez udostępniania go klientom spowoduje, że klienci nie będą mogli zarejestrować się lub zaktualizować informacji o swoim koncie.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Domyślna wartość tekstowa';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Sprawdzona wartość domyślna';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Wartość';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Dodaj pole niestandardowe';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Szyfrowanie wartości';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex niestandardowy';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Wymagane';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Tylko do odczytu dla klientów';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Widoczny dla klientów';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Typ';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Nazwa jest definicją języka';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Nazwa';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Grupa klientów';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Dodaj pole niestandardowe';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Ustawienia > Firma > Opcje klienta > Pola niestandardowe klienta > Dodaj pole niestandardowe';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Nie ma pól niestandardowych.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Usunięcie tego pola niestandardowego spowoduje usunięcie wszystkich zapisanych w nim danych dla każdego klienta w tej grupie. Czy na pewno chcesz usunąć to pole niestandardowe?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Usuń';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Edytuj';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Opcje';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Tylko do odczytu dla klientów';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Widoczny dla klientów';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Wymagane';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nazwa';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Utwórz pole';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Przeglądaj pola niestandardowe klienta';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Ustawienia > Firma > Opcje klienta > Pola niestandardowe klienta > Przeglądaj';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Prześlij';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Zapobieganie płatnościom od niezweryfikowanych klientów';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Wartość przyrostu identyfikatora klienta';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID klienta Wartość początkowa';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Format identyfikatora klienta';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Włącz weryfikację e-mail';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Wymuszanie nazw użytkowników poczty e-mail';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Wszystkie kontakty';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Główne kontakty';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Brak';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Wymuszanie unikalnych kontaktowych adresów e-mail';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Ogólne ustawienia klienta';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Ustawienia > Firma > Opcje klienta > Ogólne';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Zaznaczona wartość opcji będzie wartością domyślną wybraną po dodaniu tej opcji dla klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Jeśli jest zaznaczone, to pole wyboru będzie domyślnie zaznaczone, gdy to pole niestandardowe zostanie dodane dla klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Wprowadzony tutaj tekst będzie domyślną wartością ustawioną dla tej opcji, gdy to pole niestandardowe zostanie dodane dla klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Wartość przesłana, gdy pole wyboru jest zaznaczone.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Zaznacz to pole, aby przechowywać wartość zaszyfrowaną. Jest to wysoce zalecane w przypadku przechowywania jakichkolwiek poufnych lub identyfikujących dane osobowe informacji.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Ta opcja pojawi się, jeśli opcja "Wymagane" jest ustawiona na "Niestandardowe wyrażenie regularne". Wprowadź tutaj niestandardowe wyrażenie regularne do sprawdzenia poprawności tego pola.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Wybierz "Yes" (Tak), aby upewnić się, że dla tego pola podano wartość, w przypadku typów rozwijanych opcja musi pojawić się na liście opcji. Wybierz "No", aby zaakceptować dowolną wartość dla tego pola. Wybierz "Custom Regex", aby użyć niestandardowego wyrażenia regularnego do sprawdzenia poprawności tego pola.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Zaznaczenie tego pola spowoduje, że klient nie będzie mógł zmienić tego pola niestandardowego. Pola tylko do odczytu zostaną automatycznie ustawione na przypisaną im wartość domyślną.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Zaznacz, aby zezwolić klientom na wyświetlanie i aktualizowanie tego pola.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Pole niestandardowe pojawi się jako wybrany typ formularza.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Niestandardowy link, który można wstawić do nazwy pola. Umieść tekst, do którego chcesz zastosować łącze, w nawiasach kwadratowych (np. [terms]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'To pole należy zaznaczyć tylko w przypadku dodania definicji języka dla tego pola niestandardowego w pliku języka niestandardowego.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Jest to nazwa wyświetlana dla tego pola. Może to być definicja języka.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Pole niestandardowe będzie miało zastosowanie tylko do członków wybranej grupy klientów.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Kolejne numery Client ID będą zwiększane o tę wartość.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Client ID Start to wartość początkowa dla ID klienta. Nowi klienci będą mieli tę wartość, chyba że jest ona mniejsza niż wartość ostatnio utworzonego klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Client ID Format to format identyfikatora klienta. Wartość ABC-{num} spowoduje wyświetlenie identyfikatora klienta ABC-1500, gdzie 1500 to wartość identyfikatora klienta.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Zaznacz, aby wysyłać e-mail weryfikacyjny po utworzeniu nowego loginu lub zmianie adresu e-mail przez klienta. Powiadomienie pojawi się na profilu klienta, dopóki nie zostanie on zweryfikowany.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Klienci muszą używać swojego adresu e-mail jako nazwy użytkownika, zamiast definiować własną. Obecni klienci mogą nadal logować się przy użyciu bieżącej nazwy użytkownika.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Ogranicza adresy e-mail dla kontaktów. Kontakty podstawowe oznaczają, że żadne dwa kontakty podstawowe (np. klienci) nie mogą mieć tego samego adresu e-mail. Wszystkie kontakty oznacza, że żaden kontakt dowolnego typu nie może mieć tego samego adresu e-mail co inny kontakt.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Należy zachować ostrożność, gdy wymagane jest wybranie stanu/prowincji. Niektóre kraje nie mają żadnych stanów. Klienci w tych krajach nie będą mogli zapisać swoich danych kontaktowych. Zalecamy niewymaganie tego pola.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Jeśli zaznaczone, pole nie może być modyfikowane przez klienta, jeśli zawiera jakiekolwiek dane.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Format identyfikatora klienta musi zawierać {num}.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'UWAGA: Te ustawienia mają zastosowanie tylko do grup klientów, które dziedziczą swoje ustawienia od firmy.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Ustawienia ogólne zostały pomyślnie zaktualizowane.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Wymagane pola zostały pomyślnie zaktualizowane.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Pole niestandardowe klienta zostało pomyślnie usunięte.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Pole niestandardowe klienta zostało pomyślnie utworzone.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Pole niestandardowe klienta zostało pomyślnie zaktualizowane.';
+

@@ -1,0 +1,22 @@
+<?php
+/**
+ * Config
+ *
+ * @package blesta
+ * @subpackage blesta.language.da_dk
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Config.!error.invalid_pricing_id'] = 'Den angivne pakke blev ikke fundet.';
+$lang['Config.!error.invalid_module'] = 'Pakken er ikke tilgængelig i øjeblikket.';
+$lang['Config.!error.domain_duplicated'] = 'Domænet "%1$s" er allerede i din indkøbskurv.';
+$lang['Config.!error.invalid_domain_term'] = 'Den valgte term for domænet "%1$s" er ugyldig.';
+$lang['Config.index.package_price'] = '%1$s @ %2$s';
+$lang['Config.index.package_price_recurring'] = '%1$s @ %2$s (fornyes @ %3$s)';
+$lang['Config.index.field_module_group_id'] = 'Gruppe';
+$lang['Config.index.field_default_addon'] = 'Ingen';
+$lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
+$lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, fornyes @ %4$s)';
+

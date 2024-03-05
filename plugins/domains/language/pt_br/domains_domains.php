@@ -1,0 +1,14 @@
+<?php
+/**
+ * Domains Domains
+ *
+ * @package blesta
+ * @subpackage blesta.language.pt_br
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['DomainsDomains.!error.invalid_term'] = 'Esse domínio não pode ser renovado pelo número de anos selecionado.';
+$lang['DomainsDomains.!error.invoices_renew_service'] = 'O domínio não pode ser renovado até que todas as faturas contendo esse domínio tenham sido pagas.';
+

@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.fr_fr
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Le champ personnalisé du client a été mis à jour avec succès.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Le champ personnalisé du client a été créé avec succès.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Le champ personnalisé du client a été supprimé avec succès.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Les champs obligatoires ont été mis à jour avec succès.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Les paramètres généraux ont été mis à jour avec succès.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'NOTE : Ces paramètres ne s\'appliquent qu\'aux groupes de clients qui héritent de leurs paramètres de la société.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Le format d\'identification du client doit contenir {num}.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Si cette case est cochée, le champ ne peut pas être modifié par le client s\'il contient des données.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Soyez prudent lorsque vous exigez la sélection d\'un État ou d\'une province. Certains pays n\'ont pas d\'État. Les clients de ces pays ne pourraient pas enregistrer leurs coordonnées. Nous recommandons de ne pas exiger ce champ.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Limite les adresses électroniques des contacts. Contacts principaux signifie que deux contacts principaux (c\'est-à-dire des clients) ne peuvent pas avoir la même adresse électronique. Tous les contacts signifie qu\'aucun contact, quel qu\'il soit, ne peut avoir la même adresse électronique qu\'un autre contact.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Les clients doivent utiliser leur adresse électronique comme nom d\'utilisateur plutôt que de définir leur propre nom. Les clients existants peuvent toujours se connecter avec leur nom d\'utilisateur actuel.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Cochez cette case pour envoyer un email de vérification lorsqu\'un nouveau login est créé ou qu\'un client change d\'adresse email. Un avis apparaîtra sur le profil du client jusqu\'à ce qu\'il soit vérifié.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Format de l\'ID du client est le format de l\'ID du client. Une valeur de ABC-{num} donnera un ID client de ABC-1500 où 1500 est la valeur de l\'ID du client.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Début de l\'ID du client est la valeur de départ pour les ID des clients. Les nouveaux clients auront cette valeur, à moins qu\'elle ne soit inférieure à la valeur du dernier client créé.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Les numéros d\'identification des clients suivants seront incrémentés de cette valeur.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Le champ personnalisé ne s\'appliquera qu\'aux membres du groupe de clients sélectionné.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Il s\'agit du nom d\'affichage de ce champ. Il peut s\'agir d\'une définition linguistique.';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Ne cochez cette case que si vous avez ajouté une définition de langue pour ce champ personnalisé dans le fichier de langues personnalisé.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Un lien personnalisé qui peut être inséré dans le nom du champ. Mettez entre crochets le texte auquel vous souhaitez appliquer le lien (par exemple, [termes]).';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Le champ personnalisé apparaît comme le type de formulaire sélectionné.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Cochez cette case pour permettre aux clients de voir et de mettre à jour ce champ.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'En cochant cette case, le champ personnalisé ne pourra pas être modifié par le client. Les champs en lecture seule prendront automatiquement la valeur par défaut qui leur a été attribuée.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Sélectionnez "Oui" pour vous assurer qu\'une valeur est donnée pour ce champ. Pour les types de listes déroulantes, l\'option doit apparaître dans la liste des options. Sélectionnez "Non" pour accepter n\'importe quelle valeur pour ce champ. Sélectionnez "Custom Regex" pour utiliser une expression régulière personnalisée afin de valider ce champ.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Cette option apparaît si l\'option "Requis" est réglée sur "Expression régulière personnalisée". Saisissez ici l\'expression régulière personnalisée à valider pour ce champ.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Cochez cette case pour stocker la valeur cryptée. Ceci est fortement recommandé si vous stockez des informations sensibles ou des informations d\'identification personnelle.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Valeur soumise lorsque la case est cochée.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Le texte saisi ici sera la valeur par défaut définie pour cette option lorsque ce champ personnalisé sera ajouté pour un client.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Si elle est cochée, cette case sera cochée par défaut lorsque ce champ personnalisé sera ajouté pour un client.';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'La valeur de l\'option cochée sera la valeur par défaut sélectionnée lorsque cette option est ajoutée pour un client.';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Réglages > Entreprise > Options du client > Général';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Paramètres généraux du client';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Renforcer l\'unicité des adresses électroniques des contacts';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Aucun...';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Contacts principaux';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Tous les contacts';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Forcer les noms d\'utilisateur des courriels';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Activer la vérification du courrier électronique';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Format de l\'identifiant du client';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID du client Valeur de départ';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Valeur d\'incrémentation de l\'ID du client';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Empêcher les paiements provenant de clients non vérifiés';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Soumettre';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Paramètres > Société > Options du client > Champs personnalisés du client > Parcourir';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Parcourir les champs personnalisés des clients';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Créer un champ';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nom';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Type';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Exigée';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Visible pour les clients';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Lecture seule pour les clients';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Options';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Editer';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Supprimer';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'En supprimant ce champ personnalisé, vous supprimez toutes les données qui y sont enregistrées pour chaque client de ce groupe. Êtes-vous sûr de vouloir supprimer ce champ personnalisé ?';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Il n\'y a pas de champs personnalisés.';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Paramètres > Entreprise > Options du client > Champs personnalisés du client > Ajouter un champ personnalisé';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Ajouter un champ personnalisé';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Groupe de clients';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Nom';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Le nom est une définition de la langue';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Lien';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Visible pour les clients';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Lecture seule pour les clients';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Exigée';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex personnalisées';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Chiffrer les valeurs';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Ajouter un champ personnalisé';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Valeur';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Valeur par défaut vérifiée';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Valeur du texte par défaut';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Le fait d\'exiger ce champ sans le rendre visible pour les clients aura pour conséquence que ces derniers ne pourront pas s\'inscrire ou mettre à jour les informations relatives à leur compte.';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Ajouter une option supplémentaire';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Valeur';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Nom de l\'option';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Défaut';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Retirer';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Paramètres > Entreprise > Options du client > Champs personnalisés du client > Modifier le champ personnalisé';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Modifier un champ personnalisé';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Nom';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Le nom est une définition de la langue';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Lien';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Visible pour les clients';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Lecture seule pour les clients';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Exigée';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex personnalisées';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Chiffrer les valeurs';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Modifier un champ personnalisé';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Valeur';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Valeur par défaut vérifiée';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Valeur du texte par défaut';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Ajouter une option supplémentaire';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Valeur';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Nom de l\'option';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Défaut';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Retirer';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Non';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Oui';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Regex personnalisées';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Paramètres > Société > Options du client > Champs personnalisés du client > Champs obligatoires du client';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Champs obligatoires pour le client';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Cochez les champs qui doivent être obligatoires lors de la création ou de la mise à jour d\'un client ou d\'un contact.';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Champ d\'application';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Exigée';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Afficher';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Lecture seule';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Prénom';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Nom de famille';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Entreprise/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Titre';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adresse 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adresse 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Ville';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Pays';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'État/Province';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Code postal';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Courriel';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Téléphone';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Mise à jour des paramètres';
+

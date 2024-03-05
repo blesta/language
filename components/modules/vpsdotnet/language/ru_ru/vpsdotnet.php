@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.ru_ru
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Пожалуйста, выберите правильный шаблон.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Пожалуйста, выберите подходящую операционную систему.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Пожалуйста, выберите подходящее облако.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Этикетка не может содержать специальных символов.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Пожалуйста, введите этикетку.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Похоже, что имя хоста недействительно.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Пожалуйста, выберите правильный шаблон.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Пожалуйста, выберите, разрешить ли клиенту устанавливать шаблон.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Пожалуйста, выберите подходящую операционную систему.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Пожалуйста, выберите, разрешить ли клиенту устанавливать операционную систему.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Пожалуйста, выберите подходящее облако.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Пожалуйста, выберите, разрешить ли клиенту устанавливать облако.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Укажите количество узлов, которые необходимо выделить.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Чтобы выполнить переустановку шаблона, необходимо подтвердить, что вы понимаете действия по переустановке.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Пожалуйста, выберите правильный шаблон.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Произошла ошибка, и шаблон не удалось переустановить.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Произошла ошибка, и отменить услугу не удалось.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Произошла ошибка, и действие не может быть выполнено.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Произошла ошибка, и виртуальная машина не может быть обновлена.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Невозможно добавить необходимые узлы.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Не удалось установить соединение с сервером. Убедитесь, что адрес электронной почты и ключ API указаны правильно.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Пожалуйста, введите свой ключ API.';
+$lang['Vpsdotnet.!error.email.format'] = 'Пожалуйста, введите действительный адрес электронной почты.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Пожалуйста, введите метку для этого сервера.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Пароль';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Консоль';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Пароль:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Консоль';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Сброс пароля';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Сброс пароля';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Изменить имя хоста';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Имя хоста';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Изменить имя хоста';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Переустановите';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Я понимаю, что при переустановке все данные на сервере будут безвозвратно удалены, и будет установлена выбранная операционная система и шаблон.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Шаблон';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Операционная система';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Переустановите';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Действия сервера';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Неизвестный';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'В ожидании';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Онлайн';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Состояние сервера';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Сброс пароля';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Сброс пароля';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Изменить имя хоста';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Имя хоста';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Изменить имя хоста';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Переустановите';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Я понимаю, что при переустановке все данные на сервере будут безвозвратно удалены, и будет установлена выбранная операционная система и шаблон.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Шаблон';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Операционная система';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Переустановите';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Состояние сервера';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Действия';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Неизвестный';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'В ожидании';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Онлайн';
+$lang['Vpsdotnet.!actions.password'] = 'Сброс пароля';
+$lang['Vpsdotnet.!actions.hostname'] = 'Изменить имя хоста';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Переустановите';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Выключение';
+$lang['Vpsdotnet.!actions.reboot'] = 'Перезагрузка';
+$lang['Vpsdotnet.!actions.boot'] = 'Сапог';
+$lang['Vpsdotnet.tab_client_console'] = 'Консоль';
+$lang['Vpsdotnet.tab_client_actions'] = 'Действия сервера';
+$lang['Vpsdotnet.tab_console'] = 'Консоль';
+$lang['Vpsdotnet.tab_actions'] = 'Действия сервера';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Шаблон';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Операционная система';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Облако/зона';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS Label';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Имя хоста';
+$lang['Vpsdotnet.package_fields.template'] = 'Шаблон';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Выберите шаблон';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Пусть клиент установит шаблон';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Операционная система';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Выберите операционную систему';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Позвольте клиенту установить операционную систему и шаблон';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Облако/зона';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Выберите облако/зону';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Позвольте клиенту установить облако/зону, операционную систему и шаблон';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Количество узлов';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Сервер обновлений';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Основные настройки';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Редактирование сервера VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Добавить сервер';
+$lang['Vpsdotnet.row_meta.key'] = 'Ключ API';
+$lang['Vpsdotnet.row_meta.email'] = 'Электронная почта';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Ярлык сервера';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Основные настройки';
+$lang['Vpsdotnet.add_row.box_title'] = 'Добавить сервер VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Пароль';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Основной IP-адрес';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Групп серверов не существует.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Вы уверены, что хотите удалить эту группу серверов?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Удалить';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Редактировать';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Опции';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Количество серверов';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Название группы';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'Группы главных серверов VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Здесь нет серверов.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Вы уверены, что хотите удалить этот сервер?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Удалить';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Редактировать';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Опции';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Электронная почта';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Ярлык сервера';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'Мастер-серверы VPS.NET';
+$lang['Vpsdotnet.add_module_group'] = 'Добавить группу серверов';
+$lang['Vpsdotnet.add_module_row'] = 'Добавить сервер';
+$lang['Vpsdotnet.please_wait'] = 'Пожалуйста, подождите...';
+$lang['Vpsdotnet.order_options.first'] = 'Первый неполный сервер';
+$lang['Vpsdotnet.module_group'] = 'Мастер-группа VPS.NET';
+$lang['Vpsdotnet.module_row_plural'] = 'Серверы';
+$lang['Vpsdotnet.module_row'] = 'Главный сервер VPS.NET';
+$lang['Vpsdotnet.description'] = 'VPS.NET предоставляет услуги виртуализированного хостинга серверов.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

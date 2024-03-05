@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.da_dk
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Det brugerdefinerede klientfelt er blevet opdateret.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Det brugerdefinerede klientfelt er blevet oprettet.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Det brugerdefinerede klientfelt er blevet slettet.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'De påkrævede felter er blevet opdateret.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'De generelle indstillinger er blevet opdateret.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'BEMÆRK: Disse indstillinger gælder kun for klientgrupper, der arver deres indstillinger fra virksomheden.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Klient-ID-formatet skal indeholde {num}.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Hvis markeret, kan feltet ikke ændres af klienten, hvis det indeholder data.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Vær forsigtig, når du kræver, at der vælges en stat/provins. Nogle lande har ikke nogen stater. Kunder i disse lande vil ikke kunne gemme deres kontaktoplysninger. Vi anbefaler ikke at kræve dette felt.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Begrænser e-mailadresser for kontakter. Primære kontakter betyder, at ingen to primære kontakter (dvs. klienter) kan have samme e-mailadresse. Alle kontakter betyder, at ingen kontakter af nogen type kan have den samme e-mailadresse som en anden kontakt.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Kunder skal bruge deres e-mailadresse som brugernavn i stedet for at definere deres eget. Eksisterende kunder kan stadig logge ind med deres nuværende brugernavn.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Markér for at sende en e-mailbekræftelse, når der oprettes et nyt login, eller en klient ændrer sin e-mailadresse. Der vises en meddelelse på klientens profil, indtil den er verificeret.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Client ID Format er formatet for klient-ID\'et. En værdi på ABC-{num} vil resultere i et klient-ID på ABC-1500, hvor 1500 er klientens ID-værdi.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Client ID Start er startværdien for Client ID\'er. Nye klienter vil have denne værdi, medmindre den er mindre end værdien for den senest oprettede klient.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Efterfølgende klient-ID\'er øges med denne værdi.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Det brugerdefinerede felt gælder kun for medlemmer af den valgte kundegruppe.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Dette er visningsnavnet for dette felt. Det kan være en sprogdefinition.';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Markér kun denne boks, hvis du har tilføjet en sprogdefinition for dette brugerdefinerede felt i den brugerdefinerede sprogfil.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Et brugerdefineret link, der kan indsættes i feltets navn. Sæt den tekst, du vil anvende linket til, i firkantede parenteser (f.eks. [termer]).';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Det brugerdefinerede felt vises som den valgte formulartype.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Markér for at give kunderne mulighed for at se og opdatere dette felt.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Hvis du markerer denne boks, kan klienten ikke ændre dette brugerdefinerede felt. Skrivebeskyttede felter vil automatisk blive indstillet til deres tildelte standardværdi.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Vælg "Ja" for at sikre, at der angives en værdi for dette felt, for Drop Down-typer skal valgmuligheden vises på listen over valgmuligheder. Vælg "Nej" for at acceptere en hvilken som helst værdi for dette felt. Vælg "Custom Regex" for at bruge et brugerdefineret regulært udtryk til at validere dette felt.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Denne mulighed vises, hvis "Required" er indstillet til "Custom Regex". Indtast det brugerdefinerede regulære udtryk, der skal valideres for dette felt her.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Markér dette felt for at gemme værdien krypteret. Dette anbefales stærkt, hvis du gemmer følsomme eller personligt identificerbare oplysninger.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Den værdi, der sendes, når afkrydsningsfeltet er markeret.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Den tekst, der indtastes her, vil være standardværdien for denne mulighed, når dette brugerdefinerede felt tilføjes for en klient.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Hvis det er markeret, vil dette afkrydsningsfelt være markeret som standard, når dette brugerdefinerede felt tilføjes til en klient.';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Den markerede værdi vil være den standardværdi, der vælges, når denne mulighed tilføjes til en klient.';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Indstillinger > Firma > Klientindstillinger > Generelt';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Generelle klientindstillinger';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Håndhæv unikke kontakt-e-mailadresser';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Ingen...';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Primære kontakter';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Alle kontakter';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Tving e-mail-brugernavne';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Aktivér bekræftelse af e-mail';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Klient-ID-format';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Klient-ID Startværdi';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Klient-id-inkrementværdi';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Forhindre betalinger fra ubekræftede kunder';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Indsend';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Indstillinger > Firma > Klientindstillinger > Klientdefinerede felter > Gennemse';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Gennemse klientens brugerdefinerede felter';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Opret felt';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Navn';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Type';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Påkrævet';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Synlig for kunderne';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Kun læsning for klienter';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Valgmuligheder';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Rediger';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Slet';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Hvis du sletter dette brugerdefinerede felt, slettes alle data, der er gemt i det, for hver klient i denne gruppe. Er du sikker på, at du vil slette dette brugerdefinerede felt?';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Der er ingen brugerdefinerede felter.';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Indstillinger > Firma > Klientindstillinger > Klienttilpassede felter > Tilføj tilpasset felt';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Tilføj brugerdefineret felt';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Kundegruppe';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Navn';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Navn er en sprogdefinition';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Synlig for kunderne';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Kun læsning for klienter';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Påkrævet';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Brugerdefineret Regex';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Krypter værdier';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Tilføj brugerdefineret felt';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Værdi';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standardværdi Kontrolleret';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standard tekstværdi';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Hvis du kræver dette felt, men ikke gør det synligt for kunderne, vil det resultere i, at kunderne ikke kan registrere eller opdatere deres kontooplysninger.';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Tilføj ekstra mulighed';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Værdi';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Valgmulighed Navn';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Standard';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Fjern';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Indstillinger > Firma > Klientindstillinger > Klienttilpassede felter > Rediger tilpasset felt';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Rediger brugerdefineret felt';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Navn';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Navn er en sprogdefinition';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Type';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Synlig for kunderne';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Kun læsning for klienter';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Påkrævet';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Brugerdefineret Regex';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Krypter værdier';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Rediger brugerdefineret felt';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Værdi';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standardværdi Kontrolleret';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standard tekstværdi';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Tilføj ekstra mulighed';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Værdi';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Valgmulighed Navn';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Standard';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Fjern';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Nej, det er det ikke';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Ja';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Brugerdefineret Regex';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Indstillinger > Firma > Kundeindstillinger > Brugerdefinerede kundefelter > Påkrævede kundefelter';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Påkrævede kundefelter';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Marker de felter, der skal være obligatoriske, når du opretter eller opdaterer en klient eller kontakt.';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Mark';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Påkrævet';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Vis';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Kun læsning';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Fornavn';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Efternavn';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Virksomhed/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Titel';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adresse 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adresse 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'By';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Land';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Stat/provins';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Postnummer';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-mail';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Opdater indstillinger';
+
