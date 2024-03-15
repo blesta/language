@@ -3,7 +3,7 @@
     "description": "AI translations for the Blesta billing software",
     "keywords": ["billing", "language"],
     "homepage": "http://github.com/blesta/language",
-    "type": "blesta-plugin",
+    "type": "blesta-language",
     "require": {
         "blesta/composer-installer": "~1.2"
     },
