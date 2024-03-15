@@ -1,0 +1,13 @@
+{
+    "name": "blesta/language",
+    "description": "AI translations for the Blesta billing software",
+    "keywords": ["billing", "language"],
+    "homepage": "http://github.com/blesta/language",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phillips Data, Inc.",
+            "homepage": "http://blesta.com/"
+        }
+    ]
+}
