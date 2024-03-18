@@ -12,6 +12,8 @@ To install these languages, follow the steps:
 
 | Language Name  | Language Code |
 | ------------- | ------------- |
+| Dansk, DK  | da_dk  |
+| Deutsch, DE | de_de |
 | Español, ES  | es_es  |
 | Français, FR  | fr_fr  |
 | Ελληνικά, GR  | el_gr  |
@@ -21,5 +23,4 @@ To install these languages, follow the steps:
 | Polski, PL  | pl_pl  |
 | Svenska, SE  | sv_se  |
 | Pyccĸий, RU  | ru_ru  |
-| Dansk, DK  | da_dk  |
 | Português, BR  | pt_br  |
