@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'La chiave di licenza è 
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Le impostazioni di manutenzione sono state aggiornate con successo!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Le impostazioni GeoIP sono state aggiornate con successo!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Le impostazioni del Basic Setup sono state aggiornate con successo!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'La directory di upload deve esistere ed essere esterna alla directory web principale.';
 

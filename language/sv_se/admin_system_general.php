@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Din licensnyckel har upp
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Underhållsinställningarna har uppdaterats framgångsrikt!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP-inställningarna uppdaterades framgångsrikt!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Grundinställningarna har uppdaterats framgångsrikt!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Uppladdningskatalogen måste finnas och ligga utanför rotwebbkatalogen.';
 

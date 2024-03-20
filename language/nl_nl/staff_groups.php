@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.empty'] = 'Voer een naam in.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ongeldig personeelsgroep-ID.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Zwarte lijst';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'E-mailbijlage verwijderen';
 

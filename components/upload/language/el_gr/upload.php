@@ -14,4 +14,5 @@ $lang['Upload.!error.write_failed'] = 'Το αρχείο δεν μπόρεσε �
 $lang['Upload.!error.file_exists'] = 'Το αρχείο υπάρχει ήδη.';
 $lang['Upload.!error.mime_type'] = 'Ο τύπος αρχείου %1$s δεν επιτρέπεται.';
 $lang['Upload.!error.max_file_size'] = 'Το αρχείο υπερβαίνει το μέγιστο επιτρεπόμενο μέγεθος αρχείου.';
+$lang['Upload.!error.file_extension'] = 'Η επέκταση αρχείου, %1$s δεν επιτρέπεται.';
 

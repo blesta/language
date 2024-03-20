@@ -14,4 +14,5 @@ $lang['Upload.!error.mime_type'] = 'Filtypen %1$s er ikke tilladt.';
 $lang['Upload.!error.file_exists'] = 'Filen findes allerede.';
 $lang['Upload.!error.write_failed'] = 'Filen kunne ikke skrives.';
 $lang['Upload.!error.path_created'] = 'Uploadstien kunne ikke oprettes.';
+$lang['Upload.!error.file_extension'] = 'Filtypen %1$s er ikke tilladt.';
 

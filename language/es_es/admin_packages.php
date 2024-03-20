@@ -218,4 +218,6 @@ $lang['AdminPackages.add.heading_provisioning'] = 'Aprovisionamiento';
 $lang['AdminPackages.add.field_manual_activation'] = 'Retener servicios pendientes de pago para su activación manual';
 $lang['AdminPackages.edit.heading_provisioning'] = 'Aprovisionamiento';
 $lang['AdminPackages.edit.field_manual_activation'] = 'Retener servicios pendientes de pago para su activación manual';
+$lang['AdminPackages.edit.text_default'] = 'Por defecto';
+$lang['AdminPackages.add.text_default'] = 'Por defecto';
 

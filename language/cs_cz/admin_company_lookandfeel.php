@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Akce byla úspěšn�
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Navigace byla úspěšně aktualizována.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Rozložení bylo úspěšně aktualizováno.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Šablony byly úspěšně aktualizovány.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Ikona zkratky';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Ikona zkratky';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Nastavení adresy URL ikony';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Ikona nahrávání';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Ikona zkratky';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Ikona zkratky';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Nastavení adresy URL ikony';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Ikona nahrávání';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Vlastní ikona';
 

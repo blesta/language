@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes is een domeinregistrar.';
 $lang['Logicboxes.name'] = 'LogicBoxen';
 $lang['Logicboxes.!error.currency.not_exists'] = 'De resellervaluta bestaat niet in dit bedrijf.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Als Sandbox is aangevinkt, moet je test/demo-accountreferenties definiëren. Als je de referenties van je productieaccount gebruikt terwijl Sandbox is aangevinkt, worden er nog steeds live acties uitgevoerd.';
+$lang['Logicboxes.domain.domain'] = 'Domeinnaam';
+$lang['Logicboxes.transfer.domain'] = 'Domeinnaam';
 

@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Ihr Lizenzschlüssel wur
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Die Wartungseinstellungen wurden erfolgreich aktualisiert!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Die GeoIP-Einstellungen wurden erfolgreich aktualisiert!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Die Basic Setup-Einstellungen wurden erfolgreich aktualisiert!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Das Upload-Verzeichnis muss vorhanden sein und sich außerhalb des Web-Root-Verzeichnisses befinden.';
 

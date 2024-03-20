@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'La licenza è stata riconvali
 $lang['AppController.!error.invalid_csrf'] = 'Il token del modulo non è valido.';
 $lang['AppController.!error.unauthorized_access'] = 'Non siete autorizzati ad accedere a quella risorsa';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Lasciare i file qui per caricarli o Fare clic per selezionare i file';
 

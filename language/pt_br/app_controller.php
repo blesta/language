@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Sua licença foi revalidada c
 $lang['AppController.!error.invalid_csrf'] = 'O token do formulário é inválido.';
 $lang['AppController.!error.unauthorized_access'] = 'Você não está autorizado a acessar esse recurso';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Solte os arquivos aqui para fazer upload ou clique para selecionar os arquivos';
 

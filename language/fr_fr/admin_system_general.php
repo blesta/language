@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.edittype.field_name'] = 'Nom';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Définition de la langue d\'utilisation';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Modifier le type de paiement';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Le répertoire de téléchargement doit exister et se trouver en dehors du répertoire web racine.';
 

@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'Η LogicBoxes είναι καταχωρητή
 $lang['Logicboxes.name'] = 'LogicBoxes';
 $lang['Logicboxes.!error.currency.not_exists'] = 'Το νόμισμα μεταπωλητή δεν υπάρχει σε αυτή την εταιρεία.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Εάν είναι επιλεγμένο το Sandbox, πρέπει να ορίσετε τα διαπιστευτήρια του λογαριασμού δοκιμής/επαναφοράς. Η χρήση των διαπιστευτηρίων του λογαριασμού παραγωγής με επιλεγμένο το Sandbox θα εξακολουθεί να εκτελεί ζωντανές ενέργειες.';
+$lang['Logicboxes.domain.domain'] = 'Όνομα τομέα';
+$lang['Logicboxes.transfer.domain'] = 'Όνομα τομέα';
 

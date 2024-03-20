@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Ihre Lizenz wurde erfolgreich
 $lang['AppController.!error.invalid_csrf'] = 'Das Formular-Token ist ungültig.';
 $lang['AppController.!error.unauthorized_access'] = 'Sie sind nicht berechtigt, auf diese Ressource zuzugreifen';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Dateien zum Hochladen hier ablegen oder zum Auswählen von Dateien anklicken';
 

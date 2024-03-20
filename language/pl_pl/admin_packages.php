@@ -218,4 +218,6 @@ $lang['AdminPackages.!success.packages_deleted'] = 'Pakiety zostały pomyślnie 
 $lang['AdminPackages.!success.package_deleted'] = 'Pakiet został pomyślnie usunięty.';
 $lang['AdminPackages.!success.package_updated'] = 'Pakiet został pomyślnie zaktualizowany.';
 $lang['AdminPackages.!success.package_added'] = 'Pakiet został pomyślnie utworzony.';
+$lang['AdminPackages.edit.text_default'] = 'Domyślny';
+$lang['AdminPackages.add.text_default'] = 'Domyślny';
 

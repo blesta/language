@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.maintenance_heading'] = 'Λειτουργία συντήρησης';
 $lang['ClientMaintenance.index.page_title'] = 'Συντήρηση';
+$lang['ClientMaintenance.index.maintenance_heading'] = 'Λειτουργία συντήρησης';
 

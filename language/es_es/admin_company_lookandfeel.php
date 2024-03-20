@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.editaction.field_url'] = 'Enlace URL';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_name'] = 'Nombre del paquete';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_url'] = 'Estado';
 $lang['AdminCompanyLookandfeel.editaction.field_addsubmit'] = 'Editar Acción';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Icono de acceso directo';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Icono de acceso directo';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Establecer URL de icono';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Icono de carga';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Icono de acceso directo';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Icono de acceso directo';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Establecer URL de icono';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Icono de carga';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Icono personalizado';
 

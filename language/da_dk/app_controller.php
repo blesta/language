@@ -81,4 +81,5 @@ $lang['AppController.graphs.control_label.grouped'] = 'Grupperet';
 $lang['AppController.graphs.label.total'] = 'I alt';
 $lang['AppController.sreader.dropdown'] = 'Slå rullemenuen til';
 $lang['AppController.sreader.navigation'] = 'Toggle navigation';
+$lang['AppController.dropzone.text'] = 'Læg filer her for at uploade eller klik for at vælge filer';
 

@@ -65,4 +65,6 @@ $lang['CronTasks.crontask.description.unsuspend_services'] = 'Suspenderede tjene
 $lang['CronTasks.crontask.name.transition_quotations'] = 'Overgangs-citater';
 $lang['CronTasks.crontask.description.transition_quotations'] = 'Markér tilbud, der har overskredet gyldighedsdatoen, som udløbne.';
 $lang['CronTasks.crontask.name.license_validation'] = 'Validering af licens';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Fjerner alle tokens til nulstilling af adgangskode fra systemet efter udløbsdatoen.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Slet udløbne tokens til nulstilling af adgangskode';
 

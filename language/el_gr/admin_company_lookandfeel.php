@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Η ενέργεια 
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Η πλοήγηση ενημερώθηκε με επιτυχία.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Η διάταξη ενημερώθηκε επιτυχώς.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Τα πρότυπα ενημερώθηκαν με επιτυχία.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Εικονίδιο συντόμευσης';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Εικονίδιο συντόμευσης';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Ορισμός URL εικονιδίου';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Εικονίδιο φόρτωσης';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Εικονίδιο συντόμευσης';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Εικονίδιο συντόμευσης';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Ορισμός URL εικονιδίου';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Εικονίδιο φόρτωσης';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Προσαρμοσμένο εικονίδιο';
 

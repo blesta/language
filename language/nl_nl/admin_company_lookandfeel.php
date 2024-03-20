@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'De actie is succesvo
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'De navigatie is met succes bijgewerkt.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'De lay-out is met succes bijgewerkt.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'De sjablonen zijn met succes bijgewerkt.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Snelkoppelingspictogram';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Snelkoppelingspictogram';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'URL pictogram instellen';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Pictogram uploaden';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Snelkoppelingspictogram';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Snelkoppelingspictogram';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'URL pictogram instellen';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Pictogram uploaden';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Aangepast pictogram';
 

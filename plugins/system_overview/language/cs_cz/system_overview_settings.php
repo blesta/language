@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewSettings.!error.company_id.exists'] = 'Neplatné ID společnosti.';
-$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Žádný klíč nastavení nesmí být prázdný.';
 $lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Délka každé jednotlivé hodnoty nastavení nesmí překročit 255 znaků.';
+$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Žádný klíč nastavení nesmí být prázdný.';
+$lang['SystemOverviewSettings.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = 'Neplatné ID zaměstnance.';
 

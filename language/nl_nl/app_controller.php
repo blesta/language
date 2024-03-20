@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Je licentie is succesvol verl
 $lang['AppController.!error.invalid_csrf'] = 'Het token van het formulier is ongeldig.';
 $lang['AppController.!error.unauthorized_access'] = 'Je hebt geen toegang tot die bron';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Ispmanager.name'] = 'ISPmanager';
-$lang['Ispmanager.description'] = 'ISPmanager offre de nombreuses fonctionnalités pour la gestion des sites web, la création des utilisateurs, la gestion des domaines, des emails, des bases de données, etc.';
+$lang['Ispmanager.name'] = 'ispmanager';
+$lang['Ispmanager.description'] = 'ispmanager offre de nombreuses fonctionnalités pour la gestion des sites web, la création d\'utilisateurs, la gestion des domaines, des courriels, des bases de données, etc.';
 $lang['Ispmanager.module_row'] = 'Serveur';
 $lang['Ispmanager.module_row_plural'] = 'Serveurs';
 $lang['Ispmanager.module_group'] = 'Groupe de serveurs';
@@ -37,7 +37,7 @@ $lang['Ispmanager.manage.module_rows_no_results'] = 'Il n\'y a pas de serveurs.'
 $lang['Ispmanager.manage.module_groups_no_results'] = 'Il n\'y a pas de groupes de serveurs.';
 $lang['Ispmanager.order_options.first'] = 'Premier serveur non complet';
 $lang['Ispmanager.order_options.roundrobin'] = 'Répartir uniformément entre les serveurs';
-$lang['Ispmanager.add_row.box_title'] = 'Ajouter le serveur ISPmanager';
+$lang['Ispmanager.add_row.box_title'] = 'Ajouter le serveur ispmanager';
 $lang['Ispmanager.add_row.basic_title'] = 'Paramètres de base';
 $lang['Ispmanager.add_row.name_servers_title'] = 'Serveurs de noms';
 $lang['Ispmanager.add_row.notes_title'] = 'Notes';
@@ -47,7 +47,7 @@ $lang['Ispmanager.add_row.name_server_host_col'] = 'Nom d\'hôte';
 $lang['Ispmanager.add_row.name_server'] = 'Serveur de noms %1$s';
 $lang['Ispmanager.add_row.remove_name_server'] = 'Retirer';
 $lang['Ispmanager.add_row.add_btn'] = 'Ajouter un serveur';
-$lang['Ispmanager.edit_row.box_title'] = 'Modifier le serveur ISPmanager';
+$lang['Ispmanager.edit_row.box_title'] = 'Modifier le serveur ispmanager';
 $lang['Ispmanager.edit_row.basic_title'] = 'Paramètres de base';
 $lang['Ispmanager.edit_row.name_servers_title'] = 'Serveurs de noms';
 $lang['Ispmanager.edit_row.notes_title'] = 'Notes';
@@ -76,8 +76,8 @@ $lang['Ispmanager.service_info.password'] = 'Mot de passe';
 $lang['Ispmanager.service_info.server'] = 'Serveur';
 $lang['Ispmanager.service_info.options'] = 'Options';
 $lang['Ispmanager.service_info.option_login'] = 'Se connecter';
-$lang['Ispmanager.service_field.tooltip.domain_edit'] = 'Cette modification n\'affectera pas ISPmanager, mais changera seulement l\'enregistrement local dans Blesta.';
-$lang['Ispmanager.service_field.tooltip.username_edit'] = 'Cette modification n\'affectera pas ISPmanager, mais changera seulement l\'enregistrement local dans Blesta.';
+$lang['Ispmanager.service_field.tooltip.domain_edit'] = 'Ce changement n\'affectera pas ispmanager, mais modifiera seulement l\'enregistrement local dans Blesta.';
+$lang['Ispmanager.service_field.tooltip.username_edit'] = 'Ce changement n\'affectera pas ispmanager, mais modifiera seulement l\'enregistrement local dans Blesta.';
 $lang['Ispmanager.service_field.tooltip.username'] = 'Vous pouvez laisser le nom d\'utilisateur vide pour qu\'il soit généré automatiquement.';
 $lang['Ispmanager.service_field.tooltip.password'] = 'Vous pouvez laisser le mot de passe en blanc pour qu\'il soit généré automatiquement.';
 $lang['Ispmanager.!error.server_name_valid'] = 'Vous devez saisir une étiquette de serveur.';

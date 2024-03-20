@@ -218,4 +218,6 @@ $lang['AdminPackages.add.heading_provisioning'] = 'Παροχή υπηρεσιώ
 $lang['AdminPackages.add.field_manual_activation'] = 'Κράτηση πληρωμένων εκκρεμών υπηρεσιών για χειροκίνητη ενεργοποίηση';
 $lang['AdminPackages.edit.heading_provisioning'] = 'Παροχή υπηρεσιών';
 $lang['AdminPackages.edit.field_manual_activation'] = 'Κράτηση πληρωμένων εκκρεμών υπηρεσιών για χειροκίνητη ενεργοποίηση';
+$lang['AdminPackages.edit.text_default'] = 'Προεπιλογή';
+$lang['AdminPackages.add.text_default'] = 'Προεπιλογή';
 

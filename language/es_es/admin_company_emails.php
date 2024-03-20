@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.getsmtpsecurityoptions.ssl'] = 'SSL';
 $lang['AdminCompanyEmails.getsmtpsecurityoptions.tls'] = 'TLS';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_email'] = 'Actualizar "De correo electrónico"';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_name'] = 'Actualizar "Nombre del remitente"';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Continúe en';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Cancelar';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Adjunto';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Borrar';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = '¿Estás seguro de que quieres borrar este archivo adjunto?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opciones';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nombre del archivo';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Anexos adicionales';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Plantilla de correo electrónico';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.plugin.attempt'] = 'Versuch eines Plugin-Cron für %1$s %2$s.';
 $lang['Automation.task.plugin.completed'] = 'Plugin-Cron für %1$s %2$s fertiggestellt.';
+$lang['Automation.task.plugin.attempt'] = 'Versuch eines Plugin-Cron für %1$s %2$s.';
 

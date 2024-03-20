@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Twoja licencja została pomy�
 $lang['AppController.!error.invalid_csrf'] = 'Token formularza jest nieprawidłowy.';
 $lang['AppController.!error.unauthorized_access'] = 'Nie masz uprawnień dostępu do tego zasobu';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Upuść pliki tutaj, aby je przesłać lub kliknij, aby je wybrać';
 

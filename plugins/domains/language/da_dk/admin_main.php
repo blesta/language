@@ -159,4 +159,9 @@ $lang['AdminMain.edit.title_domain_information'] = 'Domæneoplysninger';
 $lang['AdminMain.edit.title_actions'] = 'Handlinger';
 $lang['AdminMain.edit.title_basic_options'] = 'Grundlæggende muligheder';
 $lang['AdminMain.getmodulefields.auto_choose'] = '-- Vælg Automatisk --';
+$lang['AdminMain.edit.text_registration_date'] = 'Dato for registrering:';
+$lang['AdminMain.index.text_date_added'] = 'Dato tilføjet:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Dato for registrering';
+$lang['AdminMain.index.heading_registrar'] = 'Registrator';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Domæneregistratoren er blevet opdateret!';
 

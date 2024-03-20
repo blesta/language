@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'A assinatura de 
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'A assinatura de e-mail foi criada com sucesso!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'A assinatura de e-mail foi atualizada com sucesso!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'As configurações do modelo de e-mail foram atualizadas com sucesso!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Continuar';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Cancelar';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Anexo';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Excluir';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Tem certeza de que deseja excluir esse anexo?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opções';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nome do arquivo';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Anexos adicionais';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Modelo de e-mail';
 

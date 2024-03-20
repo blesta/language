@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.domains_unparented'] = 'De valgte domæner blev fje
 $lang['AdminDomains.!error.tlds_imported'] = 'Ikke alle TLDS kunne importeres på grund af en fejl.';
 $lang['AdminDomains.browse.unparent'] = 'Forældrefri og nulstillet pris';
 $lang['AdminDomains.import.field_restart'] = 'Start forfra';
+$lang['AdminDomains.browse.heading_added'] = 'Tilføjet dato';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Domæneregistratoren er blevet opdateret!';
 

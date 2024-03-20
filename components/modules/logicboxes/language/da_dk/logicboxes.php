@@ -289,4 +289,6 @@ $lang['Logicboxes.domain.ASIAIdentForm.societyRegistry'] = 'Foreningsregister';
 $lang['Logicboxes.domain.ASIAIdentForm.politicalPartyRegistry'] = 'Registrering af politiske partier';
 $lang['Logicboxes.domain.ASIAIdentForm.passport'] = 'Pas/ Statsborgerskab ID';
 $lang['Logicboxes.domain.ASIAIdentNumber'] = 'Identitetsnummer';
+$lang['Logicboxes.domain.domain'] = 'Domænenavn';
+$lang['Logicboxes.transfer.domain'] = 'Domænenavn';
 

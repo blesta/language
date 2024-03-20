@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.length'] = 'Namnlängden får inte överstiga 64 
 $lang['StaffGroups.!error.name.empty'] = 'Vänligen ange ett namn.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ogiltigt ID för personalgrupp.';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Ta bort e-postbilaga';
 

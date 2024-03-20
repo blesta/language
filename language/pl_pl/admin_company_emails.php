@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'Podpis wiadomoś
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'Podpis e-mail został pomyślnie utworzony!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'Podpis e-mail został pomyślnie zaktualizowany!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Ustawienia szablonu wiadomości e-mail zostały pomyślnie zaktualizowane!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Kontynuować';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Anuluj';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Załącznik';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Usuń';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Czy na pewno chcesz usunąć ten załącznik?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opcje';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nazwa pliku';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Dodatkowe załączniki';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Szablon wiadomości e-mail';
 

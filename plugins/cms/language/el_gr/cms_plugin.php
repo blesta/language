@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.index.title'] = 'Πύλη πελατών';
 $lang['CmsPlugin.description'] = 'Η Πύλη σας επιτρέπει να ορίσετε το περιεχόμενο της σελίδας που θα εμφανίζεται στη διεύθυνση URL της αρχικής σελίδας του Blesta.';
+$lang['CmsPlugin.index.title'] = 'Πύλη πελατών';
 $lang['CmsPlugin.name'] = 'Πύλη';
 

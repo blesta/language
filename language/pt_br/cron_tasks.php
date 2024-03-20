@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'O comprimento do diretório não pode ex
 $lang['CronTasks.!error.task_type.format'] = 'Tipo de tarefa inválido. Deve ser módulo, plug-in ou sistema.';
 $lang['CronTasks.!error.key.length'] = 'O comprimento da chave da tarefa cron não pode exceder 64 caracteres.';
 $lang['CronTasks.!error.key.unique'] = 'A chave da tarefa cron fornecida já está ocupada.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Remove do sistema todos os tokens de redefinição de senha após a data de expiração.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Excluir tokens de redefinição de senha expirados';
 

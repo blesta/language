@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'La firma dell\'e
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'La firma dell\'e-mail è stata creata con successo!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'La firma dell\'e-mail è stata aggiornata con successo!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Le impostazioni del modello di email sono state aggiornate con successo!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Continua';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annullamento';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Allegato';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Cancellare';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Sei sicuro di voler eliminare questo allegato?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opzioni';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nome del file';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Allegati aggiuntivi';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Modello di e-mail';
 

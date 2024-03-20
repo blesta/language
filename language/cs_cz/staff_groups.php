@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.empty'] = 'Zadejte prosím jméno.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Neplatné ID skupiny zaměstnanců.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Černá listina';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Odstranění přílohy e-mailu';
 

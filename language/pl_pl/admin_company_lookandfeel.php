@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Akcja została pomy�
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Nawigacja została pomyślnie zaktualizowana.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Układ został pomyślnie zaktualizowany.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Szablony zostały pomyślnie zaktualizowane.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Ikona skrótu';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Ikona skrótu';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Ustaw adres URL ikony';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Ikona przesyłania';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Ikona skrótu';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Ikona skrótu';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Ustaw adres URL ikony';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Ikona przesyłania';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Ikona niestandardowa';
 

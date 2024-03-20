@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Vaše licence byla úspěšn�
 $lang['AppController.!error.invalid_csrf'] = 'Token formuláře je neplatný.';
 $lang['AppController.!error.unauthorized_access'] = 'Nejste oprávněni k přístupu k tomuto zdroji';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
 

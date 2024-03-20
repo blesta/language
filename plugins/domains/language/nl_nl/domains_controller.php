@@ -10,4 +10,10 @@
  */
 
 $lang['DomainsController.example'] = 'Voorbeeldtaal';
+$lang['DomainsController.getDomainActions.unparent'] = 'Prijs loskoppelen en opnieuw instellen';
+$lang['DomainsController.getDomainActions.push_to_client'] = 'Push naar klant';
+$lang['DomainsController.getDomainActions.update_nameservers'] = 'Nameservers bijwerken';
+$lang['DomainsController.getDomainActions.domain_renewal'] = 'Domein vernieuwen';
+$lang['DomainsController.getDomainActions.change_registrar'] = 'Registrar wijzigen';
+$lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Auto verlengen';
 

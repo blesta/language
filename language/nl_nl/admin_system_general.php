@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Je licentiesleutel is su
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'De onderhoudsinstellingen zijn succesvol bijgewerkt!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'De GeoIP-instellingen zijn succesvol bijgewerkt!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'De basisinstellingen zijn bijgewerkt!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'De uploaddirectory moet bestaan en buiten de root webdirectory liggen.';
 

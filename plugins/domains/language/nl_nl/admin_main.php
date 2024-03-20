@@ -159,4 +159,9 @@ $lang['AdminMain.!success.domain_add'] = 'Het domein is succesvol toegevoegd!';
 $lang['AdminMain.!success.domain_transfer'] = 'Het domein is succesvol verhuisd!';
 $lang['AdminMain.!success.domain_register'] = 'Het domein is succesvol geregistreerd!';
 $lang['AdminMain.!success.domains_unparented'] = 'De geselecteerde domeinen zijn verwijderd uit hun bovenliggende services en de prijs is met succes gereset!';
+$lang['AdminMain.edit.text_registration_date'] = 'Datum geregistreerd:';
+$lang['AdminMain.index.text_date_added'] = 'Datum toegevoegd:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Datum geregistreerd';
+$lang['AdminMain.index.heading_registrar'] = 'Registrator';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'De domeinregistrar is bijgewerkt!';
 

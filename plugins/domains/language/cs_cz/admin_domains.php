@@ -256,4 +256,6 @@ $lang['AdminDomains.import.field_restart'] = 'Začít znovu';
 $lang['AdminDomains.browse.unparent'] = 'Odstranění rodiče a resetování ceny';
 $lang['AdminDomains.!error.tlds_imported'] = 'Kvůli chybě nebylo možné importovat všechny TLDS.';
 $lang['AdminDomains.!success.domains_unparented'] = 'Vybrané domény byly odebrány z nadřazených služeb a cena byla úspěšně resetována!';
+$lang['AdminDomains.browse.heading_added'] = 'Datum přidání';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Registrátor domény byl aktualizován!';
 

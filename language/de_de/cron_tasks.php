@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'Die Länge des Verzeichnisses darf 64 Ze
 $lang['CronTasks.!error.task_type.format'] = 'Ungültiger Aufgabentyp. Muss Modul, Plugin oder System sein.';
 $lang['CronTasks.!error.key.length'] = 'Die Länge des Schlüssels der Cron-Aufgabe darf 64 Zeichen nicht überschreiten.';
 $lang['CronTasks.!error.key.unique'] = 'Der angegebene Cron-Task-Schlüssel ist bereits belegt.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Entfernt alle Kennwortrücksetzungs-Tokens, die das Verfallsdatum überschritten haben, aus dem System.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Abgelaufene Token zum Zurücksetzen des Passworts löschen';
 

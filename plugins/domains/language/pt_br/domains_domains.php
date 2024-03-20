@@ -11,4 +11,5 @@
 
 $lang['DomainsDomains.!error.invalid_term'] = 'Esse domínio não pode ser renovado pelo número de anos selecionado.';
 $lang['DomainsDomains.!error.invoices_renew_service'] = 'O domínio não pode ser renovado até que todas as faturas contendo esse domínio tenham sido pagas.';
+$lang['DomainsDomains.!error.unsupported_tld'] = 'O TLD do domínio não é compatível com o módulo de registro selecionado.';
 

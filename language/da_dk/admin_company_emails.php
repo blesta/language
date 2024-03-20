@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.getsmtpsecurityoptions.ssl'] = 'SSL';
 $lang['AdminCompanyEmails.getsmtpsecurityoptions.tls'] = 'TLS';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_email'] = 'Opdater "Fra e-mail"';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_name'] = 'Opdater "Fra navn"';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Fortsæt';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuller';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Vedhæftet fil';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Slet';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Er du sikker på, at du vil slette denne vedhæftede fil?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Valgmuligheder';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Filnavn';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Yderligere vedhæftede filer';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'E-mail-skabelon';
 

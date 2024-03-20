@@ -184,4 +184,5 @@ $lang['StaffGroups.permissions.admin_package_options'] = 'Options configurables'
 $lang['StaffGroups.permissions.admin_reports'] = 'Rapports';
 $lang['StaffGroups.permissions.admin_reports_customize'] = 'Personnaliser les rapports';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Liste noire';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Supprimer la pièce jointe d\'un courriel';
 

@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'E-postsignaturen
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'E-postsignaturen har skapats framgångsrikt!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'E-postsignaturen har uppdaterats framgångsrikt!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Inställningarna för e-postmallen uppdaterades framgångsrikt!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Fortsätta';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Avbryt';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Anslutning';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Radera';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Är du säker på att du vill ta bort den här bilagan?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Alternativ';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Filnamn';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Ytterligare bilagor';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Mall för e-post';
 

@@ -289,4 +289,6 @@ $lang['Logicboxes.nameserver.ns3'] = 'Name Server 3';
 $lang['Logicboxes.nameserver.ns2'] = 'Name Server 2';
 $lang['Logicboxes.nameserver.ns1'] = 'Name Server 1';
 $lang['Logicboxes.name'] = 'LogicBoxes';
+$lang['Logicboxes.domain.domain'] = 'Nome de domínio';
+$lang['Logicboxes.transfer.domain'] = 'Nome de domínio';
 

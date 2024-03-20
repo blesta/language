@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.ro_ro
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'În așteptare';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Vă rugăm să selectați un șablon valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Vă rugăm să selectați un sistem de operare valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Vă rugăm să selectați un nor valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Eticheta nu poate conține caractere speciale.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Vă rugăm să introduceți o etichetă.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Numele de gazdă pare a fi invalid.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Vă rugăm să selectați un șablon valid.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Vă rugăm să selectați dacă doriți să permiteți unui client să seteze șablonul.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Vă rugăm să selectați un sistem de operare valid.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Vă rugăm să selectați dacă doriți să permiteți unui client să seteze sistemul de operare.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Vă rugăm să selectați un nor valid.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Vă rugăm să selectați dacă doriți să permiteți unui client să seteze un nor.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Vă rugăm să introduceți numărul de noduri care urmează să fie alocate.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Trebuie să confirmați că ați înțeles acțiunea de reinstalare pentru a putea efectua reinstalarea șablonului.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Vă rugăm să selectați un șablon valid.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'A apărut o eroare și șablonul nu a putut fi reinstalat.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'A apărut o eroare și serviciul nu a putut fi anulat.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'A apărut o eroare și acțiunea nu a putut fi efectuată.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'S-a produs o eroare și mașina virtuală nu a putut fi actualizată.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Nu se pot adăuga nodurile necesare.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Nu a putut fi stabilită o conexiune cu serverul. Vă rugăm să verificați dacă adresa de e-mail și cheia API sunt corecte.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Vă rugăm să introduceți cheia API.';
+$lang['Vpsdotnet.!error.email.format'] = 'Vă rugăm să introduceți o adresă de e-mail validă.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Vă rugăm să introduceți o etichetă pentru acest server.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Parola';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Consolă';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Parola:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Consolă';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Resetare parolă';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Resetare parolă';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Schimbă numele de gazdă';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Nume gazdă';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Schimbă numele de gazdă';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Reinstalați';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Înțeleg că, prin reinstalare, toate datele de pe server vor fi șterse definitiv, iar sistemul de operare și șablonul selectat vor fi instalate.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Șablon';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Sistem de operare';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Reinstalați';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Acțiuni ale serverului';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Necunoscut';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'În așteptare';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Starea serverului';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Resetare parolă';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Resetare parolă';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Schimbă numele de gazdă';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Nume gazdă';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Schimbă numele de gazdă';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Reinstalați';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Înțeleg că, prin reinstalare, toate datele de pe server vor fi șterse definitiv, iar sistemul de operare și șablonul selectat vor fi instalate.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Șablon';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Sistem de operare';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Reinstalați';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Starea serverului';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Acțiuni';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Necunoscut';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.!actions.password'] = 'Resetare parolă';
+$lang['Vpsdotnet.!actions.hostname'] = 'Schimbă numele de gazdă';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Reinstalați';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Oprire';
+$lang['Vpsdotnet.!actions.reboot'] = 'Reboot';
+$lang['Vpsdotnet.!actions.boot'] = 'Cizmă';
+$lang['Vpsdotnet.tab_client_console'] = 'Consolă';
+$lang['Vpsdotnet.tab_client_actions'] = 'Acțiuni ale serverului';
+$lang['Vpsdotnet.tab_console'] = 'Consolă';
+$lang['Vpsdotnet.tab_actions'] = 'Acțiuni ale serverului';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Șablon';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Sistem de operare';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Nor/Zonă';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'Etichetă VPS';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Nume gazdă';
+$lang['Vpsdotnet.package_fields.template'] = 'Șablon';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Selectați șablonul';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Lăsați clientul să seteze șablonul';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Sistem de operare';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Selectați sistemul de operare';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Lăsați clientul să seteze sistemul de operare și șablonul';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Nor/Zonă';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Selectați un nor/zonă';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Permiteți clientului să seteze Cloud/Zona, Sistemul de operare și Șablonul';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Numărul de noduri';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Server de actualizare';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Setări de bază';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Editați serverul VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Adăugați un server';
+$lang['Vpsdotnet.row_meta.key'] = 'Cheie API';
+$lang['Vpsdotnet.row_meta.email'] = 'Email';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Eticheta serverului';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Setări de bază';
+$lang['Vpsdotnet.add_row.box_title'] = 'Adăugați un server VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Parola';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Adresa IP primară';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Nu există grupuri de servere.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest grup de servere?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Ștergeți';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Editați';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Opțiuni';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Număr de servere';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Numele grupului';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'Grupuri de servere master VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Nu există servere.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest server?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Ștergeți';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Editați';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Opțiuni';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Email';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Eticheta serverului';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'Servere Master VPS.NET';
+$lang['Vpsdotnet.add_module_group'] = 'Adăugați grupul de servere';
+$lang['Vpsdotnet.add_module_row'] = 'Adăugați un server';
+$lang['Vpsdotnet.please_wait'] = 'Vă rugăm să așteptați...';
+$lang['Vpsdotnet.order_options.first'] = 'Primul server care nu este complet';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET Master Group';
+$lang['Vpsdotnet.module_row_plural'] = 'Servere';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET Master Server';
+$lang['Vpsdotnet.description'] = 'VPS.NET oferă găzduire de servere virtualizate.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

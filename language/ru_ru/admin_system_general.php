@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Ваш лицензио�
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Настройки обслуживания были успешно обновлены!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Настройки GeoIP были успешно обновлены!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Настройки базовой установки были успешно обновлены!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Каталог загрузки должен существовать и находиться вне корневого веб-каталога.';
 

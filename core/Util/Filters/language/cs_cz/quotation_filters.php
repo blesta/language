@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.any'] = 'Jakýkoli';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Měna';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Obsah položky';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Měna';
 $lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citace #';
+$lang['Util.filters.quotation_filters.any'] = 'Jakýkoli';
 

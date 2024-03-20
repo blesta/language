@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.domains_unparented'] = 'Los dominios seleccionados 
 $lang['AdminDomains.!error.tlds_imported'] = 'No se han podido importar todos los TLDS debido a un error.';
 $lang['AdminDomains.browse.unparent'] = 'Unparent and Reset Price';
 $lang['AdminDomains.import.field_restart'] = 'Volver a empezar';
+$lang['AdminDomains.browse.heading_added'] = 'Fecha añadida';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'El registrador de dominios ha sido actualizado.';
 

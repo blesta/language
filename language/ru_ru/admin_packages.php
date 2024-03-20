@@ -218,4 +218,6 @@ $lang['AdminPackages.!success.packages_deleted'] = 'Пакеты были усп
 $lang['AdminPackages.!success.package_deleted'] = 'Пакет был успешно удален.';
 $lang['AdminPackages.!success.package_updated'] = 'Пакет был успешно обновлен.';
 $lang['AdminPackages.!success.package_added'] = 'Пакет был успешно создан.';
+$lang['AdminPackages.edit.text_default'] = 'По умолчанию';
+$lang['AdminPackages.add.text_default'] = 'По умолчанию';
 

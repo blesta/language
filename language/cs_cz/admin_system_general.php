@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Váš licenční klíč 
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Nastavení údržby bylo úspěšně aktualizováno!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Nastavení GeoIP bylo úspěšně aktualizováno!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Základní nastavení bylo úspěšně aktualizováno!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Adresář pro nahrávání musí existovat a musí být mimo kořenový adresář webu.';
 

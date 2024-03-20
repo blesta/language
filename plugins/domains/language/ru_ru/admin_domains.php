@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Конфигурация
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Модуль был успешно деинсталлирован.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Модуль был успешно установлен.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Модуль был успешно обновлен.';
+$lang['AdminDomains.browse.heading_added'] = 'Дата добавления';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Регистратор домена был обновлен!';
 

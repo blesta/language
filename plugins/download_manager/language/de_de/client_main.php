@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.no_downloads'] = 'In diesem Bereich sind keine Downloads verfügbar.';
-$lang['ClientMain.index.login'] = 'Sie müssen sich einloggen, um die Downloads in diesem Bereich zu sehen.';
-$lang['ClientMain.index.boxtitle_downloads'] = 'Herunterladen';
-$lang['ClientMain.index.page_title'] = 'Herunterladen';
 $lang['ClientMain.!text.root_directory'] = 'Startseite';
+$lang['ClientMain.index.boxtitle_downloads'] = 'Herunterladen';
+$lang['ClientMain.index.login'] = 'Sie müssen sich einloggen, um die Downloads in diesem Bereich zu sehen.';
+$lang['ClientMain.index.no_downloads'] = 'In diesem Bereich sind keine Downloads verfügbar.';
+$lang['ClientMain.index.page_title'] = 'Herunterladen';
 

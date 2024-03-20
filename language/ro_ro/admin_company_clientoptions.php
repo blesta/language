@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.ro_ro
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Actualizarea setărilor';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Email';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Cod poștal';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Stat/Provincie';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Țara';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Orașul';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adresa 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adresa 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Titlu';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Companie/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Numele de familie';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Primul nume';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Doar citire';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Arată';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Necesar';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Domeniul';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Bifați câmpurile care ar trebui să fie obligatorii la crearea sau actualizarea unui client sau contact.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Câmpuri obligatorii pentru client';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Setări > Companie > Opțiuni client > Câmpuri personalizate client > Câmpuri obligatorii pentru client';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Regex personalizat';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Da';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Nu';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Eliminați';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Implicit';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Numele opțiunii';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Valoare';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Adăugați o opțiune suplimentară';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Valoarea textului implicit';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Valoare implicită Verificat';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Valoare';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Editare câmp personalizat';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Criptarea valorilor';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex personalizat';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Necesar';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Numai pentru clienți';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Vizibil pentru clienți';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Tip';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Numele este o definiție a limbii';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Nume';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Editare câmp personalizat';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Setări > Companie > Opțiuni client > Câmpuri personalizate client > Editare câmp personalizat';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Eliminați';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Implicit';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Numele opțiunii';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Valoare';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Adăugați o opțiune suplimentară';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Cerând acest câmp, dar fără a-l face vizibil pentru clienți, clienții nu vor putea să se înregistreze sau să își actualizeze informațiile din cont.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Valoarea textului implicit';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Valoare implicită Verificat';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Valoare';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Adăugați un câmp personalizat';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Criptarea valorilor';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex personalizat';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Necesar';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Numai pentru clienți';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Vizibil pentru clienți';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Tip';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Link';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Numele este o definiție a limbii';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Nume';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Grupul de clienți';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Adăugați un câmp personalizat';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Setări > Companie > Opțiuni client > Câmpuri personalizate client > Adăugați un câmp personalizat';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Nu există câmpuri personalizate.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Ștergerea acestui câmp personalizat va șterge toate datele stocate pentru el pentru fiecare client din acest grup. Sunteți sigur că doriți să ștergeți acest câmp personalizat?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Ștergeți';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Editați';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Opțiuni';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Numai pentru clienți';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Vizibil pentru clienți';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Necesar';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Tip';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nume';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Creați un câmp';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Răsfoiți câmpurile personalizate ale clientului';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Setări > Companie > Opțiuni client > Câmpuri personalizate client > Răsfoiește';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Trimiteți';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Împiedicați plățile de la clienți neverificați';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'ID client Valoare de creștere';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID client Valoare de pornire';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Format ID client';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Activați Verificarea e-mailului';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Forțați numele de utilizator de e-mail';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Toate contactele';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Contacte primare';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Nici unul --';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Impuneți adrese unice de e-mail de contact';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Setări generale ale clientului';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Setări > Companie > Opțiuni client > General';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Valoarea bifată a opțiunii va fi valoarea implicită selectată atunci când această opțiune este adăugată pentru un client.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Dacă este bifată, această casetă de selectare va fi bifată în mod implicit atunci când acest câmp personalizat este adăugat pentru un client.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Textul introdus aici va fi valoarea implicită setată pentru această opțiune atunci când acest câmp personalizat este adăugat pentru un client.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Valoarea transmisă atunci când caseta de selectare este bifată.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Bifați această casetă pentru a stoca valoarea criptată. Acest lucru este foarte recomandat în cazul în care stocați orice informații sensibile sau de identificare personală.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Această opțiune va apărea dacă "Required" este setat la "Custom Regex". Introduceți aici expresia regulată personalizată care trebuie validată pentru acest câmp.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Selectați "Yes" (Da) pentru a vă asigura că se oferă o valoare pentru acest câmp, iar pentru tipurile de tip Drop Down, opțiunea trebuie să apară în lista de opțiuni. Selectați "No" (Nu) pentru a accepta orice valoare pentru acest câmp. Selectați "Custom Regex" pentru a utiliza o expresie regulată personalizată pentru a valida acest câmp.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Dacă bifați această casetă, acest câmp personalizat nu va mai putea fi modificat de către client. Câmpurile doar pentru citire vor fi setate automat la valoarea implicită care le-a fost atribuită.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Bifați pentru a permite clienților să vadă și să actualizeze acest câmp.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Câmpul personalizat va apărea ca tip de formular selectat.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Un link personalizat care poate fi inserat în numele câmpului. Înconjurați textul pe care doriți să aplicați legătura în interiorul parantezelor pătrate (de exemplu, [termeni]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Bifați această casetă numai dacă ați adăugat o definiție a limbii pentru acest câmp personalizat în fișierul de limbă personalizată.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Acesta este numele de afișare pentru acest câmp. Poate fi o definiție lingvistică.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Câmpul personalizat se va aplica numai membrilor grupului de clienți selectat.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Numerele ulterioare ale ID-urilor de client vor crește cu această valoare.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Client ID Start este valoarea inițială pentru ID-urile clienților. Clienții noi vor avea această valoare, cu excepția cazului în care aceasta este mai mică decât valoarea celui mai recent client creat.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Client ID Format este formatul ID-ului clientului. O valoare de ABC-{num} va avea ca rezultat un ID Client de ABC-1500, unde 1500 este valoarea ID-ului Clientului.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Bifați pentru a trimite un e-mail de verificare a e-mailului atunci când este creată o nouă autentificare sau când un client își schimbă adresa de e-mail. O notificare va apărea pe profilul clientului până când acesta va fi verificat.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Clienții trebuie să folosească adresa lor de e-mail ca nume de utilizator, în loc să își definească propriul nume de utilizator. Clienții existenți se pot conecta în continuare cu numele de utilizator actual.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Restricționează adresele de e-mail pentru persoanele de contact. Contacte primare înseamnă că nu pot exista două contacte primare (de exemplu, clienți) care să aibă aceeași adresă de e-mail. All Contacts (Toate contactele) înseamnă că niciun contact, indiferent de tipul acestuia, nu poate avea aceeași adresă de e-mail ca un alt contact.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Aveți grijă atunci când solicitați selectarea unui stat/provincie. Unele țări nu au niciun stat. Clienții din aceste țări nu vor putea să își salveze datele de contact. Vă recomandăm să nu solicitați acest câmp.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Dacă este bifat, câmpul nu poate fi modificat de către client dacă conține date.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Formatul ID client trebuie să conțină {num}.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'NOTĂ: Aceste setări se aplică numai grupurilor de clienți care moștenesc setările de la Companie.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Setările generale au fost actualizate cu succes.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Câmpurile necesare au fost actualizate cu succes.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Câmpul personalizat al clientului a fost șters cu succes.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Câmpul personalizat al clientului a fost creat cu succes.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Câmpul personalizat al clientului a fost actualizat cu succes.';
+

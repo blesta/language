@@ -11,4 +11,5 @@
 
 $lang['DomainsDomains.!error.invalid_term'] = 'Tuto doménu nelze po zvolený počet let prodloužit.';
 $lang['DomainsDomains.!error.invoices_renew_service'] = 'Doménu nelze prodloužit, dokud nejsou uhrazeny všechny faktury obsahující tuto doménu.';
+$lang['DomainsDomains.!error.unsupported_tld'] = 'Vybraný modul registrátora nepodporuje doménu TLD.';
 

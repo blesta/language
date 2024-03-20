@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'Το μήκος του καταλόγο�
 $lang['CronTasks.!error.task_type.format'] = 'Μη έγκυρος τύπος εργασίας. Πρέπει να είναι module, plugin ή system.';
 $lang['CronTasks.!error.key.length'] = 'Το μήκος του κλειδιού της εργασίας cron δεν μπορεί να υπερβαίνει τους 64 χαρακτήρες.';
 $lang['CronTasks.!error.key.unique'] = 'Το κλειδί cron task που δόθηκε είναι ήδη κατειλημμένο.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Αφαιρεί όλα τα κουπόνια επαναφοράς κωδικού πρόσβασης που έχουν λήξει την ημερομηνία λήξης από το σύστημα.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Διαγραφή ληγμένων κουπονιών επαναφοράς κωδικού πρόσβασης';
 

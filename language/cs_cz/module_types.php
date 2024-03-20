@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.name.valid'] = 'Název je neplatný.';
 $lang['ModuleTypes.!error.type_id.valid'] = 'ID typu modulu je neplatné.';
+$lang['ModuleTypes.!error.name.valid'] = 'Název je neplatný.';
 

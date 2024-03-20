@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.edittype.field_name'] = 'Navn';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Definition af brug af sprog';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Rediger betalingstype';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Upload-biblioteket skal eksistere og være uden for rod-webbiblioteket.';
 

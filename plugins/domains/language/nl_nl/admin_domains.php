@@ -256,4 +256,6 @@ $lang['AdminDomains.import.field_restart'] = 'Opnieuw beginnen';
 $lang['AdminDomains.browse.unparent'] = 'Prijs loskoppelen en opnieuw instellen';
 $lang['AdminDomains.!error.tlds_imported'] = 'Door een fout konden niet alle TLDS geïmporteerd worden.';
 $lang['AdminDomains.!success.domains_unparented'] = 'De geselecteerde domeinen zijn verwijderd uit hun bovenliggende services en de prijs is met succes gereset!';
+$lang['AdminDomains.browse.heading_added'] = 'Datum toegevoegd';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'De domeinregistrar is bijgewerkt!';
 

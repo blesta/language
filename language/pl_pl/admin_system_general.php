@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Klucz licencyjny został
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Ustawienia konserwacji zostały pomyślnie zaktualizowane!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Ustawienia GeoIP zostały pomyślnie zaktualizowane!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Ustawienia konfiguracji podstawowej zostały pomyślnie zaktualizowane!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Katalog przesyłania musi istnieć i znajdować się poza głównym katalogiem internetowym.';
 

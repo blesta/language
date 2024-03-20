@@ -289,4 +289,6 @@ $lang['Logicboxes.domain.ASIAIdentForm.societyRegistry'] = 'Registro de Sociedad
 $lang['Logicboxes.domain.ASIAIdentForm.politicalPartyRegistry'] = 'Registro de partidos políticos';
 $lang['Logicboxes.domain.ASIAIdentForm.passport'] = 'Pasaporte/DNI';
 $lang['Logicboxes.domain.ASIAIdentNumber'] = 'Número de identidad';
+$lang['Logicboxes.domain.domain'] = 'Nombre de dominio';
+$lang['Logicboxes.transfer.domain'] = 'Nombre de dominio';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klient neexistuje.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Je vyžadováno přidání platného data.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'Je vyžadován název dokumentu.';
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klient neexistuje.';
 

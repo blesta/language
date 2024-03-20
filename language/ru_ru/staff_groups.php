@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.length'] = 'Длина имени не должн
 $lang['StaffGroups.!error.name.empty'] = 'Пожалуйста, введите имя.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Неверный идентификатор группы сотрудников.';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Удалить вложение электронной почты';
 

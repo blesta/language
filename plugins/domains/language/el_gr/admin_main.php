@@ -159,4 +159,9 @@ $lang['AdminMain.edit.title_domain_information'] = 'Πληροφορίες το�
 $lang['AdminMain.edit.title_actions'] = 'Δράσεις';
 $lang['AdminMain.edit.title_basic_options'] = 'Βασικές επιλογές';
 $lang['AdminMain.getmodulefields.auto_choose'] = '-- Επιλέξτε Αυτόματα --';
+$lang['AdminMain.edit.text_registration_date'] = 'Ημερομηνία καταχώρισης:';
+$lang['AdminMain.index.text_date_added'] = 'Ημερομηνία προσθήκης::';
+$lang['AdminMain.index.heading_dateregistration'] = 'Ημερομηνία καταχώρισης';
+$lang['AdminMain.index.heading_registrar'] = 'Καταχωρητής';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Ο καταχωρητής domain έχει ενημερωθεί!';
 

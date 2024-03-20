@@ -218,4 +218,6 @@ $lang['AdminPackages.add.heading_provisioning'] = 'Provisionnement';
 $lang['AdminPackages.add.field_manual_activation'] = 'Mise en attente des services payés pour activation manuelle';
 $lang['AdminPackages.edit.heading_provisioning'] = 'Provisionnement';
 $lang['AdminPackages.edit.field_manual_activation'] = 'Mise en attente des services payés pour activation manuelle';
+$lang['AdminPackages.edit.text_default'] = 'Défaut';
+$lang['AdminPackages.add.text_default'] = 'Défaut';
 

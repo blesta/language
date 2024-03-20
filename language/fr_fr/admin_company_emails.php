@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.getsmtpsecurityoptions.ssl'] = 'SSL';
 $lang['AdminCompanyEmails.getsmtpsecurityoptions.tls'] = 'TLS';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_email'] = 'Mise à jour de "From Email"';
 $lang['AdminCompanyEmails.gettemplateactions.update_from_name'] = 'Mettre à jour le "Nom du destinataire"';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Continuer';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuler';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Pièce jointe';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Supprimer';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Êtes-vous sûr de vouloir supprimer cette pièce jointe ?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Options';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nom du fichier';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Pièces jointes supplémentaires';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Modèle de courrier électronique';
 

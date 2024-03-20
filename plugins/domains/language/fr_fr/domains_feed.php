@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsFeed.name'] = 'Prix du domaine';
-$lang['DomainsFeed.description'] = 'Renvoie un tableau HTML contenant les prix de tous les TLD.';
+$lang['DomainsFeed.name'] = 'Domains';
+$lang['DomainsFeed.description'] = 'Renvoie un tableau HTML contenant les prix de tous les TLD ou le nombre de domaines enregistrés.';
 $lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Exemple de code';
 $lang['DomainsFeed.getOptionFields.example_code_table'] = 'Afficher un tableau contenant les prix de tous les TLD dans une devise donnée :';
 $lang['DomainsFeed.getOptionFields.header_name'] = 'Nom';
@@ -31,4 +31,8 @@ $lang['DomainsFeed.table.renew'] = 'Renouveler';
 $lang['DomainsFeed.table.not_available'] = 'Non disponible';
 $lang['DomainsFeed.!error.invalid_endpoint'] = 'Le point d\'accès demandé n\'est pas valide ou n\'existe pas.';
 $lang['DomainsFeed.!error.invalid_style'] = 'Le style demandé n\'est pas valide.';
+$lang['DomainsFeed.getOptionFields.param_tlds_description'] = 'Une liste de TLDS séparés par des virgules (sans le point initial), pour filtrer les domaines.';
+$lang['DomainsFeed.getOptionFields.param_status_description'] = 'Le statut pour lequel filtrer les domaines : actif, annulé ou en attente.';
+$lang['DomainsFeed.getOptionFields.example_code_count'] = 'Affiche le nombre de domaines enregistrés :';
+$lang['DomainsFeed.getOptionFields.example_code_pricing'] = 'Afficher un tableau contenant les prix de tous les TLD dans une devise donnée :';
 

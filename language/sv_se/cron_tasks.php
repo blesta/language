@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'Katalogens längd får inte överstiga 6
 $lang['CronTasks.!error.task_type.format'] = 'Ogiltig uppgiftstyp. Måste vara modul, plugin eller system.';
 $lang['CronTasks.!error.key.length'] = 'Längden på nyckeln för cron-uppgiften får inte överstiga 64 tecken.';
 $lang['CronTasks.!error.key.unique'] = 'Den angivna cron task key är redan upptagen.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Tar bort alla tokens för återställning av lösenord som passerat utgångsdatumet från systemet.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Ta bort utgångna tokens för återställning av lösenord';
 

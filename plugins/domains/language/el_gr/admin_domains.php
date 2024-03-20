@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.domains_unparented'] = 'Τα επιλεγμένα d
 $lang['AdminDomains.!error.tlds_imported'] = 'Δεν μπόρεσαν να εισαχθούν όλα τα TLDS λόγω σφάλματος.';
 $lang['AdminDomains.browse.unparent'] = 'Unparent και Επαναφορά τιμής';
 $lang['AdminDomains.import.field_restart'] = 'Ξεκινήστε από την αρχή';
+$lang['AdminDomains.browse.heading_added'] = 'Προστέθηκε Ημερομηνία';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Ο καταχωρητής domain έχει ενημερωθεί!';
 

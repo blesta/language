@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes jest rejestratorem domen.';
 $lang['Logicboxes.name'] = 'LogicBoxes';
 $lang['Logicboxes.!error.currency.not_exists'] = 'Waluta resellera nie istnieje w tej firmie.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Jeśli opcja Sandbox jest zaznaczona, należy zdefiniować poświadczenia konta testowego/demo. Korzystanie z poświadczeń konta produkcyjnego z zaznaczoną opcją Sandbox będzie nadal wykonywać działania na żywo.';
+$lang['Logicboxes.domain.domain'] = 'Nazwa domeny';
+$lang['Logicboxes.transfer.domain'] = 'Nazwa domeny';
 

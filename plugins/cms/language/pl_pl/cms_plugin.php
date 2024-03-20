@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.index.title'] = 'Portal klienta';
 $lang['CmsPlugin.description'] = 'Portal umożliwia ustawienie zawartości strony do wyświetlania pod adresem URL strony głównej Blesta.';
+$lang['CmsPlugin.index.title'] = 'Portal klienta';
 $lang['CmsPlugin.name'] = 'Portal';
 

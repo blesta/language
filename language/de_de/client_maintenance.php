@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.maintenance_heading'] = 'Wartungsmodus';
 $lang['ClientMaintenance.index.page_title'] = 'Wartung';
+$lang['ClientMaintenance.index.maintenance_heading'] = 'Wartungsmodus';
 

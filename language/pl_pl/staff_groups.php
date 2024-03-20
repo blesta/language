@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.length'] = 'Długość nazwy nie może przekracza
 $lang['StaffGroups.!error.name.empty'] = 'Wprowadź nazwę.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Nieprawidłowy identyfikator grupy pracowników.';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Usuń załącznik wiadomości e-mail';
 

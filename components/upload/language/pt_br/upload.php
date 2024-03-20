@@ -14,4 +14,5 @@ $lang['Upload.!error.write_failed'] = 'O arquivo não pôde ser gravado.';
 $lang['Upload.!error.file_exists'] = 'O arquivo já existe.';
 $lang['Upload.!error.mime_type'] = 'O tipo de arquivo %1$s não é permitido.';
 $lang['Upload.!error.max_file_size'] = 'O arquivo excede o tamanho máximo permitido.';
+$lang['Upload.!error.file_extension'] = 'A extensão do arquivo, %1$s, não é permitida.';
 

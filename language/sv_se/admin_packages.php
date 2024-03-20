@@ -218,4 +218,6 @@ $lang['AdminPackages.!success.packages_deleted'] = 'Paketen har raderats framgå
 $lang['AdminPackages.!success.package_deleted'] = 'Paketet har raderats framgångsrikt.';
 $lang['AdminPackages.!success.package_updated'] = 'Paketet uppdaterades framgångsrikt.';
 $lang['AdminPackages.!success.package_added'] = 'Paketet skapades framgångsrikt.';
+$lang['AdminPackages.edit.text_default'] = 'Standard';
+$lang['AdminPackages.add.text_default'] = 'Standard';
 

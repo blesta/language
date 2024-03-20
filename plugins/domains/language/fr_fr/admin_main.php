@@ -159,4 +159,9 @@ $lang['AdminMain.edit.title_domain_information'] = 'Informations sur le domaine'
 $lang['AdminMain.edit.title_actions'] = 'Actions';
 $lang['AdminMain.edit.title_basic_options'] = 'Options de base';
 $lang['AdminMain.getmodulefields.auto_choose'] = '-- Choisir Automatiquement --';
+$lang['AdminMain.edit.text_registration_date'] = 'Date d\'enregistrement :';
+$lang['AdminMain.index.text_date_added'] = 'Date d\'ajout :';
+$lang['AdminMain.index.heading_dateregistration'] = 'Date d\'enregistrement';
+$lang['AdminMain.index.heading_registrar'] = 'Greffier';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Le bureau d\'enregistrement du domaine a été mis à jour !';
 

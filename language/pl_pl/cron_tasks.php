@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'Długość katalogu nie może przekracza
 $lang['CronTasks.!error.task_type.format'] = 'Nieprawidłowy typ zadania. Musi to być moduł, wtyczka lub system.';
 $lang['CronTasks.!error.key.length'] = 'Długość klucza zadania cron nie może przekraczać 64 znaków.';
 $lang['CronTasks.!error.key.unique'] = 'Podany klucz zadania cron jest już zajęty.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Usuwa z systemu wszystkie tokeny resetowania hasła, których data ważności minęła.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Usuwanie wygasłych tokenów resetowania hasła';
 

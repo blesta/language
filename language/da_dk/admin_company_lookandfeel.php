@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.editaction.field_url'] = 'Link URL';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_name'] = 'Navn på pakke';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_url'] = 'Status';
 $lang['AdminCompanyLookandfeel.editaction.field_addsubmit'] = 'Rediger handling';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Genvejsikon';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Genvejsikon';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Indstil ikon-URL';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Upload-ikon';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Genvejsikon';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Genvejsikon';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Indstil ikon-URL';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Upload-ikon';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Brugerdefineret ikon';
 

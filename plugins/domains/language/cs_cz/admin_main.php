@@ -159,4 +159,9 @@ $lang['AdminMain.!success.domain_add'] = 'Doména byla úspěšně přidána!';
 $lang['AdminMain.!success.domain_transfer'] = 'Doména byla úspěšně převedena!';
 $lang['AdminMain.!success.domain_register'] = 'Doména byla úspěšně zaregistrována!';
 $lang['AdminMain.!success.domains_unparented'] = 'Vybrané domény byly odebrány z nadřazených služeb a cena byla úspěšně resetována!';
+$lang['AdminMain.edit.text_registration_date'] = 'Datum registrace:';
+$lang['AdminMain.index.text_date_added'] = 'Datum přidání:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Datum registrace';
+$lang['AdminMain.index.heading_registrar'] = 'Registrátor';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Registrátor domény byl aktualizován!';
 

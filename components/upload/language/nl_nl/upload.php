@@ -14,4 +14,5 @@ $lang['Upload.!error.write_failed'] = 'Het bestand kon niet worden geschreven.';
 $lang['Upload.!error.file_exists'] = 'Het bestand bestaat al.';
 $lang['Upload.!error.mime_type'] = 'Het bestandstype %1$s is niet toegestaan.';
 $lang['Upload.!error.max_file_size'] = 'Het bestand overschrijdt de maximaal toegestane bestandsgrootte.';
+$lang['Upload.!error.file_extension'] = 'De bestandsextensie %1$s is niet toegestaan.';
 

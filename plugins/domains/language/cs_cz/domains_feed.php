@@ -29,6 +29,10 @@ $lang['DomainsFeed.getOptionFields.header_description'] = 'Popis';
 $lang['DomainsFeed.getOptionFields.header_name'] = 'Název';
 $lang['DomainsFeed.getOptionFields.example_code_table'] = 'Zobrazí tabulku s cenami všech TLD v dané měně:';
 $lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Příklad kódu';
-$lang['DomainsFeed.description'] = 'Vrátí tabulku HTML obsahující ceny všech TLD.';
-$lang['DomainsFeed.name'] = 'Ceny domén';
+$lang['DomainsFeed.description'] = 'Vrátí tabulku HTML obsahující ceny všech TLD nebo počet registrovaných domén.';
+$lang['DomainsFeed.name'] = 'Domains';
+$lang['DomainsFeed.getOptionFields.param_tlds_description'] = 'Seznam TLDS oddělený čárkami (bez počáteční tečky), který slouží k filtrování domén.';
+$lang['DomainsFeed.getOptionFields.param_status_description'] = 'Stav, pro který se mají filtrovat domény: aktivní, zrušené nebo čekající.';
+$lang['DomainsFeed.getOptionFields.example_code_count'] = 'Zobrazení počtu registrovaných domén:';
+$lang['DomainsFeed.getOptionFields.example_code_pricing'] = 'Zobrazí tabulku s cenami všech TLD v dané měně:';
 

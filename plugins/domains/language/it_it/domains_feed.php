@@ -29,6 +29,10 @@ $lang['DomainsFeed.getOptionFields.header_description'] = 'Descrizione';
 $lang['DomainsFeed.getOptionFields.header_name'] = 'Nome';
 $lang['DomainsFeed.getOptionFields.example_code_table'] = 'Mostra una tabella contenente i prezzi di tutti i TLD in una determinata valuta:';
 $lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Codice di esempio';
-$lang['DomainsFeed.description'] = 'Restituisce una tabella HTML contenente i prezzi di tutti i TLD.';
-$lang['DomainsFeed.name'] = 'Prezzi del dominio';
+$lang['DomainsFeed.description'] = 'Restituisce una tabella HTML contenente i prezzi per tutti i TLD o il numero di domini registrati.';
+$lang['DomainsFeed.name'] = 'Domains';
+$lang['DomainsFeed.getOptionFields.param_tlds_description'] = 'Un elenco separato da virgole di TLDS (escluso il punto iniziale), per filtrare i domini.';
+$lang['DomainsFeed.getOptionFields.param_status_description'] = 'Lo stato per cui filtrare i domini: attivo, annullato o in attesa.';
+$lang['DomainsFeed.getOptionFields.example_code_count'] = 'Mostra il numero di domini registrati:';
+$lang['DomainsFeed.getOptionFields.example_code_pricing'] = 'Mostra una tabella contenente i prezzi di tutti i TLD in una determinata valuta:';
 

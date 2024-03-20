@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'Délka adresáře nesmí překročit 64 
 $lang['CronTasks.!error.task_type.format'] = 'Nesprávný typ úlohy. Musí to být modul, zásuvný modul nebo systém.';
 $lang['CronTasks.!error.key.length'] = 'Délka klíče úlohy cron nesmí překročit 64 znaků.';
 $lang['CronTasks.!error.key.unique'] = 'Zadaný klíč úlohy cron je již obsazen.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Odstraní ze systému všechny tokeny pro resetování hesla, jejichž platnost vypršela.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Odstranění vypršených tokenů pro resetování hesla';
 

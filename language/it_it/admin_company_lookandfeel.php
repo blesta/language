@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'L\'azione è stata c
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'La navigazione è stata aggiornata con successo.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Il layout è stato aggiornato con successo.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'I modelli sono stati aggiornati con successo.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Icona Scorciatoia';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Icona Scorciatoia';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Impostare l\'URL dell\'icona';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Icona Carica';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Icona Scorciatoia';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Icona Scorciatoia';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Impostare l\'URL dell\'icona';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Icona Carica';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Icona personalizzata';
 

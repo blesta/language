@@ -218,4 +218,6 @@ $lang['AdminPackages.edit.heading_provisioning'] = 'Provisioning';
 $lang['AdminPackages.add.field_manual_activation'] = 'Podržení zaplacených čekajících služeb pro ruční aktivaci';
 $lang['AdminPackages.add.heading_provisioning'] = 'Provisioning';
 $lang['AdminPackages.!tooltip.manual_activation'] = 'Pokud je tato možnost zaškrtnuta, je třeba čekající služby využívající tento balíček aktivovat ručně. Tato možnost je určena pro použití s moduly, které nemohou automatizovat provisioning.';
+$lang['AdminPackages.edit.text_default'] = 'Výchozí';
+$lang['AdminPackages.add.text_default'] = 'Výchozí';
 

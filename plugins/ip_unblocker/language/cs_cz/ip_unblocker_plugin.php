@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Nepodařilo se připojit ke vzdálenému serveru. cURL Error: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Žádost o odblokování odeslána.';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Odblokování IP';
 $lang['IpUnblockerPlugin.description'] = 'Zásuvný modul pro Blestu, který se integruje s cPanel a DirectAdmin a odblokovává IP adresy na černé listině.';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Odblokování IP';
 

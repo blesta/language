@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyMessengers.templates.Order.received_staff_name'] = 'Ordre reçu';
 $lang['AdminCompanyMessengers.templates.Order.received_staff_desc'] = 'Avis envoyé lorsqu\'une commande est reçue.';
+$lang['AdminCompanyMessengers.templates.Order.received_staff_name'] = 'Ordre reçu';
 

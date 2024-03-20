@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Ваша лицензия у�
 $lang['AppController.!error.invalid_csrf'] = 'Маркер формы недействителен.';
 $lang['AppController.!error.unauthorized_access'] = 'Вы не авторизованы для доступа к этому ресурсу';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Укажите здесь файлы для загрузки или нажмите, чтобы выбрать файлы';
 

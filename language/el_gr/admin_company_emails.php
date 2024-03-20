@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'Η υπογρα�
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'Η υπογραφή email δημιουργήθηκε με επιτυχία!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'Η υπογραφή email ενημερώθηκε επιτυχώς!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Οι ρυθμίσεις του προτύπου email ενημερώθηκαν επιτυχώς!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Συνεχίστε';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Ακύρωση';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Συνημμένο';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Διαγραφή';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Σίγουρα θέλετε να διαγράψετε αυτό το συνημμένο αρχείο;';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Επιλογές';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Όνομα αρχείου';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Πρόσθετα συνημμένα';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Πρότυπο email';
 

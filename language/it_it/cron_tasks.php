@@ -65,4 +65,6 @@ $lang['CronTasks.!error.dir.length'] = 'La lunghezza della directory non può su
 $lang['CronTasks.!error.task_type.format'] = 'Tipo di attività non valida. Deve essere un modulo, un plugin o un sistema.';
 $lang['CronTasks.!error.key.length'] = 'La lunghezza della chiave del task cron non può superare i 64 caratteri.';
 $lang['CronTasks.!error.key.unique'] = 'La chiave dell\'attività cron fornita è già occupata.';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Rimuove dal sistema tutti i token di reimpostazione della password oltre la data di scadenza.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Eliminare i token di reimpostazione della password scaduti';
 

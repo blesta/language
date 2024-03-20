@@ -81,4 +81,5 @@ $lang['AppController.graphs.control_label.grouped'] = 'Regroupés';
 $lang['AppController.graphs.label.total'] = 'Total';
 $lang['AppController.sreader.dropdown'] = 'Basculer vers le bas';
 $lang['AppController.sreader.navigation'] = 'Toggle Navigation';
+$lang['AppController.dropzone.text'] = 'Déposez les fichiers ici pour les télécharger ou cliquez pour sélectionner les fichiers.';
 

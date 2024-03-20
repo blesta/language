@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'A ação foi criada 
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'A navegação foi atualizada com sucesso.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'O layout foi atualizado com sucesso.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Os modelos foram atualizados com sucesso.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Ícone de atalho';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Ícone de atalho';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Definir URL do ícone';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Ícone de upload';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Ícone de atalho';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Ícone de atalho';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Definir URL do ícone';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Ícone de upload';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Ícone personalizado';
 

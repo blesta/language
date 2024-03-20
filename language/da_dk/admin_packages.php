@@ -218,4 +218,6 @@ $lang['AdminPackages.add.heading_provisioning'] = 'Levering';
 $lang['AdminPackages.add.field_manual_activation'] = 'Hold betalte ventende tjenester til manuel aktivering';
 $lang['AdminPackages.edit.heading_provisioning'] = 'Levering';
 $lang['AdminPackages.edit.field_manual_activation'] = 'Hold betalte ventende tjenester til manuel aktivering';
+$lang['AdminPackages.edit.text_default'] = 'Standard';
+$lang['AdminPackages.add.text_default'] = 'Standard';
 

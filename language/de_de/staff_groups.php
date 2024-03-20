@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.length'] = 'Die Länge des Namens darf 64 Zeichen
 $lang['StaffGroups.!error.name.empty'] = 'Bitte geben Sie einen Namen ein.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ungültige Personalgruppen-ID.';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'E-Mail-Anhang löschen';
 

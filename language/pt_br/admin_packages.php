@@ -218,4 +218,6 @@ $lang['AdminPackages.!success.packages_deleted'] = 'Os pacotes foram excluídos 
 $lang['AdminPackages.!success.package_deleted'] = 'O pacote foi excluído com êxito.';
 $lang['AdminPackages.!success.package_updated'] = 'O pacote foi atualizado com sucesso.';
 $lang['AdminPackages.!success.package_added'] = 'O pacote foi criado com sucesso.';
+$lang['AdminPackages.edit.text_default'] = 'Padrão';
+$lang['AdminPackages.add.text_default'] = 'Padrão';
 

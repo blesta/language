@@ -14,4 +14,5 @@ $lang['Upload.!error.write_failed'] = 'Filen kunde inte skrivas.';
 $lang['Upload.!error.file_exists'] = 'Filen finns redan.';
 $lang['Upload.!error.mime_type'] = 'Filtypen %1$s är inte tillåten.';
 $lang['Upload.!error.max_file_size'] = 'Filen överskrider den maximalt tillåtna filstorleken.';
+$lang['Upload.!error.file_extension'] = 'Filtillägget %1$s är inte tillåtet.';
 

@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Die Aktion wurde erf
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Die Navigation wurde erfolgreich aktualisiert.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Das Layout wurde erfolgreich aktualisiert.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Die Vorlagen wurden erfolgreich aktualisiert.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Abkürzungssymbol';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Abkürzungssymbol';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Icon-URL festlegen';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Upload-Symbol';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Abkürzungssymbol';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Abkürzungssymbol';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Icon-URL festlegen';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Upload-Symbol';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Benutzerdefinierte Ikone';
 

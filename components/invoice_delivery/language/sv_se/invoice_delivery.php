@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.!error.libxml_required'] = 'Tilläggsprogrammen libxml och simplexml krävs för leverans av fakturor.';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Faktura #%1$s';
 $lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'Faktura #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Faktura #%1$s';
+$lang['InvoiceDelivery.!error.libxml_required'] = 'Tilläggsprogrammen libxml och simplexml krävs för leverans av fakturor.';
 

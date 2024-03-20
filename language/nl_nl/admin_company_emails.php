@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'De e-mailhandtek
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'De e-mailhandtekening is succesvol aangemaakt!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'De e-mailhandtekening is succesvol bijgewerkt!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'De instellingen voor de e-mailsjabloon zijn bijgewerkt!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Ga verder';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuleren';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Bijlage';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Verwijder';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Weet je zeker dat je deze bijlage wilt verwijderen?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opties';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Bestandsnaam';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Extra bijlagen';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'E-mail Sjabloon';
 

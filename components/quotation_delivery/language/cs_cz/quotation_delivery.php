@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['QuotationDelivery.!error.libxml_required'] = 'Pro doručení faktury jsou vyžadována rozšíření libxml a simplexml.';
-$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Citace #%1$s';
 $lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Citace #%1$s';
+$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Citace #%1$s';
+$lang['QuotationDelivery.!error.libxml_required'] = 'Pro doručení faktury jsou vyžadována rozšíření libxml a simplexml.';
 

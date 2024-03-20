@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Sua chave de licença fo
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'As configurações de manutenção foram atualizadas com sucesso!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'As configurações de GeoIP foram atualizadas com sucesso!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'As configurações do Basic Setup foram atualizadas com sucesso!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'O diretório de upload deve existir e estar fora do diretório raiz da Web.';
 

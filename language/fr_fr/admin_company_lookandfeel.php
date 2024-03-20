@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.editaction.field_url'] = 'Lien URL';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_name'] = 'Nom du paquet';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_url'] = 'Statut';
 $lang['AdminCompanyLookandfeel.editaction.field_addsubmit'] = 'Modifier l\'action';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Icône de raccourci';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Icône de raccourci';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Définir l\'URL de l\'icône';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Icône de téléchargement';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Icône de raccourci';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Icône de raccourci';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Définir l\'URL de l\'icône';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Icône de téléchargement';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Icône personnalisée';
 

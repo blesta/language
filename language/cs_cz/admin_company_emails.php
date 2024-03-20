@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'Podpis e-mailu b
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'Podpis e-mailu byl úspěšně vytvořen!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'Podpis e-mailu byl úspěšně aktualizován!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Nastavení e-mailové šablony bylo úspěšně aktualizováno!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Pokračovat';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Zrušit';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Příloha';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Odstranit';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Opravdu chcete tuto přílohu odstranit?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Možnosti';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Název souboru';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Další přílohy';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Šablona e-mailu';
 

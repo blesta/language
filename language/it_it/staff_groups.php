@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.length'] = 'La lunghezza del nome non può supera
 $lang['StaffGroups.!error.name.empty'] = 'Inserire un nome.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID azienda non valido.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID gruppo personale non valido.';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Eliminare l\'allegato di un\'e-mail';
 

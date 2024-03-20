@@ -159,4 +159,9 @@ $lang['AdminMain.!success.domains_pushed'] = 'Wybrane domeny zostały pomyślnie
 $lang['AdminMain.!success.update_nameservers'] = 'Serwery nazw domen zostały zaktualizowane!';
 $lang['AdminMain.!success.domain_renewal'] = 'Domena została odnowiona!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Automatyczne odnawianie domen zostało zaktualizowane!';
+$lang['AdminMain.edit.text_registration_date'] = 'Data rejestracji:';
+$lang['AdminMain.index.text_date_added'] = 'Data dodania:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Data rejestracji';
+$lang['AdminMain.index.heading_registrar'] = 'Rejestrator';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Rejestrator domen został zaktualizowany!';
 

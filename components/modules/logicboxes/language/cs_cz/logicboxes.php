@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes je registrátor domén.';
 $lang['Logicboxes.name'] = 'LogicBoxes';
 $lang['Logicboxes.!error.currency.not_exists'] = 'Prodejní měna v této společnosti neexistuje.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Pokud je zaškrtnuto políčko Sandbox, je třeba definovat pověření testovacího/demo účtu. Při použití pověření k produkčnímu účtu se zaškrtnutou volbou Sandbox budou stále prováděny akce v reálném provozu.';
+$lang['Logicboxes.domain.domain'] = 'Název domény';
+$lang['Logicboxes.transfer.domain'] = 'Název domény';
 

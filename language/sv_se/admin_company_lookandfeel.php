@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Åtgärden skapades 
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Navigeringen uppdaterades framgångsrikt.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Layouten uppdaterades framgångsrikt.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Mallarna uppdaterades framgångsrikt.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Ikon för genväg';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Ikon för genväg';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Ange URL för ikon';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Ikon för uppladdning';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Ikon för genväg';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Ikon för genväg';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Ange URL för ikon';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Ikon för uppladdning';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Anpassad ikon';
 

@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes ist ein Domain-Registrar.';
 $lang['Logicboxes.name'] = 'LogicBoxen';
 $lang['Logicboxes.!error.currency.not_exists'] = 'Die Wiederverkäuferwährung gibt es bei diesem Unternehmen nicht.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Wenn die Sandbox aktiviert ist, müssen Sie die Anmeldedaten für das Test-/Demokonto festlegen. Wenn Sie die Anmeldedaten Ihres Produktionskontos verwenden und die Sandbox aktiviert ist, werden weiterhin Live-Aktionen durchgeführt.';
+$lang['Logicboxes.domain.domain'] = 'Domänenname';
+$lang['Logicboxes.transfer.domain'] = 'Domänenname';
 

@@ -91,4 +91,13 @@ $lang['AdminCompanyLookandfeel.!success.action_created'] = 'Действие б�
 $lang['AdminCompanyLookandfeel.!success.navigation_updated'] = 'Навигация была успешно обновлена.';
 $lang['AdminCompanyLookandfeel.!success.layout_updated'] = 'Макет был успешно обновлен.';
 $lang['AdminCompanyLookandfeel.!success.template_updated'] = 'Шаблоны были успешно обновлены.';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_url'] = 'Значок быстрого доступа';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_image'] = 'Значок быстрого доступа';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_url'] = 'Установить URL-адрес значка';
+$lang['AdminCompanyLookandfeel.customize.field.client_icon_type_image'] = 'Значок загрузки';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_url'] = 'Значок быстрого доступа';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_image'] = 'Значок быстрого доступа';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_url'] = 'Установить URL-адрес значка';
+$lang['AdminCompanyLookandfeel.customize.field.admin_icon_type_image'] = 'Значок загрузки';
+$lang['AdminCompanyLookandfeel.customize.heading_custom_icon'] = 'Пользовательский значок';
 

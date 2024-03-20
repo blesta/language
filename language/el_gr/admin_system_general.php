@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Το κλειδί άδε
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Οι ρυθμίσεις συντήρησης ενημερώθηκαν με επιτυχία!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Οι ρυθμίσεις GeoIP ενημερώθηκαν με επιτυχία!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Οι ρυθμίσεις Basic Setup ενημερώθηκαν με επιτυχία!';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'Ο κατάλογος μεταφόρτωσης πρέπει να υπάρχει και να βρίσκεται εκτός του ριζικού καταλόγου ιστού.';
 

@@ -159,4 +159,9 @@ $lang['AdminMain.edit.title_domain_information'] = 'Información de dominio';
 $lang['AdminMain.edit.title_actions'] = 'Acciones';
 $lang['AdminMain.edit.title_basic_options'] = 'Opciones básicas';
 $lang['AdminMain.getmodulefields.auto_choose'] = '-- Elige Automáticamente --';
+$lang['AdminMain.edit.text_registration_date'] = 'Fecha de registro:';
+$lang['AdminMain.index.text_date_added'] = 'Fecha de adición:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Fecha de registro';
+$lang['AdminMain.index.heading_registrar'] = 'Registrador';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'El registrador de dominios ha sido actualizado.';
 

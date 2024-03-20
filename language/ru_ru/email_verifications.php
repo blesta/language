@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['EmailVerifications.!error.contact_id.exists'] = 'Неверный идентификатор контакта.';
-$lang['EmailVerifications.!error.email.valid'] = 'Пожалуйста, введите действительный адрес электронной почты.';
 $lang['EmailVerifications.!error.redirect_url.valid'] = 'Пожалуйста, введите действительный URL-адрес.';
-$lang['EmailVerifications.!error.token.format'] = 'Пожалуйста, введите действительный токен.';
 $lang['EmailVerifications.!error.verified.valid'] = 'Поле "Проверено" должно быть равно "1" или "0".';
+$lang['EmailVerifications.!error.token.format'] = 'Пожалуйста, введите действительный токен.';
+$lang['EmailVerifications.!error.email.valid'] = 'Пожалуйста, введите действительный адрес электронной почты.';
+$lang['EmailVerifications.!error.contact_id.exists'] = 'Неверный идентификатор контакта.';
 

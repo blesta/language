@@ -65,4 +65,6 @@ $lang['CronTasks.crontask.description.unsuspend_services'] = 'Los servicios susp
 $lang['CronTasks.crontask.name.transition_quotations'] = 'Citas de transición';
 $lang['CronTasks.crontask.description.transition_quotations'] = 'Marcar como caducadas las cotizaciones cuya fecha de validez haya vencido';
 $lang['CronTasks.crontask.name.license_validation'] = 'Validación de licencias';
+$lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Elimina del sistema todos los tokens de restablecimiento de contraseña que hayan superado la fecha de caducidad.';
+$lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Eliminar tokens de restablecimiento de contraseña caducados';
 

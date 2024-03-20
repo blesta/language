@@ -159,4 +159,9 @@ $lang['AdminMain.!success.domains_pushed'] = 'Выбранные домены б
 $lang['AdminMain.!success.update_nameservers'] = 'Серверы доменных имен были обновлены!';
 $lang['AdminMain.!success.domain_renewal'] = 'Домен был обновлен!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Автопродление домена было обновлено!';
+$lang['AdminMain.edit.text_registration_date'] = 'Дата регистрации:';
+$lang['AdminMain.index.text_date_added'] = 'Дата добавления:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Дата регистрации';
+$lang['AdminMain.index.heading_registrar'] = 'Регистратор';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Регистратор домена был обновлен!';
 

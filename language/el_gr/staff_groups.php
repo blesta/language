@@ -184,4 +184,5 @@ $lang['StaffGroups.!error.name.empty'] = 'Παρακαλώ εισάγετε έν
 $lang['StaffGroups.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Μη έγκυρο αναγνωριστικό ομάδας προσωπικού.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Μαύρη λίστα';
+$lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Διαγραφή συνημμένου email';
 

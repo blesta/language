@@ -159,4 +159,9 @@ $lang['AdminMain.!success.domains_pushed'] = 'De valda domänerna har överfört
 $lang['AdminMain.!success.update_nameservers'] = 'Domännamnsservrarna har uppdaterats!';
 $lang['AdminMain.!success.domain_renewal'] = 'Domänen har förnyats!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Den automatiska domänförnyelsen har uppdaterats!';
+$lang['AdminMain.edit.text_registration_date'] = 'Datum för registrering:';
+$lang['AdminMain.index.text_date_added'] = 'Datum för införande:';
+$lang['AdminMain.index.heading_dateregistration'] = 'Datum för registrering';
+$lang['AdminMain.index.heading_registrar'] = 'Registrator';
+$lang['AdminMain.!success.domain_registrar_updated'] = 'Domänregistratorn har uppdaterats!';
 

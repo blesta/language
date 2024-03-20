@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes è una società di registrazione d
 $lang['Logicboxes.name'] = 'LogicBox';
 $lang['Logicboxes.!error.currency.not_exists'] = 'La valuta del rivenditore non esiste in questa azienda.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Se Sandbox è selezionato, è necessario definire le credenziali dell\'account di prova/demo. Utilizzando le credenziali dell\'account di produzione con Sandbox selezionata, le azioni verranno comunque eseguite dal vivo.';
+$lang['Logicboxes.domain.domain'] = 'Nome di dominio';
+$lang['Logicboxes.transfer.domain'] = 'Nome di dominio';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.attempt'] = 'Pokus o ověření licence.';
 $lang['Automation.task.license_validation.completed'] = 'Úloha ověření licence byla dokončena.';
+$lang['Automation.task.license_validation.attempt'] = 'Pokus o ověření licence.';
 

@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Die Konfiguration des Do
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Das Modul wurde erfolgreich deinstalliert.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Das Modul wurde erfolgreich installiert.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Das Modul wurde erfolgreich aktualisiert.';
+$lang['AdminDomains.browse.heading_added'] = 'Hinzugefügtes Datum';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Die Domainregistrierungsstelle wurde aktualisiert!';
 

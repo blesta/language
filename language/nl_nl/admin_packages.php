@@ -218,4 +218,6 @@ $lang['AdminPackages.edit.heading_provisioning'] = 'Bevoorrading';
 $lang['AdminPackages.add.field_manual_activation'] = 'Betaalde services in wachtstand houden voor handmatige activering';
 $lang['AdminPackages.add.heading_provisioning'] = 'Bevoorrading';
 $lang['AdminPackages.!tooltip.manual_activation'] = 'Als deze optie is aangevinkt, moeten hangende services die dit pakket gebruiken handmatig worden geactiveerd. Dit is bedoeld voor gebruik met modules die provisioning niet kunnen automatiseren.';
+$lang['AdminPackages.edit.text_default'] = 'Standaard';
+$lang['AdminPackages.add.text_default'] = 'Standaard';
 

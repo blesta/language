@@ -81,4 +81,5 @@ $lang['AppController.!success.license_updated'] = 'Η άδειά σας επικ
 $lang['AppController.!error.invalid_csrf'] = 'Το σύμβολο της φόρμας είναι άκυρο.';
 $lang['AppController.!error.unauthorized_access'] = 'Δεν είστε εξουσιοδοτημένοι να έχετε πρόσβαση σε αυτόν τον πόρο';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.dropzone.text'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
 

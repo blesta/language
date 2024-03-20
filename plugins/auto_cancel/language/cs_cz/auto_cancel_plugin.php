@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AutoCancelPlugin.description'] = 'Automatické plánování služeb pro zrušení.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Automaticky naplánuje zrušení pozastavených služeb.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatické zrušení plánu';
+$lang['AutoCancelPlugin.description'] = 'Automatické plánování služeb pro zrušení.';
 $lang['AutoCancelPlugin.name'] = 'Automatické zrušení';
 

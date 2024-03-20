@@ -289,4 +289,6 @@ $lang['Logicboxes.description'] = 'LogicBoxes är en domänregistrator.';
 $lang['Logicboxes.name'] = 'Logikboxar';
 $lang['Logicboxes.!error.currency.not_exists'] = 'Återförsäljarvalutan finns inte i detta företag.';
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Om Sandbox är markerat måste du definiera autentiseringsuppgifter för test-/demo-konton. Om du använder autentiseringsuppgifter för ditt produktionskonto med Sandbox markerat kommer live-åtgärder fortfarande att utföras.';
+$lang['Logicboxes.domain.domain'] = 'Domännamn';
+$lang['Logicboxes.transfer.domain'] = 'Domännamn';
 

@@ -90,4 +90,5 @@ $lang['AdminSystemGeneral.edittype.field_name'] = 'Nombre';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Tipo';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Utilizar la definición lingüística';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Editar tipo de pago';
+$lang['AdminSystemGeneral.!error.upload_dir'] = 'El directorio de carga debe existir y estar fuera del directorio web raíz.';
 

@@ -178,4 +178,13 @@ $lang['AdminCompanyEmails.!success.deletesignature_deleted'] = 'Подпись �
 $lang['AdminCompanyEmails.!success.addsignature_created'] = 'Подпись электронной почты успешно создана!';
 $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'Подпись электронной почты была успешно обновлена!';
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Настройки шаблона электронной почты были успешно обновлены!';
+$lang['AdminCompanyEmails.edittemplate.field_continue'] = 'Продолжить';
+$lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Отмена';
+$lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Вложение';
+$lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Удалить';
+$lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Вы уверены, что хотите удалить это вложение?';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Опции';
+$lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Имя файла';
+$lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Дополнительные вложения';
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Шаблон электронной почты';
 

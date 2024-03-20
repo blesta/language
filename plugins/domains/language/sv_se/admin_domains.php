@@ -256,4 +256,6 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Konfigurationen för Dom
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Modulen har avinstallerats framgångsrikt.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Modulen installerades framgångsrikt.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Modulen uppgraderades framgångsrikt.';
+$lang['AdminDomains.browse.heading_added'] = 'Tillagt datum';
+$lang['AdminDomains.!success.domain_registrar_updated'] = 'Domänregistratorn har uppdaterats!';
 
