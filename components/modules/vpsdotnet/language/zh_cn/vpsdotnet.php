@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.zh_cn
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.tab_actions.status_pending'] = '待定';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = '请选择有效模板。';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = '请选择有效的操作系统。';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = '请选择有效的云。';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = '标签不得包含特殊字符。';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = '请输入标签。';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = '主机名似乎无效。';
+$lang['Vpsdotnet.!error.meta[template].format'] = '请选择有效模板。';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = '请选择是否允许客户设置模板。';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = '请选择有效的操作系统。';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = '请选择是否允许客户端设置操作系统。';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = '请选择有效的云。';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = '请选择是否允许客户设置云。';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = '请输入要分配的节点数。';
+$lang['Vpsdotnet.!error.confirm.valid'] = '您必须确认已了解重新安装操作，才能执行模板重新安装。';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = '请选择有效模板。';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = '发生错误，无法重新安装模板。';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = '发生错误，无法取消服务。';
+$lang['Vpsdotnet.!error.vps.action_failed'] = '发生错误，无法执行操作。';
+$lang['Vpsdotnet.!error.vps.update_failed'] = '发生错误，虚拟机无法更新。';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = '无法添加所需节点。';
+$lang['Vpsdotnet.!error.key.valid_connection'] = '无法建立与服务器的连接。请检查电子邮件地址和 API 密钥是否正确。';
+$lang['Vpsdotnet.!error.key.empty'] = '请输入您的 API 密钥。';
+$lang['Vpsdotnet.!error.email.format'] = '请输入有效的电子邮件地址。';
+$lang['Vpsdotnet.!error.server_name.empty'] = '请输入此服务器的标签。';
+$lang['Vpsdotnet.tab_client_console.root_password'] = '密码';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = '控制台';
+$lang['Vpsdotnet.tab_console.root_password'] = '密码';
+$lang['Vpsdotnet.tab_console.heading_console'] = '控制台';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = '重置密码';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = '重置密码';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = '更改主机名';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = '主机名';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = '更改主机名';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = '重新安装';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = '我知道重新安装后，服务器上的所有数据将被永久删除，并将安装所选的操作系统和模板。';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = '模板';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = '操作系统';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = '重新安装';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = '服务器行动';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = '未知';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = '待定';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = '离线';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = '在线';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = '服务器状态';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = '重置密码';
+$lang['Vpsdotnet.tab_actions.heading_password'] = '重置密码';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = '更改主机名';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = '主机名';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = '更改主机名';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = '重新安装';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = '我知道重新安装后，服务器上的所有数据将被永久删除，并将安装所选的操作系统和模板。';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = '模板';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = '操作系统';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = '重新安装';
+$lang['Vpsdotnet.tab_actions.server_status'] = '服务器状态';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = '行动';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = '未知';
+$lang['Vpsdotnet.tab_actions.status_offline'] = '离线';
+$lang['Vpsdotnet.tab_actions.status_online'] = '在线';
+$lang['Vpsdotnet.!actions.password'] = '重置密码';
+$lang['Vpsdotnet.!actions.hostname'] = '更改主机名';
+$lang['Vpsdotnet.!actions.reinstall'] = '重新安装';
+$lang['Vpsdotnet.!actions.shutdown'] = '关闭';
+$lang['Vpsdotnet.!actions.reboot'] = '重新启动';
+$lang['Vpsdotnet.!actions.boot'] = '靴子';
+$lang['Vpsdotnet.tab_client_console'] = '控制台';
+$lang['Vpsdotnet.tab_client_actions'] = '服务器行动';
+$lang['Vpsdotnet.tab_console'] = '控制台';
+$lang['Vpsdotnet.tab_actions'] = '服务器行动';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = '模板';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = '操作系统';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = '云/区';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS 标签';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = '主机名';
+$lang['Vpsdotnet.package_fields.template'] = '模板';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = '选择模板';
+$lang['Vpsdotnet.package_fields.client_set_template'] = '让客户设置模板';
+$lang['Vpsdotnet.package_fields.template_group'] = '操作系统';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = '选择操作系统';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = '让客户设置操作系统和模板';
+$lang['Vpsdotnet.package_fields.cloud'] = '云/区';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = '选择云/区';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = '让客户设置云/区域、操作系统和模板';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = '节点数';
+$lang['Vpsdotnet.edit_row.add_btn'] = '更新服务器';
+$lang['Vpsdotnet.edit_row.basic_title'] = '基本设置';
+$lang['Vpsdotnet.edit_row.box_title'] = '编辑 VPS.NET 服务器';
+$lang['Vpsdotnet.add_row.add_btn'] = '添加服务器';
+$lang['Vpsdotnet.row_meta.key'] = 'API 密钥';
+$lang['Vpsdotnet.row_meta.email'] = '电子邮件';
+$lang['Vpsdotnet.row_meta.server_name'] = '服务器标签';
+$lang['Vpsdotnet.add_row.basic_title'] = '基本设置';
+$lang['Vpsdotnet.add_row.box_title'] = '添加 VPS.NET 服务器';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = '密码';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = '主 IP 地址';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = '没有服务器组。';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = '您确定要删除此服务器组吗？';
+$lang['Vpsdotnet.manage.module_groups.delete'] = '删除';
+$lang['Vpsdotnet.manage.module_groups.edit'] = '编辑';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = '选项';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = '服务器数量';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = '组名';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'VPS.NET 主服务器组';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = '没有服务器。';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = '您确定要删除这个服务器吗？';
+$lang['Vpsdotnet.manage.module_rows.delete'] = '删除';
+$lang['Vpsdotnet.manage.module_rows.edit'] = '编辑';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = '选项';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = '电子邮件';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = '服务器标签';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'VPS.NET 主服务器';
+$lang['Vpsdotnet.add_module_group'] = '添加服务器组';
+$lang['Vpsdotnet.add_module_row'] = '添加服务器';
+$lang['Vpsdotnet.please_wait'] = '请稍候...';
+$lang['Vpsdotnet.order_options.first'] = '第一个非满员服务器';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET 高级小组';
+$lang['Vpsdotnet.module_row_plural'] = '服务器';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET 主服务器';
+$lang['Vpsdotnet.description'] = 'VPS.NET 提供虚拟化服务器托管服务。';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

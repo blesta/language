@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.tr_tr
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'İşletim Sistemi';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Lütfen geçerli bir şablon seçin.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Lütfen geçerli bir işletim sistemi seçin.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Lütfen geçerli bir bulut seçin.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Etiket özel karakterler içeremez.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Lütfen bir etiket girin.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Ana bilgisayar adı geçersiz görünüyor.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Lütfen geçerli bir şablon seçin.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Lütfen bir müşterinin şablonu ayarlamasına izin verip vermeyeceğinizi seçin.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Lütfen geçerli bir işletim sistemi seçin.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Lütfen bir istemcinin işletim sistemini ayarlamasına izin verip vermeyeceğinizi seçin.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Lütfen geçerli bir bulut seçin.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Lütfen bir müşterinin bulut ayarlamasına izin verip vermeyeceğinizi seçin.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Lütfen tahsis edilecek düğüm sayısını girin.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Şablon yeniden yüklemesini gerçekleştirmek için yeniden yükleme eylemini anladığınızı onaylamanız gerekir.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Lütfen geçerli bir şablon seçin.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Bir hata oluştu ve şablon yeniden yüklenemedi.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Bir hata oluştu ve hizmet iptal edilemedi.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Bir hata oluştu ve eylem gerçekleştirilemedi.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Bir hata oluştu ve Sanal Makine güncellenemedi.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Gerekli düğümler eklenemiyor.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Sunucuyla bağlantı kurulamadı. Lütfen e-posta adresinin ve API anahtarının doğru olduğundan emin olmak için kontrol edin.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Lütfen API anahtarınızı girin.';
+$lang['Vpsdotnet.!error.email.format'] = 'Lütfen geçerli bir e-posta adresi girin.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Lütfen bu sunucu için bir etiket girin.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Şifre';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Şifre:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Şifre Sıfırlama';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Şifre Sıfırlama';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Ana Bilgisayar Adını Değiştir';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Ana bilgisayar adı';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Ana Bilgisayar Adını Değiştir';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Yeniden Yükle';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Yeniden yükleme ile sunucudaki tüm verilerin kalıcı olarak silineceğini ve seçilen işletim sistemi ve şablonun yükleneceğini anlıyorum.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Şablon';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Yeniden Yükle';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Sunucu Eylemleri';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Bilinmiyor';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'Beklemede';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Çevrimdışı';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Çevrimiçi';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Sunucu Durumu';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Şifre Sıfırlama';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Şifre Sıfırlama';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Ana Bilgisayar Adını Değiştir';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Ana bilgisayar adı';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Ana Bilgisayar Adını Değiştir';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Yeniden Yükle';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Yeniden yükleme ile sunucudaki tüm verilerin kalıcı olarak silineceğini ve seçilen işletim sistemi ve şablonun yükleneceğini anlıyorum.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Şablon';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'İşletim Sistemi';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Yeniden Yükle';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Sunucu Durumu';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Eylemler';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Bilinmiyor';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'Beklemede';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Çevrimdışı';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Çevrimiçi';
+$lang['Vpsdotnet.!actions.password'] = 'Şifre Sıfırlama';
+$lang['Vpsdotnet.!actions.hostname'] = 'Ana Bilgisayar Adını Değiştir';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Yeniden Yükle';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Kapatma';
+$lang['Vpsdotnet.!actions.reboot'] = 'Yeniden Başlatma';
+$lang['Vpsdotnet.!actions.boot'] = 'Çizme';
+$lang['Vpsdotnet.tab_client_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_actions'] = 'Sunucu Eylemleri';
+$lang['Vpsdotnet.tab_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_actions'] = 'Sunucu Eylemleri';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Şablon';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'İşletim Sistemi';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Bulut/Bölge';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS Etiketi';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Ana bilgisayar adı';
+$lang['Vpsdotnet.package_fields.template'] = 'Şablon';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Şablon Seçin';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Şablonu müşterinin belirlemesine izin verin';
+$lang['Vpsdotnet.package_fields.template_group'] = 'İşletim Sistemi';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'İşletim Sistemini Seçin';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'İstemcinin İşletim Sistemini ve Şablonu ayarlamasına izin verin';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Bulut/Bölge';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Bir Bulut/Bölge Seçin';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'İstemcinin Bulut/Bölge, İşletim Sistemi ve Şablon ayarlamasına izin verin';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Düğüm Sayısı';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Sunucu Güncelleme';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Temel Ayarlar';
+$lang['Vpsdotnet.edit_row.box_title'] = 'VPS.NET Sunucusunu Düzenle';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Sunucu Ekle';
+$lang['Vpsdotnet.row_meta.key'] = 'API Anahtarı';
+$lang['Vpsdotnet.row_meta.email'] = 'E-posta';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Sunucu Etiketi';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Temel Ayarlar';
+$lang['Vpsdotnet.add_row.box_title'] = 'VPS.NET Sunucusu Ekleme';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Şifre';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Birincil IP Adresi';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Sunucu grubu yoktur.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Bu sunucu grubunu silmek istediğinizden emin misiniz?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Silme';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Düzenle';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Seçenekler';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Grup Adı';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'VPS.NET Ana Sunucu Grupları';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Sunucu yok.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Bu sunucuyu silmek istediğinizden emin misiniz?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Silme';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Düzenle';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Seçenekler';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'E-posta';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Sunucu Etiketi';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'VPS.NET Ana Sunucular';
+$lang['Vpsdotnet.add_module_group'] = 'Sunucu Grubu Ekleme';
+$lang['Vpsdotnet.add_module_row'] = 'Sunucu Ekle';
+$lang['Vpsdotnet.please_wait'] = 'Lütfen bekleyin...';
+$lang['Vpsdotnet.order_options.first'] = 'İlk dolu olmayan sunucu';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET Ana Grup';
+$lang['Vpsdotnet.module_row_plural'] = 'Sunucular';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET Ana Sunucu';
+$lang['Vpsdotnet.description'] = 'VPS.NET sanallaştırılmış sunucu barındırma sağlar.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

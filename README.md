@@ -18,10 +18,13 @@ To install these languages, follow the steps:
 | Français, FR  | fr_fr  |
 | Ελληνικά, GR  | el_gr  |
 | Română, RO | ro_ro |
+| Indonesian, ID | id_id |
 | Italiano, IT  | it_it  |
 | Československý, CZ  | cz_cz  |
 | Nederlands, NL  | nl_nl  |
 | Polski, PL  | pl_pl  |
 | Svenska, SE  | sv_se  |
+| Türkçe, TR | tr_tr |
 | Pyccĸий, RU  | ru_ru  |
 | Português, BR  | pt_br  |
+| 中文, CN | zh_cn |

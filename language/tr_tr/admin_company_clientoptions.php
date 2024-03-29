@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.tr_tr
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Ayarları Güncelle';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Faks';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-posta';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Posta Kodu';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Eyalet/İl';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Ülke';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Şehir';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Adres 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Adres 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Başlık';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Şirket/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Soyadı';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'İlk İsim';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Sadece Okunur';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Göster';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Gerekli';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Saha';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Bir müşteri veya kişi oluştururken ya da güncellerken gerekli olması gereken alanları işaretleyin.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Gerekli Müşteri Alanları';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Müşteri Özel Alanları > Zorunlu Müşteri Alanları';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Özel Regex';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Evet';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Hayır';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Kaldırmak';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Varsayılan';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Seçenek Adı';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Değer';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Ek Seçenek Ekle';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Varsayılan Metin Değeri';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Varsayılan Değer Kontrol Edildi';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Değer';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Özel Alanı Düzenle';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Değerleri Şifrele';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Özel Regex';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Gerekli';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Müşteriler için Salt Okunur';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Müşteriler Tarafından Görülebilir';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Tip';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Bağlantı';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'İsim bir dil tanımıdır';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'İsim';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Özel Alanı Düzenle';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Müşteri Özel Alanları > Özel Alanı Düzenle';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Kaldırmak';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Varsayılan';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Seçenek Adı';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Değer';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Ek Seçenek Ekle';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Bu alanın zorunlu tutulması ancak müşterilere görünür kılınmaması, müşterilerin kayıt olamamasına veya hesap bilgilerini güncelleyememesine neden olacaktır.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Varsayılan Metin Değeri';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Varsayılan Değer Kontrol Edildi';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Değer';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Özel Alan Ekleme';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Değerleri Şifrele';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Özel Regex';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Gerekli';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Müşteriler için Salt Okunur';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Müşteriler Tarafından Görülebilir';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Tip';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Bağlantı';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'İsim bir dil tanımıdır';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'İsim';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Müşteri Grubu';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Özel Alan Ekleme';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Müşteri Özel Alanları > Özel Alan Ekle';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Özel alan yoktur.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Bu özel alanın silinmesi, bu gruptaki her bir müşteri için saklanan tüm verileri silecektir. Bu özel alanı silmek istediğinizden emin misiniz?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Silme';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Düzenle';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Seçenekler';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Müşteriler için Salt Okunur';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Müşteriler Tarafından Görülebilir';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Gerekli';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Tip';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'İsim';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Alan Oluştur';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Müşteri Özel Alanlarına Gözat';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Müşteri Özel Alanları > Gözat';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Gönder';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Doğrulanmamış Müşterilerden Gelen Ödemeleri Önleyin';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Müşteri Kimliği Artış Değeri';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Müşteri Kimliği Başlangıç Değeri';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Müşteri Kimliği Formatı';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'E-posta Doğrulamayı Etkinleştir';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'E-posta Kullanıcı Adlarını Zorla';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Tüm Kişiler';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Birincil İletişim';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Yok --';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Benzersiz İletişim E-posta Adreslerini Zorla';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Genel İstemci Ayarları';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Genel';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'İşaretlenen seçenek değeri, bu seçenek bir müşteri için eklendiğinde seçilen varsayılan değer olacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'İşaretlenirse, bu özel alan bir müşteri için eklendiğinde bu onay kutusu varsayılan olarak işaretlenecektir.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Buraya girilen metin, bir müşteri için bu özel alan eklendiğinde bu seçenek için ayarlanan varsayılan değer olacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Onay kutusu işaretlendiğinde gönderilen değer.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Değeri şifrelenmiş olarak saklamak için bu kutuyu işaretleyin. Herhangi bir hassas veya kişisel olarak tanımlayıcı bilgi saklanıyorsa bu şiddetle tavsiye edilir.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Bu seçenek, "Gerekli" öğesi "Özel Regex" olarak ayarlanmışsa görünecektir. Bu alan için geçerli kılınacak özel düzenli ifadeyi buraya girin.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Bu alan için bir değer verildiğinden emin olmak için "Evet" seçeneğini seçin, Açılır tipler için seçenek, seçenekler listesinde görünmelidir. Bu alan için herhangi bir değeri kabul etmek için "Hayır "ı seçin. Bu alanı doğrulamak üzere özel bir düzenli ifade kullanmak için "Custom Regex" seçeneğini seçin.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Bu kutunun işaretlenmesi, bu özel alanı müşteri tarafından değiştirilemez hale getirecektir. Salt okunur alanlar otomatik olarak atanmış varsayılan değerlerine ayarlanacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Müşterilerin bu alanı görmesine ve güncellemesine izin vermek için işaretleyin.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Özel alan, seçilen form türü olarak görünecektir.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Alanın adına eklenebilecek özel bir bağlantı. Bağlantıyı uygulamak istediğiniz metni köşeli parantezler içine alın (örn. [terms]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Bu kutuyu yalnızca özel dil dosyasına bu özel alan için bir dil tanımı eklediyseniz işaretleyin.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Bu, bu alan için görünen addır. Bir dil tanımı olabilir.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Özel alan yalnızca seçilen müşteri grubunun üyeleri için geçerli olacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Sonraki Müşteri Kimlik numaraları bu değer kadar artacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'Müşteri Kimliği Başlangıcı, Müşteri Kimlikleri için başlangıç değeridir. En son oluşturulan Müşterinin değerinden küçük olmadığı sürece yeni müşteriler bu değere sahip olacaktır.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Müşteri Kimliği Formatı, Müşteri Kimliğinin formatıdır. ABC-{num} değeri ABC-1500 Müşteri Kimliği ile sonuçlanacaktır, burada 1500 Müşterinin Kimlik değeridir.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Yeni bir oturum açıldığında veya bir müşteri e-posta adresini değiştirdiğinde bir e-posta doğrulama e-postası göndermek için işaretleyin. Doğrulama yapılana kadar müşteri profilinde bir bildirim görünecektir.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Müşteriler, kendi kullanıcı adlarını tanımlamak yerine e-posta adreslerini kullanıcı adı olarak kullanmalıdır. Mevcut müşteriler mevcut kullanıcı adlarıyla giriş yapmaya devam edebilirler.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Kişiler için e-posta adreslerini kısıtlar. Birincil Kişiler, iki birincil kişinin (yani müşterilerin) aynı e-posta adresine sahip olamayacağı anlamına gelir. Tüm Kişiler, herhangi bir türdeki hiçbir kişinin başka bir kişiyle aynı e-posta adresine sahip olamayacağı anlamına gelir.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Bir Eyalet/İl seçilmesini isterken dikkatli olun. Bazı ülkelerde eyalet bulunmamaktadır. Bu ülkelerdeki müşteriler iletişim bilgilerini kaydedemezler. Bu alanı zorunlu tutmamanızı öneririz.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'İşaretliyse, alan herhangi bir veri içeriyorsa istemci tarafından değiştirilemez.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Müşteri Kimliği Formatı {num} içermelidir.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'NOT: Bu ayarlar yalnızca ayarlarını Şirketten devralan Müşteri Grupları için geçerlidir.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Genel ayarlar başarıyla güncellendi.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Gerekli alanlar başarıyla güncellendi.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Müşteri özel alanı başarıyla silindi.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Müşteri özel alanı başarıyla oluşturuldu.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Müşteri özel alanı başarıyla güncellendi.';
+

@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.id_id
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Pengaturan Dasar';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Pilihlah templat yang valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Pilih sistem operasi yang valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Pilih cloud yang valid.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Label tidak boleh berisi karakter khusus.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Silakan masukkan label.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Nama host tampaknya tidak valid.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Pilihlah templat yang valid.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Pilih apakah akan mengizinkan klien untuk mengatur templat.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Pilih sistem operasi yang valid.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Pilih apakah akan mengizinkan klien untuk mengatur sistem operasi.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Pilih cloud yang valid.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Pilih apakah akan mengizinkan klien untuk mengatur cloud.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Masukkan jumlah node yang akan dialokasikan.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Anda harus menyatakan bahwa Anda memahami tindakan instal ulang untuk melakukan penginstalan ulang template.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Pilihlah templat yang valid.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Terjadi kesalahan dan template tidak dapat diinstal ulang.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Terjadi kesalahan dan layanan tidak dapat dibatalkan.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Terjadi kesalahan dan tindakan tidak dapat dilakukan.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Terjadi kesalahan dan Mesin Virtual tidak dapat diperbarui.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Tidak dapat menambahkan node yang diperlukan.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Sambungan ke server tidak dapat dibuat. Periksa untuk memastikan bahwa alamat email dan kunci API sudah benar.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Masukkan kunci API Anda.';
+$lang['Vpsdotnet.!error.email.format'] = 'Masukkan alamat email yang valid.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Masukkan label untuk server ini.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Kata sandi';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Kata sandi:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Atur Ulang Kata Sandi';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Atur Ulang Kata Sandi';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Ubah Nama Host';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Nama host';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Ubah Nama Host';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Instal ulang';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Saya memahami bahwa dengan menginstal ulang, semua data di server akan dihapus secara permanen, dan sistem operasi serta templat yang dipilih akan diinstal.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Templat';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Sistem Operasi';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Instal ulang';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Tindakan Server';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Tidak diketahui';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'Tertunda';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Status Server';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Atur Ulang Kata Sandi';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Atur Ulang Kata Sandi';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Ubah Nama Host';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Nama host';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Ubah Nama Host';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Instal ulang';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Saya memahami bahwa dengan menginstal ulang, semua data di server akan dihapus secara permanen, dan sistem operasi serta templat yang dipilih akan diinstal.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Templat';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Sistem Operasi';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Instal ulang';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Status Server';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Tindakan';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Tidak diketahui';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'Tertunda';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Online';
+$lang['Vpsdotnet.!actions.password'] = 'Atur Ulang Kata Sandi';
+$lang['Vpsdotnet.!actions.hostname'] = 'Ubah Nama Host';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Instal ulang';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Matikan';
+$lang['Vpsdotnet.!actions.reboot'] = 'Reboot';
+$lang['Vpsdotnet.!actions.boot'] = 'Boot';
+$lang['Vpsdotnet.tab_client_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_client_actions'] = 'Tindakan Server';
+$lang['Vpsdotnet.tab_console'] = 'Konsol';
+$lang['Vpsdotnet.tab_actions'] = 'Tindakan Server';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Templat';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Sistem Operasi';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Awan/Zona';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'Label VPS';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Nama host';
+$lang['Vpsdotnet.package_fields.template'] = 'Templat';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Pilih Templat';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Biarkan klien mengatur Template';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Sistem Operasi';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Pilih Sistem Operasi';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Biarkan klien mengatur Sistem Operasi dan Template';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Awan/Zona';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Pilih Cloud/Zona';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Biarkan klien mengatur Cloud/Zona, Sistem Operasi, dan Template';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Jumlah Node';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Perbarui Server';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Edit Server VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Tambahkan Server';
+$lang['Vpsdotnet.row_meta.key'] = 'Kunci API';
+$lang['Vpsdotnet.row_meta.email'] = 'Email';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Label Server';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Pengaturan Dasar';
+$lang['Vpsdotnet.add_row.box_title'] = 'Tambahkan Server VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Kata sandi';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Alamat IP Utama';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Tidak ada grup server.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Apakah Anda yakin ingin menghapus grup server ini?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Menghapus';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Sunting';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Pilihan';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Jumlah Server';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Nama Grup';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'Grup Server Master VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Tidak ada server.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Apakah Anda yakin ingin menghapus server ini?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Menghapus';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Sunting';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Pilihan';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Email';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Label Server';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'Server Master VPS.NET';
+$lang['Vpsdotnet.add_module_group'] = 'Tambahkan Grup Server';
+$lang['Vpsdotnet.add_module_row'] = 'Tambahkan Server';
+$lang['Vpsdotnet.please_wait'] = 'Mohon tunggu...';
+$lang['Vpsdotnet.order_options.first'] = 'Server pertama yang tidak penuh';
+$lang['Vpsdotnet.module_group'] = 'Grup Master VPS.NET';
+$lang['Vpsdotnet.module_row_plural'] = 'Server';
+$lang['Vpsdotnet.module_row'] = 'Server Master VPS.NET';
+$lang['Vpsdotnet.description'] = 'VPS.NET menyediakan hosting server tervirtualisasi.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

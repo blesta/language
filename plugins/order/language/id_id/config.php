@@ -1,0 +1,22 @@
+<?php
+/**
+ * Config
+ *
+ * @package blesta
+ * @subpackage blesta.language.id_id
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, memperbaharui @ %4$s)';
+$lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
+$lang['Config.index.field_default_addon'] = 'Tidak ada';
+$lang['Config.index.field_module_group_id'] = 'Kelompok';
+$lang['Config.index.package_price_recurring'] = '%1$s @ %2$s (memperbaharui @ %3$s)';
+$lang['Config.index.package_price'] = '%1$s @ %2$s';
+$lang['Config.!error.invalid_domain_term'] = 'Istilah yang dipilih untuk domain "%1$s" tidak valid.';
+$lang['Config.!error.domain_duplicated'] = 'Domain "%1$s" sudah ada di keranjang Anda.';
+$lang['Config.!error.invalid_module'] = 'Paket ini saat ini tidak tersedia.';
+$lang['Config.!error.invalid_pricing_id'] = 'Paket yang diberikan tidak ditemukan.';
+

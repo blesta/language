@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.id_id
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Memperbarui Pengaturan';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Faks';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telepon';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Email';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = 'Kode Pos/Kode Pos';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = 'Negara Bagian/Provinsi';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Negara';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Kota';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Alamat 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Alamat 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Judul';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Perusahaan/Org.';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Nama belakang';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = 'Nama depan';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = 'Hanya Baca';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = 'Tampilkan';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = 'Diperlukan';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = 'Bidang';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = 'Periksa bidang yang harus diisi saat membuat atau memperbarui klien atau kontak.';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = 'Bidang Klien yang Diperlukan';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Bidang Khusus Klien > Bidang Klien yang Diperlukan';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = 'Regex khusus';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = 'Ya.';
+$lang['AdminCompanyClientOptions.getRequired.no'] = 'Tidak.';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = 'Menghapus';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = 'Default';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = 'Nama Opsi';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = 'Nilai';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Tambahkan Opsi Tambahan';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Nilai Teks Default';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Nilai Default Diperiksa';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Nilai';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Edit Bidang Khusus';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Mengenkripsi Nilai';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex khusus';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Diperlukan';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Hanya Baca untuk Klien';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = 'Terlihat oleh Klien';
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = 'Jenis';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = 'Tautan';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = 'Nama adalah definisi bahasa';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = 'Nama';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = 'Edit Bidang Khusus';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Bidang Khusus Klien > Edit Bidang Khusus';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = 'Menghapus';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = 'Default';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = 'Nama Opsi';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = 'Nilai';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = 'Tambahkan Opsi Tambahan';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Mengisi kolom ini dan tidak membuatnya terlihat oleh klien akan menyebabkan klien tidak dapat mendaftar atau memperbarui informasi akun mereka.';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Nilai Teks Default';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Nilai Default Diperiksa';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Nilai';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Tambahkan Bidang Khusus';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Mengenkripsi Nilai';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex khusus';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Diperlukan';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Hanya Baca untuk Klien';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = 'Terlihat oleh Klien';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = 'Jenis';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = 'Tautan';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = 'Nama adalah definisi bahasa';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = 'Nama';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = 'Grup Klien';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = 'Tambahkan Bidang Khusus';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Bidang Khusus Klien > Tambahkan Bidang Khusus';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = 'Tidak ada bidang khusus.';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = 'Menghapus bidang khusus ini akan menghapus semua data yang tersimpan untuk setiap klien di dalam grup ini. Apakah Anda yakin ingin menghapus bidang khusus ini?';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = 'Menghapus';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = 'Sunting';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = 'Pilihan';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = 'Hanya Baca untuk Klien';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = 'Terlihat oleh Klien';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = 'Diperlukan';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = 'Jenis';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nama';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Buat Bidang';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Jelajahi Bidang Khusus Klien';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Bidang Khusus Klien > Jelajahi';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Kirim';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Mencegah Pembayaran dari Klien yang Tidak Terverifikasi';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Nilai Kenaikan ID Klien';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Nilai Awal ID Klien';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Format ID Klien';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = 'Mengaktifkan Verifikasi Email';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = 'Memaksa Nama Pengguna Email';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = 'Semua Kontak';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = 'Kontak Utama';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- Tidak ada.';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = 'Menerapkan Alamat Email Kontak Unik';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = 'Pengaturan Klien Umum';
+$lang['AdminCompanyClientoptions.general.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Umum';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = 'Nilai opsi yang dicentang akan menjadi nilai default yang dipilih ketika opsi ini ditambahkan untuk klien.';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = 'Jika dicentang, kotak centang ini akan dicentang secara default ketika bidang kustom ini ditambahkan untuk klien.';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = 'Teks yang dimasukkan di sini akan menjadi nilai default yang ditetapkan untuk opsi ini ketika bidang khusus ini ditambahkan untuk klien.';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = 'Nilai yang dikirimkan ketika kotak centang dicentang.';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = 'Centang kotak ini untuk menyimpan nilai yang dienkripsi. Hal ini sangat dianjurkan jika menyimpan informasi sensitif atau informasi yang mengidentifikasi pribadi.';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = 'Opsi ini akan muncul jika "Required" diatur ke "Custom Regex". Masukkan ekspresi reguler khusus untuk memvalidasi bidang ini di sini.';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = 'Pilih "Ya" untuk memastikan bahwa nilai diberikan untuk bidang ini, untuk jenis Drop Down, opsi harus muncul dalam daftar opsi. Pilih "Tidak" untuk menerima nilai apa pun untuk bidang ini. Pilih "Custom Regex" untuk menggunakan ekspresi reguler khusus untuk memvalidasi bidang ini.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = 'Mencentang kotak ini akan membuat bidang khusus ini tidak dapat diubah oleh klien. Bidang hanya-baca akan diatur secara otomatis ke nilai default yang ditetapkan.';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = 'Centang untuk mengizinkan klien melihat dan memperbarui bidang ini.';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = 'Bidang khusus akan muncul sebagai jenis formulir yang dipilih.';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = 'Tautan khusus yang dapat disisipkan ke dalam nama bidang. Lampirkan teks yang ingin Anda terapkan tautan di dalam tanda kurung siku (mis. [istilah]).';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = 'Hanya centang kotak ini jika Anda telah menambahkan definisi bahasa untuk bidang khusus ini di file bahasa khusus.';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = 'Ini adalah nama tampilan untuk bidang ini. Bisa berupa definisi bahasa.';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = 'Bidang khusus hanya akan berlaku untuk anggota grup klien yang dipilih.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = 'Nomor ID Klien berikutnya akan bertambah dengan nilai ini.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = 'ID Klien Mulai adalah nilai awal untuk ID Klien. Klien baru akan memiliki nilai ini, kecuali jika kurang dari nilai Klien yang terakhir dibuat.';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = 'Format ID Klien adalah format ID Klien. Nilai ABC-{num} akan menghasilkan ID Klien ABC-1500 di mana 1500 adalah nilai ID Klien.';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = 'Centang untuk mengirim email verifikasi saat login baru dibuat atau klien mengubah alamat email mereka. Pemberitahuan akan muncul di profil klien hingga mereka diverifikasi.';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = 'Klien harus menggunakan alamat email mereka sebagai nama pengguna daripada menentukan nama pengguna mereka sendiri. Klien yang sudah ada masih bisa masuk dengan nama pengguna mereka saat ini.';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = 'Membatasi alamat email untuk kontak. Kontak Utama berarti tidak ada dua kontak utama (misalnya klien) yang dapat memiliki alamat email yang sama. Semua Kontak berarti tidak ada kontak jenis apa pun yang dapat memiliki alamat email yang sama dengan kontak lain.';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = 'Berhati-hatilah saat memilih Negara Bagian/Provinsi. Beberapa negara tidak memiliki negara bagian. Klien di negara-negara tersebut tidak dapat menyimpan detail kontak mereka. Kami sarankan untuk tidak mengisi kolom ini.';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = 'Jika dicentang, bidang tersebut tidak dapat dimodifikasi oleh klien jika berisi data apa pun.';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = 'Format ID Klien harus berisi {num}.';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = 'CATATAN: Pengaturan ini hanya berlaku untuk Grup Klien yang mewarisi pengaturan dari Perusahaan.';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = 'Pengaturan umum telah berhasil diperbarui.';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Kolom yang diperlukan telah berhasil diperbarui.';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Bidang khusus klien telah berhasil dihapus.';
+$lang['AdminCompanyClientOptions.!success.field_created'] = 'Bidang khusus klien telah berhasil dibuat.';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = 'Bidang khusus klien telah berhasil diperbarui.';
+

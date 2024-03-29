@@ -1,0 +1,133 @@
+<?php
+/**
+ * Admin Company Clientoptions
+ *
+ * @package blesta
+ * @subpackage blesta.language.zh_cn
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminCompanyClientOptions.editcustomfield.field.type'] = '类型';
+$lang['AdminCompanyClientOptions.editcustomfield.field.link'] = '链接';
+$lang['AdminCompanyClientOptions.editcustomfield.field.is_lang'] = '名称是一种语言定义';
+$lang['AdminCompanyClientOptions.editcustomfield.field.name'] = '名称';
+$lang['AdminCompanyClientOptions.editcustomfield.boxtitle_edit'] = '编辑自定义字段';
+$lang['AdminCompanyClientoptions.editcustomfield.page_title'] = '设置 > 公司 > 客户选项 > 客户自定义字段 > 编辑自定义字段';
+$lang['AdminCompanyClientOptions.addcustomfield.text_remove'] = '移除';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_default'] = '默认值';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_option'] = '选项名称';
+$lang['AdminCompanyClientOptions.addcustomfield.heading_select_value'] = '价值';
+$lang['AdminCompanyClientOptions.addcustomfield.categorylink_select'] = '添加附加选项';
+$lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = '要求填写该字段，但客户却看不到，这将导致客户无法注册或更新其账户信息。';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = '默认文本值';
+$lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = '已检查默认值';
+$lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = '价值';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = '添加自定义字段';
+$lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = '加密值';
+$lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = '自定义 Regex';
+$lang['AdminCompanyClientOptions.addcustomfield.field.required'] = '需要';
+$lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = '客户只读';
+$lang['AdminCompanyClientOptions.addcustomfield.field.show_client'] = '客户可见';
+$lang['AdminCompanyClientOptions.addcustomfield.field.type'] = '类型';
+$lang['AdminCompanyClientOptions.addcustomfield.field.link'] = '链接';
+$lang['AdminCompanyClientOptions.addcustomfield.field.is_lang'] = '名称是一种语言定义';
+$lang['AdminCompanyClientOptions.addcustomfield.field.name'] = '名称';
+$lang['AdminCompanyClientOptions.addcustomfield.field.client_group_id'] = '客户群';
+$lang['AdminCompanyClientOptions.addcustomfield.boxtitle_add'] = '添加自定义字段';
+$lang['AdminCompanyClientoptions.addcustomfield.page_title'] = '设置 > 公司 > 客户选项 > 客户自定义字段 > 添加自定义字段';
+$lang['AdminCompanyClientOptions.customfields.no_results'] = '没有自定义字段。';
+$lang['AdminCompanyClientOptions.customfields.confirm_delete'] = '删除此自定义字段将删除该组中每个客户为其存储的所有数据。您确定要删除此自定义字段？';
+$lang['AdminCompanyClientOptions.customfields.option_delete'] = '删除';
+$lang['AdminCompanyClientOptions.customfields.option_edit'] = '编辑';
+$lang['AdminCompanyClientOptions.customfields.text_options'] = '选项';
+$lang['AdminCompanyClientOptions.customfields.text_read_only'] = '客户只读';
+$lang['AdminCompanyClientOptions.customfields.text_visible'] = '客户可见';
+$lang['AdminCompanyClientOptions.customfields.text_required'] = '需要';
+$lang['AdminCompanyClientOptions.customfields.text_type'] = '类型';
+$lang['AdminCompanyClientOptions.customfields.text_name'] = '名称';
+$lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = '创建字段';
+$lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = '浏览客户自定义字段';
+$lang['AdminCompanyClientoptions.customfields.page_title'] = '设置 > 公司 > 客户选项 > 客户自定义字段 > 浏览';
+$lang['AdminCompanyClientOptions.general.text_submit'] = '提交';
+$lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = '防止未经验证的客户付款';
+$lang['AdminCompanyClientOptions.general.field_clients_increment'] = '客户 ID 增量值';
+$lang['AdminCompanyClientOptions.general.field_clients_start'] = '客户 ID 起始值';
+$lang['AdminCompanyClientOptions.general.field_clients_format'] = '客户 ID 格式';
+$lang['AdminCompanyClientOptions.general.field_email_verification'] = '启用电子邮件验证';
+$lang['AdminCompanyClientOptions.general.field_force_email_usernames'] = '强制电子邮件用户名';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_all'] = '所有联系方式';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_primary'] = '主要联系人';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails_none'] = '-- 无 --';
+$lang['AdminCompanyClientOptions.general.field_unique_contact_emails'] = '执行唯一的联系电子邮件地址';
+$lang['AdminCompanyClientOptions.general.boxtitle'] = '常规客户端设置';
+$lang['AdminCompanyClientoptions.general.page_title'] = '设置 > 公司 > 客户机选项 > 常规';
+$lang['AdminCompanyClientOptions.!tooltip.select_default'] = '选中的选项值将是为客户添加该选项时选择的默认值。';
+$lang['AdminCompanyClientOptions.!tooltip.default_checkbox'] = '如果选中此复选框，则在为客户添加此自定义字段时将默认选中该复选框。';
+$lang['AdminCompanyClientOptions.!tooltip.default_text'] = '为客户添加自定义字段时，此处输入的文本将作为该选项的默认值。';
+$lang['AdminCompanyClientOptions.!tooltip.checkbox_value'] = '选中复选框时提交的值。';
+$lang['AdminCompanyClientOptions.!tooltip.encrypted'] = '选中此复选框可加密存储值。如果存储任何敏感或个人身份信息，强烈建议使用此方法。';
+$lang['AdminCompanyClientOptions.!tooltip.regex'] = '如果 "Required（必填）"设置为 "Custom Regex（自定义正则表达式）"，则会出现此选项。在此输入要验证此字段的自定义正则表达式。';
+$lang['AdminCompanyClientOptions.!tooltip.required'] = '选择 "是 "可确保为该字段赋值，对于下拉类型，选项必须出现在选项列表中。选择 "否 "可接受此字段的任何值。选择 "Custom Regex（自定义正则表达式）"可使用自定义正则表达式验证此字段。';
+$lang['AdminCompanyClientOptions.!tooltip.read_only_field'] = '选中该复选框将使客户无法更改此自定义字段。只读字段将自动设置为其指定的默认值。';
+$lang['AdminCompanyClientOptions.!tooltip.show_client'] = '选中允许客户查看和更新此字段。';
+$lang['AdminCompanyClientOptions.!tooltip.type'] = '自定义字段将显示为所选表单类型。';
+$lang['AdminCompanyClientOptions.!tooltip.link'] = '可插入字段名称的自定义链接。将要应用链接的文本括在方括号内（如[术语]）。';
+$lang['AdminCompanyClientOptions.!tooltip.is_lang'] = '只有在自定义语言文件中为该自定义字段添加了语言定义时，才能选中此复选框。';
+$lang['AdminCompanyClientOptions.!tooltip.name'] = '这是该字段的显示名称。可以是语言定义。';
+$lang['AdminCompanyClientOptions.!tooltip.client_group_id'] = '自定义字段只适用于所选客户群的成员。';
+$lang['AdminCompanyClientOptions.!tooltip.clients_increment'] = '随后的客户 ID 编号将按此值递增。';
+$lang['AdminCompanyClientOptions.!tooltip.clients_start'] = '客户 ID 起始值是客户 ID 的起始值。新客户将拥有这个值，除非它小于最近创建的客户的值。';
+$lang['AdminCompanyClientOptions.!tooltip.clients_format'] = '客户 ID 格式是客户 ID 的格式。如果值为 ABC-{num}，则客户 ID 为 ABC-1500，其中 1500 为客户 ID 值。';
+$lang['AdminCompanyClientOptions.!tooltip.email_verification'] = '勾选在创建新登录或客户更改电子邮件地址时发送电子邮件验证。在客户通过验证之前，客户配置文件上会显示通知。';
+$lang['AdminCompanyClientOptions.!tooltip.force_email_usernames'] = '客户必须使用自己的电子邮件地址作为用户名，而不是自己定义用户名。现有客户仍可使用当前用户名登录。';
+$lang['AdminCompanyClientOptions.!tooltip.unique_contact_emails'] = '限制联系人的电子邮件地址。主要联系人 "表示没有两个主要联系人（即客户）可以拥有相同的电子邮件地址。所有联系人是指任何类型的联系人都不能与其他联系人拥有相同的电子邮件地址。';
+$lang['AdminCompanyClientOptions.!tooltip.state'] = '要求选择州/省时请谨慎。有些国家没有州。这些国家的客户将无法保存其联系信息。我们建议不要求填写此字段。';
+$lang['AdminCompanyClientOptions.!tooltip.read_only'] = '如果选中此选项，客户端将无法修改包含任何数据的字段。';
+$lang['AdminCompanyClientOptions.!error.clients_format'] = '客户 ID 格式必须包含 {num}。';
+$lang['AdminCompanyClientOptions.!notice.group_settings'] = '注意：这些设置只适用于从公司继承其设置的客户组。';
+$lang['AdminCompanyClientOptions.!success.general_updated'] = '常规设置已成功更新。';
+$lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = '必填字段已成功更新。';
+$lang['AdminCompanyClientOptions.!success.field_deleted'] = '客户自定义字段已成功删除。';
+$lang['AdminCompanyClientOptions.!success.field_created'] = '客户自定义字段已成功创建。';
+$lang['AdminCompanyClientOptions.!success.field_updated'] = '客户自定义字段已成功更新。';
+$lang['AdminCompanyClientOptions.requiredfields.text_submit'] = '更新设置';
+$lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = '客户只读';
+$lang['AdminCompanyClientOptions.requiredfields.field_fax'] = '传真';
+$lang['AdminCompanyClientOptions.requiredfields.field_phone'] = '电话';
+$lang['AdminCompanyClientOptions.requiredfields.field_email'] = '电子邮件';
+$lang['AdminCompanyClientOptions.requiredfields.field_zip'] = '邮政编码';
+$lang['AdminCompanyClientOptions.requiredfields.field_state'] = '州/省';
+$lang['AdminCompanyClientOptions.requiredfields.field_country'] = '国家';
+$lang['AdminCompanyClientOptions.editcustomfield.field.show_client'] = '客户可见';
+$lang['AdminCompanyClientOptions.requiredfields.field_city'] = '城市';
+$lang['AdminCompanyClientOptions.requiredfields.field_address2'] = '地址 2';
+$lang['AdminCompanyClientOptions.requiredfields.field_address1'] = '地址 1';
+$lang['AdminCompanyClientOptions.requiredfields.field_title'] = '标题';
+$lang['AdminCompanyClientOptions.requiredfields.field_company'] = '公司/机构';
+$lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = '姓氏';
+$lang['AdminCompanyClientOptions.requiredfields.field_first_name'] = '姓名';
+$lang['AdminCompanyClientOptions.requiredfields.heading_read_only'] = '只读';
+$lang['AdminCompanyClientOptions.requiredfields.heading_show'] = '显示';
+$lang['AdminCompanyClientOptions.requiredfields.heading_required'] = '需要';
+$lang['AdminCompanyClientOptions.requiredfields.heading_field'] = '现场';
+$lang['AdminCompanyClientOptions.requiredfields.description'] = '选中创建或更新客户或联系人时必须填写的字段。';
+$lang['AdminCompanyClientOptions.requiredfields.boxtitle'] = '客户必填字段';
+$lang['AdminCompanyClientoptions.requiredfields.page_title'] = '设置 > 公司 > 客户选项 > 客户自定义字段 > 客户必填字段';
+$lang['AdminCompanyClientOptions.getRequired.regex'] = '自定义 Regex';
+$lang['AdminCompanyClientOptions.getRequired.yes'] = '是';
+$lang['AdminCompanyClientOptions.getRequired.no'] = '没有';
+$lang['AdminCompanyClientOptions.editcustomfield.text_remove'] = '移除';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_default'] = '默认值';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_option'] = '选项名称';
+$lang['AdminCompanyClientOptions.editcustomfield.heading_select_value'] = '价值';
+$lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = '添加附加选项';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = '默认文本值';
+$lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = '已检查默认值';
+$lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = '价值';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '编辑自定义字段';
+$lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = '加密值';
+$lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = '自定义 Regex';
+$lang['AdminCompanyClientOptions.editcustomfield.field.required'] = '需要';
+
