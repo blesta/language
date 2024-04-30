@@ -25,6 +25,7 @@ To install these languages, follow the steps:
 | Polski, PL  | pl_pl  |
 | Svenska, SE  | sv_se  |
 | Türkçe, TR | tr_tr |
+| Yкраїнська, UK | uk_ua |
 | Pyccĸий, RU  | ru_ru  |
 | Português, BR  | pt_br  |
 | 中文, CN | zh_cn |
