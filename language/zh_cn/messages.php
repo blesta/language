@@ -10,7 +10,7 @@
  */
 
 $lang['Messages.getStatusTypes.inactive'] = '不活动';
-$lang['Messages.getStatusTypes.active'] = '活跃';
+$lang['Messages.getStatusTypes.active'] = '已激活';
 $lang['Messages.getTypes.sms'] = '短信';
 $lang['Messages.!error.content.format'] = '信息内容必须是一个数组。';
 $lang['Messages.!error.status.valid'] = '信息状态必须设置为 "活动 "或 "非活动"。';

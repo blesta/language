@@ -10,15 +10,15 @@
  */
 
 $lang['Contacts.getPermissionOptions.client_quotations'] = '语录';
-$lang['Contacts.getPermissionOptions._credits'] = '荣誉';
-$lang['Contacts.getPermissionOptions._invoice_delivery'] = '发票交付';
+$lang['Contacts.getPermissionOptions._credits'] = '预存款';
+$lang['Contacts.getPermissionOptions._invoice_delivery'] = '账单交付';
 $lang['Contacts.getPermissionOptions._managed'] = '管理账户';
 $lang['Contacts.getPermissionOptions.client_emails'] = '电子邮件历史';
 $lang['Contacts.getPermissionOptions.client_accounts'] = '付款账户';
 $lang['Contacts.getPermissionOptions.client_contacts'] = '联系方式';
 $lang['Contacts.getPermissionOptions.client_transactions'] = '交易';
 $lang['Contacts.getPermissionOptions.client_services'] = '服务';
-$lang['Contacts.getPermissionOptions.client_invoices'] = '发票';
+$lang['Contacts.getPermissionOptions.client_invoices'] = '账单';
 $lang['Contacts.getnumberlocations.mobile'] = '移动电话';
 $lang['Contacts.getnumberlocations.work'] = '工作';
 $lang['Contacts.getnumberlocations.home'] = '首页';
@@ -69,7 +69,7 @@ $lang['Contacts.!error.title.length'] = '标题长度不得超过 64 个字符�
 $lang['Contacts.!error.last_name.empty'] = '请输入姓氏。';
 $lang['Contacts.!error.first_name.empty'] = '请输入名字。';
 $lang['Contacts.!error.contact_type_id.format'] = '联系人类型 ID 无效。';
-$lang['Contacts.!error.contact_type.inv_address_to'] = '发票被设置为发给此联系人，必须在更新此联系人之前更改。';
+$lang['Contacts.!error.contact_type.inv_address_to'] = '账单被设置为发给此联系人，必须在更新此联系人之前更改。';
 $lang['Contacts.!error.contact_type.format'] = '联系人类型无效。';
 $lang['Contacts.!error.user_id.exists'] = '用户 ID 无效。';
 $lang['Contacts.!error.client_id.exists'] = '客户 ID 无效。';

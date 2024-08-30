@@ -12,7 +12,7 @@
 $lang['Util.filters.client_filters.field_last_seen_end_date'] = '结束日期';
 $lang['Util.filters.client_filters.field_last_seen_start_date'] = '开始日期';
 $lang['Util.filters.client_filters.field_last_seen'] = '最后查看';
-$lang['Util.filters.client_filters.field_invoice_method'] = '发票方式';
+$lang['Util.filters.client_filters.field_invoice_method'] = '账单方式';
 $lang['Util.filters.client_filters.field_client_group_id'] = '客户群';
 $lang['Util.filters.client_filters.field_contact_country'] = '国家';
 $lang['Util.filters.client_filters.field_contact_company'] = '公司名称';

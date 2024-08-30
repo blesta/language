@@ -33,7 +33,7 @@ $lang['ClientMain.index.heading_addons'] = '附加组件';
 $lang['ClientMain.index.category_deleted'] = '已删除';
 $lang['ClientMain.index.category_suspended'] = '暂停';
 $lang['ClientMain.index.category_pending'] = '待定';
-$lang['ClientMain.index.category_active'] = '活跃';
+$lang['ClientMain.index.category_active'] = '已激活';
 $lang['ClientMain.index.boxtitle_domains'] = '领域';
 $lang['ClientMain.index.page_title'] = '客户 #%1$s 域名';
 

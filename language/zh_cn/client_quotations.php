@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientQuotations.invoices.no_results'] = '该报价单没有相关发票。';
+$lang['ClientQuotations.invoices.no_results'] = '该报价单没有相关账单。';
 $lang['ClientQuotations.invoices.heading_date_billed'] = '账单日期';
 $lang['ClientQuotations.invoices.heading_paid'] = '已付款';
 $lang['ClientQuotations.invoices.heading_amount'] = '金额';
-$lang['ClientQuotations.invoices.heading_invoice'] = '发票 #';
+$lang['ClientQuotations.invoices.heading_invoice'] = '账单 #';
 $lang['ClientQuotations.approve.field_submit'] = '批准';
 $lang['ClientQuotations.approve.field_cancel'] = '取消，不批准';
 $lang['ClientQuotations.approve.field_password'] = '登录 批准密码';

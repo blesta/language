@@ -10,7 +10,7 @@
  */
 
 $lang['AdminMain.graph_line_name.canceled'] = '已取消';
-$lang['AdminMain.graph_line_name.active'] = '活跃';
+$lang['AdminMain.graph_line_name.active'] = '已激活';
 $lang['AdminMain.graph_name.graph_clients'] = '客户';
 $lang['AdminMain.graph_line_name.new'] = '新';
 $lang['AdminMain.graph_line_name.suspended'] = '暂停';
@@ -29,12 +29,12 @@ $lang['AdminMain.settings.graph_clients'] = '客户图表';
 $lang['AdminMain.settings.text_graphs_clients'] = '检查哪些图表应显示在客户选项卡上。';
 $lang['AdminMain.settings.heading_clients'] = '客户选项卡';
 $lang['AdminMain.settings.pending_orders'] = '待处理订单';
-$lang['AdminMain.settings.open_tickets'] = '开放式门票';
-$lang['AdminMain.settings.recurring_invoices'] = '经常性发票';
-$lang['AdminMain.settings.active_users_today'] = '今日活跃用户';
+$lang['AdminMain.settings.open_tickets'] = '开放式工单';
+$lang['AdminMain.settings.recurring_invoices'] = '经常性账单';
+$lang['AdminMain.settings.active_users_today'] = '今日已激活用户';
 $lang['AdminMain.settings.services_scheduled_cancellation'] = '计划取消的服务';
-$lang['AdminMain.settings.services_active'] = '主动服务';
-$lang['AdminMain.settings.clients_active'] = '活跃客户';
+$lang['AdminMain.settings.services_active'] = '已激活服务';
+$lang['AdminMain.settings.clients_active'] = '已激活客户';
 $lang['AdminMain.settings.text_options'] = '选中将显示在系统概述上的选项。';
 $lang['AdminMain.settings.heading_statistics'] = '统计资料';
 $lang['AdminMain.date_range.days'] = '%1$s 天';
@@ -47,13 +47,13 @@ $lang['AdminMain.overview.tab_services'] = '服务';
 $lang['AdminMain.overview.tab_clients'] = '客户';
 $lang['AdminMain.overview.tab_all'] = '图表';
 $lang['AdminMain.overview.heading_users'] = '最近的用户';
-$lang['AdminMain.overview.statistic.open_tickets'] = '开放式门票';
+$lang['AdminMain.overview.statistic.open_tickets'] = '开放式工单';
 $lang['AdminMain.overview.statistic.pending_orders'] = '待处理订单';
-$lang['AdminMain.overview.statistic.recurring_invoices'] = '经常性发票';
-$lang['AdminMain.overview.statistic.active_users_today'] = '今日活跃用户';
+$lang['AdminMain.overview.statistic.recurring_invoices'] = '经常性账单';
+$lang['AdminMain.overview.statistic.active_users_today'] = '今日已激活用户';
 $lang['AdminMain.overview.statistic.services_scheduled_cancellation'] = '计划取消的服务';
-$lang['AdminMain.overview.statistic.services_active'] = '主动服务';
-$lang['AdminMain.overview.statistic.clients_active'] = '活跃客户';
+$lang['AdminMain.overview.statistic.services_active'] = '已激活服务';
+$lang['AdminMain.overview.statistic.clients_active'] = '已激活客户';
 $lang['AdminMain.index.boxtitle_overview'] = '系统概述';
 $lang['AdminMain.!success.options_updated'] = '系统概述设置已成功更新！';
 

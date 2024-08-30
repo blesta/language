@@ -30,7 +30,7 @@ $lang['Actions.!error.editable.valid'] = '可编辑选项必须设置为 1 或 0
 $lang['Actions.!error.company_id.valid'] = '公司 ID 无效';
 $lang['Actions.!error.plugin_id.valid'] = '请提供有效的插件 ID。';
 $lang['Actions.!error.name.action_empty'] = '请输入操作名称。';
-$lang['Actions.!error.url.empty'] = '请输入 URL。';
+$lang['Actions.!error.url.empty'] = '请输入URL。';
 $lang['Actions.!error.location.unique'] = '该公司的位置和 URL 必须是唯一的。';
 $lang['Actions.!error.location.valid'] = '无效的有效位置。';
 

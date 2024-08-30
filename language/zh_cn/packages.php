@@ -12,7 +12,7 @@
 $lang['Packages.!error.manual_activation.valid'] = '手动激活必须为 1 或 0。';
 $lang['Packages.getStatusTypes.restricted'] = '受限制';
 $lang['Packages.getStatusTypes.inactive'] = '不活动';
-$lang['Packages.getStatusTypes.active'] = '活跃';
+$lang['Packages.getStatusTypes.active'] = '已激活';
 $lang['Packages.getPricingPeriods.onetime_plural'] = '一次';
 $lang['Packages.getPricingPeriods.year_plural'] = '年数';
 $lang['Packages.getPricingPeriods.month_plural'] = '月数';

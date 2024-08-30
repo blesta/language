@@ -14,8 +14,8 @@ $lang['ServiceChanges.status.error'] = '错误';
 $lang['ServiceChanges.status.completed'] = '已完成';
 $lang['ServiceChanges.status.pending'] = '待定';
 $lang['ServiceChanges.!error.status.valid'] = '请选择有效状态。';
-$lang['ServiceChanges.!error.invoice_id.unique'] = '发票 ID 已为服务变更设置，可能无法再次设置。';
-$lang['ServiceChanges.!error.invoice_id.exists'] = '发票 ID 无效。';
+$lang['ServiceChanges.!error.invoice_id.unique'] = '账单 ID 已为服务变更设置，可能无法再次设置。';
+$lang['ServiceChanges.!error.invoice_id.exists'] = '账单 ID 无效。';
 $lang['ServiceChanges.!error.service_id.exists'] = '服务 ID 无效。';
 $lang['ServiceChanges.!error.id.exists'] = '服务更改 ID 无效。';
 

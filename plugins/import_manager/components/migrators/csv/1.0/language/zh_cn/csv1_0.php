@@ -10,7 +10,7 @@
  */
 
 $lang['Csv1_0.configuration.no_import'] = '无进口';
-$lang['Csv1_0.configuration.title'] = '标题';
+$lang['Csv1_0.configuration.title'] = '职位';
 $lang['Csv1_0.configuration.company'] = '公司名称';
 $lang['Csv1_0.configuration.phone'] = '电话';
 $lang['Csv1_0.configuration.country'] = '国家';

@@ -13,5 +13,5 @@ $lang['OrderOrders.!error.price_transfer_disabled'] = '所选域不可用于转�
 $lang['OrderOrders.getstatuses.canceled'] = '已取消';
 $lang['OrderOrders.getstatuses.fraud'] = '欺诈';
 $lang['OrderOrders.getstatuses.accepted'] = '已接受';
-$lang['OrderOrders.getstatuses.pending'] = '回顾';
+$lang['OrderOrders.getstatuses.pending'] = '待定';
 
