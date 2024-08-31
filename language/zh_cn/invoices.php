@@ -94,5 +94,5 @@ $lang['Invoices.getDeliveryMethods.email'] = '电子邮件';
 $lang['Invoices.getPricingPeriods.year'] = '每年';
 $lang['Invoices.getPricingPeriods.month'] = '每月';
 $lang['Invoices.getPricingPeriods.week'] = '每周';
-$lang['Invoices.getPricingPeriods.day'] = '每日';
+$lang['Invoices.getPricingPeriods.day'] = '每天';
 
