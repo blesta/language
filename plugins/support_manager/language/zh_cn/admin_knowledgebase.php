@@ -10,7 +10,7 @@
  */
 
 $lang['AdminKnowledgebase.!tooltip.access_category'] = '所有人都可以访问公共类别。私人类别只有已登录的用户才能访问。隐藏类别不可访问。工作人员类别只有工作人员可见。';
-$lang['AdminKnowledgebase.!tooltip.access_article'] = '公开文章对所有人开放。私人文章只有已登录的用户才能访问。隐藏文章无法访问。员工文章只有员工才能看到。';
+$lang['AdminKnowledgebase.!tooltip.access_article'] = '公开文章对所有人开启。私人文章只有已登录的用户才能访问。隐藏文章无法访问。员工文章只有员工才能看到。';
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!text.add_category'] = '添加类别';
 $lang['AdminKnowledgebase.!text.enclosure_separator'] = '/';

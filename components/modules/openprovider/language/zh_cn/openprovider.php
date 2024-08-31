@@ -89,7 +89,7 @@ $lang['OpenProvider.config.module.group'] = '登记员账户';
 $lang['OpenProvider.config.module.rows'] = '登记员账户';
 $lang['OpenProvider.config.module.row'] = '注册人账户';
 $lang['OpenProvider.config.description'] = 'Blesta 的 Openprovider 模块。';
-$lang['OpenProvider.config.name'] = '开放式提供商';
+$lang['OpenProvider.config.name'] = 'OpenProvider';
 $lang['OpenProvider.nameserver.ns2'] = 'Name Server 2';
 $lang['OpenProvider.nameserver.ns1'] = 'Name Server 1';
 

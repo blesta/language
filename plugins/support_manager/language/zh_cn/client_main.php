@@ -31,6 +31,6 @@ $lang['ClientMain.index.heading_code'] = '工单号';
 $lang['ClientMain.index.boxtitle_tickets'] = '工单';
 $lang['ClientMain.index.categorylink_createticket'] = '新建工单';
 $lang['ClientMain.index.category_closed'] = '关闭';
-$lang['ClientMain.index.category_open'] = '开放';
+$lang['ClientMain.index.category_open'] = '开启';
 $lang['ClientMain.index.page_title'] = '支持 > 工单';
 

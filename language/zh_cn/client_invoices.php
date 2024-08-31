@@ -28,6 +28,6 @@ $lang['ClientInvoices.index.heading_invoice'] = '账单 #';
 $lang['ClientInvoices.index.boxtitle_invoices'] = '账单';
 $lang['ClientInvoices.index.categorylink_make_payment'] = '付款';
 $lang['ClientInvoices.index.category_closed'] = '关闭';
-$lang['ClientInvoices.index.category_open'] = '开放';
+$lang['ClientInvoices.index.category_open'] = '开启';
 $lang['ClientInvoices.index.page_title'] = '客户 #%1$s 账单';
 
