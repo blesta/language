@@ -144,7 +144,7 @@ $lang['AdminDomains.importpackages.description'] = '该导入将：<br/>
 跳过任何没有年度定价期的套餐<br/> * 标记第一个套餐/注册商<br/> * 跳过任何没有年度定价期的套餐/顶级域<br/> * 跳过任何没有年度定价期的套餐/顶级域
 * 将每个顶级域遇到的第一个软件包/注册商标记为主要软件包/注册商，而其他导入的软件包将在顶级域定价页面上更改注册商时使用<br/> <br/>
 * 如果旧的导入软件包在导入后没有服务，则将其停用<br/> <br/>';
-$lang['AdminDomains.importpackages.order_form'] = '应更新域名订购表，以使用 %1$s 软件包组';
+$lang['AdminDomains.importpackages.order_form'] = '应更新域名订购表，以使用 %1$s 软件分组';
 $lang['AdminDomains.importpackages.boxtitle'] = '配置';
 $lang['AdminDomains.importpackages.page_title'] = '域 > 配置';
 $lang['AdminDomains.getroundingoptions.custom'] = '定制';
