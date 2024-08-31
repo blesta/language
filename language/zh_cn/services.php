@@ -63,5 +63,5 @@ $lang['Services.!error.move.unpaid_invoices'] = '该服务无法转移给其他�
 $lang['Services.!error.encrypted.format'] = '加密格式无效。';
 $lang['Services.!error.value.empty'] = '服务字段值不得为空。';
 $lang['Services.!error.key.length'] = '服务字段密钥不得超过 32 个字符。';
-$lang['Services.!error.key.empty'] = '服务字段关键字不能为空。';
+$lang['Services.!error.key.empty'] = '服务字段关键词不能为空。';
 
