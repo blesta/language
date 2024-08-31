@@ -11,7 +11,7 @@
 
 $lang['AdminCompanyLookandfeel.editaction.field_addsubmit'] = '编辑操作';
 $lang['AdminCompanyLookandfeel.editaction.placeholder_url'] = '现状';
-$lang['AdminCompanyLookandfeel.editaction.placeholder_name'] = '软件包名称';
+$lang['AdminCompanyLookandfeel.editaction.placeholder_name'] = '套餐名称';
 $lang['AdminCompanyLookandfeel.editaction.field_url'] = '链接网址';
 $lang['AdminCompanyLookandfeel.editaction.field_name'] = '名称';
 $lang['AdminCompanyLookandfeel.editaction.field_location'] = '地点';
@@ -19,7 +19,7 @@ $lang['AdminCompanyLookandfeel.editaction.boxtitle_editaction'] = '编辑操作'
 $lang['AdminCompanyLookandfeel.editaction.page_title'] = '设置 > 公司 > 外观和感觉 > 编辑操作';
 $lang['AdminCompanyLookandfeel.addaction.field_addsubmit'] = '添加行动';
 $lang['AdminCompanyLookandfeel.addaction.placeholder_url'] = '现状';
-$lang['AdminCompanyLookandfeel.addaction.placeholder_name'] = '软件包名称';
+$lang['AdminCompanyLookandfeel.addaction.placeholder_name'] = '套餐名称';
 $lang['AdminCompanyLookandfeel.addaction.field_url'] = '链接网址';
 $lang['AdminCompanyLookandfeel.addaction.field_name'] = '名称';
 $lang['AdminCompanyLookandfeel.addaction.field_location'] = '地点';
