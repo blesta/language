@@ -10,13 +10,13 @@
  */
 
 $lang['Config.index.term_years'] = '%1$s 年';
-$lang['Config.index.term_year'] = '%1$s 年';
+$lang['Config.index.term_year'] = '%1$s 每年';
 $lang['Config.index.term_months'] = '%1个月';
-$lang['Config.index.term_month'] = '%1$s 月份';
+$lang['Config.index.term_month'] = '%1$s 每月';
 $lang['Config.index.term_weeks'] = '%1$s 周';
-$lang['Config.index.term_week'] = '%1$s 周';
+$lang['Config.index.term_week'] = '%1$s 每周';
 $lang['Config.index.term_days'] = '%1$s 天';
-$lang['Config.index.term_day'] = '%1$s 日';
+$lang['Config.index.term_day'] = '%1$s 每天';
 $lang['Config.index.continue_btn'] = '继续';
 $lang['Config.index.addons_notes'] = '任何选定的附加组件都将在下一步进行配置。';
 $lang['Config.index.header_addons'] = '可用插件';

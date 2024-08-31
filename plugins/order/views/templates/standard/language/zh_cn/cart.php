@@ -16,7 +16,7 @@ $lang['Cart.index.order_more_btn'] = '订购更多物品';
 $lang['Cart.index.checkout_btn'] = '结账';
 $lang['Cart.index.table_price'] = '价格';
 $lang['Cart.index.table_qty'] = '数量';
-$lang['Cart.index.table_term'] = '学期';
+$lang['Cart.index.table_term'] = '周期';
 $lang['Cart.index.table_description'] = '说明';
 $lang['Cart.index.header_cart'] = '审查订单';
 

@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Pricings.getPeriods.onetime_plural'] = '一次';
-$lang['Pricings.getPeriods.year_plural'] = '年数';
-$lang['Pricings.getPeriods.month_plural'] = '月数';
-$lang['Pricings.getPeriods.week_plural'] = '周数';
-$lang['Pricings.getPeriods.day_plural'] = '天数';
-$lang['Pricings.getPeriods.onetime'] = '一次';
-$lang['Pricings.getPeriods.year'] = '年份';
-$lang['Pricings.getPeriods.month'] = '月份';
-$lang['Pricings.getPeriods.week'] = '周数';
-$lang['Pricings.getPeriods.day'] = '日';
+$lang['Pricings.getPeriods.onetime_plural'] = '一次性付款';
+$lang['Pricings.getPeriods.year_plural'] = '每年';
+$lang['Pricings.getPeriods.month_plural'] = '每月';
+$lang['Pricings.getPeriods.week_plural'] = '每周';
+$lang['Pricings.getPeriods.day_plural'] = '每天';
+$lang['Pricings.getPeriods.onetime'] = '一次付款';
+$lang['Pricings.getPeriods.year'] = '每年';
+$lang['Pricings.getPeriods.month'] = '每月';
+$lang['Pricings.getPeriods.week'] = '每周';
+$lang['Pricings.getPeriods.day'] = '每日';
 $lang['Pricings.!error.currency.in_use'] = '无法更新正在使用的定价中的货币。';
 $lang['Pricings.!error.period.in_use'] = '正在使用的定价中无法更新周期。';
 $lang['Pricings.!error.term.in_use'] = '无法更新正在使用的定价中的术语。';

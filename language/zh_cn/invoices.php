@@ -91,8 +91,8 @@ $lang['Invoices.getDeliveryMethods.postalmethods'] = '邮寄方式';
 $lang['Invoices.getDeliveryMethods.interfax'] = 'InterFax';
 $lang['Invoices.getDeliveryMethods.paper'] = '纸张';
 $lang['Invoices.getDeliveryMethods.email'] = '电子邮件';
-$lang['Invoices.getPricingPeriods.year'] = '年份';
-$lang['Invoices.getPricingPeriods.month'] = '月份';
-$lang['Invoices.getPricingPeriods.week'] = '周数';
-$lang['Invoices.getPricingPeriods.day'] = '日';
+$lang['Invoices.getPricingPeriods.year'] = '每年';
+$lang['Invoices.getPricingPeriods.month'] = '每月';
+$lang['Invoices.getPricingPeriods.week'] = '每周';
+$lang['Invoices.getPricingPeriods.day'] = '每日';
 

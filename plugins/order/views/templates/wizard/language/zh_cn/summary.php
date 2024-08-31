@@ -10,13 +10,13 @@
  */
 
 $lang['Summary.index.term_years'] = '%1$s 年';
-$lang['Summary.index.term_year'] = '%1$s 年';
+$lang['Summary.index.term_year'] = '%1$s 每年';
 $lang['Summary.index.term_months'] = '%1$s 个月';
-$lang['Summary.index.term_month'] = '%1$s 月份';
+$lang['Summary.index.term_month'] = '%1$s 每月';
 $lang['Summary.index.term_weeks'] = '%1$s 周';
-$lang['Summary.index.term_week'] = '%1$s 周';
+$lang['Summary.index.term_week'] = '%1$s 每周';
 $lang['Summary.index.term_days'] = '%1$s 天';
-$lang['Summary.index.term_day'] = '%1$s 日';
+$lang['Summary.index.term_day'] = '%1$s 每天';
 $lang['Summary.index.paymethods_note'] = '请选择您所需的付款方式。';
 $lang['Summary.index.heading_paymethods'] = '付款方式';
 $lang['Summary.index.empty_cart'] = '空购物车';
