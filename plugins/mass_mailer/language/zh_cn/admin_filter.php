@@ -10,7 +10,7 @@
  */
 
 $lang['AdminFilter.index.heading.client_filters'] = '客户端过滤选项';
-$lang['AdminFilter.index.form.export'] = '出口';
+$lang['AdminFilter.index.form.export'] = '导出';
 $lang['AdminFilter.index.form.continue'] = '继续';
 $lang['AdminFilter.index.form.include_all_services'] = '包括所有服务';
 $lang['AdminFilter.index.form.module_id'] = '模块';

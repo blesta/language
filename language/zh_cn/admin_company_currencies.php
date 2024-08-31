@@ -59,7 +59,7 @@ $lang['AdminCompanyCurrencies.setup.heading_multicurrency'] = '多种货币';
 $lang['AdminCompanyCurrencies.setup.field.client_set_currency'] = '允许客户设置货币';
 $lang['AdminCompanyCurrencies.setup.field.show_currency_code'] = '显示货币代码';
 $lang['AdminCompanyCurrencies.setup.field.default_currency'] = '默认货币';
-$lang['AdminCompanyCurrencies.setup.heading_general'] = '一般情况';
+$lang['AdminCompanyCurrencies.setup.heading_general'] = '基本设置';
 $lang['AdminCompanyCurrencies.setup.boxtitle_setup'] = '货币设置';
 $lang['AdminCompanyCurrencies.setup.tooltip_currency_pricing'] = '此选项要求以指定货币设置套餐定价，以便用于创建新服务。如果未选中该选项，且该货币不存在套餐定价，则将根据默认货币的汇率计算价格。
 
