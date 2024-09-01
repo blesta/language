@@ -11,7 +11,7 @@
 
 $lang['AdminCompanyTaxes.edit.field.editsubmit'] = '编辑规则';
 $lang['AdminCompanyTaxes.edit.field.state'] = '州/省/地区';
-$lang['AdminCompanyTaxes.edit.field.country'] = '国家';
+$lang['AdminCompanyTaxes.edit.field.country'] = '国家/地区';
 $lang['AdminCompanyTaxes.edit.field.amount'] = '金额';
 $lang['AdminCompanyTaxes.edit.field.name'] = '税种名称';
 $lang['AdminCompanyTaxes.edit.field.level2'] = '二级';
@@ -22,7 +22,7 @@ $lang['AdminCompanyTaxes.edit.boxtitle_edit'] = '编辑税则';
 $lang['AdminCompanyTaxes.edit.page_title'] = '设置 > 公司 > 税项 > 编辑税收规则';
 $lang['AdminCompanyTaxes.add.field.addsubmit'] = '创建规则';
 $lang['AdminCompanyTaxes.add.field.state'] = '州/省/地区';
-$lang['AdminCompanyTaxes.add.field.country'] = '国家';
+$lang['AdminCompanyTaxes.add.field.country'] = '国家/地区';
 $lang['AdminCompanyTaxes.add.field.amount'] = '金额';
 $lang['AdminCompanyTaxes.add.field.name'] = '税种名称';
 $lang['AdminCompanyTaxes.add.field.level2'] = '二级';
@@ -37,7 +37,7 @@ $lang['AdminCompanyTaxes.rules.option_edit'] = '编辑';
 $lang['AdminCompanyTaxes.rules.text_all'] = '全部';
 $lang['AdminCompanyTaxes.rules.text_options'] = '选项';
 $lang['AdminCompanyTaxes.rules.text_state'] = '州/省/地区';
-$lang['AdminCompanyTaxes.rules.text_country'] = '国家';
+$lang['AdminCompanyTaxes.rules.text_country'] = '国家/地区';
 $lang['AdminCompanyTaxes.rules.text_amount'] = '金额';
 $lang['AdminCompanyTaxes.rules.text_type'] = '类型';
 $lang['AdminCompanyTaxes.rules.text_name'] = '名称';
