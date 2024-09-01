@@ -12,7 +12,7 @@
 $lang['Taxes.getTaxTypes.exclusive'] = '独家';
 $lang['Taxes.getTaxTypes.inclusive'] = '包容性（加法）';
 $lang['Taxes.getTaxTypes.inclusive_calculated'] = '包容性';
-$lang['Taxes.getTaxStatus.inactive'] = '不活动';
+$lang['Taxes.getTaxStatus.inactive'] = '禁用';
 $lang['Taxes.getTaxStatus.active'] = '已激活';
 $lang['Taxes.!error.tax_id.exists'] = '税号无效。';
 $lang['Taxes.!error.status.format'] = '状态无效。';

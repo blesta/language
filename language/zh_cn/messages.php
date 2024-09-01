@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Messages.getStatusTypes.inactive'] = '不活动';
+$lang['Messages.getStatusTypes.inactive'] = '禁用';
 $lang['Messages.getStatusTypes.active'] = '已激活';
 $lang['Messages.getTypes.sms'] = '短信';
 $lang['Messages.!error.content.format'] = '信息内容必须是一个数组。';

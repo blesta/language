@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliates.getStatuses.inactive'] = '不活动';
+$lang['OrderAffiliates.getStatuses.inactive'] = '禁用';
 $lang['OrderAffiliates.getStatuses.active'] = '已激活';
 $lang['OrderAffiliates.!error.date_updated.format'] = '更新的日期格式无效。';
 $lang['OrderAffiliates.!error.date_added.format'] = '添加的日期格式无效。';
