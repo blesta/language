@@ -10,7 +10,7 @@
  */
 
 $lang['DirectAdmin.tab_client_stats.no_results'] = '目前尚无统计资料。';
-$lang['DirectAdmin.tab_client_stats.info_heading.value'] = '价值';
+$lang['DirectAdmin.tab_client_stats.info_heading.value'] = '值';
 $lang['DirectAdmin.tab_client_stats.info_heading.field'] = '现场';
 $lang['DirectAdmin.tab_client_stats.info_title'] = '信息';
 $lang['DirectAdmin.tab_client_stats'] = '统计资料';
@@ -38,7 +38,7 @@ $lang['DirectAdmin.row_meta.use_ssl'] = '连接应用程序接口时使用 SSL�
 $lang['DirectAdmin.row_meta.password'] = '密码';
 $lang['DirectAdmin.row_meta.user_name'] = '用户名';
 $lang['DirectAdmin.row_meta.default_port'] = '2222';
-$lang['DirectAdmin.row_meta.port'] = '港口';
+$lang['DirectAdmin.row_meta.port'] = '端口';
 $lang['DirectAdmin.row_meta.host_name'] = '主机名称';
 $lang['DirectAdmin.row_meta.server_name'] = '服务器标签';
 $lang['DirectAdmin.manage.module_groups.confirm_delete'] = '您确定要删除此服务器组吗？';

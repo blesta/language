@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Tags.module.label'] = '模块行标签';
+$lang['Tags.module.label'] = '模块标签';
 $lang['Tags.module.name'] = '模块名称';
 $lang['Tags.service.status'] = '现状';
 $lang['Tags.service.date_canceled'] = '取消日期';
@@ -26,7 +26,7 @@ $lang['Tags.contact.date_added'] = '成员日期';
 $lang['Tags.contact.email'] = '电子邮件';
 $lang['Tags.contact.zip'] = '邮政编码';
 $lang['Tags.contact.country'] = '国家';
-$lang['Tags.contact.state'] = '国家';
+$lang['Tags.contact.state'] = '州/省/地区';
 $lang['Tags.contact.city'] = '城市';
 $lang['Tags.contact.address2'] = '地址 2';
 $lang['Tags.contact.address1'] = '地址 1';
