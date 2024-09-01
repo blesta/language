@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Contacts.getPermissionOptions.client_quotations'] = '语录';
+$lang['Contacts.getPermissionOptions.client_quotations'] = '报价单';
 $lang['Contacts.getPermissionOptions._credits'] = '预存款';
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = '账单交付';
 $lang['Contacts.getPermissionOptions._managed'] = '管理账户';

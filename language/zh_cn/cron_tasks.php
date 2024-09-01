@@ -11,7 +11,7 @@
 
 $lang['CronTasks.crontask.name.license_validation'] = '许可证验证';
 $lang['CronTasks.crontask.description.transition_quotations'] = '将超过有效日期的报价标记为过期';
-$lang['CronTasks.crontask.name.transition_quotations'] = '过渡语录';
+$lang['CronTasks.crontask.name.transition_quotations'] = '过渡报价单';
 $lang['CronTasks.crontask.description.unsuspend_services'] = '已付费的暂停服务将在选定的时间间隔内取消暂停。';
 $lang['CronTasks.crontask.name.unsuspend_services'] = '解散服务';
 $lang['CronTasks.crontask.description.cleanup_logs'] = '旧网关、模块和其他日志将根据指定时间的保留设置进行每日轮换。';

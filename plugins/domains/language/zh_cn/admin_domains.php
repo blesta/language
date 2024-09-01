@@ -61,21 +61,21 @@ $lang['AdminDomains.meta.field_update'] = '更新';
 $lang['AdminDomains.meta.field_finish'] = '完成';
 $lang['AdminDomains.meta.field_continue'] = '继续';
 $lang['AdminDomains.meta.field_modulegroup_any'] = '任何';
-$lang['AdminDomains.meta.text_update_no_required_note'] = '新注册商模块没有需要更新的软件包元字段。';
+$lang['AdminDomains.meta.text_update_no_required_note'] = '新注册商模块没有需要更新的套餐元字段。';
 $lang['AdminDomains.meta.text_update_required_note'] = '更新顶级域名的注册商模块时，在某些情况下可能需要更新包元。Blesta 将尝试自动映射尽可能多的字段，但有些字段可能需要手动更新。';
-$lang['AdminDomains.meta.heading_update_no_required'] = '本模块无需更新软件包元。';
-$lang['AdminDomains.meta.heading_update_required'] = '可能需要更新软件包元。';
+$lang['AdminDomains.meta.heading_update_no_required'] = '本模块无需更新套餐元。';
+$lang['AdminDomains.meta.heading_update_required'] = '可能需要更新套餐元。';
 $lang['AdminDomains.meta.heading_module_options'] = '模块选项';
-$lang['AdminDomains.meta.boxtitle_meta_tld'] = '更新 TLD %1$s 的软件包元';
+$lang['AdminDomains.meta.boxtitle_meta_tld'] = '更新 TLD %1$s 的套餐元';
 $lang['AdminDomains.pricing.field_update'] = '更新';
 $lang['AdminDomains.pricing.field_cancel'] = '取消';
 $lang['AdminDomains.pricing.field_description_text'] = '文本';
 $lang['AdminDomains.pricing.field_description_html'] = '超文本标记语言';
 $lang['AdminDomains.pricing.field_load_sample_email'] = '加载电子邮件样本';
-$lang['AdminDomains.pricing.field_edit_package'] = '编辑软件包';
+$lang['AdminDomains.pricing.field_edit_package'] = '编辑套餐';
 $lang['AdminDomains.pricing.field_modulegroup_any'] = '任何';
 $lang['AdminDomains.pricing.field_nameserver'] = '名称服务器 %1$s';
-$lang['AdminDomains.pricing.text_advanced_options'] = '编辑核心软件包，定义客户限制、可配置选项、可用数量、插件集成、说明等。';
+$lang['AdminDomains.pricing.text_advanced_options'] = '编辑核心套餐，定义客户限制、可配置选项、可用数量、插件集成、说明等。';
 $lang['AdminDomains.pricing.text_confirm_load_email'] = '您确定要加载示例电子邮件吗？这将放弃所有更改。';
 $lang['AdminDomains.pricing.text_tags'] = '标签';
 $lang['AdminDomains.pricing.heading_welcome_email'] = '欢迎电子邮件';
@@ -130,21 +130,21 @@ $lang['AdminDomains.configurableoptions.heading_options'] = '选项';
 $lang['AdminDomains.configurableoptions.heading_configurable_option'] = '可配置选项';
 $lang['AdminDomains.configurableoptions.boxtitle'] = '配置';
 $lang['AdminDomains.configurableoptions.page_title'] = '域 > 配置';
-$lang['AdminDomains.importpackages.field_submit'] = '导入软件包';
+$lang['AdminDomains.importpackages.field_submit'] = '导入套餐';
 $lang['AdminDomains.importpackages.text_collecting_list_tlds'] = '收集要导入的顶级域名列表...';
 $lang['AdminDomains.importpackages.title_imported_packages'] = '进口 TLD';
-$lang['AdminDomains.importpackages.tooltip_overwrite_packages'] = '选中后，当前的域管理器 TLD 程序包将被删除，并由外部 TLD 程序包取代。  在此过程中，将跳过已为其分配服务的域管理器软件包。';
+$lang['AdminDomains.importpackages.tooltip_overwrite_packages'] = '选中后，当前的域管理器 TLD 程序包将被删除，并由外部 TLD 程序包取代。  在此过程中，将跳过已为其分配服务的域管理器套餐。';
 $lang['AdminDomains.importpackages.field_overwrite_packages'] = '覆盖 TLD 包';
-$lang['AdminDomains.importpackages.tooltip_migrate_services'] = '选中后，分配给克隆软件包的任何服务都将迁移到新创建的软件包中。  这只适用于按年定价的服务。';
+$lang['AdminDomains.importpackages.tooltip_migrate_services'] = '选中后，分配给克隆套餐的任何服务都将迁移到新创建的套餐中。  这只适用于按年定价的服务。';
 $lang['AdminDomains.importpackages.field_migrate_services'] = '迁移服务';
 $lang['AdminDomains.importpackages.description'] = '该导入将：<br/>
-* 查找分配给注册商模块的所有软件包（第三方模块可能不会将自己标识为注册商，因此可能无法识别）<br/> <br/>
-对于分配给软件包的每个顶级域名，在域名管理器中创建一个具有相同详细信息的新顶级域名定价软件包<br/> * 跳过任何具有相同详细信息的软件包/顶级域名<br/>。
+* 查找分配给注册商模块的所有套餐（第三方模块可能不会将自己标识为注册商，因此可能无法识别）<br/> <br/>
+对于分配给套餐的每个顶级域名，在域名管理器中创建一个具有相同详细信息的新顶级域名定价套餐<br/> * 跳过任何具有相同详细信息的套餐/顶级域名<br/>。
 跳过任何与之前遇到的套餐/顶级域具有相同注册商的套餐/顶级域<br/> * 跳过任何没有年费的套餐
 跳过任何没有年度定价期的套餐<br/> * 标记第一个套餐/注册商<br/> * 跳过任何没有年度定价期的套餐/顶级域<br/> * 跳过任何没有年度定价期的套餐/顶级域
-* 将每个顶级域遇到的第一个软件包/注册商标记为主要软件包/注册商，而其他导入的软件包将在顶级域定价页面上更改注册商时使用<br/> <br/>
-* 如果旧的导入软件包在导入后没有服务，则将其停用<br/> <br/>';
-$lang['AdminDomains.importpackages.order_form'] = '应更新域名订购表，以使用 %1$s 软件分组';
+* 将每个顶级域遇到的第一个套餐/注册商标记为主要套餐/注册商，而其他导入的套餐将在顶级域定价页面上更改注册商时使用<br/> <br/>
+* 如果旧的导入套餐在导入后没有服务，则将其停用<br/> <br/>';
+$lang['AdminDomains.importpackages.order_form'] = '应更新域名订购表，以使用 %1$s 套餐分组';
 $lang['AdminDomains.importpackages.boxtitle'] = '配置';
 $lang['AdminDomains.importpackages.page_title'] = '域 > 配置';
 $lang['AdminDomains.getroundingoptions.custom'] = '定制';
@@ -183,7 +183,7 @@ $lang['AdminDomains.configuration.heading_markup'] = '标记';
 $lang['AdminDomains.configuration.heading_taxes'] = '税收';
 $lang['AdminDomains.configuration.heading_package_options'] = '套餐选项';
 $lang['AdminDomains.configuration.tab_configurableoptions'] = '可配置选项';
-$lang['AdminDomains.configuration.tab_importpackages'] = '导入软件包';
+$lang['AdminDomains.configuration.tab_importpackages'] = '导入套餐';
 $lang['AdminDomains.configuration.tab_tld_sync'] = 'TLD 同步';
 $lang['AdminDomains.configuration.tab_advanced'] = '高级';
 $lang['AdminDomains.configuration.tab_notifications'] = '通知';
@@ -240,7 +240,7 @@ $lang['AdminDomains.!error.tlds_bulk[action].valid'] = 'TLDs Bulk Action 的值�
 $lang['AdminDomains.!error.value_id_invalid'] = '提供的值 ID 无效。';
 $lang['AdminDomains.!success.tlds_imported'] = 'TLD 已成功导入！';
 $lang['AdminDomains.!success.configurable_option_updated'] = '可配置选项已更新！';
-$lang['AdminDomains.!success.packages_imported'] = '域软件包导入成功！';
+$lang['AdminDomains.!success.packages_imported'] = '域套餐导入成功！';
 $lang['AdminDomains.!success.domains_pushed'] = '所选域已成功推送到新客户端。';
 $lang['AdminDomains.!success.update_nameservers'] = '域名服务器已更新！';
 $lang['AdminDomains.!success.domain_renewal'] = '域名已续期！';

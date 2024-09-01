@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminBilling.services.heading_package'] = '包装';
+$lang['AdminBilling.services.heading_package'] = '套餐';
 $lang['AdminBilling.services.heading_client'] = '客户 #';
 $lang['AdminBilling.services.boxtitle_services'] = '服务';
 $lang['AdminBilling.services.page_title'] = '账单服务';

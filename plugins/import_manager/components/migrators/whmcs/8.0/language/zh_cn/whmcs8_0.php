@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Whmcs8_0.configuration.no_local_packages'] = '您必须先创建软件包，然后才能映射它们。';
-$lang['Whmcs8_0.configuration.remote_package'] = '远程软件包';
+$lang['Whmcs8_0.configuration.no_local_packages'] = '您必须先创建套餐，然后才能映射它们。';
+$lang['Whmcs8_0.configuration.remote_package'] = '远程套餐';
 $lang['Whmcs8_0.configuration.local_package'] = '本地套餐';
-$lang['Whmcs8_0.configuration.create_packages_false'] = '手动映射软件包';
-$lang['Whmcs8_0.configuration.create_packages_true'] = '在导入过程中自动创建任何必要的软件包';
+$lang['Whmcs8_0.configuration.create_packages_false'] = '手动映射套餐';
+$lang['Whmcs8_0.configuration.create_packages_true'] = '在导入过程中自动创建任何必要的套餐';
 $lang['Whmcs8_0.settings.enable_debug'] = '启用调试';
 $lang['Whmcs8_0.settings.balance_credit.info'] = '如果选中，将生成交易或账单，以确保 Blesta 中的客户积分与 WHMCS 中为客户设置的积分一致。这一点很有必要，因为 WHMCS 无法正确核算客户贷项。';
 $lang['Whmcs8_0.settings.balance_credit'] = '自动平衡交易以匹配 WHMCS 中的客户积分';

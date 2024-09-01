@@ -12,7 +12,7 @@
 $lang['Util.filters.package_filters.field_options'] = '选项';
 $lang['Util.filters.package_filters.field_assigned_services'] = '指定服务';
 $lang['Util.filters.package_filters.field_name'] = '套餐名称';
-$lang['Util.filters.package_filters.field_package_group_id'] = '包装组';
+$lang['Util.filters.package_filters.field_package_group_id'] = '套餐组';
 $lang['Util.filters.package_filters.field_module_id'] = '模块';
 $lang['Util.filters.package_filters.options.hidden'] = '显示隐藏套餐';
 $lang['Util.filters.package_filters.services.none'] = '无服务';

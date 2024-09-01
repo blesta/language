@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderFormController.!notice.items_removed'] = '由于包装限制，部分商品已从您的购物车中移除';
+$lang['OrderFormController.!notice.items_removed'] = '由于套餐限制，部分商品已从您的购物车中移除';
 

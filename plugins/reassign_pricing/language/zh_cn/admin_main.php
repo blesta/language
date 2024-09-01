@@ -11,8 +11,8 @@
 
 $lang['AdminMain.service.field_submit'] = '节省';
 $lang['AdminMain.service.field_cancel'] = '取消';
-$lang['AdminMain.service.field_group'] = '包装组';
-$lang['AdminMain.service.field_pricing'] = '包装/期限';
+$lang['AdminMain.service.field_group'] = '套餐组';
+$lang['AdminMain.service.field_pricing'] = '套餐/期限';
 $lang['AdminMain.service.heading_pricing'] = '重新分配定价';
 $lang['AdminMain.service.text_renewal_price'] = '续订价格：';
 $lang['AdminMain.service.text_coupon_amount'] = '%1$s (%2$s)';
@@ -38,7 +38,7 @@ $lang['AdminMain.index.heading_date_renews'] = '续订日期';
 $lang['AdminMain.index.heading_date_created'] = '创建日期';
 $lang['AdminMain.index.heading_term'] = '周期';
 $lang['AdminMain.index.heading_label'] = '标签';
-$lang['AdminMain.index.heading_package'] = '包装';
+$lang['AdminMain.index.heading_package'] = '套餐';
 $lang['AdminMain.index.link_client'] = '返回客户 #%1$s';
 $lang['AdminMain.index.boxtitle_services'] = '为客户 #%1$s 提供的服务';
 $lang['AdminMain.index.page_title'] = '客户 #%1$s 重新分配定价';

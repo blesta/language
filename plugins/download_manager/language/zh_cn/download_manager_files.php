@@ -10,8 +10,8 @@
  */
 
 $lang['DownloadManagerFiles.!error.file_id.exists'] = '正在更新的文件不存在。';
-$lang['DownloadManagerFiles.!error.file_packages.format'] = '至少有一个所选软件包因不存在而无法添加。';
-$lang['DownloadManagerFiles.!error.permit_packages.format'] = '软件包可用性选项的格式无效。';
+$lang['DownloadManagerFiles.!error.file_packages.format'] = '至少有一个所选套餐因不存在而无法添加。';
+$lang['DownloadManagerFiles.!error.permit_packages.format'] = '套餐可用性选项的格式无效。';
 $lang['DownloadManagerFiles.!error.file_groups.format'] = '至少有一个选定的客户组因不存在而无法添加。';
 $lang['DownloadManagerFiles.!error.permit_client_groups.format'] = '客户组可用性选项的格式无效。';
 $lang['DownloadManagerFiles.!error.public.assignment'] = '该文件必须提供给公众、客户群或套餐。';

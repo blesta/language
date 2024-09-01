@@ -10,7 +10,7 @@
  */
 
 $lang['UniversalModule.!error.service_fields[name][].unique'] = '服务字段名称必须是唯一的。';
-$lang['UniversalModule.!error.package_fields[name][].unique'] = '软件包字段名称必须是唯一的。';
+$lang['UniversalModule.!error.package_fields[name][].unique'] = '套餐字段名称必须是唯一的。';
 $lang['UniversalModule.edit_row.tags'] = '标签';
 $lang['UniversalModule.edit_row.service_client_info'] = '客户服务信息';
 $lang['UniversalModule.edit_row.service_admin_info'] = '行政服务信息';
@@ -24,15 +24,15 @@ $lang['UniversalModule.!error.package_email_from.required'] = '包裹电子邮�
 $lang['UniversalModule.!error.name.empty'] = '必须填写产品名称。';
 $lang['UniversalModule.!error.service_field.required'] = '需要 %1$s。';
 $lang['UniversalModule.!error.package_field.required'] = '需要 %1$s。';
-$lang['UniversalModule.!error.service_notice_package_change.failed'] = '在尝试更新分配给服务的软件包/术语时，模块与远程服务器通信失败。';
+$lang['UniversalModule.!error.service_notice_package_change.failed'] = '在尝试更新分配给服务的套餐/术语时，模块与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_renew.failed'] = '模块在尝试更新服务时与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_unsuspend.failed'] = '模块在尝试取消暂停服务时与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_suspend.failed'] = '模块在尝试暂停服务时与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_cancel.failed'] = '模块在尝试取消服务时与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_edit.failed'] = '模块在尝试更新服务时与远程服务器通信失败。';
 $lang['UniversalModule.!error.service_notice_add.failed'] = '模块在尝试提供服务时与远程服务器通信失败。';
-$lang['UniversalModule.!error.package_notice_edit.failed'] = '尝试更新软件包时，模块与远程服务器通信失败。';
-$lang['UniversalModule.!error.package_notice_add.failed'] = '模块在尝试创建软件包时与远程服务器通信失败。';
+$lang['UniversalModule.!error.package_notice_edit.failed'] = '尝试更新套餐时，模块与远程服务器通信失败。';
+$lang['UniversalModule.!error.package_notice_add.failed'] = '模块在尝试创建套餐时与远程服务器通信失败。';
 $lang['UniversalModule.getPackageFields.empty_module_row'] = '不存在通用产品。<a href="%1$s">创建一个。';
 $lang['UniversalModule.false'] = '没有';
 $lang['UniversalModule.true'] = '是';

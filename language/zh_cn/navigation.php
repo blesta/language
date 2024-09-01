@@ -10,7 +10,7 @@
  */
 
 $lang['Navigation.getprimary.nav_tools_blacklist'] = '黑名单';
-$lang['Navigation.getsearchoptions.packages'] = '软件包搜索';
+$lang['Navigation.getsearchoptions.packages'] = '套餐搜索';
 $lang['Navigation.getsearchoptions.services'] = '服务搜索';
 $lang['Navigation.getsearchoptions.transactions'] = '交易搜索';
 $lang['Navigation.getsearchoptions.invoices'] = '账单搜索';
@@ -111,7 +111,7 @@ $lang['Navigation.getprimary.nav_billing_printqueue'] = '打印队列';
 $lang['Navigation.getprimary.nav_billing_reports'] = '报告';
 $lang['Navigation.getprimary.nav_billing_services'] = '服务';
 $lang['Navigation.getprimary.nav_billing_transactions'] = '交易';
-$lang['Navigation.getprimary.nav_billing_quotations'] = '语录';
+$lang['Navigation.getprimary.nav_billing_quotations'] = '报价单';
 $lang['Navigation.getprimary.nav_billing_invoices'] = '账单';
 $lang['Navigation.getprimary.nav_billing_overview'] = '概述';
 $lang['Navigation.getprimary.nav_billing'] = '账单';
