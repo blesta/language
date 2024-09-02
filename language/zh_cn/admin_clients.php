@@ -31,7 +31,7 @@ $lang['AdminClients.createinvoice.auto_save_error'] = '草稿无法自动保存'
 $lang['AdminClients.editinvoice.heading_unitcost'] = '单位成本';
 $lang['AdminClients.quotations.category_pending'] = '待定';
 $lang['AdminClients.editservice.action.field_coupon_code'] = '优惠券代码';
-$lang['AdminClients.view.setting_disabled'] = '残疾';
+$lang['AdminClients.view.setting_disabled'] = '禁用';
 $lang['AdminClients.!notice.payment_type'] = '警告：%1$s 支付目前尚未启用。要启用它们，请更新 <a href="%2$s">%3$s</a> 。';
 $lang['AdminClients.createinvoice.auto_save_saved'] = '草稿已保存';
 $lang['AdminClients.editinvoice.heading_quantity'] = '数量';
