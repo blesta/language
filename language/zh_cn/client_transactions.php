@@ -17,12 +17,12 @@ $lang['ClientTransactions.index.no_results'] = '您没有 %1$s 交易。';
 $lang['ClientTransactions.index.heading_date'] = '日期';
 $lang['ClientTransactions.index.heading_number'] = '数量';
 $lang['ClientTransactions.index.heading_applied'] = '已应用';
-$lang['ClientTransactions.index.heading_credited'] = '已批准';
+$lang['ClientTransactions.index.heading_credited'] = '已支付 ';
 $lang['ClientTransactions.index.heading_amount'] = '金额';
 $lang['ClientTransactions.index.heading_type'] = '类型';
 $lang['ClientTransactions.index.category_declined'] = '拒绝';
 $lang['ClientTransactions.index.category_pending'] = '待定';
-$lang['ClientTransactions.index.category_approved'] = '批准';
+$lang['ClientTransactions.index.category_approved'] = '已支付';
 $lang['ClientTransactions.index.boxtitle_transactions'] = '交易';
 $lang['ClientTransactions.index.page_title'] = '客户 #%1$s 交易';
 

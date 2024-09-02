@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.edit.field_recovery_email'] = '恢复电子邮件（可选）';
+$lang['ClientMain.edit.field_recovery_email'] = '恢复电子邮件地址（可选）';
 $lang['ClientMain.getcurrencyamounts.text_total_credits'] = '账户余额';
 $lang['Clientmain.invoicemethod.field_methodsubmit'] = '更新';
 $lang['ClientMain.invoicemethod.text_invoice_method'] = '您的账单方式是我们向您发送新账单的方式。';
@@ -72,9 +72,9 @@ $lang['ClientMain.!info.additional_services'] = '...和 %1$s 附加服务。';
 $lang['ClientMain.!info.additional_service'] = '...以及 1 项附加服务。';
 $lang['ClientMain.!info.service_name'] = '%1$s - %2$s';
 $lang['ClientMain.!info.service_in_review'] = '以下服务尚待工作人员审查。一旦获得批准，它们将被激活：';
-$lang['ClientMain.!info.invoice_due_other_currencies'] = '您还有其他货币的未清余额。';
-$lang['ClientMain.!info.invoice_due_past_due_text'] = '您的账户有 %1$s 的未清余额，其中 %2$s 已逾期。请尽早付款。';
-$lang['ClientMain.!info.invoice_due_text'] = '您的账户有 %1$s 的未清余额。请尽早付款。';
+$lang['ClientMain.!info.invoice_due_other_currencies'] = '您还有其他货币的未支付。';
+$lang['ClientMain.!info.invoice_due_past_due_text'] = '您的账户有 %1$s 的未支付，其中 %2$s 已逾期。请尽早付款。';
+$lang['ClientMain.!info.invoice_due_text'] = '您的账户有 %1$s 的未支付。请尽早付款。';
 $lang['ClientMain.!info.invoice_past_due_button'] = '逾期付款';
 $lang['ClientMain.!info.invoice_due_button'] = '付款';
 $lang['ClientMain.!info.invoice_due_title'] = '欢迎回来，%1$s！';
