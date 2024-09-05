@@ -10,7 +10,7 @@
  */
 
 $lang['_PaymentTypes.in_house_credit'] = '内部信贷';
-$lang['_PaymentTypes.money_order'] = '汇票';
+$lang['_PaymentTypes.money_order'] = '付款订单';
 $lang['_PaymentTypes.check'] = '检查';
 $lang['_PaymentTypes.cash'] = '现金';
 

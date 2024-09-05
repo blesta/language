@@ -26,14 +26,14 @@ $lang['ClientMain.index.heading_suspension_date'] = '暂停日期';
 $lang['ClientMain.index.heading_expiration_date'] = '有效期';
 $lang['ClientMain.index.heading_renewal_date'] = '续订日期';
 $lang['ClientMain.index.heading_registration_date'] = '注册日期';
-$lang['ClientMain.index.heading_term'] = '学期';
+$lang['ClientMain.index.heading_term'] = '周期';
 $lang['ClientMain.index.heading_domain'] = '域名';
 $lang['ClientMain.index.heading_status'] = '现状';
 $lang['ClientMain.index.heading_addons'] = '附加组件';
 $lang['ClientMain.index.category_deleted'] = '已删除';
 $lang['ClientMain.index.category_suspended'] = '暂停';
 $lang['ClientMain.index.category_pending'] = '待定';
-$lang['ClientMain.index.category_active'] = '活跃';
+$lang['ClientMain.index.category_active'] = '已激活';
 $lang['ClientMain.index.boxtitle_domains'] = '领域';
 $lang['ClientMain.index.page_title'] = '客户 #%1$s 域名';
 

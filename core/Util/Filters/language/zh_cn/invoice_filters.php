@@ -12,5 +12,5 @@
 $lang['Util.filters.invoice_filters.any'] = '任何';
 $lang['Util.filters.invoice_filters.field_currency'] = '货币';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = '项目内容';
-$lang['Util.filters.invoice_filters.field_invoice_number'] = '发票 #';
+$lang['Util.filters.invoice_filters.field_invoice_number'] = '账单 #';
 

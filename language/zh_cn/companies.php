@@ -9,18 +9,18 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Companies.!error.inv_proforma_start.number'] = '形式发票起始值必须为数字。';
-$lang['Companies.!error.inv_proforma_format.contains'] = '形式发票格式必须包含 {num}。';
-$lang['Companies.!error.inv_proforma_format.format'] = '形式发票格式不能与草稿发票格式冲突。';
-$lang['Companies.!error.inv_pad_str.length'] = '发票填充字符必须为单个字符。';
-$lang['Companies.!error.inv_pad_size.number'] = '发票填充尺寸必须为数字。';
-$lang['Companies.!error.inv_increment.number'] = '发票增量值必须是数字。';
-$lang['Companies.!error.inv_start.number'] = '发票起始值必须是数字。';
-$lang['Companies.!error.inv_draft_format.contains'] = '发票草稿格式必须包含 {num}。';
-$lang['Companies.!error.inv_draft_format.format'] = '发票草稿格式不能与发票格式冲突。';
-$lang['Companies.!error.inv_format.contains'] = '发票格式必须包含 {num}。';
-$lang['Companies.!error.inv_format.format'] = '发票格式不能与发票草稿格式冲突。';
-$lang['Companies.!error.quota.allowed'] = '目前没有附加的公司许可证。请登录您在 account.blesta.com 上的账户或联系销售人员购买额外的公司许可证。';
+$lang['Companies.!error.inv_proforma_start.number'] = '形式账单起始值必须为数字。';
+$lang['Companies.!error.inv_proforma_format.contains'] = '形式账单格式必须包含 {num}。';
+$lang['Companies.!error.inv_proforma_format.format'] = '形式账单格式不能与草稿账单格式冲突。';
+$lang['Companies.!error.inv_pad_str.length'] = '账单填充字符必须为单个字符。';
+$lang['Companies.!error.inv_pad_size.number'] = '账单填充尺寸必须为数字。';
+$lang['Companies.!error.inv_increment.number'] = '账单增量值必须是数字。';
+$lang['Companies.!error.inv_start.number'] = '账单起始值必须是数字。';
+$lang['Companies.!error.inv_draft_format.contains'] = '账单草稿格式必须包含 {num}。';
+$lang['Companies.!error.inv_draft_format.format'] = '账单草稿格式不能与账单格式冲突。';
+$lang['Companies.!error.inv_format.contains'] = '账单格式必须包含 {num}。';
+$lang['Companies.!error.inv_format.format'] = '账单格式不能与账单草稿格式冲突。';
+$lang['Companies.!error.quota.allowed'] = '目前没有附加的公司许可证。请登录您在 account.blesta.com 上的账户或联系销售人员购买附加公司许可证。';
 $lang['Companies.!error.private_key_passphrase.valid'] = '您输入的密码无效。';
 $lang['Companies.!error.fax.length'] = '传真长度不得超过 64 个字符。';
 $lang['Companies.!error.phone.length'] = '电话长度不得超过 64 个字符。';

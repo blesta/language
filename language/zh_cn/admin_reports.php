@@ -11,7 +11,7 @@
 
 $lang['AdminReports.index.customize'] = '定制';
 $lang['AdminReports.index.reports'] = '生成';
-$lang['AdminReports.index.field_submit'] = '出口';
+$lang['AdminReports.index.field_submit'] = '导出';
 $lang['AdminReports.index.field_report_type'] = '报告类型';
 $lang['AdminReports.index.field_format'] = '格式';
 $lang['AdminReports.index.box_title'] = '报告';

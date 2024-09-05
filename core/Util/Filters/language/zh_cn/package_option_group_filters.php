@@ -10,5 +10,5 @@
  */
 
 $lang['Util.filters.package_option_group_filters.field_options'] = '选项';
-$lang['Util.filters.package_option_group_filters.options.hidden'] = '显示隐藏的软件包选项组';
+$lang['Util.filters.package_option_group_filters.options.hidden'] = '显示隐藏的套餐选项组';
 

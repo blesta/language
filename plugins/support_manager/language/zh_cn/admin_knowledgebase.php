@@ -10,7 +10,7 @@
  */
 
 $lang['AdminKnowledgebase.!tooltip.access_category'] = '所有人都可以访问公共类别。私人类别只有已登录的用户才能访问。隐藏类别不可访问。工作人员类别只有工作人员可见。';
-$lang['AdminKnowledgebase.!tooltip.access_article'] = '公开文章对所有人开放。私人文章只有已登录的用户才能访问。隐藏文章无法访问。员工文章只有员工才能看到。';
+$lang['AdminKnowledgebase.!tooltip.access_article'] = '公开文章对所有人开启。私人文章只有已登录的用户才能访问。隐藏文章无法访问。员工文章只有员工才能看到。';
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!text.add_category'] = '添加类别';
 $lang['AdminKnowledgebase.!text.enclosure_separator'] = '/';
@@ -56,9 +56,9 @@ $lang['AdminKnowledgebase.index.add_category'] = '添加类别';
 $lang['AdminKnowledgebase.index.add_article'] = '添加文章';
 $lang['AdminKnowledgebase.editcategory.page_title'] = '支持管理器 > 知识库 > 编辑类别';
 $lang['AdminKnowledgebase.addcategory.page_title'] = '支持管理器 > 知识库 > 添加类别';
-$lang['AdminKnowledgebase.edit.page_title'] = '支持经理 > 知识库 > 编辑文章';
-$lang['AdminKnowledgebase.add.page_title'] = '支持经理 > 知识库 > 添加文章';
-$lang['AdminKnowledgebase.index.page_title'] = '支持经理 > 知识库';
+$lang['AdminKnowledgebase.edit.page_title'] = '技术支持 > 知识库 > 编辑文章';
+$lang['AdminKnowledgebase.add.page_title'] = '技术支持 > 知识库 > 添加文章';
+$lang['AdminKnowledgebase.index.page_title'] = '技术支持 > 知识库';
 $lang['AdminKnowledgebase.!success.article_deleted'] = '文章已成功删除。';
 $lang['AdminKnowledgebase.!success.article_updated'] = '文章已成功更新。';
 $lang['AdminKnowledgebase.!success.article_added'] = '文章已成功创建。';

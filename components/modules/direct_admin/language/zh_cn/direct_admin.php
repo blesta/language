@@ -10,7 +10,7 @@
  */
 
 $lang['DirectAdmin.tab_client_stats.no_results'] = '目前尚无统计资料。';
-$lang['DirectAdmin.tab_client_stats.info_heading.value'] = '价值';
+$lang['DirectAdmin.tab_client_stats.info_heading.value'] = '值';
 $lang['DirectAdmin.tab_client_stats.info_heading.field'] = '现场';
 $lang['DirectAdmin.tab_client_stats.info_title'] = '信息';
 $lang['DirectAdmin.tab_client_stats'] = '统计资料';
@@ -38,7 +38,7 @@ $lang['DirectAdmin.row_meta.use_ssl'] = '连接应用程序接口时使用 SSL�
 $lang['DirectAdmin.row_meta.password'] = '密码';
 $lang['DirectAdmin.row_meta.user_name'] = '用户名';
 $lang['DirectAdmin.row_meta.default_port'] = '2222';
-$lang['DirectAdmin.row_meta.port'] = '港口';
+$lang['DirectAdmin.row_meta.port'] = '端口';
 $lang['DirectAdmin.row_meta.host_name'] = '主机名称';
 $lang['DirectAdmin.row_meta.server_name'] = '服务器标签';
 $lang['DirectAdmin.manage.module_groups.confirm_delete'] = '您确定要删除此服务器组吗？';
@@ -62,7 +62,7 @@ $lang['DirectAdmin.add_module_row'] = '添加服务器';
 $lang['DirectAdmin.package_fields.ip_assign'] = '分配';
 $lang['DirectAdmin.package_fields.ip_shared'] = '共享';
 $lang['DirectAdmin.package_fields.ip'] = 'IP 地址';
-$lang['DirectAdmin.package_fields.package'] = 'DirectAdmin 软件包';
+$lang['DirectAdmin.package_fields.package'] = 'DirectAdmin 套餐';
 $lang['DirectAdmin.package_fields.type_reseller'] = '经销商';
 $lang['DirectAdmin.package_fields.type_user'] = '用户';
 $lang['DirectAdmin.package_fields.type'] = '账户类型';
@@ -100,7 +100,7 @@ $lang['DirectAdmin.!error.direct_admin_username.length'] = '用户名长度必�
 $lang['DirectAdmin.!error.direct_admin_username.format'] = '用户名只能包含字母数字字符。';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = '请输入有效的域名，格式为：domain.com';
 $lang['DirectAdmin.!error.meta[ip].empty'] = '需要 IP 地址。';
-$lang['DirectAdmin.!error.meta[package].empty'] = '需要 DirectAdmin 软件包。';
+$lang['DirectAdmin.!error.meta[package].empty'] = '需要 DirectAdmin 套餐。';
 $lang['DirectAdmin.!error.meta[type].format'] = '账户类型必须是用户或经销商。';
 $lang['DirectAdmin.!error.api.internal'] = '发生内部错误，或服务器未响应请求。';
 $lang['DirectAdmin.!error.name_servers.count'] = '您必须定义至少 2 个名称服务器。';

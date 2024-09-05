@@ -10,9 +10,9 @@
  */
 
 $lang['ModuleManager.!error.module_id.assigned_service'] = '该模块无法卸载，因为它被一个或多个未取消的服务使用。';
-$lang['ModuleManager.!error.module_id.assigned_package'] = '该模块无法卸载，因为它被一个或多个活动软件包使用。';
-$lang['ModuleManager.!error.module_group_id.assigned_package'] = '不能删除组，因为它属于一个或多个软件包。';
-$lang['ModuleManager.!error.module_row_id.assigned_package'] = '由于该行属于一个或多个软件包，因此无法删除。';
+$lang['ModuleManager.!error.module_id.assigned_package'] = '该模块无法卸载，因为它被一个或多个活动套餐使用。';
+$lang['ModuleManager.!error.module_group_id.assigned_package'] = '不能删除组，因为它属于一个或多个套餐。';
+$lang['ModuleManager.!error.module_row_id.assigned_package'] = '由于该行属于一个或多个套餐，因此无法删除。';
 $lang['ModuleManager.!error.module_row_id.assigned_service'] = '由于该行属于一个或多个服务，因此无法删除。';
 $lang['ModuleManager.!error.force_limits.valid'] = '是否执行严格限制必须设置为 0 或 1。';
 $lang['ModuleManager.!error.module_rows[].valid'] = '指定的一行或多行不属于此模块。';

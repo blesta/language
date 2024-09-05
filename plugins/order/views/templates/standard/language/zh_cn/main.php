@@ -10,13 +10,13 @@
  */
 
 $lang['Main.packages.term_years'] = '%1$s 年';
-$lang['Main.packages.term_year'] = '%1$s 年';
+$lang['Main.packages.term_year'] = '%1$s 每年';
 $lang['Main.packages.term_months'] = '%1个月';
-$lang['Main.packages.term_month'] = '%1$s 月份';
+$lang['Main.packages.term_month'] = '%1$s 每月';
 $lang['Main.packages.term_weeks'] = '%1$s 周';
-$lang['Main.packages.term_week'] = '%1$s 周';
+$lang['Main.packages.term_week'] = '%1$s 每周';
 $lang['Main.packages.term_days'] = '%1$s 天';
-$lang['Main.packages.term_day'] = '%1$s 日';
+$lang['Main.packages.term_day'] = '%1$s 每天';
 $lang['Main.index.client_limit'] = '达到上限';
 $lang['Main.index.sold_out'] = '缺货';
 $lang['Main.index.select_btn'] = '添加到购物车';

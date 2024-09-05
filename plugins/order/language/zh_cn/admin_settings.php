@@ -11,8 +11,8 @@
 
 $lang['AdminSettings.settings.submit_cancel'] = '取消';
 $lang['AdminSettings.settings.submit_settings'] = '保存设置';
-$lang['AdminSettings.settings.text_inheritance'] = '新创建的联属会员会继承公司联属会员设置，但之后会被个人联属会员设置覆盖';
-$lang['AdminSettings.settings.zero_amount'] = '提现金额目前为零，这意味着联属会员不会从推荐人处获得任何资金';
+$lang['AdminSettings.settings.text_inheritance'] = '新创建的联盟会员会继承公司联盟会员设置，但之后会被个人联盟会员设置覆盖';
+$lang['AdminSettings.settings.zero_amount'] = '提现金额目前为零，这意味着联盟会员不会从推荐人处获得任何资金';
 $lang['AdminSettings.settings.tooltip_signup_content'] = '如果客户尚未注册，联盟页面上将显示的 HTML 内容。';
 $lang['AdminSettings.settings.field_signup_content'] = '注册内容';
 $lang['AdminSettings.settings.field_withdrawal_currency'] = '提款货币';
@@ -30,5 +30,5 @@ $lang['AdminSettings.settings.field_commission_type'] = '委员会类型';
 $lang['AdminSettings.settings.tooltip_cookie_tld'] = '跟踪推荐链接后，联盟 cookie 的有效天数。';
 $lang['AdminSettings.settings.field_cookie_tld'] = 'Cookie 持续时间（天数）';
 $lang['AdminSettings.settings.boxtitle_settings'] = '常规设置';
-$lang['AdminSettings.!success.settings_updated'] = '联属会员设置已更新。';
+$lang['AdminSettings.!success.settings_updated'] = '联盟会员设置已更新。';
 

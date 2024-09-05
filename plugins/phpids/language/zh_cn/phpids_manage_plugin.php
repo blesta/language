@@ -11,7 +11,7 @@
 
 $lang['PhpidsManagePlugin.logs.heading.ip'] = 'IP';
 $lang['PhpidsManagePlugin.logs.heading.uri'] = '通用资源识别号';
-$lang['PhpidsManagePlugin.logs.heading.value'] = '价值';
+$lang['PhpidsManagePlugin.logs.heading.value'] = '值';
 $lang['PhpidsManagePlugin.logs.heading.name'] = '名称';
 $lang['PhpidsManagePlugin.logs.no_results'] = '没有结果。';
 $lang['PhpidsManagePlugin.logs.heading.date_added'] = '添加日期';

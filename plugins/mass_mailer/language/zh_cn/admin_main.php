@@ -10,14 +10,14 @@
  */
 
 $lang['AdminMain.index.no_results'] = '目前没有邮寄工作。';
-$lang['AdminMain.index.no_export_details'] = '目前还没有关于出口的详细信息。';
+$lang['AdminMain.index.no_export_details'] = '目前还没有关于导出的详细信息。';
 $lang['AdminMain.index.email_to_recipients'] = '%1$s 收件人';
 $lang['AdminMain.index.email_subject'] = '主题';
 $lang['AdminMain.index.email_from'] = '来自';
 $lang['AdminMain.index.email_to'] = '至';
-$lang['AdminMain.index.type.export'] = '出口';
+$lang['AdminMain.index.type.export'] = '导出';
 $lang['AdminMain.index.type.email'] = '电子邮件';
-$lang['AdminMain.index.option_export'] = '出口';
+$lang['AdminMain.index.option_export'] = '导出';
 $lang['AdminMain.index.heading_options'] = '选项';
 $lang['AdminMain.index.heading_complete'] = '已完成';
 $lang['AdminMain.index.heading_status'] = '现状';

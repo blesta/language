@@ -43,7 +43,7 @@ $lang['AdminCompanyCurrencies.active.text_format'] = '格式';
 $lang['AdminCompanyCurrencies.active.text_currency_code'] = '货币代码（ISO 4217）';
 $lang['AdminCompanyCurrencies.active.no_results'] = '没有活动货币。';
 $lang['AdminCompanyCurrencies.active.categorylink_addcurrency'] = '添加货币';
-$lang['AdminCompanyCurrencies.active.boxtitle_active'] = '活跃货币';
+$lang['AdminCompanyCurrencies.active.boxtitle_active'] = '已激活货币';
 $lang['AdminCompanyCurrencies.active.page_title'] = '设置 > 公司 > 货币 > 有效货币';
 $lang['AdminCompanyCurrencies.setup.closed_parenthesis'] = ')';
 $lang['AdminCompanyCurrencies.setup.open_parenthesis'] = '(';
@@ -59,7 +59,7 @@ $lang['AdminCompanyCurrencies.setup.heading_multicurrency'] = '多种货币';
 $lang['AdminCompanyCurrencies.setup.field.client_set_currency'] = '允许客户设置货币';
 $lang['AdminCompanyCurrencies.setup.field.show_currency_code'] = '显示货币代码';
 $lang['AdminCompanyCurrencies.setup.field.default_currency'] = '默认货币';
-$lang['AdminCompanyCurrencies.setup.heading_general'] = '一般情况';
+$lang['AdminCompanyCurrencies.setup.heading_general'] = '基本设置';
 $lang['AdminCompanyCurrencies.setup.boxtitle_setup'] = '货币设置';
 $lang['AdminCompanyCurrencies.setup.tooltip_currency_pricing'] = '此选项要求以指定货币设置套餐定价，以便用于创建新服务。如果未选中该选项，且该货币不存在套餐定价，则将根据默认货币的汇率计算价格。
 

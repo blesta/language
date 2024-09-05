@@ -16,5 +16,5 @@ $lang['AdminExcludedPackages.index.heading_available_packages'] = '可用套餐'
 $lang['AdminExcludedPackages.index.tab_hidden_packages'] = '隐藏套餐';
 $lang['AdminExcludedPackages.index.tab_available_packages'] = '可用套餐';
 $lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = '不包括的套餐';
-$lang['AdminExcludedPackages.!success.packages_updated'] = '已成功更新排除在外的软件包。';
+$lang['AdminExcludedPackages.!success.packages_updated'] = '已成功更新排除在外的套餐。';
 

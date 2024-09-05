@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_desc'] = '当票据分配给工作人员时向其发送的通知。';
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_name'] = '分配的工作人员票';
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_desc'] = '票单更新时向工作人员发送的通知。';
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_name'] = '员工票更新';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_desc'] = '当工单分配给工作人员时向其发送的通知。';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_name'] = '分配工单的工作人员;
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_desc'] = '工单更新时向工作人员发送的通知。';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_name'] = '员工工单更新';
 

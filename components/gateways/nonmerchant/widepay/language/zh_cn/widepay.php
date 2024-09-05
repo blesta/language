@@ -10,8 +10,8 @@
  */
 
 $lang['Widepay.charge_types.card'] = '信用卡';
-$lang['Widepay.charge_types.ticket'] = '门票';
-$lang['Widepay.buildprocess.submit_ticket'] = '使用宽幅支付票支付';
+$lang['Widepay.charge_types.ticket'] = '工单';
+$lang['Widepay.buildprocess.submit_ticket'] = '使用Wide Pay工单支付';
 $lang['Widepay.buildprocess.submit_card'] = '使用 Wide Pay 信用卡支付';
 $lang['Widepay.!error.wallet_token.format'] = '请输入钱包 API 令牌';
 $lang['Widepay.!error.wallet_id.format'] = '请输入钱包 ID';
