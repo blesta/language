@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Olaylara göre otomatik HTTP istekleri gönderir ve belirli olayları tetiklemek için HTTP isteklerini dinler.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Olay gözlemcileri listesi önbelleğini temizler.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Önbelleği Temizle';
 

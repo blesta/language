@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Ci sono problemi seri che compromettono 
 $lang['AdminMain.index.health_fair'] = 'Ci sono alcuni problemi che influiscono sulla capacità del sistema di funzionare normalmente.';
 $lang['AdminMain.index.health_good'] = 'Nel complesso il sistema è in buona salute, ma ci sono alcuni elementi che potrebbero richiedere la vostra attenzione.';
 $lang['AdminMain.index.health_excellent'] = 'Il sistema è in buona salute e sembra funzionare normalmente.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Configurare?';
+$lang['AdminMain.index.upload_dir'] = 'Il percorso della directory di caricamento nelle impostazioni è all\'interno della directory web principale.  Dovrebbe essere posizionato al di sopra della directory web principale per garantire che non ci sia mai un problema di accesso pubblico.';
 

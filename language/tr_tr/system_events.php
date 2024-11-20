@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.event.empty'] = 'Lütfen bir etkinlik adı girin.';
-$lang['SystemEvents.!error.event.length'] = 'Olay %1$s karakter uzunluğunu geçemez.';
 $lang['SystemEvents.!error.observer.valid'] = 'Lütfen ad alanına veya dosya sistemi yoluna göre çağrılabilir bir gözlemci sağlayın.';
+$lang['SystemEvents.!error.event.length'] = 'Olay %1$s karakter uzunluğunu geçemez.';
+$lang['SystemEvents.!error.event.empty'] = 'Lütfen bir etkinlik adı girin.';
 

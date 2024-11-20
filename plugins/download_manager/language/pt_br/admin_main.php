@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'O arquivo foi adicionado com sucesso.'
 $lang['AdminMain.!success.category_deleted'] = 'A categoria foi excluída com sucesso.';
 $lang['AdminMain.!success.category_updated'] = 'A categoria foi atualizada com sucesso.';
 $lang['AdminMain.!success.category_added'] = 'A categoria foi criada com sucesso.';
+$lang['AdminMain.edit.text_full_path'] = 'OBSERVAÇÃO: Os arquivos devem estar localizados em algum lugar dentro do diretório de uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OBSERVAÇÃO: Os arquivos devem estar localizados em algum lugar dentro do diretório de uploads: <strong>%1$s</strong>.';
 

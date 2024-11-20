@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servidores';
 $lang['Virtualmin.module_row'] = 'Servidor';
 $lang['Virtualmin.description'] = 'O Virtualmin é um painel de controle de hospedagem de domínios e sites, que permite criar e gerenciar vários domínios e está disponível nas versões de código aberto e comercial. Ele é baseado no Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Um ou mais domínios de pacotes são inválidos.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Insira uma lista CSV de domínios que estarão disponíveis para provisionar subdomínios, por exemplo, "domain1.com,domain2.com,domain3.com"';
+$lang['Virtualmin.package_fields.domains_list'] = 'Lista de domínios disponíveis';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Desativar';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Ativar';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Permitir a venda de subdomínios';
 

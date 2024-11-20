@@ -73,4 +73,5 @@ $lang['Contacts.getPermissionOptions._managed'] = 'Cuentas gestionadas';
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = 'Entrega de facturas';
 $lang['Contacts.getPermissionOptions._credits'] = 'Créditos';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Citas';
+$lang['Contacts.!error.number.required'] = 'El número de contacto es obligatorio.';
 

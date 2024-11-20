@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Серверы';
 $lang['Virtualmin.module_row'] = 'Сервер';
 $lang['Virtualmin.description'] = 'Virtualmin - это панель управления доменным хостингом и веб-сайтами, которая позволяет создавать и управлять множеством доменов и доступна как в открытой, так и в коммерческой версии. Она основана на Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Один или несколько доменов пакетов недействительны.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Введите CSV-список доменов, которые будут доступны для предоставления субдоменов, например "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Список доступных доменов';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Отключить';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Включить';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Включить продажу субдоменов';
 

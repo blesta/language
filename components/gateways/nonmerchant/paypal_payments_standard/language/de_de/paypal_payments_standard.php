@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Seite Stil Name';
 $lang['PaypalPaymentsStandard.account_id'] = 'PayPal-Konto E-Mail';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard ist eine der einfachsten Möglichkeiten, Kreditkarten- und PayPal-Zahlungen sicher online zu akzeptieren.';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal-Zahlungen Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Es wurden doppelte E-Mails in Ihren Zuordnungsdaten gefunden. Entfernen Sie die Duplikate und versuchen Sie es erneut.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Es wurde eine ungültige Zeile in Ihren Zuordnungsdaten gefunden. Überprüfen Sie, ob die E-Mail-Adresse und die Kunden-ID gültig sind und versuchen Sie es erneut.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Vorgesehen für die Verwendung mit PayPal-Abonnements, die außerhalb von Blesta erstellt wurden. Ordnen Sie payer_email der internen Kunden-ID zu, 1 pro Zeile. Zum Beispiel: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Mapping der Zahlungen';
 

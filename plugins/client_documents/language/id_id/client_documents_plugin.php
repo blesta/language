@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Dokumen';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumen';
 $lang['ClientDocumentsPlugin.description'] = 'Unggah file untuk diunduh oleh klien tertentu.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumen';
 

@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Faktury są adresowane d
 $lang['Contacts.!error.contact_type.format'] = 'Nieprawidłowy typ kontaktu.';
 $lang['Contacts.!error.user_id.exists'] = 'Nieprawidłowy identyfikator użytkownika.';
 $lang['Contacts.!error.client_id.exists'] = 'Nieprawidłowy identyfikator klienta.';
+$lang['Contacts.!error.number.required'] = 'Wymagane jest podanie numeru kontaktowego.';
 

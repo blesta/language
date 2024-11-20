@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Zobrazení názvu bal�
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Příklad kódu';
 $lang['PackageFeed.description'] = 'Vrátí název, popis nebo cenu balíčku.';
 $lang['PackageFeed.name'] = 'Balíčky';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Zobrazení množstevního limitu balíčku pro klienta:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Zobrazení skladového množství (množství) balení:';
 

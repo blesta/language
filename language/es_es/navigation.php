@@ -122,4 +122,5 @@ $lang['Navigation.getsearchoptions.transactions'] = 'Búsqueda de transacciones'
 $lang['Navigation.getsearchoptions.services'] = 'Búsqueda de servicios';
 $lang['Navigation.getsearchoptions.packages'] = 'Búsqueda de paquetes';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Lista negra';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Plantillas HTML';
 

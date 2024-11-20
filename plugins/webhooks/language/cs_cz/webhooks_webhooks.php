@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Zpětné volání nesmí př
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Zadejte prosím platné zpětné volání.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Webhook tohoto typu již existuje s tímto zpětným voláním.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Poskytnutá společnost neexistuje.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Zadaná událost neexistuje.';
 

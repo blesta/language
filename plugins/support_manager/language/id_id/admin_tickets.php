@@ -123,4 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Tiket yang dipilih telah berhasil
 $lang['AdminTickets.!success.ticket_split'] = 'Tiket #%1$s telah berhasil dipecah menjadi tiket #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Tiket #%1$ telah berhasil diperbarui.';
 $lang['AdminTickets.!success.ticket_created'] = 'Tiket #%1$ telah berhasil dibuka.';
+$lang['AdminTickets.reply.text_contacts'] = 'Jika Anda tidak memilih kontak tambahan, semua kontak yang merespons tiket ini akan diberitahukan secara otomatis.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Tambahkan Penerima';
+$lang['AdminTickets.reply.heading_contacts'] = 'Kontak';
+$lang['AdminTickets.reply.heading_recipients'] = 'Penerima';
+$lang['AdminTickets.add.text_contacts'] = 'Jika Anda tidak memilih kontak tambahan, semua kontak yang merespons tiket ini akan diberitahukan secara otomatis.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Tambahkan Penerima';
+$lang['AdminTickets.add.heading_contacts'] = 'Kontak';
+$lang['AdminTickets.add.heading_recipients'] = 'Penerima';
 

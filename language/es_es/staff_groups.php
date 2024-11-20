@@ -185,4 +185,9 @@ $lang['StaffGroups.permissions.admin_reports'] = 'Informes';
 $lang['StaffGroups.permissions.admin_reports_customize'] = 'Personalizar informes';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Lista negra';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Eliminar archivo adjunto de correo electrónico';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Borrar plantilla HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Editar plantilla HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Añadir plantilla HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Plantillas HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Servicio de edición avanzada';
 

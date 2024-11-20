@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Η υπηρεσία δ�
 $lang['ClientServices.!error.invoices_change_term'] = 'Ο όρος δεν μπορεί να αλλάξει μέχρι να εξοφληθούν όλα τα τιμολόγια που περιέχουν αυτή την υπηρεσία.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Οι διαμορφώσιμες επιλογές δεν μπορούν να αλλάξουν μέχρι να πληρωθούν όλα τα τιμολόγια που περιέχουν αυτή την υπηρεσία.';
 $lang['ClientServices.!error.password_mismatch'] = 'Ο κωδικός πρόσβασης δεν ταιριάζει με τον κωδικό πρόσβασής σας.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Διαχείριση υπηρεσίας γονέων';
 

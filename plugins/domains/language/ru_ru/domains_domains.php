@@ -10,6 +10,6 @@
  */
 
 $lang['DomainsDomains.!error.invalid_term'] = 'Этот домен не может быть продлен на выбранное количество лет.';
-$lang['DomainsDomains.!error.invoices_renew_service'] = 'Домен не может быть продлен до тех пор, пока не будут оплачены все счета, содержащие этот домен.';
+$lang['DomainsDomains.!error.invoices_renew_service'] = 'Домен не может быть продлен до тех пор, пока не будут обработаны все счета и изменения услуг, содержащие этот домен.';
 $lang['DomainsDomains.!error.unsupported_tld'] = 'ДВУ домена не поддерживается выбранным модулем регистратора.';
 

@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ongeldig personeelsgroep-ID.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Zwarte lijst';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'E-mailbijlage verwijderen';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'HTML-sjabloon verwijderen';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'HTML-sjabloon bewerken';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML-sjabloon toevoegen';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML sjablonen';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Geavanceerde bewerkingsservice';
 

@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.empty'] = 'Введите секретн
 $lang['StripePayments.!error.publishable_key.empty'] = 'Пожалуйста, введите ключ для публикации.';
 $lang['StripePayments.!error.auth'] = 'Шлюз не смог пройти аутентификацию.';
 $lang['StripePayments.name'] = 'Stripe Payments';
+$lang['StripePayments.request_three_d_secure_note'] = 'Если вы являетесь пользователем Stripe в Индии, перед сохранением новой карты в Stripe вы всегда должны выполнять аутентификацию 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Представляйте вызов 3D Secure каждый раз, когда клиент сохраняет метод оплаты или обрабатывает метод оплаты (сохраненный или несохраненный).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Представляйте вызов 3D Secure каждый раз, когда клиент сохраняет метод оплаты или обрабатывает несохраненный метод оплаты';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Позвольте Stripe определять, когда нужно представить вызов 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Поток аутентификации 3D Secure';
 

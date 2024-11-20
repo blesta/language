@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Варианты модернизации';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Обновление настроек';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Варианты обновления на данный момент недоступны.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Обновление настроек';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Варианты модернизации';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Настройки > Система > Параметры обновления';
 

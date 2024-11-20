@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Rechnungen sind so einge
 $lang['Contacts.!error.contact_type.format'] = 'Ungültige Kontaktart.';
 $lang['Contacts.!error.user_id.exists'] = 'Ungültige Benutzer-ID.';
 $lang['Contacts.!error.client_id.exists'] = 'Ungültige Client-ID.';
+$lang['Contacts.!error.number.required'] = 'Die Kontaktnummer ist erforderlich.';
 

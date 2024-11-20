@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Layanan Aktif';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Klien Aktif';
 $lang['AdminMain.index.boxtitle_overview'] = 'Gambaran Umum Sistem';
 $lang['AdminMain.!success.options_updated'] = 'Pengaturan Ikhtisar Sistem berhasil diperbarui!';
+$lang['AdminMain.date_range.day'] = '1 hari';
+$lang['AdminMain.date_range.month'] = 'Bulan ini';
+$lang['AdminMain.date_range.ytd'] = 'Tahun ke Tahun';
 

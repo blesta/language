@@ -123,4 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Vybrané tipy byly úspěšně sl
 $lang['AdminTickets.!success.ticket_split'] = 'Tiket #%1$s byl úspěšně rozdělen na tiket #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Tiket #%1$s byl úspěšně aktualizován.';
 $lang['AdminTickets.!success.ticket_created'] = 'Tiket #%1$s byl úspěšně otevřen.';
+$lang['AdminTickets.reply.text_contacts'] = 'Pokud nezvolíte žádné další kontakty, budou automaticky upozorněny všechny kontakty, které na tento tip reagují.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Přidat příjemce';
+$lang['AdminTickets.reply.heading_contacts'] = 'Kontakty';
+$lang['AdminTickets.reply.heading_recipients'] = 'Příjemci';
+$lang['AdminTickets.add.text_contacts'] = 'Pokud nezvolíte žádné další kontakty, budou automaticky upozorněny všechny kontakty, které na tento tip reagují.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Přidat příjemce';
+$lang['AdminTickets.add.heading_contacts'] = 'Kontakty';
+$lang['AdminTickets.add.heading_recipients'] = 'Příjemci';
 

@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Kupon został pomyślnie
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Kupon został pomyślnie utworzony!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Powiadomienia zostały pomyślnie zaktualizowane!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Ustawienia faktur i opłat zostały pomyślnie zaktualizowane!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2. próba odstępów';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Próg odstępu przy drugiej próbie';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Rozstaw w pierwszej próbie';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Próg odstępu przy pierwszej próbie';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Próby';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Typ';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Działania serwisowe';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Próby świadczenia usług';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Liczba akcji serwisowych do wykonania przed opóźnieniem następnej próby o wartość określoną przez ustawienie odstępu między drugimi próbami.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Liczba akcji serwisowych do wykonania przed opóźnieniem następnej próby o wartość określoną przez ustawienie odstępu między pierwszymi próbami.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Liczba prób i niepowodzeń przetwarzania dla akcji usługi, zanim ta akcja usługi zostanie wyłączona z automatycznego zakończenia.';
 

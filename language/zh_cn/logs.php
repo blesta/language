@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = '缺少发件人地址。';
 $lang['Logs.!error.to_address.empty'] = '缺少一个地址。';
 $lang['Logs.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['Logs.!error.deletelog_datetime'] = '日期格式无效。';
+$lang['Logs.!error.new_service.format'] = '新服务必须是一个数组。';
+$lang['Logs.!error.old_service.format'] = '旧服务必须是一个数组。';
+$lang['Logs.!error.transactions.exists'] = '一个或多个事务不存在。';
+$lang['Logs.!error.transaction_id.format'] = '事务必须是数组。';
+$lang['Logs.!error.service_id.exists'] = '服务 ID 无效。';
 

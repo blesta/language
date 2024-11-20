@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Tahun';
 $lang['Invoices.getPricingPeriods.month'] = 'Bulan';
 $lang['Invoices.getPricingPeriods.week'] = 'Minggu';
 $lang['Invoices.getPricingPeriods.day'] = 'Hari';
+$lang['Invoices.!error.invoice_id.unique'] = 'Faktur tujuan tidak dapat menjadi bagian dari faktur yang akan digabungkan.';
+$lang['Invoices.!error.invoice_id.status'] = 'Faktur tujuan harus terbuka dan tanpa transaksi apa pun.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Semua faktur harus dimiliki oleh klien yang sama.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Semua faktur harus terbuka dan tanpa transaksi apa pun.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Semua faktur harus memiliki mata uang yang sama.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Setidaknya dua faktur harus dipilih.';
+$lang['Invoices.!line_item.parent_description'] = 'Layanan Anak dari %1$s - %2$s:';
 

@@ -10,7 +10,6 @@
  */
 
 $lang['Staff.!error.action[].exists'] = 'E-posta grubu eylemlerinden en az biri mevcut değil.';
-$lang['Staff.!error.action.exists'] = '1$s e-posta grubu eylemi mevcut değil.';
 $lang['Staff.!error.staff_id.exists'] = 'Geçersiz personel kimliği.';
 $lang['Staff.!error.staff_group_id.exists'] = 'Geçersiz personel grubu kimliği.';
 $lang['Staff.!error.order.length'] = 'Sıralama düzeni uzunluğu 5 karakteri geçemez.';
@@ -27,4 +26,5 @@ $lang['Staff.!error.last_name.empty'] = 'Lütfen bir soyadı girin.';
 $lang['Staff.!error.first_name.empty'] = 'Lütfen bir ilk isim giriniz.';
 $lang['Staff.!error.user_id.unique'] = 'Personel kullanıcı kimliği %1$s zaten alınmış.';
 $lang['Staff.!error.user_id.exists'] = 'Geçersiz kullanıcı kimliği.';
+$lang['Staff.!error.action.exists'] = 'E-posta grubu eylemi %1$s mevcut değil.';
 

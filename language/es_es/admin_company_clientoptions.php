@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Correo electró
 $lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Teléfono';
 $lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
 $lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Actualizar ajustes';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'No hay pasarelas instaladas.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Híbrido';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Comerciante';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'No comerciantes';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Tipo';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Pasarela';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activar';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activar restricciones de puerta de enlace';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limita las puertas de enlace que pueden utilizar los clientes. Por defecto, las restricciones de puerta de enlace están desactivadas y todas las puertas de enlace están disponibles.';
 

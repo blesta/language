@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Es gibt ernsthafte Probleme, die die Fä
 $lang['AdminMain.index.health_fair'] = 'Es gibt einige Probleme, die die Fähigkeit des Systems, normal zu funktionieren, beeinträchtigen.';
 $lang['AdminMain.index.health_good'] = 'Insgesamt ist das System in einem guten Zustand, aber es gibt einige Punkte, die Ihre Aufmerksamkeit erfordern könnten.';
 $lang['AdminMain.index.health_excellent'] = 'Das System ist in gutem Zustand und scheint normal zu funktionieren.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurieren?';
+$lang['AdminMain.index.upload_dir'] = 'Der Pfad für das Upload-Verzeichnis in Ihren Einstellungen befindet sich innerhalb des Web-Stammverzeichnisses.  Es sollte oberhalb des Root-Webverzeichnisses liegen, um sicherzustellen, dass es nie ein Problem mit öffentlichem Zugriff gibt.';
 

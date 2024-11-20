@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Ano';
 $lang['Invoices.getPricingPeriods.month'] = 'Mês';
 $lang['Invoices.getPricingPeriods.week'] = 'Semana';
 $lang['Invoices.getPricingPeriods.day'] = 'Dia';
+$lang['Invoices.!error.invoice_id.unique'] = 'A fatura de destino não pode fazer parte das faturas a serem mescladas.';
+$lang['Invoices.!error.invoice_id.status'] = 'A fatura de destino deve estar aberta e sem nenhuma transação.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Todas as faturas devem pertencer ao mesmo cliente.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Todas as faturas devem estar abertas e sem nenhuma transação.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Todas as faturas devem ter a mesma moeda.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Pelo menos duas faturas devem ser selecionadas.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

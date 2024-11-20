@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.user_name.empty'] = 'Należy wprowadzić nazwę użytk
 $lang['DirectAdmin.!error.port.format'] = 'Port musi być numerem.';
 $lang['DirectAdmin.!error.host_name.format'] = 'Nazwa hosta wydaje się być nieprawidłowa.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Należy wprowadzić etykietę serwera.';
+$lang['DirectAdmin.row_meta.ip_address'] = 'Adres IP';
+$lang['DirectAdmin.!error.ip_address.format'] = 'Adres IP wydaje się być nieprawidłowy.';
 

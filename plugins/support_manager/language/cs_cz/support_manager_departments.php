@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Zadejte prosím platno
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Zadejte prosím popis.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Zadejte prosím název tohoto oddělení.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Neplatné ID společnosti.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Jedna nebo více priorit jsou neplatné.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vyberte alespoň jednu prioritu.';
 

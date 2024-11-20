@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = '年份';
 $lang['Invoices.getPricingPeriods.month'] = '月份';
 $lang['Invoices.getPricingPeriods.week'] = '周数';
 $lang['Invoices.getPricingPeriods.day'] = '日';
+$lang['Invoices.!error.invoice_id.unique'] = '目的地发票不能是要合并的发票的一部分。';
+$lang['Invoices.!error.invoice_id.status'] = '目的地发票必须是开放的，没有任何交易。';
+$lang['Invoices.!error.invoice_ids.client'] = '所有发票必须属于同一个客户。';
+$lang['Invoices.!error.invoice_ids.status'] = '所有发票都必须是开放的，没有任何交易。';
+$lang['Invoices.!error.invoice_ids.currency'] = '所有发票必须使用相同的货币。';
+$lang['Invoices.!error.invoice_ids.count'] = '必须至少选择两张发票。';
+$lang['Invoices.!line_item.parent_description'] = '儿童服务%1$s -%2$s ：';
 

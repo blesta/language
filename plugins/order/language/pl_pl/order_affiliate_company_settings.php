@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Naprawiono';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Procent';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Dowolny';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Pierwszy';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Procent';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Naprawiono';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 

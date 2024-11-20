@@ -95,4 +95,11 @@ $lang['Invoices.!error.lines[][amount].format'] = 'Enhedsomkostningerne skal væ
 $lang['Invoices.!error.lines[][tax].format'] = 'Linjeafgift skal være \'sand\' eller \'falsk\'.';
 $lang['Invoices.!error.line_items.empty_split'] = 'Der er ikke valgt nogen fakturalinjer til opdeling.';
 $lang['Invoices.!error.line_items.minimum_split'] = 'Fakturaen skal have mindst 2 linjer for at blive delt.';
+$lang['Invoices.!error.invoice_id.unique'] = 'Destinationsfakturaen kan ikke være en del af de fakturaer, der skal flettes.';
+$lang['Invoices.!error.invoice_id.status'] = 'Destinationsfakturaen skal være åben og uden transaktioner.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Alle fakturaer skal tilhøre den samme kunde.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Alle fakturaer skal være åbne og uden transaktioner.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Alle fakturaer skal have samme valuta.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Der skal vælges mindst to fakturaer.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

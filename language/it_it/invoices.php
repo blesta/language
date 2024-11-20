@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Anno';
 $lang['Invoices.getPricingPeriods.month'] = 'Mese';
 $lang['Invoices.getPricingPeriods.week'] = 'Settimana';
 $lang['Invoices.getPricingPeriods.day'] = 'Giorno';
+$lang['Invoices.!error.invoice_id.unique'] = 'La fattura di destinazione non può far parte delle fatture da unire.';
+$lang['Invoices.!error.invoice_id.status'] = 'La fattura di destinazione deve essere aperta e senza transazioni.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Tutte le fatture devono appartenere allo stesso cliente.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Tutte le fatture devono essere aperte e senza transazioni.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Tutte le fatture devono avere la stessa valuta.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Devono essere selezionate almeno due fatture.';
+$lang['Invoices.!line_item.parent_description'] = 'Servizio Infanzia di %1$s - %2$s:';
 

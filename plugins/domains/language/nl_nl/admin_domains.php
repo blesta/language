@@ -258,4 +258,16 @@ $lang['AdminDomains.!error.tlds_imported'] = 'Door een fout konden niet alle TLD
 $lang['AdminDomains.!success.domains_unparented'] = 'De geselecteerde domeinen zijn verwijderd uit hun bovenliggende services en de prijs is met succes gereset!';
 $lang['AdminDomains.browse.heading_added'] = 'Datum toegevoegd';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'De domeinregistrar is bijgewerkt!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'TLD\'s verwijderen';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP-code';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'ID-bescherming';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'E-mail doorsturen';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS-beheer';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s kon niet worden bijgewerkt voor de volgende TLD\'s: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'EPP Code toegang is succesvol bijgewerkt!';
+$lang['AdminDomains.!success.id_protection'] = 'ID Protection is succesvol bijgewerkt!';
+$lang['AdminDomains.!success.email_forwarding'] = 'E-mail doorsturen is succesvol bijgewerkt!';
+$lang['AdminDomains.!success.dns_management'] = 'DNS-beheer is succesvol bijgewerkt!';
+$lang['AdminDomains.!success.delete_partial'] = 'De volgende TLD\'s konden niet worden verwijderd omdat ze in gebruik waren: %1$s';
+$lang['AdminDomains.!success.delete'] = 'De TLD zijn succesvol verwijderd!';
 

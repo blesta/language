@@ -73,4 +73,5 @@ $lang['Contacts.getPermissionOptions._managed'] = 'Administrerede konti';
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = 'Levering af fakturaer';
 $lang['Contacts.getPermissionOptions._credits'] = 'Krediteringer';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Citater';
+$lang['Contacts.!error.number.required'] = 'Kontaktnummeret er påkrævet.';
 

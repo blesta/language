@@ -1,0 +1,131 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.ar_xa
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.service_info.username'] = 'اسم المستخدم';
+$lang['Ispconfig.!error.ispconfig_password.matches'] = 'كلمة المرور وتأكيد كلمة المرور غير متطابقين.';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = 'يجب ألا يقل طول كلمة المرور عن 8 أحرف.';
+$lang['Ispconfig.!error.ispconfig_username.length'] = 'يجب أن يتراوح طول اسم المستخدم بين 1 و16 حرفاً.';
+$lang['Ispconfig.!error.ispconfig_username.test'] = 'قد لا يبدأ اسم المستخدم بـ "اختبار".';
+$lang['Ispconfig.!error.ispconfig_username.format'] = 'يجوز أن يحتوي اسم المستخدم على أحرف وأرقام فقط ولا يجوز أن يبدأ برقم.';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = 'لا يمكن أن يبدأ اسم النطاق بـ "اختبار".';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = 'الرجاء إدخال اسم نطاق صالح، على سبيل المثال domain.com.';
+$lang['Ispconfig.!error.module_row.missing'] = 'حدث خطأ داخلي. صف الوحدة النمطية غير متوفر.';
+$lang['Ispconfig.!error.api.internal'] = 'حدث خطأ داخلي، أو لم يستجب الخادم للطلب.';
+$lang['Ispconfig.!error.meta[package].empty'] = 'حزمة ISPConfig مطلوبة.';
+$lang['Ispconfig.!error.name_servers_count'] = 'يجب عليك تحديد خادمي اسمين على الأقل.';
+$lang['Ispconfig.!error.name_servers_valid'] = 'واحد أو أكثر من خوادم الأسماء التي تم إدخالها غير صالحة.';
+$lang['Ispconfig.!error.account_limit_valid'] = 'يجب ترك حد الحساب فارغاً (للحسابات غير المحدودة) أو تعيينه إلى قيمة صحيحة.';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = 'تعذر إنشاء اتصال بالخادم. يرجى التحقق للتأكد من صحة اسم المضيف واسم المستخدم وكلمة المرور.';
+$lang['Ispconfig.!error.remote_password_valid'] = 'يبدو أن كلمة المرور غير صالحة.';
+$lang['Ispconfig.!error.user_name_valid'] = 'يبدو أن اسم المستخدم غير صالح.';
+$lang['Ispconfig.!error.port_format'] = 'يجب أن يكون المنفذ رقماً.';
+$lang['Ispconfig.!error.host_name_valid'] = 'يبدو أن اسم المضيف غير صالح.';
+$lang['Ispconfig.!error.server_name_valid'] = 'يجب إدخال تسمية الخادم.';
+$lang['Ispconfig.service_field.tooltip.password'] = 'يمكنك ترك كلمة المرور فارغة لإنشاء كلمة مرور تلقائياً.';
+$lang['Ispconfig.service_field.tooltip.username'] = 'يمكنك ترك اسم المستخدم فارغاً لإنشاء اسم مستخدم تلقائياً.';
+$lang['Ispconfig.service_info.option_login'] = 'تسجيل الدخول';
+$lang['Ispconfig.service_info.options'] = 'الخيارات';
+$lang['Ispconfig.service_info.server'] = 'الخادم';
+$lang['Ispconfig.service_info.password'] = 'كلمة المرور';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = '(%1$s ميغابايت / ∞)';
+$lang['Ispconfig.tab_client_stats.usage'] = '(%1$s ميغابايت/%2$s ميغابايت)';
+$lang['Ispconfig.tab_client_stats.disk_title'] = 'استخدام القرص';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = 'استخدام النطاق الترددي (الشهر حتى تاريخه)';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = 'حد قواعد البيانات';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'حد مستخدمي WebDAV';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = 'حد نطاق الاسم المستعار';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = 'حد النطاقات الفرعية';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = 'حد نطاقات الويب';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'حد مستخدمي FTP';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = 'حصة النطاق الترددي';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = 'حصة الويب';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = 'القيمة';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = 'الحقل';
+$lang['Ispconfig.tab_client_stats.info_title'] = 'المعلومات';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = 'تحديث كلمة المرور';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = 'كلمة المرور';
+$lang['Ispconfig.tab_client_actions.change_password'] = 'تغيير كلمة المرور';
+$lang['Ispconfig.tab_stats.info.limit_database'] = 'حد قواعد البيانات';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'حد مستخدمي WebDAV';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = 'حد نطاق الاسم المستعار';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = 'حد النطاقات الفرعية';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = 'حد نطاقات الويب';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'حد مستخدمي FTP';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = 'حصة النطاق الترددي';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = 'حصة الويب';
+$lang['Ispconfig.tab_stats.info_heading.value'] = 'القيمة';
+$lang['Ispconfig.tab_stats.info_heading.field'] = 'الحقل';
+$lang['Ispconfig.tab_stats.info_title'] = 'المعلومات';
+$lang['Ispconfig.service_field.password'] = 'كلمة المرور';
+$lang['Ispconfig.service_field.username'] = 'اسم المستخدم';
+$lang['Ispconfig.service_field.domain'] = 'المجال';
+$lang['Ispconfig.package_fields.ssh_options'] = 'خيارات SSH';
+$lang['Ispconfig.package_fields.php_options'] = 'خيارات PHP';
+$lang['Ispconfig.package_fields.package'] = 'حزمة ISPConfig ISPConfig';
+$lang['Ispconfig.row_meta.account_limit'] = 'حد الحساب';
+$lang['Ispconfig.row_meta.use_ssl'] = 'استخدم SSL عند الاتصال بواجهة برمجة التطبيقات (موصى به)';
+$lang['Ispconfig.row_meta.password'] = 'كلمة المرور';
+$lang['Ispconfig.row_meta.user_name'] = 'اسم المستخدم';
+$lang['Ispconfig.row_meta.default_port'] = '8080';
+$lang['Ispconfig.row_meta.port'] = 'الميناء';
+$lang['Ispconfig.row_meta.host_name'] = 'اسم المضيف';
+$lang['Ispconfig.row_meta.server_name'] = 'تسمية الخادم';
+$lang['Ispconfig.edit_row.add_btn'] = 'تحرير الخادم';
+$lang['Ispconfig.edit_row.remove_name_server'] = 'إزالة';
+$lang['Ispconfig.edit_row.name_server'] = 'اسم الخادم %1$s';
+$lang['Ispconfig.edit_row.name_server_host_col'] = 'اسم المضيف';
+$lang['Ispconfig.edit_row.name_server_col'] = 'اسم الخادم';
+$lang['Ispconfig.edit_row.name_server_btn'] = 'إضافة خادم اسم إضافي';
+$lang['Ispconfig.edit_row.notes_title'] = 'الملاحظات';
+$lang['Ispconfig.edit_row.name_servers_title'] = 'خوادم الأسماء';
+$lang['Ispconfig.edit_row.basic_title'] = 'الإعدادات الأساسية';
+$lang['Ispconfig.edit_row.box_title'] = 'تحرير خادم ISPConfig ISPConfig';
+$lang['Ispconfig.add_row.add_btn'] = 'إضافة خادم';
+$lang['Ispconfig.add_row.remove_name_server'] = 'إزالة';
+$lang['Ispconfig.add_row.name_server'] = 'اسم الخادم %1$s';
+$lang['Ispconfig.add_row.name_server_host_col'] = 'اسم المضيف';
+$lang['Ispconfig.add_row.name_server_col'] = 'اسم الخادم';
+$lang['Ispconfig.add_row.name_server_btn'] = 'إضافة خادم اسم إضافي';
+$lang['Ispconfig.add_row.notes_title'] = 'الملاحظات';
+$lang['Ispconfig.add_row.name_servers_title'] = 'خوادم الأسماء';
+$lang['Ispconfig.add_row.basic_title'] = 'الإعدادات الأساسية';
+$lang['Ispconfig.add_row.box_title'] = 'إضافة خادم ISPConfig ISPConfig';
+$lang['Ispconfig.order_options.roundrobin'] = 'التوزيع بالتساوي بين الخوادم';
+$lang['Ispconfig.order_options.first'] = 'الخادم الأول غير الممتلئ';
+$lang['Ispconfig.manage.module_groups_no_results'] = 'لا توجد مجموعات خوادم.';
+$lang['Ispconfig.manage.module_rows_no_results'] = 'لا توجد خوادم.';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = 'هل أنت متأكد أنك تريد حذف مجموعة الخادم هذه؟';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف هذا الخادم؟';
+$lang['Ispconfig.manage.module_groups.delete'] = 'حذف';
+$lang['Ispconfig.manage.module_rows.delete'] = 'حذف';
+$lang['Ispconfig.manage.module_groups.edit'] = 'تحرير';
+$lang['Ispconfig.manage.module_rows.edit'] = 'تحرير';
+$lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.manage.module_groups_heading.options'] = 'الخيارات';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = 'عدد الخوادم';
+$lang['Ispconfig.manage.module_groups_heading.name'] = 'اسم المجموعة';
+$lang['Ispconfig.manage.module_rows_heading.options'] = 'الخيارات';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = 'الحسابات';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = 'اسم المضيف';
+$lang['Ispconfig.manage.module_rows_heading.name'] = 'تسمية الخادم';
+$lang['Ispconfig.manage.module_groups_title'] = 'مجموعات الخوادم';
+$lang['Ispconfig.manage.module_rows_title'] = 'الخوادم';
+$lang['Ispconfig.add_module_group'] = 'إضافة مجموعة خوادم';
+$lang['Ispconfig.add_module_row'] = 'إضافة خادم';
+$lang['Ispconfig.tab_client_actions'] = 'الإجراءات';
+$lang['Ispconfig.tab_client_stats'] = 'الإحصائيات';
+$lang['Ispconfig.tab_stats'] = 'الإحصائيات';
+$lang['Ispconfig.module_group'] = 'مجموعة الخوادم';
+$lang['Ispconfig.module_row_plural'] = 'الخوادم';
+$lang['Ispconfig.module_row'] = 'الخادم';
+$lang['Ispconfig.description'] = 'ISPConfig 3 هي لوحة مفتوحة المصدر لنظام لينكس قادرة على إدارة خوادم متعددة من لوحة تحكم واحدة.';
+$lang['Ispconfig.name'] = 'ISPConfig';
+

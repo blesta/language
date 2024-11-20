@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Konu';
 $lang['ClientEmails.index.heading_date'] = 'Tarih';
 $lang['ClientEmails.index.boxtitle_emails'] = 'E-posta Geçmişi';
 $lang['ClientEmails.index.page_title'] = 'Müşteri #%1$s E-posta Geçmişi';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Metin';
 

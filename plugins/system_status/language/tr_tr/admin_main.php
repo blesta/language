@@ -33,7 +33,6 @@ $lang['AdminMain.index.invoices_minor'] = 'Faturalar son 24 saat içinde cron ar
 $lang['AdminMain.index.trial_buy'] = 'Şimdi mi alayım?';
 $lang['AdminMain.index.trial_minor'] = 'Deneme lisansınızın süresi %1$s tarihinde sona eriyor.';
 $lang['AdminMain.index.cron_task_stalled_automation'] = 'Otomatik Görevleri Görüntüle';
-$lang['AdminMain.index.cron_task_stalled_minor'] = '1$s dakikadan daha uzun süredir yürütülmekte olan bir veya daha fazla cron görevi var.';
 $lang['AdminMain.index.cron_configure'] = 'Yapılandırmak mı?';
 $lang['AdminMain.index.cron_minor'] = 'Cron son 24 saat içinde çalışmadı.';
 $lang['AdminMain.index.cron_serious'] = 'Cron hiç çalışmadı.';
@@ -42,4 +41,7 @@ $lang['AdminMain.index.health_poor'] = 'Sistemin normal çalışmasını etkiley
 $lang['AdminMain.index.health_fair'] = 'Sistemin normal çalışmasını etkileyen bazı sorunlar vardır.';
 $lang['AdminMain.index.health_good'] = 'Genel olarak sistem iyi durumda, ancak dikkatinizi gerektirebilecek bazı öğeler var.';
 $lang['AdminMain.index.health_excellent'] = 'Sistemin sağlığı iyi durumdadır ve normal çalışıyor gibi görünmektedir.';
+$lang['AdminMain.index.cron_task_stalled_minor'] = 'Bir veya daha fazla cron görevi %1$s dakikadan uzun süredir yürütülüyor.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Yapılandırmak mı?';
+$lang['AdminMain.index.upload_dir'] = 'Ayarlarınızdaki yükleme dizini yolu kök web dizini içindedir.  Herkesin erişimine açık olmasıyla ilgili bir sorun yaşanmamasını sağlamak için kök web dizininin üzerine yerleştirilmelidir.';
 

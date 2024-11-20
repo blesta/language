@@ -9,8 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminManagePlugin.getDays.text_days'] = '1$s Gün';
-$lang['AdminManagePlugin.getDays.text_day'] = '1$s Günü';
 $lang['AdminManagePlugin.getDays.never'] = 'Asla';
 $lang['AdminManagePlugin.index.field.submit'] = 'Kaydet';
 $lang['AdminManagePlugin.index.field.cancel_days'] = 'Askıya Alınmasından Günler Sonra Hizmetleri İptal Etme';
@@ -19,4 +17,6 @@ $lang['AdminManagePlugin.index.heading_settings'] = 'Ayarlar';
 $lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Otomatik İptal';
 $lang['AdminManagePlugin.index.page_title'] = 'Otomatik İptal';
 $lang['AdminManagePlugin.!success.settings_saved'] = 'Ayarlar kaydedilmiştir.';
+$lang['AdminManagePlugin.getDays.text_days'] = '%1$s Günler';
+$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Gün';
 

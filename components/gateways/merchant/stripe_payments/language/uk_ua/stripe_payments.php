@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.empty'] = 'Будь ласка, введ
 $lang['StripePayments.!error.publishable_key.empty'] = 'Будь ласка, введіть ключ для публікації.';
 $lang['StripePayments.!error.auth'] = 'Шлюз не зміг пройти автентифікацію.';
 $lang['StripePayments.name'] = 'Stripe Payments';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Виникає проблема з 3D Secure щоразу, коли клієнт зберігає спосіб оплати або обробляє спосіб оплати (збережений або незбережений)';
+$lang['StripePayments.request_three_d_secure_note'] = 'Якщо ви користувач Stripe, який проживає в Індії, перед тим, як зберегти нову картку за допомогою Stripe, ви повинні обов\'язково виконати автентифікацію 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Виникає проблема з 3D Secure щоразу, коли клієнт зберігає спосіб оплати або обробляє незбережений спосіб оплати';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Дозвольте Stripe визначати, коли надсилати виклик 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Потік безпечної автентифікації 3D';
 

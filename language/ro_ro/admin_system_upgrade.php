@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Opțiuni de upgrade';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Actualizarea setărilor';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Opțiunile de actualizare nu sunt disponibile în acest moment.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Actualizarea setărilor';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Opțiuni de upgrade';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Setări > Sistem > Opțiuni de actualizare';
 

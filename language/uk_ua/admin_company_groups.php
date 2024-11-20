@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s є групою за з
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s успішно видалено!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = 'Файл %1$s успішно відредаговано!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s успішно створено!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Дозволені шлюзи';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Дозволені шлюзи';
 

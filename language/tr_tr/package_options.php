@@ -9,30 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '1$s + %2$s kurulum (%3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_textarea_setup'] = '1$s + %2$s kurulumu';
-$lang['PackageOptions.getfields.label_textarea_recurring'] = '1$s (%2$s\'de yenilenir)';
 $lang['PackageOptions.getfields.label_textarea'] = '%1$s';
-$lang['PackageOptions.getfields.label_password_setup_recurring'] = '1$s + %2$s kurulum (%3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_password_setup'] = '1$s + %2$s kurulumu';
-$lang['PackageOptions.getfields.label_password_recurring'] = '1$s (%2$s\'de yenilenir)';
 $lang['PackageOptions.getfields.label_password'] = '%1$s';
-$lang['PackageOptions.getfields.label_text_setup_recurring'] = '1$s + %2$s kurulum (%3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_text_setup'] = '1$s + %2$s kurulumu';
-$lang['PackageOptions.getfields.label_text_recurring'] = '1$s (%2$s\'de yenilenir)';
 $lang['PackageOptions.getfields.label_text'] = '%1$s';
-$lang['PackageOptions.getfields.label_checkbox_setup_recurring'] = '1$s (%2$s + %3$s kurulum, %4$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_checkbox_setup'] = '1$s (%2$s + %3$s kurulum)';
-$lang['PackageOptions.getfields.label_checkbox_recurring'] = '1$s (%2$s, %3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_checkbox'] = '1$s (%2$s)';
-$lang['PackageOptions.getfields.label_select_setup_recurring'] = '1$s (%2$s + %3$s kurulum, %4$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_select_setup'] = '1$s (%2$s + %3$s kurulum)';
-$lang['PackageOptions.getfields.label_select_recurring'] = '1$s (%2$s, %3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_select'] = '1$s (%2$s)';
-$lang['PackageOptions.getfields.label_radio_setup_recurring'] = '1$s (%2$s + %3$s kurulum, %4$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_radio_setup'] = '1$s (%2$s + %3$s kurulum)';
-$lang['PackageOptions.getfields.label_radio_recurring'] = '1$s (%2$s, %3$s\'de yenilenir)';
-$lang['PackageOptions.getfields.label_radio'] = '1$s (%2$s)';
 $lang['PackageOptions.getfields.label_quantity_setup_recurring'] = 'x %1$s %2$s + %3$s kurulum (%4$s\'de yenilenir)';
 $lang['PackageOptions.getfields.label_quantity_setup'] = 'x %1$s %2$s + %3$s kurulumu';
 $lang['PackageOptions.getfields.label_quantity_recurring'] = 'x %1$s %2$s (%3$s\'de yenilenir)';
@@ -84,4 +63,25 @@ $lang['PackageOptions.!error.name.empty'] = 'Lütfen bu seçenek için bir ad gi
 $lang['PackageOptions.!error.label.length'] = 'Etiketin uzunluğu 128 karakteri geçemez.';
 $lang['PackageOptions.!error.label.empty'] = 'Lütfen bir etiket girin.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
+$lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s kurulum (%3$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s kurulumu';
+$lang['PackageOptions.getfields.label_textarea_recurring'] = '%1$s (%2$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_password_setup_recurring'] = '%1$s + %2$s kurulum (%3$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_password_setup'] = '%1$s + %2$s kurulumu';
+$lang['PackageOptions.getfields.label_password_recurring'] = '%1$s (%2$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_text_setup_recurring'] = '%1$s + %2$s kurulum (%3$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_text_setup'] = '%1$s + %2$s kurulumu';
+$lang['PackageOptions.getfields.label_text_recurring'] = '%1$s (%2$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_checkbox_setup_recurring'] = '{1$s} (%2$s + %3$s kurulum, %4$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_checkbox_setup'] = '%1$s (%2$s + %3$s kurulum)';
+$lang['PackageOptions.getfields.label_checkbox_recurring'] = '%1$s (%2$s, yeniler @ %3$s)';
+$lang['PackageOptions.getfields.label_checkbox'] = '%1$s (%2$s)';
+$lang['PackageOptions.getfields.label_select_setup_recurring'] = '{1$s} (%2$s + %3$s kurulum, %4$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_select_recurring'] = '%1$s (%2$s, yeniler @ %3$s)';
+$lang['PackageOptions.getfields.label_select_setup'] = '%1$s (%2$s + %3$s kurulum)';
+$lang['PackageOptions.getfields.label_select'] = '%1$s (%2$s)';
+$lang['PackageOptions.getfields.label_radio_setup_recurring'] = '{1$s} (%2$s + %3$s kurulum, %4$s tarihinde yenilenir)';
+$lang['PackageOptions.getfields.label_radio_setup'] = '%1$s (%2$s + %3$s kurulum)';
+$lang['PackageOptions.getfields.label_radio'] = '%1$s (%2$s)';
+$lang['PackageOptions.getfields.label_radio_recurring'] = '%1$s (%2$s, yeniler @ %3$s)';
 

@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = '文件已成功添加。';
 $lang['AdminMain.!success.category_deleted'] = '类别已成功删除。';
 $lang['AdminMain.!success.category_updated'] = '类别已成功更新。';
 $lang['AdminMain.!success.category_added'] = '类别已成功创建。';
+$lang['AdminMain.edit.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
 

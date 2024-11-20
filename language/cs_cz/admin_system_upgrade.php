@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Možnosti upgradu';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Aktualizace nastavení';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Možnosti upgradu nejsou v tuto chvíli k dispozici.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Aktualizace nastavení';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Možnosti upgradu';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Nastavení > Systém > Možnosti aktualizace';
 

@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = '显示软件包名称�
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = '代码示例';
 $lang['PackageFeed.description'] = '返回软件包的名称、描述或价格。';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = '显示套餐的客户数量限制：';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = '显示包件的库存量（数量）：';
 

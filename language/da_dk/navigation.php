@@ -122,4 +122,5 @@ $lang['Navigation.getsearchoptions.transactions'] = 'Transaktionssøgning';
 $lang['Navigation.getsearchoptions.services'] = 'Service-søgning';
 $lang['Navigation.getsearchoptions.packages'] = 'Pakkesøgning';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Sort liste';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML-skabeloner';
 

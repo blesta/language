@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Saknar a från adress.';
 $lang['Logs.!error.to_address.empty'] = 'Saknar a för att adressera.';
 $lang['Logs.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['Logs.!error.deletelog_datetime'] = 'Ogiltigt datumformat.';
+$lang['Logs.!error.new_service.format'] = 'Den nya tjänsten måste vara en array.';
+$lang['Logs.!error.old_service.format'] = 'Den gamla tjänsten måste vara en array.';
+$lang['Logs.!error.transactions.exists'] = 'En eller flera transaktioner existerar inte.';
+$lang['Logs.!error.transaction_id.format'] = 'Transaktionerna måste vara en matris.';
+$lang['Logs.!error.service_id.exists'] = 'Ogiltigt tjänste-ID.';
 

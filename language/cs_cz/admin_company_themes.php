@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Téma bylo úspěšně ak
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Importovaný motiv není motivem klientského rozhraní.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Importované téma není tématem rozhraní správce.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Nahrajte prosím téma pro import.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Vlastní CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Vlastní CSS';
 

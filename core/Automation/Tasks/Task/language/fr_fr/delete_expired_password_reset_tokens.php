@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'La tâche de suppression des jetons de réinitialisation de mot de passe expirés est terminée.';
 $lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Tentative de suppression des jetons de réinitialisation de mot de passe expirés.';
+$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'La tâche de suppression des jetons de réinitialisation de mot de passe expirés est terminée.';
 

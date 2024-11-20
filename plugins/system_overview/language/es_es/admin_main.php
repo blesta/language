@@ -56,4 +56,7 @@ $lang['AdminMain.graph_line_name.active'] = 'Activo';
 $lang['AdminMain.graph_line_name.canceled'] = 'Cancelado';
 $lang['AdminMain.graph_line_name.suspended'] = 'Suspendido';
 $lang['AdminMain.graph_line_name.new'] = 'Nuevo';
+$lang['AdminMain.date_range.day'] = '1 día';
+$lang['AdminMain.date_range.month'] = 'Mes en curso';
+$lang['AdminMain.date_range.ytd'] = 'Año hasta la fecha';
 

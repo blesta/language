@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Layanan tidak dapat dip
 $lang['ClientServices.!error.invoices_change_term'] = 'Jangka waktu tidak dapat diubah hingga semua faktur yang berisi layanan ini telah dibayar.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Opsi yang dapat dikonfigurasi tidak dapat diubah hingga semua faktur yang berisi layanan ini telah dibayar.';
 $lang['ClientServices.!error.password_mismatch'] = 'Kata sandi tidak cocok dengan kata sandi masuk Anda.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Mengelola Layanan Induk';
 

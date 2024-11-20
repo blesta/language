@@ -41,4 +41,9 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Ne désinstallez pas l\'anci
 $lang['StripePayments.migrate_accounts'] = 'Migrer les comptes';
 $lang['StripePayments.charge_description_default'] = 'Facturation d\'un montant déterminé';
 $lang['StripePayments.charge_description'] = 'Frais pour %1$s';
+$lang['StripePayments.request_three_d_secure_note'] = 'Si vous êtes un utilisateur Stripe basé en Inde, avant d\'enregistrer une nouvelle carte avec Stripe, vous devez toujours procéder à l\'authentification 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Présenter un défi 3D Secure chaque fois qu\'un client enregistre une méthode de paiement ou traite une méthode de paiement (stockée ou non stockée).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Présenter un défi 3D Secure chaque fois qu\'un client enregistre une méthode de paiement ou traite une méthode de paiement non stockée.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Permettre à Stripe de déterminer quand présenter un défi 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Flux d\'authentification 3D Secure';
 

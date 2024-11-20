@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Kan geen verbinding maken met
 $lang['StripePayments.!error.secret_key.empty'] = 'Voer een geheime sleutel in.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Voer een publiceerbare sleutel in.';
 $lang['StripePayments.!error.auth'] = 'De gateway kon zich niet authentiseren.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Als je een Stripe-gebruiker bent in India, moet je altijd 3D Secure (3DS)-authenticatie uitvoeren voordat je een nieuwe kaart opslaat bij Stripe.';
+$lang['StripePayments.request_three_d_secure_challenge'] = '3D Secure uitdaging presenteren telkens wanneer een klant een betaalmethode opslaat of een betaalmethode verwerkt (opgeslagen of niet-opgeslagen)';
+$lang['StripePayments.request_three_d_secure_frictionless'] = '3D Secure uitdaging presenteren wanneer een klant een betaalmethode opslaat of een niet-opgeslagen betaalmethode verwerkt';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Stripe toestaan om te bepalen wanneer een 3D Secure uitdaging wordt aangeboden';
+$lang['StripePayments.request_three_d_secure'] = '3D Secure verificatiestroom';
 

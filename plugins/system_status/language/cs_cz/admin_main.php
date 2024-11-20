@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Existují závažné problémy, které o
 $lang['AdminMain.index.health_fair'] = 'Existují určité problémy, které ovlivňují schopnost systému normálně fungovat.';
 $lang['AdminMain.index.health_good'] = 'Celkově je systém v dobrém stavu, ale jsou zde některé položky, které mohou vyžadovat vaši pozornost.';
 $lang['AdminMain.index.health_excellent'] = 'Systém je v dobrém stavu a zdá se, že funguje normálně.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurace?';
+$lang['AdminMain.index.upload_dir'] = 'Cesta k adresáři pro nahrávání v nastavení je v kořenovém adresáři webu.  Měl by být umístěn nad kořenovým webovým adresářem, aby se nikdy nevyskytl problém s jeho veřejným přístupem.';
 

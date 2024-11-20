@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_amazons3.attempt'] = 'Спроба створити резервну копію бази даних на AmazonS3.';
-$lang['Automation.task.backups_amazons3.completed'] = 'Завдання резервного копіювання бази даних AmazonS3 завершено.';
 $lang['Automation.task.backups_amazons3.success'] = 'Резервне копіювання завершилося успішно.';
+$lang['Automation.task.backups_amazons3.completed'] = 'Завдання резервного копіювання бази даних AmazonS3 завершено.';
+$lang['Automation.task.backups_amazons3.attempt'] = 'Спроба створити резервну копію бази даних на AmazonS3.';
 

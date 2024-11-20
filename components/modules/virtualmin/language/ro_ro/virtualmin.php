@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servere';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin este un panou de control pentru găzduire de domenii și site-uri web, care oferă posibilitatea de a crea și gestiona mai multe domenii și este disponibil atât în versiune open source, cât și în versiune comercială. Se bazează pe Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Unul sau mai multe domenii de pachete sunt invalide.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Introduceți o listă CSV de domenii care vor fi disponibile pentru furnizarea de subdomenii, de exemplu "domeniu1.com,domeniu2.com,domeniu3.com"';
+$lang['Virtualmin.package_fields.domains_list'] = 'Lista domeniilor disponibile';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Dezactivare';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Activare';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Activați vânzarea de subdomenii';
 

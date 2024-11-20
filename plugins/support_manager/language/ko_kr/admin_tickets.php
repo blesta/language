@@ -1,0 +1,134 @@
+<?php
+/**
+ * Admin Tickets
+ *
+ * @package blesta
+ * @subpackage blesta.language.ko_kr
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminTickets.reply.reply_date'] = 'On %1$s %2$s %3$s 댓글';
+$lang['AdminTickets.search.no_results'] = '검색 조건과 일치하는 티켓이 없습니다.';
+$lang['AdminTickets.search.heading_last_reply_date'] = '마지막 댓글';
+$lang['AdminTickets.search.heading_summary'] = '요약';
+$lang['AdminTickets.search.heading_department_name'] = '부서';
+$lang['AdminTickets.search.heading_status'] = '상태';
+$lang['AdminTickets.search.heading_priority'] = '우선순위';
+$lang['AdminTickets.search.heading_code'] = '티켓 번호';
+$lang['AdminTickets.search.boxtitle_tickets'] = '"%1$s"에 대한 티켓 검색';
+$lang['AdminTickets.client.no_results'] = '현재 이 상태의 티켓이 없습니다.';
+$lang['AdminTickets.client.heading_last_reply_date'] = '마지막 댓글';
+$lang['AdminTickets.client.heading_summary'] = '요약';
+$lang['AdminTickets.client.heading_department_name'] = '부서';
+$lang['AdminTickets.client.heading_priority'] = '우선순위';
+$lang['AdminTickets.client.heading_code'] = '티켓 번호';
+$lang['AdminTickets.client.boxtitle_tickets'] = '티켓';
+$lang['AdminTickets.client.categorylink_createticket'] = '티켓 열기';
+$lang['AdminTickets.client.category_trash'] = '휴지통';
+$lang['AdminTickets.client.category_closed'] = '닫힘';
+$lang['AdminTickets.client.category_on_hold'] = '보류 중';
+$lang['AdminTickets.client.category_in_progress'] = '진행 중';
+$lang['AdminTickets.client.category_awaiting_reply'] = '고객 응답 대기 중';
+$lang['AdminTickets.client.category_open'] = '직원 답변 대기 중';
+$lang['AdminTickets.reply.dropzone_remove_file'] = '파일 제거';
+$lang['AdminTickets.reply.dropzone_drop_files_here'] = '여기에 파일을 드롭하여 업로드하거나 클릭하여 파일 선택';
+$lang['AdminTickets.reply.staff_title'] = '지원 직원';
+$lang['AdminTickets.reply.system'] = '시스템';
+$lang['AdminTickets.reply.refresh_link'] = '클릭하여 표시합니다.';
+$lang['AdminTickets.reply.refresh'] = '새 답글이나 상태 변경 사항이 있습니다.';
+$lang['AdminTickets.reply.field_actionsubmit'] = '이동';
+$lang['AdminTickets.reply.field_replysubmit'] = '업데이트 티켓';
+$lang['AdminTickets.reply.text_add_attachment'] = '첨부 파일 추가';
+$lang['AdminTickets.reply.field_attachments'] = '첨부 파일';
+$lang['AdminTickets.reply.field_note'] = '참고';
+$lang['AdminTickets.reply.field_reply'] = '답글';
+$lang['AdminTickets.reply.heading_reply'] = '댓글 추가';
+$lang['AdminTickets.reply.text_with_selected'] = '선택한 답글을 사용하여 수행합니다:';
+$lang['AdminTickets.reply.text_add_response'] = '미리 정의된 응답 삽입';
+$lang['AdminTickets.reply.heading_date_added'] = '오픈 날짜';
+$lang['AdminTickets.reply.heading_status'] = '상태';
+$lang['AdminTickets.reply.heading_priority'] = '우선순위';
+$lang['AdminTickets.reply.heading_staff_id'] = '할당 대상';
+$lang['AdminTickets.reply.heading_department'] = '부서';
+$lang['AdminTickets.reply.heading_client'] = '클라이언트';
+$lang['AdminTickets.reply.heading_summary'] = '요약';
+$lang['AdminTickets.reply.boxtitle_reply'] = '티켓 #%1$s';
+$lang['AdminTickets.add.dropzone_remove_file'] = '파일 제거';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = '여기에 파일을 드롭하여 업로드하거나 클릭하여 파일 선택';
+$lang['AdminTickets.add.text_add_response'] = '미리 정의된 응답 삽입';
+$lang['Admintickets.add.client_placeholder'] = '클라이언트 ID 또는 이름';
+$lang['AdminTickets.add.field_addsubmit'] = '티켓 열기';
+$lang['AdminTickets.add.text_add_attachment'] = '첨부 파일 추가';
+$lang['AdminTickets.add.field_details'] = '세부 정보';
+$lang['AdminTickets.add.field_attachments'] = '첨부 파일';
+$lang['AdminTickets.add.heading_status'] = '상태';
+$lang['AdminTickets.add.heading_priority'] = '우선순위';
+$lang['AdminTickets.add.heading_staff_id'] = '할당 대상';
+$lang['AdminTickets.add.heading_department'] = '부서';
+$lang['AdminTickets.add.heading_client'] = '클라이언트';
+$lang['AdminTickets.add.heading_summary'] = '요약';
+$lang['AdminTickets.add.text_no_clients'] = '클라이언트를 찾을 수 없습니다. 다시 검색해 보세요.';
+$lang['AdminTickets.add.heading_search_client'] = '클라이언트 검색';
+$lang['AdminTickets.add.boxtitle_add'] = '티켓 열기';
+$lang['AdminTickets.index.ticket_email'] = '#%1$s %2$s';
+$lang['AdminTickets.index.ticket_name'] = '#1$s %2$s %3$s';
+$lang['AdminTickets.index.field_actionsubmit'] = '제출하기';
+$lang['AdminTickets.index.text_no_tickets'] = '미결 티켓을 찾을 수 없습니다. 다시 검색해 보세요.';
+$lang['AdminTickets.index.ticket_number_placeholder'] = '티켓 번호';
+$lang['AdminTickets.index.text_to_status'] = '로 변경합니다:';
+$lang['AdminTickets.index.text_to_client'] = '클라이언트에게:';
+$lang['AdminTickets.index.text_into_ticket'] = '티켓으로 이동합니다:';
+$lang['AdminTickets.index.text_with_selected'] = '선택한 티켓으로 공연합니다:';
+$lang['AdminTickets.index.no_results'] = '현재 이 상태의 티켓이 없습니다.';
+$lang['AdminTickets.index.last_reply_by'] = 'by';
+$lang['AdminTickets.index.unassigned'] = '할당되지 않음';
+$lang['AdminTickets.index.field_last_reply'] = '마지막 댓글';
+$lang['AdminTickets.index.field_assigned_staff'] = '할당 대상';
+$lang['AdminTickets.index.field_summary'] = '요약';
+$lang['AdminTickets.index.field_department_id'] = '부서';
+$lang['AdminTickets.index.field_priority'] = '우선순위';
+$lang['AdminTickets.index.field_ticket_number'] = '티켓 번호';
+$lang['AdminTickets.index.hour'] = '1시간';
+$lang['AdminTickets.index.any'] = '모든';
+$lang['AdminTickets.index.heading_last_reply_date'] = '마지막 댓글';
+$lang['AdminTickets.index.heading_assigned_staff'] = '할당 대상';
+$lang['AdminTickets.index.heading_summary'] = '요약';
+$lang['AdminTickets.index.heading_department_name'] = '부서';
+$lang['AdminTickets.index.heading_priority'] = '우선순위';
+$lang['AdminTickets.index.heading_client'] = '클라이언트';
+$lang['AdminTickets.index.heading_code'] = '티켓 번호';
+$lang['AdminTickets.index.boxtitle_tickets'] = '티켓';
+$lang['AdminTickets.index.categorylink_createticket'] = '티켓 열기';
+$lang['AdminTickets.index.category_trash'] = '휴지통';
+$lang['AdminTickets.index.category_closed'] = '닫힘';
+$lang['AdminTickets.index.category_on_hold'] = '보류 중';
+$lang['AdminTickets.index.category_in_progress'] = '진행 중';
+$lang['AdminTickets.index.category_awaiting_reply'] = '고객 응답 대기 중';
+$lang['AdminTickets.index.category_open'] = '직원 답변 대기 중';
+$lang['AdminTickets.text.unassigned'] = '할당되지 않음';
+$lang['AdminTickets.search.page_title'] = '"%1$s"에 대한 검색 결과';
+$lang['AdminTickets.reply.page_title'] = '지원 관리자 > 티켓 #%1$s';
+$lang['AdminTickets.add.page_title'] = '지원 관리자 > 티켓 열기';
+$lang['AdminTickets.index.page_title'] = '지원 관리자 > 티켓';
+$lang['AdminTickets.!notice.no_departments_staff'] = '아직 직원 및/또는 부서를 만들지 않았습니다. 부서를 만들려면 위의 %1$를 클릭하고, 직원을 할당하려면 %2$를 클릭하세요.';
+$lang['AdminTickets.!success.ticket_delete'] = '선택한 티켓이 성공적으로 삭제되었습니다.';
+$lang['AdminTickets.!success.ticket_update_status'] = '선택한 티켓이 성공적으로 업데이트되었습니다.';
+$lang['AdminTickets.!success.ticket_reassign'] = '선택한 티켓이 성공적으로 재할당되었습니다.';
+$lang['AdminTickets.!success.ticket_merge'] = '선택한 티켓이 티켓 #%1$에 성공적으로 병합되었습니다.';
+$lang['AdminTickets.!success.ticket_split'] = '티켓 #%1$이(가) 티켓 #%2$로 성공적으로 분할되었습니다.';
+$lang['AdminTickets.!success.ticket_updated'] = '티켓 #%1$s가 성공적으로 업데이트되었습니다.';
+$lang['AdminTickets.!success.ticket_created'] = '티켓 #%1$s을(를) 성공적으로 열었습니다.';
+$lang['AdminTickets.index.minutes'] = '%1$s 분';
+$lang['AdminTickets.index.hours'] = '%1$s 시간';
+$lang['AdminTickets.reply.log_date'] = '%1$s by %2$s %3$s';
+$lang['AdminTickets.reply.text_contacts'] = '추가 연락처를 선택하지 않으면 이 티켓에 응답하는 모든 연락처에게 자동으로 알림이 전송됩니다.';
+$lang['AdminTickets.reply.text_add_recipient'] = '수신자 추가';
+$lang['AdminTickets.reply.heading_contacts'] = '연락처';
+$lang['AdminTickets.reply.heading_recipients'] = '수신자';
+$lang['AdminTickets.add.text_contacts'] = '추가 연락처를 선택하지 않으면 이 티켓에 응답하는 모든 연락처에게 자동으로 알림이 전송됩니다.';
+$lang['AdminTickets.add.text_add_recipient'] = '수신자 추가';
+$lang['AdminTickets.add.heading_contacts'] = '연락처';
+$lang['AdminTickets.add.heading_recipients'] = '수신자';
+

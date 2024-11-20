@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Λείπει μια διεύθυνσ�
 $lang['Logs.!error.to_address.empty'] = 'Λείπει το a για τη διεύθυνση.';
 $lang['Logs.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['Logs.!error.deletelog_datetime'] = 'Μη έγκυρη μορφή ημερομηνίας.';
+$lang['Logs.!error.new_service.format'] = 'Η νέα υπηρεσία πρέπει να είναι ένας πίνακας.';
+$lang['Logs.!error.old_service.format'] = 'Η παλιά υπηρεσία πρέπει να είναι ένας πίνακας.';
+$lang['Logs.!error.transactions.exists'] = 'Μία ή περισσότερες συναλλαγές δεν υπάρχουν.';
+$lang['Logs.!error.transaction_id.format'] = 'Οι συναλλαγές πρέπει να είναι ένας πίνακας.';
+$lang['Logs.!error.service_id.exists'] = 'Μη έγκυρο αναγνωριστικό υπηρεσίας.';
 

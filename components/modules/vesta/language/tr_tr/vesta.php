@@ -62,7 +62,6 @@ $lang['Vesta.manage.module_groups.delete'] = 'Silme';
 $lang['Vesta.manage.module_rows.delete'] = 'Silme';
 $lang['Vesta.manage.module_groups.edit'] = 'Düzenle';
 $lang['Vesta.manage.module_rows.edit'] = 'Düzenle';
-$lang['Vesta.manage.module_rows.count'] = '1$s / %2$s';
 $lang['Vesta.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['Vesta.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['Vesta.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -94,4 +93,5 @@ $lang['Vesta.module_row_plural'] = 'Sunucular';
 $lang['Vesta.module_row'] = 'Sunucu';
 $lang['Vesta.description'] = 'Vesta veya VestaCP, cPanel\'e harika bir alternatif olarak kabul edilen açık kaynaklı bir web kontrol panelidir. Güvenliği ve sık güncellemeleri cPanel\'in kalitesiyle eşleşmekle kalmaz, aynı zamanda tamamen ücretsizdir.';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.manage.module_rows.count'] = '%1$s / %2$s';
 

@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Afișează numele unui
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Exemplu de cod';
 $lang['PackageFeed.description'] = 'Returnează numele, descrierea sau prețul unui pachet.';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Afișează limita de cantitate a clientului pentru un pachet:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Afișează valoarea stocului (cantitatea) unui pachet:';
 

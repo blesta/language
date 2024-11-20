@@ -41,4 +41,9 @@ $lang['StripePayments.ach_form.field_type'] = 'Jenis Akun';
 $lang['StripePayments.description'] = 'Menggunakan Elemen Stripe dan API Permintaan Pembayaran untuk secara otomatis menangani 3D Secure dan SCA untuk mengirim kartu kredit secara langsung melalui Stripe';
 $lang['StripePayments.!error.invalid_request_error'] = 'Gerbang pembayaran mengembalikan kesalahan saat memproses permintaan.';
 $lang['StripePayments.name'] = 'Stripe Payments';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Menyajikan tantangan 3D Secure setiap kali klien menyimpan metode pembayaran atau memproses metode pembayaran (tersimpan atau tidak tersimpan)';
+$lang['StripePayments.request_three_d_secure_note'] = 'Jika Anda adalah pengguna Stripe yang berbasis di India, sebelum menyimpan kartu baru dengan Stripe, Anda harus selalu melakukan autentikasi 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Hadirkan tantangan 3D Secure setiap kali klien menyimpan metode pembayaran atau memproses metode pembayaran yang tidak disimpan';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Izinkan Stripe untuk menentukan kapan harus memberikan tantangan 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Alur Otentikasi Aman 3D';
 

@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s είναι η προε�
 $lang['AdminCompanyGroups.!success.delete_deleted'] = 'Το %1$s διαγράφηκε επιτυχώς!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s έχει επεξεργαστεί επιτυχώς!';
 $lang['AdminCompanyGroups.!success.add_created'] = 'Το %1$s δημιουργήθηκε με επιτυχία!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Επιτρεπόμενες πύλες';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Επιτρεπόμενες πύλες';
 

@@ -21,7 +21,6 @@ $lang['AdminCompanyPlugins.settings.automation_description'] = 'Eklenti, cron ta
 $lang['AdminCompanyPlugins.settings.tab_events'] = 'Etkinlikler';
 $lang['AdminCompanyPlugins.settings.tab_actions'] = 'Eylemler';
 $lang['AdminCompanyPlugins.settings.tab_automation'] = 'Otomasyon';
-$lang['AdminCompanyPlugins.settings.page_title'] = '1$s Ayarlar';
 $lang['AdminCompanyPlugins.settings.field_submit'] = 'Ayarları Güncelle';
 $lang['AdminCompanyPlugins.settings.field_enabled'] = 'Etkin';
 $lang['AdminCompanyPlugins.installed.text_none'] = 'Yüklü eklenti yok.';
@@ -103,4 +102,5 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Eklenti başarıyla etkinleşti
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Eklenti başarıyla yükseltildi.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Eklenti başarıyla kaldırıldı.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Eklenti başarıyla yüklendi. Çeşitli kaynaklar için ACL izinleri kaydetmiş olabilir. Bu kaynaklara erişmek için personel grubunuza bu izinlere erişim izni vermeniz gerekebilir.';
+$lang['AdminCompanyPlugins.settings.page_title'] = '%1$s Ayarlar';
 

@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'De contactpersoon die
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Ongeldig personeels-ID.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Selecteer een geldige afdeling.';
 $lang['SupportManagerTickets.!error.code.format'] = 'De ticketcode mag alleen cijfers bevatten.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Selecteer een geldige prioriteit voor deze afdeling.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Ten minste één van de ticketcontacten is ongeldig.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Ten minste één van de ontvangers van het ticket is ongeldig.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Ten minste één van de ontvangers van het ticket is dubbel.';
 

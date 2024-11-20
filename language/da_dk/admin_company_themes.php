@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.edit.field_theme_info_button_color'] = 'Info-knapfarve
 $lang['AdminCompanyThemes.edit.field_theme_warning_button_color'] = 'Farver på advarselsknapper';
 $lang['AdminCompanyThemes.edit.field_theme_danger_button_color'] = 'Farver på fareknappen';
 $lang['AdminCompanyThemes.edit.field_theme_light_button_color'] = 'Farver på lysknapper';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Brugerdefineret CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Brugerdefineret CSS';
 

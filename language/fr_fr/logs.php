@@ -50,4 +50,9 @@ $lang['Logs.!error.group.unique'] = 'L\'ID de la tâche cron et le groupe ont d�
 $lang['Logs.!error.group.betweenlength'] = 'La longueur du groupe doit être comprise entre 1 et 32 caractères.';
 $lang['Logs.!error.start_date.format'] = 'Format de la date de début non valide.';
 $lang['Logs.!error.end_date.format'] = 'Format de date de fin non valide.';
+$lang['Logs.!error.new_service.format'] = 'Le nouveau service doit être un tableau.';
+$lang['Logs.!error.old_service.format'] = 'L\'ancien service doit être un tableau.';
+$lang['Logs.!error.transactions.exists'] = 'Une ou plusieurs transactions n\'existent pas.';
+$lang['Logs.!error.transaction_id.format'] = 'Les transactions doivent être un tableau.';
+$lang['Logs.!error.service_id.exists'] = 'ID de service non valide.';
 

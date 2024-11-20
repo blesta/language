@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.pay_type_both'] = 'Engangs- og abonnementsbetaling
 $lang['PaypalPaymentsStandard.buildprocess.submit'] = 'Betal med PayPal';
 $lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Du skal indtaste en gyldig e-mailadresse.';
 $lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'Udviklertilstand skal sættes til "true", hvis den er angivet.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Der blev fundet duplikerede e-mails i dine kortlægningsdata, fjern duplikater og prøv igen.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Der blev fundet en ugyldig linje i dine kortlægningsdata. Tjek, om e-mailadressen og klient-id\'et er gyldigt, og prøv igen.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Beregnet til brug med PayPal-abonnementer, der er oprettet uden for Blesta. Tilknyt payer_email til det interne klient-id, 1 pr. linje. For eksempel: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Kortlægning af betalinger';
 

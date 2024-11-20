@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Οι επιλεγμένες υ
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Οι επιλεγμένες υπηρεσίες δεν πρόκειται πλέον να ακυρωθούν.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Οι επιλεγμένες υπηρεσίες προγραμματίστηκαν επιτυχώς για να ακυρωθούν.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Τα επιλεγμένα τιμολόγια έχουν επισημανθεί ως εκτυπωμένα.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Λόγος αναστολής:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Μη αναστολή';
+$lang['AdminBilling.services.action.suspend'] = 'Αναστολή';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Οι επιλεγμένες υπηρεσίες αναστάλθηκαν επιτυχώς.';
+$lang['AdminBilling.!success.services_suspended'] = 'Οι επιλεγμένες υπηρεσίες ανεστάλησαν επιτυχώς.';
 

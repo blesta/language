@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.name.valid'] = 'İsim geçersiz.';
 $lang['ModuleTypes.!error.type_id.valid'] = 'Modül Tipi Kimliği geçersiz.';
+$lang['ModuleTypes.!error.name.valid'] = 'İsim geçersiz.';
 

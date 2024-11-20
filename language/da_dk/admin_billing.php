@@ -175,4 +175,9 @@ $lang['AdminBilling.batch.no_passphrase'] = 'Manuel batchbehandling er ikke akti
 $lang['AdminBilling.batch.text_description'] = 'Indtast din adgangskode for manuelt at batchbehandle alle fakturaer, der er planlagt til automatisk debitering med en lokalt gemt betalingskonto.';
 $lang['AdminBilling.batch.field_passphrase'] = 'Adgangssætning';
 $lang['AdminBilling.batch.text_batchsubmit'] = 'Batch-proces';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Årsag til suspension:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Ophængning';
+$lang['AdminBilling.services.action.suspend'] = 'Suspendere';
+$lang['AdminBilling.!success.services_unsuspended'] = 'De valgte tjenester blev afbrudt med succes.';
+$lang['AdminBilling.!success.services_suspended'] = 'De valgte tjenester blev suspenderet med succes.';
 

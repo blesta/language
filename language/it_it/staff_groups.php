@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Inserire un nome.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID azienda non valido.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID gruppo personale non valido.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Eliminare l\'allegato di un\'e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Cancellare il modello HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Modifica del modello HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Aggiungi modello HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Modelli HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Servizio di modifica avanzata';
 

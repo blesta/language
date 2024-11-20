@@ -48,7 +48,6 @@ $lang['DirectAdmin.manage.module_groups.delete'] = 'Silme';
 $lang['DirectAdmin.manage.module_rows.delete'] = 'Silme';
 $lang['DirectAdmin.manage.module_groups.edit'] = 'Düzenle';
 $lang['DirectAdmin.manage.module_rows.edit'] = 'Düzenle';
-$lang['DirectAdmin.manage.module_rows.count'] = '1$s / %2$s';
 $lang['DirectAdmin.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['DirectAdmin.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['DirectAdmin.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -112,4 +111,7 @@ $lang['DirectAdmin.!error.port.format'] = 'Bağlantı noktası bir sayı olmalı
 $lang['DirectAdmin.!error.host_name.format'] = 'Ana Bilgisayar Adı geçersiz görünüyor.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Bir Sunucu Etiketi girmelisiniz.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP Adresi';
+$lang['DirectAdmin.!error.ip_address.format'] = 'IP Adresi geçersiz görünüyor.';
 

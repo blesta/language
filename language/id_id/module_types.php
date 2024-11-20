@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.name.valid'] = 'Nama tidak valid.';
 $lang['ModuleTypes.!error.type_id.valid'] = 'ID Jenis Modul tidak valid.';
+$lang['ModuleTypes.!error.name.valid'] = 'Nama tidak valid.';
 

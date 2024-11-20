@@ -123,4 +123,12 @@ $lang['AdminTickets.search.heading_department_name'] = 'Afdeling';
 $lang['AdminTickets.search.heading_summary'] = 'Resumé';
 $lang['AdminTickets.search.heading_last_reply_date'] = 'Sidste svar';
 $lang['AdminTickets.search.no_results'] = 'Der er ingen billetter, der matcher søgekriterierne.';
+$lang['AdminTickets.reply.text_contacts'] = 'Hvis du ikke vælger yderligere kontakter, vil alle kontakter, der svarer på denne billet, automatisk få besked.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Tilføj modtager';
+$lang['AdminTickets.reply.heading_contacts'] = 'Kontaktpersoner';
+$lang['AdminTickets.reply.heading_recipients'] = 'Modtagere';
+$lang['AdminTickets.add.text_contacts'] = 'Hvis du ikke vælger yderligere kontakter, vil alle kontakter, der svarer på denne billet, automatisk få besked.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Tilføj modtager';
+$lang['AdminTickets.add.heading_contacts'] = 'Kontaktpersoner';
+$lang['AdminTickets.add.heading_recipients'] = 'Modtagere';
 

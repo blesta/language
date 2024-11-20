@@ -10,7 +10,6 @@
  */
 
 $lang['PterodactylPackage.package_fields.tooltip.display'] = 'Hizmet ekleme/düzenleme sırasında istemcilerin bu değeri değiştirmesine izin vermek için işaretleyin. Bu alan için yapılandırılabilir bir seçenek kullanmayı planlıyorsanız işareti kaldırın.';
-$lang['PterodactylPackage.package_fields.optional'] = '1$s (İsteğe bağlı)';
 $lang['PterodactylPackage.package_fields.tooltip.backups'] = 'Bir kullanıcının oluşturulan sunucular için izin verilen toplam yedekleme sayısı. Sınırsız izin vermek için boş bırakın.';
 $lang['PterodactylPackage.package_fields.backups'] = 'Yedekleme Sınırı (isteğe bağlı)';
 $lang['PterodactylPackage.package_fields.tooltip.allocations'] = 'Bir kullanıcının oluşturulan sunucular için izin verilen toplam tahsis sayısı. Sınırsız izin vermek için boş bırakın.';
@@ -61,4 +60,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Bağlantı noktas�
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Ayrılmış bir IP kullanılıp kullanılmayacağı 1 veya 0 olarak ayarlanmalıdır.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Konum kimliği Pterodactyl\'deki hiçbir kimlikle eşleşmiyor.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Konum kimliği sayısal olmalıdır.';
+$lang['PterodactylPackage.package_fields.optional'] = '%1$s (İsteğe bağlı)';
 

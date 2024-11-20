@@ -1,0 +1,131 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.ko_kr
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.service_info.username'] = '사용자 이름';
+$lang['Ispconfig.!error.ispconfig_password.matches'] = '비밀번호와 비밀번호 확인이 일치하지 않습니다.';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = '비밀번호는 8자 이상이어야 합니다.';
+$lang['Ispconfig.!error.ispconfig_username.length'] = '사용자 아이디의 길이는 1~16자 사이여야 합니다.';
+$lang['Ispconfig.!error.ispconfig_username.test'] = '사용자 아이디가 \'test\'로 시작하지 않을 수 있습니다.';
+$lang['Ispconfig.!error.ispconfig_username.format'] = '사용자 아이디는 문자와 숫자만 포함할 수 있으며 숫자로 시작할 수 없습니다.';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = '도메인 이름은 \'test\'로 시작할 수 없습니다.';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = '유효한 도메인 이름(예: domain.com)을 입력하세요.';
+$lang['Ispconfig.!error.module_row.missing'] = '내부 오류가 발생했습니다. 모듈 행을 사용할 수 없습니다.';
+$lang['Ispconfig.!error.api.internal'] = '내부 오류가 발생했거나 서버가 요청에 응답하지 않았습니다.';
+$lang['Ispconfig.!error.meta[package].empty'] = 'ISPConfig 패키지가 필요합니다.';
+$lang['Ispconfig.!error.name_servers_count'] = '네임 서버를 2개 이상 정의해야 합니다.';
+$lang['Ispconfig.!error.name_servers_valid'] = '입력한 네임 서버 중 하나 이상이 유효하지 않습니다.';
+$lang['Ispconfig.!error.account_limit_valid'] = '계정 제한은 비워 두거나(무제한 계정의 경우) 정수 값으로 설정해야 합니다.';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = '서버에 연결할 수 없습니다. 호스트 이름, 사용자 이름 및 비밀번호가 올바른지 확인하세요.';
+$lang['Ispconfig.!error.remote_password_valid'] = '비밀번호가 유효하지 않은 것 같습니다.';
+$lang['Ispconfig.!error.user_name_valid'] = '사용자 이름이 유효하지 않은 것 같습니다.';
+$lang['Ispconfig.!error.port_format'] = '포트는 숫자여야 합니다.';
+$lang['Ispconfig.!error.host_name_valid'] = '호스트 이름이 유효하지 않은 것 같습니다.';
+$lang['Ispconfig.!error.server_name_valid'] = '서버 레이블을 입력해야 합니다.';
+$lang['Ispconfig.service_field.tooltip.password'] = '비밀번호를 비워두면 자동으로 생성됩니다.';
+$lang['Ispconfig.service_field.tooltip.username'] = '사용자 아이디를 비워두면 자동으로 생성됩니다.';
+$lang['Ispconfig.service_info.option_login'] = '로그인';
+$lang['Ispconfig.service_info.options'] = '옵션';
+$lang['Ispconfig.service_info.server'] = '서버';
+$lang['Ispconfig.service_info.password'] = '비밀번호';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = '(%1$s MB/∞)';
+$lang['Ispconfig.tab_client_stats.usage'] = '(%1$s MB/%2$s MB)';
+$lang['Ispconfig.tab_client_stats.disk_title'] = '디스크 사용량';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = '대역폭 사용량(월~현재)';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = '데이터베이스 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'WebDAV 사용자 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = '별칭 도메인 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = '하위 도메인 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = '웹 도메인 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'FTP 사용자 제한';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = '대역폭 할당량';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = '웹 할당량';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = '가치';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = '필드';
+$lang['Ispconfig.tab_client_stats.info_title'] = '정보';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = '비밀번호 업데이트';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = '비밀번호';
+$lang['Ispconfig.tab_client_actions.change_password'] = '비밀번호 변경';
+$lang['Ispconfig.tab_stats.info.limit_database'] = '데이터베이스 제한';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'WebDAV 사용자 제한';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = '별칭 도메인 제한';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = '하위 도메인 제한';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = '웹 도메인 제한';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'FTP 사용자 제한';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = '대역폭 할당량';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = '웹 할당량';
+$lang['Ispconfig.tab_stats.info_heading.value'] = '가치';
+$lang['Ispconfig.tab_stats.info_heading.field'] = '필드';
+$lang['Ispconfig.tab_stats.info_title'] = '정보';
+$lang['Ispconfig.service_field.password'] = '비밀번호';
+$lang['Ispconfig.service_field.username'] = '사용자 이름';
+$lang['Ispconfig.service_field.domain'] = '도메인';
+$lang['Ispconfig.package_fields.ssh_options'] = 'SSH 옵션';
+$lang['Ispconfig.package_fields.php_options'] = 'PHP 옵션';
+$lang['Ispconfig.package_fields.package'] = 'ISPConfig 패키지';
+$lang['Ispconfig.row_meta.account_limit'] = '계정 한도';
+$lang['Ispconfig.row_meta.use_ssl'] = 'API에 연결할 때 SSL 사용(권장)';
+$lang['Ispconfig.row_meta.password'] = '비밀번호';
+$lang['Ispconfig.row_meta.user_name'] = '사용자 이름';
+$lang['Ispconfig.row_meta.default_port'] = '8080';
+$lang['Ispconfig.row_meta.port'] = '포트';
+$lang['Ispconfig.row_meta.host_name'] = '호스트 이름';
+$lang['Ispconfig.row_meta.server_name'] = '서버 레이블';
+$lang['Ispconfig.edit_row.add_btn'] = '서버 편집';
+$lang['Ispconfig.edit_row.remove_name_server'] = '제거';
+$lang['Ispconfig.edit_row.name_server'] = '이름 서버 %1$s';
+$lang['Ispconfig.edit_row.name_server_host_col'] = '호스트 이름';
+$lang['Ispconfig.edit_row.name_server_col'] = '이름 서버';
+$lang['Ispconfig.edit_row.name_server_btn'] = '추가 이름 서버 추가';
+$lang['Ispconfig.edit_row.notes_title'] = '참고';
+$lang['Ispconfig.edit_row.name_servers_title'] = '이름 서버';
+$lang['Ispconfig.edit_row.basic_title'] = '기본 설정';
+$lang['Ispconfig.edit_row.box_title'] = 'ISPConfig 서버 편집';
+$lang['Ispconfig.add_row.add_btn'] = '서버 추가';
+$lang['Ispconfig.add_row.remove_name_server'] = '제거';
+$lang['Ispconfig.add_row.name_server'] = '이름 서버 %1$s';
+$lang['Ispconfig.add_row.name_server_host_col'] = '호스트 이름';
+$lang['Ispconfig.add_row.name_server_col'] = '이름 서버';
+$lang['Ispconfig.add_row.name_server_btn'] = '추가 이름 서버 추가';
+$lang['Ispconfig.add_row.notes_title'] = '참고';
+$lang['Ispconfig.add_row.name_servers_title'] = '이름 서버';
+$lang['Ispconfig.add_row.basic_title'] = '기본 설정';
+$lang['Ispconfig.add_row.box_title'] = 'ISPConfig 서버 추가';
+$lang['Ispconfig.order_options.roundrobin'] = '서버 간에 균등하게 배포';
+$lang['Ispconfig.order_options.first'] = '최초의 비풀 서버';
+$lang['Ispconfig.manage.module_groups_no_results'] = '서버 그룹이 없습니다.';
+$lang['Ispconfig.manage.module_rows_no_results'] = '서버가 없습니다.';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = '이 서버 그룹을 삭제하시겠습니까?';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = '이 서버를 삭제하시겠습니까?';
+$lang['Ispconfig.manage.module_groups.delete'] = '삭제';
+$lang['Ispconfig.manage.module_rows.delete'] = '삭제';
+$lang['Ispconfig.manage.module_groups.edit'] = '편집';
+$lang['Ispconfig.manage.module_rows.edit'] = '편집';
+$lang['Ispconfig.manage.module_groups_heading.options'] = '옵션';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = '서버 수';
+$lang['Ispconfig.manage.module_groups_heading.name'] = '그룹 이름';
+$lang['Ispconfig.manage.module_rows_heading.options'] = '옵션';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = '계정';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = '호스트 이름';
+$lang['Ispconfig.manage.module_rows_heading.name'] = '서버 레이블';
+$lang['Ispconfig.manage.module_groups_title'] = '서버 그룹';
+$lang['Ispconfig.manage.module_rows_title'] = '서버';
+$lang['Ispconfig.add_module_group'] = '서버 그룹 추가';
+$lang['Ispconfig.add_module_row'] = '서버 추가';
+$lang['Ispconfig.tab_client_actions'] = '작업';
+$lang['Ispconfig.tab_client_stats'] = '통계';
+$lang['Ispconfig.tab_stats'] = '통계';
+$lang['Ispconfig.module_group'] = '서버 그룹';
+$lang['Ispconfig.module_row_plural'] = '서버';
+$lang['Ispconfig.module_row'] = '서버';
+$lang['Ispconfig.description'] = 'ISPConfig 3는 하나의 제어판에서 여러 서버를 관리할 수 있는 Linux용 오픈 소스 패널입니다.';
+$lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+

@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Câmpurile
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Câmpul personalizat al clientului a fost șters cu succes.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Câmpul personalizat al clientului a fost creat cu succes.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Câmpul personalizat al clientului a fost actualizat cu succes.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Nu există gateway-uri instalate.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hibrid';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Comerciant';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non-Merchant';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Tip';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gateway';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activare';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activarea restricțiilor Gateway';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limitează gateway-urile pe care le pot utiliza clienții. În mod implicit, restricțiile de gateway sunt dezactivate și toate gateway-urile sunt disponibile.';
 

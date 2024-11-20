@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Dage';
 $lang['SupportManagerDepartments.reminder_intervals.hour'] = '1 time';
 $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Timer';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s minutter';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'En eller flere prioriteter er ugyldige.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vælg mindst én prioritet.';
 

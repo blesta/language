@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.attempt'] = 'Pokus o zálohování databáze prostřednictvím protokolu SFTP.';
-$lang['Automation.task.backups_sftp.completed'] = 'Úloha zálohování databáze SFTP byla dokončena.';
 $lang['Automation.task.backups_sftp.success'] = 'Zálohování bylo úspěšně dokončeno.';
+$lang['Automation.task.backups_sftp.completed'] = 'Úloha zálohování databáze SFTP byla dokončena.';
+$lang['Automation.task.backups_sftp.attempt'] = 'Pokus o zálohování databáze prostřednictvím protokolu SFTP.';
 

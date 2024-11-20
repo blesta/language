@@ -82,4 +82,5 @@ $lang['AppController.graphs.label.total'] = 'I alt';
 $lang['AppController.sreader.dropdown'] = 'Slå rullemenuen til';
 $lang['AppController.sreader.navigation'] = 'Toggle navigation';
 $lang['AppController.dropzone.text'] = 'Læg filer her for at uploade eller klik for at vælge filer';
+$lang['AppController.!error.client_unauthorized_access'] = 'Du har ikke tilladelse til at få adgang til denne ressource, kontakt venligst den primære kontoindehaver for at anmode om adgang.';
 

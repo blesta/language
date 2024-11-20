@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s è il gruppo predefinit
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s è stato cancellato con successo!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s è stato modificato con successo!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s è stato creato con successo!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gateway consentiti';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gateway consentiti';
 

@@ -10,6 +10,6 @@
  */
 
 $lang['Module.!error.general'] = 'Виникла помилка при обробці запиту модулем.';
-$lang['Module.!error.invalid'] = 'Отримано недійсну або нерозпізнану відповідь API.';
 $lang['Module.!error.unsupported'] = 'Модуль не підтримує цю дію.';
+$lang['Module.!error.invalid'] = 'Отримано недійсну або нерозпізнану відповідь API.';
 

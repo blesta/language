@@ -122,4 +122,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Nesprávné ID nadřazené naviga�
 $lang['Navigation.!error.order.valid'] = 'Index objednávky musí být číselná hodnota';
 $lang['Navigation.!error.action_id.valid'] = 'Nesprávné ID akce';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Černá listina';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Šablony HTML';
 

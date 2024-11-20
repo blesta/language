@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Menampilkan nama paket
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Contoh Kode';
 $lang['PackageFeed.description'] = 'Mengembalikan nama, deskripsi, atau harga paket.';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Menampilkan batas kuantitas klien dari sebuah paket:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Menampilkan jumlah stok (kuantitas) suatu paket:';
 

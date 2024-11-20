@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.company_id.exists'] = 'Μη έγκυρο αναγνω�
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Μη έγκυρο αναγνωριστικό ομάδας προσωπικού.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Μαύρη λίστα';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Διαγραφή συνημμένου email';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Διαγραφή προτύπου HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Επεξεργασία προτύπου HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Προσθήκη προτύπου HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Πρότυπα HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Προηγμένη υπηρεσία επεξεργασίας';
 

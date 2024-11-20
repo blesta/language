@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Terdapat masalah serius yang memengaruhi
 $lang['AdminMain.index.health_fair'] = 'Ada beberapa masalah yang memengaruhi kemampuan sistem untuk beroperasi secara normal.';
 $lang['AdminMain.index.health_good'] = 'Secara keseluruhan sistem dalam keadaan sehat, tetapi ada beberapa item yang mungkin memerlukan perhatian Anda.';
 $lang['AdminMain.index.health_excellent'] = 'Sistem dalam keadaan sehat dan tampak beroperasi secara normal.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurasi?';
+$lang['AdminMain.index.upload_dir'] = 'Jalur direktori unggahan dalam pengaturan Anda berada di dalam direktori web root.  Direktori ini harus ditempatkan di atas direktori web root untuk memastikan tidak akan ada masalah jika diakses oleh publik.';
 

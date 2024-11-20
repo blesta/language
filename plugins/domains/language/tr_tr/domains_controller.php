@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Alan Adı Yenileme
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Kayıt Memurunu Değiştirin';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Otomatik Yenilemeyi Değiştirin';
 $lang['DomainsController.example'] = 'Örnek dil';
+$lang['DomainsController.!error.move_error'] = 'Seçilen etki alanları seçilen istemciye taşınamadı.';
 

@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Пожалуйста, введите �
 $lang['StaffGroups.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Неверный идентификатор группы сотрудников.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Удалить вложение электронной почты';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Удалить HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Редактировать HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Добавить HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Шаблоны HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Служба расширенного редактирования';
 

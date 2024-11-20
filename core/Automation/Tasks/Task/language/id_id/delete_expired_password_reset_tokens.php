@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Tugas hapus token pengaturan ulang kata sandi yang kedaluwarsa telah selesai.';
 $lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Mencoba menghapus token pengaturan ulang kata sandi yang kedaluwarsa.';
+$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Tugas hapus token pengaturan ulang kata sandi yang kedaluwarsa telah selesai.';
 

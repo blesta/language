@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemStatusPlugin.description'] = 'Affiche l\'état du système dans un widget sur le tableau de bord de l\'administrateur.';
 $lang['SystemStatusPlugin.name'] = 'État du système';
+$lang['SystemStatusPlugin.description'] = 'Affiche l\'état du système dans un widget sur le tableau de bord de l\'administrateur.';
 

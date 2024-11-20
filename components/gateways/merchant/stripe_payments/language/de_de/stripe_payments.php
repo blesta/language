@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Die Verbindung zur Stripe-API
 $lang['StripePayments.!error.secret_key.empty'] = 'Bitte geben Sie einen geheimen Schlüssel ein.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Bitte geben Sie einen veröffentlichbaren Schlüssel ein.';
 $lang['StripePayments.!error.auth'] = 'Das Gateway konnte sich nicht authentifizieren.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Wenn Sie ein Stripe-Benutzer mit Sitz in Indien sind, müssen Sie vor dem Speichern einer neuen Karte mit Stripe immer eine 3D Secure (3DS)-Authentifizierung durchführen.';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Präsentieren Sie die 3D-Secure-Herausforderung, wenn ein Client eine Zahlungsmethode speichert oder eine Zahlungsmethode verarbeitet (gespeichert oder nicht gespeichert)';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Präsentieren Sie eine 3D-Secure-Herausforderung, wenn ein Client eine Zahlungsmethode speichert oder eine nicht gespeicherte Zahlungsmethode verarbeitet.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Erlauben Sie Stripe zu bestimmen, wann eine 3D-Secure-Abfrage erfolgen soll';
+$lang['StripePayments.request_three_d_secure'] = 'Ablauf der 3D-Secure-Authentifizierung';
 

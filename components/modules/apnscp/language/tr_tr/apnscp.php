@@ -88,7 +88,6 @@ $lang['Apnscp.manage.module_groups.delete'] = 'Silme';
 $lang['Apnscp.manage.module_rows.delete'] = 'Silme';
 $lang['Apnscp.manage.module_groups.edit'] = 'Düzenle';
 $lang['Apnscp.manage.module_rows.edit'] = 'Düzenle';
-$lang['Apnscp.manage.module_rows.count'] = '1$s / %2$s';
 $lang['Apnscp.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['Apnscp.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['Apnscp.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -108,4 +107,5 @@ $lang['Apnscp.module_row_plural.name'] = 'Sunucular';
 $lang['Apnscp.module_row.name'] = 'Sunucu';
 $lang['Apnscp.description'] = 'Eski adı APNSCP.';
 $lang['Apnscp.name'] = 'ApisCP';
+$lang['Apnscp.manage.module_rows.count'] = '%1$s / %2$s';
 

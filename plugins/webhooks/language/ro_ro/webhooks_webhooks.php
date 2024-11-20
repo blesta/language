@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Numărul de apelare nu poate
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Vă rugăm să introduceți un callback valid.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Un webhook de acest tip există deja cu acest callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Compania furnizată nu există.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Evenimentul furnizat nu există.';
 

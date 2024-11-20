@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Текст зворотно�
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Будь ласка, введіть дійсний номер зворотного дзвінка.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Веб-хук цього типу вже існує з цим зворотним викликом.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Надана компанія не існує.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Надана подія не існує.';
 

@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Manager de suport > Departamente';
 $lang['AdminDepartments.!success.department_deleted'] = 'Departamentul %1$s a fost șters cu succes.';
 $lang['AdminDepartments.!success.department_updated'] = 'Departamentul %1$s a fost actualizat cu succes.';
 $lang['AdminDepartments.!success.department_created'] = 'Departamentul %1$s a fost creat cu succes.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Priorități disponibile';
+$lang['AdminDepartments.add.field_priorities'] = 'Priorități disponibile';
 

@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Bir adres eksik.';
 $lang['Logs.!error.to_address.empty'] = 'Adres için bir eksik.';
 $lang['Logs.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 $lang['Logs.!error.deletelog_datetime'] = 'Geçersiz tarih biçimi.';
+$lang['Logs.!error.new_service.format'] = 'Yeni hizmet bir dizi olmalıdır.';
+$lang['Logs.!error.old_service.format'] = 'Eski hizmet bir dizi olmalıdır.';
+$lang['Logs.!error.transactions.exists'] = 'Bir veya daha fazla işlem mevcut değil.';
+$lang['Logs.!error.transaction_id.format'] = 'İşlemler bir dizi olmalıdır.';
+$lang['Logs.!error.service_id.exists'] = 'Geçersiz hizmet kimliği.';
 

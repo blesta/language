@@ -56,4 +56,7 @@ $lang['AdminMain.graph_line_name.active'] = 'Aktiv';
 $lang['AdminMain.graph_line_name.canceled'] = 'Aflyst';
 $lang['AdminMain.graph_line_name.suspended'] = 'Suspenderet';
 $lang['AdminMain.graph_line_name.new'] = 'Ny';
+$lang['AdminMain.date_range.day'] = '1 dag';
+$lang['AdminMain.date_range.month'] = 'Nuværende måned';
+$lang['AdminMain.date_range.ytd'] = 'År til dato';
 

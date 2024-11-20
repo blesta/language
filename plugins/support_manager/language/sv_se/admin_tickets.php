@@ -123,4 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'De valda ärendena har framgångs
 $lang['AdminTickets.!success.ticket_split'] = 'Biljett #%1$s har framgångsrikt delats upp i biljett #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Biljetten #%1$s har uppdaterats framgångsrikt.';
 $lang['AdminTickets.!success.ticket_created'] = 'Biljetten #%1$s har öppnats framgångsrikt.';
+$lang['AdminTickets.reply.text_contacts'] = 'Om du inte väljer några ytterligare kontakter kommer alla kontakter som svarar på det här ärendet att meddelas automatiskt.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Lägg till mottagare';
+$lang['AdminTickets.reply.heading_contacts'] = 'Kontaktpersoner';
+$lang['AdminTickets.reply.heading_recipients'] = 'Mottagare';
+$lang['AdminTickets.add.text_contacts'] = 'Om du inte väljer några ytterligare kontakter kommer alla kontakter som svarar på det här ärendet att meddelas automatiskt.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Lägg till mottagare';
+$lang['AdminTickets.add.heading_contacts'] = 'Kontaktpersoner';
+$lang['AdminTickets.add.heading_recipients'] = 'Mottagare';
 

@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Kupon telah berhasil dip
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Kupon telah berhasil dibuat!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Pemberitahuan berhasil diperbarui!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Pengaturan Faktur dan Tagihan berhasil diperbarui!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Jarak Percobaan Kedua';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Ambang Batas Jarak Percobaan ke-2';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Jarak Percobaan Pertama';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Ambang Batas Jarak Percobaan Pertama';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Upaya';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Jenis';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Tindakan Layanan';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Upaya Penyediaan Layanan';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Jumlah tindakan layanan yang akan dicoba sebelum menunda upaya berikutnya dengan jumlah yang ditentukan oleh pengaturan jarak upaya kedua';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Jumlah tindakan layanan yang akan dicoba sebelum menunda upaya berikutnya dengan jumlah yang ditentukan oleh pengaturan jarak upaya pertama';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Jumlah percobaan dan kegagalan untuk memproses tindakan layanan sebelum tindakan layanan tersebut dinonaktifkan dari penyelesaian otomatis.';
 

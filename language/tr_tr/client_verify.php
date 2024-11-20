@@ -10,6 +10,6 @@
  */
 
 $lang['ClientVerify.!error.invalid_token'] = 'Sağlanan belirteç geçerli değil veya süresi dolmuş.';
-$lang['ClientVerify.!success.email_sent'] = '1$s\'ye bir doğrulama e-postası gönderildi.';
 $lang['ClientVerify.!success.email_verified'] = 'E-posta adresiniz başarıyla doğrulandı.';
+$lang['ClientVerify.!success.email_sent'] = 'Bir doğrulama e-postası %1$s adresine gönderildi.';
 

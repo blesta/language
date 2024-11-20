@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Soubor byl úspěšně přidán.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorie byla úspěšně odstraněna.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorie byla úspěšně aktualizována.';
 $lang['AdminMain.!success.category_added'] = 'Kategorie byla úspěšně vytvořena.';
+$lang['AdminMain.edit.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
 

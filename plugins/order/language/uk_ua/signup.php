@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Було надіслано пов
 $lang['Signup.!notice.force_email_usernames'] = 'Ваше ім\'я користувача буде таким самим, як і ваша електронна адреса.';
 $lang['Signup.!error.not_client_owner'] = 'Щоб продовжити, ви повинні увійти в систему як власник клієнта.';
 $lang['Signup.!error.captcha.invalid'] = 'Введена капча була невірною. Будь ласка, спробуйте ще раз.';
+$lang['Signup.otp.field_submit'] = 'Увійдіть в систему';
+$lang['Signup.otp.field_otp'] = 'Одноразовий пароль';
+$lang['Signup.otp.login_heading'] = 'Увійдіть в систему';
+$lang['Signup.otp.description'] = 'Будь ласка, введіть свій одноразовий пароль.';
+$lang['Signup.otp.page_title'] = 'Увійдіть в систему';
+$lang['Signup.index.field_agree_tos'] = 'Я прочитав та погоджуюсь з <a href="%1$s" target="_blank">Умовами</a> та положеннями';
+$lang['Signup.!error.invalid_agree_tos'] = 'Ви повинні підтвердити свою згоду з умовами та положеннями.';
 

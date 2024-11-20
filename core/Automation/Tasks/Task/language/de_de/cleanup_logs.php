@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s alte Modulprot
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s alte Gateway-Protokolle wurden gelöscht.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Die Aufgabe "Protokolle bereinigen" ist abgeschlossen.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Ich versuche, alte Protokolle zu bereinigen.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s Die alten Service Changes-Protokolle wurden gelöscht.';
 

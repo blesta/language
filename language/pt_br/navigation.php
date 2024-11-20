@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Início';
 $lang['Navigation.!error.parent_id.valid'] = 'ID do item de navegação pai inválido';
 $lang['Navigation.!error.order.valid'] = 'O índice da ordem deve ser um valor numérico';
 $lang['Navigation.!error.action_id.valid'] = 'ID de ação inválida';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Modelos HTML';
 

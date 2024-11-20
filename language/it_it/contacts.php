@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Le fatture sono impostat
 $lang['Contacts.!error.contact_type.format'] = 'Tipo di contatto non valido.';
 $lang['Contacts.!error.user_id.exists'] = 'ID utente non valido.';
 $lang['Contacts.!error.client_id.exists'] = 'ID cliente non valido.';
+$lang['Contacts.!error.number.required'] = 'Il numero di contatto è obbligatorio.';
 

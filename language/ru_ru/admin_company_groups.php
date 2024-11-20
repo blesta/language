@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s является гру
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s был успешно удален!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s был успешно отредактирован!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s был успешно создан!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Разрешенные шлюзы';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Разрешенные шлюзы';
 

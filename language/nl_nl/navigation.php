@@ -122,4 +122,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Ongeldig ouder navigatie-item-ID';
 $lang['Navigation.!error.order.valid'] = 'De bestelindex moet een numerieke waarde zijn';
 $lang['Navigation.!error.action_id.valid'] = 'Ongeldige actie-ID';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Zwarte lijst';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML sjablonen';
 

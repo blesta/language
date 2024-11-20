@@ -11,7 +11,7 @@
 
 $lang['Encryption.!error.agree.empty'] = 'Ви повинні погодитися, що зберегли цю парольну фразу в безпечному місці.';
 $lang['Encryption.!error.confirm_new_passphrase.matches'] = 'Нова парольна фраза не збігається.';
-$lang['Encryption.!error.current_passphrase.empty'] = 'Будь ласка, введіть поточну парольну фразу приватного ключа.';
-$lang['Encryption.!error.current_passphrase.matches'] = 'Поточна парольна фраза приватного ключа є недійсною.';
 $lang['Encryption.!error.private_key_passphrase.empty'] = 'Будь ласка, введіть нову парольну фразу приватного ключа.';
+$lang['Encryption.!error.current_passphrase.matches'] = 'Поточна парольна фраза приватного ключа є недійсною.';
+$lang['Encryption.!error.current_passphrase.empty'] = 'Будь ласка, введіть поточну парольну фразу приватного ключа.';
 

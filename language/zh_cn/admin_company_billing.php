@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.invoices.page_title'] = '设置 > 公司 > 账单/付
 $lang['AdminCompanyBilling.customization.field.inv_pad_size'] = '发票填充尺寸';
 $lang['AdminCompanyBilling.!notice.group_settings'] = '注意：这些设置只适用于从公司继承其设置的客户组。';
 $lang['AdminCompanyBilling.customization.field.inv_increment'] = '发票增量值';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '第二次尝试间距';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = '第二次尝试间距阈值';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '第一次尝试间距';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '第一次尝试间距阈值';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = '尝试';
+$lang['AdminCompanyBilling.invoices.field.type'] = '类型';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = '服务行动';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = '服务提供尝试';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = '在按第二次尝试间隔设置指定的数量延迟下一次尝试之前尝试的服务操作次数';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = '在按首次尝试间隔设置指定的数量延迟下一次尝试之前尝试的服务操作次数';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = '在禁用自动完成服务操作之前，尝试处理服务操作的次数和失败次数。';
 

@@ -50,4 +50,9 @@ $lang['Logs.!error.group.unique'] = 'Cron-opgavens ID og gruppe er allerede tage
 $lang['Logs.!error.group.betweenlength'] = 'Gruppen skal være mellem 1 og 32 tegn lang.';
 $lang['Logs.!error.start_date.format'] = 'Ugyldigt startdatoformat.';
 $lang['Logs.!error.end_date.format'] = 'Ugyldigt slutdatoformat.';
+$lang['Logs.!error.new_service.format'] = 'Den nye tjeneste skal være et array.';
+$lang['Logs.!error.old_service.format'] = 'Den gamle tjeneste skal være et array.';
+$lang['Logs.!error.transactions.exists'] = 'En eller flere transaktioner findes ikke.';
+$lang['Logs.!error.transaction_id.format'] = 'Transaktioner skal være et array.';
+$lang['Logs.!error.service_id.exists'] = 'Ugyldigt service-ID.';
 

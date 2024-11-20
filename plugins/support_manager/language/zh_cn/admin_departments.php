@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = '支持经理 > 部门';
 $lang['AdminDepartments.!success.department_deleted'] = '%1$s 部门已成功删除。';
 $lang['AdminDepartments.!success.department_updated'] = '%1$s 部门已成功更新。';
 $lang['AdminDepartments.!success.department_created'] = '成功创建了 %1$s 部门。';
+$lang['AdminDepartments.edit.field_priorities'] = '现有优先事项';
+$lang['AdminDepartments.add.field_priorities'] = '现有优先事项';
 

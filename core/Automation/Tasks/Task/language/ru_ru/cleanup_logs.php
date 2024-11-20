@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$ старых ж
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$ старых журналов шлюза были удалены.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Задача очистки журналов выполнена.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Попытка очистить старые журналы.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s старые журналы Service Changes были удалены.';
 

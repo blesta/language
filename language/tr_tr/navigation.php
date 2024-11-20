@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Ev';
 $lang['Navigation.!error.parent_id.valid'] = 'Geçersiz üst gezinti öğesi kimliği';
 $lang['Navigation.!error.order.valid'] = 'Sipariş indeksi sayısal bir değer olmalıdır';
 $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML Şablonları';
 

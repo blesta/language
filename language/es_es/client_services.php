@@ -167,4 +167,5 @@ $lang['ClientServices.totals.subtotal'] = 'Subtotal:';
 $lang['ClientServices.totals.total'] = 'Total a pagar hoy:';
 $lang['ClientServices.totals.total_recurring'] = 'Total al renovar:';
 $lang['ClientServices.!tooltip.total_recurring'] = 'El precio total al renovar representa el coste total de este servicio y todas sus opciones previstas en la próxima renovación.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Gestionar el Servicio de Padres';
 

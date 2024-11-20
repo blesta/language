@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = '请输入有效的电�
 $lang['SupportManagerDepartments.!error.description.empty'] = '请输入描述。';
 $lang['SupportManagerDepartments.!error.name.empty'] = '请输入该部门的名称。';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = '公司 ID 无效。';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = '一个或多个优先级无效。';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = '至少选择一个优先事项。';
 

@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Mislukte pogingen moet
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Ongeldig factuur-ID.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Ongeldig service-ID.';
 $lang['ServiceInvoices.!error.date_next_attempt.format'] = 'Datum volgende poging moet een datum zijn.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Annulering';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Schorsing';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Ophanging';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Vernieuwing';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Bevoorrading';
+$lang['ServiceInvoices.!error.type.valid'] = 'Ongeldig pogingtype.';
 

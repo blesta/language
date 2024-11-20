@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Wymagane p
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Pole niestandardowe klienta zostało pomyślnie usunięte.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Pole niestandardowe klienta zostało pomyślnie utworzone.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Pole niestandardowe klienta zostało pomyślnie zaktualizowane.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Nie ma zainstalowanych bramek.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybryda';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Handlowiec';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non-Merchant';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Bramka';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Włącz';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Włącz ograniczenia bramy';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Ograniczenie bram, z których mogą korzystać klienci. Domyślnie ograniczenia bram są wyłączone i wszystkie bramy są dostępne.';
 

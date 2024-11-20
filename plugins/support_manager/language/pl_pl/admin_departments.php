@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Menedżer wsparcia > Działy';
 $lang['AdminDepartments.!success.department_deleted'] = 'Dział %1$s został pomyślnie usunięty.';
 $lang['AdminDepartments.!success.department_updated'] = 'Dział %1$s został pomyślnie zaktualizowany.';
 $lang['AdminDepartments.!success.department_created'] = 'Dział %1$s został pomyślnie utworzony.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Dostępne priorytety';
+$lang['AdminDepartments.add.field_priorities'] = 'Dostępne priorytety';
 

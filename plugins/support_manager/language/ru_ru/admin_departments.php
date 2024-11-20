@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Менеджер по поддер
 $lang['AdminDepartments.!success.department_deleted'] = 'Отдел %1$s был успешно удален.';
 $lang['AdminDepartments.!success.department_updated'] = 'Отдел %1$s был успешно обновлен.';
 $lang['AdminDepartments.!success.department_created'] = 'Отдел %1$s был успешно создан.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Доступные приоритеты';
+$lang['AdminDepartments.add.field_priorities'] = 'Доступные приоритеты';
 

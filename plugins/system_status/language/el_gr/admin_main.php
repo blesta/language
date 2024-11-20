@@ -42,4 +42,6 @@ $lang['AdminMain.index.sql_mysql_version_serious'] = 'Η έκδοση της MyS
 $lang['AdminMain.index.sql_mysql_version_requirements'] = 'Δείτε τις ελάχιστες απαιτήσεις';
 $lang['AdminMain.index.sql_mariadb_version_serious'] = 'Η έκδοση της MariaDB δεν πληροί τις ελάχιστες απαιτήσεις συστήματος.';
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Δείτε τις ελάχιστες απαιτήσεις';
+$lang['AdminMain.index.upload_dir_configure'] = 'Διαμόρφωση;';
+$lang['AdminMain.index.upload_dir'] = 'Η διαδρομή του καταλόγου μεταφόρτωσης στις ρυθμίσεις σας βρίσκεται μέσα στον ριζικό κατάλογο ιστού.  Θα πρέπει να τοποθετηθεί πάνω από τον ριζικό κατάλογο ιστού για να διασφαλιστεί ότι δεν θα υπάρξει ποτέ πρόβλημα με το να είναι δημόσια προσβάσιμος.';
 

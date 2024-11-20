@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Token formularza jest nieprawidło
 $lang['AppController.!error.unauthorized_access'] = 'Nie masz uprawnień dostępu do tego zasobu';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Upuść pliki tutaj, aby je przesłać lub kliknij, aby je wybrać';
+$lang['AppController.!error.client_unauthorized_access'] = 'Nie masz uprawnień dostępu do tego zasobu, skontaktuj się z głównym właścicielem konta, aby poprosić o dostęp.';
 

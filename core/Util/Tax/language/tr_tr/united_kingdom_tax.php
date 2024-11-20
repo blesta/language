@@ -17,9 +17,9 @@ $lang['Util.Tax.united_kingdom_tax.fields.note_enable_uk_vat'] = 'Bu şirket iç
 $lang['Util.Tax.united_kingdom_tax.fields.enable_uk_vat'] = 'Birleşik Krallık KDV Doğrulamasını Etkinleştir';
 $lang['Util.Tax.united_kingdom_tax.fields.country_uk'] = 'Birleşik Krallık';
 $lang['Util.Tax.united_kingdom_tax.tax_note_domestic_reverse_charge'] = 'Reverse Charge KDV Yasası 1994 Bölüm 55A Geçerlidir. Müşterinin gösterilen oranda KDV\'yi HMRC\'ye bildirmesi gerekmektedir.';
-$lang['Util.Tax.united_kingdom_tax.tax_deduction_note'] = '1$s Kesinti (%2$s%%)';
-$lang['Util.Tax.united_kingdom_tax.tax_note'] = '1$s (%2$s%%)';
 $lang['Util.Tax.united_kingdom_tax.tax_id_name'] = 'KDV Numarası';
 $lang['Util.Tax.united_kingdom_tax.tax_name'] = 'KDV';
 $lang['Util.Tax.united_kingdom_tax.tax_provider_name'] = 'BIRLEŞIK KRALLIK HMRC KDV';
+$lang['Util.Tax.united_kingdom_tax.tax_deduction_note'] = '%1$s Kesinti (%2$s%%)';
+$lang['Util.Tax.united_kingdom_tax.tax_note'] = '%1$s (%2$s%%)';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Видалення токенів скидання простроченого пароля завершено.';
 $lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Спроба видалити прострочені токени скидання пароля.';
+$lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Видалення токенів скидання простроченого пароля завершено.';
 

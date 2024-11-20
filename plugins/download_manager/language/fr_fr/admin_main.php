@@ -113,4 +113,6 @@ $lang['AdminMain.editcategory.field_description'] = 'Description';
 $lang['AdminMain.editcategory.submit_edit'] = 'Catégorie de mise à jour';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Annuler';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.edit.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong>%1$s</strong>.';
 

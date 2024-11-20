@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Kupón byl úspěšně a
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Kupón byl úspěšně vytvořen!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Oznámení byla úspěšně aktualizována!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Nastavení faktur a poplatků bylo úspěšně aktualizováno!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Rozteč při 2. pokusu';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Prahová hodnota pro rozestupy při 2. pokusu';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Rozteč při 1. pokusu';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Prahová hodnota pro rozestupy při 1. pokusu';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Pokusy';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Typ';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Akce služby';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Pokusy o poskytování služeb';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Počet servisních akcí, které se mají provést před zpožděním dalšího pokusu o hodnotu určenou nastavením rozestupu mezi druhými pokusy.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Počet servisních akcí, o které se pokusí před zpožděním dalšího pokusu o hodnotu určenou nastavením rozestupu mezi prvními pokusy.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Počet pokusů a selhání při zpracování akce služby, než je tato akce služby zakázána k automatickému dokončení.';
 

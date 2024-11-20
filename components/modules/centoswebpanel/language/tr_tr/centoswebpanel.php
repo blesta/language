@@ -88,7 +88,6 @@ $lang['Centoswebpanel.manage.module_rows.confirm_delete'] = 'Bu sunucuyu silmek 
 $lang['Centoswebpanel.manage.module_groups.delete'] = 'Silme';
 $lang['Centoswebpanel.manage.module_rows.delete'] = 'Silme';
 $lang['Centoswebpanel.manage.module_rows.edit'] = 'Düzenle';
-$lang['Centoswebpanel.manage.module_rows.count'] = '1$s / %2$s';
 $lang['Centoswebpanel.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['Centoswebpanel.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['Centoswebpanel.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -105,4 +104,5 @@ $lang['Centoswebpanel.module_row_plural'] = 'Sunucular';
 $lang['Centoswebpanel.module_row'] = 'Sunucu';
 $lang['Centoswebpanel.description'] = '(Dedicated & VPS) sunucuların hızlı ve kolay yönetimi için tasarlanmış ücretsiz Web Hosting kontrol paneli';
 $lang['Centoswebpanel.name'] = 'CentOS WebPanel';
+$lang['Centoswebpanel.manage.module_rows.count'] = '%1$s / %2$s';
 

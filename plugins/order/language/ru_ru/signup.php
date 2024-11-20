@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Было отправлено со
 $lang['Signup.!notice.force_email_usernames'] = 'Ваше имя пользователя будет совпадать с вашим адресом электронной почты.';
 $lang['Signup.!error.not_client_owner'] = 'Чтобы продолжить, вы должны войти в систему как владелец клиента.';
 $lang['Signup.!error.captcha.invalid'] = 'Введенная капча недействительна. Пожалуйста, попробуйте еще раз.';
+$lang['Signup.otp.field_submit'] = 'Войти';
+$lang['Signup.otp.field_otp'] = 'Одноразовый пароль';
+$lang['Signup.otp.login_heading'] = 'Войти';
+$lang['Signup.index.field_agree_tos'] = 'Я прочитал и согласен с <a href="%1$s" target="_blank">Положениями и условиями</a>';
+$lang['Signup.otp.description'] = 'Пожалуйста, введите ваш одноразовый пароль.';
+$lang['Signup.otp.page_title'] = 'Войти';
+$lang['Signup.!error.invalid_agree_tos'] = 'Вы должны подтвердить свое согласие с условиями и положениями.';
 

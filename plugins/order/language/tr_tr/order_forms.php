@@ -9,9 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderOrders.getNoticeIntervals.days'] = '1$s Gün';
 $lang['OrderOrders.getNoticeIntervals.day'] = '1 Gün';
-$lang['OrderOrders.getNoticeIntervals.hours'] = '1$s Saat';
 $lang['OrderOrders.getNoticeIntervals.hour'] = '1 Saat';
 $lang['OrderForms.getVisibilities.client'] = 'Sadece Müşteri';
 $lang['OrderForms.getVisibilities.shared'] = 'Paylaşılan';
@@ -32,4 +30,6 @@ $lang['OrderForms.!error.label.length'] = 'Etiket uzunluğu 32 karakteri geçeme
 $lang['OrderForms.!error.label.unique'] = 'Bu etikete sahip bir sipariş formu zaten mevcut.';
 $lang['OrderForms.!error.label.empty'] = 'Form için bir etiket girmelisiniz.';
 $lang['OrderForms.!error.name.empty'] = 'Form için bir ad girmelisiniz.';
+$lang['OrderOrders.getNoticeIntervals.days'] = '%1$s Günler';
+$lang['OrderOrders.getNoticeIntervals.hours'] = '%1$s Saatler';
 

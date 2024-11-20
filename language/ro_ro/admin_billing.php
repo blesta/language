@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Serviciile selectate au fost t
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Serviciile selectate nu mai sunt programate pentru a fi anulate.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Serviciile selectate au fost programate cu succes pentru a fi anulate.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Facturile selectate au fost marcate ca fiind tipărite.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Motivul suspendării:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Nesuspendare';
+$lang['AdminBilling.services.action.suspend'] = 'Suspendați';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Serviciile selectate au fost suspendate cu succes.';
+$lang['AdminBilling.!success.services_suspended'] = 'Serviciile selectate au fost suspendate cu succes.';
 

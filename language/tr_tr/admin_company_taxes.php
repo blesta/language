@@ -45,10 +45,8 @@ $lang['AdminCompanyTaxes.rules.heading_level2'] = 'Seviye 2 Kuralları';
 $lang['AdminCompanyTaxes.rules.heading_level1'] = 'Seviye 1 Kuralları';
 $lang['AdminCompanyTaxes.rules.boxtitle_rules'] = 'Vergi Kuralları';
 $lang['AdminCompanyTaxes.rules.categorylink_addrule'] = 'Vergi Kuralı Ekle';
-$lang['AdminCompanyTaxes.rules.no_results'] = '1$s seviyesinde vergi kuralları yoktur.';
 $lang['AdminCompanyTaxes.rules.page_title'] = 'Ayarlar > Şirket > Vergiler > Vergi Kuralları';
 $lang['AdminCompanyTaxes.basic.field_addsubmit'] = 'Ayarları Güncelle';
-$lang['AdminCompanyTaxes.basic.heading_tax_provider'] = '1$s Ayarlar';
 $lang['AdminCompanyTaxes.basic.field_taxid'] = 'Vergi Kimliği/VATIN';
 $lang['AdminCompanyTaxes.basic.note_cancelation_fee_tax'] = 'Etkinleştirilirse, tüm iptal ücretleri vergilendirilecektir.';
 $lang['AdminCompanyTaxes.basic.field_cancelation_fee_tax'] = 'Vergi İptal Ücretleri';
@@ -75,4 +73,6 @@ $lang['AdminCompanyTaxes.!success.rule_deleted'] = 'Vergi kuralı başarıyla si
 $lang['AdminCompanyTaxes.!success.taxrule_updated'] = 'Vergi kuralı başarıyla güncellendi!';
 $lang['AdminCompanyTaxes.!success.taxrule_created'] = 'Vergi kuralı başarıyla oluşturuldu!';
 $lang['AdminCompanyTaxes.!success.basic_updated'] = 'Temel Vergi ayarları başarıyla güncellendi!';
+$lang['AdminCompanyTaxes.rules.no_results'] = 'Seviye %1$s vergi kuralları yoktur.';
+$lang['AdminCompanyTaxes.basic.heading_tax_provider'] = '%1$s Ayarlar';
 

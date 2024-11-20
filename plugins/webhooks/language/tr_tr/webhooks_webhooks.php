@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Geri arama 255 karakteri ge�
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Lütfen geçerli bir geri arama girin.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Bu türde bir web kancası bu geri arama ile zaten mevcuttur.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Sağlanan şirket mevcut değildir.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Sağlanan olay mevcut değil.';
 

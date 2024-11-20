@@ -50,4 +50,9 @@ $lang['Logs.!error.group.unique'] = 'El ID de la tarea cron y el grupo ya han si
 $lang['Logs.!error.group.betweenlength'] = 'El grupo debe tener entre 1 y 32 caracteres.';
 $lang['Logs.!error.start_date.format'] = 'Formato de fecha de inicio no válido.';
 $lang['Logs.!error.end_date.format'] = 'Formato de fecha final no válido.';
+$lang['Logs.!error.new_service.format'] = 'El nuevo servicio debe ser un array.';
+$lang['Logs.!error.old_service.format'] = 'El servicio antiguo debe ser un array.';
+$lang['Logs.!error.transactions.exists'] = 'Una o más transacciones no existen.';
+$lang['Logs.!error.transaction_id.format'] = 'Las transacciones deben ser una matriz.';
+$lang['Logs.!error.service_id.exists'] = 'ID de servicio no válido.';
 

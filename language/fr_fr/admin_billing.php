@@ -175,4 +175,9 @@ $lang['AdminBilling.batch.no_passphrase'] = 'Le traitement manuel des lots n\'es
 $lang['AdminBilling.batch.text_description'] = 'Saisissez votre phrase de passe pour traiter manuellement par lots toutes les factures programmées pour le débit automatique avec un compte de paiement stocké localement.';
 $lang['AdminBilling.batch.field_passphrase'] = 'Phrase de passe';
 $lang['AdminBilling.batch.text_batchsubmit'] = 'Processus par lots';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Raison de la suspension :';
+$lang['AdminBilling.services.action.unsuspend'] = 'Mise en suspens';
+$lang['AdminBilling.services.action.suspend'] = 'Suspendre';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Les services sélectionnés ont été suspendus avec succès.';
+$lang['AdminBilling.!success.services_suspended'] = 'Les services sélectionnés ont été suspendus avec succès.';
 

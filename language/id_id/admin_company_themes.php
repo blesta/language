@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Tema telah berhasil diper
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Tema yang diimpor bukan tema antarmuka klien.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Tema yang diimpor bukanlah tema antarmuka admin.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Silakan unggah tema yang akan diimpor.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'CSS khusus';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'CSS khusus';
 

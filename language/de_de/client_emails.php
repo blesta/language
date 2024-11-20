@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Thema';
 $lang['ClientEmails.index.heading_date'] = 'Datum';
 $lang['ClientEmails.index.boxtitle_emails'] = 'E-Mail-Verlauf';
 $lang['ClientEmails.index.page_title'] = 'Kunde #%1$s E-Mail-Verlauf';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Text';
 

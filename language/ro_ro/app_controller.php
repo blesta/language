@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Simbolul formularului nu este vali
 $lang['AppController.!error.unauthorized_access'] = 'Nu sunteți autorizat să accesați această resursă';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișiere';
+$lang['AppController.!error.client_unauthorized_access'] = 'Nu aveți permisiunea de a accesa această resursă, vă rugăm să contactați titularul principal al contului pentru a solicita accesul';
 

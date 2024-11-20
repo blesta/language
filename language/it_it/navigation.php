@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Casa';
 $lang['Navigation.!error.parent_id.valid'] = 'ID elemento di navigazione genitore non valido';
 $lang['Navigation.!error.order.valid'] = 'L\'indice dell\'ordine deve essere un valore numerico';
 $lang['Navigation.!error.action_id.valid'] = 'ID azione non valido';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Modelli HTML';
 

@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Händelse';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Lägg till webhook';
 $lang['AdminMain.index.no_results'] = 'Det finns inga tillgängliga webbkrokar.';
 $lang['AdminMain.index.text_description_incoming'] = 'Tar emot en HTTP-begäran och utlöser en händelse i systemet med hjälp av de parametrar som tas emot i begäran. Begäran kan tas emot med GET, POST eller JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Skickar en HTTP-begäran till en URL när en händelse utlöses. Begäran kan skickas med GET, POST eller JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Skickar en HTTP-begäran till en URL när en händelse utlöses. Begäran kan skickas med GET, POST, PUT eller JSON.';
 $lang['AdminMain.index.option_delete'] = 'Radera';
 $lang['AdminMain.index.option_edit'] = 'Redigera';
 $lang['AdminMain.index.heading_options'] = 'Alternativ';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Webhooken har tagits bort framgå
 $lang['AdminMain.!success.webhook_updated'] = 'Webhooken uppdaterades framgångsrikt!';
 $lang['AdminMain.!success.webhook_added'] = 'Webhooken har lagts till framgångsrikt!';
 $lang['AdminMain.!tooltip.callback'] = 'Callbacken representerar var begäran ska skickas eller tas emot, för utgående webhooks måste det vara en URL och för inkommande webhooks måste det vara namnet på den URL där begäran skulle tas emot. t.ex. http://blesta.com/plugin/webhooks/trigger/index/[Callback Name].';
+$lang['AdminMain.edit.field_cancel'] = 'Avbryt';
+$lang['AdminMain.add.field_cancel'] = 'Avbryt';
 

@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Пожалуйста, 
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Пожалуйста, введите описание.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Пожалуйста, введите название этого отдела.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Неверный идентификатор компании.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Один или несколько приоритетов недействительны.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Выберите хотя бы один приоритет.';
 

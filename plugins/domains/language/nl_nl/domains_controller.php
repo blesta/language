@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Nameservers bi
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Domein vernieuwen';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Registrar wijzigen';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Auto verlengen';
+$lang['DomainsController.!error.move_error'] = 'De geselecteerde domeinen konden niet worden verplaatst naar de geselecteerde client.';
 

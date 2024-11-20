@@ -42,4 +42,11 @@ $lang['Signup.!error.not_client_owner'] = 'Je moet ingelogd zijn als de eigenaar
 $lang['Signup.!error.captcha.invalid'] = 'De ingevoerde captcha was ongeldig. Probeer het opnieuw.';
 $lang['Signup.index.field_recovery_email'] = 'Herstelmail (optioneel)';
 $lang['Signup.!error.email.blacklist'] = 'Je bestelling kan op dit moment niet worden verwerkt.';
+$lang['Signup.otp.field_submit'] = 'Aanmelden';
+$lang['Signup.otp.field_otp'] = 'Eenmalig wachtwoord';
+$lang['Signup.otp.login_heading'] = 'Aanmelden';
+$lang['Signup.otp.description'] = 'Voer uw eenmalige wachtwoord in.';
+$lang['Signup.otp.page_title'] = 'Aanmelden';
+$lang['Signup.index.field_agree_tos'] = 'Ik heb de <a href="%1$s" target="_blank">Algemene voorwaarden</a> gelezen en ga ermee akkoord';
+$lang['Signup.!error.invalid_agree_tos'] = 'U moet bevestigen dat u akkoord gaat met de algemene voorwaarden.';
 

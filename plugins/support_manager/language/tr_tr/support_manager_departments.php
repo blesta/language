@@ -10,10 +10,7 @@
  */
 
 $lang['SupportManagerDepartments.priorities.medium'] = 'Orta';
-$lang['SupportManagerDepartments.reminder_intervals.minutes'] = '1$s Dakika';
-$lang['SupportManagerDepartments.reminder_intervals.hours'] = '1$s Saat';
 $lang['SupportManagerDepartments.reminder_intervals.hour'] = '1 Saat';
-$lang['SupportManagerDepartments.ticket_intervals.days'] = '1$s Gün';
 $lang['SupportManagerDepartments.ticket_intervals.day'] = '1 Gün';
 $lang['SupportManagerDepartments.visibility_options.staff'] = 'Sadece Personel';
 $lang['SupportManagerDepartments.visibility_options.client'] = 'Müşteri ve Personel';
@@ -80,4 +77,9 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Lütfen geçerli bir e
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Lütfen bir açıklama girin.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Lütfen bu departman için bir isim girin.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
+$lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Saatler';
+$lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Dakika';
+$lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Günler';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Bir veya daha fazla öncelik geçersiz.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'En az bir öncelik seçin.';
 

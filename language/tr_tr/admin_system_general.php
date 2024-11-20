@@ -48,8 +48,6 @@ $lang['AdminSystemGeneral.maintenance.boxtitle_maintenance'] = 'Bakım';
 $lang['AdminSystemGeneral.maintenance.page_title'] = 'Ayarlar > Sistem > Genel > Bakım';
 $lang['AdminSystemGeneral.geoip.field_geoipsubmit'] = 'Ayarları Güncelle';
 $lang['AdminSystemGeneral.geoip.field_geoip_enabled'] = 'GeoIP\'yi Etkinleştir';
-$lang['AdminSystemGeneral.geoip.text_database_not_exists'] = '1$s mevcut değil.';
-$lang['AdminSystemGeneral.geoip.text_database_exists'] = '1$s var.';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_5'] = 'Bu dosyayı aşağıda belirtilen yoldan Blesta kurulumunuza yükleyin';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_4'] = '"GeoIP2 / GeoLite2 > Dosyaları İndir" altında GeoLite2-City ikili dosyasını indirin';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_3'] = 'Hesabınıza giriş yapın';
@@ -91,4 +89,6 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Lisans Anahtarınız ba�
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Bakım ayarları başarıyla güncellendi!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP ayarları başarıyla güncellendi!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Temel Kurulum ayarları başarıyla güncellendi!';
+$lang['AdminSystemGeneral.geoip.text_database_not_exists'] = '%1$s mevcut değil.';
+$lang['AdminSystemGeneral.geoip.text_database_exists'] = '%1$s var.';
 

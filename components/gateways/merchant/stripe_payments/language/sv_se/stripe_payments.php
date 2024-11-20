@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Det gick inte att ansluta til
 $lang['StripePayments.!error.secret_key.empty'] = 'Ange en hemlig nyckel.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Ange en publicerbar nyckel.';
 $lang['StripePayments.!error.auth'] = 'Gatewayen kunde inte autentisera.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Om du är en Stripe-användare baserad i Indien måste du alltid utföra 3D Secure-autentisering (3DS) innan du sparar ett nytt kort med Stripe.';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Presentera 3D Secure-utmaning när en klient sparar en betalningsmetod eller bearbetar en betalningsmetod (lagrad eller ej lagrad)';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Presentera 3D Secure-utmaning när en klient sparar en betalningsmetod eller behandlar en icke lagrad betalningsmetod';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Tillåt Stripe att avgöra när en 3D Secure-utmaning ska presenteras';
+$lang['StripePayments.request_three_d_secure'] = 'Flöde för 3D Secure-autentisering';
 

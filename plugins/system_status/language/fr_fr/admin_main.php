@@ -42,4 +42,6 @@ $lang['AdminMain.index.sql_mysql_version_serious'] = 'La version de MySQL ne cor
 $lang['AdminMain.index.sql_mysql_version_requirements'] = 'Voir les exigences minimales';
 $lang['AdminMain.index.sql_mariadb_version_serious'] = 'La version de MariaDB ne correspond pas à la configuration minimale requise.';
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Voir les exigences minimales';
+$lang['AdminMain.index.upload_dir_configure'] = 'Configurer ?';
+$lang['AdminMain.index.upload_dir'] = 'Le chemin du répertoire de téléchargement dans vos paramètres se trouve dans le répertoire web racine.  Il doit être placé au-dessus du répertoire web racine afin de garantir qu\'il ne sera jamais accessible au public.';
 

@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = '主题已成功更新。'
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = '导入的主题不是客户端界面主题。';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = '导入的主题不是管理界面主题。';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = '请上传要导入的主题。';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = '自定义 CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = '自定义 CSS';
 

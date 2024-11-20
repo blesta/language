@@ -42,4 +42,11 @@ $lang['Signup.index.continue_btn'] = 'Poursuivre le paiement';
 $lang['Signup.index.signup_btn'] = 'Créer un compte';
 $lang['Signup.!error.email.blacklist'] = 'Votre commande ne peut pas être traitée pour le moment.';
 $lang['Signup.index.field_recovery_email'] = 'Courriel de récupération (facultatif)';
+$lang['Signup.otp.field_submit'] = 'Se connecter';
+$lang['Signup.otp.field_otp'] = 'Mot de passe unique';
+$lang['Signup.otp.login_heading'] = 'Se connecter';
+$lang['Signup.otp.description'] = 'Veuillez saisir votre mot de passe à usage unique.';
+$lang['Signup.otp.page_title'] = 'Se connecter';
+$lang['Signup.index.field_agree_tos'] = 'J\'ai lu et j\'accepte les <a href="%1$s" target="_blank">conditions générales d\'utilisation</a>.';
+$lang['Signup.!error.invalid_agree_tos'] = 'Vous devez reconnaître que vous acceptez les conditions générales.';
 

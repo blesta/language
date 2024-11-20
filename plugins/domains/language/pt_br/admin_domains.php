@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.registrar_installed'] = 'O módulo foi instalado co
 $lang['AdminDomains.!success.registrar_upgraded'] = 'O módulo foi atualizado com sucesso.';
 $lang['AdminDomains.browse.heading_added'] = 'Data de adição';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'O registrador de domínios foi atualizado!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Excluir TLDs';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Código EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Proteção de identidade';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Encaminhamento de e-mail';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s não pôde ser atualizado para os seguintes TLDs: %2$s';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Gerenciamento de DNS';
+$lang['AdminDomains.!success.epp_code'] = 'O acesso ao código EPP foi atualizado com sucesso!';
+$lang['AdminDomains.!success.id_protection'] = 'O ID Protection foi atualizado com sucesso!';
+$lang['AdminDomains.!success.email_forwarding'] = 'O encaminhamento de e-mail foi atualizado com sucesso!';
+$lang['AdminDomains.!success.dns_management'] = 'O gerenciamento de DNS foi atualizado com sucesso!';
+$lang['AdminDomains.!success.delete_partial'] = 'Os seguintes TLDs não puderam ser excluídos porque estavam em uso: %1$s';
+$lang['AdminDomains.!success.delete'] = 'O TLD foi excluído com sucesso!';
 

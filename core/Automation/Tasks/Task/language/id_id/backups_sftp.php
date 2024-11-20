@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.attempt'] = 'Mencoba mencadangkan basis data melalui SFTP.';
-$lang['Automation.task.backups_sftp.completed'] = 'Tugas pencadangan basis data SFTP telah selesai.';
 $lang['Automation.task.backups_sftp.success'] = 'Pencadangan berhasil diselesaikan.';
+$lang['Automation.task.backups_sftp.completed'] = 'Tugas pencadangan basis data SFTP telah selesai.';
+$lang['Automation.task.backups_sftp.attempt'] = 'Mencoba mencadangkan basis data melalui SFTP.';
 

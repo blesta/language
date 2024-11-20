@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Serviciul nu poate fi r
 $lang['ClientServices.!error.invoices_change_term'] = 'Termenul nu poate fi modificat până când nu au fost plătite toate facturile care conțin acest serviciu.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Opțiunile configurabile nu pot fi modificate până când nu sunt plătite toate facturile care conțin acest serviciu.';
 $lang['ClientServices.!error.password_mismatch'] = 'Parola nu se potrivește cu parola de conectare.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Gestionați serviciul pentru părinți';
 

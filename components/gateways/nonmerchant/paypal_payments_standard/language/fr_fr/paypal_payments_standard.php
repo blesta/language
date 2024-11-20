@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.pay_type_both'] = 'Paiements uniques et par abonne
 $lang['PaypalPaymentsStandard.buildprocess.submit'] = 'Payer avec PayPal';
 $lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Vous devez saisir une adresse électronique valide.';
 $lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'Le mode développeur doit être défini sur "true" s\'il est indiqué.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Des doublons ont été trouvés dans vos données de cartographie, supprimez les doublons et réessayez.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Une ligne non valide a été trouvée dans vos données de cartographie, vérifiez si l\'adresse électronique et l\'ID du client sont valides et réessayez.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Destiné à être utilisé avec les abonnements PayPal qui ont été créés en dehors de Blesta. Faire correspondre payer_email à l\'ID interne du client, 1 par ligne. Par exemple : email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Cartographie des paiements';
 

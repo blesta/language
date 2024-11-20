@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.user_name.empty'] = 'Musíte zadat uživatelské jmén
 $lang['DirectAdmin.!error.port.format'] = 'Port musí být číslo.';
 $lang['DirectAdmin.!error.host_name.format'] = 'Název hostitele se zdá být neplatný.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Je třeba zadat označení serveru.';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP adresa';
+$lang['DirectAdmin.!error.ip_address.format'] = 'IP adresa se zdá být neplatná.';
 

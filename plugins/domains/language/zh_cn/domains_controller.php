@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = '更新域名';
 $lang['DomainsController.getDomainActions.update_nameservers'] = '更新域名服务器';
 $lang['DomainsController.getDomainActions.push_to_client'] = '推送到客户端';
 $lang['DomainsController.getDomainActions.unparent'] = '非亲和重置价格';
+$lang['DomainsController.!error.move_error'] = '所选域无法移动到所选客户端。';
 

@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Показати на�
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Приклад коду';
 $lang['PackageFeed.description'] = 'Повертає назву, опис або ціну пакета.';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Показувати ліміт кількості пакунків для клієнта:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Показувати залишок на складі (кількість) пакунка:';
 

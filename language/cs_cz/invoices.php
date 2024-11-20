@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.week'] = 'Týden';
 $lang['Invoices.getPricingPeriods.day'] = 'Den';
 $lang['Invoices.!error.line_items.minimum_split'] = 'Faktura musí mít alespoň 2 řádky, aby mohla být rozdělena.';
 $lang['Invoices.!error.line_items.empty_split'] = 'Nebyly vybrány žádné řádky faktury k rozdělení.';
+$lang['Invoices.!error.invoice_id.unique'] = 'Cílová faktura nesmí být součástí slučovaných faktur.';
+$lang['Invoices.!error.invoice_id.status'] = 'Cílová faktura musí být otevřená a bez transakcí.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Všechny faktury musí patřit stejnému klientovi.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Všechny faktury musí být otevřené a bez transakcí.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Všechny faktury musí mít stejnou měnu.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Je třeba vybrat alespoň dvě faktury.';
+$lang['Invoices.!line_item.parent_description'] = 'Služba pro děti %1$s - %2$s:';
 

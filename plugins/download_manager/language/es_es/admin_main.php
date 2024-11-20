@@ -113,4 +113,6 @@ $lang['AdminMain.editcategory.field_description'] = 'Descripción';
 $lang['AdminMain.editcategory.submit_edit'] = 'Categoría de actualización';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Cancelar';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.edit.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong>%1$s</strong>.';
 

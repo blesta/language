@@ -81,7 +81,6 @@ $lang['Ispmanager.manage.module_groups.delete'] = 'Silme';
 $lang['Ispmanager.manage.module_rows.delete'] = 'Silme';
 $lang['Ispmanager.manage.module_groups.edit'] = 'Düzenle';
 $lang['Ispmanager.manage.module_rows.edit'] = 'Düzenle';
-$lang['Ispmanager.manage.module_rows.count'] = '1$s / %2$s';
 $lang['Ispmanager.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['Ispmanager.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['Ispmanager.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -99,4 +98,5 @@ $lang['Ispmanager.module_row_plural'] = 'Sunucular';
 $lang['Ispmanager.module_row'] = 'Sunucu';
 $lang['Ispmanager.description'] = 'ispmanager, web sitelerini yönetmek, kullanıcılar oluşturmak, alan adlarını, e-postaları, veritabanlarını vb. işlemek için zengin özellikler sunar.';
 $lang['Ispmanager.name'] = 'ispmanager';
+$lang['Ispmanager.manage.module_rows.count'] = '%1$s / %2$s';
 

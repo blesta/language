@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Konfigurasi Manajer Doma
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Modul telah berhasil di-uninstall.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Modul berhasil dipasang.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Modul berhasil ditingkatkan.';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Menghapus TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Kode EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Perlindungan ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Penerusan Email';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Manajemen DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s tidak dapat diperbarui untuk TLD berikut: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Akses Kode EPP berhasil diperbarui!';
+$lang['AdminDomains.!success.id_protection'] = 'Perlindungan ID berhasil diperbarui!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Penerusan Email berhasil diperbarui!';
+$lang['AdminDomains.!success.dns_management'] = 'Manajemen DNS berhasil diperbarui!';
+$lang['AdminDomains.!success.delete_partial'] = 'TLD berikut ini tidak dapat dihapus karena sedang digunakan: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD berhasil dihapus!';
 

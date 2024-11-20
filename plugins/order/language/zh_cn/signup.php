@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = '您的电子邮件地址已收到�
 $lang['Signup.!notice.force_email_usernames'] = '您的用户名将与您的电子邮件地址相同。';
 $lang['Signup.!error.not_client_owner'] = '您必须以客户所有者身份登录才能继续。';
 $lang['Signup.!error.captcha.invalid'] = '输入的验证码无效。请重试。';
+$lang['Signup.otp.field_submit'] = '登录';
+$lang['Signup.otp.field_otp'] = '一次性密码';
+$lang['Signup.otp.login_heading'] = '登录';
+$lang['Signup.otp.description'] = '请输入您的一次性密码。';
+$lang['Signup.otp.page_title'] = '登录';
+$lang['Signup.index.field_agree_tos'] = '我已阅读并同意<a href="%1$s" target="_blank">条款和条件</a>';
+$lang['Signup.!error.invalid_agree_tos'] = '您必须确认同意条款和条件。';
 

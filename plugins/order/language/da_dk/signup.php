@@ -42,4 +42,11 @@ $lang['Signup.index.continue_btn'] = 'Fortsæt til kassen';
 $lang['Signup.index.signup_btn'] = 'Opret konto';
 $lang['Signup.!error.email.blacklist'] = 'Din ordre kan ikke behandles på nuværende tidspunkt.';
 $lang['Signup.index.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
+$lang['Signup.otp.field_submit'] = 'Log ind';
+$lang['Signup.otp.field_otp'] = 'Engangsadgangskode';
+$lang['Signup.otp.login_heading'] = 'Log ind';
+$lang['Signup.otp.description'] = 'Indtast venligst din engangsadgangskode.';
+$lang['Signup.otp.page_title'] = 'Log ind';
+$lang['Signup.index.field_agree_tos'] = 'Jeg har læst og accepterer <a href="%1$s" target="_blank">vilkår og betingelser.</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'Du skal bekræfte, at du er indforstået med vilkårene og betingelserne.';
 

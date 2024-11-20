@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.user_name.empty'] = 'U moet een gebruikersnaam invoere
 $lang['DirectAdmin.!error.port.format'] = 'De poort moet een nummer zijn.';
 $lang['DirectAdmin.!error.host_name.format'] = 'De hostnaam lijkt ongeldig te zijn.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'U moet een serverlabel invoeren.';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP-adres';
+$lang['DirectAdmin.!error.ip_address.format'] = 'Het IP-adres lijkt ongeldig te zijn.';
 

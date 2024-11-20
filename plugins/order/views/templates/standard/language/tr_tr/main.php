@@ -9,14 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Main.packages.term_years'] = '1$s yıl';
-$lang['Main.packages.term_year'] = '1$s yıl';
-$lang['Main.packages.term_months'] = '1$s ay';
-$lang['Main.packages.term_month'] = '1$s ay';
-$lang['Main.packages.term_weeks'] = '1$s hafta';
-$lang['Main.packages.term_week'] = '1$s hafta';
-$lang['Main.packages.term_days'] = '1$s gün';
-$lang['Main.packages.term_day'] = '1$s gün';
 $lang['Main.index.client_limit'] = 'Sınıra Ulaşıldı';
 $lang['Main.index.sold_out'] = 'Stokta yok';
 $lang['Main.index.select_btn'] = 'Sepete Ekle';
@@ -31,4 +23,12 @@ $lang['Main.steps.step_2_description'] = 'Konfigürasyon';
 $lang['Main.steps.step_2_name'] = 'Adım 2';
 $lang['Main.steps.step_1_description'] = 'Planınızı seçin';
 $lang['Main.steps.step_1_name'] = 'Adım 1';
+$lang['Main.packages.term_years'] = '%1$s yıl';
+$lang['Main.packages.term_year'] = '%1$s yıl';
+$lang['Main.packages.term_months'] = '%1$s ay';
+$lang['Main.packages.term_month'] = '%1$s ay';
+$lang['Main.packages.term_weeks'] = '%1$s haftalar';
+$lang['Main.packages.term_day'] = '%1$s günü';
+$lang['Main.packages.term_days'] = '%1$s gün';
+$lang['Main.packages.term_week'] = '%1$s haftası';
 

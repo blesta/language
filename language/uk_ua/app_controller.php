@@ -82,4 +82,5 @@ $lang['AppController.!success.license_updated'] = 'Ваша ліцензія у�
 $lang['AppController.!error.invalid_csrf'] = 'Токен форми недійсний.';
 $lang['AppController.!error.unauthorized_access'] = 'Ви не маєте права доступу до цього ресурсу';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.!error.client_unauthorized_access'] = 'Якщо у вас немає дозволу на доступ до цього ресурсу, зверніться до основного власника облікового запису, щоб отримати доступ';
 

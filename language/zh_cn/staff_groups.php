@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = '请输入姓名。';
 $lang['StaffGroups.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['StaffGroups.!error.staff_group_id.exists'] = '员工组 ID 无效。';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = '删除电子邮件附件';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = '删除 HTML 模板';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = '编辑 HTML 模板';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = '添加 HTML 模板';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 模板';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '高级编辑服务';
 

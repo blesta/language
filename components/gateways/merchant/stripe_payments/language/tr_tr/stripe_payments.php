@@ -9,7 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['StripePayments.charge_description'] = '1$s için ücretlendirme';
 $lang['StripePayments.charge_description_default'] = 'Belirtilen miktar için ücretlendirme';
 $lang['StripePayments.migrate_accounts'] = 'Hesapları Taşıma';
 $lang['StripePayments.warning_migrate_accounts'] = 'Bu geçiş aracını kullanmayı bitirene kadar eski Stripe ağ geçidini kaldırmayın. Bunu yapmanız aracı erişilemez hale getirecektir.';
@@ -22,7 +21,6 @@ $lang['StripePayments.tooltip_secret_key'] = 'API Gizli Anahtarınız canlı vey
 $lang['StripePayments.tooltip_publishable_key'] = 'API Yayınlanabilir Anahtarınız canlı veya test moduna özeldir. Doğru anahtarı kullandığınızdan emin olun.';
 $lang['StripePayments.secret_key'] = 'API Gizli Anahtarı';
 $lang['StripePayments.publishable_key'] = 'API Yayınlanabilir Anahtar';
-$lang['StripePayments.ach_form.mandate_future_usage'] = '1$s hizmetlerini kullanırsanız veya %1$s koşulları uyarınca periyodik olarak ek ürünler satın alırsanız, %1$s\'in banka hesabınızı periyodik olarak borçlandırmasına izin verirsiniz. Yukarıda izin verilen düzenli borçlandırmaların dışında kalan ödemeler, ancak sizin onayınız alındıktan sonra borçlandırılacaktır.';
 $lang['StripePayments.ach_form.mandate_authorization'] = 'Bu formu göndererek, %1$s\'in hizmetlerini kullanmanızdan ve/veya %1$s\'ten ürün satın almanızdan kaynaklanan ücretler için, %1$s\'in web sitesi ve koşulları uyarınca, bu yetki iptal edilene kadar, yukarıda belirtilen banka hesabını borçlandırması için %1$s\'e yetki vermiş olursunuz. Bu yetkiyi istediğiniz zaman %1$s\'e 30 (otuz) gün önceden bildirimde bulunarak değiştirebilir veya iptal edebilirsiniz.';
 $lang['StripePayments.ach_form.field_second_deposit'] = 'İkinci Para Yatırma';
 $lang['StripePayments.ach_form.field_first_deposit'] = 'İlk Para Yatırma';
@@ -41,4 +39,11 @@ $lang['StripePayments.!error.secret_key.empty'] = 'Lütfen bir Gizli Anahtar gir
 $lang['StripePayments.!error.publishable_key.empty'] = 'Lütfen bir Yayınlanabilir Anahtar girin.';
 $lang['StripePayments.!error.auth'] = 'Ağ geçidi kimlik doğrulaması yapamadı.';
 $lang['StripePayments.name'] = 'Stripe Payments';
+$lang['StripePayments.charge_description'] = 'Ücret %1$s için';
+$lang['StripePayments.ach_form.mandate_future_usage'] = 'Eğer %1$s hizmetlerini kullanırsanız veya %1$s şartları uyarınca periyodik olarak ek ürünler satın alırsanız, %1$s\'e banka hesabınızı periyodik olarak borçlandırması için yetki vermiş olursunuz. Yukarıda izin verilen düzenli borçlandırmaların dışında kalan ödemeler, ancak sizin onayınız alındıktan sonra borçlandırılacaktır.';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Bir müşteri bir ödeme yöntemini kaydettiğinde veya bir ödeme yöntemini işlediğinde (depolanmış veya depolanmamış) 3D Secure meydan okumasını sunun';
+$lang['StripePayments.request_three_d_secure_note'] = 'Hindistan\'da bulunan bir Stripe kullanıcısıysanız, Stripe ile yeni bir kart kaydetmeden önce her zaman 3D Secure (3DS) kimlik doğrulaması gerçekleştirmelisiniz.';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Bir müşteri bir ödeme yöntemini kaydettiğinde veya kaydedilmemiş bir ödeme yöntemini işlediğinde 3D Secure zorluğu sunma';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Stripe\'ın bir 3D Secure sorgusunun ne zaman sunulacağını belirlemesine izin verin';
+$lang['StripePayments.request_three_d_secure'] = '3D Secure Kimlik Doğrulama Akışı';
 

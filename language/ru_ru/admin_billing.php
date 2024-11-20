@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Выбранные служб�
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Выбранные услуги больше не планируется отменять.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Выбранные услуги были успешно отменены по расписанию.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Выбранные счета-фактуры были помечены как напечатанные.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Причина отстранения:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Развернуть';
+$lang['AdminBilling.services.action.suspend'] = 'Приостановить';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Выбранные службы были успешно отменены.';
+$lang['AdminBilling.!success.services_suspended'] = 'Выбранные службы были успешно приостановлены.';
 

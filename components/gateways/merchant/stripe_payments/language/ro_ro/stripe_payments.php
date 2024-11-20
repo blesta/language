@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Nu se poate conecta la Stripe
 $lang['StripePayments.!error.secret_key.empty'] = 'Vă rugăm să introduceți o cheie secretă.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Vă rugăm să introduceți o cheie publicabilă.';
 $lang['StripePayments.!error.auth'] = 'Poarta nu s-a putut autentifica.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Dacă sunteți un utilizator Stripe cu sediul în India, înainte de a salva un card nou cu Stripe trebuie să efectuați întotdeauna autentificarea 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Prezentați provocarea 3D Secure ori de câte ori un client salvează o metodă de plată sau procesează o metodă de plată (stocată sau nestocată)';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Prezentați provocarea 3D Secure ori de câte ori un client salvează o metodă de plată sau procesează o metodă de plată nesalvată';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Permiteți-i lui Stripe să determine când să prezinte o provocare 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Fluxul de autentificare 3D Secure';
 

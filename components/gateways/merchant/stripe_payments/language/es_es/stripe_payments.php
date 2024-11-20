@@ -41,4 +41,9 @@ $lang['StripePayments.warning_migrate_accounts'] = 'No desinstale la antigua pas
 $lang['StripePayments.migrate_accounts'] = 'Migrar cuentas';
 $lang['StripePayments.charge_description_default'] = 'Cargo por importe especificado';
 $lang['StripePayments.charge_description'] = 'Cargo por %1$s';
+$lang['StripePayments.request_three_d_secure_note'] = 'Si usted es un usuario de Stripe con sede en la India, antes de guardar una nueva tarjeta con Stripe siempre debe realizar la autenticación 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Presentar el desafío 3D Secure siempre que un cliente guarde un método de pago o procese un método de pago (almacenado o no almacenado)';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Presentar el desafío 3D Secure siempre que un cliente guarde un método de pago o procese un método de pago no almacenado.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Permitir que Stripe determine cuándo presentar un desafío 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Flujo de autenticación 3D Secure';
 

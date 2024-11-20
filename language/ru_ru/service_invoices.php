@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Максимальн�
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Неудачные попытки должны быть числом.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Неверный идентификатор счета-фактуры.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Неверный идентификатор службы.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Отмена';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Без подвеса';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Подвеска';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Обновление';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Обеспечение';
+$lang['ServiceInvoices.!error.type.valid'] = 'Неверный тип попытки.';
 

@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Token formuláře je neplatný.';
 $lang['AppController.!error.unauthorized_access'] = 'Nejste oprávněni k přístupu k tomuto zdroji';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
+$lang['AppController.!error.client_unauthorized_access'] = 'Nemáte oprávnění k přístupu k tomuto zdroji, obraťte se prosím na držitele primárního účtu a požádejte o přístup.';
 

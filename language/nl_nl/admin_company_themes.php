@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Het thema is met succes b
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Het geïmporteerde thema is geen thema voor de gebruikersinterface.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Het geïmporteerde thema is geen thema voor de beheerinterface.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Upload een thema om te importeren.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Aangepaste CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Aangepaste CSS';
 

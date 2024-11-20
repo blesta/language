@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.registrar_installed'] = '模块已成功安装。';
 $lang['AdminDomains.!success.registrar_upgraded'] = '模块已成功升级。';
 $lang['AdminDomains.!success.domain_registrar_updated'] = '域名注册商已更新！';
 $lang['AdminDomains.browse.heading_added'] = '添加日期';
+$lang['AdminDomains.getTldActions.option_delete'] = '删除 TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP 代码';
+$lang['AdminDomains.getTldActions.option_id_protection'] = '身份证保护';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = '电子邮件转发';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS 管理';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s 无法更新以下顶级域：%2$s';
+$lang['AdminDomains.!success.epp_code'] = 'EPP 代码访问已成功更新！';
+$lang['AdminDomains.!success.id_protection'] = 'ID 保护已成功更新！';
+$lang['AdminDomains.!success.email_forwarding'] = '电子邮件转发已成功更新！';
+$lang['AdminDomains.!success.dns_management'] = 'DNS 管理已成功更新！';
+$lang['AdminDomains.!success.delete_partial'] = '下列 TLD 因正在使用而无法删除：%1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD 已成功删除！';
 

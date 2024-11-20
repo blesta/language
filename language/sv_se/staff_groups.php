@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Vänligen ange ett namn.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ogiltigt ID för personalgrupp.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Ta bort e-postbilaga';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Ta bort HTML-mall';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Redigera HTML-mall';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Lägg till HTML-mall';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-mallar';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avancerad redigeringstjänst';
 

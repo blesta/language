@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderPlugin.!error.dom_required'] = 'Pro tento zásuvný modul je vyžadováno rozšíření dom.';
-$lang['FeedReaderPlugin.!error.libxml_required'] = 'Tento zásuvný modul vyžaduje rozšíření libxml.';
 $lang['FeedReaderPlugin.description'] = 'Zobrazení libovolného kanálu RSS/Atom přímo na ovládacím panelu.';
 $lang['FeedReaderPlugin.name'] = 'Čtečka krmiv';
+$lang['FeedReaderPlugin.!error.dom_required'] = 'Pro tento zásuvný modul je vyžadováno rozšíření dom.';
+$lang['FeedReaderPlugin.!error.libxml_required'] = 'Tento zásuvný modul vyžaduje rozšíření libxml.';
 

@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Οι αποτυχημ�
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Μη έγκυρο αναγνωριστικό τιμολογίου.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Μη έγκυρο αναγνωριστικό υπηρεσίας.';
 $lang['ServiceInvoices.!error.date_next_attempt.format'] = 'Η ημερομηνία της επόμενης προσπάθειας πρέπει να είναι ημερομηνία.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Ακύρωση';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Μη αναστολή';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Αναστολή';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Ανανέωση';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Παροχή υπηρεσιών';
+$lang['ServiceInvoices.!error.type.valid'] = 'Μη έγκυρος τύπος προσπάθειας.';
 

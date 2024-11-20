@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Όνομα στυλ σελίδας
 $lang['PaypalPaymentsStandard.account_id'] = 'Email λογαριασμού PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'Το PayPal Payments Standard είναι ένας από τους ευκολότερους τρόπους ασφαλούς αποδοχής πληρωμών με πιστωτική κάρτα και PayPal στο διαδίκτυο.';
 $lang['PaypalPaymentsStandard.name'] = 'Πληρωμές PayPal Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Βρέθηκαν διπλά μηνύματα ηλεκτρονικού ταχυδρομείου στα δεδομένα χαρτογράφησης, αφαιρέστε τα διπλά και δοκιμάστε ξανά.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Βρέθηκε μια άκυρη γραμμή στα δεδομένα χαρτογράφησης, ελέγξτε αν η διεύθυνση ηλεκτρονικού ταχυδρομείου και το αναγνωριστικό πελάτη είναι έγκυρα και προσπαθήστε ξανά.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Προορίζεται για χρήση με συνδρομές PayPal που δημιουργήθηκαν εκτός Blesta. Αντιστοιχίστε το payer_email στο εσωτερικό αναγνωριστικό πελάτη, 1 ανά γραμμή. Για παράδειγμα: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Χαρτογράφηση πληρωμών';
 

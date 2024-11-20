@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'De vereist
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Het aangepaste veld van de klant is verwijderd.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Het aangepaste veld voor de klant is succesvol aangemaakt.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Het aangepaste veld van de klant is bijgewerkt.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Er zijn geen geïnstalleerde gateways.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybride';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Handelaar';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Niet-handelaar';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Type';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gateway';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'inschakelen';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-beperkingen inschakelen';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beperk welke gateways clients kunnen gebruiken. Standaard zijn gatewaybeperkingen uitgeschakeld en zijn alle gateways beschikbaar.';
 

@@ -10,6 +10,6 @@
  */
 
 $lang['Module.!error.general'] = 'Modül ile istek işlenirken bir hata oluştu.';
-$lang['Module.!error.invalid'] = 'Geçersiz veya tanınmayan bir API yanıtı alındı.';
 $lang['Module.!error.unsupported'] = 'Modül bu eylemi desteklemez.';
+$lang['Module.!error.invalid'] = 'Geçersiz veya tanınmayan bir API yanıtı alındı.';
 

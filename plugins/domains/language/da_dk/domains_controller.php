@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Opdater navnes
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Forny domæne';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Skift registrator';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Skift automatisk fornyelse';
+$lang['DomainsController.!error.move_error'] = 'De valgte domæner kunne ikke flyttes til den valgte klient.';
 

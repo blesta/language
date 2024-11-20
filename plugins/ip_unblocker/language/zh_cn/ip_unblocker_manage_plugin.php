@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerManagePlugin.!success.settings_updated'] = '设置已成功更新！';
-$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP 解除封堵器';
-$lang['IpUnblockerManagePlugin.index.client_set_ip'] = '允许客户端提供 IP 地址';
 $lang['IpUnblockerManagePlugin.index.submit_settings'] = '节省';
+$lang['IpUnblockerManagePlugin.index.client_set_ip'] = '允许客户端提供 IP 地址';
+$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP 解除封堵器';
+$lang['IpUnblockerManagePlugin.!success.settings_updated'] = '设置已成功更新！';
 

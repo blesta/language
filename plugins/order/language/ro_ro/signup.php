@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'A fost trimis un mesaj pentru a ve
 $lang['Signup.!notice.force_email_usernames'] = 'Numele dvs. de utilizator va fi același cu adresa dvs. de e-mail.';
 $lang['Signup.!error.not_client_owner'] = 'Trebuie să vă conectați ca proprietar al clientului pentru a continua.';
 $lang['Signup.!error.captcha.invalid'] = 'Captcha introdus a fost invalid. Vă rugăm să încercați din nou.';
+$lang['Signup.otp.field_submit'] = 'Conectați-vă';
+$lang['Signup.otp.field_otp'] = 'Parolă unică';
+$lang['Signup.otp.login_heading'] = 'Conectați-vă';
+$lang['Signup.otp.description'] = 'Vă rugăm să introduceți parola unică.';
+$lang['Signup.otp.page_title'] = 'Conectați-vă';
+$lang['Signup.index.field_agree_tos'] = 'Am citit și sunt de acord cu <a href="%1$s" target="_blank">Termenii și condițiile</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'Trebuie să confirmați că sunteți de acord cu termenii și condițiile.';
 

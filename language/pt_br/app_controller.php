@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'O token do formulário é inválid
 $lang['AppController.!error.unauthorized_access'] = 'Você não está autorizado a acessar esse recurso';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Solte os arquivos aqui para fazer upload ou clique para selecionar os arquivos';
+$lang['AppController.!error.client_unauthorized_access'] = 'Você não tem permissão para acessar esse recurso. Entre em contato com o titular da conta principal para solicitar acesso';
 

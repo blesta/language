@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = '页面样式名称';
 $lang['PaypalPaymentsStandard.account_id'] = '贝宝账户电子邮件';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal 标准支付是安全接受信用卡和 PayPal 在线支付的最简单方法之一。';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = '在您的映射数据中发现了重复的电子邮件，请删除重复内容并重试。';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = '在映射数据中发现无效行，请检查电子邮件地址和客户 ID 是否有效，然后重试。';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = '用于在 Blesta 之外创建的 PayPal 订阅。将 payer_email 映射到内部客户 ID，每行 1 个。例如：email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = '支付映射';
 

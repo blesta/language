@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s jurnalele vech
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s jurnalele vechi ale Gateway au fost șterse.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Sarcina de curățare a jurnalelor s-a încheiat.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Încercarea de a curăța jurnalele vechi.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s vechile jurnale Service Changes au fost șterse.';
 

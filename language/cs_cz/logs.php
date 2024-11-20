@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Chybí adresa from.';
 $lang['Logs.!error.to_address.empty'] = 'Chybí a na adresu.';
 $lang['Logs.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['Logs.!error.deletelog_datetime'] = 'Nesprávný formát data.';
+$lang['Logs.!error.new_service.format'] = 'Nová služba musí být pole.';
+$lang['Logs.!error.old_service.format'] = 'Stará služba musí být pole.';
+$lang['Logs.!error.transactions.exists'] = 'Jedna nebo více transakcí neexistuje.';
+$lang['Logs.!error.transaction_id.format'] = 'Transakce musí být pole.';
+$lang['Logs.!error.service_id.exists'] = 'Neplatné ID služby.';
 

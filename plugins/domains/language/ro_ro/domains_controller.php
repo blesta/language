@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Actualizarea N
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Reînnoiți domeniul';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Schimbă registratorul';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Schimbare reînnoire auto';
+$lang['DomainsController.!error.move_error'] = 'Domeniile selectate nu au putut fi mutate la clientul selectat.';
 

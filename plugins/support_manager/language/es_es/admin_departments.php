@@ -144,4 +144,6 @@ $lang['AdminDepartments.edit.heading_value'] = 'Valor';
 $lang['AdminDepartments.edit.heading_default'] = 'Por defecto';
 $lang['AdminDepartments.edit.text_delete'] = 'Borrar';
 $lang['AdminDepartments.edit.text_add'] = 'Añadir';
+$lang['AdminDepartments.edit.field_priorities'] = 'Prioridades disponibles';
+$lang['AdminDepartments.add.field_priorities'] = 'Prioridades disponibles';
 

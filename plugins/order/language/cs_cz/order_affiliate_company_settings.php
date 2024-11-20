@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Neplatné ID společnosti.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Opraveno';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Procento';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Jakýkoli';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'První';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Procento';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Opraveno';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 

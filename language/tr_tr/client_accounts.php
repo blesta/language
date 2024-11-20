@@ -61,8 +61,6 @@ $lang['ClientAccounts.index.no_results'] = 'Ödeme hesabınız yok.';
 $lang['ClientAccounts.index.field_removeautodebit'] = 'Otomatik Borçlandırmayı Kaldır';
 $lang['ClientAccounts.index.field_accountsubmit'] = 'Varsayılan Ödeme Hesabı Olarak Ayarla';
 $lang['ClientAccounts.index.confirm_delete'] = 'Bu ödeme hesabını silmek istediğinizden emin misiniz?';
-$lang['ClientAccounts.index.type_ach'] = '1$s - %2$s';
-$lang['ClientAccounts.index.type_cc'] = '1$s - %2$s';
 $lang['ClientAccounts.index.option_delete'] = 'Silme';
 $lang['ClientAccounts.index.option_verify'] = 'Doğrulama';
 $lang['ClientAccounts.index.option_edit'] = 'Düzenle';
@@ -91,4 +89,6 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Ödeme hesabı başarıyla
 $lang['ClientAccounts.!success.account_created'] = 'Ödeme hesabı başarıyla oluşturuldu.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Varsayılan ödeme hesabı kaldırıldı.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Varsayılan ödeme hesabı güncellendi.';
+$lang['ClientAccounts.index.type_ach'] = '%1$s - %2$s';
+$lang['ClientAccounts.index.type_cc'] = '%1$s - %2$s';
 

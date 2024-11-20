@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Файл успешно добавле
 $lang['AdminMain.!success.category_deleted'] = 'Категория была успешно удалена.';
 $lang['AdminMain.!success.category_updated'] = 'Категория была успешно обновлена.';
 $lang['AdminMain.!success.category_added'] = 'Категория была успешно создана.';
+$lang['AdminMain.edit.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong>%1$s</strong>.';
 

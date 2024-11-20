@@ -93,4 +93,10 @@ $lang['Virtualmin.!error.virtualmin_username.format'] = 'Le nom d\'utilisateur n
 $lang['Virtualmin.!error.virtualmin_username.test'] = 'Le nom d\'utilisateur ne peut pas commencer par "test".';
 $lang['Virtualmin.!error.virtualmin_username.length'] = 'Le nom d\'utilisateur doit comporter entre 1 et 16 caractères.';
 $lang['Virtualmin.!error.virtualmin_password.valid'] = 'Le mot de passe doit comporter au moins 8 caractères.';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Un ou plusieurs domaines du paquet ne sont pas valides.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Entrez une liste CSV de domaines qui seront disponibles pour provisionner des sous-domaines, par exemple "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Liste des domaines disponibles';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Désactiver';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Activer';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Autoriser la vente de sous-domaines';
 

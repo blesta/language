@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s is de standaardgroep en
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s is succesvol verwijderd!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s is succesvol bewerkt!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s is succesvol aangemaakt!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Toegestane gateways';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Toegestane gateways';
 

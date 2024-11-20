@@ -10,7 +10,7 @@
  */
 
 $lang['Offline.!error.instructions.valid'] = 'Bazı talimatlar girmelisiniz.';
-$lang['Offline.description'] = 'Ödemeleri çevrimdışı almak için özel talimatlar görüntülemenizi sağlar';
 $lang['Offline.instructions'] = 'Talimatlar';
+$lang['Offline.description'] = 'Ödemeleri çevrimdışı almak için özel talimatlar görüntülemenizi sağlar';
 $lang['Offline.name'] = 'Offline Payment';
 

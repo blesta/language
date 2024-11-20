@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Modulul a fost instalat cu
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Modulul a fost actualizat cu succes.';
 $lang['AdminDomains.browse.heading_added'] = 'Data adăugării';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Registrul de domenii a fost actualizat!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Ștergeți TLD-uri';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Codul EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Protecție ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Transmiterea e-mailurilor';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Gestionarea DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s nu au putut fi actualizate pentru următoarele TLD-uri: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Codul de acces EPP a fost actualizat cu succes!';
+$lang['AdminDomains.!success.id_protection'] = 'Protecția ID a fost actualizată cu succes!';
+$lang['AdminDomains.!success.email_forwarding'] = 'E-mail Forwarding a fost actualizat cu succes!';
+$lang['AdminDomains.!success.dns_management'] = 'Gestionarea DNS a fost actualizată cu succes!';
+$lang['AdminDomains.!success.delete_partial'] = 'Următoarele TLD-uri nu au putut fi șterse deoarece erau în uz: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD au fost șterse cu succes!';
 

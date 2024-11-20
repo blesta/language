@@ -82,4 +82,5 @@ $lang['AppController.!success.license_updated'] = 'Lisensi Anda berhasil divalid
 $lang['AppController.!error.invalid_csrf'] = 'Token formulir tidak valid.';
 $lang['AppController.!error.unauthorized_access'] = 'Anda tidak berwenang untuk mengakses sumber daya tersebut';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.!error.client_unauthorized_access'] = 'Anda tidak memiliki izin untuk mengakses sumber daya tersebut, silakan hubungi pemegang akun utama untuk meminta akses';
 

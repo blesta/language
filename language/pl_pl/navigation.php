@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Strona główna';
 $lang['Navigation.!error.parent_id.valid'] = 'Nieprawidłowy identyfikator elementu nawigacji nadrzędnej';
 $lang['Navigation.!error.order.valid'] = 'Indeks zamówienia musi być wartością liczbową';
 $lang['Navigation.!error.action_id.valid'] = 'Nieprawidłowy identyfikator akcji';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Szablony HTML';
 

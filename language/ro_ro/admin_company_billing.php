@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Cuponul a fost actualiza
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Cuponul a fost creat cu succes!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Anunțurile au fost actualizate cu succes!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Setările de facturare și taxare au fost actualizate cu succes!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'A doua încercare de spațiere';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Pragul de spațiere al celei de a doua încercări';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Spațierea primei încercări';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Pragul de spațiere a primei încercări';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Încercări';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Tip';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Acțiuni de serviciu';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Încercări de furnizare a serviciilor';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Numărul de acțiuni de serviciu care trebuie încercate înainte de întârzierea următoarei încercări cu valoarea specificată de setarea spațiării celei de-a doua încercări';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Numărul de acțiuni de serviciu care trebuie încercate înainte de întârzierea următoarei încercări cu valoarea specificată de setarea spațiării primei încercări';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Numărul de încercări și eșecuri de procesat pentru o acțiune de serviciu înainte ca respectiva acțiune de serviciu să fie dezactivată de la finalizarea automată.';
 

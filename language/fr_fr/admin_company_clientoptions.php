@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'Courriel';
 $lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Téléphone';
 $lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
 $lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Mise à jour des paramètres';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Il n\'y a pas de passerelles installées.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybride';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Marchand';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non-marchand';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Type';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Passerelle';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activer';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activer les restrictions de la passerelle';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limite les passerelles que les clients peuvent utiliser. Par défaut, les restrictions sur les passerelles sont désactivées et toutes les passerelles sont disponibles.';
 

@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s gamla modullog
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s gamla Gateway-loggar har raderats.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Uppgiften att rensa loggar har slutförts.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Försöker rensa upp bland gamla loggar.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s gamla Service Changes-loggar har tagits bort.';
 

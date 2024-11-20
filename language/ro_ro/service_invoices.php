@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Numărul maxim de în
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Încercările eșuate trebuie să fie un număr.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'ID-ul facturii nu este valid.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'ID de serviciu invalid.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Anulare';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Nesuspendare';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Suspensie';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Reînnoire';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Aprovizionare';
+$lang['ServiceInvoices.!error.type.valid'] = 'Tip de încercare invalid.';
 

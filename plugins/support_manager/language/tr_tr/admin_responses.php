@@ -42,10 +42,10 @@ $lang['AdminResponses.addcategory.page_title'] = 'Destek Yöneticisi > Kategori 
 $lang['AdminResponses.edit.page_title'] = 'Destek Yöneticisi > Önceden Tanımlanmış Yanıtı Düzenle';
 $lang['AdminResponses.add.page_title'] = 'Destek Yöneticisi > Önceden Tanımlı Yanıt Ekle';
 $lang['AdminResponses.index.page_title'] = 'Destek Yöneticisi > Önceden Tanımlanmış Yanıtlar';
-$lang['AdminResponses.!success.response_deleted'] = '1$s yanıtı başarıyla silindi.';
-$lang['AdminResponses.!success.response_updated'] = '1$s yanıtı başarıyla güncellendi.';
-$lang['AdminResponses.!success.response_added'] = '1$s yanıtı başarıyla eklendi.';
-$lang['AdminResponses.!success.category_deleted'] = '1$s kategorisi başarıyla silindi.';
-$lang['AdminResponses.!success.category_updated'] = '1$s kategorisi başarıyla güncellendi.';
-$lang['AdminResponses.!success.category_added'] = '1$s kategorisi başarıyla eklendi.';
+$lang['AdminResponses.!success.response_deleted'] = 'Yanıt %1$s başarıyla silindi.';
+$lang['AdminResponses.!success.response_updated'] = 'Yanıt %1$s başarıyla güncellendi.';
+$lang['AdminResponses.!success.response_added'] = 'Yanıt %1$s başarıyla eklendi.';
+$lang['AdminResponses.!success.category_deleted'] = 'Kategori %1$s başarıyla silindi.';
+$lang['AdminResponses.!success.category_updated'] = 'Kategori %1$s başarıyla güncellendi.';
+$lang['AdminResponses.!success.category_added'] = 'Kategori %1$s başarıyla eklendi.';
 

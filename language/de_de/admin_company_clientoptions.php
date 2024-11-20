@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Die erford
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Das kundenspezifische Feld wurde erfolgreich gelöscht.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Das kundenspezifische Feld wurde erfolgreich erstellt.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Das kundenspezifische Feld wurde erfolgreich aktualisiert.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Es sind keine Gateways installiert.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybride';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Händler';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Nicht-Händler';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gateway';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktivieren Sie';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-Einschränkungen aktivieren';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beschränken Sie die Gateways, die Clients verwenden können. Standardmäßig sind Gateway-Einschränkungen deaktiviert und alle Gateways sind verfügbar.';
 

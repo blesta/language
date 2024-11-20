@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = 'Os registros antigo
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s registros antigos do Gateway foram excluídos.';
 $lang['Automation.task.cleanup_logs.completed'] = 'A tarefa de limpeza de registros foi concluída.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Tentativa de limpar os registros antigos.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s Os registros antigos de alterações de serviço foram excluídos.';
 

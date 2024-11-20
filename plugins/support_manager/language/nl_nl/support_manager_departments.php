@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Voer een geldig e-mail
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Voer een beschrijving in.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Voer een naam in voor deze afdeling.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Een of meer prioriteiten zijn ongeldig.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecteer minstens één prioriteit.';
 

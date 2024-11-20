@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Foi enviada uma mensagem para veri
 $lang['Signup.!notice.force_email_usernames'] = 'Seu nome de usuário será o mesmo que seu endereço de e-mail.';
 $lang['Signup.!error.not_client_owner'] = 'Você deve estar conectado como proprietário do cliente para poder continuar.';
 $lang['Signup.!error.captcha.invalid'] = 'O captcha inserido é inválido. Por favor, tente novamente.';
+$lang['Signup.otp.field_submit'] = 'Fazer login';
+$lang['Signup.otp.field_otp'] = 'Senha de uso único';
+$lang['Signup.otp.login_heading'] = 'Fazer login';
+$lang['Signup.otp.description'] = 'Digite sua senha de uso único.';
+$lang['Signup.otp.page_title'] = 'Fazer login';
+$lang['Signup.index.field_agree_tos'] = 'Eu li e concordo com os <a href="%1$s" target="_blank">Termos e Condições</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'Você deve confirmar sua concordância com os termos e condições.';
 

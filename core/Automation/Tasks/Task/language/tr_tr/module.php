@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.module.attempt'] = '1$s %2$s için cron modülü deneniyor.';
-$lang['Automation.task.module.completed'] = '1$s %2$s için cron modülü tamamlandı.';
+$lang['Automation.task.module.attempt'] = '%1$s %2$s için cron modülü deneniyor.';
+$lang['Automation.task.module.completed'] = '%1$s %2$s için cron modülü tamamlandı.';
 

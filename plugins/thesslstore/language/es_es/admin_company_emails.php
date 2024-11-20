@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Notificación enviada antes de 30 días de la fecha de expiración del certificado.';
 $lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_name'] = 'Recordatorio de caducidad del certificado SSL';
+$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Notificación enviada antes de 30 días de la fecha de expiración del certificado.';
 

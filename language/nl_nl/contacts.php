@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.format'] = 'Ongeldig contacttype.';
 $lang['Contacts.!error.user_id.exists'] = 'Ongeldig gebruikers-ID.';
 $lang['Contacts.!error.client_id.exists'] = 'Ongeldig client-ID.';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Offertes';
+$lang['Contacts.!error.number.required'] = 'Het contactnummer is vereist.';
 

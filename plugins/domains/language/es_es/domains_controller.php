@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Actualizar ser
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Renovar dominio';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Cambiar Registrador';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Cambiar la renovación automática';
+$lang['DomainsController.!error.move_error'] = 'Los dominios seleccionados no se han podido trasladar al cliente seleccionado.';
 

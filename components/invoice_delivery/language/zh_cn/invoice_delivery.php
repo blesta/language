@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.!error.libxml_required'] = '发票交付需要 libxml 和 simplexml 扩展。';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = '发票 #%1$s';
 $lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = '发票 #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = '发票 #%1$s';
+$lang['InvoiceDelivery.!error.libxml_required'] = '发票交付需要 libxml 和 simplexml 扩展。';
 

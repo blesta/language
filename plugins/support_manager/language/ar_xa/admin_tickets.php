@@ -1,0 +1,134 @@
+<?php
+/**
+ * Admin Tickets
+ *
+ * @package blesta
+ * @subpackage blesta.language.ar_xa
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminTickets.search.no_results'] = 'لا توجد تذاكر تطابق معايير البحث.';
+$lang['AdminTickets.search.heading_last_reply_date'] = 'آخر رد';
+$lang['AdminTickets.search.heading_summary'] = 'الملخص';
+$lang['AdminTickets.search.heading_department_name'] = 'القسم';
+$lang['AdminTickets.search.heading_status'] = 'الحالة';
+$lang['AdminTickets.search.heading_priority'] = 'الأولوية';
+$lang['AdminTickets.search.heading_code'] = 'رقم التذكرة';
+$lang['AdminTickets.search.boxtitle_tickets'] = 'ابحث عن تذاكر البحث عن "%1$s"';
+$lang['AdminTickets.client.no_results'] = 'لا توجد حالياً أي تذاكر بهذه الحالة.';
+$lang['AdminTickets.client.heading_last_reply_date'] = 'آخر رد';
+$lang['AdminTickets.client.heading_summary'] = 'الملخص';
+$lang['AdminTickets.client.heading_department_name'] = 'القسم';
+$lang['AdminTickets.client.heading_priority'] = 'الأولوية';
+$lang['AdminTickets.client.heading_code'] = 'رقم التذكرة';
+$lang['AdminTickets.client.boxtitle_tickets'] = 'التذاكر';
+$lang['AdminTickets.client.categorylink_createticket'] = 'فتح التذكرة';
+$lang['AdminTickets.client.category_trash'] = 'القمامة';
+$lang['AdminTickets.client.category_closed'] = 'مغلق';
+$lang['AdminTickets.client.category_on_hold'] = 'قيد الانتظار';
+$lang['AdminTickets.client.category_in_progress'] = 'قيد التنفيذ';
+$lang['AdminTickets.client.category_awaiting_reply'] = 'في انتظار رد العميل';
+$lang['AdminTickets.client.category_open'] = 'في انتظار رد الموظفين';
+$lang['AdminTickets.reply.dropzone_remove_file'] = 'إزالة ملف';
+$lang['AdminTickets.reply.dropzone_drop_files_here'] = 'قم بإسقاط الملفات هنا للتحميل أو انقر لتحديد الملفات';
+$lang['AdminTickets.reply.staff_title'] = 'موظفو الدعم';
+$lang['AdminTickets.reply.system'] = 'النظام';
+$lang['AdminTickets.reply.log_date'] = '%1$s بواسطة %2$s %3$s';
+$lang['AdminTickets.reply.reply_date'] = 'على %1$s %2$s %3$s أجاب ';
+$lang['AdminTickets.reply.refresh_link'] = 'انقر للعرض.';
+$lang['AdminTickets.reply.refresh'] = 'هناك ردود جديدة أو تغييرات في الحالة.';
+$lang['AdminTickets.reply.field_actionsubmit'] = 'اذهب';
+$lang['AdminTickets.reply.field_replysubmit'] = 'تذكرة التحديث';
+$lang['AdminTickets.reply.text_add_attachment'] = 'إضافة مرفق';
+$lang['AdminTickets.reply.field_attachments'] = 'المرفقات';
+$lang['AdminTickets.reply.field_note'] = 'ملاحظة';
+$lang['AdminTickets.reply.field_reply'] = 'الرد';
+$lang['AdminTickets.reply.heading_reply'] = 'إضافة رد';
+$lang['AdminTickets.reply.text_with_selected'] = 'مع الردود المحددة، قم بتنفيذ:';
+$lang['AdminTickets.reply.text_add_response'] = 'إدراج استجابة محددة مسبقاً';
+$lang['AdminTickets.reply.heading_date_added'] = 'تاريخ الافتتاح';
+$lang['AdminTickets.reply.heading_status'] = 'الحالة';
+$lang['AdminTickets.reply.heading_priority'] = 'الأولوية';
+$lang['AdminTickets.reply.heading_staff_id'] = 'تم التعيين إلى';
+$lang['AdminTickets.reply.heading_department'] = 'القسم';
+$lang['AdminTickets.reply.heading_client'] = 'العميل';
+$lang['AdminTickets.reply.heading_summary'] = 'الملخص';
+$lang['AdminTickets.reply.boxtitle_reply'] = 'التذكرة رقم%1$s';
+$lang['AdminTickets.add.dropzone_remove_file'] = 'إزالة ملف';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'قم بإسقاط الملفات هنا للتحميل أو انقر لتحديد الملفات';
+$lang['AdminTickets.add.text_add_response'] = 'إدراج استجابة محددة مسبقاً';
+$lang['Admintickets.add.client_placeholder'] = 'معرف العميل أو الاسم';
+$lang['AdminTickets.add.field_addsubmit'] = 'فتح التذكرة';
+$lang['AdminTickets.add.text_add_attachment'] = 'إضافة مرفق';
+$lang['AdminTickets.add.field_details'] = 'التفاصيل';
+$lang['AdminTickets.add.field_attachments'] = 'المرفقات';
+$lang['AdminTickets.add.heading_status'] = 'الحالة';
+$lang['AdminTickets.add.heading_priority'] = 'الأولوية';
+$lang['AdminTickets.add.heading_staff_id'] = 'تم التعيين إلى';
+$lang['AdminTickets.add.heading_department'] = 'القسم';
+$lang['AdminTickets.add.heading_client'] = 'العميل';
+$lang['AdminTickets.add.heading_summary'] = 'الملخص';
+$lang['AdminTickets.add.text_no_clients'] = 'لم يتم العثور على عملاء. حاول البحث مرة أخرى';
+$lang['AdminTickets.add.heading_search_client'] = 'البحث عن العميل';
+$lang['AdminTickets.add.boxtitle_add'] = 'فتح التذكرة';
+$lang['AdminTickets.index.ticket_email'] = '#%1$s %2$s';
+$lang['AdminTickets.index.ticket_name'] = '#%1$s %2$s %3$s';
+$lang['AdminTickets.index.field_actionsubmit'] = 'إرسال';
+$lang['AdminTickets.index.text_no_tickets'] = 'لم يتم العثور على تذاكر مفتوحة. حاول البحث مرة أخرى.';
+$lang['AdminTickets.index.ticket_number_placeholder'] = 'رقم التذكرة';
+$lang['AdminTickets.index.text_to_status'] = 'تغيير إلى:';
+$lang['AdminTickets.index.text_to_client'] = 'للعميل:';
+$lang['AdminTickets.index.text_into_ticket'] = 'في التذكرة';
+$lang['AdminTickets.index.text_with_selected'] = 'مع التذاكر المختارة، قم بالأداء';
+$lang['AdminTickets.index.no_results'] = 'لا توجد حالياً أي تذاكر بهذه الحالة.';
+$lang['AdminTickets.index.last_reply_by'] = 'بواسطة';
+$lang['AdminTickets.index.unassigned'] = 'غير مخصص';
+$lang['AdminTickets.index.field_last_reply'] = 'آخر رد';
+$lang['AdminTickets.index.field_assigned_staff'] = 'تم التعيين إلى';
+$lang['AdminTickets.index.field_summary'] = 'الملخص';
+$lang['AdminTickets.index.field_department_id'] = 'القسم';
+$lang['AdminTickets.index.field_priority'] = 'الأولوية';
+$lang['AdminTickets.index.field_ticket_number'] = 'رقم التذكرة';
+$lang['AdminTickets.index.hours'] = '%1$s ساعات';
+$lang['AdminTickets.index.hour'] = '1 ساعة';
+$lang['AdminTickets.index.minutes'] = '%1$s الدقائق';
+$lang['AdminTickets.index.any'] = 'أي';
+$lang['AdminTickets.index.heading_last_reply_date'] = 'آخر رد';
+$lang['AdminTickets.index.heading_assigned_staff'] = 'تم التعيين إلى';
+$lang['AdminTickets.index.heading_summary'] = 'الملخص';
+$lang['AdminTickets.index.heading_department_name'] = 'القسم';
+$lang['AdminTickets.index.heading_priority'] = 'الأولوية';
+$lang['AdminTickets.index.heading_client'] = 'العميل';
+$lang['AdminTickets.index.heading_code'] = 'رقم التذكرة';
+$lang['AdminTickets.index.boxtitle_tickets'] = 'التذاكر';
+$lang['AdminTickets.index.categorylink_createticket'] = 'فتح التذكرة';
+$lang['AdminTickets.index.category_trash'] = 'القمامة';
+$lang['AdminTickets.index.category_closed'] = 'مغلق';
+$lang['AdminTickets.index.category_on_hold'] = 'قيد الانتظار';
+$lang['AdminTickets.index.category_in_progress'] = 'قيد التنفيذ';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'في انتظار رد العميل';
+$lang['AdminTickets.index.category_open'] = 'في انتظار رد الموظفين';
+$lang['AdminTickets.text.unassigned'] = 'غير معيّن';
+$lang['AdminTickets.search.page_title'] = 'نتائج البحث عن "%1$s"';
+$lang['AdminTickets.reply.page_title'] = 'مدير الدعم &gt; رقم التذكرة%1$s';
+$lang['AdminTickets.add.page_title'] = 'مدير الدعم &gt; فتح تذكرة دعم &gt; فتح تذكرة';
+$lang['AdminTickets.index.page_title'] = 'مدير الدعم &gt; التذاكر';
+$lang['AdminTickets.!notice.no_departments_staff'] = 'لم يتم إنشاء أي موظفين و/أو أقسام حتى الآن. انقر فوق %1$s أعلاه لإنشاء قسم، أو %2$s لتعيين موظف.';
+$lang['AdminTickets.!success.ticket_delete'] = 'تم حذف التذاكر المحددة بنجاح.';
+$lang['AdminTickets.!success.ticket_update_status'] = 'تم تحديث التذاكر المحددة بنجاح.';
+$lang['AdminTickets.!success.ticket_reassign'] = 'تمت إعادة تعيين التذاكر المحددة بنجاح.';
+$lang['AdminTickets.!success.ticket_merge'] = 'تم دمج التذاكر المحددة بنجاح في التذكرة رقم%1$s.';
+$lang['AdminTickets.!success.ticket_split'] = 'تم تقسيم التذكرة رقم%1$s بنجاح إلى التذكرة رقم%2$s.';
+$lang['AdminTickets.!success.ticket_updated'] = 'تم تحديث التذكرة رقم%1$s بنجاح.';
+$lang['AdminTickets.!success.ticket_created'] = 'تم فتح التذكرة رقم%1$s بنجاح.';
+$lang['AdminTickets.add.heading_recipients'] = 'المستلمون';
+$lang['AdminTickets.add.heading_contacts'] = 'جهات الاتصال';
+$lang['AdminTickets.add.text_add_recipient'] = 'إضافة مستلم';
+$lang['AdminTickets.add.text_contacts'] = 'إذا لم تقم باختيار أي جهات اتصال إضافية، فسيتم إعلام جميع جهات الاتصال التي تستجيب لهذه التذكرة تلقائياً.';
+$lang['AdminTickets.reply.heading_recipients'] = 'المستلمون';
+$lang['AdminTickets.reply.heading_contacts'] = 'جهات الاتصال';
+$lang['AdminTickets.reply.text_add_recipient'] = 'إضافة مستلم';
+$lang['AdminTickets.reply.text_contacts'] = 'إذا لم تقم باختيار أي جهات اتصال إضافية، فسيتم إعلام جميع جهات الاتصال التي تستجيب لهذه التذكرة تلقائياً.';
+

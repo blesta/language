@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Jahr';
 $lang['Invoices.getPricingPeriods.month'] = 'Monat';
 $lang['Invoices.getPricingPeriods.week'] = 'Woche';
 $lang['Invoices.getPricingPeriods.day'] = 'Tag';
+$lang['Invoices.!error.invoice_id.unique'] = 'Die Zielrechnung kann nicht Teil der zusammenzuführenden Rechnungen sein.';
+$lang['Invoices.!error.invoice_id.status'] = 'Die Zielrechnung muss offen sein und darf keine Transaktionen enthalten.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Alle Rechnungen müssen zu demselben Kunden gehören.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Alle Rechnungen müssen offen und ohne Transaktionen sein.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Alle Rechnungen müssen die gleiche Währung haben.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Es müssen mindestens zwei Rechnungen ausgewählt werden.';
+$lang['Invoices.!line_item.parent_description'] = 'Kinderservice von %1$s - %2$s:';
 

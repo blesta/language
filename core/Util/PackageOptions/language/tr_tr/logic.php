@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.packageoptions.logic.invalid_option'] = '1$s yapılandırılabilir seçeneğine izin vermek için hiçbir koşul kümesi yerine getirilmedi. Gönderilmemelidir.';
+$lang['Util.packageoptions.logic.invalid_option'] = 'Yapılandırılabilir %1$s seçeneğine izin vermek için hiçbir koşul kümesi yerine getirilmedi. Gönderilmemelidir.';
 

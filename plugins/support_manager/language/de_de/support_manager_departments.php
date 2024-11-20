@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Bitte geben Sie eine g
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Bitte geben Sie eine Beschreibung ein.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Bitte geben Sie einen Namen für diese Abteilung ein.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Eine oder mehrere Prioritäten sind ungültig.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wählen Sie mindestens eine Priorität aus.';
 

@@ -70,7 +70,6 @@ $lang['ClientMain.!info.email_pending_verification_button'] = 'Doğrulama E-post
 $lang['ClientMain.!info.email_pending_verification'] = 'E-posta adresiniz şu anda doğrulanmamış. 1$s\'ye bir doğrulama e-postası gönderildi.';
 $lang['ClientMain.!info.additional_services'] = '...ve %1$\'lık ek hizmetler.';
 $lang['ClientMain.!info.additional_service'] = '...ve 1 ek hizmet.';
-$lang['ClientMain.!info.service_name'] = '1$s - %2$s';
 $lang['ClientMain.!info.service_in_review'] = 'Aşağıdaki hizmetler personel tarafından incelenmeyi beklemektedir. Onaylandıktan sonra aktif hale getirileceklerdir:';
 $lang['ClientMain.!info.invoice_due_other_currencies'] = 'Diğer para birimlerinde de ödenmemiş bir bakiyeniz var.';
 $lang['ClientMain.!info.invoice_due_past_due_text'] = 'Hesabınızda %1$s tutarında ödenmemiş bakiye bulunmaktadır ve bunun %2$s\'lik kısmının vadesi geçmiştir. Lütfen en kısa zamanda ödeme yapınız.';
@@ -80,4 +79,5 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Ödeme Yapın';
 $lang['ClientMain.!info.invoice_due_title'] = 'Tekrar hoş geldin, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Fatura yönteminiz başarıyla güncellendi. Gelecekteki tüm faturalar size %1$s üzerinden teslim edilecektir.';
 $lang['ClientMain.!success.client_updated'] = 'Hesap bilgileriniz başarıyla güncellendi.';
+$lang['ClientMain.!info.service_name'] = '%1$s - %2$s';
 

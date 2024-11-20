@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Sayfa Stili Adı';
 $lang['PaypalPaymentsStandard.account_id'] = 'PayPal Hesap E-postası';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard, çevrimiçi kredi kartı ve PayPal ödemelerini güvenli bir şekilde kabul etmenin en kolay yollarından biridir';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Eşleme verilerinizde yinelenen e-postalar bulundu, yinelenenleri kaldırın ve tekrar deneyin.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Eşleme verilerinizde geçersiz bir satır bulundu, e-posta adresinin ve Müşteri Kimliğinin geçerli olup olmadığını kontrol edin ve tekrar deneyin.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Blesta dışında oluşturulan PayPal Abonelikleri ile kullanım için tasarlanmıştır. Payer_email\'i dahili Müşteri Kimliği ile eşleştirin, her satır için 1 tane. Örneğin: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Ödeme Eşleme';
 

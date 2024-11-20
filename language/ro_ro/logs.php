@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Lipsește o adresă de proveniență.
 $lang['Logs.!error.to_address.empty'] = 'Lipsește a la adresă.';
 $lang['Logs.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['Logs.!error.deletelog_datetime'] = 'Format de dată invalid.';
+$lang['Logs.!error.new_service.format'] = 'Noul serviciu trebuie să fie un array.';
+$lang['Logs.!error.old_service.format'] = 'Serviciul vechi trebuie să fie un array.';
+$lang['Logs.!error.transactions.exists'] = 'Una sau mai multe tranzacții nu există.';
+$lang['Logs.!error.transaction_id.format'] = 'Tranzacțiile trebuie să fie un array.';
+$lang['Logs.!error.service_id.exists'] = 'ID serviciu invalid.';
 

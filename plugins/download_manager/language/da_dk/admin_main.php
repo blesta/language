@@ -113,4 +113,6 @@ $lang['AdminMain.editcategory.field_description'] = 'Beskrivelse';
 $lang['AdminMain.editcategory.submit_edit'] = 'Opdater kategori';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Annuller';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.edit.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong>%1$s</strong>.';
 

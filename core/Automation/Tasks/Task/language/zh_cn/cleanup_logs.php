@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s 旧模块日�
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s 旧网关日志已被删除。';
 $lang['Automation.task.cleanup_logs.completed'] = '清除日志任务已完成。';
 $lang['Automation.task.cleanup_logs.attempt'] = '尝试清理旧日志。';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s 旧的服务变更日志已被删除。';
 

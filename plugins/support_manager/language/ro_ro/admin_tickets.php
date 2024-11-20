@@ -123,4 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Biletele selectate au fost fuzion
 $lang['AdminTickets.!success.ticket_split'] = 'Biletul #%1$s a fost împărțit cu succes în biletul #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Biletul #%1$s a fost actualizat cu succes.';
 $lang['AdminTickets.!success.ticket_created'] = 'Biletul #%1$s a fost deschis cu succes.';
+$lang['AdminTickets.reply.text_contacts'] = 'Dacă nu alegeți niciun contact suplimentar, toate contactele care răspund la acest bilet vor fi notificate automat.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Adăugați destinatar';
+$lang['AdminTickets.reply.heading_contacts'] = 'Contacte';
+$lang['AdminTickets.reply.heading_recipients'] = 'Beneficiari';
+$lang['AdminTickets.add.text_contacts'] = 'Dacă nu alegeți niciun contact suplimentar, toate contactele care răspund la acest bilet vor fi notificate automat.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Adăugați destinatar';
+$lang['AdminTickets.add.heading_contacts'] = 'Contacte';
+$lang['AdminTickets.add.heading_recipients'] = 'Beneficiari';
 

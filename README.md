@@ -12,11 +12,13 @@ To install these languages, follow the steps:
 
 | Language Name  | Language Code |
 | ------------- | ------------- |
+| العربية, XA  | ar_xa  |
 | Dansk, DK  | da_dk  |
 | Deutsch, DE | de_de |
 | Español, ES  | es_es  |
 | Français, FR  | fr_fr  |
 | Ελληνικά, GR  | el_gr  |
+| Korean, KR  | ko_kr  |
 | Română, RO | ro_ro |
 | Indonesian, ID | id_id |
 | Italiano, IT  | it_it  |

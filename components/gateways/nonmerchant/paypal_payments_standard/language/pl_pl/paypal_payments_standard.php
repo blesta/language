@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Nazwa stylu strony';
 $lang['PaypalPaymentsStandard.account_id'] = 'Adres e-mail konta PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard to jeden z najprostszych sposobów na bezpieczne akceptowanie płatności kartą kredytową i PayPal online';
 $lang['PaypalPaymentsStandard.name'] = 'Płatności PayPal Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'W danych mapowania znaleziono zduplikowane wiadomości e-mail, usuń duplikaty i spróbuj ponownie.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'W danych mapowania znaleziono nieprawidłowy wiersz, sprawdź, czy adres e-mail i identyfikator klienta są prawidłowe i spróbuj ponownie.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Przeznaczony do użytku z subskrypcjami PayPal, które zostały utworzone poza Blesta. Mapuj payer_email do wewnętrznego identyfikatora klienta, 1 na wiersz. Na przykład: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Mapowanie płatności';
 

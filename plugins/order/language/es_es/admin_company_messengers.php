@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyMessengers.templates.Order.received_staff_desc'] = 'Aviso enviado cuando se recibe un pedido.';
 $lang['AdminCompanyMessengers.templates.Order.received_staff_name'] = 'Pedido recibido';
+$lang['AdminCompanyMessengers.templates.Order.received_staff_desc'] = 'Aviso enviado cuando se recibe un pedido.';
 

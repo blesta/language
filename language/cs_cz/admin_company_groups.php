@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s je výchozí skupina a 
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s byl úspěšně smazán!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s bylo úspěšně upraveno!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s byl úspěšně vytvořen!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Povolené brány';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Povolené brány';
 

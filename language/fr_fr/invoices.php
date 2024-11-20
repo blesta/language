@@ -95,4 +95,11 @@ $lang['Invoices.!error.lines[][amount].format'] = 'Le coût unitaire doit être 
 $lang['Invoices.!error.lines[][tax].format'] = 'La taxe sur les postes doit être "vraie" ou "fausse".';
 $lang['Invoices.!error.line_items.empty_split'] = 'Aucune ligne de facture n\'a été sélectionnée pour être fractionnée.';
 $lang['Invoices.!error.line_items.minimum_split'] = 'La facture doit comporter au moins 2 lignes pour être fractionnée.';
+$lang['Invoices.!error.invoice_id.unique'] = 'La facture de destination ne peut pas faire partie des factures à fusionner.';
+$lang['Invoices.!error.invoice_id.status'] = 'La facture de destination doit être ouverte et ne comporter aucune transaction.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Toutes les factures doivent appartenir au même client.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Toutes les factures doivent être ouvertes et sans aucune transaction.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Toutes les factures doivent avoir la même devise.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Au moins deux factures doivent être sélectionnées.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

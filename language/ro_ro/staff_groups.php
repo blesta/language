@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Vă rugăm să introduceți un nume.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID-ul grupului de personal invalid.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Ștergeți atașamentul de e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Ștergeți șablonul HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Editează șablonul HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Adăugați șablon HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Șabloane HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviciul de editare avansată';
 

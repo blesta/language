@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.invoices.field.second_renewal_attempt_spacing'] = '2�
 $lang['AdminCompanyBilling.invoices.text_none'] = 'Ninguno';
 $lang['AdminCompanyBilling.invoices.text_hour'] = '%1$s Hora';
 $lang['AdminCompanyBilling.invoices.text_hours'] = '%1$s Horas';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2º Intento Espaciado';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Umbral de separación del 2º intento';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1er Intento Espaciado';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '1er intento Umbral de separación';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Intentos';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Tipo';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Acciones de servicio';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Intentos de prestación de servicios';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'El número de acciones de servicio a intentar antes de retrasar el siguiente intento en la cantidad especificada por el ajuste de espaciado del segundo intento.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'El número de acciones de servicio a intentar antes de retrasar el siguiente intento en la cantidad especificada por el ajuste de espaciado del primer intento.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'El número de intentos y fallos a procesar para una acción de servicio antes de que dicha acción de servicio se deshabilite de la finalización automática.';
 

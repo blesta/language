@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Pagination.first'] = '← 第一';
 $lang['Pagination.last'] = '最后 →';
-$lang['Pagination.next'] = '下一页';
+$lang['Pagination.first'] = '← 第一';
 $lang['Pagination.prev'] = '上一页';
+$lang['Pagination.next'] = '下一页';
 

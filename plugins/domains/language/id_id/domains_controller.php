@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Perpanjang Domain'
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Ubah Pendaftar';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Ubah Perpanjangan Otomatis';
 $lang['DomainsController.example'] = 'Contoh bahasa';
+$lang['DomainsController.!error.move_error'] = 'Domain yang dipilih tidak dapat dipindahkan ke klien yang dipilih.';
 

@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = 'Stare dzienniki mod
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = 'Stare dzienniki %1$s Gateway zostały usunięte.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Zadanie czyszczenia dzienników zostało zakończone.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Próba wyczyszczenia starych logów.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s stare dzienniki zmian usług zostały usunięte.';
 

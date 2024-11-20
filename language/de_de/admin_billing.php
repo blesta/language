@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Die ausgewählten Dienste wurd
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Die ausgewählten Dienste sind nicht mehr zur Stornierung vorgesehen.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Die ausgewählten Dienste wurden erfolgreich für die Stornierung eingeplant.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Die ausgewählten Rechnungen wurden als gedruckt markiert.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Grund für die Aussetzung:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Aufhängen';
+$lang['AdminBilling.services.action.suspend'] = 'aussetzen.';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Die ausgewählten Dienste wurden erfolgreich freigeschaltet.';
+$lang['AdminBilling.!success.services_suspended'] = 'Die ausgewählten Dienste wurden erfolgreich eingestellt.';
 

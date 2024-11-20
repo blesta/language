@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.user_name.empty'] = '您必须输入用户名。';
 $lang['DirectAdmin.!error.port.format'] = '端口必须是一个数字。';
 $lang['DirectAdmin.!error.host_name.format'] = '主机名似乎无效。';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP 地址';
+$lang['DirectAdmin.!error.ip_address.format'] = 'IP 地址似乎无效。';
 

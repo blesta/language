@@ -40,7 +40,7 @@ $lang['AdminMain.add.heading_event'] = 'Acara';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Tambahkan Webhook';
 $lang['AdminMain.index.no_results'] = 'Tidak ada webhook yang tersedia.';
 $lang['AdminMain.index.text_description_incoming'] = 'Menerima permintaan HTTP dan memicu peristiwa pada sistem menggunakan parameter yang diterima dalam permintaan. Permintaan dapat diterima dengan menggunakan GET, POST, atau JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Mengirimkan permintaan HTTP ke URL ketika sebuah peristiwa dipicu. Permintaan dapat dikirim menggunakan GET, POST, atau JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Mengirimkan permintaan HTTP ke URL ketika sebuah peristiwa dipicu. Permintaan dapat dikirim menggunakan GET, POST, PUT, atau JSON.';
 $lang['AdminMain.index.option_delete'] = 'Menghapus';
 $lang['AdminMain.index.option_edit'] = 'Sunting';
 $lang['AdminMain.index.heading_options'] = 'Pilihan';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Webhook berhasil dihapus!';
 $lang['AdminMain.!success.webhook_updated'] = 'Webhook berhasil diperbarui!';
 $lang['AdminMain.!success.webhook_added'] = 'Webhook berhasil ditambahkan!';
 $lang['AdminMain.!tooltip.callback'] = 'Callback merepresentasikan ke mana permintaan akan dikirim atau diterima, untuk webhook keluar harus berupa URL dan untuk webhook masuk harus berupa nama URL tempat permintaan akan diterima. contoh: http://blesta.com/plugin/webhooks/trigger/index/[Nama Callback].';
+$lang['AdminMain.edit.field_cancel'] = 'Batal';
+$lang['AdminMain.add.field_cancel'] = 'Batal';
 

@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Nama Gaya Halaman';
 $lang['PaypalPaymentsStandard.account_id'] = 'Email Akun PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'Standar Pembayaran PayPal adalah salah satu cara termudah untuk menerima pembayaran kartu kredit dan PayPal secara online dengan aman';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Ditemukan email duplikat dalam data pemetaan Anda, hapus duplikat dan coba lagi.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Ditemukan baris yang tidak valid pada data pemetaan Anda, periksa apakah alamat email dan ID Klien valid dan coba lagi.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Dimaksudkan untuk digunakan dengan Langganan PayPal yang dibuat di luar Blesta. Memetakan payer_email ke ID Klien internal, 1 per baris. Sebagai contoh: email, client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Pemetaan Pembayaran';
 

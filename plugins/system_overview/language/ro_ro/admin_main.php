@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Servicii active';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Clienți activi';
 $lang['AdminMain.index.boxtitle_overview'] = 'Prezentare generală a sistemului';
 $lang['AdminMain.!success.options_updated'] = 'Setările din System Overview au fost actualizate cu succes!';
+$lang['AdminMain.date_range.day'] = '1 zi';
+$lang['AdminMain.date_range.month'] = 'Luna curentă';
+$lang['AdminMain.date_range.ytd'] = 'An la zi';
 

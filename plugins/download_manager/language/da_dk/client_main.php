@@ -10,8 +10,8 @@
  */
 
 $lang['ClientMain.!text.root_directory'] = 'Hjem';
+$lang['ClientMain.index.page_title'] = 'Downloads';
 $lang['ClientMain.index.boxtitle_downloads'] = 'Downloads';
 $lang['ClientMain.index.login'] = 'Du skal logge ind for at se downloads i denne sektion.';
 $lang['ClientMain.index.no_downloads'] = 'Der er ingen downloads tilgængelige i dette afsnit.';
-$lang['ClientMain.index.page_title'] = 'Downloads';
 

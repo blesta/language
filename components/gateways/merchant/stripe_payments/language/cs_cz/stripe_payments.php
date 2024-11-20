@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Nelze se připojit k rozhran�
 $lang['StripePayments.!error.secret_key.empty'] = 'Zadejte prosím tajný klíč.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Zadejte prosím publikovatelný klíč.';
 $lang['StripePayments.!error.auth'] = 'Bránu se nepodařilo ověřit.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Pokud jste uživatelem služby Stripe v Indii, musíte před uložením nové karty ve službě Stripe vždy provést ověření 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Předložit výzvu 3D Secure vždy, když klient uloží platební metodu nebo zpracovává platební metodu (uloženou nebo neuloženou).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Předložit výzvu 3D Secure, kdykoli klient uloží platební metodu nebo zpracuje neuložený způsob platby.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Umožnit společnosti Stripe určit, kdy má předložit výzvu 3D Secure.';
+$lang['StripePayments.request_three_d_secure'] = 'Průběh ověřování 3D Secure';
 

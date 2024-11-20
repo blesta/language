@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Aktivní služby';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Aktivní klienti';
 $lang['AdminMain.index.boxtitle_overview'] = 'Přehled systému';
 $lang['AdminMain.!success.options_updated'] = 'Nastavení přehledu systému bylo úspěšně aktualizováno!';
+$lang['AdminMain.date_range.day'] = '1 den';
+$lang['AdminMain.date_range.month'] = 'Aktuální měsíc';
+$lang['AdminMain.date_range.ytd'] = 'Od začátku roku';
 

@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Tilbagekaldelsen kan ikke ov
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Indtast venligst et gyldigt tilbagekald.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Der findes allerede et webhook af denne type med dette callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Den angivne virksomhed eksisterer ikke.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Den angivne begivenhed findes ikke.';
 

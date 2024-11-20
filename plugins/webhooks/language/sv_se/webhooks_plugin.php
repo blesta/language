@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Skickar automatiska HTTP-förfrågningar baserat på händelser, och lyssnar på HTTP-förfrågningar för att utlösa specifika händelser.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Rensar cacheminnet för listan över händelseobservatörer.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Rensa cacheminnet';
 

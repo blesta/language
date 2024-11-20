@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = '提交';
 $lang['Widget.toggle_filters'] = '切换过滤器';
+$lang['Widget.submit'] = '提交';
 

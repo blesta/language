@@ -22,8 +22,6 @@ $lang['UniversalModule.!error.module_row.invalid'] = 'Evrensel bir modül ürün
 $lang['UniversalModule.!error.service_email_from.required'] = 'Servis e-posta bildirimi için adres gereklidir.';
 $lang['UniversalModule.!error.package_email_from.required'] = 'Paket e-posta bildirimi için kimden adresi gereklidir.';
 $lang['UniversalModule.!error.name.empty'] = 'Ürün adı gereklidir.';
-$lang['UniversalModule.!error.service_field.required'] = '1$s gereklidir.';
-$lang['UniversalModule.!error.package_field.required'] = '1$s gereklidir.';
 $lang['UniversalModule.!error.service_notice_package_change.failed'] = 'Modül, hizmete atanan paketi/terimi güncellemeye çalışırken uzak sunucuyla iletişimde başarısız oldu.';
 $lang['UniversalModule.!error.service_notice_renew.failed'] = 'Modül, hizmeti yenilemeye çalışırken uzak sunucuyla iletişimde başarısız oldu.';
 $lang['UniversalModule.!error.service_notice_unsuspend.failed'] = 'Modül, hizmeti askıdan almaya çalışırken uzak sunucuyla iletişimde başarısız oldu.';
@@ -147,4 +145,6 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Bu, görüntülen
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Bu, gizli form alanı adıdır. Bir miktar alanı oluşturmak için qty kullanın.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Bu, form alanının hemen üstünde görünen metindir.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.!error.package_field.required'] = '%1$s gereklidir.';
+$lang['UniversalModule.!error.service_field.required'] = '%1$s gereklidir.';
 

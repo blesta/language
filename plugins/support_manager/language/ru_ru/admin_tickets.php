@@ -123,4 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Выбранные билеты �
 $lang['AdminTickets.!success.ticket_split'] = 'Билет #%1$s был успешно разделен на билет #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Билет #%1$s был успешно обновлен.';
 $lang['AdminTickets.!success.ticket_created'] = 'Билет #%1$s был успешно открыт.';
+$lang['AdminTickets.reply.text_contacts'] = 'Если вы не выберете никаких дополнительных контактов, все контакты, которые ответят на этот билет, будут уведомлены автоматически.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Добавить получателя';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Добавить получателя';
+$lang['AdminTickets.reply.heading_contacts'] = 'Контакты';
+$lang['AdminTickets.reply.heading_recipients'] = 'Получатели';
+$lang['AdminTickets.add.text_contacts'] = 'Если вы не выберете никаких дополнительных контактов, все контакты, которые ответят на этот билет, будут уведомлены автоматически.';
+$lang['AdminTickets.add.heading_contacts'] = 'Контакты';
+$lang['AdminTickets.add.heading_recipients'] = 'Получатели';
 

@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Support Manager > Avdelningar';
 $lang['AdminDepartments.!success.department_deleted'] = 'Avdelningen %1$s har raderats framgångsrikt.';
 $lang['AdminDepartments.!success.department_updated'] = 'Avdelningen %1$s har uppdaterats framgångsrikt.';
 $lang['AdminDepartments.!success.department_created'] = 'Avdelningen %1$s har framgångsrikt skapats.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Tillgängliga prioriteringar';
+$lang['AdminDepartments.add.field_priorities'] = 'Tillgängliga prioriteringar';
 

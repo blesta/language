@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.user_name.empty'] = 'Du måste ange ett användarnamn.
 $lang['DirectAdmin.!error.port.format'] = 'Porten måste vara ett nummer.';
 $lang['DirectAdmin.!error.host_name.format'] = 'Värdnamnet verkar vara ogiltigt.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Du måste ange en serveretikett.';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP-adress';
+$lang['DirectAdmin.!error.ip_address.format'] = 'IP-adressen verkar vara ogiltig.';
 

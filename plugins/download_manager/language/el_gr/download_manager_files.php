@@ -12,7 +12,7 @@
 $lang['DownloadManagerFiles.!error.category_id.exists'] = 'Παρακαλούμε επιλέξτε μια έγκυρη κατηγορία.';
 $lang['DownloadManagerFiles.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['DownloadManagerFiles.!error.name.empty'] = 'Παρακαλώ εισάγετε ένα όνομα για αυτό το αρχείο.';
-$lang['DownloadManagerFiles.!error.file_name.format'] = 'Παρακαλούμε ανεβάστε ένα αρχείο ή εισαγάγετε μια έγκυρη διαδρομή προς το αρχείο.';
+$lang['DownloadManagerFiles.!error.file_name.format'] = 'Παρακαλούμε ανεβάστε ένα αρχείο ή εισαγάγετε μια έγκυρη διαδρομή προς το αρχείο στον κατάλογο uploads.';
 $lang['DownloadManagerFiles.!error.public.format'] = 'Η επιλογή δημόσιας διαθεσιμότητας έχει μη έγκυρη μορφή.';
 $lang['DownloadManagerFiles.!error.public.assignment'] = 'Το αρχείο πρέπει να είναι διαθέσιμο είτε στο κοινό, είτε σε ομάδες πελατών, είτε σε πακέτα.';
 $lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'Η επιλογή διαθεσιμότητας ομάδας πελατών έχει μη έγκυρη μορφή.';

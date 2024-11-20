@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Byla odeslána zpráva k ověřen�
 $lang['Signup.!notice.force_email_usernames'] = 'Vaše uživatelské jméno bude stejné jako vaše e-mailová adresa.';
 $lang['Signup.!error.not_client_owner'] = 'Abyste mohli pokračovat, musíte být přihlášeni jako vlastník klienta.';
 $lang['Signup.!error.captcha.invalid'] = 'Zadaná captcha byla neplatná. Zkuste to prosím znovu.';
+$lang['Signup.otp.field_submit'] = 'Přihlášení';
+$lang['Signup.otp.field_otp'] = 'Jednorázové heslo';
+$lang['Signup.otp.login_heading'] = 'Přihlášení';
+$lang['Signup.otp.description'] = 'Zadejte prosím své jednorázové heslo.';
+$lang['Signup.otp.page_title'] = 'Přihlášení';
+$lang['Signup.index.field_agree_tos'] = 'Přečetl/a jsem si <a href="%1$s" target="_blank">podmínky a</a> souhlasím s nimi.';
+$lang['Signup.!error.invalid_agree_tos'] = 'Musíte potvrdit svůj souhlas s podmínkami.';
 

@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Eveniment';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Adăugați Webhook';
 $lang['AdminMain.index.no_results'] = 'Nu sunt disponibile webhooks.';
 $lang['AdminMain.index.text_description_incoming'] = 'Primește o cerere HTTP și declanșează un eveniment în sistem folosind parametrii primiți în cerere. Cererea poate fi primită prin GET, POST sau JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Trimite o solicitare HTTP către un URL atunci când se declanșează un eveniment. Cererea poate fi trimisă folosind GET, POST sau JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Trimite o cerere HTTP către o adresă URL atunci când este declanșat un eveniment. Cererea poate fi trimisă folosind GET, POST, PUT sau JSON.';
 $lang['AdminMain.index.option_delete'] = 'Ștergeți';
 $lang['AdminMain.index.option_edit'] = 'Editați';
 $lang['AdminMain.index.heading_options'] = 'Opțiuni';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Webhook-ul a fost șters cu succe
 $lang['AdminMain.!success.webhook_updated'] = 'Webhook-ul a fost actualizat cu succes!';
 $lang['AdminMain.!success.webhook_added'] = 'Webhook-ul a fost adăugat cu succes!';
 $lang['AdminMain.!tooltip.callback'] = 'Callback-ul reprezintă locul în care va fi trimisă sau primită cererea, pentru webhooks de ieșire trebuie să fie un URL, iar pentru webhooks de intrare trebuie să fie numele URL-ului în care va fi primită cererea. de exemplu, http://blesta.com/plugin/webhooks/trigger/index/[Callback Name].';
+$lang['AdminMain.edit.field_cancel'] = 'Anulează';
+$lang['AdminMain.add.field_cancel'] = 'Anulează';
 

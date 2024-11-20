@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'De obligat
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Det anpassade klientfältet har tagits bort.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Det anpassade klientfältet har skapats.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Det anpassade klientfältet har uppdaterats framgångsrikt.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Det finns inga installerade gateways.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybrid';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Köpman';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Icke-återförsäljare';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gateway';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktivera';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Aktivera Gateway-begränsningar';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Begränsa vilka gateways som klienter kan använda. Som standard är Gateway-begränsningar inaktiverade och alla gateways är tillgängliga.';
 

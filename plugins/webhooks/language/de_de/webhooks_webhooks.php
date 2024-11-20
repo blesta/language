@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Der Rückruf darf nicht län
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Bitte geben Sie einen gültigen Rückruf ein.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Ein Webhook dieses Typs existiert bereits mit diesem Callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Die angegebene Firma existiert nicht.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Das angegebene Ereignis existiert nicht.';
 

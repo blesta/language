@@ -258,4 +258,16 @@ $lang['AdminDomains.!error.tlds_imported'] = 'Kvůli chybě nebylo možné impor
 $lang['AdminDomains.!success.domains_unparented'] = 'Vybrané domény byly odebrány z nadřazených služeb a cena byla úspěšně resetována!';
 $lang['AdminDomains.browse.heading_added'] = 'Datum přidání';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Registrátor domény byl aktualizován!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Odstranění domén nejvyšší úrovně';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Kód EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Ochrana ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Přeposílání e-mailů';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Správa DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s nebylo možné aktualizovat pro následující domény nejvyšší úrovně: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Přístup k EPP kódu byl úspěšně aktualizován!';
+$lang['AdminDomains.!success.id_protection'] = 'Ochrana ID byla úspěšně aktualizována!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Přeposílání e-mailů bylo úspěšně aktualizováno!';
+$lang['AdminDomains.!success.dns_management'] = 'Správa DNS byla úspěšně aktualizována!';
+$lang['AdminDomains.!success.delete_partial'] = 'Následující domény nejvyšší úrovně nebylo možné odstranit, protože se používaly: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD byly úspěšně odstraněny!';
 

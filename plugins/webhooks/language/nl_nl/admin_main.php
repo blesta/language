@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Evenement';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Webhook toevoegen';
 $lang['AdminMain.index.no_results'] = 'Er zijn geen webhooks beschikbaar.';
 $lang['AdminMain.index.text_description_incoming'] = 'Ontvangt een HTTP-verzoek en activeert een gebeurtenis op het systeem met behulp van de parameters in het verzoek. Het verzoek kan worden ontvangen via GET, POST of JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Stuurt een HTTP-verzoek naar een URL wanneer een gebeurtenis wordt geactiveerd. Het verzoek kan worden verzonden met GET, POST of JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Stuurt een HTTP-verzoek naar een URL wanneer een gebeurtenis wordt geactiveerd. Het verzoek kan worden verzonden met GET, POST, PUT of JSON.';
 $lang['AdminMain.index.option_delete'] = 'Verwijder';
 $lang['AdminMain.index.option_edit'] = 'Bewerk';
 $lang['AdminMain.index.heading_options'] = 'Opties';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'De webhook is succesvol verwijder
 $lang['AdminMain.!success.webhook_updated'] = 'De webhook is succesvol bijgewerkt!';
 $lang['AdminMain.!success.webhook_added'] = 'De webhook is succesvol toegevoegd!';
 $lang['AdminMain.!tooltip.callback'] = 'De callback staat voor de plaats waar het verzoek wordt verzonden of ontvangen, voor uitgaande webhooks moet dit een URL zijn en voor inkomende webhooks de naam van de URL waar het verzoek wordt ontvangen. bijv. http://blesta.com/plugin/webhooks/trigger/index/[Callbacknaam].';
+$lang['AdminMain.edit.field_cancel'] = 'Annuleren';
+$lang['AdminMain.add.field_cancel'] = 'Annuleren';
 

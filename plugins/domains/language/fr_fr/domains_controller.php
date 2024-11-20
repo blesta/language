@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Mise à jour d
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Renouveler le domaine';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Changement de greffier';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Modifier le renouvellement de l\'assurance automobile';
+$lang['DomainsController.!error.move_error'] = 'Les domaines sélectionnés n\'ont pas pu être déplacés vers le client sélectionné.';
 

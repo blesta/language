@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Maksymalna liczba pr�
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Nieudane próby muszą być liczbą.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Nieprawidłowy identyfikator faktury.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Nieprawidłowy identyfikator usługi.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Anulowanie';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Niezawieszenie';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Zawieszenie';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Odnowienie';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Udostępnianie';
+$lang['ServiceInvoices.!error.type.valid'] = 'Nieprawidłowy typ próby.';
 

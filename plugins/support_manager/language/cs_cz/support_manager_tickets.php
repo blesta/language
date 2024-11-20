@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Kontakt vybraný pro 
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Neplatné ID zaměstnance.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Vyberte prosím platné oddělení.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Kód tipu musí obsahovat pouze číslice.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Vyberte prosím platnou prioritu pro toto oddělení.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Alespoň jeden z kontaktů tipu je neplatný.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Alespoň jeden z příjemců tipu je neplatný.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Alespoň jeden z příjemců tipu je duplicitní.';
 

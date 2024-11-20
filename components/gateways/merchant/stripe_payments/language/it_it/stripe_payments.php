@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Impossibile connettersi all\'
 $lang['StripePayments.!error.secret_key.empty'] = 'Inserire una chiave segreta.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Inserire una chiave pubblicabile.';
 $lang['StripePayments.!error.auth'] = 'Il gateway non è riuscito ad autenticarsi.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Se siete utenti di Stripe con sede in India, prima di salvare una nuova carta con Stripe dovete sempre eseguire l\'autenticazione 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Presentare la sfida 3D Secure ogni volta che un cliente salva un metodo di pagamento o elabora un metodo di pagamento (memorizzato o non memorizzato).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Presentare la sfida 3D Secure ogni volta che un cliente salva un metodo di pagamento o elabora un metodo di pagamento non memorizzato.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Consentire a Stripe di determinare quando presentare una sfida 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Flusso di autenticazione 3D Secure';
 

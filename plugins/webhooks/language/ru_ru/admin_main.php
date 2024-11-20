@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Событие';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Добавить веб-крючок';
 $lang['AdminMain.index.no_results'] = 'Нет доступных веб-крючков.';
 $lang['AdminMain.index.text_description_incoming'] = 'Получает HTTP-запрос и запускает событие в системе, используя параметры, полученные в запросе. Запрос может быть получен с помощью GET, POST или JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Отправляет HTTP-запрос на URL-адрес при возникновении события. Запрос может быть отправлен с помощью GET, POST или JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Отправляет HTTP-запрос на URL-адрес при возникновении события. Запрос может быть отправлен с помощью GET, POST, PUT или JSON.';
 $lang['AdminMain.index.option_delete'] = 'Удалить';
 $lang['AdminMain.index.option_edit'] = 'Редактировать';
 $lang['AdminMain.index.heading_options'] = 'Опции';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Веб-крючок был усп
 $lang['AdminMain.!success.webhook_updated'] = 'Веб-крючок был успешно обновлен!';
 $lang['AdminMain.!success.webhook_added'] = 'Веб-крючок был успешно добавлен!';
 $lang['AdminMain.!tooltip.callback'] = 'Обратный вызов представляет собой место, куда будет отправлен или получен запрос. Для исходящих веб-хуков это должен быть URL, а для входящих - имя URL, по которому будет получен запрос. Например, http://blesta.com/plugin/webhooks/trigger/index/[Имя обратного вызова].';
+$lang['AdminMain.edit.field_cancel'] = 'Отмена';
+$lang['AdminMain.add.field_cancel'] = 'Отмена';
 

@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Upaya maksimal harus 
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Upaya yang gagal pasti ada jumlahnya.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'ID faktur tidak valid.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'ID layanan tidak valid.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Pembatalan';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Penangguhan';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Penangguhan';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Pembaharuan';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Penyediaan';
+$lang['ServiceInvoices.!error.type.valid'] = 'Jenis upaya tidak valid.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderPlugin.!error.dom_required'] = 'L\'extension dom est nécessaire pour ce plugin.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'L\'extension libxml est nécessaire pour ce plugin.';
-$lang['FeedReaderPlugin.description'] = 'Affichez n\'importe quel flux RSS/Atom directement sur votre tableau de bord.';
+$lang['FeedReaderPlugin.!error.dom_required'] = 'L\'extension dom est nécessaire pour ce plugin.';
 $lang['FeedReaderPlugin.name'] = 'Lecteur de flux';
+$lang['FeedReaderPlugin.description'] = 'Affichez n\'importe quel flux RSS/Atom directement sur votre tableau de bord.';
 

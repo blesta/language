@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'De naam van een pakket
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Voorbeeldcode';
 $lang['PackageFeed.description'] = 'Geeft de naam, beschrijving of prijs van een pakket.';
 $lang['PackageFeed.name'] = 'Pakketten';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'De maximale klanthoeveelheid van een pakket weergeven:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'De voorraadhoeveelheid van een verpakking weergeven:';
 

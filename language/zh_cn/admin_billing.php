@@ -175,4 +175,9 @@ $lang['AdminBilling.services.heading_datecanceled'] = '取消日期';
 $lang['AdminBilling.services.heading_datesuspended'] = '暂停日期';
 $lang['AdminBilling.services.heading_daterenews'] = '续订日期';
 $lang['AdminBilling.services.heading_dateadded'] = '添加日期';
+$lang['AdminBilling.services.action.field_suspension_reason'] = '暂停原因：';
+$lang['AdminBilling.services.action.unsuspend'] = '取消悬挂';
+$lang['AdminBilling.services.action.suspend'] = '暂停';
+$lang['AdminBilling.!success.services_unsuspended'] = '所选服务已成功解除暂停。';
+$lang['AdminBilling.!success.services_suspended'] = '所选服务已成功暂停。';
 

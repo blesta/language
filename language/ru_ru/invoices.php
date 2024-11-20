@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Год';
 $lang['Invoices.getPricingPeriods.month'] = 'Месяц';
 $lang['Invoices.getPricingPeriods.week'] = 'Неделя';
 $lang['Invoices.getPricingPeriods.day'] = 'День';
+$lang['Invoices.!error.invoice_id.unique'] = 'Конечный счет-фактура не может быть частью счетов-фактур, подлежащих объединению.';
+$lang['Invoices.!error.invoice_id.status'] = 'Счет-фактура назначения должен быть открыт и не содержать никаких операций.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Все счета должны принадлежать одному и тому же клиенту.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Все счета-фактуры должны быть открыты и не содержать никаких операций.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Все счета-фактуры должны иметь одинаковую валюту.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Необходимо выбрать не менее двух счетов-фактур.';
+$lang['Invoices.!line_item.parent_description'] = 'Служба помощи детям %1$s - %2$s:';
 

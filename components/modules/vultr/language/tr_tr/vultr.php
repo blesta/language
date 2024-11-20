@@ -139,9 +139,6 @@ $lang['Vultr.service_field.template'] = 'Şablon';
 $lang['Vultr.service_field.location'] = 'Konum';
 $lang['Vultr.service_field.hostname'] = 'Ana bilgisayar adı';
 $lang['Vultr.service_field.subid'] = 'Vultr SUBID';
-$lang['Vultr.get_templates.paid_template_name'] = '1$s (Ek ücret uygulanır)';
-$lang['Vultr.get_server_plans.plan_name'] = '1$s Disk %2$sGB RAM %3$sMB vCores %4$s';
-$lang['Vultr.get_baremetal_plans.plan_name'] = '1$s %2$s %3$sc %4$s %5$sx%6$sGB RAM %7$sMB';
 $lang['Vultr.package_fields.disallow_surcharge_templates'] = 'Ek Ücret Şablonlarına İzin Verme';
 $lang['Vultr.package_fields.allow_surcharge_templates'] = 'Ek Ücret Şablonlarına İzin Ver';
 $lang['Vultr.package_fields.surcharge_templates'] = 'Ek Ücret Şablonları';
@@ -182,4 +179,7 @@ $lang['Vultr.module_row_plural'] = 'Hesaplar';
 $lang['Vultr.module_row'] = 'Hesap';
 $lang['Vultr.description'] = 'Vultr kontrol paneli sunucu yönetimini basit ve sezgisel hale getirir. Sunucuları sipariş etme, yedeklemeleri yönetme ve erişim kontrolünü ayarlama gibi yaygın görevler yalnızca birkaç tık uzağınızda.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.get_templates.paid_template_name'] = '%1$s (Ek ücret uygulanır)';
+$lang['Vultr.get_server_plans.plan_name'] = '%1$s Disk %2$sGB RAM %3$sMB vCores %4$s';
+$lang['Vultr.get_baremetal_plans.plan_name'] = '%1$s %2$s %3$sc %4$s %5$sx%6$sGB RAM %7$sMB';
 

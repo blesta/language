@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.event.empty'] = 'Будь ласка, введіть назву події.';
-$lang['SystemEvents.!error.event.length'] = 'Довжина події не може перевищувати %1$s символів.';
 $lang['SystemEvents.!error.observer.valid'] = 'Будь ласка, вкажіть спостерігач, який можна викликати за простором імен або шляхом до файлової системи.';
+$lang['SystemEvents.!error.event.length'] = 'Довжина події не може перевищувати %1$s символів.';
+$lang['SystemEvents.!error.event.empty'] = 'Будь ласка, введіть назву події.';
 

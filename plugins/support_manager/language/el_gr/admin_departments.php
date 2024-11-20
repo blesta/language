@@ -144,4 +144,6 @@ $lang['AdminDepartments.edit.heading_value'] = 'Αξία';
 $lang['AdminDepartments.edit.heading_default'] = 'Προεπιλογή';
 $lang['AdminDepartments.edit.text_delete'] = 'Διαγραφή';
 $lang['AdminDepartments.edit.text_add'] = 'Προσθέστε';
+$lang['AdminDepartments.edit.field_priorities'] = 'Διαθέσιμες προτεραιότητες';
+$lang['AdminDepartments.add.field_priorities'] = 'Διαθέσιμες προτεραιότητες';
 

@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.getTypes.type_outgoing'] = '传出';
 $lang['WebhooksWebhooks.getMethods.get'] = '获取';
 $lang['WebhooksWebhooks.getMethods.post'] = '职位';
 $lang['WebhooksWebhooks.getMethods.json'] = 'JSON';
+$lang['WebhooksWebhooks.getMethods.put_json'] = '输入 JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = '输入';
+$lang['WebhooksWebhooks.!error.events[].exists'] = '所提供的事件不存在。';
 

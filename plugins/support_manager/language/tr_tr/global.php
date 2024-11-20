@@ -15,8 +15,8 @@ $lang['Global.action.merge'] = 'Birleştirme';
 $lang['Global.action.delete'] = 'Silme';
 $lang['Global.action.split'] = 'Bölünmüş';
 $lang['Global.action.quote'] = 'Alıntı';
-$lang['Global.time_since.minute'] = '1$s min';
-$lang['Global.time_since.hour'] = '1$s saat';
-$lang['Global.time_since.day'] = '1$s d';
 $lang['Global.select.never'] = '-- Asla --';
+$lang['Global.time_since.minute'] = '%1$s min';
+$lang['Global.time_since.hour'] = '%1$s hr';
+$lang['Global.time_since.day'] = '%1$s d';
 

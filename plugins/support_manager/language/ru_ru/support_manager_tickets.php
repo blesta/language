@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Контакт, вы�
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Неверный идентификатор сотрудника.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Пожалуйста, выберите действующий отдел.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Код билета должен содержать только цифры.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Пожалуйста, выберите правильный приоритет для этого отдела.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'По крайней мере один из контактов билета недействителен.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'По крайней мере один из получателей билета недействителен.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'По крайней мере один из получателей билета дублируется.';
 

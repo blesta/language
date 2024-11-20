@@ -258,4 +258,16 @@ $lang['AdminDomains.browse.unparent'] = 'Unparent and Reset Price';
 $lang['AdminDomains.import.field_restart'] = 'Volver a empezar';
 $lang['AdminDomains.browse.heading_added'] = 'Fecha añadida';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'El registrador de dominios ha sido actualizado.';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Eliminar TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Código PPE';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Protección ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Reenvío de correo electrónico';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Gestión de DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s no se ha podido actualizar para los siguientes TLD: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'El acceso al código PPE se ha actualizado correctamente.';
+$lang['AdminDomains.!success.id_protection'] = 'La Protección de ID se ha actualizado correctamente.';
+$lang['AdminDomains.!success.email_forwarding'] = 'El reenvío de correo electrónico se ha actualizado correctamente.';
+$lang['AdminDomains.!success.dns_management'] = 'La gestión de DNS se ha actualizado correctamente.';
+$lang['AdminDomains.!success.delete_partial'] = 'No se han podido eliminar los siguientes TLD porque estaban en uso: %1$s';
+$lang['AdminDomains.!success.delete'] = 'Los TLD se han eliminado correctamente.';
 

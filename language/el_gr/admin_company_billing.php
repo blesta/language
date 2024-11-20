@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.invoices.field.second_renewal_attempt_spacing'] = '2�
 $lang['AdminCompanyBilling.invoices.text_none'] = 'Κανένα';
 $lang['AdminCompanyBilling.invoices.text_hour'] = '%1$s ώρα';
 $lang['AdminCompanyBilling.invoices.text_hours'] = '%1$s Ώρες';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2η προσπάθεια Spacing';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Κατώφλι απόστασης 2ης προσπάθειας';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1η Προσπάθεια Απόσταση';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Κατώτατο όριο απόστασης 1ης προσπάθειας';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Προσπάθειες';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Τύπος';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Δράσεις υπηρεσιών';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Προσπάθειες παροχής υπηρεσιών';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Ο αριθμός των ενεργειών εξυπηρέτησης που πρέπει να επιχειρηθούν πριν από την καθυστέρηση της επόμενης προσπάθειας κατά το ποσό που καθορίζεται από τη ρύθμιση του χρονικού διαστήματος δεύτερης προσπάθειας.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Ο αριθμός των ενεργειών εξυπηρέτησης που πρέπει να επιχειρηθούν πριν από την καθυστέρηση της επόμενης προσπάθειας κατά το ποσό που καθορίζεται από τη ρύθμιση του διαστήματος πρώτης προσπάθειας.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Ο αριθμός των προσπαθειών και των αποτυχιών επεξεργασίας για μια ενέργεια υπηρεσίας πριν απενεργοποιηθεί η αυτόματη ολοκλήρωση αυτής της ενέργειας υπηρεσίας.';
 

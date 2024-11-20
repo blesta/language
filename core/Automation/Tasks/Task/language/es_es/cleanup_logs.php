@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_client_settings_deleted'] = 'Se han bor
 $lang['Automation.task.cleanup_logs.logs_service_deleted'] = 'Se han borrado %1$s registros de Servicio antiguos.';
 $lang['Automation.task.cleanup_logs.logs_transaction_deleted'] = 'Se han borrado %1$s registros de transacciones antiguos.';
 $lang['Automation.task.cleanup_logs.logs_cron_deleted'] = 'Se han borrado %1$s registros Cron antiguos.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s se han eliminado los antiguos registros de cambios de servicio.';
 

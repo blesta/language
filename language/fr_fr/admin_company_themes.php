@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.edit.field_theme_info_button_color'] = 'Couleurs des b
 $lang['AdminCompanyThemes.edit.field_theme_warning_button_color'] = 'Couleurs des boutons d\'avertissement';
 $lang['AdminCompanyThemes.edit.field_theme_danger_button_color'] = 'Couleurs des boutons de danger';
 $lang['AdminCompanyThemes.edit.field_theme_light_button_color'] = 'Couleurs des boutons lumineux';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'CSS personnalisé';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'CSS personnalisé';
 

@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Support Manager > Afdelingen';
 $lang['AdminDepartments.!success.department_deleted'] = 'De %1$s afdeling is succesvol verwijderd.';
 $lang['AdminDepartments.!success.department_updated'] = 'De %1$s afdeling is succesvol bijgewerkt.';
 $lang['AdminDepartments.!success.department_created'] = 'De %1$s afdeling is succesvol aangemaakt.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Beschikbare prioriteiten';
+$lang['AdminDepartments.add.field_priorities'] = 'Beschikbare prioriteiten';
 

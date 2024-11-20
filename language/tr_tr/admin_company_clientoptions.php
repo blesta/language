@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Gerekli al
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Müşteri özel alanı başarıyla silindi.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Müşteri özel alanı başarıyla oluşturuldu.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Müşteri özel alanı başarıyla güncellendi.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Kurulu ağ geçidi bulunmamaktadır.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hibrit';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Tüccar';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Tüccar Olmayan';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Tip';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Ağ Geçidi';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Etkinleştir';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ağ Geçidi Kısıtlamalarını Etkinleştir';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'İstemcilerin hangi ağ geçitlerini kullanabileceğini sınırlayın. Varsayılan olarak Ağ Geçidi Kısıtlamaları devre dışıdır ve tüm ağ geçitleri kullanılabilir.';
 

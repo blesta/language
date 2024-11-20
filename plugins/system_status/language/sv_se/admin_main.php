@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Det finns allvarliga problem som påverk
 $lang['AdminMain.index.health_fair'] = 'Det finns några problem som påverkar systemets förmåga att fungera normalt.';
 $lang['AdminMain.index.health_good'] = 'Överlag är systemet i gott skick, men det finns några saker som kan kräva din uppmärksamhet.';
 $lang['AdminMain.index.health_excellent'] = 'Systemet är i gott skick och verkar fungera normalt.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurera?';
+$lang['AdminMain.index.upload_dir'] = 'Sökvägen till uppladdningskatalogen i dina inställningar finns i rotwebbkatalogen.  Den bör placeras ovanför rotwebbkatalogen för att säkerställa att det aldrig finns något problem med att den är allmänt tillgänglig.';
 

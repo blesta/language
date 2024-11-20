@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Moduł został pomyślnie 
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Moduł został pomyślnie zaktualizowany.';
 $lang['AdminDomains.browse.heading_added'] = 'Data dodania';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Rejestrator domen został zaktualizowany!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Usuwanie TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Kod PPE';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Ochrona ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Przekazywanie wiadomości e-mail';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Zarządzanie DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s nie mogły zostać zaktualizowane dla następujących TLD: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Dostęp do kodu EPP został pomyślnie zaktualizowany!';
+$lang['AdminDomains.!success.id_protection'] = 'Ochrona ID została pomyślnie zaktualizowana!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Przekazywanie wiadomości e-mail zostało pomyślnie zaktualizowane!';
+$lang['AdminDomains.!success.dns_management'] = 'Zarządzanie DNS zostało pomyślnie zaktualizowane!';
+$lang['AdminDomains.!success.delete_partial'] = 'Następujące TLD nie mogły zostać usunięte, ponieważ były w użyciu: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD zostały pomyślnie usunięte!';
 

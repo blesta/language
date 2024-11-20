@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Visa namnet på ett pa
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Exempel på kod';
 $lang['PackageFeed.description'] = 'Returnerar namn, beskrivning eller pris för ett paket.';
 $lang['PackageFeed.name'] = 'Paket';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Visa kundens kvantitetsgräns för ett paket:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Visa lagervolymen (kvantiteten) för en förpackning:';
 

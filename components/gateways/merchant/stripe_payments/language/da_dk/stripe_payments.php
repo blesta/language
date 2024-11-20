@@ -41,4 +41,9 @@ $lang['StripePayments.migrate_accounts'] = 'Migrer konti';
 $lang['StripePayments.charge_description_default'] = 'Opkrævning for specificeret beløb';
 $lang['StripePayments.charge_description'] = 'Gebyr for %1$s';
 $lang['StripePayments.name'] = 'Stripe Payments';
+$lang['StripePayments.request_three_d_secure_note'] = 'Hvis du er Stripe-bruger med base i Indien, skal du altid udføre 3D Secure (3DS)-godkendelse, før du gemmer et nyt kort hos Stripe.';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Præsenter 3D Secure-udfordring, når en klient gemmer en betalingsmetode eller behandler en betalingsmetode (gemt eller ikke-gemt).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Præsenter 3D Secure-udfordring, når en klient gemmer en betalingsmetode eller behandler en ikke-gemt betalingsmetode';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Lad Stripe bestemme, hvornår der skal præsenteres en 3D Secure-udfordring';
+$lang['StripePayments.request_three_d_secure'] = '3D Secure-godkendelsesflow';
 

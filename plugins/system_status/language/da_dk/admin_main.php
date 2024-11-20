@@ -42,4 +42,6 @@ $lang['AdminMain.index.sql_mysql_version_serious'] = 'MySQL-versionen opfylder i
 $lang['AdminMain.index.sql_mysql_version_requirements'] = 'Se minimumskrav';
 $lang['AdminMain.index.sql_mariadb_version_serious'] = 'MariaDB-versionen opfylder ikke minimumskravene til systemet.';
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Se minimumskrav';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurere?';
+$lang['AdminMain.index.upload_dir'] = 'Stien til upload-biblioteket i dine indstillinger ligger i rodwebbiblioteket.  Den bør placeres over rodwebmappen for at sikre, at der aldrig opstår problemer med, at den er offentligt tilgængelig.';
 

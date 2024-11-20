@@ -10,7 +10,6 @@
  */
 
 $lang['AdminMain.add.field_logged_in'] = 'Giriş yapılmış olmalı';
-$lang['AdminMain.package_name'] = '1$s (%2$s)';
 $lang['AdminMain.editcategory.submit_cancel'] = 'İptal';
 $lang['AdminMain.editcategory.submit_edit'] = 'Güncelleme Kategorisi';
 $lang['AdminMain.editcategory.field_description'] = 'Açıklama';
@@ -22,7 +21,6 @@ $lang['AdminMain.addcategory.submit_add'] = 'Kategori Oluştur';
 $lang['AdminMain.addcategory.field_description'] = 'Açıklama';
 $lang['AdminMain.addcategory.field_name'] = 'İsim';
 $lang['AdminMain.addcategory.boxtitle_addcategory'] = 'Kategoriye Kategori Ekle [%1$s]';
-$lang['AdminMain.addcategory.boxtitle_root'] = '1$s\'ye Kategori Ekleme';
 $lang['AdminMain.addcategory.page_title'] = 'İndirme Yöneticisi > Kategori Ekle';
 $lang['AdminMain.editurl.submit_cancel'] = 'İptal';
 $lang['AdminMain.editurl.submit_add'] = 'URL\'yi Düzenle';
@@ -113,4 +111,8 @@ $lang['AdminMain.!success.file_added'] = 'Dosya başarıyla eklendi.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategori başarıyla silindi.';
 $lang['AdminMain.!success.category_updated'] = 'Kategori başarıyla güncellendi.';
 $lang['AdminMain.!success.category_added'] = 'Kategori başarıyla oluşturuldu.';
+$lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.addcategory.boxtitle_root'] = 'Kategori\'yi %1$s\'ye ekleyin';
+$lang['AdminMain.edit.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong>%1$s</strong>.';
 

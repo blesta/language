@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Rok';
 $lang['Invoices.getPricingPeriods.month'] = 'Miesiąc';
 $lang['Invoices.getPricingPeriods.week'] = 'Tydzień';
 $lang['Invoices.getPricingPeriods.day'] = 'Dzień';
+$lang['Invoices.!error.invoice_id.unique'] = 'Faktura docelowa nie może być częścią faktur, które mają zostać połączone.';
+$lang['Invoices.!error.invoice_id.status'] = 'Faktura docelowa musi być otwarta i bez żadnych transakcji.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Wszystkie faktury muszą należeć do tego samego klienta.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Wszystkie faktury muszą być otwarte i bez żadnych transakcji.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Wszystkie faktury muszą mieć tę samą walutę.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Należy wybrać co najmniej dwie faktury.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

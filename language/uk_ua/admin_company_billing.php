@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Купон успішн�
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Купон успішно створено!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Повідомлення успішно оновлено!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Налаштування Інвойсу та Списання успішно оновлено!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2-а спроба Інтервал між спробами';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Поріг інтервалу між спробами 2-ї спроби';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1-а спроба Інтервал між спробами';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Поріг інтервалу для 1-ї спроби';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Спроби';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Тип';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Сервісні дії';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Спроби надання послуг';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Кількість сервісних дій, які потрібно виконати до затримки наступної спроби на величину, визначену параметром інтервалу між другими спробами';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Кількість сервісних дій, які потрібно виконати до затримки наступної спроби на величину, визначену параметром інтервалу між першими спробами';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Кількість спроб і невдалих спроб обробки для дії сервісу до того, як ця дія сервісу буде відключена від автоматичного завершення.';
 

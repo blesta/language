@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Не вистачає "від".';
 $lang['Logs.!error.to_address.empty'] = 'Не вистачає адреси.';
 $lang['Logs.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 $lang['Logs.!error.deletelog_datetime'] = 'Неправильний формат дати.';
+$lang['Logs.!error.new_service.format'] = 'Новий сервіс повинен бути масивом.';
+$lang['Logs.!error.old_service.format'] = 'Старий сервіс повинен бути масивом.';
+$lang['Logs.!error.transactions.exists'] = 'Одна або декілька транзакцій не існують.';
+$lang['Logs.!error.transaction_id.format'] = 'Транзакції повинні бути масивом.';
+$lang['Logs.!error.service_id.exists'] = 'Невірний ідентифікатор послуги.';
 

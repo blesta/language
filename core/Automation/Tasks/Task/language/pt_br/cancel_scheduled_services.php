@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.cancel_scheduled_services.attempt'] = 'Tentativa de cancelar serviços programados.';
-$lang['Automation.task.cancel_scheduled_services.cancel_error'] = 'O serviço #%1$s do cliente #%2$s não pôde ser cancelado.';
 $lang['Automation.task.cancel_scheduled_services.cancel_success'] = 'O serviço #%1$s do cliente #%2$s foi cancelado.';
+$lang['Automation.task.cancel_scheduled_services.cancel_error'] = 'O serviço #%1$s do cliente #%2$s não pôde ser cancelado.';
 $lang['Automation.task.cancel_scheduled_services.completed'] = 'A tarefa de cancelamento de serviços agendados foi concluída.';
+$lang['Automation.task.cancel_scheduled_services.attempt'] = 'Tentativa de cancelar serviços programados.';
 

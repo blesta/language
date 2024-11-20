@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Support Manager > Abteilungen';
 $lang['AdminDepartments.!success.department_deleted'] = 'Die Abteilung %1$s wurde erfolgreich gelöscht.';
 $lang['AdminDepartments.!success.department_updated'] = 'Die Abteilung %1$s wurde erfolgreich aktualisiert.';
 $lang['AdminDepartments.!success.department_created'] = 'Die Abteilung %1$s wurde erfolgreich erstellt.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Verfügbare Prioritäten';
+$lang['AdminDepartments.add.field_priorities'] = 'Verfügbare Prioritäten';
 

@@ -39,7 +39,7 @@ $lang['AdminSystemCompanies.index.no_results'] = 'Şirket yok.';
 $lang['AdminSystemCompanies.index.categorylink_addcompany'] = 'Şirket Ekle';
 $lang['AdminSystemCompanies.index.boxtitle_companies'] = 'Şirketler';
 $lang['AdminSystemCompanies.index.page_title'] = 'Ayarlar > Sistem > Şirketler';
-$lang['AdminSystemCompanies.!success.company_deleted'] = '1$s şirketi başarıyla kaldırıldı!';
-$lang['AdminSystemCompanies.!success.company_edited'] = '1$s şirketi başarıyla güncellendi!';
-$lang['AdminSystemCompanies.!success.company_added'] = '1$s şirketi başarıyla oluşturuldu!';
+$lang['AdminSystemCompanies.!success.company_deleted'] = 'Şirket %1$s başarıyla kaldırıldı!';
+$lang['AdminSystemCompanies.!success.company_edited'] = 'Şirket %1$s başarıyla güncellendi!';
+$lang['AdminSystemCompanies.!success.company_added'] = 'Şirket %1$s başarıyla oluşturuldu!';
 

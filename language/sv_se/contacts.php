@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Fakturor är inställda 
 $lang['Contacts.!error.contact_type.format'] = 'Ogiltig kontakttyp.';
 $lang['Contacts.!error.user_id.exists'] = 'Användar-ID ogiltigt.';
 $lang['Contacts.!error.client_id.exists'] = 'Ogiltigt klient-ID.';
+$lang['Contacts.!error.number.required'] = 'Kontaktnumret är obligatoriskt.';
 

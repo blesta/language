@@ -18,7 +18,6 @@ $lang['ClientQuotations.approve.field_submit'] = 'Onaylamak';
 $lang['ClientQuotations.approve.field_cancel'] = 'İptal et, onaylama';
 $lang['ClientQuotations.approve.field_password'] = 'Onaylamak için Giriş Şifresi';
 $lang['ClientQuotations.approve.heading_approve'] = 'Onaylamak';
-$lang['ClientQuotations.index.no_results'] = '1$s Teklifiniz yok.';
 $lang['ClientQuotations.index.option_approve'] = 'Onaylamak';
 $lang['ClientQuotations.index.option_view'] = 'Görünüm';
 $lang['ClientQuotations.index.heading_options'] = 'Seçenekler';
@@ -35,4 +34,5 @@ $lang['ClientQuotations.index.category_pending'] = 'Beklemede';
 $lang['ClientQuotations.index.page_title'] = 'Müşteri #%1$s Teklifler';
 $lang['ClientQuotations.!success.approved_quotation'] = 'Teklif başarıyla onaylanmıştır.';
 $lang['ClientQuotations.!error.password_mismatch'] = 'Parola, oturum açma parolanızla eşleşmiyor.';
+$lang['ClientQuotations.index.no_results'] = 'Hiç %1$s yok Alıntılar.';
 

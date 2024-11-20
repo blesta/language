@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Τα απ�
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Το προσαρμοσμένο πεδίο πελάτη διαγράφηκε επιτυχώς.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Το προσαρμοσμένο πεδίο πελάτη δημιουργήθηκε με επιτυχία.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Το προσαρμοσμένο πεδίο πελάτη ενημερώθηκε επιτυχώς.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Δεν υπάρχουν εγκατεστημένες πύλες.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Υβριδικό';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Έμπορος';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Μη έμπορος';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Τύπος';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Πύλη';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Ενεργοποίηση';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ενεργοποίηση περιορισμών πύλης';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Περιορίστε τις πύλες που μπορούν να χρησιμοποιήσουν οι πελάτες. Από προεπιλογή, οι Περιορισμοί πύλης είναι απενεργοποιημένοι και όλες οι πύλες είναι διαθέσιμες.';
 

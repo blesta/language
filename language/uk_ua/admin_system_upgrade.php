@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Варіанти оновлення';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Оновлення налаштувань';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Наразі опції оновлення недоступні.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Оновлення налаштувань';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Варіанти оновлення';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Налаштування > Система > Параметри оновлення';
 

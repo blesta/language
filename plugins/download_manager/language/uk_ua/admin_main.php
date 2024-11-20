@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Файл успішно додано.'
 $lang['AdminMain.!success.category_deleted'] = 'Категорію успішно видалено.';
 $lang['AdminMain.!success.category_updated'] = 'Категорію успішно оновлено.';
 $lang['AdminMain.!success.category_added'] = 'Категорія успішно створена.';
+$lang['AdminMain.edit.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong>%1$s</strong>.';
 

@@ -9,8 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyBilling.invoices.text_hours'] = '1$s Saat';
-$lang['AdminCompanyBilling.invoices.text_hour'] = '1$s Saat';
 $lang['AdminCompanyBilling.invoices.text_none'] = 'Hiçbiri';
 $lang['AdminCompanyBilling.invoices.field.second_renewal_attempt_spacing'] = '2. Yenileme Denemesi Aralığı';
 $lang['AdminCompanyBilling.invoices.field.second_renewal_attempt_threshold'] = '2. Yenileme Denemesi Aralık Eşiği';
@@ -18,6 +16,8 @@ $lang['AdminCompanyBilling.invoices.field.first_renewal_attempt_spacing'] = '1. 
 $lang['AdminCompanyBilling.invoices.field.first_renewal_attempt_threshold'] = '1. Yenileme Denemesi Aralık Eşiği';
 $lang['AdminCompanyBilling.!tooltip.second_renewal_attempt_threshold'] = 'Geciktirmeden önce denenecek hizmet yenileme sayısı Aralık denemeleri Yenileme Denemesi Aralığı 2 saat arayla';
 $lang['AdminCompanyBilling.!tooltip.first_renewal_attempt_threshold'] = 'Geciktirmeden önce denenecek hizmet yenileme sayısı Aralık denemeleri Yenileme Denemesi Aralığı 1 saat arayla';
+$lang['AdminCompanyBilling.invoices.text_hours'] = '%1$s Saatler';
+$lang['AdminCompanyBilling.invoices.text_hour'] = '%1$s Saat';
 $lang['AdminCompanyBilling.latefees.field_submit'] = 'Ayarları Güncelle';
 $lang['AdminCompanyBilling.latefees.field.fixed'] = 'Sabit';
 $lang['AdminCompanyBilling.latefees.field.percent'] = 'Yüzde';
@@ -187,16 +187,12 @@ $lang['AdminCompanyBilling.notices.field.send_cancellation_notice'] = 'Hizmet İ
 $lang['AdminCompanyBilling.notices.text_edit_template'] = 'E-posta Şablonunu Düzenle';
 $lang['AdminCompanyBilling.notices.text_disabled'] = 'Engelli';
 $lang['AdminCompanyBilling.notices.text_duedate'] = 'Son Tarih';
-$lang['AdminCompanyBilling.notices.text_days'] = '1$s Gün';
-$lang['AdminCompanyBilling.notices.text_day'] = '1$s Günü';
 $lang['AdminCompanyBilling.notices.text_inv_duedate'] = 'Fatura Son Ödeme Tarihi';
 $lang['AdminCompanyBilling.notices.text_after'] = 'Sonra';
 $lang['AdminCompanyBilling.notices.text_before'] = 'Önce';
 $lang['AdminCompanyBilling.notices.text_notices'] = 'Ödeme bildirimleri, gecikme bildirimleri veya ödeme hatırlatıcıları olarak kullanılabilir.';
 $lang['AdminCompanyBilling.notices.boxtitle_notices'] = 'Bildirimler';
 $lang['AdminCompanyBilling.notices.page_title'] = 'Ayarlar > Şirket > Faturalama/Ödeme > Bildirimler';
-$lang['AdminCompanyBilling.invoices.text_days'] = '1$s Gün';
-$lang['AdminCompanyBilling.invoices.text_day'] = '1$s Günü';
 $lang['AdminCompanyBilling.invoices.text_sameday'] = 'Aynı Gün';
 $lang['AdminCompanyBilling.invoices.text_never'] = 'Asla';
 $lang['AdminCompanyBilling.invoices.text_any'] = '- Herhangi -';
@@ -305,4 +301,19 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Kupon başarıyla günce
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Kupon başarıyla oluşturuldu!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Bildirimler başarıyla güncellendi!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Fatura ve Ücretlendirme ayarları başarıyla güncellendi!';
+$lang['AdminCompanyBilling.notices.text_days'] = '%1$s Günler';
+$lang['AdminCompanyBilling.notices.text_day'] = '%1$s Gün';
+$lang['AdminCompanyBilling.invoices.text_days'] = '%1$s Günler';
+$lang['AdminCompanyBilling.invoices.text_day'] = '%1$s Gün';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2. Deneme Aralığı';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = '2. Deneme Aralık Eşiği';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1. Deneme Aralığı';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '1. Deneme Aralık Eşiği';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Girişimler';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Tip';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Hizmet Eylemleri';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Hizmet Sağlama Girişimleri';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Bir sonraki denemeyi ikinci deneme aralığı ayarı tarafından belirtilen miktarda geciktirmeden önce denenecek hizmet eylemlerinin sayısı';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Bir sonraki denemeyi ilk deneme aralığı ayarı tarafından belirtilen miktarda geciktirmeden önce denenecek hizmet eylemlerinin sayısı';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Bir hizmet eyleminin otomatik olarak tamamlanması devre dışı bırakılmadan önce bu hizmet eylemi için gerçekleştirilecek deneme ve başarısızlık sayısı.';
 

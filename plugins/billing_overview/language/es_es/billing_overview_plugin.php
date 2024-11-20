@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['BillingOverviewPlugin.description'] = 'Muestra las estadísticas de facturación en un widget en la página Resumen de facturación.';
 $lang['BillingOverviewPlugin.name'] = 'La facturación de un vistazo';
+$lang['BillingOverviewPlugin.description'] = 'Muestra las estadísticas de facturación en un widget en la página Resumen de facturación.';
 

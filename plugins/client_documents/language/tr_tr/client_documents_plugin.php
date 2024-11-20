@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Belgeler';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Belgeler';
 $lang['ClientDocumentsPlugin.description'] = 'Belirli istemciler tarafından indirilmek üzere dosya yükleyin.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Belgeler';
 

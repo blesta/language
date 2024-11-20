@@ -18,4 +18,6 @@ $lang['ClientEmails.index.text_to'] = 'Pour';
 $lang['ClientEmails.index.text_cc'] = 'CC';
 $lang['ClientEmails.index.text_from'] = 'De';
 $lang['ClientEmails.index.no_results'] = 'Vous n\'avez pas d\'historique de courrier électronique.';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Texte';
 

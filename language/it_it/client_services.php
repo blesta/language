@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Il servizio non può es
 $lang['ClientServices.!error.invoices_change_term'] = 'Il termine non può essere modificato finché non sono state pagate tutte le fatture relative a questo servizio.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Le opzioni configurabili non possono essere modificate finché non sono state pagate tutte le fatture contenenti questo servizio.';
 $lang['ClientServices.!error.password_mismatch'] = 'La password non corrisponde alla password di accesso.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Gestire il servizio genitori';
 

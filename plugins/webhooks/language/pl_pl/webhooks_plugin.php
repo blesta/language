@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Wysyła automatyczne żądania HTTP na podstawie zdarzeń i nasłuchuje żądań HTTP w celu wyzwolenia określonych zdarzeń.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Czyści pamięć podręczną listy obserwatorów zdarzeń.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Wyczyść pamięć podręczną';
 

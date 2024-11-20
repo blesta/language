@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.week'] = 'Εβδομάδα';
 $lang['Invoices.getPricingPeriods.day'] = 'Ημέρα';
 $lang['Invoices.!error.line_items.empty_split'] = 'Δεν έχει επιλεγεί καμία γραμμή τιμολογίου για διαχωρισμό.';
 $lang['Invoices.!error.line_items.minimum_split'] = 'Το τιμολόγιο πρέπει να έχει τουλάχιστον 2 γραμμές για να διαχωριστεί.';
+$lang['Invoices.!error.invoice_id.unique'] = 'Το τιμολόγιο προορισμού δεν μπορεί να είναι μέρος των προς συγχώνευση τιμολογίων.';
+$lang['Invoices.!error.invoice_id.status'] = 'Το τιμολόγιο προορισμού πρέπει να είναι ανοικτό και χωρίς συναλλαγές.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Όλα τα τιμολόγια πρέπει να ανήκουν στον ίδιο πελάτη.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Όλα τα τιμολόγια πρέπει να είναι ανοικτά και χωρίς συναλλαγές.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Όλα τα τιμολόγια πρέπει να έχουν το ίδιο νόμισμα.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Πρέπει να επιλεγούν τουλάχιστον δύο τιμολόγια.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Рік';
 $lang['Invoices.getPricingPeriods.month'] = 'Місяць';
 $lang['Invoices.getPricingPeriods.week'] = 'Тиждень';
 $lang['Invoices.getPricingPeriods.day'] = 'День';
+$lang['Invoices.!error.invoice_id.unique'] = 'Інвойс призначення не може бути частиною інвойсів, що об\'єднуються.';
+$lang['Invoices.!error.invoice_id.status'] = 'Інвойс призначення повинен бути відкритим і не містити жодних транзакцій.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Всі інвойси повинні належати одному клієнту.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Всі інвойси повинні бути відкритими і без будь-яких транзакцій.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Всі інвойси повинні бути в одній валюті.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Необхідно вибрати принаймні два інвойси.';
+$lang['Invoices.!line_item.parent_description'] = 'Служба у справах дітей %1$s - %2$s:';
 

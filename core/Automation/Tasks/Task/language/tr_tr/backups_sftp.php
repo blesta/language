@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.attempt'] = 'Veritabanı SFTP aracılığıyla yedeklenmeye çalışılıyor.';
-$lang['Automation.task.backups_sftp.completed'] = 'SFTP veritabanı yedekleme görevi tamamlandı.';
 $lang['Automation.task.backups_sftp.success'] = 'Yedekleme başarıyla tamamlandı.';
+$lang['Automation.task.backups_sftp.completed'] = 'SFTP veritabanı yedekleme görevi tamamlandı.';
+$lang['Automation.task.backups_sftp.attempt'] = 'Veritabanı SFTP aracılığıyla yedeklenmeye çalışılıyor.';
 

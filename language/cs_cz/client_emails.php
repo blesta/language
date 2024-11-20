@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Předmět';
 $lang['ClientEmails.index.heading_date'] = 'Datum';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Historie e-mailů';
 $lang['ClientEmails.index.page_title'] = 'Historie e-mailů klienta #%1$s';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Text';
 

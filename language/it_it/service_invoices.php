@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'I tentativi massimi d
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'I tentativi falliti devono essere un numero.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'ID fattura non valido.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'ID servizio non valido.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Annullamento';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Non sospensione';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Sospensione';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Rinnovo';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Approvvigionamento';
+$lang['ServiceInvoices.!error.type.valid'] = 'Tipo di tentativo non valido.';
 

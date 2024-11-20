@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Layanan yang dipilih berhasil 
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Layanan yang dipilih tidak lagi dijadwalkan untuk dibatalkan.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Layanan yang dipilih berhasil dijadwalkan untuk dibatalkan.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Faktur yang dipilih telah ditandai sebagai dicetak.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Alasan Penangguhan:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Batalkan penangguhan';
+$lang['AdminBilling.services.action.suspend'] = 'Menangguhkan';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Layanan yang dipilih berhasil dibatalkan penangguhannya.';
+$lang['AdminBilling.!success.services_suspended'] = 'Layanan yang dipilih berhasil ditangguhkan.';
 

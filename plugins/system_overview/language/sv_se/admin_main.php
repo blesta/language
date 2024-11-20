@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Aktiva tjänster';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Aktiva kunder';
 $lang['AdminMain.index.boxtitle_overview'] = 'Översikt över systemet';
 $lang['AdminMain.!success.options_updated'] = 'Inställningarna för systemöversikten har uppdaterats!';
+$lang['AdminMain.date_range.day'] = '1 dag';
+$lang['AdminMain.date_range.month'] = 'Aktuell månad';
+$lang['AdminMain.date_range.ytd'] = 'År till dags dato';
 

@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Aktualizace jm
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Obnovení domény';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Změna registrátora';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Změna automatického obnovení';
+$lang['DomainsController.!error.move_error'] = 'Vybrané domény nebylo možné přesunout na vybraného klienta.';
 

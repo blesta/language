@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.attempt'] = 'Próba utworzenia kopii zapasowej bazy danych przez SFTP.';
-$lang['Automation.task.backups_sftp.completed'] = 'Zadanie tworzenia kopii zapasowej bazy danych SFTP zostało zakończone.';
 $lang['Automation.task.backups_sftp.success'] = 'Tworzenie kopii zapasowej zakończyło się pomyślnie.';
+$lang['Automation.task.backups_sftp.completed'] = 'Zadanie tworzenia kopii zapasowej bazy danych SFTP zostało zakończone.';
+$lang['Automation.task.backups_sftp.attempt'] = 'Próba utworzenia kopii zapasowej bazy danych przez SFTP.';
 

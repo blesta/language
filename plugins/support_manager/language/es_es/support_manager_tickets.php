@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.log.status'] = 'El estado ha cambiado a %1$s.';
 $lang['SupportManagerTickets.log.ticket_staff_id'] = 'Asignado a %1$s.';
 $lang['SupportManagerTickets.log.unassigned'] = 'No asignado';
 $lang['SupportManagerTickets.reassign_note'] = 'Este ticket fue reasignado a %1$s. Las respuestas anteriores del cliente fueron reasignadas a este cliente y pueden haber sido realizadas por otra persona.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Seleccione una prioridad válida para este departamento.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Al menos uno de los contactos del ticket no es válido.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Al menos uno de los destinatarios del billete no es válido.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Al menos uno de los destinatarios del billete está duplicado.';
 

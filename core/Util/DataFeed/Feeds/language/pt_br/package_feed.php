@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Mostrar o nome de um p
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Exemplo de código';
 $lang['PackageFeed.description'] = 'Retorna o nome, a descrição ou o preço de um pacote.';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Mostrar o limite de quantidade de clientes de um pacote:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Mostra o valor do estoque (quantidade) de um pacote:';
 

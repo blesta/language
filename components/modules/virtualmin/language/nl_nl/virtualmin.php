@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servers';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin is een controlepaneel voor domeinhosting en websites, dat de mogelijkheid biedt om vele domeinen te creëren en te beheren en is beschikbaar in zowel open source als commerciële versies. Het is gebaseerd op Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Een of meer pakketdomeinen zijn ongeldig.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Voer een CSV-lijst in met domeinen die beschikbaar zijn om subdomeinen voor te leveren, bijvoorbeeld "domein1.com,domein2.com,domein3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Lijst met beschikbare domeinen';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'uitschakelen';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'inschakelen';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Subdomeinen verkopen inschakelen';
 

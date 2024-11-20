@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s staré protoko
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s staré protokoly brány byly odstraněny.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Úloha čištění protokolů byla dokončena.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Pokus o vyčištění starých protokolů.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s staré protokoly o změnách služby byly odstraněny.';
 

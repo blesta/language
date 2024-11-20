@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'O retorno de chamada não po
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Insira um retorno de chamada válido.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Já existe um webhook desse tipo com esse retorno de chamada.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'A empresa fornecida não existe.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'O evento fornecido não existe.';
 

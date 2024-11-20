@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Виправлено';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Відсоток';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Будь-який';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'По-перше.';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Відсоток';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Виправлено';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 

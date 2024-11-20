@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Manager di supporto > Dipartimenti
 $lang['AdminDepartments.!success.department_deleted'] = 'Il reparto %1$s è stato cancellato con successo.';
 $lang['AdminDepartments.!success.department_updated'] = 'Il reparto %1$s è stato aggiornato con successo.';
 $lang['AdminDepartments.!success.department_created'] = 'Il reparto %1$s è stato creato con successo.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Priorità disponibili';
+$lang['AdminDepartments.add.field_priorities'] = 'Priorità disponibili';
 

@@ -10,14 +10,6 @@
  */
 
 $lang['Main.packages.continue_btn'] = 'Devam et';
-$lang['Main.packages.term_years'] = '1$s yıl';
-$lang['Main.packages.term_year'] = '1$s yıl';
-$lang['Main.packages.term_months'] = '1$s ay';
-$lang['Main.packages.term_month'] = '1$s ay';
-$lang['Main.packages.term_weeks'] = '1$s hafta';
-$lang['Main.packages.term_week'] = '1$s hafta';
-$lang['Main.packages.term_days'] = '1$s gün';
-$lang['Main.packages.term_day'] = '1$s gün';
 $lang['Main.packages.continue_note'] = 'Yapılandırmaya ve ödemeye devam edin.';
 $lang['Main.packages.show_cart_btn'] = 'Sepeti Göster';
 $lang['Main.packages.button_order'] = 'Şimdi Sipariş Verin';
@@ -41,4 +33,12 @@ $lang['Main.index.group_heading'] = 'Aşağıdan bir paket seçin.';
 $lang['Main.index.domain_bundle_eligble'] = 'Ücretsiz Alan Adı için Uygun';
 $lang['Main.index.subheading'] = 'Devam etmek için lütfen aşağıdan bir paket grubu seçin.';
 $lang['Main.index.heading'] = 'Paket Seçimi';
+$lang['Main.packages.term_years'] = '%1$s yıl';
+$lang['Main.packages.term_year'] = '%1$s yıl';
+$lang['Main.packages.term_months'] = '%1$s ay';
+$lang['Main.packages.term_month'] = '%1$s ay';
+$lang['Main.packages.term_weeks'] = '%1$s haftalar';
+$lang['Main.packages.term_week'] = '%1$s haftası';
+$lang['Main.packages.term_days'] = '%1$s gün';
+$lang['Main.packages.term_day'] = '%1$s günü';
 

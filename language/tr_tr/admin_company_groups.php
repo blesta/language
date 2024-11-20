@@ -55,8 +55,10 @@ $lang['AdminCompanyGroups.index.boxtitle_groups'] = 'Müşteri Grupları';
 $lang['AdminCompanyGroups.index.page_title'] = 'Ayarlar > Şirket > Müşteri Grupları';
 $lang['AdminCompanyGroups.!tooltip.email_verification'] = 'Yeni bir oturum açıldığında veya bir müşteri e-postasını değiştirdiğinde bir e-posta doğrulama e-postası göndermek için işaretleyin. Doğrulama yapılana kadar müşteri profilinde bir bildirim görünecektir.';
 $lang['AdminCompanyGroups.!tooltip.force_email_usernames'] = 'Müşterilerin kendi kullanıcı adlarını tanımlama özelliğini kaldırır.';
-$lang['AdminCompanyGroups.!error.delete_failed'] = '1$s varsayılan gruptur ve silinemez.';
-$lang['AdminCompanyGroups.!success.delete_deleted'] = '1$s başarıyla silindi!';
-$lang['AdminCompanyGroups.!success.edit_updated'] = '1$s başarıyla düzenlendi!';
-$lang['AdminCompanyGroups.!success.add_created'] = '1$s başarıyla oluşturuldu!';
+$lang['AdminCompanyGroups.!error.delete_failed'] = '{1$s} varsayılan gruptur ve silinemez.';
+$lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s başarıyla silindi!';
+$lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s başarıyla düzenlendi!';
+$lang['AdminCompanyGroups.!success.add_created'] = '%1$s başarıyla oluşturuldu!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'İzin Verilen Ağ Geçitleri';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'İzin Verilen Ağ Geçitleri';
 

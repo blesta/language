@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Požadovan
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Vlastní pole klienta bylo úspěšně odstraněno.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Vlastní pole klienta bylo úspěšně vytvořeno.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Vlastní pole klienta bylo úspěšně aktualizováno.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Nejsou nainstalovány žádné brány.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybridní';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Obchodník';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non-Merchant';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Typ';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Brána';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Povolit';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Povolení omezení brány';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Omezit, které brány mohou klienti používat. Ve výchozím nastavení jsou omezení brány vypnuta a všechny brány jsou dostupné.';
 

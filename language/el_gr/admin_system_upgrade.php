@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Επιλογές αναβάθμισης';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Ενημέρωση ρυθμίσεων';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Οι επιλογές αναβάθμισης δεν είναι διαθέσιμες αυτή τη στιγμή.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Ενημέρωση ρυθμίσεων';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Επιλογές αναβάθμισης';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Ρυθμίσεις > Σύστημα > Επιλογές αναβάθμισης';
 

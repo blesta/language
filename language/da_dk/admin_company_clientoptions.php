@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.requiredfields.field_email'] = 'E-mail';
 $lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefon';
 $lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
 $lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Opdater indstillinger';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Der er ingen installerede gateways.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hybrid';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Købmand';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Ikke-forhandler';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Type';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gateway';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Gør det muligt';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Aktivér Gateway-begrænsninger';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Begræns, hvilke gateways klienter kan bruge. Som standard er gateway-begrænsninger deaktiveret, og alle gateways er tilgængelige.';
 

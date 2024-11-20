@@ -27,7 +27,6 @@ $lang['Checkout2.!error.api_version.valid'] = 'Lütfen geçerli bir API sürüm�
 $lang['Checkout2.getapiversions.v5'] = 'Sürüm 5';
 $lang['Checkout2.getapiversions.v1'] = 'Sürüm 1 (Eski)';
 $lang['Checkout2.buildprocess.submit'] = '2Checkout ile ödeme yapın';
-$lang['Checkout2.refund.comment'] = '1$s için bir geri ödeme başlatılıyor.';
 $lang['Checkout2.test_mode'] = 'Test Modu';
 $lang['Checkout2.sandbox'] = 'Sandbox';
 $lang['Checkout2.api_password'] = 'API Şifresi';
@@ -38,4 +37,5 @@ $lang['Checkout2.secret_word'] = 'Gizli Kelime';
 $lang['Checkout2.secret_key'] = 'Gizli Anahtar';
 $lang['Checkout2.merchant_code'] = 'Satıcı Kodu';
 $lang['Checkout2.name'] = '2Checkout';
+$lang['Checkout2.refund.comment'] = '%1$s için bir geri ödeme başlatılması.';
 

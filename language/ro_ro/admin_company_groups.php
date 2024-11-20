@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s este grupul implicit ș
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s a fost șters cu succes!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s a fost editat cu succes!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s a fost creat cu succes!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Porți permise';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Porți permise';
 

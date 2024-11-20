@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Il tema è stato aggiorna
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Il tema importato non è un tema dell\'interfaccia client.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Il tema importato non è un tema per l\'interfaccia di amministrazione.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Caricare un tema da importare.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'CSS personalizzato';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'CSS personalizzato';
 

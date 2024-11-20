@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_description'] = 'Vis beskrivelse
 $lang['PackageFeed.getOptionFields.example_code_pricing'] = 'Vis pris, fornyelse, opsætningsgebyr, annulleringsgebyr eller valuta for en pakkepris:';
 $lang['PackageFeed.!error.invalid_endpoint'] = 'Det ønskede slutpunkt er ikke gyldigt eller findes ikke.';
 $lang['PackageFeed.name'] = 'Packages';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Vis kundens mængdebegrænsning for en pakke:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Vis lagermængden (antal) af en pakke:';
 

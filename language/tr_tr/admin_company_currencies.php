@@ -74,8 +74,8 @@ $lang['AdminCompanyCurrencies.!tooltip.show_currency_code'] = 'Görüntülenen f
 $lang['AdminCompanyCurrencies.!tooltip.default_currency'] = 'Sistemde kullanılan varsayılan para birimi. Bunu en çok tercih ettiğiniz para birimine ayarlayın.';
 $lang['AdminCompanyCurrencies.!tooltip.precision'] = 'Hassasiyet, para biriminin desteklediği ondalık basamaktan sonraki anlamlı basamak sayısıdır.';
 $lang['AdminCompanyCurrencies.!success.rates_updated'] = 'Döviz kurları başarıyla güncellenmiştir.';
-$lang['AdminCompanyCurrencies.!success.delete_deleted'] = '1$s para birimi başarıyla silindi!';
-$lang['AdminCompanyCurrencies.!success.edit_updated'] = '1$s para birimi başarıyla güncellendi!';
-$lang['AdminCompanyCurrencies.!success.add_created'] = '1$s para birimi başarıyla oluşturuldu!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Para Birimi Kurulumu ayarları başarıyla güncellendi!';
+$lang['AdminCompanyCurrencies.!success.delete_deleted'] = '%1$s para birimi başarıyla silindi!';
+$lang['AdminCompanyCurrencies.!success.edit_updated'] = '%1$s para birimi başarıyla güncellendi!';
+$lang['AdminCompanyCurrencies.!success.add_created'] = '%1$s para birimi başarıyla oluşturuldu!';
 

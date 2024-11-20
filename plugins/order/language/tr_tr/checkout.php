@@ -11,7 +11,6 @@
 
 $lang['Checkout.complete.totals.total_paid'] = 'Toplam ödeme:';
 $lang['Checkout.complete.totals.total'] = 'Toplam Ödenecek:';
-$lang['Checkout.complete.totals.tax'] = '1$s (%2$s%%):';
 $lang['Checkout.complete.totals.subtotal'] = 'Ara toplam:';
 $lang['Checkout.complete.quantity'] = '%1$s @';
 $lang['Checkout.complete.table_price'] = 'Birim Fiyat';
@@ -43,12 +42,10 @@ $lang['Checkout.contact_info.field_first_name'] = 'İlk İsim';
 $lang['Checkout.index.totals.total'] = 'Toplam Ödeme:';
 $lang['Checkout.index.totals.paid'] = 'Ücretli:';
 $lang['Checkout.index.totals.credit'] = 'Kredi:';
-$lang['Checkout.index.totals.tax'] = '1$s (%2$s%%):';
 $lang['Checkout.index.totals.subtotal'] = 'Ara toplam:';
 $lang['Checkout.index.totals.discount'] = 'İndirim:';
 $lang['Checkout.index.totals.setup_fee'] = 'Kurulum Ücreti:';
 $lang['Checkout.index.field_agree_tos'] = '<a href="%1$s" target="_blank">Şartlar ve Koşulları</a> okudum ve kabul ediyorum';
-$lang['Checkout.getpaymentaccounts.account_name'] = '1$s %2$s - %3$s x%4$s';
 $lang['Checkout.getpaymentaccounts.paymentaccount_ach'] = 'ACH Hesapları';
 $lang['Checkout.getpaymentaccounts.paymentaccount_cc'] = 'Kredi Kartı Hesapları';
 $lang['Checkout.setcontactview.text_none'] = 'Hiçbiri';
@@ -60,4 +57,7 @@ $lang['Checkout.!error.payment_authorize'] = 'Seçilen ödeme hesabı için öde
 $lang['Checkout.!error.not_client_owner'] = 'Devam edebilmek için müşteri sahibi olarak oturum açmış olmanız gerekmektedir.';
 $lang['Checkout.!error.no_payment_info'] = 'Devam etmek için bir ödeme yöntemi seçmelisiniz.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Hüküm ve koşulları kabul ettiğinizi onaylamanız gerekmektedir.';
+$lang['Checkout.complete.totals.tax'] = '%1$s (%2$s%%):';
+$lang['Checkout.index.totals.tax'] = '%1$s (%2$s%%):';
+$lang['Checkout.getpaymentaccounts.account_name'] = '%1$s %2$s - %3$s x%4$s';
 

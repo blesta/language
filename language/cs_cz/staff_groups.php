@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Neplatné ID skupiny zaměstnanců.';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Černá listina';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Odstranění přílohy e-mailu';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Odstranění šablony HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Upravit šablonu HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Přidání šablony HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Šablony HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Služba pokročilých úprav';
 

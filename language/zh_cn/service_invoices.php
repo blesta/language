@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = '最大尝试次数必
 $lang['ServiceInvoices.!error.failed_attempts.format'] = '尝试失败次数必须是一个数字。';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = '发票 ID 无效。';
 $lang['ServiceInvoices.!error.service_id.exists'] = '服务 ID 无效。';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = '取消';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = '不暂停';
+$lang['ServiceInvoices.getattempttypes.suspension'] = '悬挂';
+$lang['ServiceInvoices.getattempttypes.renewal'] = '续订';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = '供应';
+$lang['ServiceInvoices.!error.type.valid'] = '尝试类型无效。';
 

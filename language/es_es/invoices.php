@@ -95,4 +95,11 @@ $lang['Invoices.!error.lines[][amount].format'] = 'El coste unitario debe ser un
 $lang['Invoices.!error.lines[][tax].format'] = 'El impuesto sobre las partidas debe ser "verdadero" o "falso".';
 $lang['Invoices.!error.line_items.empty_split'] = 'No se ha seleccionado ninguna línea de factura para dividir.';
 $lang['Invoices.!error.line_items.minimum_split'] = 'La factura debe tener al menos 2 líneas para ser dividida.';
+$lang['Invoices.!error.invoice_id.unique'] = 'La factura de destino no puede formar parte de las facturas a fusionar.';
+$lang['Invoices.!error.invoice_id.status'] = 'La factura de destino debe estar abierta y sin transacciones.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Todas las facturas deben pertenecer al mismo cliente.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Todas las facturas deben estar abiertas y sin transacciones.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Todas las facturas deben tener la misma moneda.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Deben seleccionarse al menos dos facturas.';
+$lang['Invoices.!line_item.parent_description'] = 'Servicio Infantil de %1$s - %2$s:';
 

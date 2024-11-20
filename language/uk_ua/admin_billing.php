@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Обрані послуги б
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Вибрані послуги більше не планується скасовувати.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Вибрані послуги були успішно скасовані за розкладом.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Вибрані інвойси позначені як надруковані.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Причина відсторонення:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Розблокувати';
+$lang['AdminBilling.services.action.suspend'] = 'Призупинити';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Відібрані сервіси були успішно відновлені.';
+$lang['AdminBilling.!success.services_suspended'] = 'Вибрані сервіси були успішно призупинені.';
 

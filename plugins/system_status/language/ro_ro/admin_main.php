@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Există probleme grave care afectează c
 $lang['AdminMain.index.health_fair'] = 'Există unele probleme care afectează capacitatea sistemului de a funcționa în mod normal.';
 $lang['AdminMain.index.health_good'] = 'În general, sistemul este în stare bună, dar există unele elemente care ar putea necesita atenția dumneavoastră.';
 $lang['AdminMain.index.health_excellent'] = 'Sistemul este sănătos și pare să funcționeze normal.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Configurare?';
+$lang['AdminMain.index.upload_dir'] = 'Calea directorului de încărcare din setările dvs. se află în directorul web rădăcină.  Ar trebui să fie plasat deasupra directorului web rădăcină pentru a vă asigura că nu există nicio problemă cu accesul public la acesta.';
 

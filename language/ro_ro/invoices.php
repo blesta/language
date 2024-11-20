@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'Anul';
 $lang['Invoices.getPricingPeriods.month'] = 'Luna';
 $lang['Invoices.getPricingPeriods.week'] = 'Săptămâna';
 $lang['Invoices.getPricingPeriods.day'] = 'Ziua';
+$lang['Invoices.!error.invoice_id.unique'] = 'Factura de destinație nu poate face parte din facturile care urmează să fie fuzionate.';
+$lang['Invoices.!error.invoice_id.status'] = 'Factura de destinație trebuie să fie deschisă și fără nicio tranzacție.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Toate facturile trebuie să aparțină aceluiași client.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Toate facturile trebuie să fie deschise și fără nicio tranzacție.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Toate facturile trebuie să aibă aceeași monedă.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Trebuie selectate cel puțin două facturi.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 

@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Поновити �
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Реєстратор змін';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Змінити автоматичне поновлення';
 $lang['DomainsController.example'] = 'Приклад мови';
+$lang['DomainsController.!error.move_error'] = 'Вибрані домени не можуть бути переміщені до вибраного клієнта.';
 

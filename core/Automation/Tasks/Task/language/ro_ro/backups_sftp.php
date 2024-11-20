@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.attempt'] = 'Încercarea de a face o copie de rezervă a bazei de date prin SFTP.';
-$lang['Automation.task.backups_sftp.completed'] = 'Sarcina de copiere de rezervă a bazei de date SFTP s-a finalizat.';
 $lang['Automation.task.backups_sftp.success'] = 'Salvarea s-a finalizat cu succes.';
+$lang['Automation.task.backups_sftp.completed'] = 'Sarcina de copiere de rezervă a bazei de date SFTP s-a finalizat.';
+$lang['Automation.task.backups_sftp.attempt'] = 'Încercarea de a face o copie de rezervă a bazei de date prin SFTP.';
 

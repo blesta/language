@@ -82,4 +82,5 @@ $lang['AppController.!success.license_updated'] = 'Lisansınız başarıyla yeni
 $lang['AppController.!error.invalid_csrf'] = 'Form belirteci geçersiz.';
 $lang['AppController.!error.unauthorized_access'] = 'Bu kaynağa erişim yetkiniz yok';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.!error.client_unauthorized_access'] = 'Bu kaynağa erişim izniniz yok, erişim talebinde bulunmak için lütfen birincil hesap sahibiyle iletişime geçin';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['_PaymentTypes.cash'] = 'Tunai';
-$lang['_PaymentTypes.check'] = 'Periksa';
 $lang['_PaymentTypes.in_house_credit'] = 'Kredit In House';
 $lang['_PaymentTypes.money_order'] = 'Wesel';
+$lang['_PaymentTypes.check'] = 'Periksa';
+$lang['_PaymentTypes.cash'] = 'Tunai';
 

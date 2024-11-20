@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Назва стилю сторін
 $lang['PaypalPaymentsStandard.account_id'] = 'Електронна пошта PayPal рахунку';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard - це один з найпростіших способів безпечного прийому платежів за допомогою кредитних карток і PayPal в Інтернеті';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'У ваших даних мапування знайдено дублікати адрес, видаліть дублікати і спробуйте ще раз.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'У ваших картографічних даних знайдено невірний рядок, перевірте правильність адреси електронної пошти та ідентифікатора клієнта і повторіть спробу.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Призначений для використання з підписками PayPal, створеними за межами Blesta. Зіставте email_платника з внутрішнім ID клієнта, 1 в рядку. Наприклад: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Картування платежів';
 

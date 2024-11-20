@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Usługa nie może zosta
 $lang['ClientServices.!error.invoices_change_term'] = 'Termin nie może zostać zmieniony do momentu opłacenia wszystkich faktur zawierających tę usługę.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Konfigurowalnych opcji nie można zmienić, dopóki wszystkie faktury zawierające tę usługę nie zostaną opłacone.';
 $lang['ClientServices.!error.password_mismatch'] = 'Hasło nie jest zgodne z hasłem logowania.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Zarządzanie usługą dla rodziców';
 

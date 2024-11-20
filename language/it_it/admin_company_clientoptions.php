@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'I campi ri
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Il campo personalizzato del cliente è stato eliminato con successo.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Il campo personalizzato del cliente è stato creato con successo.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Il campo personalizzato del cliente è stato aggiornato con successo.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Non ci sono gateway installati.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Ibrido';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Commerciante';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non commerciante';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Tipo';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Porta d\'ingresso';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Abilitazione';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Abilita le restrizioni del gateway';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limita i gateway che i client possono utilizzare. Per impostazione predefinita, le restrizioni sui gateway sono disattivate e tutti i gateway sono disponibili.';
 

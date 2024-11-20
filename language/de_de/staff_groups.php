@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Bitte geben Sie einen Namen ein.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Ungültige Personalgruppen-ID.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'E-Mail-Anhang löschen';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'HTML-Vorlage löschen';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'HTML-Vorlage bearbeiten';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML-Vorlage hinzufügen';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-Vorlagen';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Erweiterter Bearbeitungsdienst';
 

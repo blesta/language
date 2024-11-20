@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Událost';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Přidat webový háček';
 $lang['AdminMain.index.no_results'] = 'Nejsou k dispozici žádné webové háčky.';
 $lang['AdminMain.index.text_description_incoming'] = 'Přijme požadavek HTTP a spustí událost v systému pomocí parametrů přijatých v požadavku. Požadavek může být přijat pomocí GET, POST nebo JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Po spuštění události odešle požadavek HTTP na adresu URL. Požadavek lze odeslat pomocí GET, POST nebo JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Po spuštění události odešle požadavek HTTP na adresu URL. Požadavek lze odeslat pomocí GET, POST, PUT nebo JSON.';
 $lang['AdminMain.index.option_delete'] = 'Odstranit';
 $lang['AdminMain.index.option_edit'] = 'Upravit';
 $lang['AdminMain.index.heading_options'] = 'Možnosti';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Webový háček byl úspěšně o
 $lang['AdminMain.!success.webhook_updated'] = 'Webový háček byl úspěšně aktualizován!';
 $lang['AdminMain.!success.webhook_added'] = 'Webový háček byl úspěšně přidán!';
 $lang['AdminMain.!tooltip.callback'] = 'Callback představuje místo, kam bude požadavek odeslán nebo přijat, pro odchozí webhooky musí být URL a pro příchozí webhooky musí být název URL, kde bude požadavek přijat. např. http://blesta.com/plugin/webhooks/trigger/index/[Callback Name].';
+$lang['AdminMain.edit.field_cancel'] = 'Zrušit';
+$lang['AdminMain.add.field_cancel'] = 'Zrušit';
 

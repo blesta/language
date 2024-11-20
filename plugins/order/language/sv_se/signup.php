@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Ett meddelande har skickats för a
 $lang['Signup.!notice.force_email_usernames'] = 'Ditt användarnamn är detsamma som din e-postadress.';
 $lang['Signup.!error.not_client_owner'] = 'Du måste vara inloggad som kundägare för att kunna fortsätta.';
 $lang['Signup.!error.captcha.invalid'] = 'Den angivna captcha var ogiltig. Vänligen försök igen.';
+$lang['Signup.otp.field_submit'] = 'Logga in';
+$lang['Signup.otp.field_otp'] = 'Lösenord för engångsbruk';
+$lang['Signup.otp.login_heading'] = 'Logga in';
+$lang['Signup.index.field_agree_tos'] = 'Jag har läst och godkänner de <a href="%1$s" target="_blank">allmänna villkoren</a>';
+$lang['Signup.otp.description'] = 'Vänligen ange ditt engångslösenord.';
+$lang['Signup.otp.page_title'] = 'Logga in';
+$lang['Signup.!error.invalid_agree_tos'] = 'Du måste bekräfta att du samtycker till villkoren.';
 

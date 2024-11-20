@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'De instellingen zijn succesvol bijgewerkt!';
-$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP deblokkering';
-$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Sta toe dat het IP-adres wordt opgegeven door de client';
 $lang['IpUnblockerManagePlugin.index.submit_settings'] = 'Sla';
+$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Sta toe dat het IP-adres wordt opgegeven door de client';
+$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP deblokkering';
+$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'De instellingen zijn succesvol bijgewerkt!';
 

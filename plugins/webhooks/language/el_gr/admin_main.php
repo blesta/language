@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Εκδήλωση';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Προσθήκη Webhook';
 $lang['AdminMain.index.no_results'] = 'Δεν υπάρχουν διαθέσιμα webhooks.';
 $lang['AdminMain.index.text_description_incoming'] = 'Λαμβάνει ένα αίτημα HTTP και ενεργοποιεί ένα συμβάν στο σύστημα χρησιμοποιώντας τις παραμέτρους που λαμβάνονται στο αίτημα. Το αίτημα μπορεί να ληφθεί με τη χρήση GET, POST ή JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Αποστέλλει ένα αίτημα HTTP σε μια διεύθυνση URL όταν ενεργοποιείται ένα συμβάν. Το αίτημα μπορεί να σταλεί με τη χρήση GET, POST ή JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Αποστέλλει ένα αίτημα HTTP σε μια διεύθυνση URL όταν ενεργοποιείται ένα συμβάν. Το αίτημα μπορεί να σταλεί χρησιμοποιώντας GET, POST, PUT ή JSON.';
 $lang['AdminMain.index.option_delete'] = 'Διαγραφή';
 $lang['AdminMain.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminMain.index.heading_options'] = 'Επιλογές';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Το webhook διαγράφηκε
 $lang['AdminMain.!success.webhook_updated'] = 'Το webhook ενημερώθηκε με επιτυχία!';
 $lang['AdminMain.!success.webhook_added'] = 'Το webhook προστέθηκε με επιτυχία!';
 $lang['AdminMain.!tooltip.callback'] = 'Το callback αντιπροσωπεύει τον τόπο αποστολής ή λήψης του αιτήματος, για τα εξερχόμενα webhooks πρέπει να είναι μια διεύθυνση URL και για τα εισερχόμενα webhooks πρέπει να είναι το όνομα της διεύθυνσης URL όπου θα ληφθεί το αίτημα. π.χ. http://blesta.com/plugin/webhooks/trigger/index/[Callback Name].';
+$lang['AdminMain.edit.field_cancel'] = 'Ακύρωση';
+$lang['AdminMain.add.field_cancel'] = 'Ακύρωση';
 

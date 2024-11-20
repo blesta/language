@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Il coupon è stato aggio
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Il coupon è stato creato con successo!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Gli avvisi sono stati aggiornati con successo!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Le impostazioni di Fattura e Addebito sono state aggiornate con successo!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Spaziatura del 2° tentativo';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Soglia di spaziatura del 2° tentativo';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1° tentativo Spaziatura';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Soglia di spaziatura del 1° tentativo';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Tentativi';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Tipo';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Azioni di servizio';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Tentativi di fornitura del servizio';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Il numero di azioni di servizio da tentare prima di ritardare il tentativo successivo della quantità specificata dall\'impostazione della spaziatura del secondo tentativo.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Il numero di azioni di servizio da tentare prima di ritardare il tentativo successivo della quantità specificata dall\'impostazione della spaziatura del primo tentativo.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Il numero di tentativi e di fallimenti da elaborare per un\'azione di servizio prima che tale azione di servizio venga disabilitata dal completamento automatico.';
 

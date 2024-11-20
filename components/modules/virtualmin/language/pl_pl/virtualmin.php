@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Serwery';
 $lang['Virtualmin.module_row'] = 'Serwer';
 $lang['Virtualmin.description'] = 'Virtualmin to panel kontrolny hostingu domen i stron internetowych, który daje możliwość tworzenia i zarządzania wieloma domenami i jest dostępny zarówno w wersji open source, jak i komercyjnej. Jest on oparty na Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Co najmniej jedna domena pakietu jest nieprawidłowa.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Wprowadź listę CSV domen, które będą dostępne do udostępniania subdomen, np. "domena1.com,domena2.com,domena3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Lista dostępnych domen';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Wyłącz';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Włącz';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Włączanie sprzedaży subdomen';
 

@@ -82,4 +82,5 @@ $lang['AppController.graphs.label.total'] = 'Total';
 $lang['AppController.sreader.dropdown'] = 'Desplegable';
 $lang['AppController.sreader.navigation'] = 'Alternar navegación';
 $lang['AppController.dropzone.text'] = 'Suelte los archivos aquí para cargarlos o haga clic para seleccionarlos';
+$lang['AppController.!error.client_unauthorized_access'] = 'No tiene permiso para acceder a ese recurso. Póngase en contacto con el titular principal de la cuenta para solicitar acceso.';
 

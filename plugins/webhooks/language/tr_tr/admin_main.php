@@ -40,7 +40,7 @@ $lang['AdminMain.add.heading_event'] = 'Etkinlik';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Web kancası ekle';
 $lang['AdminMain.index.no_results'] = 'Kullanılabilir web kancası yok.';
 $lang['AdminMain.index.text_description_incoming'] = 'Bir HTTP isteği alır ve istekte alınan parametreleri kullanarak sistemde bir olayı tetikler. İstek GET, POST veya JSON kullanılarak alınabilir.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Bir olay tetiklendiğinde bir URL\'ye HTTP isteği gönderir. İstek GET, POST veya JSON kullanılarak gönderilebilir.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Bir olay tetiklendiğinde bir URL\'ye HTTP isteği gönderir. İstek GET, POST, PUT veya JSON kullanılarak gönderilebilir.';
 $lang['AdminMain.index.option_delete'] = 'Silme';
 $lang['AdminMain.index.option_edit'] = 'Düzenle';
 $lang['AdminMain.index.heading_options'] = 'Seçenekler';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Web kancası başarıyla silindi!
 $lang['AdminMain.!success.webhook_updated'] = 'Web kancası başarıyla güncellendi!';
 $lang['AdminMain.!success.webhook_added'] = 'Web kancası başarıyla eklendi!';
 $lang['AdminMain.!tooltip.callback'] = 'Geri arama, isteğin gönderileceği veya alınacağı yeri temsil eder, giden web kancaları için bir URL olmalı ve gelen web kancaları için isteğin alınacağı URL\'nin adı olmalıdır. ör. http://blesta.com/plugin/webhooks/trigger/index/[Geri Arama Adı].';
+$lang['AdminMain.edit.field_cancel'] = 'İptal';
+$lang['AdminMain.add.field_cancel'] = 'İptal';
 

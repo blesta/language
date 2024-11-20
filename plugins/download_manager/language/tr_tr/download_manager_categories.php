@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'Güncellenmekte olan kategori mevcut değil.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'Lütfen bir kategori açıklaması girin.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'Lütfen bir kategori adı girin.';
-$lang['DownloadManagerCategories.!error.parent_id.exists'] = 'Seçilen ana kategori mevcut değil.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 $lang['DownloadManagerCategories.!error.parent_id.loop'] = 'Seçilen üst kategori, kategorinin kendisi olmayabilir.';
+$lang['DownloadManagerCategories.!error.parent_id.exists'] = 'Seçilen ana kategori mevcut değil.';
 

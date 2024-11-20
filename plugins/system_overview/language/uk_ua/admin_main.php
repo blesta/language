@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Активні посл
 $lang['AdminMain.overview.statistic.clients_active'] = 'Активні клієнти';
 $lang['AdminMain.index.boxtitle_overview'] = 'Огляд системи';
 $lang['AdminMain.!success.options_updated'] = 'Налаштування системного огляду було успішно оновлено!';
+$lang['AdminMain.date_range.day'] = '1 день';
+$lang['AdminMain.date_range.month'] = 'Поточний місяць';
+$lang['AdminMain.date_range.ytd'] = 'Рік до сьогодні';
 

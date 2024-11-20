@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.invoice_filters.any'] = 'Jede';
-$lang['Util.filters.invoice_filters.field_currency'] = 'Währung';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Posten Inhalt';
+$lang['Util.filters.invoice_filters.field_currency'] = 'Währung';
 $lang['Util.filters.invoice_filters.field_invoice_number'] = 'Invoice #';
+$lang['Util.filters.invoice_filters.any'] = 'Jede';
 

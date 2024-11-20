@@ -144,4 +144,6 @@ $lang['AdminDepartments.edit.heading_value'] = 'Værdi';
 $lang['AdminDepartments.edit.heading_default'] = 'Standard';
 $lang['AdminDepartments.edit.text_delete'] = 'Slet';
 $lang['AdminDepartments.edit.text_add'] = 'Tilføj';
+$lang['AdminDepartments.edit.field_priorities'] = 'Tilgængelige prioriteter';
+$lang['AdminDepartments.add.field_priorities'] = 'Tilgængelige prioriteter';
 

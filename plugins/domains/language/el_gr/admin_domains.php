@@ -258,4 +258,16 @@ $lang['AdminDomains.browse.unparent'] = 'Unparent και Επαναφορά τι
 $lang['AdminDomains.import.field_restart'] = 'Ξεκινήστε από την αρχή';
 $lang['AdminDomains.browse.heading_added'] = 'Προστέθηκε Ημερομηνία';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Ο καταχωρητής domain έχει ενημερωθεί!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Διαγραφή TLDs';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Κωδικός EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Προστασία ταυτότητας';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Προώθηση email';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Διαχείριση DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s δεν μπόρεσε να ενημερωθεί για τους ακόλουθους TLD: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Η πρόσβαση στον κωδικό EPP ενημερώθηκε επιτυχώς!';
+$lang['AdminDomains.!success.id_protection'] = 'Η προστασία ID ενημερώθηκε με επιτυχία!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Η προώθηση email ενημερώθηκε επιτυχώς!';
+$lang['AdminDomains.!success.dns_management'] = 'Η διαχείριση DNS ενημερώθηκε με επιτυχία!';
+$lang['AdminDomains.!success.delete_partial'] = 'Οι ακόλουθοι TLD δεν ήταν δυνατόν να διαγραφούν επειδή ήταν σε χρήση: %1$s';
+$lang['AdminDomains.!success.delete'] = 'Το TLD διαγράφηκε επιτυχώς!';
 

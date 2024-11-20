@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Рахунки-факт�
 $lang['Contacts.!error.contact_type.format'] = 'Неправильний тип контакту.';
 $lang['Contacts.!error.user_id.exists'] = 'Неправильний ідентифікатор користувача.';
 $lang['Contacts.!error.client_id.exists'] = 'Невірний ідентифікатор клієнта.';
+$lang['Contacts.!error.number.required'] = 'Контактний номер обов\'язковий.';
 

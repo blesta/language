@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerController.!success.export_job_added'] = 'La exportación se ha puesto en cola correctamente. Estará disponible en la página del listado una vez se haya procesado a través de cron.';
 $lang['MassMailerController.!success.mail_job_added'] = 'La tarea de envío se ha puesto en cola correctamente. Los correos electrónicos se enviarán a través de cron.';
+$lang['MassMailerController.!success.export_job_added'] = 'La exportación se ha puesto en cola correctamente. Estará disponible en la página del listado una vez se haya procesado a través de cron.';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.description'] = 'Met het portaal kunt u instellen dat de inhoud van de pagina wordt weergegeven op de homepage-URL van Blesta.';
 $lang['CmsPlugin.index.title'] = 'Klantenportaal';
+$lang['CmsPlugin.description'] = 'Met het portaal kunt u instellen dat de inhoud van de pagina wordt weergegeven op de homepage-URL van Blesta.';
 $lang['CmsPlugin.name'] = 'Portaal';
 

@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Vast';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Percentage';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Elke';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Eerste';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Percentage';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Vast';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 

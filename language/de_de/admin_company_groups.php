@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s ist die Standardgruppe 
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s wurde erfolgreich gelöscht!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s wurde erfolgreich bearbeitet!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s wurde erfolgreich erstellt!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Erlaubte Gateways';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Erlaubte Gateways';
 

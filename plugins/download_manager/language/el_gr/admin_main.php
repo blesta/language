@@ -113,4 +113,6 @@ $lang['AdminMain.editcategory.field_description'] = 'Περιγραφή';
 $lang['AdminMain.editcategory.submit_edit'] = 'Κατηγορία ενημέρωσης';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Ακύρωση';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.edit.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong>%1$s</strong>.';
 

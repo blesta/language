@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Tidak dapat terhubung ke server jarak jauh. cURL Error: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Permintaan buka blokir terkirim.';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Buka blokir IP';
 $lang['IpUnblockerPlugin.description'] = 'Plugin untuk Blesta yang terintegrasi dengan cPanel dan DirectAdmin untuk membuka blokir IP yang masuk daftar hitam';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Buka blokir IP';
 

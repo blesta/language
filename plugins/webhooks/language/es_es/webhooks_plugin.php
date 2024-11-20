@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Envía peticiones HTTP automatizadas basadas en eventos, y escucha peticiones HTTP para activar eventos específicos.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Borra la caché de la lista de observadores de eventos.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Borrar caché';
 

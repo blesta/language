@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Надсилає автоматичні HTTP-запити на основі подій і прослуховує HTTP-запити для запуску певних подій.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Очищає кеш списку спостерігачів подій.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Очистити кеш';
 

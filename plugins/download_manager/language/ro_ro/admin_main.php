@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Fișierul a fost adăugat cu succes.';
 $lang['AdminMain.!success.category_deleted'] = 'Categoria a fost ștearsă cu succes.';
 $lang['AdminMain.!success.category_updated'] = 'Categoria a fost actualizată cu succes.';
 $lang['AdminMain.!success.category_added'] = 'Categoria a fost creată cu succes.';
+$lang['AdminMain.edit.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong>%1$s</strong>.';
 

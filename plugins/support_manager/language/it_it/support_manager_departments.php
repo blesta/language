@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Inserire un indirizzo 
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Inserire una descrizione.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Inserire un nome per questo reparto.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID azienda non valido.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Una o più priorità non sono valide.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selezionare almeno una priorità.';
 

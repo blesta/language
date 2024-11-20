@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Nome dello stile della pagina';
 $lang['PaypalPaymentsStandard.account_id'] = 'Email del conto PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard è uno dei modi più semplici per accettare in modo sicuro pagamenti online con carta di credito e PayPal.';
 $lang['PaypalPaymentsStandard.name'] = 'Pagamenti PayPal standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Sono state trovate e-mail duplicate nei dati di mappatura; rimuovere i duplicati e riprovare.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'È stata trovata una riga non valida nei dati di mappatura; verificare che l\'indirizzo e-mail e l\'ID cliente siano validi e riprovare.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Da utilizzare con le sottoscrizioni PayPal create al di fuori di Blesta. Mappare payer_email all\'ID cliente interno, 1 per riga. Ad esempio: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Mappatura dei pagamenti';
 

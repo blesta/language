@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Facturile sunt setate sÄ
 $lang['Contacts.!error.contact_type.format'] = 'Tip de contact invalid.';
 $lang['Contacts.!error.user_id.exists'] = 'ID de utilizator invalid.';
 $lang['Contacts.!error.client_id.exists'] = 'ID client invalid.';
+$lang['Contacts.!error.number.required'] = 'NumÄƒrul de contact este necesar.';
 

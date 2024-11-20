@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['_PaymentTypes.cash'] = 'Готівка';
-$lang['_PaymentTypes.check'] = 'Перевірка.';
 $lang['_PaymentTypes.in_house_credit'] = 'Внутрішній кредит';
 $lang['_PaymentTypes.money_order'] = 'Грошовий переказ';
+$lang['_PaymentTypes.check'] = 'Перевірка.';
+$lang['_PaymentTypes.cash'] = 'Готівка';
 

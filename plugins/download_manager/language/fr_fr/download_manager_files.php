@@ -12,7 +12,7 @@
 $lang['DownloadManagerFiles.!error.category_id.exists'] = 'Veuillez sélectionner une catégorie valide.';
 $lang['DownloadManagerFiles.!error.company_id.exists'] = 'ID d\'entreprise non valide.';
 $lang['DownloadManagerFiles.!error.name.empty'] = 'Veuillez saisir un nom pour ce fichier.';
-$lang['DownloadManagerFiles.!error.file_name.format'] = 'Veuillez télécharger un fichier ou entrer un chemin d\'accès valide au fichier.';
+$lang['DownloadManagerFiles.!error.file_name.format'] = 'Veuillez télécharger un fichier ou entrer un chemin d\'accès valide au fichier dans le répertoire des téléchargements.';
 $lang['DownloadManagerFiles.!error.public.format'] = 'Le format de l\'option de disponibilité publique n\'est pas valide.';
 $lang['DownloadManagerFiles.!error.public.assignment'] = 'Le dossier doit être mis à la disposition du public, des groupes de clients ou des paquets.';
 $lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'Le format de l\'option de disponibilité du groupe de clients n\'est pas valide.';

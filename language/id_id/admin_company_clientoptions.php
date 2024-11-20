@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Kolom yang
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Bidang khusus klien telah berhasil dihapus.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Bidang khusus klien telah berhasil dibuat.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Bidang khusus klien telah berhasil diperbarui.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Tidak ada gateway yang terpasang.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Hibrida';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Pedagang';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Non-Pedagang';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Jenis';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gerbang';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktifkan';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Mengaktifkan Pembatasan Gateway';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Batasi gateway mana yang dapat digunakan klien. Secara default, Pembatasan Gateway dinonaktifkan dan semua gateway tersedia.';
 

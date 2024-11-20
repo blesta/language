@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Mengirimkan permintaan HTTP otomatis berdasarkan peristiwa, dan mendengarkan permintaan HTTP untuk memicu peristiwa tertentu.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Menghapus cache daftar pengamat acara.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Hapus Cache';
 

@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Os serviços selecionados fora
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Os serviços selecionados não estão mais programados para serem cancelados.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Os serviços selecionados foram programados com sucesso para serem cancelados.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'As faturas selecionadas foram marcadas como impressas.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Motivo da suspensão:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Não suspender';
+$lang['AdminBilling.services.action.suspend'] = 'Suspender';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Os serviços selecionados foram suspensos com sucesso.';
+$lang['AdminBilling.!success.services_suspended'] = 'Os serviços selecionados foram suspensos com sucesso.';
 

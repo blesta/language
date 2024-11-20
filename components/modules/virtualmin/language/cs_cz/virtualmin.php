@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servery';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin je ovládací panel pro hosting domén a webových stránek, který umožňuje vytvářet a spravovat mnoho domén a je k dispozici v open source i komerčních verzích. Je založen na Webminu.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Jedna nebo více domén balíčku jsou neplatné.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Zadejte seznam CSV domén, které budou k dispozici pro poskytování subdomén, např. "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Seznam dostupných domén';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Zakázat';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Povolit';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Povolení prodeje subdomén';
 

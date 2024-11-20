@@ -11,7 +11,6 @@
 
 $lang['SupportManagerTickets.reassign_note'] = 'Bu bilet %1$s\'a yeniden atandı. Önceki müşteri yanıtları bu müşteriye yeniden atandı ve başka bir kişi tarafından yapılmış olabilir.';
 $lang['SupportManagerTickets.log.unassigned'] = 'Atanmamış';
-$lang['SupportManagerTickets.log.ticket_staff_id'] = '1$s\'ye atandı.';
 $lang['SupportManagerTickets.log.status'] = 'Durum %1$s olarak değiştirildi.';
 $lang['SupportManagerTickets.log.priority'] = 'Öncelik %1$s olarak değiştirildi.';
 $lang['SupportManagerTickets.log.summary'] = 'Özet güncellenmiştir.';
@@ -63,4 +62,9 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Bu bilet yanıtı iç
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Geçersiz personel kimliği.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Lütfen geçerli bir departman seçin.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Bilet kodu yalnızca rakam içermelidir.';
+$lang['SupportManagerTickets.log.ticket_staff_id'] = '%1$s\'e atandı.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Lütfen bu departman için geçerli bir öncelik seçin.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Bilet kontaklarından en az biri geçersiz.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Bilet alıcılarından en az biri geçersiz.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Bilet alıcılarından en az biri mükerrerdir.';
 

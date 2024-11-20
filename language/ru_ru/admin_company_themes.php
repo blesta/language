@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Тема была усп�
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Импортированная тема не является темой клиентского интерфейса.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Импортированная тема не является темой интерфейса администратора.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Пожалуйста, загрузите тему для импорта.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Пользовательский CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Пользовательский CSS';
 

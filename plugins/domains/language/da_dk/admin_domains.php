@@ -258,4 +258,16 @@ $lang['AdminDomains.browse.unparent'] = 'Forældrefri og nulstillet pris';
 $lang['AdminDomains.import.field_restart'] = 'Start forfra';
 $lang['AdminDomains.browse.heading_added'] = 'Tilføjet dato';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Domæneregistratoren er blevet opdateret!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Slet topdomæner';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP-kode';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'ID-beskyttelse';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Videresendelse af e-mail';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s kunne ikke opdateres for følgende TLD\'er: %2$s';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS-styring';
+$lang['AdminDomains.!success.epp_code'] = 'EPP-kodeadgang blev opdateret med succes!';
+$lang['AdminDomains.!success.id_protection'] = 'ID Protection blev opdateret med succes!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Videresendelse af e-mail er blevet opdateret!';
+$lang['AdminDomains.!success.dns_management'] = 'DNS Management blev opdateret med succes!';
+$lang['AdminDomains.!success.delete_partial'] = 'Følgende TLD\'er kunne ikke slettes, fordi de var i brug: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD\'et blev slettet med succes!';
 

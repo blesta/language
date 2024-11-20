@@ -56,4 +56,7 @@ $lang['AdminMain.graph_line_name.active'] = 'Ενεργό';
 $lang['AdminMain.graph_line_name.canceled'] = 'Ακυρώθηκε';
 $lang['AdminMain.graph_line_name.suspended'] = 'Αναστολή';
 $lang['AdminMain.graph_line_name.new'] = 'Νέα';
+$lang['AdminMain.date_range.day'] = '1 ημέρα';
+$lang['AdminMain.date_range.month'] = 'Τρέχων μήνας';
+$lang['AdminMain.date_range.ytd'] = 'Έτος μέχρι σήμερα';
 

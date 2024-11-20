@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = '发票被设置为发给
 $lang['Contacts.!error.contact_type.format'] = '联系人类型无效。';
 $lang['Contacts.!error.user_id.exists'] = '用户 ID 无效。';
 $lang['Contacts.!error.client_id.exists'] = '客户 ID 无效。';
+$lang['Contacts.!error.number.required'] = '必须填写联系电话。';
 

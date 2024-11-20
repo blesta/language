@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'O cupom foi atualizado c
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'O cupom foi criado com sucesso!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Os Avisos foram atualizados com sucesso!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'As configurações de fatura e cobrança foram atualizadas com sucesso!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Espaçamento da segunda tentativa';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Limite de espaçamento da segunda tentativa';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Espaçamento da 1ª tentativa';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Limite de espaçamento da 1ª tentativa';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Tentativas';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Tipo';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Ações de serviço';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Tentativas de provisionamento de serviços';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'O número de ações de serviço a serem tentadas antes de atrasar a próxima tentativa pelo valor especificado pela configuração de espaçamento da segunda tentativa';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'O número de ações de serviço a serem tentadas antes de atrasar a próxima tentativa pelo valor especificado pela configuração de espaçamento da primeira tentativa';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'O número de tentativas e falhas de processamento de uma ação de serviço antes que essa ação de serviço seja desativada da conclusão automática.';
 

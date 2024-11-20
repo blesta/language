@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Το θέμα έχει ε
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Το εισαγόμενο θέμα δεν είναι θέμα διεπαφής πελάτη.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Το εισαγόμενο θέμα δεν είναι θέμα διεπαφής διαχειριστή.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Παρακαλούμε ανεβάστε ένα θέμα για εισαγωγή.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Προσαρμοσμένη CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Προσαρμοσμένη CSS';
 

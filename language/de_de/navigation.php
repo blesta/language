@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Startseite';
 $lang['Navigation.!error.parent_id.valid'] = 'Ungültige ID des übergeordneten Navigationselements';
 $lang['Navigation.!error.order.valid'] = 'Der Auftragsindex muss ein numerischer Wert sein';
 $lang['Navigation.!error.action_id.valid'] = 'Ungültige Aktions-ID';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML-Vorlagen';
 

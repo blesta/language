@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Wybrane usługi zostały pomy�
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Wybrane usługi nie będą już anulowane.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Wybrane usługi zostały pomyślnie zaplanowane do anulowania.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Wybrane faktury zostały oznaczone jako wydrukowane.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Powód zawieszenia:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Unsuspend';
+$lang['AdminBilling.services.action.suspend'] = 'Zawieszenie';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Wybrane usługi zostały pomyślnie zawieszone.';
+$lang['AdminBilling.!success.services_suspended'] = 'Wybrane usługi zostały pomyślnie zawieszone.';
 

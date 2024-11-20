@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Der Coupon wurde erfolgr
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Der Coupon wurde erfolgreich erstellt!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Die Bekanntmachungen wurden erfolgreich aktualisiert!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Die Einstellungen für Rechnungen und Gebühren wurden erfolgreich aktualisiert!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2. Versuch Abstand';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = '2. Versuch Schwellenwert für den Abstand';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1. Versuch Abstand';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '1. Versuch Schwelle für den Abstand';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Versuche';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Typ';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Service-Aktionen';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Versuche der Dienstbereitstellung';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Die Anzahl der Serviceaktionen, die versucht werden sollen, bevor der nächste Versuch um den Betrag verzögert wird, der durch die Einstellung für den Abstand zwischen den zweiten Versuchen festgelegt ist';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Die Anzahl der Serviceaktionen, die versucht werden sollen, bevor der nächste Versuch um den Betrag verzögert wird, der durch die Einstellung für den Abstand zwischen den ersten Versuchen festgelegt wurde';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Die Anzahl der Versuche und Fehlversuche, eine Dienstaktion zu verarbeiten, bevor diese Dienstaktion für den automatischen Abschluss deaktiviert wird.';
 

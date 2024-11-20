@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.week'] = 'Week';
 $lang['Invoices.getPricingPeriods.day'] = 'Dag';
 $lang['Invoices.!error.line_items.minimum_split'] = 'De factuur moet minstens 2 regels hebben om te kunnen worden gesplitst.';
 $lang['Invoices.!error.line_items.empty_split'] = 'Er zijn geen factuurregels geselecteerd om te splitsen.';
+$lang['Invoices.!error.invoice_id.unique'] = 'De factuur van bestemming kan geen deel uitmaken van de samen te voegen facturen.';
+$lang['Invoices.!error.invoice_id.status'] = 'De factuur van bestemming moet open zijn en geen transacties bevatten.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Alle facturen moeten van dezelfde klant zijn.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Alle facturen moeten openstaan en geen transacties bevatten.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Alle facturen moeten dezelfde valuta hebben.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Er moeten minstens twee facturen worden geselecteerd.';
+$lang['Invoices.!line_item.parent_description'] = 'Kinderopvang van %1$s - %2$s:';
 

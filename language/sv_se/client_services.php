@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Tjänsten kan inte för
 $lang['ClientServices.!error.invoices_change_term'] = 'Villkoret kan inte ändras förrän alla fakturor som innehåller denna tjänst har betalats.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'De konfigurerbara alternativen kan inte ändras förrän alla fakturor som innehåller denna tjänst har betalats.';
 $lang['ClientServices.!error.password_mismatch'] = 'Lösenordet stämmer inte överens med ditt inloggningslösenord.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Hantera föräldratjänster';
 

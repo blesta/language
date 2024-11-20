@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Subjek';
 $lang['ClientEmails.index.heading_date'] = 'Tanggal';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Riwayat Email';
 $lang['ClientEmails.index.page_title'] = 'Riwayat Email Klien #%1 $s';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Teks';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['TheSSLStorePlugin.getCronTasks.tss_expiration_reminder_desc'] = 'Se enviará un recordatorio 30 días antes de la fecha de expiración del certificado.';
-$lang['TheSSLStorePlugin.getCronTasks.tss_expiration_reminder_name'] = 'Recordatorio de caducidad del certificado SSL';
 $lang['TheSSLStorePlugin.name'] = 'Plugin TheSSLStore';
+$lang['TheSSLStorePlugin.getCronTasks.tss_expiration_reminder_name'] = 'Recordatorio de caducidad del certificado SSL';
+$lang['TheSSLStorePlugin.getCronTasks.tss_expiration_reminder_desc'] = 'Se enviará un recordatorio 30 días antes de la fecha de expiración del certificado.';
 

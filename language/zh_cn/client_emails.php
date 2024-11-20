@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = '主题';
 $lang['ClientEmails.index.heading_date'] = '日期';
 $lang['ClientEmails.index.boxtitle_emails'] = '电子邮件历史';
 $lang['ClientEmails.index.page_title'] = '客户 #%1$s 电子邮件历史记录';
+$lang['ClientEmails.index.text_html'] = '超文本标记语言';
+$lang['ClientEmails.index.text_text'] = '文本';
 

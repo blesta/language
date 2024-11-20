@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Maximalt antal förs�
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Misslyckade försök måste vara ett nummer.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Ogiltigt faktura-ID.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Ogiltigt service-ID.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Annullering';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Osuspension';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Avstängning';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Förnyelse';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Tillhandahållande';
+$lang['ServiceInvoices.!error.type.valid'] = 'Ogiltig typ av försök.';
 

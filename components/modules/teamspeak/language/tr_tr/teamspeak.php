@@ -163,7 +163,6 @@ $lang['Teamspeak.manage.module_groups.delete'] = 'Silme';
 $lang['Teamspeak.manage.module_rows.delete'] = 'Silme';
 $lang['Teamspeak.manage.module_groups.edit'] = 'Düzenle';
 $lang['Teamspeak.manage.module_rows.edit'] = 'Düzenle';
-$lang['Teamspeak.manage.module_rows.count'] = '1$s / %2$s';
 $lang['Teamspeak.manage.module_groups_heading.options'] = 'Seçenekler';
 $lang['Teamspeak.manage.module_groups_heading.servers'] = 'Sunucu Sayısı';
 $lang['Teamspeak.manage.module_groups_heading.name'] = 'Grup Adı';
@@ -190,4 +189,5 @@ $lang['Teamspeak.module_row_plural'] = 'Sunucular';
 $lang['Teamspeak.module_row'] = 'Sunucu';
 $lang['Teamspeak.description'] = 'TeamSpeak, bir sohbet kanalında kullanıcılar arasında sesli iletişim için bir seslendirme-İnternet Protokolü uygulamasıdır.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.manage.module_rows.count'] = '%1$s / %2$s';
 

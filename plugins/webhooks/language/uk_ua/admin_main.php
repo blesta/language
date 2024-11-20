@@ -40,7 +40,7 @@ $lang['AdminMain.add.heading_event'] = 'Подія';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Додати Webhook';
 $lang['AdminMain.index.no_results'] = 'Веб-хуки недоступні.';
 $lang['AdminMain.index.text_description_incoming'] = 'Отримує HTTP-запит і запускає подію в системі, використовуючи параметри, отримані в запиті. Запит може бути отриманий за допомогою GET, POST або JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Надсилає HTTP-запит на URL-адресу, коли спрацьовує подія. Запит може бути відправлений за допомогою GET, POST або JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Надсилає HTTP-запит на URL-адресу, коли спрацьовує подія. Запит може бути відправлений за допомогою GET, POST, PUT або JSON.';
 $lang['AdminMain.index.option_delete'] = 'Видалити';
 $lang['AdminMain.index.option_edit'] = 'Редагувати';
 $lang['AdminMain.index.heading_options'] = 'Параметри';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Вебхук успішно ви�
 $lang['AdminMain.!success.webhook_updated'] = 'Вебхук успішно оновлено!';
 $lang['AdminMain.!success.webhook_added'] = 'Вебхук успішно додано!';
 $lang['AdminMain.!tooltip.callback'] = 'Зворотний виклик вказує, куди буде надіслано або отримано запит, для вихідних веб-хуків це має бути URL-адреса, а для вхідних - ім\'я URL-адреси, на яку буде надіслано запит, наприклад, http://blesta.com/plugin/webhooks/trigger/index/[Ім\'я зворотного виклику].';
+$lang['AdminMain.edit.field_cancel'] = 'Скасувати';
+$lang['AdminMain.add.field_cancel'] = 'Скасувати';
 

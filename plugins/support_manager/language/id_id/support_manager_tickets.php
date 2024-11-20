@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Kontak yang dipilih u
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'ID staf tidak valid.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Silakan pilih departemen yang valid.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Kode tiket harus terdiri dari angka saja.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Pilihlah prioritas yang valid untuk departemen ini.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Setidaknya salah satu kontak tiket tidak valid.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Setidaknya salah satu penerima tiket tidak valid.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Setidaknya salah satu penerima tiket diduplikasi.';
 

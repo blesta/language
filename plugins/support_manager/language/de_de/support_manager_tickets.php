@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Der für diese Ticket
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Ungültige Personal-ID.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Bitte wählen Sie eine gültige Abteilung.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Der Ticketcode darf nur Ziffern enthalten.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Bitte wählen Sie eine gültige Priorität für diese Abteilung.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Mindestens einer der Ticketkontakte ist ungültig.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindestens einer der Ticketempfänger ist ungültig.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindestens einer der Ticketempfänger ist doppelt vorhanden.';
 

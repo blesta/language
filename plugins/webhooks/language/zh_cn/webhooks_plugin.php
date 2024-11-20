@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = '根据事件自动发送 HTTP 请求，并监听 HTTP 请求以触发特定事件。';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = '清除事件观察者列表缓存。';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = '清除缓存';
 

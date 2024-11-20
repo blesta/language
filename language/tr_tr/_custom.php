@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['_PaymentTypes.cash'] = 'Nakit';
-$lang['_PaymentTypes.check'] = 'Kontrol et';
 $lang['_PaymentTypes.in_house_credit'] = 'Kurum İçi Kredi';
 $lang['_PaymentTypes.money_order'] = 'Havale';
+$lang['_PaymentTypes.check'] = 'Kontrol et';
+$lang['_PaymentTypes.cash'] = 'Nakit';
 

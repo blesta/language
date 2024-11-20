@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Δεν είναι δυνατ�
 $lang['StripePayments.!error.secret_key.empty'] = 'Παρακαλώ εισάγετε ένα μυστικό κλειδί.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Παρακαλούμε εισάγετε ένα κλειδί που μπορεί να δημοσιευτεί.';
 $lang['StripePayments.!error.auth'] = 'Η πύλη δεν μπόρεσε να πραγματοποιήσει έλεγχο ταυτότητας.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Εάν είστε χρήστης της Stripe με έδρα την Ινδία, πριν αποθηκεύσετε μια νέα κάρτα στην Stripe, πρέπει πάντα να εκτελείτε έλεγχο ταυτότητας 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Παρουσίαση της πρόκλησης 3D Secure κάθε φορά που ένας πελάτης αποθηκεύει μια μέθοδο πληρωμής ή επεξεργάζεται μια μέθοδο πληρωμής (αποθηκευμένη ή μη αποθηκευμένη).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Παρουσίαση πρόκλησης 3D Secure κάθε φορά που ένας πελάτης αποθηκεύει μια μέθοδο πληρωμής ή επεξεργάζεται μια μη αποθηκευμένη μέθοδο πληρωμής';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Επιτρέψτε στο Stripe να καθορίσει πότε θα παρουσιάσει μια πρόκληση 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Ροή ελέγχου ταυτότητας 3D Secure';
 

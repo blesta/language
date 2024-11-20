@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Контакт, об�
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Недійсне посвідчення працівника.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Будь ласка, оберіть правильний відділ.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Код квитка повинен містити тільки цифри.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Будь ласка, оберіть правильний пріоритет для цього відділу.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Принаймні один з контактів у квитку недійсний.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Принаймні один з одержувачів квитка є недійсним.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Принаймні один з одержувачів квитка дублюється.';
 

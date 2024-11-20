@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_amazons3.attempt'] = 'Veritabanı AmazonS3\'e yedeklenmeye çalışılıyor.';
-$lang['Automation.task.backups_amazons3.completed'] = 'AmazonS3 veritabanı yedekleme görevi tamamlandı.';
 $lang['Automation.task.backups_amazons3.success'] = 'Yedekleme başarıyla tamamlandı.';
+$lang['Automation.task.backups_amazons3.completed'] = 'AmazonS3 veritabanı yedekleme görevi tamamlandı.';
+$lang['Automation.task.backups_amazons3.attempt'] = 'Veritabanı AmazonS3\'e yedeklenmeye çalışılıyor.';
 

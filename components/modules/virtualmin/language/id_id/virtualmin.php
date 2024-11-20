@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Server';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin adalah hosting domain dan panel kontrol situs web, yang memberikan kemampuan untuk membuat dan mengelola banyak domain dan tersedia dalam versi open source dan komersial. Ini didasarkan pada Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Satu atau beberapa domain paket tidak valid.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Masukkan daftar CSV domain yang akan tersedia untuk penyediaan sub-domain, misalnya "domain1.com, domain2.com, domain3.com"';
+$lang['Virtualmin.package_fields.domains_list'] = 'Daftar Domain yang Tersedia';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Nonaktifkan';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Aktifkan';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Mengaktifkan Sub-Domain Penjualan';
 

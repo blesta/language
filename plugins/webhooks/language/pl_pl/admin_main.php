@@ -39,7 +39,7 @@ $lang['AdminMain.add.heading_event'] = 'Wydarzenie';
 $lang['AdminMain.add.boxtitle_addwebhook'] = 'Dodaj Webhook';
 $lang['AdminMain.index.no_results'] = 'Nie ma dostępnych webhooków.';
 $lang['AdminMain.index.text_description_incoming'] = 'Odbiera żądanie HTTP i wyzwala zdarzenie w systemie przy użyciu parametrów otrzymanych w żądaniu. Żądanie może zostać odebrane za pomocą GET, POST lub JSON.';
-$lang['AdminMain.index.text_description_outgoing'] = 'Wysyła żądanie HTTP do adresu URL po wyzwoleniu zdarzenia. Żądanie może być wysłane przy użyciu GET, POST lub JSON.';
+$lang['AdminMain.index.text_description_outgoing'] = 'Wysyła żądanie HTTP do adresu URL po wyzwoleniu zdarzenia. Żądanie może być wysłane przy użyciu GET, POST, PUT lub JSON.';
 $lang['AdminMain.index.option_delete'] = 'Usuń';
 $lang['AdminMain.index.option_edit'] = 'Edytuj';
 $lang['AdminMain.index.heading_options'] = 'Opcje';
@@ -58,4 +58,6 @@ $lang['AdminMain.!success.webhook_deleted'] = 'Webhook został pomyślnie usuni�
 $lang['AdminMain.!success.webhook_updated'] = 'Webhook został pomyślnie zaktualizowany!';
 $lang['AdminMain.!success.webhook_added'] = 'Webhook został dodany pomyślnie!';
 $lang['AdminMain.!tooltip.callback'] = 'Wywołanie zwrotne reprezentuje miejsce, w którym żądanie zostanie wysłane lub odebrane, w przypadku webhooków wychodzących musi to być adres URL, a w przypadku webhooków przychodzących musi to być nazwa adresu URL, pod którym żądanie zostanie odebrane. np. http://blesta.com/plugin/webhooks/trigger/index/[Nazwa wywołania zwrotnego].';
+$lang['AdminMain.edit.field_cancel'] = 'Anuluj';
+$lang['AdminMain.add.field_cancel'] = 'Anuluj';
 

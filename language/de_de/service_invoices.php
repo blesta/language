@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Die maximalen Versuch
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Fehlversuche müssen eine Zahl sein.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Ungültige Rechnungs-ID.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Ungültige Dienst-ID.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Stornierung';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Unsuspension';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Aufhängung';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Erneuerung';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Bereitstellung';
+$lang['ServiceInvoices.!error.type.valid'] = 'Ungültiger Versuchstyp.';
 

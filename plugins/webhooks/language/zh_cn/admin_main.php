@@ -27,7 +27,7 @@ $lang['AdminMain.index.heading_method'] = '方法';
 $lang['AdminMain.index.heading_options'] = '选项';
 $lang['AdminMain.index.option_edit'] = '编辑';
 $lang['AdminMain.index.option_delete'] = '删除';
-$lang['AdminMain.index.text_description_outgoing'] = '触发事件时向 URL 发送 HTTP 请求。请求可以使用 GET、POST 或 JSON 发送。';
+$lang['AdminMain.index.text_description_outgoing'] = '触发事件时向 URL 发送 HTTP 请求。请求可以使用 GET、POST、PUT 或 JSON 发送。';
 $lang['AdminMain.index.text_description_incoming'] = '接收 HTTP 请求，并使用请求中接收到的参数触发系统事件。接收请求的方式可以是 GET、POST 或 JSON。';
 $lang['AdminMain.index.no_results'] = '没有可用的网络钩子。';
 $lang['AdminMain.add.boxtitle_addwebhook'] = '添加 Webhook';
@@ -58,4 +58,6 @@ $lang['AdminMain.edit.field_method'] = '方法';
 $lang['AdminMain.edit.field_add_field'] = '添加字段';
 $lang['AdminMain.edit.field_editsubmit'] = '编辑 Webhook';
 $lang['AdminMain.edit.text_fields_map'] = '本节允许您在将事件触发的字段发送到回调之前，将其重命名为自定义名称。子字段应使用句号分隔（如 vars.status）。要查看每个事件支持的所有字段的列表，可以查看下面的 <a href="https://docs.blesta.com/display/dev/Event+Handlers" target="_blank">link</a>.';
+$lang['AdminMain.edit.field_cancel'] = '取消';
+$lang['AdminMain.add.field_cancel'] = '取消';
 

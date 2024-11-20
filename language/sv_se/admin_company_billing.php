@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Kupongen har uppdaterats
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Kupongen har skapats framgångsrikt!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Meddelandena har uppdaterats framgångsrikt!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Faktura- och debiteringsinställningarna uppdaterades framgångsrikt!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Avstånd vid 2:a försöket';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Tröskelvärde för avstånd vid 2:a försöket';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1:a försöket Avstånd';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Tröskelvärde för avstånd vid 1:a försöket';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Försök';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Typ';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Serviceåtgärder';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Försök att tillhandahålla tjänster';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Antalet serviceåtgärder som ska försöka innan nästa försök fördröjs med den mängd som anges av inställningen för andra försökets avstånd';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Antalet serviceåtgärder som ska försöka innan nästa försök fördröjs med den mängd som anges av inställningen för avståndet mellan första försöket';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Antalet försök och misslyckanden att bearbeta en serviceåtgärd innan den serviceåtgärden inaktiveras från automatisk slutförande.';
 

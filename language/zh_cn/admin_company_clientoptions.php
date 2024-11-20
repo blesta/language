@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '编辑自
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = '加密值';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = '自定义 Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = '需要';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = '没有安装网关。';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = '混合动力';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = '商户';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = '非商户';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = '类型';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = '网关';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = '启用';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = '启用网关限制';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = '限制客户端可以使用的网关。默认情况下，网关限制被禁用，所有网关都可用。';
 

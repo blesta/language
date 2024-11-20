@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Métodos de entrega d
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Utilizar configuración de la empresa (desmarcar para especificar más abajo)';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Aplicar direcciones de correo electrónico como nombres de usuario';
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Editar Grupo';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Pasarelas permitidas';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Pasarelas permitidas';
 

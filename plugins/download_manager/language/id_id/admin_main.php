@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'File telah berhasil ditambahkan.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategori telah berhasil dihapus.';
 $lang['AdminMain.!success.category_updated'] = 'Kategori telah berhasil diperbarui.';
 $lang['AdminMain.!success.category_added'] = 'Kategori telah berhasil dibuat.';
+$lang['AdminMain.edit.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong>%1$s</strong>.';
 

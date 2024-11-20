@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.format'] = 'Μη έγκυρος τύπος �
 $lang['Contacts.!error.user_id.exists'] = 'Μη έγκυρο αναγνωριστικό χρήστη.';
 $lang['Contacts.!error.client_id.exists'] = 'Μη έγκυρο αναγνωριστικό πελάτη.';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Αποσπάσματα';
+$lang['Contacts.!error.number.required'] = 'Απαιτείται ο αριθμός επικοινωνίας.';
 

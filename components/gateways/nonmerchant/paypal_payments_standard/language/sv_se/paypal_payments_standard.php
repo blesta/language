@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Namn på sidstil';
 $lang['PaypalPaymentsStandard.account_id'] = 'E-post till PayPal-konto';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard är ett av de enklaste sätten att säkert ta emot kreditkorts- och PayPal-betalningar online';
 $lang['PaypalPaymentsStandard.name'] = 'Standard för PayPal-betalningar';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Dubbla e-postmeddelanden hittades i dina mappningsdata, ta bort dubbletter och försök igen.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'En ogiltig rad hittades i dina mappningsdata. Kontrollera om e-postadressen och klient-ID:t är giltiga och försök igen.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Avsedd för användning med PayPal-abonnemang som skapades utanför Blesta. Mappa payer_email till internt kund-ID, 1 per rad. Till exempel: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Mappning av betalningar';
 

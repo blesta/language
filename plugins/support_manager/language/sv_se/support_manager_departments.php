@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Ange en giltig e-posta
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Vänligen ange en beskrivning.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Vänligen ange ett namn för denna avdelning.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'En eller flera prioriteringar är ogiltiga.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Välj minst en prioritet.';
 

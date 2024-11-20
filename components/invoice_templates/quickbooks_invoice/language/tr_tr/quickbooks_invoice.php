@@ -18,7 +18,6 @@ $lang['QuickbooksInvoice.payments_heading'] = 'Ödemeler';
 $lang['QuickbooksInvoice.watermark_paid'] = 'ÜCRETLİ';
 $lang['QuickbooksInvoice.client_tax_id'] = 'Müşteri Vergi Kimliği/VATIN: %1$s';
 $lang['QuickbooksInvoice.tax_id'] = 'Vergi Kimliği/VATIN: %1$s';
-$lang['QuickbooksInvoice.address_city_state'] = '1$s, %2$s %3$s %4$s';
 $lang['QuickbooksInvoice.address_heading'] = 'Bill To';
 $lang['QuickbooksInvoice.lines_cost'] = 'Maliyet';
 $lang['QuickbooksInvoice.lines_unit_price'] = 'Birim Fiyat';
@@ -45,4 +44,5 @@ $lang['QuickbooksInvoice.type_active'] = 'FATURA';
 $lang['QuickbooksInvoice.terms_heading'] = 'Şartlar';
 $lang['QuickbooksInvoice.page_of'] = '2$s\'nin %1$s sayfası';
 $lang['QuickbooksInvoice.name'] = 'Quickbooks';
+$lang['QuickbooksInvoice.address_city_state'] = '%1$s, %2$s %3$s %4$s';
 

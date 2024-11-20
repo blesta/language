@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'De geselecteerde services zijn
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'De geselecteerde diensten zijn niet langer geannuleerd.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'De geselecteerde diensten werden met succes ingepland om geannuleerd te worden.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'De geselecteerde facturen zijn gemarkeerd als afgedrukt.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Reden voor schorsing:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Ontspannen';
+$lang['AdminBilling.services.action.suspend'] = 'opschorten';
+$lang['AdminBilling.!success.services_unsuspended'] = 'De geselecteerde services werden met succes uitgeschakeld.';
+$lang['AdminBilling.!success.services_suspended'] = 'De geselecteerde services zijn met succes opgeschort.';
 

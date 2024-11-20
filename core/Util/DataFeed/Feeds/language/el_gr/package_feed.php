@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Εμφάνιση το�
 $lang['PackageFeed.getOptionFields.example_code_description'] = 'Εμφάνιση της περιγραφής του πακέτου:';
 $lang['PackageFeed.getOptionFields.example_code_pricing'] = 'Εμφάνιση της τιμής, της ανανέωσης, του τέλους εγκατάστασης, του τέλους ακύρωσης ή του νομίσματος της τιμολόγησης ενός πακέτου:';
 $lang['PackageFeed.!error.invalid_endpoint'] = 'Το ζητούμενο τελικό σημείο δεν είναι έγκυρο ή δεν υπάρχει.';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Εμφάνιση του ορίου ποσότητας πελάτη ενός πακέτου:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Εμφάνιση της ποσότητας αποθέματος (ποσότητα) μιας συσκευασίας:';
 

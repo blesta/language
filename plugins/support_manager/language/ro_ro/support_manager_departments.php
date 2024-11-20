@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Vă rugăm să introdu
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Vă rugăm să introduceți o descriere.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Vă rugăm să introduceți un nume pentru acest departament.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Una sau mai multe priorități nu sunt valabile.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selectați cel puțin o prioritate.';
 

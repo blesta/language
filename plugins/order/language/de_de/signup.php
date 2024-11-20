@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Es wurde eine Nachricht zur Verifi
 $lang['Signup.!notice.force_email_usernames'] = 'Ihr Benutzername ist derselbe wie Ihre E-Mail-Adresse.';
 $lang['Signup.!error.not_client_owner'] = 'Sie müssen als Client-Eigentümer angemeldet sein, um fortfahren zu können.';
 $lang['Signup.!error.captcha.invalid'] = 'Das eingegebene Captcha war ungültig. Bitte versuchen Sie es erneut.';
+$lang['Signup.otp.field_submit'] = 'Einloggen';
+$lang['Signup.otp.field_otp'] = 'Einmaliges Passwort';
+$lang['Signup.otp.login_heading'] = 'Einloggen';
+$lang['Signup.otp.description'] = 'Bitte geben Sie Ihr One Time Password ein.';
+$lang['Signup.otp.page_title'] = 'Einloggen';
+$lang['Signup.index.field_agree_tos'] = 'Ich habe die <a href="%1$s" target="_blank">Allgemeinen Geschäftsbedingungen</a> gelesen und stimme ihnen zu.';
+$lang['Signup.!error.invalid_agree_tos'] = 'Sie müssen Ihr Einverständnis mit den Bedingungen und Konditionen bestätigen.';
 

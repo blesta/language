@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Manca un indirizzo di posta elettroni
 $lang['Logs.!error.to_address.empty'] = 'Manca un indirizzo.';
 $lang['Logs.!error.company_id.exists'] = 'ID azienda non valido.';
 $lang['Logs.!error.deletelog_datetime'] = 'Formato di data non valido.';
+$lang['Logs.!error.new_service.format'] = 'Il nuovo servizio deve essere un array.';
+$lang['Logs.!error.old_service.format'] = 'Il vecchio servizio deve essere un array.';
+$lang['Logs.!error.transactions.exists'] = 'Una o più transazioni non esistono.';
+$lang['Logs.!error.transaction_id.format'] = 'Le transazioni devono essere un array.';
+$lang['Logs.!error.service_id.exists'] = 'ID servizio non valido.';
 

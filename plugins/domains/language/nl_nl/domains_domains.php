@@ -10,6 +10,6 @@
  */
 
 $lang['DomainsDomains.!error.invalid_term'] = 'Dit domein kan niet worden verlengd voor het geselecteerde aantal jaren.';
-$lang['DomainsDomains.!error.invoices_renew_service'] = 'Het domein kan niet worden verlengd totdat alle facturen voor dit domein zijn betaald.';
+$lang['DomainsDomains.!error.invoices_renew_service'] = 'Het domein kan niet worden verlengd totdat alle facturen en servicewijzigingen met betrekking tot dit domein zijn verwerkt.';
 $lang['DomainsDomains.!error.unsupported_tld'] = 'Het TLD-domein wordt niet ondersteund door de geselecteerde registrar-module.';
 

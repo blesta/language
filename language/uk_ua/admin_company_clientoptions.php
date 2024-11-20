@@ -130,4 +130,13 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Необх
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Користувацьке поле клієнта успішно видалено.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Кастомне поле клієнта успішно створено.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Поле налаштувань клієнта успішно оновлено.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'Немає встановлених шлюзів.';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'Гібрид';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'Купець';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmerchant'] = 'Некомерційний';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_type'] = 'Тип';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Шлюз';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Увімкнути';
+$lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Увімкнення обмежень шлюзу';
+$lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Обмежте, які шлюзи можуть використовувати клієнти. За замовчуванням обмеження шлюзів вимкнено, і всі шлюзи доступні.';
 

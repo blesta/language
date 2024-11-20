@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servrar';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin är en kontrollpanel för domänhosting och webbplatser, som ger möjlighet att skapa och hantera många domäner och finns i både öppen källkod och kommersiella versioner. Den är baserad på Webmin.';
 $lang['Virtualmin.name'] = 'VirtuellMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'En eller flera paketdomäner är ogiltiga.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Ange en CSV-lista över domäner som kommer att vara tillgängliga för att tillhandahålla underdomäner för, t.ex. "domain1.com,domain2.com,domain3.com"';
+$lang['Virtualmin.package_fields.domains_list'] = 'Lista över tillgängliga domäner';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Avaktivera';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Aktivera';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Aktivera försäljning av underdomäner';
 

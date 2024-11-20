@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Serviços ativos';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Clientes ativos';
 $lang['AdminMain.index.boxtitle_overview'] = 'Visão geral do sistema';
 $lang['AdminMain.!success.options_updated'] = 'As configurações da Visão geral do sistema foram atualizadas com sucesso!';
+$lang['AdminMain.date_range.month'] = 'Mês atual';
+$lang['AdminMain.date_range.day'] = '1 dia';
+$lang['AdminMain.date_range.ytd'] = 'Ano até a data';
 

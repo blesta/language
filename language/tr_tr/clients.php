@@ -26,8 +26,6 @@ $lang['Clients.!error.note_id.exists'] = 'Geçersiz not kimliği.';
 $lang['Clients.!error.title.length'] = 'Başlık uzunluğu 255 karakteri geçemez.';
 $lang['Clients.!error.title.empty'] = 'Lütfen bir başlık girin.';
 $lang['Clients.!error.staff_id.exists'] = 'Geçersiz personel kimliği.';
-$lang['Clients.!error.value.valid'] = '1$s geçersiz bir değere ayarlandı.';
-$lang['Clients.!error.value.required'] = '1$s geçersiz bir formatta.';
 $lang['Clients.!error.read_only.length'] = 'Salt okunur 1 karakter uzunluğunu geçemez.';
 $lang['Clients.!error.read_only.format'] = 'Salt okunur bir sayı olmalıdır.';
 $lang['Clients.!error.encrypted.length'] = 'Şifrelenenlerin uzunluğu 1 karakteri geçemez.';
@@ -65,4 +63,6 @@ $lang['Clients.!error.type.exists'] = 'Geçersiz tip.';
 $lang['Clients.!error.account_id.exists'] = 'Geçersiz hesap kimliği.';
 $lang['Clients.!error.client_id.exists'] = 'Geçersiz istemci kimliği.';
 $lang['Clients.!error.client_group_id.exists'] = 'Geçersiz müşteri grubu kimliği.';
+$lang['Clients.!error.value.valid'] = '%1$s geçersiz bir değere ayarlanmış.';
+$lang['Clients.!error.value.required'] = '%1$s geçersiz bir biçimdedir.';
 

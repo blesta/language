@@ -258,4 +258,16 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Конфігурацію
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Модуль успішно видалено.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Модуль успішно встановлено.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Модуль було успішно модернізовано.';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Видалення доменів верхнього рівня';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Код EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Захист ідентифікаційних даних';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Переадресація електронної пошти';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Керування DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s не вдалося оновити для наступних доменів верхнього рівня: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Доступ до EPP коду успішно оновлено!';
+$lang['AdminDomains.!success.id_protection'] = 'ID Protection успішно оновлено!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Переадресацію успішно оновлено!';
+$lang['AdminDomains.!success.dns_management'] = 'Управління DNS успішно оновлено!';
+$lang['AdminDomains.!success.delete_partial'] = 'Наступні TLD не можуть бути видалені, оскільки вони вже використовуються: %1$s';
+$lang['AdminDomains.!success.delete'] = 'ДВУ успішно видалено!';
 

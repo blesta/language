@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = '无法使用给定的密钥�
 $lang['StripePayments.!error.secret_key.empty'] = '请输入密钥。';
 $lang['StripePayments.!error.publishable_key.empty'] = '请输入可发布密钥。';
 $lang['StripePayments.!error.auth'] = '网关无法验证。';
+$lang['StripePayments.request_three_d_secure_challenge'] = '每当客户保存付款方式或处理付款方式（已存储或未存储）时，提出 3D 安全挑战';
+$lang['StripePayments.request_three_d_secure_note'] = '如果您是 Stripe 的印度用户，在使用 Stripe 保存新卡之前，必须始终执行 3D Secure (3DS) 身份验证。';
+$lang['StripePayments.request_three_d_secure_frictionless'] = '每当客户保存付款方式或处理未存储的付款方式时，都会提出 3D 安全挑战';
+$lang['StripePayments.request_three_d_secure_automatic'] = '允许 Stripe 确定何时提出 3D 安全挑战';
+$lang['StripePayments.request_three_d_secure'] = '3D 安全身份验证流程';
 

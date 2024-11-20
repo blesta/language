@@ -41,4 +41,9 @@ $lang['StripePayments.!error.secret_key.valid'] = 'Nie można połączyć się z
 $lang['StripePayments.!error.secret_key.empty'] = 'Wprowadź tajny klucz.';
 $lang['StripePayments.!error.publishable_key.empty'] = 'Wprowadź klucz do publikacji.';
 $lang['StripePayments.!error.auth'] = 'Brama nie mogła się uwierzytelnić.';
+$lang['StripePayments.request_three_d_secure_note'] = 'Jeśli jesteś użytkownikiem Stripe w Indiach, przed zapisaniem nowej karty w Stripe musisz zawsze przeprowadzić uwierzytelnianie 3D Secure (3DS).';
+$lang['StripePayments.request_three_d_secure_challenge'] = 'Prezentowanie wyzwań 3D Secure za każdym razem, gdy klient zapisuje metodę płatności lub przetwarza metodę płatności (zapisaną lub niezapisaną).';
+$lang['StripePayments.request_three_d_secure_frictionless'] = 'Prezentowanie wyzwań 3D Secure za każdym razem, gdy klient zapisuje metodę płatności lub przetwarza niezapisaną metodę płatności.';
+$lang['StripePayments.request_three_d_secure_automatic'] = 'Umożliwienie firmie Stripe określenia, kiedy należy przedstawić wyzwanie 3D Secure';
+$lang['StripePayments.request_three_d_secure'] = 'Przepływ uwierzytelniania 3D Secure';
 

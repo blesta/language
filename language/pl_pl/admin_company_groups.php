@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s jest grupą domyślną 
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s został pomyślnie usunięty!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s został pomyślnie edytowany!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s został pomyślnie utworzony!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Dozwolone bramki';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Dozwolone bramki';
 

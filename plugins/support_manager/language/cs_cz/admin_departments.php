@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Správce podpory > Oddělení';
 $lang['AdminDepartments.!success.department_deleted'] = 'Oddělení %1$s bylo úspěšně smazáno.';
 $lang['AdminDepartments.!success.department_updated'] = 'Oddělení %1$s bylo úspěšně aktualizováno.';
 $lang['AdminDepartments.!success.department_created'] = 'Oddělení %1$s bylo úspěšně vytvořeno.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Dostupné priority';
+$lang['AdminDepartments.add.field_priorities'] = 'Dostupné priority';
 

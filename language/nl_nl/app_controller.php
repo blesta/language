@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Het token van het formulier is ong
 $lang['AppController.!error.unauthorized_access'] = 'Je hebt geen toegang tot die bron';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
+$lang['AppController.!error.client_unauthorized_access'] = 'Je hebt geen toegang tot deze bron. Neem contact op met de primaire accounthouder om toegang aan te vragen.';
 

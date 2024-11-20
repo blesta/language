@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Filen har framgångsrikt lagts till.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorin har raderats framgångsrikt.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorin har uppdaterats framgångsrikt.';
 $lang['AdminMain.!success.category_added'] = 'Kategorin har skapats framgångsrikt.';
+$lang['AdminMain.edit.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
 

@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Hem';
 $lang['Navigation.!error.parent_id.valid'] = 'Ogiltigt ID för överordnat navigeringsobjekt';
 $lang['Navigation.!error.order.valid'] = 'Orderindex måste vara ett numeriskt värde';
 $lang['Navigation.!error.action_id.valid'] = 'Ogiltigt åtgärds-ID';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML-mallar';
 

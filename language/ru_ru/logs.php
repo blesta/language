@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Не хватает адреса.';
 $lang['Logs.!error.to_address.empty'] = 'Не хватает "а" для адреса.';
 $lang['Logs.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['Logs.!error.deletelog_datetime'] = 'Неверный формат даты.';
+$lang['Logs.!error.new_service.format'] = 'Новая служба должна представлять собой массив.';
+$lang['Logs.!error.old_service.format'] = 'Старый сервис должен быть массивом.';
+$lang['Logs.!error.transactions.exists'] = 'Одна или несколько транзакций не существует.';
+$lang['Logs.!error.transaction_id.format'] = 'Транзакции должны быть массивом.';
+$lang['Logs.!error.service_id.exists'] = 'Неверный идентификатор службы.';
 

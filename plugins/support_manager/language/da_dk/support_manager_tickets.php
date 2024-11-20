@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.log.status'] = 'Status er blevet ændret til %1$s.'
 $lang['SupportManagerTickets.log.ticket_staff_id'] = 'Tildelt til %1$s.';
 $lang['SupportManagerTickets.log.unassigned'] = 'Ikke tildelt';
 $lang['SupportManagerTickets.reassign_note'] = 'Denne sag blev overdraget til %1$s. Tidligere klientsvar blev omfordelt til denne klient og kan være lavet af en anden person.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Vælg venligst en gyldig prioritet for denne afdeling.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Mindst én af billetkontakterne er ugyldig.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindst én af billetmodtagerne er ugyldig.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindst én af billetmodtagerne er dubleret.';
 

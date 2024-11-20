@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Головна сторінка';
 $lang['Navigation.!error.parent_id.valid'] = 'Невірний ідентифікатор батьківського елемента навігації';
 $lang['Navigation.!error.order.valid'] = 'Індекс замовлення повинен бути числовим значенням';
 $lang['Navigation.!error.action_id.valid'] = 'Невірний ідентифікатор дії';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML-шаблони';
 

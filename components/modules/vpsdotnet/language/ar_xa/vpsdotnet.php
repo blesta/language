@@ -1,0 +1,133 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.ar_xa
+ * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'أفهم أنه عند إعادة التثبيت، سيتم حذف جميع البيانات الموجودة على الخادم نهائيًا، وسيتم تثبيت نظام التشغيل والقالب المحددين.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'يرجى تحديد قالب صالح.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'الرجاء تحديد نظام تشغيل صالح.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'يُرجى تحديد سحابة صالحة.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'لا يجوز أن تحتوي التسمية على أحرف خاصة.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'الرجاء إدخال التسمية.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'يبدو أن اسم المضيف غير صالح.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'يرجى تحديد قالب صالح.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'يرجى تحديد ما إذا كنت تريد السماح للعميل بتعيين القالب أم لا.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'الرجاء تحديد نظام تشغيل صالح.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'الرجاء تحديد ما إذا كنت تريد السماح للعميل بتعيين نظام التشغيل أم لا.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'يُرجى تحديد سحابة صالحة.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'يرجى تحديد ما إذا كنت تريد السماح للعميل بتعيين سحابة.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'الرجاء إدخال عدد العقد المراد تخصيصها.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'يجب أن تقر بأنك تفهم إجراء إعادة التثبيت من أجل تنفيذ إعادة تثبيت القالب.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'يرجى تحديد قالب صالح.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'حدث خطأ وتعذر إعادة تثبيت القالب.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'حدث خطأ وتعذر إلغاء الخدمة.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'حدث خطأ وتعذر تنفيذ الإجراء.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'حدث خطأ وتعذر تحديث الجهاز الظاهري.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'غير قادر على إضافة العقد المطلوبة.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'تعذر إنشاء اتصال بالخادم. يرجى التحقق للتأكد من صحة عنوان البريد الإلكتروني ومفتاح واجهة برمجة التطبيقات.';
+$lang['Vpsdotnet.!error.key.empty'] = 'يُرجى إدخال مفتاح API الخاص بك.';
+$lang['Vpsdotnet.!error.email.format'] = 'الرجاء إدخال عنوان بريد إلكتروني صحيح.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'الرجاء إدخال تسمية لهذا الخادم.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'كلمة المرور';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'وحدة التحكم';
+$lang['Vpsdotnet.tab_console.root_password'] = 'كلمة المرور';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'وحدة التحكم';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'إعادة تعيين كلمة المرور';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'إعادة تعيين كلمة المرور';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'تغيير اسم المضيف';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'اسم المضيف';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'تغيير اسم المضيف';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'إعادة التثبيت';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'القالب';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'نظام التشغيل';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'إعادة التثبيت';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'إجراءات الخادم';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'غير معروف';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'قيد الانتظار';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'غير متصل بالإنترنت';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'عبر الإنترنت';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'حالة الخادم';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'إعادة تعيين كلمة المرور';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'إعادة تعيين كلمة المرور';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'تغيير اسم المضيف';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'اسم المضيف';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'تغيير اسم المضيف';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'إعادة التثبيت';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'أفهم أنه عند إعادة التثبيت، سيتم حذف جميع البيانات الموجودة على الخادم نهائيًا، وسيتم تثبيت نظام التشغيل والقالب المحددين.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'القالب';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'نظام التشغيل';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'إعادة التثبيت';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'حالة الخادم';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'الإجراءات';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'غير معروف';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'قيد الانتظار';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'غير متصل بالإنترنت';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'عبر الإنترنت';
+$lang['Vpsdotnet.!actions.password'] = 'إعادة تعيين كلمة المرور';
+$lang['Vpsdotnet.!actions.hostname'] = 'تغيير اسم المضيف';
+$lang['Vpsdotnet.!actions.reinstall'] = 'إعادة التثبيت';
+$lang['Vpsdotnet.!actions.shutdown'] = 'إيقاف التشغيل';
+$lang['Vpsdotnet.!actions.reboot'] = 'إعادة التشغيل';
+$lang['Vpsdotnet.!actions.boot'] = 'الحذاء';
+$lang['Vpsdotnet.tab_client_console'] = 'وحدة التحكم';
+$lang['Vpsdotnet.tab_client_actions'] = 'إجراءات الخادم';
+$lang['Vpsdotnet.tab_console'] = 'وحدة التحكم';
+$lang['Vpsdotnet.tab_actions'] = 'إجراءات الخادم';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'القالب';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'نظام التشغيل';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'السحابة/المنطقة';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'تسمية VPS';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'اسم المضيف';
+$lang['Vpsdotnet.package_fields.template'] = 'القالب';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'حدد القالب';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'السماح للعميل بتعيين القالب';
+$lang['Vpsdotnet.package_fields.template_group'] = 'نظام التشغيل';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'اختر نظام التشغيل';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'السماح للعميل بتعيين نظام التشغيل والقالب';
+$lang['Vpsdotnet.package_fields.cloud'] = 'السحابة/المنطقة';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'اختر سحابة/منطقة';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'السماح للعميل بتعيين السحابة/المنطقة، ونظام التشغيل، والقالب';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'عدد العقد';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'تحديث الخادم';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'الإعدادات الأساسية';
+$lang['Vpsdotnet.edit_row.box_title'] = 'تحرير خادم VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'إضافة خادم';
+$lang['Vpsdotnet.row_meta.key'] = 'مفتاح واجهة برمجة التطبيقات';
+$lang['Vpsdotnet.row_meta.email'] = 'البريد الإلكتروني';
+$lang['Vpsdotnet.row_meta.server_name'] = 'تسمية الخادم';
+$lang['Vpsdotnet.add_row.basic_title'] = 'الإعدادات الأساسية';
+$lang['Vpsdotnet.add_row.box_title'] = 'إضافة خادم VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'كلمة المرور';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'عنوان IP الأساسي';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'لا توجد مجموعات خوادم.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'هل أنت متأكد أنك تريد حذف مجموعة الخادم هذه؟';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'حذف';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'تحرير';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'الخيارات';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'عدد الخوادم';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'اسم المجموعة';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'مجموعات الخوادم الرئيسية VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'لا توجد خوادم.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف هذا الخادم؟';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'حذف';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'تحرير';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'الخيارات';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'البريد الإلكتروني';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'تسمية الخادم';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'خوادم VPS.NET الرئيسية';
+$lang['Vpsdotnet.add_module_group'] = 'إضافة مجموعة خوادم';
+$lang['Vpsdotnet.add_module_row'] = 'إضافة خادم';
+$lang['Vpsdotnet.please_wait'] = 'الرجاء الانتظار...';
+$lang['Vpsdotnet.order_options.first'] = 'أول خادم غير ممتلئ';
+$lang['Vpsdotnet.module_group'] = 'مجموعة VPS.NET الرئيسية';
+$lang['Vpsdotnet.module_row_plural'] = 'الخوادم';
+$lang['Vpsdotnet.module_row'] = 'خادم VPS.NET الرئيسي';
+$lang['Vpsdotnet.description'] = 'يوفر VPS.NET استضافة خوادم افتراضية.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+

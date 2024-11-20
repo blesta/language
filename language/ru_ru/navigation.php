@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Главная';
 $lang['Navigation.!error.parent_id.valid'] = 'Неверный идентификатор родительского элемента навигации';
 $lang['Navigation.!error.order.valid'] = 'Индекс заказа должен быть числовым значением';
 $lang['Navigation.!error.action_id.valid'] = 'Неверный идентификатор действия';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Шаблоны HTML';
 

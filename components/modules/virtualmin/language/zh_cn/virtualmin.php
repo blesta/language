@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = '服务器';
 $lang['Virtualmin.module_row'] = '服务器';
 $lang['Virtualmin.description'] = 'Virtualmin 是一个域名主机和网站控制面板，能够创建和管理多个域名，有开源和商业两个版本。它基于 Webmin。';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = '一个或多个软件包域无效。';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = '输入可提供子域名的 CSV 域名列表，如 "domain1.com,domain2.com,domain3.com"。';
+$lang['Virtualmin.package_fields.domains_list'] = '可用域名列表';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = '禁用';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = '启用';
+$lang['Virtualmin.package_fields.sub_domains'] = '启用销售子域名';
 

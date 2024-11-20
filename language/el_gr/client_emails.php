@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Θέμα';
 $lang['ClientEmails.index.heading_date'] = 'Ημερομηνία';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Ιστορικό email';
 $lang['ClientEmails.index.page_title'] = 'Ιστορικό email του πελάτη #%1$s';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Κείμενο';
 

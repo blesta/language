@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_client_settings_deleted'] = 'Les ancien
 $lang['Automation.task.cleanup_logs.logs_service_deleted'] = 'Les anciens journaux de service %1$s ont été supprimés.';
 $lang['Automation.task.cleanup_logs.logs_transaction_deleted'] = 'Les anciens journaux de transactions (%1$s) ont été supprimés.';
 $lang['Automation.task.cleanup_logs.logs_cron_deleted'] = 'Les anciens journaux Cron de %1$s ont été supprimés.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s les anciens journaux de modifications de service ont été supprimés.';
 

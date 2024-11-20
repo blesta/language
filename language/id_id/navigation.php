@@ -122,4 +122,5 @@ $lang['Navigation.getprimary.nav_home'] = 'Beranda';
 $lang['Navigation.!error.parent_id.valid'] = 'ID item navigasi induk tidak valid';
 $lang['Navigation.!error.order.valid'] = 'Indeks pesanan harus berupa nilai numerik';
 $lang['Navigation.!error.action_id.valid'] = 'ID tindakan tidak valid';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Templat HTML';
 

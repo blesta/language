@@ -11,4 +11,6 @@
 
 $lang['WebhooksPlugin.description'] = 'Odesílá automatické požadavky HTTP na základě událostí a naslouchá požadavkům HTTP na spuštění konkrétních událostí.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Vymaže mezipaměť seznamu pozorovatelů událostí.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Vymazat mezipaměť';
 

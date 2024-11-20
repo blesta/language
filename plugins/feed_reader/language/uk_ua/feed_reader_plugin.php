@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['FeedReaderPlugin.description'] = 'Переглядайте будь-які RSS/Atom стрічки прямо на вашій інформаційній панелі.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'Для цього плагіна потрібне розширення dom.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'Для цього плагіна потрібне розширення libxml.';
-$lang['FeedReaderPlugin.description'] = 'Переглядайте будь-які RSS/Atom стрічки прямо на вашій інформаційній панелі.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

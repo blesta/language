@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Tema a fost actualizată 
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Tema importată nu este o temă de interfață client.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Tema importată nu este o temă pentru interfața de administrare.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Vă rugăm să încărcați o temă pentru a o importa.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'CSS personalizat';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'CSS personalizat';
 

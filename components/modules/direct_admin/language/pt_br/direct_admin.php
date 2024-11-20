@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.port.format'] = 'A porta deve ser um número.';
 $lang['DirectAdmin.!error.host_name.format'] = 'O nome do host parece ser inválido.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Você deve inserir um rótulo de servidor.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.row_meta.ip_address'] = 'Endereço IP';
+$lang['DirectAdmin.!error.ip_address.format'] = 'O endereço IP parece ser inválido.';
 

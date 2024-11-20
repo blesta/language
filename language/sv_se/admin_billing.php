@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'De valda tjänsterna överför
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'De utvalda tjänsterna är inte längre planerade att ställas in.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'De valda tjänsterna var framgångsrikt schemalagda för att avbrytas.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'De valda fakturorna har markerats som utskrivna.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Orsak till avstängning:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Osuspenderad';
+$lang['AdminBilling.services.action.suspend'] = 'Avvakta';
+$lang['AdminBilling.!success.services_unsuspended'] = 'De utvalda tjänsterna har framgångsrikt avbrutits.';
+$lang['AdminBilling.!success.services_suspended'] = 'De valda tjänsterna har framgångsrikt avbrutits.';
 

@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.invoices.field.second_renewal_attempt_spacing'] = 'Af
 $lang['AdminCompanyBilling.invoices.text_none'] = 'Ingen';
 $lang['AdminCompanyBilling.invoices.text_hour'] = '%1$s time';
 $lang['AdminCompanyBilling.invoices.text_hours'] = '%1$s Timer';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'Afstand i 2. forsøg';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = '2. forsøgs afstandstærskel';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1. forsøg mellemrum';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '1. forsøgs afstandstærskel';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Forsøg';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Type';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Servicehandlinger';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Forsøg på levering af tjenester';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Antallet af servicehandlinger, der skal forsøges, før næste forsøg forsinkes med den mængde, der er angivet i indstillingen for afstand til andet forsøg.';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Antallet af servicehandlinger, der skal forsøges, før det næste forsøg forsinkes med den mængde, der er angivet i indstillingen for afstand til første forsøg.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Antallet af forsøg og fejl, der skal behandles for en servicehandling, før den pågældende servicehandling deaktiveres fra automatisk afslutning.';
 

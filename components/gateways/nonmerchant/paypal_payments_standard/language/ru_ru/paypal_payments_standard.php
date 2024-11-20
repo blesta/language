@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Имя стиля страницы
 $lang['PaypalPaymentsStandard.account_id'] = 'Электронная почта счета PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard - один из самых простых способов безопасно принимать платежи по кредитным картам и PayPal в Интернете.';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'В ваших картографических данных были обнаружены дубликаты электронных писем, удалите их и повторите попытку.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'В ваших картографических данных обнаружена недопустимая строка, проверьте, действительны ли адрес электронной почты и идентификатор клиента, и повторите попытку.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Предназначено для использования с подписками PayPal, которые были созданы вне Blesta. Сопоставьте payer_email с внутренним идентификатором клиента, по 1 в строке. Например: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Сопоставление платежей';
 

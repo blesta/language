@@ -12,6 +12,6 @@
 $lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'ID de empresa no válida.';
 $lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Fijo';
 $lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Porcentaje';
-$lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Cualquier';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'En primer lugar';
+$lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Cualquier';
 

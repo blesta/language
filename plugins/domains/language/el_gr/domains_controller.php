@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Ενημέρω
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Ανανέωση τομέα';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Αλλαγή καταχωρητή';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Αλλαγή αυτόματης ανανέωσης';
+$lang['DomainsController.!error.move_error'] = 'Οι επιλεγμένοι τομείς δεν μπόρεσαν να μετακινηθούν στον επιλεγμένο πελάτη.';
 

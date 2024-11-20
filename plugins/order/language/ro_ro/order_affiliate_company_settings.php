@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Fix';
 $lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Procentul';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Orice';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Prima';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Fix';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 

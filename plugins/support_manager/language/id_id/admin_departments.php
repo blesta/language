@@ -144,4 +144,6 @@ $lang['AdminDepartments.index.page_title'] = 'Manajer Dukungan > Departemen';
 $lang['AdminDepartments.!success.department_deleted'] = 'Departemen %1$ berhasil dihapus.';
 $lang['AdminDepartments.!success.department_updated'] = 'Departemen %1$ berhasil diperbarui.';
 $lang['AdminDepartments.!success.department_created'] = 'Departemen %1$ telah berhasil dibuat.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Prioritas yang Tersedia';
+$lang['AdminDepartments.add.field_priorities'] = 'Prioritas yang Tersedia';
 

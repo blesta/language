@@ -123,4 +123,12 @@ $lang['AdminTickets.search.heading_department_name'] = 'Departamento';
 $lang['AdminTickets.search.heading_summary'] = 'Resumen';
 $lang['AdminTickets.search.heading_last_reply_date'] = 'Última respuesta';
 $lang['AdminTickets.search.no_results'] = 'No hay entradas que coincidan con los criterios de búsqueda.';
+$lang['AdminTickets.reply.text_contacts'] = 'Si no elige ningún contacto adicional, se notificará automáticamente a todos los contactos que respondan a este ticket.';
+$lang['AdminTickets.reply.text_add_recipient'] = 'Añadir destinatario';
+$lang['AdminTickets.reply.heading_contacts'] = 'Contactos';
+$lang['AdminTickets.reply.heading_recipients'] = 'Destinatarios';
+$lang['AdminTickets.add.text_contacts'] = 'Si no elige ningún contacto adicional, se notificará automáticamente a todos los contactos que respondan a este ticket.';
+$lang['AdminTickets.add.text_add_recipient'] = 'Añadir destinatario';
+$lang['AdminTickets.add.heading_contacts'] = 'Contactos';
+$lang['AdminTickets.add.heading_recipients'] = 'Destinatarios';
 

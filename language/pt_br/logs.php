@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Falta um endereço de origem.';
 $lang['Logs.!error.to_address.empty'] = 'Falta o a para o endereço.';
 $lang['Logs.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['Logs.!error.deletelog_datetime'] = 'Formato de data inválido.';
+$lang['Logs.!error.new_service.format'] = 'O novo serviço deve ser uma matriz.';
+$lang['Logs.!error.old_service.format'] = 'O serviço antigo deve ser uma matriz.';
+$lang['Logs.!error.transactions.exists'] = 'Uma ou mais transações não existem.';
+$lang['Logs.!error.transaction_id.format'] = 'As transações devem ser uma matriz.';
+$lang['Logs.!error.service_id.exists'] = 'ID de serviço inválida.';
 

@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Numele stilului de pagină';
 $lang['PaypalPaymentsStandard.account_id'] = 'Email cont PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard este una dintre cele mai simple modalități de a accepta în siguranță plăți online cu cardul de credit și PayPal.';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Au fost găsite e-mailuri duplicate în datele dvs. de cartografiere, eliminați dublurile și încercați din nou.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'O linie invalidă a fost găsită în datele de mapare, verificați dacă adresa de e-mail și ID-ul clientului sunt valide și încercați din nou.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Destinat utilizării cu abonamente PayPal care au fost create în afara Blesta. Maparea payer_email la ID-ul intern al clientului, 1 pe linie. De exemplu: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Maparea plăților';
 

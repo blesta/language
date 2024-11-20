@@ -122,4 +122,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Μη έγκυρο αναγνωρι
 $lang['Navigation.!error.order.valid'] = 'Ο δείκτης παραγγελίας πρέπει να είναι αριθμητική τιμή';
 $lang['Navigation.!error.action_id.valid'] = 'Μη έγκυρο αναγνωριστικό δράσης';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Μαύρη λίστα';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Πρότυπα HTML';
 

@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Službu nelze obnovit, 
 $lang['ClientServices.!error.invoices_change_term'] = 'Termín nelze změnit, dokud nejsou uhrazeny všechny faktury obsahující tuto službu.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Nastavitelné možnosti nelze měnit, dokud nejsou uhrazeny všechny faktury obsahující tuto službu.';
 $lang['ClientServices.!error.password_mismatch'] = 'Heslo neodpovídá vašemu přihlašovacímu heslu.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Správa služby pro rodiče';
 

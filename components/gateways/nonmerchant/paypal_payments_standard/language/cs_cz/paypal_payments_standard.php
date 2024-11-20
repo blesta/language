@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Název stylu stránky';
 $lang['PaypalPaymentsStandard.account_id'] = 'E-mail účtu PayPal';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard je jedním z nejjednodušších způsobů, jak bezpečně přijímat platby kreditní kartou a PayPal online.';
 $lang['PaypalPaymentsStandard.name'] = 'Standardní platby PayPal';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'V datech mapování byly nalezeny duplicitní e-maily, odstraňte duplicity a zkuste to znovu.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'V mapovacích datech byl nalezen neplatný řádek, zkontrolujte, zda je e-mailová adresa a ID klienta platné, a zkuste to znovu.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Určeno pro použití s odběry PayPal, které byly vytvořeny mimo systém Blesta. Mapujte payer_email na interní ID klienta, 1 na řádek. Například: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Mapování plateb';
 

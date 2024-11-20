@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = '只有在包含该服�
 $lang['ClientServices.!error.invoices_change_term'] = '在包含该服务的所有发票都已支付之前，不得更改期限。';
 $lang['ClientServices.!error.invoices_manage_options'] = '在包含该服务的所有发票都已支付之前，不能更改可配置的选项。';
 $lang['ClientServices.!error.password_mismatch'] = '密码与您的登录密码不匹配。';
+$lang['ClientServices.manage.button_manage_parent'] = '管理家长服务';
 

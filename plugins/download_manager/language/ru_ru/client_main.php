@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.!text.root_directory'] = 'Главная';
-$lang['ClientMain.index.boxtitle_downloads'] = 'Скачать';
-$lang['ClientMain.index.login'] = 'Для просмотра загрузок в этом разделе необходимо войти в систему.';
 $lang['ClientMain.index.no_downloads'] = 'В этом разделе нет доступных для скачивания файлов.';
+$lang['ClientMain.index.login'] = 'Для просмотра загрузок в этом разделе необходимо войти в систему.';
+$lang['ClientMain.index.boxtitle_downloads'] = 'Скачать';
 $lang['ClientMain.index.page_title'] = 'Скачать';
+$lang['ClientMain.!text.root_directory'] = 'Главная';
 

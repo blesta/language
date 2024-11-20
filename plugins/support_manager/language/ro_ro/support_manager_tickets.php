@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Persoana de contact s
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'ID-ul personalului nu este valid.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Vă rugăm să selectați un departament valid.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Codul biletului trebuie să conțină numai cifre.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Vă rugăm să selectați o prioritate valabilă pentru acest departament.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Cel puțin unul dintre contactele biletului este invalid.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Cel puțin unul dintre destinatarii biletului este invalid.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Cel puțin unul dintre destinatarii biletelor este duplicat.';
 

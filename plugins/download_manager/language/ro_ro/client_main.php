@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.!text.root_directory'] = 'Acasă';
-$lang['ClientMain.index.boxtitle_downloads'] = 'Descărcări';
-$lang['ClientMain.index.login'] = 'Trebuie să vă conectați pentru a vizualiza descărcările din această secțiune.';
 $lang['ClientMain.index.no_downloads'] = 'Nu există descărcări disponibile în această secțiune.';
+$lang['ClientMain.index.login'] = 'Trebuie să vă conectați pentru a vizualiza descărcările din această secțiune.';
+$lang['ClientMain.index.boxtitle_downloads'] = 'Descărcări';
 $lang['ClientMain.index.page_title'] = 'Descărcări';
+$lang['ClientMain.!text.root_directory'] = 'Acasă';
 

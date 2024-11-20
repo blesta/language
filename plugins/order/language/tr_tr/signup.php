@@ -21,7 +21,6 @@ $lang['Signup.index.field_password'] = 'Şifre';
 $lang['Signup.index.field_username'] = 'Kullanıcı Adı';
 $lang['Signup.index.field_action_signup'] = 'Bir hesap oluşturun';
 $lang['Signup.index.field_action_login'] = 'Giriş Yap';
-$lang['Signup.index.field_action_continue'] = '1$s %2$s olarak devam edin';
 $lang['Signup.index.field_username_type_username'] = 'Bir kullanıcı adı belirtin';
 $lang['Signup.index.field_username_type_email'] = 'Kullanıcı adı olarak e-posta kullanın';
 $lang['Signup.index.field_email'] = 'E-posta';
@@ -42,4 +41,12 @@ $lang['Signup.!notice.email_verification'] = 'E-posta adresinizi doğrulamak iç
 $lang['Signup.!notice.force_email_usernames'] = 'Kullanıcı adınız e-posta adresinizle aynı olacaktır.';
 $lang['Signup.!error.not_client_owner'] = 'Devam edebilmek için müşteri sahibi olarak oturum açmış olmanız gerekmektedir.';
 $lang['Signup.!error.captcha.invalid'] = 'Girilen captcha geçersiz. Lütfen tekrar deneyin.';
+$lang['Signup.index.field_action_continue'] = 'Continue as %1$s %2$s';
+$lang['Signup.otp.field_submit'] = 'Giriş Yap';
+$lang['Signup.otp.field_otp'] = 'Tek Kullanımlık Şifre';
+$lang['Signup.otp.login_heading'] = 'Giriş Yap';
+$lang['Signup.otp.description'] = 'Lütfen Tek Kullanımlık Şifrenizi girin.';
+$lang['Signup.otp.page_title'] = 'Giriş Yap';
+$lang['Signup.index.field_agree_tos'] = '<a href="%1$s" target="_blank">Hüküm ve Koşulları</a> okudum ve kabul ediyorum';
+$lang['Signup.!error.invalid_agree_tos'] = 'Hüküm ve koşulları kabul ettiğinizi onaylamanız gerekmektedir.';
 

@@ -19,8 +19,6 @@ $lang['DomainsFeed.table.not_available'] = 'Mevcut değil';
 $lang['DomainsFeed.table.renew'] = 'Yenileme';
 $lang['DomainsFeed.table.transfer'] = 'Transfer';
 $lang['DomainsFeed.table.register'] = 'Kayıt Olun';
-$lang['DomainsFeed.table.heading_years'] = '1$s Yıl';
-$lang['DomainsFeed.table.heading_year'] = '1$s Yıl';
 $lang['DomainsFeed.table.heading_tlds'] = 'TLD\'ler';
 $lang['DomainsFeed.getOptionFields.param_term_description'] = 'Fiyatlandırma tablosuna dahil edilecek yıl terimlerinin virgülle ayrılmış bir listesi.';
 $lang['DomainsFeed.getOptionFields.param_term'] = 'dönem';
@@ -35,4 +33,6 @@ $lang['DomainsFeed.getOptionFields.example_code_table'] = 'Belirli bir para biri
 $lang['DomainsFeed.getOptionFields.title_row_example_code'] = 'Örnek Kod';
 $lang['DomainsFeed.description'] = 'Tüm TLD\'ler için fiyatlandırmayı veya kayıtlı alan adlarının sayısını içeren bir HTML tablosu döndürür.';
 $lang['DomainsFeed.name'] = 'Domains';
+$lang['DomainsFeed.table.heading_years'] = '%1$s Yıllar';
+$lang['DomainsFeed.table.heading_year'] = '%1$s Yıl';
 

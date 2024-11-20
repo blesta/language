@@ -47,7 +47,6 @@ $lang['ClientPay.method.field_apply_credit'] = 'Kredi Başvurusu (%1$s Mevcut)';
 $lang['ClientPay.method.field_paymentaccount_ach'] = 'ACH Hesapları';
 $lang['ClientPay.method.field_paymentaccount_autodebit'] = '(Otomatik Borç) %1$s %2$s - %3$s x%4$s';
 $lang['ClientPay.method.field_paymentaccount_cc'] = 'Kredi Kartı Hesapları';
-$lang['ClientPay.method.field_paymentaccount'] = '1$s %2$s - %3$s x%4$s';
 $lang['ClientPay.method.heading_payment_options'] = 'Ödeme Seçenekleri';
 $lang['ClientPay.method.heading_other_payment_options'] = 'Diğer Ödeme Seçenekleri';
 $lang['ClientPay.method.field_newdetails'] = 'Yeni Ödeme Detayları';
@@ -71,4 +70,5 @@ $lang['ClientPay.!success.invoice_paid'] = 'Bu fatura daha önce ödenmiştir.';
 $lang['ClientPay.!success.credit_partial_processed'] = 'Mevcut krediler uygulandı, ancak hala bir bakiye var. Lütfen aşağıdaki kalanı ödeyerek bu işlemi tamamlayın.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Mevcut krediler uygulanmıştır.';
 $lang['ClientPay.!success.payment_processed'] = 'Ödeme %1$s için başarıyla işlendi. İşlem Numarası: %2$s';
+$lang['ClientPay.method.field_paymentaccount'] = '%1$s %2$s - %3$s x%4$s';
 

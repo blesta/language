@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Das Thema wurde erfolgrei
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Das importierte Thema ist kein Thema für die Client-Schnittstelle.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Das importierte Thema ist kein Thema für die Verwaltungsoberfläche.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Bitte laden Sie ein Thema zum Importieren hoch.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Benutzerdefiniertes CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Benutzerdefiniertes CSS';
 

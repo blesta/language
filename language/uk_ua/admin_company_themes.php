@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Тему успішно �
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Імпортована тема не є темою клієнтського інтерфейсу.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Імпортована тема не є темою інтерфейсу адміністратора.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Будь ласка, завантажте тему для імпорту.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Кастомний CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Кастомний CSS';
 

@@ -93,4 +93,10 @@ $lang['Virtualmin.!error.virtualmin_username.format'] = 'Brugernavnet må kun in
 $lang['Virtualmin.!error.virtualmin_username.test'] = 'Brugernavnet må ikke begynde med \'test\'.';
 $lang['Virtualmin.!error.virtualmin_username.length'] = 'Brugernavnet skal være mellem 1 og 16 tegn langt.';
 $lang['Virtualmin.!error.virtualmin_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Et eller flere pakkedomæner er ugyldige.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Indtast en CSV-liste over domæner, der vil være tilgængelige for at levere underdomæner til, f.eks. "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Liste over tilgængelige domæner';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Deaktiver';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Gør det muligt';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Gør det muligt at sælge underdomæner';
 

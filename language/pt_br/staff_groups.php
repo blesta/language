@@ -185,4 +185,9 @@ $lang['StaffGroups.!error.name.empty'] = 'Digite um nome.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID de grupo de funcionários inválido.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Excluir anexo de e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Excluir modelo HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Editar modelo HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Adicionar modelo HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Modelos HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviço de edição avançada';
 

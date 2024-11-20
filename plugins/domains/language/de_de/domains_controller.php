@@ -16,4 +16,5 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = 'Nameserver akt
 $lang['DomainsController.getDomainActions.domain_renewal'] = 'Domäne erneuern';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Registrator ändern';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Automatische Erneuerung ändern';
+$lang['DomainsController.!error.move_error'] = 'Die ausgewählten Domains konnten nicht in den ausgewählten Client verschoben werden.';
 

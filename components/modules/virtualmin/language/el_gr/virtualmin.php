@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Servers';
 $lang['Virtualmin.module_row'] = 'Διακομιστής';
 $lang['Virtualmin.description'] = 'Το Virtualmin είναι ένας πίνακας ελέγχου για τη φιλοξενία domains και ιστοσελίδων, ο οποίος δίνει τη δυνατότητα δημιουργίας και διαχείρισης πολλών domains και διατίθεται τόσο σε εκδόσεις ανοιχτού κώδικα όσο και σε εμπορικές εκδόσεις. Βασίζεται στο Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Ένας ή περισσότεροι τομείς πακέτων είναι άκυροι.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Εισάγετε μια λίστα CSV με τους τομείς που θα είναι διαθέσιμοι για την παροχή υπο-τομέων, π.χ. "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Κατάλογος διαθέσιμων τομέων';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Απενεργοποίηση';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Ενεργοποίηση';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Ενεργοποίηση πώλησης υπο-τομέων';
 

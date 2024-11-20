@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'De service kan niet wor
 $lang['ClientServices.!error.invoices_change_term'] = 'De termijn kan niet worden gewijzigd totdat alle facturen voor deze service zijn betaald.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'De configureerbare opties kunnen niet worden gewijzigd totdat alle facturen met deze service zijn betaald.';
 $lang['ClientServices.!error.password_mismatch'] = 'Het wachtwoord komt niet overeen met uw inlogwachtwoord.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Ouder Service Beheren';
 
