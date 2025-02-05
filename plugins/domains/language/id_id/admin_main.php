@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.!success.domains_pushed'] = 'Domain yang dipilih berhasil didor
 $lang['AdminMain.!success.update_nameservers'] = 'Server nama domain telah diperbarui!';
 $lang['AdminMain.!success.domain_renewal'] = 'Domain telah diperbarui!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Pembaruan otomatis Domain telah diperbarui!';
+$lang['AdminMain.edit.field_registration_date'] = 'Ubah Tanggal Pendaftaran';
+$lang['AdminMain.edit.field_expiration_date'] = 'Ubah Tanggal Kedaluwarsa';
+$lang['AdminMain.!success.change_registration_date'] = 'Tanggal pendaftaran Domain telah diperbarui!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Tanggal kedaluwarsa Domain telah diperbarui!';
 

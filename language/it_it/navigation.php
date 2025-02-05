@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'ID elemento di navigazione genitor
 $lang['Navigation.!error.order.valid'] = 'L\'indice dell\'ordine deve essere un valore numerico';
 $lang['Navigation.!error.action_id.valid'] = 'ID azione non valido';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Modelli HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Coda di servizio';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.index.text_date_added'] = 'Dato tilføjet:';
 $lang['AdminMain.index.heading_dateregistration'] = 'Dato for registrering';
 $lang['AdminMain.index.heading_registrar'] = 'Registrator';
 $lang['AdminMain.!success.domain_registrar_updated'] = 'Domæneregistratoren er blevet opdateret!';
+$lang['AdminMain.edit.field_registration_date'] = 'Ændre registreringsdato';
+$lang['AdminMain.edit.field_expiration_date'] = 'Ændre udløbsdato';
+$lang['AdminMain.!success.change_registration_date'] = 'Datoen for domæneregistrering er blevet opdateret!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Domænets udløbsdato er blevet opdateret!';
 

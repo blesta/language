@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Если установлен �
 $lang['Logicboxes.name'] = 'LogicBoxes';
 $lang['Logicboxes.domain.domain'] = 'Доменное имя';
 $lang['Logicboxes.transfer.domain'] = 'Доменное имя';
+$lang['Logicboxes.domain.order_id'] = 'Идентификатор заказа';
 

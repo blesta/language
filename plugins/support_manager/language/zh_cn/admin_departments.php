@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = '%1$s 部门已成功更
 $lang['AdminDepartments.!success.department_created'] = '成功创建了 %1$s 部门。';
 $lang['AdminDepartments.edit.field_priorities'] = '现有优先事项';
 $lang['AdminDepartments.add.field_priorities'] = '现有优先事项';
+$lang['AdminDepartments.edit.field_force_import'] = '强制导入';
+$lang['AdminDepartments.add.field_force_import'] = '强制导入';
+$lang['AdminDepartments.!success.department_imported'] = '%1$s 部门已成功导入。';
 

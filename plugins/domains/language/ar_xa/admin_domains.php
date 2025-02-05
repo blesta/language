@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.getTldActions.option_email_forwarding'] = 'إعادة توج
 $lang['AdminDomains.getTldActions.option_id_protection'] = 'حماية الهوية';
 $lang['AdminDomains.getTldActions.option_epp_code'] = 'كود EPP';
 $lang['AdminDomains.getTldActions.option_delete'] = 'حذف نطاقات TLD';
+$lang['AdminDomains.!success.change_registration_date'] = 'تم تحديث تاريخ تسجيل النطاق!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'تم تحديث تاريخ انتهاء صلاحية النطاق!';
 

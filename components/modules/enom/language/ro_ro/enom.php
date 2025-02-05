@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,8 +130,8 @@ $lang['Enom.domain.NumYears'] = 'Ani';
 $lang['Enom.domain.domain'] = 'Nume de domeniu';
 $lang['Enom.transfer.transfer_key'] = 'Codul PPE';
 $lang['Enom.transfer.domain'] = 'Nume de domeniu';
-$lang['Enom.!error.key.valid_connection'] = 'Combinația de utilizator și parolă pare a fi invalidă sau este posibil ca contul Enom să nu fie configurat pentru a permite accesul la API.';
-$lang['Enom.!error.key.valid'] = 'Vă rugăm să introduceți o parolă.';
+$lang['Enom.!error.key.valid_connection'] = 'Combinația dintre utilizator și parolă (sau cheia api) pare a fi invalidă sau este posibil ca contul dvs. Enom să nu fie configurat pentru a permite accesul API.';
+$lang['Enom.!error.key.valid'] = 'Vă rugăm să introduceți o parolă sau o cheie api.';
 $lang['Enom.!error.user.valid'] = 'Vă rugăm să introduceți un utilizator.';
 $lang['Enom.tab_settings.field_submit'] = 'Actualizarea setărilor';
 $lang['Enom.tab_settings.field_request_epp'] = 'Solicitarea codului EPP/cheie de transfer';
@@ -166,7 +166,7 @@ $lang['Enom.add_row.box_title'] = 'Adăugați un cont Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'Nu';
 $lang['Enom.row_meta.sandbox_true'] = 'Da';
 $lang['Enom.row_meta.sandbox'] = 'Sandbox';
-$lang['Enom.row_meta.key'] = 'Parola';
+$lang['Enom.row_meta.key'] = 'Cheie sau parolă API';
 $lang['Enom.row_meta.user'] = 'Utilizator';
 $lang['Enom.manage.module_rows_no_results'] = 'Nu există conturi.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest cont?';
@@ -174,7 +174,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Ștergeți';
 $lang['Enom.manage.module_rows.edit'] = 'Editați';
 $lang['Enom.manage.module_rows_heading.options'] = 'Opțiuni';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandbox';
-$lang['Enom.manage.module_rows_heading.key'] = 'Cheie API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Cheie sau parolă API';
 $lang['Enom.manage.module_rows_heading.user'] = 'Utilizator';
 $lang['Enom.manage.module_rows_title'] = 'Conturi';
 $lang['Enom.add_module_row'] = 'Adăugați un cont';

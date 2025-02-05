@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Ogiltigt ID för överordnat navig
 $lang['Navigation.!error.order.valid'] = 'Orderindex måste vara ett numeriskt värde';
 $lang['Navigation.!error.action_id.valid'] = 'Ogiltigt åtgärds-ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-mallar';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service kö';
 

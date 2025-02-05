@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Slet';
 $lang['AdminDepartments.edit.text_add'] = 'Tilføj';
 $lang['AdminDepartments.edit.field_priorities'] = 'Tilgængelige prioriteter';
 $lang['AdminDepartments.add.field_priorities'] = 'Tilgængelige prioriteter';
+$lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
+$lang['AdminDepartments.add.field_force_import'] = 'Force Import';
+$lang['AdminDepartments.!success.department_imported'] = 'Afdelingen %1$s blev importeret med succes.';
 

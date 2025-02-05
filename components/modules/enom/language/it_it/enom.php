@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Anni';
 $lang['Enom.domain.domain'] = 'Nome di dominio';
 $lang['Enom.transfer.transfer_key'] = 'Codice PPE';
 $lang['Enom.transfer.domain'] = 'Nome di dominio';
-$lang['Enom.!error.key.valid_connection'] = 'La combinazione di utente e password sembra non essere valida, oppure l\'account Enom potrebbe non essere configurato per consentire l\'accesso all\'API.';
-$lang['Enom.!error.key.valid'] = 'Inserire una password.';
+$lang['Enom.!error.key.valid_connection'] = 'La combinazione di utente e password (o chiave api) sembra non essere valida, oppure l\'account Enom potrebbe non essere configurato per consentire l\'accesso all\'API.';
+$lang['Enom.!error.key.valid'] = 'Inserire una password o una chiave api.';
 $lang['Enom.!error.user.valid'] = 'Inserire un utente.';
 $lang['Enom.tab_settings.field_submit'] = 'Aggiornamento delle impostazioni';
 $lang['Enom.tab_settings.field_request_epp'] = 'Richiesta del codice PPE/chiave di trasferimento';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Aggiungi account Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'No';
 $lang['Enom.row_meta.sandbox_true'] = 'Sì';
 $lang['Enom.row_meta.sandbox'] = 'Sandbox';
-$lang['Enom.row_meta.key'] = 'Password';
+$lang['Enom.row_meta.key'] = 'Chiave o password API';
 $lang['Enom.row_meta.user'] = 'Utente';
 $lang['Enom.manage.module_rows_no_results'] = 'Non ci sono conti.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'È sicuro di voler eliminare questo account?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Cancellare';
 $lang['Enom.manage.module_rows.edit'] = 'Modifica';
 $lang['Enom.manage.module_rows_heading.options'] = 'Opzioni';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandbox';
-$lang['Enom.manage.module_rows_heading.key'] = 'Chiave API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Chiave o password API';
 $lang['Enom.manage.module_rows_heading.user'] = 'Utente';
 $lang['Enom.manage.module_rows_title'] = 'Conti';
 $lang['Enom.add_module_row'] = 'Aggiungi account';

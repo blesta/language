@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.domain.ASIAIdentForm.passport'] = 'Pasaporte/DNI';
 $lang['Logicboxes.domain.ASIAIdentNumber'] = 'Número de identidad';
 $lang['Logicboxes.domain.domain'] = 'Nombre de dominio';
 $lang['Logicboxes.transfer.domain'] = 'Nombre de dominio';
+$lang['Logicboxes.domain.order_id'] = 'Número de pedido';
 

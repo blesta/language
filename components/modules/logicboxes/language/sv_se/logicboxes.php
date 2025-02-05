@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'Återförsäljarvalutan finns 
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Om Sandbox är markerat måste du definiera autentiseringsuppgifter för test-/demo-konton. Om du använder autentiseringsuppgifter för ditt produktionskonto med Sandbox markerat kommer live-åtgärder fortfarande att utföras.';
 $lang['Logicboxes.domain.domain'] = 'Domännamn';
 $lang['Logicboxes.transfer.domain'] = 'Domännamn';
+$lang['Logicboxes.domain.order_id'] = 'Order-ID';
 

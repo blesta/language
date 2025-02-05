@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = 'O departamento %1$s foi
 $lang['AdminDepartments.!success.department_created'] = 'O departamento %1$s foi criado com sucesso.';
 $lang['AdminDepartments.edit.field_priorities'] = 'Prioridades disponíveis';
 $lang['AdminDepartments.add.field_priorities'] = 'Prioridades disponíveis';
+$lang['AdminDepartments.add.field_force_import'] = 'Forçar importação';
+$lang['AdminDepartments.edit.field_force_import'] = 'Forçar importação';
+$lang['AdminDepartments.!success.department_imported'] = 'O departamento %1$s foi importado com sucesso.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Роки';
 $lang['Enom.domain.domain'] = 'Доменне ім\'я';
 $lang['Enom.transfer.transfer_key'] = 'Код EPP';
 $lang['Enom.transfer.domain'] = 'Доменне ім\'я';
-$lang['Enom.!error.key.valid_connection'] = 'Можливо, комбінація користувача та пароля невірна, або ваш обліковий запис Enom не налаштований для доступу до API.';
-$lang['Enom.!error.key.valid'] = 'Будь ласка, введіть пароль.';
+$lang['Enom.!error.key.valid_connection'] = 'Можливо, комбінація користувача і пароля (або ключа API) невірна, або ваш обліковий запис Enom не налаштований для доступу до API.';
+$lang['Enom.!error.key.valid'] = 'Будь ласка, введіть пароль або api ключ.';
 $lang['Enom.!error.user.valid'] = 'Будь ласка, введіть користувача.';
 $lang['Enom.tab_settings.field_submit'] = 'Оновлення налаштувань';
 $lang['Enom.tab_settings.field_request_epp'] = 'Запит EPP-коду/ключа передачі';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Додати обліковий запис En
 $lang['Enom.row_meta.sandbox_false'] = 'Ні.';
 $lang['Enom.row_meta.sandbox_true'] = 'Так.';
 $lang['Enom.row_meta.sandbox'] = 'Пісочниця';
-$lang['Enom.row_meta.key'] = 'Пароль';
+$lang['Enom.row_meta.key'] = 'Ключ або пароль API';
 $lang['Enom.row_meta.user'] = 'Користувач';
 $lang['Enom.manage.module_rows_no_results'] = 'Рахунків немає.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Ви впевнені, що хочете видалити цей обліковий запис?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Видалити';
 $lang['Enom.manage.module_rows.edit'] = 'Редагувати';
 $lang['Enom.manage.module_rows_heading.options'] = 'Параметри';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Пісочниця';
-$lang['Enom.manage.module_rows_heading.key'] = 'Ключ API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Ключ або пароль API';
 $lang['Enom.manage.module_rows_heading.user'] = 'Користувач';
 $lang['Enom.manage.module_rows_title'] = 'Рахунки';
 $lang['Enom.add_module_row'] = 'Додати обліковий запис';

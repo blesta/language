@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = '이메일 전달이 성공적
 $lang['AdminDomains.!success.dns_management'] = 'DNS 관리가 성공적으로 업데이트되었습니다!';
 $lang['AdminDomains.!success.delete_partial'] = '다음 TLD는 사용 중이므로 삭제할 수 없습니다: %1$s';
 $lang['AdminDomains.!success.delete'] = 'TLD가 성공적으로 삭제되었습니다!';
+$lang['AdminDomains.!success.change_registration_date'] = '도메인 등록 날짜가 업데이트되었습니다!';
+$lang['AdminDomains.!success.change_expiration_date'] = '도메인 만료일이 업데이트되었습니다!';
 

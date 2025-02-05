@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'Die Wiederverkäuferwährung g
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Wenn die Sandbox aktiviert ist, müssen Sie die Anmeldedaten für das Test-/Demokonto festlegen. Wenn Sie die Anmeldedaten Ihres Produktionskontos verwenden und die Sandbox aktiviert ist, werden weiterhin Live-Aktionen durchgeführt.';
 $lang['Logicboxes.domain.domain'] = 'Domänenname';
 $lang['Logicboxes.transfer.domain'] = 'Domänenname';
+$lang['Logicboxes.domain.order_id'] = 'Bestell-ID';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.!success.domains_pushed'] = 'Вибрані домени бул
 $lang['AdminMain.!success.update_nameservers'] = 'Оновлені сервери доменних імен!';
 $lang['AdminMain.!success.domain_renewal'] = 'Домен продовжено!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Оновлена функція автоматичного продовження домену!';
+$lang['AdminMain.edit.field_registration_date'] = 'Змінити дату реєстрації';
+$lang['AdminMain.edit.field_expiration_date'] = 'Змінити термін дії';
+$lang['AdminMain.!success.change_registration_date'] = 'Оновлено дату реєстрації домену!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Оновлена дата закінчення терміну дії домену!';
 

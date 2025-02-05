@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.!success.domains_pushed'] = 'تم دفع النطاقات ال�
 $lang['AdminMain.!success.update_nameservers'] = 'تم تحديث خوادم أسماء النطاقات!';
 $lang['AdminMain.!success.domain_renewal'] = 'تم تجديد النطاق!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'لقد تم تحديث التجديد التلقائي للنطاق!';
+$lang['AdminMain.edit.field_registration_date'] = 'تغيير تاريخ التسجيل';
+$lang['AdminMain.edit.field_expiration_date'] = 'تغيير تاريخ انتهاء الصلاحية';
+$lang['AdminMain.!success.change_registration_date'] = 'تم تحديث تاريخ تسجيل النطاق!';
+$lang['AdminMain.!success.change_expiration_date'] = 'تم تحديث تاريخ انتهاء صلاحية النطاق!';
 

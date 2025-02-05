@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.!success.ticket_created'] = '티켓 #%1$s을(를) 성공적�
 $lang['AdminTickets.index.minutes'] = '%1$s 분';
 $lang['AdminTickets.index.hours'] = '%1$s 시간';
 $lang['AdminTickets.reply.log_date'] = '%1$s by %2$s %3$s';
-$lang['AdminTickets.reply.text_contacts'] = '추가 연락처를 선택하지 않으면 이 티켓에 응답하는 모든 연락처에게 자동으로 알림이 전송됩니다.';
+$lang['AdminTickets.reply.text_contacts'] = '선택하지 않은 연락처가 티켓에 응답하면 자동으로 티켓에 추가됩니다.';
 $lang['AdminTickets.reply.text_add_recipient'] = '수신자 추가';
 $lang['AdminTickets.reply.heading_contacts'] = '연락처';
 $lang['AdminTickets.reply.heading_recipients'] = '수신자';
-$lang['AdminTickets.add.text_contacts'] = '추가 연락처를 선택하지 않으면 이 티켓에 응답하는 모든 연락처에게 자동으로 알림이 전송됩니다.';
+$lang['AdminTickets.add.text_contacts'] = '선택하지 않은 연락처가 티켓에 응답하면 자동으로 티켓에 추가됩니다.';
 $lang['AdminTickets.add.text_add_recipient'] = '수신자 추가';
 $lang['AdminTickets.add.heading_contacts'] = '연락처';
 $lang['AdminTickets.add.heading_recipients'] = '수신자';

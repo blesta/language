@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.!success.update_nameservers'] = 'Alan adı sunucuları güncell
 $lang['AdminMain.!success.domain_renewal'] = 'Alan Adı yenilendi!';
 $lang['AdminMain.!success.change_auto_renewal'] = 'Alan adı otomatik yenileme güncellendi!';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
+$lang['AdminMain.edit.field_registration_date'] = 'Kayıt Tarihini Değiştir';
+$lang['AdminMain.edit.field_expiration_date'] = 'Son Kullanma Tarihini Değiştir';
+$lang['AdminMain.!success.change_registration_date'] = 'Alan adı kayıt tarihi güncellendi!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
 

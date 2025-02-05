@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.getsearchoptions.services'] = 'Recherche de services';
 $lang['Navigation.getsearchoptions.packages'] = 'Recherche de paquets';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Liste noire';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Modèles HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'File d\'attente de service';
 

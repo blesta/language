@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'معرف عنصر التنقل ا�
 $lang['Navigation.!error.order.valid'] = 'يجب أن يكون فهرس الطلب قيمة رقمية';
 $lang['Navigation.!error.action_id.valid'] = 'معرف الإجراء غير صالح';
 $lang['Navigation.getcompany.nav_html_templates'] = 'قوالب HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'قائمة انتظار الخدمة';
 

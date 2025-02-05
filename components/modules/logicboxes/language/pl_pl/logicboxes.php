@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'Waluta resellera nie istnieje 
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Jeśli opcja Sandbox jest zaznaczona, należy zdefiniować poświadczenia konta testowego/demo. Korzystanie z poświadczeń konta produkcyjnego z zaznaczoną opcją Sandbox będzie nadal wykonywać działania na żywo.';
 $lang['Logicboxes.domain.domain'] = 'Nazwa domeny';
 $lang['Logicboxes.transfer.domain'] = 'Nazwa domeny';
+$lang['Logicboxes.domain.order_id'] = 'Identyfikator zamówienia';
 

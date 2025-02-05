@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = 'Zpět';
 $lang['Namesilo.tab_add_contact.title'] = 'Přidat kontakt';
 $lang['Namesilo.tab_edit_contact.title'] = 'Upravit kontakt';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'Nastavení výchozího kontaktu registrátora';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Stažení kontaktů ze služby Namesilo';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Stažení kontaktů z registru';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'Odstranit';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'Upravit';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'Přidat kontakt';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = '년';
 $lang['Enom.domain.domain'] = '도메인 이름';
 $lang['Enom.transfer.transfer_key'] = 'EPP 코드';
 $lang['Enom.transfer.domain'] = '도메인 이름';
-$lang['Enom.!error.key.valid_connection'] = '사용자 및 비밀번호 조합이 유효하지 않거나 Enom 계정이 API 액세스를 허용하도록 구성되지 않았을 수 있습니다.';
-$lang['Enom.!error.key.valid'] = '비밀번호를 입력하세요.';
+$lang['Enom.!error.key.valid_connection'] = '사용자 및 비밀번호(또는 API 키) 조합이 잘못되었거나 Enom 계정이 API 액세스를 허용하도록 구성되어 있지 않을 수 있습니다.';
+$lang['Enom.!error.key.valid'] = '비밀번호 또는 API 키를 입력하세요.';
 $lang['Enom.!error.user.valid'] = '사용자를 입력하세요.';
 $lang['Enom.tab_settings.field_submit'] = '설정 업데이트';
 $lang['Enom.tab_settings.field_request_epp'] = 'EPP 코드/전송 키 요청';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Enom 계정 추가';
 $lang['Enom.row_meta.sandbox_false'] = '아니요';
 $lang['Enom.row_meta.sandbox_true'] = '예';
 $lang['Enom.row_meta.sandbox'] = '샌드박스';
-$lang['Enom.row_meta.key'] = '비밀번호';
+$lang['Enom.row_meta.key'] = 'API 키 또는 비밀번호';
 $lang['Enom.row_meta.user'] = '사용자';
 $lang['Enom.manage.module_rows_no_results'] = '계정이 없습니다.';
 $lang['Enom.manage.module_rows.confirm_delete'] = '이 계정을 삭제하시겠습니까?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = '삭제';
 $lang['Enom.manage.module_rows.edit'] = '편집';
 $lang['Enom.manage.module_rows_heading.options'] = '옵션';
 $lang['Enom.manage.module_rows_heading.sandbox'] = '샌드박스';
-$lang['Enom.manage.module_rows_heading.key'] = 'API 키';
+$lang['Enom.manage.module_rows_heading.key'] = 'API 키 또는 비밀번호';
 $lang['Enom.manage.module_rows_heading.user'] = '사용자';
 $lang['Enom.manage.module_rows_title'] = '계정';
 $lang['Enom.add_module_row'] = '계정 추가';

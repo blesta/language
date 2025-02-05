@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = 'La mise à jour de l\'Email F
 $lang['AdminDomains.!success.dns_management'] = 'La mise à jour de la gestion DNS a été effectuée avec succès !';
 $lang['AdminDomains.!success.delete_partial'] = 'Les TLD suivants n\'ont pas pu être supprimés car ils étaient en cours d\'utilisation : %1$s';
 $lang['AdminDomains.!success.delete'] = 'Les TLD ont été supprimés avec succès !';
+$lang['AdminDomains.!success.change_registration_date'] = 'La date d\'enregistrement du domaine a été mise à jour !';
+$lang['AdminDomains.!success.change_expiration_date'] = 'La date d\'expiration du domaine a été mise à jour !';
 

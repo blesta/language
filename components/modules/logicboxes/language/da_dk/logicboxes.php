@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.domain.ASIAIdentForm.passport'] = 'Pas/ Statsborgerskab ID';
 $lang['Logicboxes.domain.ASIAIdentNumber'] = 'Identitetsnummer';
 $lang['Logicboxes.domain.domain'] = 'Domænenavn';
 $lang['Logicboxes.transfer.domain'] = 'Domænenavn';
+$lang['Logicboxes.domain.order_id'] = 'Ordre-ID';
 

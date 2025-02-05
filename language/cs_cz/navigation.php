@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.order.valid'] = 'Index objednávky musí být číseln�
 $lang['Navigation.!error.action_id.valid'] = 'Nesprávné ID akce';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Černá listina';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Šablony HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Fronta služeb';
 

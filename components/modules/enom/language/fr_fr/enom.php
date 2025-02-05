@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['Enom.module_row_plural'] = 'Comptes';
 $lang['Enom.add_module_row'] = 'Ajouter un compte';
 $lang['Enom.manage.module_rows_title'] = 'Comptes';
 $lang['Enom.manage.module_rows_heading.user'] = 'Utilisateur';
-$lang['Enom.manage.module_rows_heading.key'] = 'Clé API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Clé API ou mot de passe';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Bac à sable';
 $lang['Enom.manage.module_rows_heading.options'] = 'Options';
 $lang['Enom.manage.module_rows.edit'] = 'Editer';
@@ -24,7 +24,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Supprimer';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Êtes-vous sûr de vouloir supprimer ce compte ?';
 $lang['Enom.manage.module_rows_no_results'] = 'Il n\'y a pas de comptes.';
 $lang['Enom.row_meta.user'] = 'Utilisateur';
-$lang['Enom.row_meta.key'] = 'Mot de passe';
+$lang['Enom.row_meta.key'] = 'Clé API ou mot de passe';
 $lang['Enom.row_meta.sandbox'] = 'Bac à sable';
 $lang['Enom.row_meta.sandbox_true'] = 'Oui';
 $lang['Enom.row_meta.sandbox_false'] = 'Non';
@@ -59,8 +59,8 @@ $lang['Enom.tab_settings.field_registrar_lock_no'] = 'Déverrouiller le registra
 $lang['Enom.tab_settings.field_request_epp'] = 'Demande de code EPP/clé de transfert';
 $lang['Enom.tab_settings.field_submit'] = 'Mise à jour des paramètres';
 $lang['Enom.!error.user.valid'] = 'Veuillez saisir un utilisateur.';
-$lang['Enom.!error.key.valid'] = 'Veuillez saisir un mot de passe.';
-$lang['Enom.!error.key.valid_connection'] = 'La combinaison de l\'utilisateur et du mot de passe semble être invalide, ou votre compte Enom n\'est peut-être pas configuré pour autoriser l\'accès à l\'API.';
+$lang['Enom.!error.key.valid'] = 'Veuillez saisir un mot de passe ou une clé api.';
+$lang['Enom.!error.key.valid_connection'] = 'La combinaison de l\'utilisateur et du mot de passe (ou de la clé API) semble être invalide, ou votre compte Enom n\'est peut-être pas configuré pour autoriser l\'accès à l\'API.';
 $lang['Enom.transfer.domain'] = 'Nom de domaine';
 $lang['Enom.transfer.transfer_key'] = 'Code EPP';
 $lang['Enom.domain.domain'] = 'Nom de domaine';

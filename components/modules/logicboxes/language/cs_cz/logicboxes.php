@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'Prodejní měna v této spole�
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Pokud je zaškrtnuto políčko Sandbox, je třeba definovat pověření testovacího/demo účtu. Při použití pověření k produkčnímu účtu se zaškrtnutou volbou Sandbox budou stále prováděny akce v reálném provozu.';
 $lang['Logicboxes.domain.domain'] = 'Název domény';
 $lang['Logicboxes.transfer.domain'] = 'Název domény';
+$lang['Logicboxes.domain.order_id'] = 'ID objednávky';
 

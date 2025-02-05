@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.update_nameservers'] = '更新域名�
 $lang['DomainsController.getDomainActions.push_to_client'] = '推送到客户端';
 $lang['DomainsController.getDomainActions.unparent'] = '非亲和重置价格';
 $lang['DomainsController.!error.move_error'] = '所选域无法移动到所选客户端。';
+$lang['DomainsController.getDomainActions.change_registration_date'] = '更改注册日期';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = '更改有效期';
 

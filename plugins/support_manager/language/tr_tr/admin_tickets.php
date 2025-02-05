@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.!success.ticket_split'] = 'Bilet #%1$s, bilet #%2$s\'ye baş
 $lang['AdminTickets.!success.ticket_updated'] = 'Bilet #%1$s başarıyla güncellendi.';
 $lang['AdminTickets.!success.ticket_created'] = 'Bilet #%1$s başarıyla açıldı.';
 $lang['AdminTickets.reply.reply_date'] = '%1$s adresinde %2$s %3$s yanıtladı';
-$lang['AdminTickets.reply.text_contacts'] = 'Herhangi bir ek kişi seçmezseniz, bu bilete yanıt veren tüm kişiler otomatik olarak bilgilendirilecektir.';
+$lang['AdminTickets.reply.text_contacts'] = 'Seçilmeyen kişiler, yanıt vermeleri halinde otomatik olarak bilete eklenecektir.';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Alıcı Ekle';
 $lang['AdminTickets.reply.heading_contacts'] = 'İletişim';
 $lang['AdminTickets.reply.heading_recipients'] = 'Alıcılar';
-$lang['AdminTickets.add.text_contacts'] = 'Herhangi bir ek kişi seçmezseniz, bu bilete yanıt veren tüm kişiler otomatik olarak bilgilendirilecektir.';
+$lang['AdminTickets.add.text_contacts'] = 'Seçilmeyen kişiler, yanıt vermeleri halinde otomatik olarak bilete eklenecektir.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Alıcı Ekle';
 $lang['AdminTickets.add.heading_contacts'] = 'İletişim';
 $lang['AdminTickets.add.heading_recipients'] = 'Alıcılar';

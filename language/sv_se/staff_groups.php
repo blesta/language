@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,5 @@ $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Redige
 $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Lägg till HTML-mall';
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-mallar';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avancerad redigeringstjänst';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service kö';
 

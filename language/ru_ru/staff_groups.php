@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,5 @@ $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Ред
 $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Добавить HTML-шаблон';
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Шаблоны HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Служба расширенного редактирования';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Очередь обслуживания';
 

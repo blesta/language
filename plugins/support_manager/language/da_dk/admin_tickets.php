@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.search.heading_department_name'] = 'Afdeling';
 $lang['AdminTickets.search.heading_summary'] = 'Resumé';
 $lang['AdminTickets.search.heading_last_reply_date'] = 'Sidste svar';
 $lang['AdminTickets.search.no_results'] = 'Der er ingen billetter, der matcher søgekriterierne.';
-$lang['AdminTickets.reply.text_contacts'] = 'Hvis du ikke vælger yderligere kontakter, vil alle kontakter, der svarer på denne billet, automatisk få besked.';
+$lang['AdminTickets.reply.text_contacts'] = 'Kontakter, der ikke er valgt, tilføjes automatisk til billetten, hvis de svarer på den.';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Tilføj modtager';
 $lang['AdminTickets.reply.heading_contacts'] = 'Kontaktpersoner';
 $lang['AdminTickets.reply.heading_recipients'] = 'Modtagere';
-$lang['AdminTickets.add.text_contacts'] = 'Hvis du ikke vælger yderligere kontakter, vil alle kontakter, der svarer på denne billet, automatisk få besked.';
+$lang['AdminTickets.add.text_contacts'] = 'Kontakter, der ikke er valgt, tilføjes automatisk til billetten, hvis de svarer på den.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Tilføj modtager';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontaktpersoner';
 $lang['AdminTickets.add.heading_recipients'] = 'Modtagere';

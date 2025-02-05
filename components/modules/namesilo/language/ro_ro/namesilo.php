@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = 'Înapoi';
 $lang['Namesilo.tab_add_contact.title'] = 'Adaugă contact';
 $lang['Namesilo.tab_edit_contact.title'] = 'Editare contact';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'Setați contactul registrant implicit';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Extragerea contactelor din Namesilo';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Extragerea contactelor din registru';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'Ștergeți';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'Editare';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'Adaugă contact';

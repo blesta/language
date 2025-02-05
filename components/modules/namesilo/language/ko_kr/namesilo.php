@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = '뒤로';
 $lang['Namesilo.tab_add_contact.title'] = '연락처 추가';
 $lang['Namesilo.tab_edit_contact.title'] = '연락처 수정';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = '기본 등록자 연락처 설정';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = '네임실로에서 연락처 가져오기';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = '레지스트리에서 연락처 가져오기';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = '삭제';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = '편집';
 $lang['Namesilo.tab_manage_contacts.option_add'] = '연락처 추가';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Lata';
 $lang['Enom.domain.domain'] = 'Nazwa domeny';
 $lang['Enom.transfer.transfer_key'] = 'Kod PPE';
 $lang['Enom.transfer.domain'] = 'Nazwa domeny';
-$lang['Enom.!error.key.valid_connection'] = 'Kombinacja użytkownika i hasła wydaje się być nieprawidłowa lub konto Enom może nie być skonfigurowane do zezwalania na dostęp API.';
-$lang['Enom.!error.key.valid'] = 'Wprowadź hasło.';
+$lang['Enom.!error.key.valid_connection'] = 'Kombinacja użytkownika i hasła (lub klucza API) wydaje się być nieprawidłowa lub konto Enom może nie być skonfigurowane tak, aby umożliwić dostęp do interfejsu API.';
+$lang['Enom.!error.key.valid'] = 'Wprowadź hasło lub klucz API.';
 $lang['Enom.!error.user.valid'] = 'Wprowadź użytkownika.';
 $lang['Enom.tab_settings.field_submit'] = 'Ustawienia aktualizacji';
 $lang['Enom.tab_settings.field_request_epp'] = 'Żądanie kodu EPP/klucza transferu';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Dodaj konto Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'Nie';
 $lang['Enom.row_meta.sandbox_true'] = 'Tak';
 $lang['Enom.row_meta.sandbox'] = 'Piaskownica';
-$lang['Enom.row_meta.key'] = 'Hasło';
+$lang['Enom.row_meta.key'] = 'Klucz API lub hasło';
 $lang['Enom.row_meta.user'] = 'Użytkownik';
 $lang['Enom.manage.module_rows_no_results'] = 'Nie ma żadnych kont.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Czy na pewno chcesz usunąć to konto?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Usuń';
 $lang['Enom.manage.module_rows.edit'] = 'Edytuj';
 $lang['Enom.manage.module_rows_heading.options'] = 'Opcje';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Piaskownica';
-$lang['Enom.manage.module_rows_heading.key'] = 'Klucz API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Klucz API lub hasło';
 $lang['Enom.manage.module_rows_heading.user'] = 'Użytkownik';
 $lang['Enom.manage.module_rows_title'] = 'Konta';
 $lang['Enom.add_module_row'] = 'Dodaj konto';

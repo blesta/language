@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Forny domæne';
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Skift registrator';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Skift automatisk fornyelse';
 $lang['DomainsController.!error.move_error'] = 'De valgte domæner kunne ikke flyttes til den valgte klient.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Ændre registreringsdato';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Ændre udløbsdato';
 

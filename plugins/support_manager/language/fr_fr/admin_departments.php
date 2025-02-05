@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Supprimer';
 $lang['AdminDepartments.edit.text_add'] = 'Ajouter';
 $lang['AdminDepartments.edit.field_priorities'] = 'Priorités disponibles';
 $lang['AdminDepartments.add.field_priorities'] = 'Priorités disponibles';
+$lang['AdminDepartments.edit.field_force_import'] = 'Importation de force';
+$lang['AdminDepartments.add.field_force_import'] = 'Importation de force';
+$lang['AdminDepartments.!success.department_imported'] = 'Le département %1$s a été importé avec succès.';
 

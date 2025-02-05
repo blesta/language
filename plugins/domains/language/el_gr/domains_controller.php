@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Ανανέωση �
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Αλλαγή καταχωρητή';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Αλλαγή αυτόματης ανανέωσης';
 $lang['DomainsController.!error.move_error'] = 'Οι επιλεγμένοι τομείς δεν μπόρεσαν να μετακινηθούν στον επιλεγμένο πελάτη.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Αλλαγή ημερομηνίας εγγραφής';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Αλλαγή Ημερομηνία λήξης';
 

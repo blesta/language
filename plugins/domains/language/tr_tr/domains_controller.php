@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.change_registrar'] = 'Kayıt Memurunu 
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Otomatik Yenilemeyi Değiştirin';
 $lang['DomainsController.example'] = 'Örnek dil';
 $lang['DomainsController.!error.move_error'] = 'Seçilen etki alanları seçilen istemciye taşınamadı.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Kayıt Tarihini Değiştir';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Son Kullanma Tarihini Değiştir';
 

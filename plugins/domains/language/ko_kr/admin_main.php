@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.edit.term_month'] = '%1$s 월';
 $lang['AdminMain.edit.term_months'] = '%1$s 개월';
 $lang['AdminMain.edit.term_year'] = '%1$s 연도';
 $lang['AdminMain.edit.term_years'] = '%1$s 년';
+$lang['AdminMain.edit.field_registration_date'] = '등록 날짜 변경';
+$lang['AdminMain.edit.field_expiration_date'] = '만료일 변경';
+$lang['AdminMain.!success.change_registration_date'] = '도메인 등록 날짜가 업데이트되었습니다!';
+$lang['AdminMain.!success.change_expiration_date'] = '도메인 만료일이 업데이트되었습니다!';
 

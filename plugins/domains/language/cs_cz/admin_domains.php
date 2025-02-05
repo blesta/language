@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = 'Přeposílání e-mailů bylo
 $lang['AdminDomains.!success.dns_management'] = 'Správa DNS byla úspěšně aktualizována!';
 $lang['AdminDomains.!success.delete_partial'] = 'Následující domény nejvyšší úrovně nebylo možné odstranit, protože se používaly: %1$s';
 $lang['AdminDomains.!success.delete'] = 'TLD byly úspěšně odstraněny!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Datum registrace domény bylo aktualizováno!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Datum vypršení platnosti domény bylo aktualizováno!';
 

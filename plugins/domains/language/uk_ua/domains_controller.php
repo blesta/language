@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.change_registrar'] = 'Реєстрат
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Змінити автоматичне поновлення';
 $lang['DomainsController.example'] = 'Приклад мови';
 $lang['DomainsController.!error.move_error'] = 'Вибрані домени не можуть бути переміщені до вибраного клієнта.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Змінити дату реєстрації';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Змінити термін дії';
 

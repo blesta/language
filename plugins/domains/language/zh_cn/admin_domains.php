@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = '电子邮件转发已成功�
 $lang['AdminDomains.!success.dns_management'] = 'DNS 管理已成功更新！';
 $lang['AdminDomains.!success.delete_partial'] = '下列 TLD 因正在使用而无法删除：%1$s';
 $lang['AdminDomains.!success.delete'] = 'TLD 已成功删除！';
+$lang['AdminDomains.!success.change_registration_date'] = '域名注册日期已更新！';
+$lang['AdminDomains.!success.change_expiration_date'] = '域名到期日期已更新！';
 

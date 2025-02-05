@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.change_registrar'] = 'أمين سجل 
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'تغيير التجديد التلقائي';
 $lang['DomainsController.example'] = 'مثال على اللغة';
 $lang['DomainsController.!error.move_error'] = 'تعذر نقل النطاقات المحددة إلى العميل المحدد.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'تغيير تاريخ التسجيل';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'تغيير تاريخ انتهاء الصلاحية';
 

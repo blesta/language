@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = 'Πίσω';
 $lang['Namesilo.tab_add_contact.title'] = 'Προσθήκη επαφής';
 $lang['Namesilo.tab_edit_contact.title'] = 'Επεξεργασία επαφής';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'Ορισμός προεπιλεγμένης επαφής καταχωρητή';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Τραβήξτε επαφές από το Namesilo';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Τραβήξτε επαφές από το μητρώο';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'Διαγραφή';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'Επεξεργασία';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'Προσθήκη επαφής';

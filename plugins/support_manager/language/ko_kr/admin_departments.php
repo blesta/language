@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.add.page_title'] = '지원 관리자 > 부서 > 부서 �
 $lang['AdminDepartments.index.page_title'] = '지원 관리자 > 부서';
 $lang['AdminDepartments.edit.field_priorities'] = '사용 가능한 우선순위';
 $lang['AdminDepartments.add.field_priorities'] = '사용 가능한 우선순위';
+$lang['AdminDepartments.edit.field_force_import'] = '강제 가져오기';
+$lang['AdminDepartments.add.field_force_import'] = '강제 가져오기';
+$lang['AdminDepartments.!success.department_imported'] = '%1$s 부서를 성공적으로 가져왔습니다.';
 

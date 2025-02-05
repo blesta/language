@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,12 +123,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Выбранные билеты �
 $lang['AdminTickets.!success.ticket_split'] = 'Билет #%1$s был успешно разделен на билет #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Билет #%1$s был успешно обновлен.';
 $lang['AdminTickets.!success.ticket_created'] = 'Билет #%1$s был успешно открыт.';
-$lang['AdminTickets.reply.text_contacts'] = 'Если вы не выберете никаких дополнительных контактов, все контакты, которые ответят на этот билет, будут уведомлены автоматически.';
+$lang['AdminTickets.reply.text_contacts'] = 'Контакты, не выбранные в списке, будут автоматически добавлены в билет, если они ответят на него.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Добавить получателя';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Добавить получателя';
 $lang['AdminTickets.reply.heading_contacts'] = 'Контакты';
 $lang['AdminTickets.reply.heading_recipients'] = 'Получатели';
-$lang['AdminTickets.add.text_contacts'] = 'Если вы не выберете никаких дополнительных контактов, все контакты, которые ответят на этот билет, будут уведомлены автоматически.';
+$lang['AdminTickets.add.text_contacts'] = 'Контакты, не выбранные в списке, будут автоматически добавлены в билет, если они ответят на него.';
 $lang['AdminTickets.add.heading_contacts'] = 'Контакты';
 $lang['AdminTickets.add.heading_recipients'] = 'Получатели';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,8 +129,8 @@ $lang['Enom.domain.NumYears'] = 'Tahun';
 $lang['Enom.domain.domain'] = 'Nama Domain';
 $lang['Enom.transfer.transfer_key'] = 'Kode EPP';
 $lang['Enom.transfer.domain'] = 'Nama Domain';
-$lang['Enom.!error.key.valid_connection'] = 'Kombinasi pengguna dan kata sandi tampaknya tidak valid, atau akun Enom Anda mungkin tidak dikonfigurasi untuk mengizinkan akses API.';
-$lang['Enom.!error.key.valid'] = 'Masukkan kata sandi.';
+$lang['Enom.!error.key.valid_connection'] = 'Kombinasi pengguna dan kata sandi (atau kunci api) tampaknya tidak valid, atau akun Enom Anda mungkin tidak dikonfigurasikan untuk mengizinkan akses API.';
+$lang['Enom.!error.key.valid'] = 'Masukkan kata sandi atau kunci api.';
 $lang['Enom.!error.user.valid'] = 'Silakan masukkan pengguna.';
 $lang['Enom.tab_settings.field_submit'] = 'Memperbarui Pengaturan';
 $lang['Enom.tab_settings.field_request_epp'] = 'Minta Kode EPP/Kunci Transfer';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Tambahkan Akun Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'Tidak.';
 $lang['Enom.row_meta.sandbox_true'] = 'Ya.';
 $lang['Enom.row_meta.sandbox'] = 'Kotak pasir';
-$lang['Enom.row_meta.key'] = 'Kata sandi';
+$lang['Enom.row_meta.key'] = 'Kunci atau Kata Sandi API';
 $lang['Enom.row_meta.user'] = 'Pengguna';
 $lang['Enom.manage.module_rows_no_results'] = 'Tidak ada akun.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Apakah Anda yakin ingin menghapus akun ini?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Menghapus';
 $lang['Enom.manage.module_rows.edit'] = 'Sunting';
 $lang['Enom.manage.module_rows_heading.options'] = 'Pilihan';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Kotak pasir';
-$lang['Enom.manage.module_rows_heading.key'] = 'Kunci API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Kunci atau Kata Sandi API';
 $lang['Enom.manage.module_rows_heading.user'] = 'Pengguna';
 $lang['Enom.manage.module_rows_title'] = 'Akun';
 $lang['Enom.add_module_row'] = 'Tambah Akun';

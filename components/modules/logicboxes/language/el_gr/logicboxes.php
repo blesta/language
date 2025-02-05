@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'Το νόμισμα μεταπ
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Εάν είναι επιλεγμένο το Sandbox, πρέπει να ορίσετε τα διαπιστευτήρια του λογαριασμού δοκιμής/επαναφοράς. Η χρήση των διαπιστευτηρίων του λογαριασμού παραγωγής με επιλεγμένο το Sandbox θα εξακολουθεί να εκτελεί ζωντανές ενέργειες.';
 $lang['Logicboxes.domain.domain'] = 'Όνομα τομέα';
 $lang['Logicboxes.transfer.domain'] = 'Όνομα τομέα';
+$lang['Logicboxes.domain.order_id'] = 'Αναγνωριστικό παραγγελίας';
 

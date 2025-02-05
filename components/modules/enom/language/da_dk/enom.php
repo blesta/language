@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -15,7 +15,7 @@ $lang['Enom.module_row_plural'] = 'Regnskaber';
 $lang['Enom.add_module_row'] = 'Tilføj konto';
 $lang['Enom.manage.module_rows_title'] = 'Regnskaber';
 $lang['Enom.manage.module_rows_heading.user'] = 'Bruger';
-$lang['Enom.manage.module_rows_heading.key'] = 'API-nøgle';
+$lang['Enom.manage.module_rows_heading.key'] = 'API-nøgle eller adgangskode';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandkasse';
 $lang['Enom.manage.module_rows_heading.options'] = 'Valgmuligheder';
 $lang['Enom.manage.module_rows.edit'] = 'Rediger';
@@ -23,7 +23,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Slet';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Er du sikker på, at du vil slette denne konto?';
 $lang['Enom.manage.module_rows_no_results'] = 'Der er ingen konti.';
 $lang['Enom.row_meta.user'] = 'Bruger';
-$lang['Enom.row_meta.key'] = 'Adgangskode';
+$lang['Enom.row_meta.key'] = 'API-nøgle eller adgangskode';
 $lang['Enom.row_meta.sandbox'] = 'Sandkasse';
 $lang['Enom.row_meta.sandbox_true'] = 'Ja';
 $lang['Enom.row_meta.sandbox_false'] = 'Nej, det er det ikke';
@@ -59,8 +59,8 @@ $lang['Enom.tab_settings.field_registrar_lock_no'] = 'Frigør registratorlåsen,
 $lang['Enom.tab_settings.field_request_epp'] = 'Anmod om EPP-kode/overførselsnøgle';
 $lang['Enom.tab_settings.field_submit'] = 'Opdater indstillinger';
 $lang['Enom.!error.user.valid'] = 'Indtast venligst en bruger.';
-$lang['Enom.!error.key.valid'] = 'Indtast venligst en adgangskode.';
-$lang['Enom.!error.key.valid_connection'] = 'Kombinationen af bruger og adgangskode ser ud til at være ugyldig, eller din Enom-konto er muligvis ikke konfigureret til at tillade API-adgang.';
+$lang['Enom.!error.key.valid'] = 'Indtast venligst en adgangskode eller api-nøgle.';
+$lang['Enom.!error.key.valid_connection'] = 'Kombinationen af bruger og adgangskode (eller api-nøgle) ser ud til at være ugyldig, eller din Enom-konto er muligvis ikke konfigureret til at tillade API-adgang.';
 $lang['Enom.transfer.domain'] = 'Domænenavn';
 $lang['Enom.transfer.transfer_key'] = 'EPP-kode';
 $lang['Enom.domain.domain'] = 'Domænenavn';

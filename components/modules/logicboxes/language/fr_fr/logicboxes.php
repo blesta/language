@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.domain.ASIAIdentForm.passport'] = 'Passeport/ carte d\'identit
 $lang['Logicboxes.domain.ASIAIdentNumber'] = 'Numéro d\'identité';
 $lang['Logicboxes.domain.domain'] = 'Nom de domaine';
 $lang['Logicboxes.transfer.domain'] = 'Nom de domaine';
+$lang['Logicboxes.domain.order_id'] = 'Numéro d\'ordre';
 

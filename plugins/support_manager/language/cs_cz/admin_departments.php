@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = 'Oddělení %1$s bylo ú
 $lang['AdminDepartments.!success.department_created'] = 'Oddělení %1$s bylo úspěšně vytvořeno.';
 $lang['AdminDepartments.edit.field_priorities'] = 'Dostupné priority';
 $lang['AdminDepartments.add.field_priorities'] = 'Dostupné priority';
+$lang['AdminDepartments.edit.field_force_import'] = 'Import síly';
+$lang['AdminDepartments.add.field_force_import'] = 'Import síly';
+$lang['AdminDepartments.!success.department_imported'] = 'Oddělení %1$s bylo úspěšně importováno.';
 

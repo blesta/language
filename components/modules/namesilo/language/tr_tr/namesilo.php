@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = 'Geri';
 $lang['Namesilo.tab_add_contact.title'] = 'İletişim Ekle';
 $lang['Namesilo.tab_edit_contact.title'] = 'İletişim Düzenle';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'Varsayılan Tescil Ettiren Kişisini Ayarla';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Kişileri Namesilo\'dan Çekin';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Kayıt Defterinden Kişileri Çekme';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'Silme';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'Düzenle';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'İletişim Ekle';

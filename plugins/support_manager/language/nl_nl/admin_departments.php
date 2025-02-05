@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = 'De %1$s afdeling is suc
 $lang['AdminDepartments.!success.department_created'] = 'De %1$s afdeling is succesvol aangemaakt.';
 $lang['AdminDepartments.edit.field_priorities'] = 'Beschikbare prioriteiten';
 $lang['AdminDepartments.add.field_priorities'] = 'Beschikbare prioriteiten';
+$lang['AdminDepartments.edit.field_force_import'] = 'Kracht import';
+$lang['AdminDepartments.add.field_force_import'] = 'Kracht import';
+$lang['AdminDepartments.!success.department_imported'] = 'De %1$s afdeling is succesvol geïmporteerd.';
 

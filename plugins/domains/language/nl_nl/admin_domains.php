@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = 'E-mail doorsturen is succesvo
 $lang['AdminDomains.!success.dns_management'] = 'DNS-beheer is succesvol bijgewerkt!';
 $lang['AdminDomains.!success.delete_partial'] = 'De volgende TLD\'s konden niet worden verwijderd omdat ze in gebruik waren: %1$s';
 $lang['AdminDomains.!success.delete'] = 'De TLD zijn succesvol verwijderd!';
+$lang['AdminDomains.!success.change_registration_date'] = 'De registratiedatum van het domein is bijgewerkt!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'De vervaldatum van het domein is bijgewerkt!';
 

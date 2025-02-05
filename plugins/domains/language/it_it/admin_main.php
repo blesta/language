@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.index.text_date_added'] = 'Data di inserimento:';
 $lang['AdminMain.index.heading_dateregistration'] = 'Data di registrazione';
 $lang['AdminMain.index.heading_registrar'] = 'Registrar';
 $lang['AdminMain.!success.domain_registrar_updated'] = 'Il registrar del dominio è stato aggiornato!';
+$lang['AdminMain.edit.field_registration_date'] = 'Modifica della data di registrazione';
+$lang['AdminMain.edit.field_expiration_date'] = 'Modifica della data di scadenza';
+$lang['AdminMain.!success.change_registration_date'] = 'La data di registrazione del dominio è stata aggiornata!';
+$lang['AdminMain.!success.change_expiration_date'] = 'La data di scadenza del dominio è stata aggiornata!';
 

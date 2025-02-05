@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'ID item navigasi induk tidak valid
 $lang['Navigation.!error.order.valid'] = 'Indeks pesanan harus berupa nilai numerik';
 $lang['Navigation.!error.action_id.valid'] = 'ID tindakan tidak valid';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Templat HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Antrian Layanan';
 

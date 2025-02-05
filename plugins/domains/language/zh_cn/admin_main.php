@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.index.heading_registrar'] = '登记员';
 $lang['AdminMain.index.heading_dateregistration'] = '注册日期';
 $lang['AdminMain.index.text_date_added'] = '添加日期';
 $lang['AdminMain.edit.text_registration_date'] = '注册日期：';
+$lang['AdminMain.edit.field_registration_date'] = '更改注册日期';
+$lang['AdminMain.edit.field_expiration_date'] = '更改有效期';
+$lang['AdminMain.!success.change_registration_date'] = '域名注册日期已更新！';
+$lang['AdminMain.!success.change_expiration_date'] = '域名到期日期已更新！';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Διαγραφή';
 $lang['AdminDepartments.edit.text_add'] = 'Προσθέστε';
 $lang['AdminDepartments.edit.field_priorities'] = 'Διαθέσιμες προτεραιότητες';
 $lang['AdminDepartments.add.field_priorities'] = 'Διαθέσιμες προτεραιότητες';
+$lang['AdminDepartments.edit.field_force_import'] = 'Δύναμη εισαγωγής';
+$lang['AdminDepartments.add.field_force_import'] = 'Δύναμη εισαγωγής';
+$lang['AdminDepartments.!success.department_imported'] = 'Το τμήμα %1$s εισήχθη επιτυχώς.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Yıllar';
 $lang['Enom.domain.domain'] = 'Alan Adı';
 $lang['Enom.transfer.transfer_key'] = 'EPP Kodu';
 $lang['Enom.transfer.domain'] = 'Alan Adı';
-$lang['Enom.!error.key.valid_connection'] = 'Kullanıcı ve parola kombinasyonu geçersiz görünüyor veya Enom hesabınız API erişimine izin verecek şekilde yapılandırılmamış olabilir.';
-$lang['Enom.!error.key.valid'] = 'Lütfen bir şifre girin.';
+$lang['Enom.!error.key.valid_connection'] = 'Kullanıcı ve şifre (veya api anahtarı) kombinasyonu geçersiz görünüyor veya Enom hesabınız API erişimine izin verecek şekilde yapılandırılmamış olabilir.';
+$lang['Enom.!error.key.valid'] = 'Lütfen bir şifre veya api anahtarı girin.';
 $lang['Enom.!error.user.valid'] = 'Lütfen bir kullanıcı girin.';
 $lang['Enom.tab_settings.field_submit'] = 'Ayarları Güncelle';
 $lang['Enom.tab_settings.field_request_epp'] = 'EPP Kodu/Transfer Anahtarı Talep Edin';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Enom Hesabı Ekle';
 $lang['Enom.row_meta.sandbox_false'] = 'Hayır';
 $lang['Enom.row_meta.sandbox_true'] = 'Evet';
 $lang['Enom.row_meta.sandbox'] = 'Sandbox';
-$lang['Enom.row_meta.key'] = 'Şifre';
+$lang['Enom.row_meta.key'] = 'API Anahtarı veya Şifresi';
 $lang['Enom.row_meta.user'] = 'Kullanıcı';
 $lang['Enom.manage.module_rows_no_results'] = 'Hiç hesap yok.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Bu hesabı silmek istediğinizden emin misiniz?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Silme';
 $lang['Enom.manage.module_rows.edit'] = 'Düzenle';
 $lang['Enom.manage.module_rows_heading.options'] = 'Seçenekler';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandbox';
-$lang['Enom.manage.module_rows_heading.key'] = 'API Anahtarı';
+$lang['Enom.manage.module_rows_heading.key'] = 'API Anahtarı veya Şifresi';
 $lang['Enom.manage.module_rows_heading.user'] = 'Kullanıcı';
 $lang['Enom.manage.module_rows_title'] = 'Hesaplar';
 $lang['Enom.add_module_row'] = 'Hesap Ekle';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,8 +129,8 @@ $lang['Enom.domain.NumYears'] = 'السنوات';
 $lang['Enom.domain.domain'] = 'اسم النطاق';
 $lang['Enom.transfer.transfer_key'] = 'كود EPP';
 $lang['Enom.transfer.domain'] = 'اسم النطاق';
-$lang['Enom.!error.key.valid_connection'] = 'يبدو أن تركيبة المستخدم وكلمة المرور غير صالحة، أو قد لا يكون حساب Enom الخاص بك مهيأ للسماح بالوصول إلى واجهة برمجة التطبيقات.';
-$lang['Enom.!error.key.valid'] = 'الرجاء إدخال كلمة مرور.';
+$lang['Enom.!error.key.valid_connection'] = 'يبدو أن تركيبة المستخدم وكلمة المرور (أو مفتاح API) غير صالحة، أو قد لا يكون حساب Enom الخاص بك مهيأ للسماح بالوصول إلى واجهة برمجة التطبيقات.';
+$lang['Enom.!error.key.valid'] = 'الرجاء إدخال كلمة مرور أو مفتاح API.';
 $lang['Enom.!error.user.valid'] = 'الرجاء إدخال مستخدم.';
 $lang['Enom.nameserver.ns5'] = 'Name Server 5';
 $lang['Enom.nameserver.ns4'] = 'Name Server 4';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'إضافة حساب Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'لا يوجد';
 $lang['Enom.row_meta.sandbox_true'] = 'نعم';
 $lang['Enom.row_meta.sandbox'] = 'صندوق الرمل';
-$lang['Enom.row_meta.key'] = 'كلمة المرور';
+$lang['Enom.row_meta.key'] = 'مفتاح API أو كلمة مرور API';
 $lang['Enom.row_meta.user'] = 'المستخدم';
 $lang['Enom.manage.module_rows_no_results'] = 'لا توجد حسابات.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف هذا الحساب؟';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'حذف';
 $lang['Enom.manage.module_rows.edit'] = 'تحرير';
 $lang['Enom.manage.module_rows_heading.options'] = 'الخيارات';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'صندوق الرمل';
-$lang['Enom.manage.module_rows_heading.key'] = 'مفتاح واجهة برمجة التطبيقات';
+$lang['Enom.manage.module_rows_heading.key'] = 'مفتاح API أو كلمة مرور API';
 $lang['Enom.manage.module_rows_heading.user'] = 'المستخدم';
 $lang['Enom.manage.module_rows_title'] = 'الحسابات';
 $lang['Enom.add_module_row'] = 'إضافة حساب';

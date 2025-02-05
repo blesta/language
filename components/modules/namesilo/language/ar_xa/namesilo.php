@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -237,7 +237,7 @@ $lang['Namesilo.tab_manage_contacts.heading_options'] = 'الخيارات';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'إضافة جهة اتصال';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'تحرير';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'حذف';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'سحب جهات الاتصال من Namesilo';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'سحب جهات الاتصال من السجل';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'تعيين جهة اتصال المسجل الافتراضي';
 $lang['Namesilo.tab_edit_contact.title'] = 'تحرير جهة الاتصال';
 $lang['Namesilo.tab_add_contact.title'] = 'إضافة جهة اتصال';

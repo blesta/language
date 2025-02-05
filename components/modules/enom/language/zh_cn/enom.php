@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -131,8 +131,8 @@ $lang['Enom.domain.NumYears'] = '年数';
 $lang['Enom.domain.domain'] = '域名';
 $lang['Enom.transfer.transfer_key'] = 'EPP 代码';
 $lang['Enom.transfer.domain'] = '域名';
-$lang['Enom.!error.key.valid_connection'] = '用户和密码组合似乎无效，或者您的 Enom 账户可能未配置为允许 API 访问。';
-$lang['Enom.!error.key.valid'] = '请输入密码。';
+$lang['Enom.!error.key.valid_connection'] = '用户和密码（或 api 密钥）组合似乎无效，或者您的 Enom 账户可能未配置为允许 API 访问。';
+$lang['Enom.!error.key.valid'] = '请输入密码或 api 密钥。';
 $lang['Enom.!error.user.valid'] = '请输入用户名。';
 $lang['Enom.tab_settings.field_submit'] = '更新设置';
 $lang['Enom.tab_settings.field_request_epp'] = '申请 EPP 密码/转移密钥';
@@ -167,7 +167,7 @@ $lang['Enom.add_row.box_title'] = '添加 Enom 帐户';
 $lang['Enom.row_meta.sandbox_false'] = '没有';
 $lang['Enom.row_meta.sandbox_true'] = '是';
 $lang['Enom.row_meta.sandbox'] = '沙盒';
-$lang['Enom.row_meta.key'] = '密码';
+$lang['Enom.row_meta.key'] = 'API 密钥或密码';
 $lang['Enom.row_meta.user'] = '用户';
 $lang['Enom.manage.module_rows_no_results'] = '没有账户。';
 $lang['Enom.manage.module_rows.confirm_delete'] = '您确定要删除此帐户吗？';
@@ -175,7 +175,7 @@ $lang['Enom.manage.module_rows.delete'] = '删除';
 $lang['Enom.manage.module_rows.edit'] = '编辑';
 $lang['Enom.manage.module_rows_heading.options'] = '选项';
 $lang['Enom.manage.module_rows_heading.sandbox'] = '沙盒';
-$lang['Enom.manage.module_rows_heading.key'] = 'API 密钥';
+$lang['Enom.manage.module_rows_heading.key'] = 'API 密钥或密码';
 $lang['Enom.manage.module_rows_heading.user'] = '用户';
 $lang['Enom.manage.module_rows_title'] = '账户';
 $lang['Enom.add_module_row'] = '添加账户';

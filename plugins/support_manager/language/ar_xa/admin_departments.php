@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = 'تم تحديث قسم 
 $lang['AdminDepartments.!success.department_created'] = 'تم إنشاء قسم %1$s بنجاح.';
 $lang['AdminDepartments.add.field_priorities'] = 'الأولويات المتاحة';
 $lang['AdminDepartments.edit.field_priorities'] = 'الأولويات المتاحة';
+$lang['AdminDepartments.edit.field_force_import'] = 'قوة الاستيراد';
+$lang['AdminDepartments.add.field_force_import'] = 'قوة الاستيراد';
+$lang['AdminDepartments.!success.department_imported'] = 'تم استيراد قسم %1$s بنجاح.';
 

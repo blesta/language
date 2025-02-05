@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Roky';
 $lang['Enom.domain.domain'] = 'Název domény';
 $lang['Enom.transfer.transfer_key'] = 'Kód EPP';
 $lang['Enom.transfer.domain'] = 'Název domény';
-$lang['Enom.!error.key.valid_connection'] = 'Kombinace uživatele a hesla se zdá být neplatná nebo váš účet Enom nemusí být nakonfigurován tak, aby umožňoval přístup k rozhraní API.';
-$lang['Enom.!error.key.valid'] = 'Zadejte prosím heslo.';
+$lang['Enom.!error.key.valid_connection'] = 'Kombinace uživatele a hesla (nebo klíče API) se zdá být neplatná nebo váš účet Enom nemusí být nakonfigurován tak, aby umožňoval přístup k rozhraní API.';
+$lang['Enom.!error.key.valid'] = 'Zadejte prosím heslo nebo klíč api.';
 $lang['Enom.!error.user.valid'] = 'Zadejte prosím uživatele.';
 $lang['Enom.tab_settings.field_submit'] = 'Aktualizace nastavení';
 $lang['Enom.tab_settings.field_request_epp'] = 'Žádost o kód EPP/přenosový klíč';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Přidání účtu Enom';
 $lang['Enom.row_meta.sandbox_false'] = 'Ne';
 $lang['Enom.row_meta.sandbox_true'] = 'Ano';
 $lang['Enom.row_meta.sandbox'] = 'Sandbox';
-$lang['Enom.row_meta.key'] = 'Heslo';
+$lang['Enom.row_meta.key'] = 'Klíč API nebo heslo';
 $lang['Enom.row_meta.user'] = 'Uživatel';
 $lang['Enom.manage.module_rows_no_results'] = 'Neexistují žádné účty.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Opravdu chcete tento účet odstranit?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Odstranit';
 $lang['Enom.manage.module_rows.edit'] = 'Upravit';
 $lang['Enom.manage.module_rows_heading.options'] = 'Možnosti';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandbox';
-$lang['Enom.manage.module_rows_heading.key'] = 'Klíč API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Klíč API nebo heslo';
 $lang['Enom.manage.module_rows_heading.user'] = 'Uživatel';
 $lang['Enom.manage.module_rows_title'] = 'Účty';
 $lang['Enom.add_module_row'] = 'Přidat účet';

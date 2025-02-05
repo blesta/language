@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.!success.ticket_merge'] = 'De geselecteerde tickets zijn suc
 $lang['AdminTickets.!success.ticket_split'] = 'Het ticket #%1$s is succesvol gesplitst in ticket #%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Het ticket #%1$s is succesvol bijgewerkt.';
 $lang['AdminTickets.!success.ticket_created'] = 'Het ticket #%1$s is succesvol geopend.';
-$lang['AdminTickets.reply.text_contacts'] = 'Als je geen extra contactpersonen kiest, worden alle contactpersonen die op dit ticket reageren automatisch op de hoogte gebracht.';
+$lang['AdminTickets.reply.text_contacts'] = 'Contactpersonen die niet zijn geselecteerd, worden automatisch toegevoegd aan het ticket als ze erop reageren.';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Ontvanger toevoegen';
 $lang['AdminTickets.reply.heading_contacts'] = 'Contacten';
 $lang['AdminTickets.reply.heading_recipients'] = 'Ontvangers';
-$lang['AdminTickets.add.text_contacts'] = 'Als je geen extra contactpersonen kiest, worden alle contactpersonen die op dit ticket reageren automatisch op de hoogte gebracht.';
+$lang['AdminTickets.add.text_contacts'] = 'Contactpersonen die niet zijn geselecteerd, worden automatisch toegevoegd aan het ticket als ze erop reageren.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Ontvanger toevoegen';
 $lang['AdminTickets.add.heading_contacts'] = 'Contacten';
 $lang['AdminTickets.add.heading_recipients'] = 'Ontvangers';

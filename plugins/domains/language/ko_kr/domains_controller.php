@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.change_registrar'] = '등록기관 변
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = '자동 갱신 변경';
 $lang['DomainsController.example'] = '언어 예시';
 $lang['DomainsController.!error.move_error'] = '선택한 도메인을 선택한 클라이언트로 이동할 수 없습니다.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = '등록 날짜 변경';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = '만료일 변경';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = 'Penerusan Email berhasil dipe
 $lang['AdminDomains.!success.dns_management'] = 'Manajemen DNS berhasil diperbarui!';
 $lang['AdminDomains.!success.delete_partial'] = 'TLD berikut ini tidak dapat dihapus karena sedang digunakan: %1$s';
 $lang['AdminDomains.!success.delete'] = 'TLD berhasil dihapus!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Tanggal pendaftaran Domain telah diperbarui!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Tanggal kedaluwarsa Domain telah diperbarui!';
 

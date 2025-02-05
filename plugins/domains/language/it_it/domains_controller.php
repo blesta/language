@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Rinnovo del domini
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Cambia Registrar';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Cambia il rinnovo dell\'auto';
 $lang['DomainsController.!error.move_error'] = 'Non è stato possibile spostare i domini selezionati sul client selezionato.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Modifica della data di registrazione';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modifica della data di scadenza';
 

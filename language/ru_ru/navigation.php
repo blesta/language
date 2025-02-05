@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Неверный идентифи�
 $lang['Navigation.!error.order.valid'] = 'Индекс заказа должен быть числовым значением';
 $lang['Navigation.!error.action_id.valid'] = 'Неверный идентификатор действия';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Шаблоны HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Очередь обслуживания';
 

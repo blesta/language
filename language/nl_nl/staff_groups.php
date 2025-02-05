@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,5 @@ $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'HTML-s
 $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML-sjabloon toevoegen';
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML sjablonen';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Geavanceerde bewerkingsservice';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service wachtrij';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.search.heading_department_name'] = 'Τμήμα';
 $lang['AdminTickets.search.heading_summary'] = 'Περίληψη';
 $lang['AdminTickets.search.heading_last_reply_date'] = 'Τελευταία απάντηση';
 $lang['AdminTickets.search.no_results'] = 'Δεν υπάρχουν εισιτήρια που να ταιριάζουν με τα κριτήρια αναζήτησης.';
-$lang['AdminTickets.reply.text_contacts'] = 'Εάν δεν επιλέξετε πρόσθετες επαφές, όλες οι επαφές που απαντούν σε αυτό το εισιτήριο θα ειδοποιηθούν αυτόματα.';
+$lang['AdminTickets.reply.text_contacts'] = 'Οι επαφές που δεν έχουν επιλεγεί θα προστεθούν αυτόματα στο εισιτήριο, εάν ανταποκριθούν σε αυτό.';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Προσθήκη παραλήπτη';
 $lang['AdminTickets.reply.heading_contacts'] = 'Επαφές';
 $lang['AdminTickets.reply.heading_recipients'] = 'Αποδέκτες';
-$lang['AdminTickets.add.text_contacts'] = 'Εάν δεν επιλέξετε πρόσθετες επαφές, όλες οι επαφές που απαντούν σε αυτό το εισιτήριο θα ειδοποιηθούν αυτόματα.';
+$lang['AdminTickets.add.text_contacts'] = 'Οι επαφές που δεν έχουν επιλεγεί θα προστεθούν αυτόματα στο εισιτήριο, εάν ανταποκριθούν σε αυτό.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Προσθήκη παραλήπτη';
 $lang['AdminTickets.add.heading_contacts'] = 'Επαφές';
 $lang['AdminTickets.add.heading_recipients'] = 'Αποδέκτες';

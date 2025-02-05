@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'År';
 $lang['Enom.domain.domain'] = 'Domännamn';
 $lang['Enom.transfer.transfer_key'] = 'EPP-kod';
 $lang['Enom.transfer.domain'] = 'Domännamn';
-$lang['Enom.!error.key.valid_connection'] = 'Kombinationen av användare och lösenord verkar vara ogiltig, eller så är ditt Enom-konto inte konfigurerat för att tillåta API-åtkomst.';
-$lang['Enom.!error.key.valid'] = 'Ange ett lösenord.';
+$lang['Enom.!error.key.valid_connection'] = 'Kombinationen av användare och lösenord (eller api-nyckel) verkar vara ogiltig, eller så är ditt Enom-konto inte konfigurerat för att tillåta API-åtkomst.';
+$lang['Enom.!error.key.valid'] = 'Ange ett lösenord eller en api-nyckel.';
 $lang['Enom.!error.user.valid'] = 'Vänligen ange en användare.';
 $lang['Enom.tab_settings.field_submit'] = 'Uppdatera inställningar';
 $lang['Enom.tab_settings.field_request_epp'] = 'Begär EPP-kod/överföringsnyckel';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Lägg till Enom-konto';
 $lang['Enom.row_meta.sandbox_false'] = 'Nej';
 $lang['Enom.row_meta.sandbox_true'] = 'Ja';
 $lang['Enom.row_meta.sandbox'] = 'Sandlåda';
-$lang['Enom.row_meta.key'] = 'Lösenord';
+$lang['Enom.row_meta.key'] = 'API-nyckel eller lösenord';
 $lang['Enom.row_meta.user'] = 'Användare';
 $lang['Enom.manage.module_rows_no_results'] = 'Det finns inga konton.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Är du säker på att du vill radera det här kontot?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Radera';
 $lang['Enom.manage.module_rows.edit'] = 'Redigera';
 $lang['Enom.manage.module_rows_heading.options'] = 'Alternativ';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandlåda';
-$lang['Enom.manage.module_rows_heading.key'] = 'API-nyckel';
+$lang['Enom.manage.module_rows_heading.key'] = 'API-nyckel eller lösenord';
 $lang['Enom.manage.module_rows_heading.user'] = 'Användare';
 $lang['Enom.manage.module_rows_title'] = 'Konton';
 $lang['Enom.add_module_row'] = 'Lägg till konto';

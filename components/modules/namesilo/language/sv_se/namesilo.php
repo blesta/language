@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = 'Tillbaka';
 $lang['Namesilo.tab_add_contact.title'] = 'Lägg till kontakt';
 $lang['Namesilo.tab_edit_contact.title'] = 'Redigera kontakt';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = 'Ange standardkontakt för registrerare';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Hämta kontakter från Namesilo';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Hämta kontakter från registret';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = 'Radera';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = 'Redigera';
 $lang['Namesilo.tab_manage_contacts.option_add'] = 'Lägg till kontakt';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.nameserver.ns1'] = 'Name Server 1';
 $lang['Logicboxes.name'] = 'LogicBoxes';
 $lang['Logicboxes.transfer.domain'] = '域名';
 $lang['Logicboxes.domain.domain'] = '域名';
+$lang['Logicboxes.domain.order_id'] = '订单编号';
 

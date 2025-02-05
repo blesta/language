@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Έτη';
 $lang['Enom.domain.domain'] = 'Όνομα τομέα';
 $lang['Enom.transfer.transfer_key'] = 'Κωδικός EPP';
 $lang['Enom.transfer.domain'] = 'Όνομα τομέα';
-$lang['Enom.!error.key.valid_connection'] = 'Ο συνδυασμός χρήστη και κωδικού πρόσβασης φαίνεται να είναι άκυρος ή ο λογαριασμός σας Enom μπορεί να μην έχει ρυθμιστεί ώστε να επιτρέπει την πρόσβαση στο API.';
-$lang['Enom.!error.key.valid'] = 'Παρακαλώ εισάγετε έναν κωδικό πρόσβασης.';
+$lang['Enom.!error.key.valid_connection'] = 'Ο συνδυασμός χρήστη και κωδικού πρόσβασης (ή κλειδιού api) φαίνεται να είναι άκυρος ή ο λογαριασμός σας Enom ενδέχεται να μην έχει ρυθμιστεί ώστε να επιτρέπει την πρόσβαση στο API.';
+$lang['Enom.!error.key.valid'] = 'Παρακαλούμε εισάγετε έναν κωδικό πρόσβασης ή ένα κλειδί api.';
 $lang['Enom.!error.user.valid'] = 'Παρακαλώ εισάγετε έναν χρήστη.';
 $lang['Enom.tab_settings.field_submit'] = 'Ενημέρωση ρυθμίσεων';
 $lang['Enom.tab_settings.field_request_epp'] = 'Αίτημα κωδικού EPP/κλειδιού μεταφοράς';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Προσθήκη λογαριασμού Enom'
 $lang['Enom.row_meta.sandbox_false'] = 'Όχι';
 $lang['Enom.row_meta.sandbox_true'] = 'Ναι';
 $lang['Enom.row_meta.sandbox'] = 'Sandbox';
-$lang['Enom.row_meta.key'] = 'Κωδικός πρόσβασης';
+$lang['Enom.row_meta.key'] = 'Κλειδί API ή κωδικός πρόσβασης';
 $lang['Enom.row_meta.user'] = 'Χρήστης';
 $lang['Enom.manage.module_rows_no_results'] = 'Δεν υπάρχουν λογαριασμοί.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Είστε σίγουρος ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό;';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Διαγραφή';
 $lang['Enom.manage.module_rows.edit'] = 'Επεξεργασία';
 $lang['Enom.manage.module_rows_heading.options'] = 'Επιλογές';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Sandbox';
-$lang['Enom.manage.module_rows_heading.key'] = 'Κλειδί API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Κλειδί API ή κωδικός πρόσβασης';
 $lang['Enom.manage.module_rows_heading.user'] = 'Χρήστης';
 $lang['Enom.manage.module_rows_title'] = 'Λογαριασμοί';
 $lang['Enom.add_module_row'] = 'Προσθήκη λογαριασμού';

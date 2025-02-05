@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.search.heading_department_name'] = 'Département';
 $lang['AdminTickets.search.heading_summary'] = 'Résumé';
 $lang['AdminTickets.search.heading_last_reply_date'] = 'Dernière réponse';
 $lang['AdminTickets.search.no_results'] = 'Aucun billet ne correspond aux critères de recherche.';
-$lang['AdminTickets.reply.text_contacts'] = 'Si vous ne choisissez pas d\'autres contacts, tous les contacts qui répondent à ce ticket seront automatiquement notifiés.';
+$lang['AdminTickets.reply.text_contacts'] = 'Les contacts non sélectionnés seront automatiquement ajoutés au ticket s\'ils y répondent.';
 $lang['AdminTickets.reply.text_add_recipient'] = 'Ajouter un destinataire';
 $lang['AdminTickets.reply.heading_contacts'] = 'Contacts';
 $lang['AdminTickets.reply.heading_recipients'] = 'Bénéficiaires';
-$lang['AdminTickets.add.text_contacts'] = 'Si vous ne choisissez pas d\'autres contacts, tous les contacts qui répondent à ce ticket seront automatiquement notifiés.';
+$lang['AdminTickets.add.text_contacts'] = 'Les contacts non sélectionnés seront automatiquement ajoutés au ticket s\'ils y répondent.';
 $lang['AdminTickets.add.text_add_recipient'] = 'Ajouter un destinataire';
 $lang['AdminTickets.add.heading_contacts'] = 'Contacts';
 $lang['AdminTickets.add.heading_recipients'] = 'Bénéficiaires';

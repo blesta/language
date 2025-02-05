@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -134,8 +134,8 @@ $lang['Enom.domain.NumYears'] = 'Jaren';
 $lang['Enom.domain.domain'] = 'Domeinnaam';
 $lang['Enom.transfer.transfer_key'] = 'EPP-code';
 $lang['Enom.transfer.domain'] = 'Domeinnaam';
-$lang['Enom.!error.key.valid_connection'] = 'De combinatie van gebruiker en wachtwoord lijkt ongeldig te zijn, of je Enom-account is mogelijk niet geconfigureerd om API-toegang toe te staan.';
-$lang['Enom.!error.key.valid'] = 'Voer een wachtwoord in.';
+$lang['Enom.!error.key.valid_connection'] = 'De combinatie van gebruiker en wachtwoord (of api-sleutel) lijkt ongeldig te zijn, of je Enom-account is mogelijk niet geconfigureerd om API-toegang toe te staan.';
+$lang['Enom.!error.key.valid'] = 'Voer een wachtwoord of api-sleutel in.';
 $lang['Enom.!error.user.valid'] = 'Voer een gebruiker in.';
 $lang['Enom.tab_settings.field_submit'] = 'Instellingen bijwerken';
 $lang['Enom.tab_settings.field_request_epp'] = 'EPP-code/overdrachtssleutel aanvragen';
@@ -170,7 +170,7 @@ $lang['Enom.add_row.box_title'] = 'Enom-account toevoegen';
 $lang['Enom.row_meta.sandbox_false'] = 'Geen';
 $lang['Enom.row_meta.sandbox_true'] = 'Ja';
 $lang['Enom.row_meta.sandbox'] = 'Zandbak';
-$lang['Enom.row_meta.key'] = 'Wachtwoord';
+$lang['Enom.row_meta.key'] = 'API-sleutel of wachtwoord';
 $lang['Enom.row_meta.user'] = 'Gebruiker';
 $lang['Enom.manage.module_rows_no_results'] = 'Er zijn geen rekeningen.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Weet je zeker dat je deze account wilt verwijderen?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Verwijder';
 $lang['Enom.manage.module_rows.edit'] = 'Bewerk';
 $lang['Enom.manage.module_rows_heading.options'] = 'Opties';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Zandbak';
-$lang['Enom.manage.module_rows_heading.key'] = 'API-sleutel';
+$lang['Enom.manage.module_rows_heading.key'] = 'API-sleutel of wachtwoord';
 $lang['Enom.manage.module_rows_heading.user'] = 'Gebruiker';
 $lang['Enom.manage.module_rows_title'] = 'Rekeningen';
 $lang['Enom.add_module_row'] = 'Account toevoegen';

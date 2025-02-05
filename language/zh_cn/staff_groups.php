@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,5 @@ $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = '编辑
 $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = '添加 HTML 模板';
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 模板';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '高级编辑服务';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = '服务队列';
 

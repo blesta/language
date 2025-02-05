@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = '잘못된 상위 탐색 항목 ID'
 $lang['Navigation.!error.order.valid'] = '주문 인덱스는 숫자 값이어야 합니다.';
 $lang['Navigation.!error.action_id.valid'] = '잘못된 작업 ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML 템플릿';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = '서비스 대기열';
 

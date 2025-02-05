@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -270,4 +270,6 @@ $lang['AdminDomains.!success.email_forwarding'] = 'E-posta Yönlendirme başarı
 $lang['AdminDomains.!success.dns_management'] = 'DNS Yönetimi başarıyla güncellendi!';
 $lang['AdminDomains.!success.delete_partial'] = 'Aşağıdaki TLD\'ler kullanımda oldukları için silinememiştir: %1$s';
 $lang['AdminDomains.!success.delete'] = 'TLD başarıyla silindi!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Alan adı kayıt tarihi güncellendi!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
 

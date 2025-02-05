@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -291,4 +291,5 @@ $lang['Logicboxes.!error.currency.not_exists'] = 'De resellervaluta bestaat niet
 $lang['Logicboxes.!tooltip.row_meta.sandbox'] = 'Als Sandbox is aangevinkt, moet je test/demo-accountreferenties definiëren. Als je de referenties van je productieaccount gebruikt terwijl Sandbox is aangevinkt, worden er nog steeds live acties uitgevoerd.';
 $lang['Logicboxes.domain.domain'] = 'Domeinnaam';
 $lang['Logicboxes.transfer.domain'] = 'Domeinnaam';
+$lang['Logicboxes.domain.order_id'] = 'Bestel ID';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,11 +123,11 @@ $lang['AdminTickets.!success.ticket_merge'] = '所选票单已成功合并到 #%
 $lang['AdminTickets.!success.ticket_split'] = '机票 #%1$s 已成功拆分为机票 #%2$s。';
 $lang['AdminTickets.!success.ticket_updated'] = '机票 #%1$s 已成功更新。';
 $lang['AdminTickets.!success.ticket_created'] = '票单 #%1$s 已成功打开。';
-$lang['AdminTickets.reply.text_contacts'] = '如果您不选择任何其他联系人，所有回复此票单的联系人都将自动收到通知。';
+$lang['AdminTickets.reply.text_contacts'] = '如果未选择的联系人回复了票单，则会自动添加到票单中。';
 $lang['AdminTickets.reply.text_add_recipient'] = '添加收件人';
 $lang['AdminTickets.reply.heading_contacts'] = '联系方式';
 $lang['AdminTickets.reply.heading_recipients'] = '受援国';
-$lang['AdminTickets.add.text_contacts'] = '如果您不选择任何其他联系人，所有回复此票单的联系人都将自动收到通知。';
+$lang['AdminTickets.add.text_contacts'] = '如果未选择的联系人回复了票单，则会自动添加到票单中。';
 $lang['AdminTickets.add.text_add_recipient'] = '添加收件人';
 $lang['AdminTickets.add.heading_contacts'] = '联系方式';
 $lang['AdminTickets.add.heading_recipients'] = '受援国';

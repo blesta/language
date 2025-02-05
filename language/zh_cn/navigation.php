@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = '父导航项 ID 无效';
 $lang['Navigation.!error.order.valid'] = '订单索引必须是数值';
 $lang['Navigation.!error.action_id.valid'] = '无效的操作 ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML 模板';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = '服务队列';
 

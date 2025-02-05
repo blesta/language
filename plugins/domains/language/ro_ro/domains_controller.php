@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['DomainsController.getDomainActions.domain_renewal'] = 'Reînnoiți domeni
 $lang['DomainsController.getDomainActions.change_registrar'] = 'Schimbă registratorul';
 $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Schimbare reînnoire auto';
 $lang['DomainsController.!error.move_error'] = 'Domeniile selectate nu au putut fi mutate la clientul selectat.';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Modificarea datei de înregistrare';
+$lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modificarea datei de expirare';
 

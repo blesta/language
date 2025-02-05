@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -235,7 +235,7 @@ $lang['Namesilo.tab_edit_contact.field_back'] = '返回';
 $lang['Namesilo.tab_add_contact.title'] = '添加联系人';
 $lang['Namesilo.tab_edit_contact.title'] = '编辑联系方式';
 $lang['Namesilo.tab_manage_contacts.field_submit'] = '设置默认注册人联系方式';
-$lang['Namesilo.tab_manage_contacts.field_sync'] = '从 Namesilo 拉取联系人';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = '从注册表中提取联系人';
 $lang['Namesilo.tab_manage_contacts.option_delete'] = '删除';
 $lang['Namesilo.tab_manage_contacts.option_edit'] = '编辑';
 $lang['Namesilo.tab_manage_contacts.option_add'] = '添加联系人';

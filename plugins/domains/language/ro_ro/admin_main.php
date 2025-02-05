@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.index.text_date_added'] = 'Data adăugării:';
 $lang['AdminMain.index.heading_dateregistration'] = 'Data înregistrării';
 $lang['AdminMain.index.heading_registrar'] = 'Registrator';
 $lang['AdminMain.!success.domain_registrar_updated'] = 'Registrul de domenii a fost actualizat!';
+$lang['AdminMain.edit.field_registration_date'] = 'Modificarea datei de înregistrare';
+$lang['AdminMain.edit.field_expiration_date'] = 'Modificarea datei de expirare';
+$lang['AdminMain.!success.change_registration_date'] = 'Data înregistrării domeniului a fost actualizată!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Data de expirare a domeniului a fost actualizată!';
 

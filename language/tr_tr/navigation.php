@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Geçersiz üst gezinti öğesi kim
 $lang['Navigation.!error.order.valid'] = 'Sipariş indeksi sayısal bir değer olmalıdır';
 $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML Şablonları';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Servis Kuyruğu';
 

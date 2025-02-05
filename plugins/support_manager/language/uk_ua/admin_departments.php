@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -146,4 +146,7 @@ $lang['AdminDepartments.!success.department_updated'] = 'Відділ %1$s бу�
 $lang['AdminDepartments.!success.department_created'] = 'Відділ %1$s був успішно створений.';
 $lang['AdminDepartments.edit.field_priorities'] = 'Доступні пріоритети';
 $lang['AdminDepartments.add.field_priorities'] = 'Доступні пріоритети';
+$lang['AdminDepartments.edit.field_force_import'] = 'Імпорт сили';
+$lang['AdminDepartments.add.field_force_import'] = 'Імпорт сили';
+$lang['AdminDepartments.!success.department_imported'] = 'Відділ %1$s було успішно імпортовано.';
 

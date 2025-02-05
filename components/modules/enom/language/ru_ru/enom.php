@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,8 +129,8 @@ $lang['Enom.domain.NumYears'] = 'Годы';
 $lang['Enom.domain.domain'] = 'Доменное имя';
 $lang['Enom.transfer.transfer_key'] = 'Код EPP';
 $lang['Enom.transfer.domain'] = 'Доменное имя';
-$lang['Enom.!error.key.valid_connection'] = 'Похоже, что комбинация пользователя и пароля недействительна, или ваш аккаунт Enom не настроен на доступ к API.';
-$lang['Enom.!error.key.valid'] = 'Пожалуйста, введите пароль.';
+$lang['Enom.!error.key.valid_connection'] = 'Похоже, что комбинация пользователя и пароля (или ключа api) недействительна, или ваш аккаунт Enom не настроен на доступ к API.';
+$lang['Enom.!error.key.valid'] = 'Пожалуйста, введите пароль или api ключ.';
 $lang['Enom.!error.user.valid'] = 'Пожалуйста, введите пользователя.';
 $lang['Enom.tab_settings.field_submit'] = 'Обновление настроек';
 $lang['Enom.tab_settings.field_request_epp'] = 'Запрос кода EPP/передаточного ключа';
@@ -170,7 +170,7 @@ $lang['Enom.nameserver.ns3'] = 'Name Server 3';
 $lang['Enom.nameserver.ns2'] = 'Name Server 2';
 $lang['Enom.nameserver.ns1'] = 'Name Server 1';
 $lang['Enom.row_meta.sandbox'] = 'Песочница';
-$lang['Enom.row_meta.key'] = 'Пароль';
+$lang['Enom.row_meta.key'] = 'Ключ или пароль API';
 $lang['Enom.row_meta.user'] = 'Пользователь';
 $lang['Enom.manage.module_rows_no_results'] = 'Нет никаких счетов.';
 $lang['Enom.manage.module_rows.confirm_delete'] = 'Вы уверены, что хотите удалить эту учетную запись?';
@@ -178,7 +178,7 @@ $lang['Enom.manage.module_rows.delete'] = 'Удалить';
 $lang['Enom.manage.module_rows.edit'] = 'Редактировать';
 $lang['Enom.manage.module_rows_heading.options'] = 'Опции';
 $lang['Enom.manage.module_rows_heading.sandbox'] = 'Песочница';
-$lang['Enom.manage.module_rows_heading.key'] = 'Ключ API';
+$lang['Enom.manage.module_rows_heading.key'] = 'Ключ или пароль API';
 $lang['Enom.manage.module_rows_heading.user'] = 'Пользователь';
 $lang['Enom.manage.module_rows_title'] = 'Счета';
 $lang['Enom.add_module_row'] = 'Добавить аккаунт';

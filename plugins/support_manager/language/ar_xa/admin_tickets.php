@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -126,9 +126,9 @@ $lang['AdminTickets.!success.ticket_created'] = 'تم فتح التذكرة رق
 $lang['AdminTickets.add.heading_recipients'] = 'المستلمون';
 $lang['AdminTickets.add.heading_contacts'] = 'جهات الاتصال';
 $lang['AdminTickets.add.text_add_recipient'] = 'إضافة مستلم';
-$lang['AdminTickets.add.text_contacts'] = 'إذا لم تقم باختيار أي جهات اتصال إضافية، فسيتم إعلام جميع جهات الاتصال التي تستجيب لهذه التذكرة تلقائياً.';
+$lang['AdminTickets.add.text_contacts'] = 'ستتم إضافة جهات الاتصال التي لم يتم تحديدها تلقائياً إلى التذكرة إذا استجابت لها.';
 $lang['AdminTickets.reply.heading_recipients'] = 'المستلمون';
 $lang['AdminTickets.reply.heading_contacts'] = 'جهات الاتصال';
 $lang['AdminTickets.reply.text_add_recipient'] = 'إضافة مستلم';
-$lang['AdminTickets.reply.text_contacts'] = 'إذا لم تقم باختيار أي جهات اتصال إضافية، فسيتم إعلام جميع جهات الاتصال التي تستجيب لهذه التذكرة تلقائياً.';
+$lang['AdminTickets.reply.text_contacts'] = 'ستتم إضافة جهات الاتصال التي لم يتم تحديدها تلقائياً إلى التذكرة إذا استجابت لها.';
 

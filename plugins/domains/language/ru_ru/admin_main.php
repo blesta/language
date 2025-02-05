@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -164,4 +164,8 @@ $lang['AdminMain.index.text_date_added'] = 'Дата добавления:';
 $lang['AdminMain.index.heading_dateregistration'] = 'Дата регистрации';
 $lang['AdminMain.index.heading_registrar'] = 'Регистратор';
 $lang['AdminMain.!success.domain_registrar_updated'] = 'Регистратор домена был обновлен!';
+$lang['AdminMain.edit.field_registration_date'] = 'Изменить дату регистрации';
+$lang['AdminMain.edit.field_expiration_date'] = 'Изменить дату истечения срока действия';
+$lang['AdminMain.!success.change_registration_date'] = 'Дата регистрации домена была обновлена!';
+$lang['AdminMain.!success.change_expiration_date'] = 'Дата истечения срока действия домена была обновлена!';
 

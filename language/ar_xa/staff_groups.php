@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,5 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'قوال�
 $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'إضافة قالب HTML';
 $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'تحرير قالب HTML';
 $lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'حذف قالب HTML';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'قائمة انتظار الخدمة';
 

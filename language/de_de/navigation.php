@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -123,4 +123,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Ungültige ID des übergeordneten 
 $lang['Navigation.!error.order.valid'] = 'Der Auftragsindex muss ein numerischer Wert sein';
 $lang['Navigation.!error.action_id.valid'] = 'Ungültige Aktions-ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-Vorlagen';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service-Warteschlange';
 
