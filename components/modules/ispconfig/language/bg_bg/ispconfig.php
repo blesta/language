@@ -1,0 +1,131 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.bg_bg
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.!error.ispconfig_password.matches'] = 'Паролата и потвърждението на паролата не съвпадат.';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = 'Дължината на паролата трябва да бъде най-малко 8 символа.';
+$lang['Ispconfig.!error.ispconfig_username.length'] = 'Дължината на потребителското име трябва да бъде между 1 и 16 символа.';
+$lang['Ispconfig.!error.ispconfig_username.test'] = 'Потребителското име не може да започва с "test".';
+$lang['Ispconfig.!error.ispconfig_username.format'] = 'Потребителското име може да съдържа само букви и цифри и не може да започва с число.';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = 'Името на домейна не може да започва с \'test\'.';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = 'Моля, въведете валидно име на домейн, напр. domain.com.';
+$lang['Ispconfig.!error.module_row.missing'] = 'Възникнала е вътрешна грешка. Редът на модула не е наличен.';
+$lang['Ispconfig.!error.api.internal'] = 'Възникнала е вътрешна грешка или сървърът не е отговорил на заявката.';
+$lang['Ispconfig.!error.meta[package].empty'] = 'Необходим е пакет ISPConfig.';
+$lang['Ispconfig.!error.name_servers_count'] = 'Трябва да дефинирате поне 2 сървъра за имена.';
+$lang['Ispconfig.!error.name_servers_valid'] = 'Един или повече от въведените сървъри за имена са невалидни.';
+$lang['Ispconfig.!error.account_limit_valid'] = 'Account Limit (Лимит на сметките) трябва да остане празен (за неограничени сметки) или да се зададе някаква целочислена стойност.';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = 'Връзката със сървъра не може да бъде установена. Моля, проверете дали името на хоста, потребителското име и паролата са верни.';
+$lang['Ispconfig.!error.remote_password_valid'] = 'Изглежда, че паролата е невалидна.';
+$lang['Ispconfig.!error.user_name_valid'] = 'Изглежда, че потребителското име е невалидно.';
+$lang['Ispconfig.!error.port_format'] = 'Портът трябва да е число.';
+$lang['Ispconfig.!error.host_name_valid'] = 'Името на хоста изглежда невалидно.';
+$lang['Ispconfig.!error.server_name_valid'] = 'Трябва да въведете Етикет на сървъра.';
+$lang['Ispconfig.service_field.tooltip.password'] = 'Можете да оставите паролата празна, за да се генерира автоматично.';
+$lang['Ispconfig.service_field.tooltip.username'] = 'Можете да оставите потребителското име празно, за да се генерира автоматично.';
+$lang['Ispconfig.service_info.option_login'] = 'Влезте в системата';
+$lang['Ispconfig.service_info.options'] = 'Опции';
+$lang['Ispconfig.service_info.server'] = 'Сървър';
+$lang['Ispconfig.service_info.password'] = 'Парола';
+$lang['Ispconfig.service_info.username'] = 'Потребителско име';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = '(%1$s MB/∞)';
+$lang['Ispconfig.row_meta.server_name'] = 'Етикет на сървъра';
+$lang['Ispconfig.edit_row.add_btn'] = 'Редактиране на сървъра';
+$lang['Ispconfig.edit_row.remove_name_server'] = 'Премахване на';
+$lang['Ispconfig.edit_row.name_server'] = 'Сървър за имена %1$s';
+$lang['Ispconfig.edit_row.name_server_host_col'] = 'Име на хоста';
+$lang['Ispconfig.tab_client_stats.usage'] = '(%1$s MB/%2$s MB)';
+$lang['Ispconfig.tab_client_stats.disk_title'] = 'Използване на диска';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = 'Използване на честотна лента (от месец до дата)';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = 'Ограничение на базите данни';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'Ограничение на потребителите на WebDAV';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = 'Ограничение на псевдонима на домейна';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = 'Ограничение на поддомейните';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = 'Ограничение на уеб домейните';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'Ограничение на потребителите на FTP';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = 'Квота за честотна лента';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = 'Уеб квота';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = 'Стойност';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = 'Поле';
+$lang['Ispconfig.tab_client_stats.info_title'] = 'Информация';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = 'Актуализиране на паролата';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = 'Парола';
+$lang['Ispconfig.tab_client_actions.change_password'] = 'Промяна на паролата';
+$lang['Ispconfig.tab_stats.info.limit_database'] = 'Ограничение на базите данни';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'Ограничение на потребителите на WebDAV';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = 'Ограничение на псевдонима на домейна';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = 'Ограничение на поддомейните';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = 'Ограничение на уеб домейните';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'Ограничение на потребителите на FTP';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = 'Квота за честотна лента';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = 'Уеб квота';
+$lang['Ispconfig.tab_stats.info_heading.value'] = 'Стойност';
+$lang['Ispconfig.tab_stats.info_heading.field'] = 'Поле';
+$lang['Ispconfig.tab_stats.info_title'] = 'Информация';
+$lang['Ispconfig.service_field.password'] = 'Парола';
+$lang['Ispconfig.service_field.username'] = 'Потребителско име';
+$lang['Ispconfig.service_field.domain'] = 'Домейн';
+$lang['Ispconfig.package_fields.ssh_options'] = 'Опции за SSH';
+$lang['Ispconfig.package_fields.php_options'] = 'Опции за PHP';
+$lang['Ispconfig.package_fields.package'] = 'Пакет ISPConfig';
+$lang['Ispconfig.row_meta.account_limit'] = 'Лимит на сметката';
+$lang['Ispconfig.row_meta.use_ssl'] = 'Използвайте SSL при свързване с API (препоръчително)';
+$lang['Ispconfig.row_meta.password'] = 'Парола';
+$lang['Ispconfig.row_meta.user_name'] = 'Потребителско име';
+$lang['Ispconfig.row_meta.default_port'] = '8080';
+$lang['Ispconfig.row_meta.port'] = 'Пристанище';
+$lang['Ispconfig.row_meta.host_name'] = 'Име на хоста';
+$lang['Ispconfig.edit_row.name_server_col'] = 'Сървър за имена';
+$lang['Ispconfig.edit_row.name_server_btn'] = 'Добавяне на допълнителен сървър за имена';
+$lang['Ispconfig.edit_row.notes_title'] = 'Бележки';
+$lang['Ispconfig.edit_row.name_servers_title'] = 'Сървъри за имена';
+$lang['Ispconfig.edit_row.basic_title'] = 'Основни настройки';
+$lang['Ispconfig.edit_row.box_title'] = 'Редактиране на сървъра ISPConfig';
+$lang['Ispconfig.add_row.add_btn'] = 'Добавяне на сървър';
+$lang['Ispconfig.add_row.remove_name_server'] = 'Премахване на';
+$lang['Ispconfig.add_row.name_server'] = 'Сървър за имена %1$s';
+$lang['Ispconfig.add_row.name_server_host_col'] = 'Име на хоста';
+$lang['Ispconfig.add_row.name_server_col'] = 'Сървър за имена';
+$lang['Ispconfig.add_row.name_server_btn'] = 'Добавяне на допълнителен сървър за имена';
+$lang['Ispconfig.add_row.notes_title'] = 'Бележки';
+$lang['Ispconfig.add_row.name_servers_title'] = 'Сървъри за имена';
+$lang['Ispconfig.add_row.basic_title'] = 'Основни настройки';
+$lang['Ispconfig.add_row.box_title'] = 'Добавяне на сървър ISPConfig';
+$lang['Ispconfig.order_options.roundrobin'] = 'Равномерно разпределение между сървърите';
+$lang['Ispconfig.order_options.first'] = 'Първи непълен сървър';
+$lang['Ispconfig.manage.module_groups_no_results'] = 'Няма групи сървъри.';
+$lang['Ispconfig.manage.module_rows_no_results'] = 'Няма сървъри.';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = 'Сигурни ли сте, че искате да изтриете тази група сървъри?';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = 'Сигурни ли сте, че искате да изтриете този сървър?';
+$lang['Ispconfig.manage.module_groups.delete'] = 'Изтриване на';
+$lang['Ispconfig.manage.module_rows.delete'] = 'Изтриване на';
+$lang['Ispconfig.manage.module_groups.edit'] = 'Редактиране на';
+$lang['Ispconfig.manage.module_rows.edit'] = 'Редактиране на';
+$lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.manage.module_groups_heading.options'] = 'Опции';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = 'Брой на сървърите';
+$lang['Ispconfig.manage.module_groups_heading.name'] = 'Име на групата';
+$lang['Ispconfig.manage.module_rows_heading.options'] = 'Опции';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = 'Сметки';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = 'Име на хоста';
+$lang['Ispconfig.manage.module_rows_heading.name'] = 'Етикет на сървъра';
+$lang['Ispconfig.manage.module_groups_title'] = 'Групи сървъри';
+$lang['Ispconfig.manage.module_rows_title'] = 'Сървъри';
+$lang['Ispconfig.add_module_group'] = 'Добавяне на група сървъри';
+$lang['Ispconfig.add_module_row'] = 'Добавяне на сървър';
+$lang['Ispconfig.tab_client_actions'] = 'Действия';
+$lang['Ispconfig.tab_client_stats'] = 'Статистика';
+$lang['Ispconfig.tab_stats'] = 'Статистика';
+$lang['Ispconfig.module_group'] = 'Група сървъри';
+$lang['Ispconfig.module_row_plural'] = 'Сървъри';
+$lang['Ispconfig.module_row'] = 'Сървър';
+$lang['Ispconfig.description'] = 'ISPConfig 3 е панел с отворен код за Linux, който може да управлява няколко сървъра от един контролен панел.';
+$lang['Ispconfig.name'] = 'ISPConfig';
+

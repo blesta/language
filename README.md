@@ -13,6 +13,7 @@ To install these languages, follow the steps:
 | Language Name  | Language Code |
 | ------------- | ------------- |
 | العربية, XA  | ar_xa  |
+| български, BG | bg_bg |
 | Dansk, DK  | da_dk  |
 | Deutsch, DE | de_de |
 | Español, ES  | es_es  |
