@@ -10,5 +10,5 @@
  */
 
 $lang['Discount.description.coupon.amount'] = 'Kupon %1$s';
-$lang['Discount.description.coupon.percent'] = 'Kupon %1$s (%2$s%)';
+$lang['Discount.description.coupon.percent'] = 'Kupon %1$s (%2$s%%)';
 

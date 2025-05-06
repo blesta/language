@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Tax.description.tax'] = '%1$s (%2$s%)';
+$lang['Tax.description.tax'] = '%1$s (%2$s%%)';
 
