@@ -3,6 +3,7 @@
     "description": "AI translations for the Blesta billing software",
     "keywords": ["billing", "language"],
     "homepage": "http://github.com/blesta/language",
+    "type": "blesta-language",
     "authors": [
         {
             "name": "Phillips Data, Inc.",
