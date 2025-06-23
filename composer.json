@@ -9,5 +9,8 @@
             "name": "Phillips Data, Inc.",
             "homepage": "http://blesta.com/"
         }
-    ]
+    ],
+    "require": {
+        "blesta/composer-installer": "~1.2"
+    }
 }
