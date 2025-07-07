@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Prioridades disponíveis';
 $lang['AdminDepartments.add.field_force_import'] = 'Forçar importação';
 $lang['AdminDepartments.edit.field_force_import'] = 'Forçar importação';
 $lang['AdminDepartments.!success.department_imported'] = 'O departamento %1$s foi importado com sucesso.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Somente um campo pode ser definido como emergência por vez.';
+$lang['AdminDepartments.edit.heading_required'] = 'Necessário';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Habilitar serviços relacionados';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Somente um campo pode ser definido como emergência por vez.';
+$lang['AdminDepartments.add.heading_required'] = 'Necessário';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Habilitar serviços relacionados';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalar para emergência" mostra uma caixa de alerta com uma mensagem e uma caixa de seleção. Se o usuário marcar a caixa de seleção, o tíquete será automaticamente escalado para "Emergência", mesmo que essa prioridade esteja desativada para o departamento. Disponível somente quando a Visibilidade estiver definida como Somente cliente.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permitir que os clientes selecionem um serviço ao qual o tíquete está relacionado.';
 

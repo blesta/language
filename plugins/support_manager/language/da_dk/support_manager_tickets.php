@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Vælg venligst en gyldig
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Mindst én af billetkontakterne er ugyldig.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindst én af billetmodtagerne er ugyldig.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindst én af billetmodtagerne er dubleret.';
+$lang['SupportManagerTickets.log.service_id'] = 'Den relaterede tjeneste er blevet ændret til internt ID: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" er påkrævet og må ikke være tomt.';
 

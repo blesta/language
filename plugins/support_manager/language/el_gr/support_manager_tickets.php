@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Παρακαλούμε �
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Τουλάχιστον μία από τις επαφές του εισιτηρίου είναι άκυρη.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Τουλάχιστον ένας από τους παραλήπτες του εισιτηρίου είναι άκυρος.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Τουλάχιστον ένας από τους παραλήπτες του εισιτηρίου είναι διπλός.';
+$lang['SupportManagerTickets.log.service_id'] = 'Η σχετική υπηρεσία έχει αλλάξει σε εσωτερικό αναγνωριστικό: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = 'Το "%1$s" είναι υποχρεωτικό και δεν μπορεί να είναι κενό.';
 

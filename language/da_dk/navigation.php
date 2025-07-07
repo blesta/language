@@ -124,4 +124,5 @@ $lang['Navigation.getsearchoptions.packages'] = 'Pakkesøgning';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Sort liste';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-skabeloner';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service-kø';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Ændringer i service';
 

@@ -75,4 +75,8 @@ $lang['ClientTickets.index.minutes'] = '%1$s dakika';
 $lang['ClientTickets.!success.ticket_closed'] = 'Bilet #%1$s başarıyla kapatıldı.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Bilet #%1$s başarıyla güncellendi.';
 $lang['ClientTickets.reply.reply_date'] = '%1$s adresinde %2$s %3$s yanıtladı';
+$lang['ClientTickets.reply.text_service_none'] = 'Hiçbiri';
+$lang['ClientTickets.reply.heading_service_id'] = 'İlgili Servis';
+$lang['ClientTickets.add.none'] = 'Hiçbiri';
+$lang['ClientTickets.add.field_service_id'] = 'İlgili Servis';
 

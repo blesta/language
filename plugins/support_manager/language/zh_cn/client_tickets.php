@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = '没有提供支持的部门。'
 $lang['ClientTickets.!success.ticket_closed'] = '票单 #%1$s 已成功关闭。';
 $lang['ClientTickets.!success.ticket_updated'] = '已成功更新票单 #%1$s。';
 $lang['ClientTickets.!success.ticket_created'] = '已成功创建票据 #%1$s。';
+$lang['ClientTickets.reply.text_service_none'] = '无';
+$lang['ClientTickets.reply.heading_service_id'] = '相关服务';
+$lang['ClientTickets.add.none'] = '无';
+$lang['ClientTickets.add.field_service_id'] = '相关服务';
 

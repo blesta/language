@@ -64,4 +64,6 @@ $lang['Services.getActions.cancel'] = 'Annuller';
 $lang['Services.getActions.schedule_cancel'] = 'Aflysning af tidsplan';
 $lang['Services.getActions.change_renew'] = 'Ændring af fornyelsesdato';
 $lang['Services.getActions.update_coupon'] = 'Opdater kupon';
+$lang['Services.getActions.uncancel'] = 'Genaktiver';
+$lang['Services.!error.uncancel.unsupported'] = 'Denne service kan ikke afbestilles, da modulet ikke understøtter det.';
 

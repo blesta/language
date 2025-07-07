@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Der ausgewählte Begriff für die 
 $lang['Config.!error.domain_duplicated'] = 'Die Domain "%1$s" befindet sich bereits in Ihrem Warenkorb.';
 $lang['Config.!error.invalid_module'] = 'Das Paket ist derzeit nicht verfügbar.';
 $lang['Config.!error.invalid_pricing_id'] = 'Das angegebene Paket wurde nicht gefunden.';
+$lang['Config.!error.invalid_value_option'] = 'Für %1$s muss ein Wert ausgewählt werden.';
+$lang['Config.!error.invalid_quantity_option'] = 'Der Wert der Option "%1$s" muss zwischen %2$s und %3$s liegen.';
 

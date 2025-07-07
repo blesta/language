@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Kontakter som inte valts kommer autom
 $lang['AdminTickets.add.text_add_recipient'] = 'Lägg till mottagare';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontaktpersoner';
 $lang['AdminTickets.add.heading_recipients'] = 'Mottagare';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Ytterligare mottagare';
+$lang['AdminTickets.reply.text_service_none'] = 'Ingen';
+$lang['AdminTickets.reply.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_service_none'] = 'Ingen';
+$lang['AdminTickets.add.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_no_contacts'] = 'Inga ytterligare kontakter tillgängliga för den valda kunden.';
+$lang['AdminTickets.!tooltip.recipients'] = 'E-postadress för att bli meddelad när en biljett uppdateras.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontakter som ska meddelas när ett ärende uppdateras. De som inte har valts läggs automatiskt till i ärendet om de svarar på det.';
 

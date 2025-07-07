@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = '联系人姓名';
 $lang['Namesilo.tab_manage_contacts.title'] = '管理联系人';
 $lang['Namesilo.tab_whois.section_technical'] = '技术';
 $lang['Namesilo.tab_whois.section_administrative'] = '行政管理';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = '联系 ID';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = '从 namesilo 拉入联系人，并将他们与 blesta 客户联系起来。';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = '拉动 Namesilo 联系人';
 

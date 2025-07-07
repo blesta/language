@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Criar nova mala direta';
 $lang['AdminMain.index.boxtitle'] = 'Empregos no setor de mala direta';
 $lang['AdminMain.index.page_title'] = 'Correio eletrônico em massa';
 $lang['AdminMain.!error.export_found'] = 'A exportação não pôde ser encontrada no sistema de arquivos.';
+$lang['AdminMain.settings.submit_cancel'] = 'Cancelar';
+$lang['AdminMain.settings.submit_settings'] = 'Salvar configurações';
+$lang['AdminMain.settings.form.rate_limit'] = 'Limite de taxa';
+$lang['AdminMain.settings.heading'] = 'Configurações';
+$lang['AdminMain.settings.boxtitle'] = 'Configurações de correio eletrônico em massa';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Limita a quantidade de e-mails enviados por cada execução da tarefa cron. Na próxima execução, ela continuará de onde parou e enviará o próximo lote de e-mails, e assim por diante, até que todos os e-mails sejam enviados. 0 para nenhum limite.';
+$lang['AdminMain.!success.options_updated'] = 'As configurações do Mass Mailer foram atualizadas com sucesso!';
 

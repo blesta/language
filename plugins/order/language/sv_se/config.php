@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Den valda termen för domänen "%1
 $lang['Config.!error.domain_duplicated'] = 'Domänen "%1$s" finns redan i din varukorg.';
 $lang['Config.!error.invalid_module'] = 'Paketet är för närvarande inte tillgängligt.';
 $lang['Config.!error.invalid_pricing_id'] = 'Det angivna paketet hittades inte.';
+$lang['Config.!error.invalid_value_option'] = 'Ett värde måste väljas för %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Alternativvärdet "%1$s" måste ligga mellan %2$s och %3$s.';
 

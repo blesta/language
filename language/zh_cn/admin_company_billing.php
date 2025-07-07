@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = '服
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = '在按第二次尝试间隔设置指定的数量延迟下一次尝试之前尝试的服务操作次数';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = '在按首次尝试间隔设置指定的数量延迟下一次尝试之前尝试的服务操作次数';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = '在禁用自动完成服务操作之前，尝试处理服务操作的次数和失败次数。';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = '只允许立即取消';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = '只允许在学期末取消';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = '允许立即或在学期末取消';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = '客户取消选项';
 

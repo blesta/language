@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Wybierz prawidłowy prio
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Co najmniej jeden z kontaktów biletu jest nieprawidłowy.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Co najmniej jeden z odbiorców biletu jest nieważny.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Co najmniej jeden z odbiorców biletów jest zduplikowany.';
+$lang['SupportManagerTickets.log.service_id'] = 'Powiązana usługa została zmieniona na identyfikator wewnętrzny: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" jest wymagane i nie może być puste.';
 

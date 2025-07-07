@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Следующие ДВУ не 
 $lang['AdminDomains.!success.delete'] = 'TLD были успешно удалены!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Дата регистрации домена была обновлена!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Дата истечения срока действия домена была обновлена!';
+$lang['AdminDomains.tlds.field_currency'] = 'Валюта';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Домен был передан регистратору.';
 

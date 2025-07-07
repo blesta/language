@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginPlugin.name'] = 'Inicio de sesión compartido';
 $lang['SharedLoginPlugin.description'] = 'Permite el inicio de sesión a través de una URL especialmente diseñada.';
+$lang['SharedLoginPlugin.name'] = 'Inicio de sesión compartido';
 

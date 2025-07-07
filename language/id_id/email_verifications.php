@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Bidang yang diverifikasi ha
 $lang['EmailVerifications.!error.token.format'] = 'Masukkan token yang valid.';
 $lang['EmailVerifications.!error.email.valid'] = 'Masukkan alamat email yang valid.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Id kontak tidak valid.';
+$lang['EmailVerifications.!error.client.valid'] = 'Alamat email Anda tidak dapat diverifikasi karena akun Anda tidak aktif.';
 

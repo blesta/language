@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Er zijn geen ondersteunende afd
 $lang['ClientTickets.!success.ticket_closed'] = 'Het ticket #%1$s is succesvol gesloten.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Het ticket #%1$s is succesvol bijgewerkt.';
 $lang['ClientTickets.!success.ticket_created'] = 'Het ticket #%1$s is succesvol aangemaakt.';
+$lang['ClientTickets.reply.text_service_none'] = 'Geen';
+$lang['ClientTickets.reply.heading_service_id'] = 'Verwante service';
+$lang['ClientTickets.add.none'] = 'Geen';
+$lang['ClientTickets.add.field_service_id'] = 'Verwante service';
 

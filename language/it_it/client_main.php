@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Il vostro metodo di fat
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Metodo di fatturazione';
 $lang['ClientMain.invoicemethod.page_title'] = 'Cliente #%1$s Metodo di fatturazione';
 $lang['ClientMain.edit.field_editsubmit'] = 'Aggiornare le mie informazioni';
-$lang['ClientMain.edit.field_otp'] = 'Password unica';
+$lang['ClientMain.edit.field_otp'] = 'One Time Password (come indicato nell\'Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Finestre';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Effettuare il pagamento';
 $lang['ClientMain.!info.invoice_due_title'] = 'Bentornato, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Il metodo di fatturazione è stato aggiornato con successo. Tutte le future fatture le saranno recapitate tramite %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Le informazioni sul vostro conto sono state aggiornate con successo.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Richiesto per abilitare l\'Autenticazione a due fattori o aggiornare la password.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autenticazione a due fattori';
 

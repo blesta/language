@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = '取消悬挂';
 $lang['AdminBilling.services.action.suspend'] = '暂停';
 $lang['AdminBilling.!success.services_unsuspended'] = '所选服务已成功解除暂停。';
 $lang['AdminBilling.!success.services_suspended'] = '所选服务已成功暂停。';
+$lang['AdminBilling.services.text_pending_service_changes'] = '这项服务有待更改。';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = '支付日期%1$s';
 

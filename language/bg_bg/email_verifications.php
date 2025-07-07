@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Полето за пров�
 $lang['EmailVerifications.!error.token.format'] = 'Моля, въведете валиден токен.';
 $lang['EmailVerifications.!error.email.valid'] = 'Моля, въведете валиден имейл адрес.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Невалиден идентификатор на контакт.';
+$lang['EmailVerifications.!error.client.valid'] = 'Имейл адресът ви не може да бъде проверен, защото акаунтът ви не е активен.';
 

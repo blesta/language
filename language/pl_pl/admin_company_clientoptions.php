@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Bramka
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Włącz';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Włącz ograniczenia bramy';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Ograniczenie bram, z których mogą korzystać klienci. Domyślnie ograniczenia bram są wyłączone i wszystkie bramy są dostępne.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grupa klientów';
 

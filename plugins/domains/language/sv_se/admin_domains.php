@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Följande toppdomäner kunde in
 $lang['AdminDomains.!success.delete'] = 'TLD:n har raderats framgångsrikt!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Registreringsdatumet för domänen har uppdaterats!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Domänens utgångsdatum har uppdaterats!';
+$lang['AdminDomains.tlds.field_currency'] = 'Valuta';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Domänen har flyttats bort från registraren.';
 

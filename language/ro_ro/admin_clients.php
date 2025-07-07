@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Suspendați';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Data anulării';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Data suspendării';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Data ultimei reînnoiri';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Acest serviciu are modificări în așteptare.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Data plății prin';
+$lang['AdminClients.editservice.field_status'] = 'Statut';
+$lang['AdminClients.editservice.field_term'] = 'Termen';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Nu facturați';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Atașați la factură';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Crearea facturii';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Metoda de facturare';
+$lang['AdminClients.editservice.text_uncancel'] = 'Sunteți pe cale să reactivați un serviciu anulat. Dacă "Utilizați modulul" nu este bifat, serviciul va fi reactivat numai în Blesta. Rețineți că reactivarea prin modul poate fi problematică și poate să nu fie acceptată de toate modulele. Reactivarea unui serviciu anulat nu anulează acțiunea de anulare efectuată prin API-ul modulului.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Data plății prin:';
+$lang['AdminClients.invoices.option_copy'] = 'Copiați';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Data plății prin: %1$s';
 

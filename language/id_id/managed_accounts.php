@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID undangan tidak valid.
 $lang['ManagedAccounts.!error.email.invitation'] = 'Undangan telah dikirim ke akun ini.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'ID klien tidak valid.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Tidak ada akun yang ditetapkan ke alamat email yang diberikan.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Undangan tidak dapat dikirim. Pastikan alamat email sudah benar atau minta pengguna untuk mendaftar terlebih dahulu.';
 

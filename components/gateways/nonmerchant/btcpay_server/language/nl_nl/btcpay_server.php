@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Selecteer een geldige tr
 $lang['BtcpayServer.!error.server_url.valid'] = 'Server URL ongeldig.';
 $lang['BtcpayServer.description'] = 'BTCPayServer is een zelf gehoste Bitcoin betalingsgateway zonder kosten.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Forceer winkel standaard zoals geconfigureerd in BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Laat de klant de betalingsmethode kiezen.';
+$lang['BtcpayServer.meta.payment_method'] = 'Betaalmethode';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Selecteer een geldige betalingsmethode.';
 

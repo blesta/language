@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Următoarele TLD-uri nu au putu
 $lang['AdminDomains.!success.delete'] = 'TLD au fost șterse cu succes!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Data înregistrării domeniului a fost actualizată!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Data de expirare a domeniului a fost actualizată!';
+$lang['AdminDomains.tlds.field_currency'] = 'Valută';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Domeniul a fost transferat de la registrator.';
 

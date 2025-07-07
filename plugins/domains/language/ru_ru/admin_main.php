@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Изменить дату р�
 $lang['AdminMain.edit.field_expiration_date'] = 'Изменить дату истечения срока действия';
 $lang['AdminMain.!success.change_registration_date'] = 'Дата регистрации домена была обновлена!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Дата истечения срока действия домена была обновлена!';
+$lang['AdminMain.add.text_refresh'] = 'Обновить';
+$lang['AdminMain.index.tooltip_transferred'] = 'Домен был передан регистратору.';
 

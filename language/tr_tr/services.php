@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Şifrelenmiş için geçersiz biçi
 $lang['Services.!error.value.empty'] = 'Hizmet alanı değeri boş olmamalıdır.';
 $lang['Services.!error.key.length'] = 'Hizmet alanı anahtarı 32 karakteri geçmemelidir.';
 $lang['Services.!error.key.empty'] = 'Servis alanı anahtarı boş olmamalıdır.';
+$lang['Services.getActions.uncancel'] = 'Yeniden etkinleştir';
+$lang['Services.!error.uncancel.unsupported'] = 'Modül desteklemediği için bu hizmet iptal edilemez.';
 

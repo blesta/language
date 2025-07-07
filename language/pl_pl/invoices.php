@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Wszystkie faktury muszą być otw
 $lang['Invoices.!error.invoice_ids.currency'] = 'Wszystkie faktury muszą mieć tę samą walutę.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Należy wybrać co najmniej dwie faktury.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Usługi jednorazowe nie mogą zostać odnowione.';
 

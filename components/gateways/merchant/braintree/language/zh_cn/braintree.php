@@ -21,6 +21,6 @@ $lang['Braintree.!error.merchant_id'] = '请输入您的商家 ID。';
 $lang['Braintree.!error.live_mode.valid'] = '如果给定了实时模式，则必须将其设置为 "true"。';
 $lang['Braintree.environment.production'] = '生产';
 $lang['Braintree.environment.sandbox'] = '沙盒';
-$lang['Braintree.description'] = '全球超过 45 个国家/地区的商户可使用 Braintree 接受、拆分和启用 130 多种货币付款';
+$lang['Braintree.description'] = '要求 PHP &gt;= 7.3。全球超过 45 个国家/地区的商户可使用 Braintree 接受、拆分和启用 130 多种货币付款';
 $lang['Braintree.name'] = 'Braintree';
 

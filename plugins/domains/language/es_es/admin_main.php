@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Cambiar la fecha de registro'
 $lang['AdminMain.edit.field_expiration_date'] = 'Modificar la fecha de expiración';
 $lang['AdminMain.!success.change_registration_date'] = 'Se ha actualizado la fecha de registro del dominio.';
 $lang['AdminMain.!success.change_expiration_date'] = 'Se ha actualizado la fecha de expiración del dominio.';
+$lang['AdminMain.add.text_refresh'] = 'Actualizar';
+$lang['AdminMain.index.tooltip_transferred'] = 'El dominio ha sido transferido del registrador.';
 

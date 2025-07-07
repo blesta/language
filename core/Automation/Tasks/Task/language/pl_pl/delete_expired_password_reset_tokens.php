@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Próba usunięcia wygasłych tokenów resetowania hasła.';
 $lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Zadanie usuwania wygasłych tokenów resetowania hasła zostało zakończone.';
+$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Próba usunięcia wygasłych tokenów resetowania hasła.';
 

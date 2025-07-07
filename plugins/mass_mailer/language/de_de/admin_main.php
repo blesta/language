@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Neues Mailing erstellen';
 $lang['AdminMain.index.boxtitle'] = 'Massenversender Jobs';
 $lang['AdminMain.index.page_title'] = 'Massenversender';
 $lang['AdminMain.!error.export_found'] = 'Der Export konnte im Dateisystem nicht gefunden werden.';
+$lang['AdminMain.settings.form.rate_limit'] = 'Satzgrenze';
+$lang['AdminMain.settings.submit_cancel'] = 'Abbrechen';
+$lang['AdminMain.settings.submit_settings'] = 'Einstellungen speichern';
+$lang['AdminMain.settings.heading'] = 'Einstellungen';
+$lang['AdminMain.settings.boxtitle'] = 'Einstellungen des Massenversenders';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Begrenzt die Anzahl der pro Cron-Task-Ausführung gesendeten E-Mails. Bei der nächsten Ausführung wird die Aufgabe an der Stelle fortgesetzt, an der sie aufgehört hat, und der nächste Stapel von E-Mails wird versendet usw., bis alle E-Mails versendet wurden. 0 für keine Begrenzung.';
+$lang['AdminMain.!success.options_updated'] = 'Die Einstellungen des Mass Mailers wurden erfolgreich aktualisiert!';
 

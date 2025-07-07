@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Não suspender';
 $lang['AdminBilling.services.action.suspend'] = 'Suspender';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Os serviços selecionados foram suspensos com sucesso.';
 $lang['AdminBilling.!success.services_suspended'] = 'Os serviços selecionados foram suspensos com sucesso.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Esse serviço tem alterações pendentes.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Data do pagamento: %1$s';
 

@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Metode faktur Anda adal
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Metode Faktur';
 $lang['ClientMain.invoicemethod.page_title'] = 'Metode Faktur Klien #%1$s';
 $lang['ClientMain.edit.field_editsubmit'] = 'Perbarui Informasi Saya';
-$lang['ClientMain.edit.field_otp'] = 'Kata Sandi Sekali Pakai';
+$lang['ClientMain.edit.field_otp'] = 'Kata Sandi Sekali Pakai (Seperti yang ditunjukkan di Autentikator Anda)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Lakukan Pembayaran';
 $lang['ClientMain.!info.invoice_due_title'] = 'Selamat datang kembali, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Metode faktur Anda telah berhasil diperbarui. Semua faktur yang akan datang akan dikirimkan kepada Anda melalui %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Informasi akun Anda telah berhasil diperbarui.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Diperlukan untuk mengaktifkan Autentikasi Dua Faktor atau memperbarui kata sandi.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Otentikasi Dua Faktor';
 

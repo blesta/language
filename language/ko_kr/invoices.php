@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = '모든 인보이스는 열려 있
 $lang['Invoices.!error.invoice_ids.currency'] = '모든 인보이스의 통화는 동일해야 합니다.';
 $lang['Invoices.!error.invoice_ids.count'] = '인보이스를 2개 이상 선택해야 합니다.';
 $lang['Invoices.!line_item.parent_description'] = '%1$s - %2$s 의 아동 서비스 :';
+$lang['Invoices.!error.service.renew_onetime'] = '일회성 서비스는 갱신할 수 없습니다.';
 

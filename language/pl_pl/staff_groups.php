@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Dodaj s
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Szablony HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Usługa zaawansowanej edycji';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Kolejka usług';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Zmiany w usługach';
 

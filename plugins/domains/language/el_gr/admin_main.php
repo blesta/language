@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Αλλαγή ημερομην
 $lang['AdminMain.edit.field_expiration_date'] = 'Αλλαγή Ημερομηνία λήξης';
 $lang['AdminMain.!success.change_registration_date'] = 'Η ημερομηνία καταχώρισης του τομέα έχει ενημερωθεί!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Η ημερομηνία λήξης του τομέα έχει ενημερωθεί!';
+$lang['AdminMain.add.text_refresh'] = 'Ανανέωση';
+$lang['AdminMain.index.tooltip_transferred'] = 'Ο τομέας έχει μεταφερθεί από τον καταχωρητή.';
 

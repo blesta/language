@@ -21,6 +21,6 @@ $lang['Braintree.live_mode'] = '라이브 모드';
 $lang['Braintree.private_key'] = '개인 키';
 $lang['Braintree.public_key'] = '공개 키';
 $lang['Braintree.merchant_id'] = '판매자 ID';
-$lang['Braintree.description'] = '전 세계 45개 이상의 국가/지역에 있는 판매자는 Braintree를 사용하여 130개 이상의 통화로 결제를 수락, 분할 및 활성화할 수 있습니다.';
+$lang['Braintree.description'] = 'PHP &gt;= 7.3이 필요합니다. 전 세계 45개 이상의 국가/지역에 있는 판매자는 Braintree를 사용하여 130개 이상의 통화로 결제를 수락, 분할 및 활성화할 수 있습니다.';
 $lang['Braintree.name'] = 'Braintree';
 

@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Odpojení';
 $lang['AdminClients.services.action.suspend'] = 'Pozastavit';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Datum zrušení';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Datum pozastavení';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Tato služba čeká na změny.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Datum proplacení';
+$lang['AdminClients.editservice.field_status'] = 'Stav';
+$lang['AdminClients.editservice.field_term'] = 'Termín';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Nefakturovat';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Připojit k faktuře';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Vytvořit fakturu';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Způsob fakturace';
+$lang['AdminClients.editservice.text_uncancel'] = 'Chystáte se znovu aktivovat zrušenou službu. Pokud není zaškrtnuto políčko "Použít modul", bude služba znovu aktivována pouze v aplikaci Blesta. Upozorňujeme, že reaktivace prostřednictvím modulu může být problematická a nemusí být podporována všemi moduly. Opětovná aktivace zrušené služby nevrátí zpět akci zrušení provedenou prostřednictvím rozhraní API modulu.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Datum proplacení:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopírovat';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Datum proplacení: %1$s';
 

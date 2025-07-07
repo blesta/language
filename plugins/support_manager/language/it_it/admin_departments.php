@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Priorità disponibili';
 $lang['AdminDepartments.edit.field_force_import'] = 'Importazione di forza';
 $lang['AdminDepartments.add.field_force_import'] = 'Importazione di forza';
 $lang['AdminDepartments.!success.department_imported'] = 'Il reparto %1$s è stato importato con successo.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Solo un campo alla volta può essere impostato su emergenza.';
+$lang['AdminDepartments.edit.heading_required'] = 'Richiesto';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Attivare i servizi correlati';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Solo un campo alla volta può essere impostato su emergenza.';
+$lang['AdminDepartments.add.heading_required'] = 'Richiesto';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Attivare i servizi correlati';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" mostra una casella di avviso con un messaggio e una casella di controllo. Se l\'utente seleziona la casella di controllo, il ticket viene automaticamente assegnato a "Emergenza", anche se questa priorità è disattivata per il reparto. Disponibile solo quando la Visibilità è impostata su Solo cliente.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Consentire ai clienti di selezionare un servizio a cui il ticket è collegato.';
 

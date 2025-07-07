@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = '请选择有效的交易
 $lang['BtcpayServer.!error.server_url.valid'] = '服务器 URL 无效。';
 $lang['BtcpayServer.description'] = 'BTCPayServer 是一个自托管的比特币支付网关，不收取任何费用。';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = '强制设置 BTCPay 服务器中配置的存储默认值。';
+$lang['BtcpayServer.meta.payment_method_client'] = '允许客户选择付款方式。';
+$lang['BtcpayServer.meta.payment_method'] = '付款方式';
+$lang['BtcpayServer.!error.payment_method.valid'] = '请选择有效的付款方式。';
 

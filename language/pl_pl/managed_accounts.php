@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'Nieprawidłowy identyfik
 $lang['ManagedAccounts.!error.email.invitation'] = 'Zaproszenie zostało już wysłane na to konto.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Nieprawidłowy identyfikator klienta.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Do podanego adresu e-mail nie jest przypisane żadne konto.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Nie można wysłać zaproszenia. Upewnij się, że adres e-mail jest poprawny lub poproś użytkownika o zarejestrowanie się.';
 

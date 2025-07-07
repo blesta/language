@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Il campo verificato deve es
 $lang['EmailVerifications.!error.token.format'] = 'Inserire un token valido.';
 $lang['EmailVerifications.!error.email.valid'] = 'Inserire un indirizzo e-mail valido.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'ID contatto non valido.';
+$lang['EmailVerifications.!error.client.valid'] = 'Non è stato possibile verificare il vostro indirizzo e-mail perché il vostro account non è attivo.';
 

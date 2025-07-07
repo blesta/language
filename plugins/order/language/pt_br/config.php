@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'O termo selecionado para o domíni
 $lang['Config.!error.domain_duplicated'] = 'O domínio "%1$s" já está em seu carrinho.';
 $lang['Config.!error.invalid_module'] = 'O pacote não está disponível no momento.';
 $lang['Config.!error.invalid_pricing_id'] = 'O pacote fornecido não foi encontrado.';
+$lang['Config.!error.invalid_value_option'] = 'Um valor deve ser selecionado para %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'O valor da opção "%1$s" deve estar entre %2$s e %3$s.';
 

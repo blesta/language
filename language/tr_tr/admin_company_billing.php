@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Hiz
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Bir sonraki denemeyi ikinci deneme aralığı ayarı tarafından belirtilen miktarda geciktirmeden önce denenecek hizmet eylemlerinin sayısı';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Bir sonraki denemeyi ilk deneme aralığı ayarı tarafından belirtilen miktarda geciktirmeden önce denenecek hizmet eylemlerinin sayısı';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Bir hizmet eyleminin otomatik olarak tamamlanması devre dışı bırakılmadan önce bu hizmet eylemi için gerçekleştirilecek deneme ve başarısızlık sayısı.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Yalnızca anında iptale izin verin';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Yalnızca dönem sonu iptaline izin ver';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Anında veya dönem sonunda iptale izin verin';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Müşteri İptal Seçenekleri';
 

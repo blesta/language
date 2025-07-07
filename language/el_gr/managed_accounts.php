@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'Μη έγκυρο ανα
 $lang['ManagedAccounts.!error.email.invitation'] = 'Μια πρόσκληση έχει ήδη σταλεί σε αυτόν τον λογαριασμό.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Μη έγκυρο αναγνωριστικό πελάτη.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Δεν υπάρχει λογαριασμός που να έχει αντιστοιχιστεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου που δηλώσατε.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Δεν κατέστη δυνατή η αποστολή πρόσκλησης. Βεβαιωθείτε ότι η διεύθυνση ηλεκτρονικού ταχυδρομείου είναι σωστή ή ζητήστε από τον χρήστη να εγγραφεί πρώτα.';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Ειδοποίηση που αποστέλλεται πριν από 30 ημέρες από την ημερομηνία λήξης του πιστοποιητικού.';
 $lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_name'] = 'Υπενθύμιση λήξης πιστοποιητικού SSL';
+$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Ειδοποίηση που αποστέλλεται πριν από 30 ημέρες από την ημερομηνία λήξης του πιστοποιητικού.';
 

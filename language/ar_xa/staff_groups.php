@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'إضا�
 $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'تحرير قالب HTML';
 $lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'حذف قالب HTML';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'قائمة انتظار الخدمة';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'تغييرات الخدمة';
 

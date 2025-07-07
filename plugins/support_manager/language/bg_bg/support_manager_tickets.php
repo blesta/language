@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Контактът, �
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Невалиден идентификационен номер на служителя.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Моля, изберете валиден отдел.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Кодът на билета трябва да съдържа само цифри.';
+$lang['SupportManagerTickets.log.service_id'] = 'Свързаната услуга е променена на вътрешен идентификатор: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" е задължителен и не може да бъде празен.';
 

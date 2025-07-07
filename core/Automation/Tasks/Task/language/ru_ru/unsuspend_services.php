@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.unsuspendservices.attempt'] = 'Попытка отменить приостановленные платные услуги.';
-$lang['Automation.task.unsuspendservices.completed'] = 'Задание по отмене приостановки служб завершено.';
-$lang['Automation.task.unsuspendservices.error'] = 'Услуга #%1$s от клиента %2$s не может быть приостановлена.';
 $lang['Automation.task.unsuspendservices.success'] = 'Услуга #%1$s от клиента %2$s была приостановлена.';
+$lang['Automation.task.unsuspendservices.error'] = 'Услуга #%1$s от клиента %2$s не может быть приостановлена.';
+$lang['Automation.task.unsuspendservices.completed'] = 'Задание по отмене приостановки служб завершено.';
+$lang['Automation.task.unsuspendservices.attempt'] = 'Попытка отменить приостановленные платные услуги.';
 

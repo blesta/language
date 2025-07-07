@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.store_id.valid'] = 'ID da loja inválido.';
 $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Selecione uma velocidade de transação válida.';
 $lang['BtcpayServer.!error.server_url.valid'] = 'URL do servidor inválido.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Forçar o padrão da loja conforme configurado no servidor BTCPay.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Permitir que o cliente escolha o método de pagamento.';
+$lang['BtcpayServer.meta.payment_method'] = 'Método de pagamento';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Selecione um método de pagamento válido.';
 

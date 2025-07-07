@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Indeks zamówienia musi być wartości
 $lang['Navigation.!error.action_id.valid'] = 'Nieprawidłowy identyfikator akcji';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Szablony HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Kolejka usług';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Zmiany w usługach';
 

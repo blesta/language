@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Сервери';
 $lang['Cpanel.module_row'] = 'Сервер';
 $lang['Cpanel.description'] = 'cPanel та WHM вже понад 20 років є провідними платформами для веб-хостингу. Їй довіряють технологічні партнери по всьому світу: Wordpress, CloudLinux, Lighstpeed та інші.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Увійдіть в систему';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Пароль';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Ім\'я користувача';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Увійдіть до cPanel';
+$lang['Cpanel.tab_client_login'] = 'Увійдіть до cPanel';
 

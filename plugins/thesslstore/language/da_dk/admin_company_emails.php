@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Meddelelse sendt inden 30 dage efter certifikatets udløbsdato.';
 $lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_name'] = 'Påmindelse om udløb af SSL-certifikat';
+$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Meddelelse sendt inden 30 dage efter certifikatets udløbsdato.';
 

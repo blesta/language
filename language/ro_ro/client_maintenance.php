@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.maintenance_heading'] = 'Modul de întreținere';
 $lang['ClientMaintenance.index.page_title'] = 'Întreținere';
+$lang['ClientMaintenance.index.maintenance_heading'] = 'Modul de întreținere';
 

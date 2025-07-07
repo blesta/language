@@ -149,4 +149,12 @@ $lang['AdminDepartments.!success.department_created'] = 'Отделът %1$s е 
 $lang['AdminDepartments.!success.department_imported'] = 'Отделът %1$s беше успешно импортиран.';
 $lang['AdminDepartments.add.field_force_import'] = 'Внос на сила';
 $lang['AdminDepartments.edit.field_force_import'] = 'Внос на сила';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Само едно поле може да бъде зададено като аварийно в даден момент.';
+$lang['AdminDepartments.edit.heading_required'] = 'Изисква се';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Активиране на свързани услуги';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Само едно поле може да бъде зададено като аварийно в даден момент.';
+$lang['AdminDepartments.add.heading_required'] = 'Изисква се';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Активиране на свързани услуги';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" (Ескалиране до спешен случай) показва предупредително поле със съобщение и поле за отметка. Ако потребителят постави отметка в квадратчето, билетът автоматично се ескалира до "Спешна помощ", дори ако този приоритет е изключен за отдела. Налична е само когато видимостта е настроена на Само за клиенти.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Позволете на клиентите да изберат услугата, с която е свързан билетът.';
 

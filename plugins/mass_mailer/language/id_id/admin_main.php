@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Membuat Surat Baru';
 $lang['AdminMain.index.boxtitle'] = 'Pekerjaan Pengiriman Surat Massal';
 $lang['AdminMain.index.page_title'] = 'Mass Mailer';
 $lang['AdminMain.!error.export_found'] = 'Ekspor tidak dapat ditemukan pada sistem file.';
+$lang['AdminMain.settings.submit_cancel'] = 'Batal';
+$lang['AdminMain.settings.submit_settings'] = 'Menyimpan Pengaturan';
+$lang['AdminMain.settings.form.rate_limit'] = 'Batas Tarif';
+$lang['AdminMain.settings.heading'] = 'Pengaturan';
+$lang['AdminMain.settings.boxtitle'] = 'Pengaturan Surat Massal';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Membatasi jumlah email yang dikirim per eksekusi tugas cron. Pada eksekusi berikutnya, tugas ini akan melanjutkan dari titik terakhir dan mengirim email berikutnya, dan seterusnya hingga semua email terkirim. 0 untuk tidak ada batasan.';
+$lang['AdminMain.!success.options_updated'] = 'Pengaturan Mass Mailer berhasil diperbarui!';
 

@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Шлю
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Включить';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Включить ограничения шлюза';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Ограничение шлюзов, которые могут использовать клиенты. По умолчанию ограничения шлюзов отключены, и все шлюзы доступны.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Группа клиентов';
 

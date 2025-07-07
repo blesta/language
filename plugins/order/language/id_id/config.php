@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Istilah yang dipilih untuk domain 
 $lang['Config.!error.domain_duplicated'] = 'Domain "%1$s" sudah ada di keranjang Anda.';
 $lang['Config.!error.invalid_module'] = 'Paket ini saat ini tidak tersedia.';
 $lang['Config.!error.invalid_pricing_id'] = 'Paket yang diberikan tidak ditemukan.';
+$lang['Config.!error.invalid_value_option'] = 'Nilai harus dipilih untuk %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Nilai opsi "%1$s" harus berada di antara %2$s dan %3$s.';
 

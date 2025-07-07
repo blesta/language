@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'İletişim Adı';
 $lang['Namesilo.tab_manage_contacts.title'] = 'Kişileri Yönet';
 $lang['Namesilo.tab_whois.section_technical'] = 'Teknik';
 $lang['Namesilo.tab_whois.section_administrative'] = 'İdari';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'İletişim Kimliği';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Kişileri namesilo\'dan çeker ve onları blesta müşterileriyle ilişkilendirir.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Namesilo Kişilerini Çekin';
 

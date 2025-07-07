@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Pr�
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Liczba akcji serwisowych do wykonania przed opóźnieniem następnej próby o wartość określoną przez ustawienie odstępu między drugimi próbami.';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Liczba akcji serwisowych do wykonania przed opóźnieniem następnej próby o wartość określoną przez ustawienie odstępu między pierwszymi próbami.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Liczba prób i niepowodzeń przetwarzania dla akcji usługi, zanim ta akcja usługi zostanie wyłączona z automatycznego zakończenia.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Zezwalaj tylko na natychmiastowe anulowanie';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Zezwalaj na anulowanie tylko do końca semestru';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Możliwość anulowania natychmiastowego lub na koniec semestru';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Opcje anulowania klienta';
 

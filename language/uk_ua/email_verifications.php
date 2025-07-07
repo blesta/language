@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'У перевіреному
 $lang['EmailVerifications.!error.token.format'] = 'Будь ласка, введіть дійсний токен.';
 $lang['EmailVerifications.!error.email.valid'] = 'Будь ласка, введіть дійсну адресу електронної пошти.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Неправильний ідентифікатор контакту.';
+$lang['EmailVerifications.!error.client.valid'] = 'Вашу адресу електронної пошти не вдалося перевірити, оскільки ваш обліковий запис не активний.';
 

@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Følgende TLD\'er kunne ikke sl
 $lang['AdminDomains.!success.delete'] = 'TLD\'et blev slettet med succes!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Datoen for domæneregistrering er blevet opdateret!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Domænets udløbsdato er blevet opdateret!';
+$lang['AdminDomains.tlds.field_currency'] = 'Valuta';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Domænet er blevet flyttet væk fra registratoren.';
 

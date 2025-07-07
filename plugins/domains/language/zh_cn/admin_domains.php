@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = '下列 TLD 因正在使用而�
 $lang['AdminDomains.!success.delete'] = 'TLD 已成功删除！';
 $lang['AdminDomains.!success.change_registration_date'] = '域名注册日期已更新！';
 $lang['AdminDomains.!success.change_expiration_date'] = '域名到期日期已更新！';
+$lang['AdminDomains.tlds.field_currency'] = '货币';
+$lang['AdminDomains.browse.tooltip_transferred'] = '域名已从注册商处转移。';
 

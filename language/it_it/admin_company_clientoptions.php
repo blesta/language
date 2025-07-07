@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Porta 
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Abilitazione';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Abilita le restrizioni del gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limita i gateway che i client possono utilizzare. Per impostazione predefinita, le restrizioni sui gateway sono disattivate e tutti i gateway sono disponibili.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Gruppo di clienti';
 

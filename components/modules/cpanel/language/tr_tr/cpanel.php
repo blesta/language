@@ -148,4 +148,9 @@ $lang['Cpanel.tab_stats.disk_value'] = '%1$s MB';
 $lang['Cpanel.tab_stats.bandwidth_value'] = '%1$s MB';
 $lang['Cpanel.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Kullanılabilir)';
 $lang['Cpanel.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Cpanel.tab_client_login.field_login'] = 'Giriş yap';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Şifre';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Kullanıcı Adı';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'cPanel\'de oturum açın';
+$lang['Cpanel.tab_client_login'] = 'cPanel\'de oturum açın';
 

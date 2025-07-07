@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Неправильний форма
 $lang['Services.!error.value.empty'] = 'Значення поля service не повинно бути порожнім.';
 $lang['Services.!error.key.length'] = 'Ключ службового поля не повинен перевищувати 32 символи.';
 $lang['Services.!error.key.empty'] = 'Ключ службового поля не повинен бути порожнім.';
+$lang['Services.getActions.uncancel'] = 'Реактивувати';
+$lang['Services.!error.uncancel.unsupported'] = 'Цю послугу не можна скасувати, оскільки модуль її не підтримує.';
 

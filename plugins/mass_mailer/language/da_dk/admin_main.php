@@ -28,4 +28,11 @@ $lang['AdminMain.index.email_subject'] = 'Emne';
 $lang['AdminMain.index.email_to_recipients'] = '%1$s Modtager(e)';
 $lang['AdminMain.index.no_export_details'] = 'Der er ingen detaljer tilgængelige om eksporten.';
 $lang['AdminMain.index.no_results'] = 'Der er i øjeblikket ingen mailing-jobs.';
+$lang['AdminMain.settings.submit_cancel'] = 'Annuller';
+$lang['AdminMain.settings.submit_settings'] = 'Gem indstillinger';
+$lang['AdminMain.settings.form.rate_limit'] = 'Prisgrænse';
+$lang['AdminMain.settings.heading'] = 'Indstillinger';
+$lang['AdminMain.settings.boxtitle'] = 'Indstillinger for massemailer';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Begrænser antallet af e-mails, der sendes pr. udførelse af en cron-opgave. Ved næste kørsel fortsætter den, hvor den slap, og sender den næste gruppe e-mails, og så videre, indtil alle e-mails er sendt. 0 for ingen grænse.';
+$lang['AdminMain.!success.options_updated'] = 'Massemailer-indstillingerne blev opdateret med succes!';
 

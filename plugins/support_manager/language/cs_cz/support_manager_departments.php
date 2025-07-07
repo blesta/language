@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Zadejte prosím název t
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Jedna nebo více priorit jsou neplatné.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vyberte alespoň jednu prioritu.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Pouze pro klienty';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalace do stavu nouze';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Zda vyžadovat vyplnění musí být nastaveno na 0 nebo 1.';
 

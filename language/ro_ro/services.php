@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Format nevalabil pentru criptat.';
 $lang['Services.!error.value.empty'] = 'Valoarea câmpului "Service" nu trebuie să fie goală.';
 $lang['Services.!error.key.length'] = 'Cheia câmpului de servicii nu trebuie să depășească 32 de caractere.';
 $lang['Services.!error.key.empty'] = 'Cheia câmpului de serviciu nu trebuie să fie goală.';
+$lang['Services.getActions.uncancel'] = 'Reactivați';
+$lang['Services.!error.uncancel.unsupported'] = 'Acest serviciu nu poate fi anulat, deoarece modulul nu îl acceptă.';
 

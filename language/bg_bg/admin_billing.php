@@ -180,4 +180,6 @@ $lang['AdminBilling.quotations.heading_date_created'] = 'Дата на създ�
 $lang['AdminBilling.services.category_pending'] = 'В очакване';
 $lang['AdminBilling.transactions.option_edit'] = 'Редактиране на';
 $lang['AdminBilling.batch.field_passphrase'] = 'Фраза за достъп';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Тази услуга е в процес на промяна.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Дата на плащане чрез: %1$s';
 

@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Toate facturile trebuie să fie d
 $lang['Invoices.!error.invoice_ids.currency'] = 'Toate facturile trebuie să aibă aceeași monedă.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Trebuie selectate cel puțin două facturi.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Serviciile unice nu pot fi reînnoite.';
 

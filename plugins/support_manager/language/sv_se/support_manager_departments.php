@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Vänligen ange ett namn 
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'En eller flera prioriteringar är ogiltiga.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Välj minst en prioritet.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Endast för kunder';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalera till akutläge';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Om det ska krävas att den arkiverade måste vara inställd på 0 eller 1.';
 

@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Pilihlah prioritas yang 
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Setidaknya salah satu kontak tiket tidak valid.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Setidaknya salah satu penerima tiket tidak valid.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Setidaknya salah satu penerima tiket diduplikasi.';
+$lang['SupportManagerTickets.log.service_id'] = 'Layanan terkait telah diubah menjadi ID internal: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" wajib diisi dan tidak boleh kosong.';
 

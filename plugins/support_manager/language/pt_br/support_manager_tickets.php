@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Selecione uma prioridade
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Pelo menos um dos contatos do tíquete é inválido.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Pelo menos um dos destinatários do tíquete é inválido.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Pelo menos um dos destinatários do tíquete está duplicado.';
+$lang['SupportManagerTickets.log.service_id'] = 'O serviço relacionado foi alterado para a ID interna: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" é obrigatório e não pode estar vazio.';
 

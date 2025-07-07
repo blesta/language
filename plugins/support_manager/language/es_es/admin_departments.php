@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Prioridades disponibles';
 $lang['AdminDepartments.edit.field_force_import'] = 'Importación forzosa';
 $lang['AdminDepartments.add.field_force_import'] = 'Importación forzosa';
 $lang['AdminDepartments.!success.department_imported'] = 'El departamento %1$s se ha importado correctamente.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Sólo se puede establecer un campo como emergencia a la vez.';
+$lang['AdminDepartments.edit.heading_required'] = 'Requerido';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Habilitar servicios relacionados';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Sólo se puede establecer un campo como emergencia a la vez.';
+$lang['AdminDepartments.add.heading_required'] = 'Requerido';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Habilitar servicios relacionados';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalar a Emergencia" muestra un cuadro de alerta con un mensaje y una casilla de verificación. Si el usuario marca la casilla de verificación, el ticket se escala automáticamente a "Emergencia", incluso si esa prioridad está desactivada para el departamento. Sólo disponible cuando la Visibilidad está configurada como Sólo Cliente.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permitir a los clientes seleccionar un servicio con el que esté relacionado el ticket.';
 

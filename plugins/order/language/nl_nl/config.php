@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'De geselecteerde term voor het dom
 $lang['Config.!error.domain_duplicated'] = 'Het domein "%1$s" zit al in uw winkelwagen.';
 $lang['Config.!error.invalid_module'] = 'Het pakket is momenteel niet beschikbaar.';
 $lang['Config.!error.invalid_pricing_id'] = 'Het opgegeven pakket is niet gevonden.';
+$lang['Config.!error.invalid_value_option'] = 'Er moet een waarde worden geselecteerd voor %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'De waarde van de optie "%1$s" moet tussen %2$s en %3$s liggen.';
 

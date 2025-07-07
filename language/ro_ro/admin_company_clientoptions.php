@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gatewa
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activare';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activarea restricțiilor Gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limitează gateway-urile pe care le pot utiliza clienții. În mod implicit, restricțiile de gateway sunt dezactivate și toate gateway-urile sunt disponibile.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grup de clienți';
 

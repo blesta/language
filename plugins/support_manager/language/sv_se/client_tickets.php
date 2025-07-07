@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Det finns inga supportavdelning
 $lang['ClientTickets.!success.ticket_closed'] = 'Ärendet #%1$s har stängts framgångsrikt.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Biljetten #%1$s har uppdaterats framgångsrikt.';
 $lang['ClientTickets.!success.ticket_created'] = 'Biljetten #%1$s har skapats framgångsrikt.';
+$lang['ClientTickets.reply.text_service_none'] = 'Ingen';
+$lang['ClientTickets.reply.heading_service_id'] = 'Relaterad tjänst';
+$lang['ClientTickets.add.none'] = 'Ingen';
+$lang['ClientTickets.add.field_service_id'] = 'Relaterad tjänst';
 

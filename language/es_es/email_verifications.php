@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.email.valid'] = 'Introduzca una dirección de c
 $lang['EmailVerifications.!error.token.format'] = 'Por favor, introduzca un token válido.';
 $lang['EmailVerifications.!error.verified.valid'] = 'El campo verificado debe ser "1" o "0".';
 $lang['EmailVerifications.!error.redirect_url.valid'] = 'Por favor, introduzca una URL válida.';
+$lang['EmailVerifications.!error.client.valid'] = 'No se ha podido verificar su dirección de correo electrónico porque su cuenta no está activa.';
 

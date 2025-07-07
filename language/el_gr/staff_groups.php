@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Προ�
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Πρότυπα HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Προηγμένη υπηρεσία επεξεργασίας';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Ουρά εξυπηρέτησης';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Αλλαγές υπηρεσιών';
 

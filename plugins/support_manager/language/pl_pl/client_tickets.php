@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Nie są dostępne żadne dział
 $lang['ClientTickets.!success.ticket_closed'] = 'Zgłoszenie #%1$s zostało pomyślnie zamknięte.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Bilet #%1$s został pomyślnie zaktualizowany.';
 $lang['ClientTickets.!success.ticket_created'] = 'Bilet #%1$s został pomyślnie utworzony.';
+$lang['ClientTickets.reply.text_service_none'] = 'Brak';
+$lang['ClientTickets.reply.heading_service_id'] = 'Powiązane usługi';
+$lang['ClientTickets.add.none'] = 'Brak';
+$lang['ClientTickets.add.field_service_id'] = 'Powiązane usługi';
 

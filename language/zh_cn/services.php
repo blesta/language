@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = '加密格式无效。';
 $lang['Services.!error.value.empty'] = '服务字段值不得为空。';
 $lang['Services.!error.key.length'] = '服务字段密钥不得超过 32 个字符。';
 $lang['Services.!error.key.empty'] = '服务字段关键字不能为空。';
+$lang['Services.getActions.uncancel'] = '重新激活';
+$lang['Services.!error.uncancel.unsupported'] = '由于模块不支持该服务，因此无法取消该服务。';
 

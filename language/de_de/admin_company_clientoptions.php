@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gatewa
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktivieren Sie';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-Einschränkungen aktivieren';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beschränken Sie die Gateways, die Clients verwenden können. Standardmäßig sind Gateway-Einschränkungen deaktiviert und alle Gateways sind verfügbar.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Kundengruppe';
 

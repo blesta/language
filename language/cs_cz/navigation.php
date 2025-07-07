@@ -124,4 +124,5 @@ $lang['Navigation.!error.action_id.valid'] = 'Nesprávné ID akce';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Černá listina';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Šablony HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Fronta služeb';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Změny služeb';
 

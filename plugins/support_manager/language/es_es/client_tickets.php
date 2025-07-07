@@ -75,4 +75,8 @@ $lang['ClientTickets.reply.dropzone_drop_files_here'] = 'Suelte los archivos aqu
 $lang['ClientTickets.reply.dropzone_remove_file'] = 'Eliminar archivo';
 $lang['ClientTickets.formatDepartmentCustomFields.encrypted_field'] = 'Estos datos están encriptados y no pueden visualizarse.';
 $lang['ClientTickets.!error.email.blacklist'] = 'Lo sentimos, no podemos aceptar su billete en este momento.';
+$lang['ClientTickets.reply.text_service_none'] = 'Ninguno';
+$lang['ClientTickets.reply.heading_service_id'] = 'Servicios relacionados';
+$lang['ClientTickets.add.none'] = 'Ninguno';
+$lang['ClientTickets.add.field_service_id'] = 'Servicios relacionados';
 

@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = '유효한 거래 속도�
 $lang['BtcpayServer.!error.server_url.valid'] = '서버 URL이 잘못되었습니다.';
 $lang['BtcpayServer.description'] = 'BTCPayServer는 수수료가 없는 자체 호스팅 비트코인 결제 게이트웨이입니다.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'BTCPay 서버에 구성된 기본값을 강제로 저장합니다.';
+$lang['BtcpayServer.meta.payment_method_client'] = '고객이 결제 방법을 선택할 수 있도록 허용합니다.';
+$lang['BtcpayServer.meta.payment_method'] = '결제 방법';
+$lang['BtcpayServer.!error.payment_method.valid'] = '유효한 결제 방법을 선택해 주세요.';
 

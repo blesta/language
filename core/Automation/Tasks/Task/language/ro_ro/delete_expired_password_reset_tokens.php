@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Încercarea de a șterge jetoane de resetare a parolei expirate.';
 $lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'Sarcina de ștergere a jetoanelor de resetare a parolei expirate s-a finalizat.';
+$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Încercarea de a șterge jetoane de resetare a parolei expirate.';
 

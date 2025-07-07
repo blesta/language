@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.invoice_filters.any'] = 'Любой';
-$lang['Util.filters.invoice_filters.field_currency'] = 'Валюта';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Содержание линейного элемента';
+$lang['Util.filters.invoice_filters.field_currency'] = 'Валюта';
 $lang['Util.filters.invoice_filters.field_invoice_number'] = 'Счет-фактура №';
+$lang['Util.filters.invoice_filters.any'] = 'Любой';
 

@@ -21,6 +21,6 @@ $lang['Braintree.!error.merchant_id'] = 'Vă rugăm să introduceți ID-ul comer
 $lang['Braintree.!error.live_mode.valid'] = 'Modul live trebuie să fie setat la "true", dacă este dat.';
 $lang['Braintree.environment.production'] = 'Producție';
 $lang['Braintree.environment.sandbox'] = 'Sandbox';
-$lang['Braintree.description'] = 'Comercianții din peste 45 de țări/regiuni din întreaga lume pot accepta, diviza și permite plăți în peste 130 de valute utilizând Braintree.';
+$lang['Braintree.description'] = 'Necesită PHP &gt;= 7.3. Comercianții din peste 45 de țări/regiuni din întreaga lume pot accepta, împărți și activa plăți în mai mult de 130 de valute utilizând Braintree';
 $lang['Braintree.name'] = 'Braintree';
 

@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Aufhängen';
 $lang['AdminClients.services.action.suspend'] = 'aussetzen.';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Datum annulliert';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Datum der Aussetzung';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Bei diesem Dienst stehen Änderungen an.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Datum Durchbezahlte';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Begriff';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Nicht in Rechnung stellen';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'An die Rechnung anhängen';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Rechnung erstellen';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Methode der Rechnungsstellung';
+$lang['AdminClients.editservice.text_uncancel'] = 'Sie sind dabei, einen abgebrochenen Dienst wieder zu aktivieren. Wenn "Modul verwenden" nicht markiert ist, wird der Dienst nur in Blesta reaktiviert. Beachten Sie, dass die Reaktivierung über das Modul problematisch sein kann und möglicherweise nicht von allen Modulen unterstützt wird. Durch die Reaktivierung eines abgebrochenen Dienstes wird die über die API des Moduls durchgeführte Abbruchaktion nicht rückgängig gemacht.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Datum des Zahlungseingangs:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopieren';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Datum des Zahlungseingangs: %1$s';
 

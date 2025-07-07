@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = '现有优先事项';
 $lang['AdminDepartments.edit.field_force_import'] = '强制导入';
 $lang['AdminDepartments.add.field_force_import'] = '强制导入';
 $lang['AdminDepartments.!success.department_imported'] = '%1$s 部门已成功导入。';
+$lang['AdminDepartments.edit.text_emergency_field'] = '一次只能将一个字段设置为紧急字段。';
+$lang['AdminDepartments.edit.heading_required'] = '需要';
+$lang['AdminDepartments.edit.field_enable_related_services'] = '启用相关服务';
+$lang['AdminDepartments.add.text_emergency_field'] = '一次只能将一个字段设置为紧急字段。';
+$lang['AdminDepartments.add.heading_required'] = '需要';
+$lang['AdminDepartments.add.field_enable_related_services'] = '启用相关服务';
+$lang['AdminDepartments.!tooltip.type'] = '"升级到紧急情况 "显示一个带有信息和复选框的警报框。如果用户选中复选框，则票单将自动升级到 "紧急"，即使该部门已禁用该优先级。仅当可见性设置为仅限客户时可用。';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = '允许客户选择与票据相关的服务。';
 

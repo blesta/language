@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Braintree.description'] = 'Forhandlere i mere end 45 lande/regioner verden over kan acceptere, opdele og aktivere betalinger i mere end 130 valutaer ved hjælp af Braintree.';
+$lang['Braintree.description'] = 'Kræver PHP &gt;= 7.3. Forhandlere i mere end 45 lande/regioner verden over kan acceptere, opdele og aktivere betalinger i mere end 130 valutaer ved hjælp af Braintree.';
 $lang['Braintree.merchant_id'] = 'Forhandler-ID';
 $lang['Braintree.public_key'] = 'Offentlig nøgle';
 $lang['Braintree.private_key'] = 'Privat nøgle';

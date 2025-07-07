@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Παρακαλούμε �
 $lang['BtcpayServer.!error.server_url.valid'] = 'Η διεύθυνση URL του διακομιστή είναι άκυρη.';
 $lang['BtcpayServer.description'] = 'Το BTCPayServer είναι μια αυτοδιαχειριζόμενη πύλη πληρωμών Bitcoin χωρίς χρεώσεις.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Επιβάλλετε την προεπιλογή του καταστήματος όπως έχει ρυθμιστεί στον διακομιστή BTCPay.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Επιτρέψτε στον πελάτη να επιλέξει τη μέθοδο πληρωμής.';
+$lang['BtcpayServer.meta.payment_method'] = 'Μέθοδος πληρωμής';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Παρακαλούμε επιλέξτε μια έγκυρη μέθοδο πληρωμής.';
 

@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Пожалуйста, в
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Один или несколько приоритетов недействительны.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Выберите хотя бы один приоритет.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Только для клиентов';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Эскалация в экстренную ситуацию';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Требуется ли установить значение 0 или 1.';
 

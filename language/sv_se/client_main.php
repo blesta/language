@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Din fakturametod är de
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Faktureringsmetod';
 $lang['ClientMain.invoicemethod.page_title'] = 'Kund #%1$s Faktureringsmetod';
 $lang['ClientMain.edit.field_editsubmit'] = 'Uppdatera min information';
-$lang['ClientMain.edit.field_otp'] = 'Engångslösenord';
+$lang['ClientMain.edit.field_otp'] = 'Engångslösenord (som visas i din Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Fönster';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Gör betalning';
 $lang['ClientMain.!info.invoice_due_title'] = 'Välkommen tillbaka, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Din fakturametod har uppdaterats framgångsrikt. Alla framtida fakturor kommer att levereras till dig via %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Din kontoinformation har uppdaterats framgångsrikt.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Krävs för att aktivera tvåfaktorsautentisering eller uppdatera lösenord.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Tvåfaktorsautentisering';
 

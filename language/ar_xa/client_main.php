@@ -40,7 +40,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'طريقة الفاتو
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'طريقة الفاتورة';
 $lang['ClientMain.invoicemethod.page_title'] = 'العميل #%1$s طريقة الفاتورة طريقة الفاتورة';
 $lang['ClientMain.edit.field_editsubmit'] = 'تحديث معلوماتي';
-$lang['ClientMain.edit.field_otp'] = 'كلمة مرور لمرة واحدة';
+$lang['ClientMain.edit.field_otp'] = 'كلمة المرور لمرة واحدة (كما هو موضح في أداة التوثيق)';
 $lang['ClientMain.edit.text_windows'] = 'النوافذ';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'أندرويد';
@@ -80,4 +80,6 @@ $lang['ClientMain.myinfo.setting_autodebit_ach_zero_days'] = 'سنخصم من ح
 $lang['ClientMain.myinfo.setting_autodebit_cc_zero_days'] = 'سنقوم بشحن حسابك %1$s المنتهي بـ x%2$s في يوم استحقاق الدفع.';
 $lang['ClientMain.myinfo.setting_autodebit_enabled'] = 'تم إعداد حسابك للدفع التلقائي.';
 $lang['ClientMain.myinfo.setting_autodebit_disabled'] = 'لم يتم إعداد حسابك للدفع التلقائي.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'مطلوب لتمكين المصادقة الثنائية أو تحديث كلمة المرور.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'المصادقة الثنائية';
 

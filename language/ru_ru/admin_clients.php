@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Приостановить';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Дата отмены';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Дата приостановления';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Дата последнего продления';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Эта услуга ожидает изменений.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Дата Оплачено-передано';
+$lang['AdminClients.editservice.field_status'] = 'Статус';
+$lang['AdminClients.editservice.field_term'] = 'Срок';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Не выставлять счет';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Добавить в счет-фактуру';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Создать счет-фактуру';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Метод выставления счета';
+$lang['AdminClients.editservice.text_uncancel'] = 'Вы собираетесь повторно активировать отмененную услугу. Если флажок "Использовать модуль" снят, услуга будет повторно активирована только в Blesta. Обратите внимание, что повторная активация через модуль может быть проблематичной и поддерживаться не всеми модулями. Повторная активация отмененной услуги не отменяет действие отмены, выполненное через API модуля.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Дата оплаты:';
+$lang['AdminClients.invoices.option_copy'] = 'Копировать';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Дата оплаты: %1$s';
 

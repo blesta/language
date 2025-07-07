@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Inserire un nome per que
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID azienda non valido.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Una o più priorità non sono valide.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selezionare almeno una priorità.';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Passare all\'emergenza';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Solo per i clienti';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Se richiedere l\'archiviazione deve essere impostato su 0 o 1.';
 

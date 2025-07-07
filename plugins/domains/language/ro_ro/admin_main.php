@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Modificarea datei de înregis
 $lang['AdminMain.edit.field_expiration_date'] = 'Modificarea datei de expirare';
 $lang['AdminMain.!success.change_registration_date'] = 'Data înregistrării domeniului a fost actualizată!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Data de expirare a domeniului a fost actualizată!';
+$lang['AdminMain.add.text_refresh'] = 'Reîmprospătare';
+$lang['AdminMain.index.tooltip_transferred'] = 'Domeniul a fost transferat de la registrator.';
 

@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = '이 부서의 유효한 
 $lang['SupportManagerTickets.!error.contacts.valid'] = '티켓 연락처 중 하나 이상이 유효하지 않습니다.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = '티켓 수신자 중 하나 이상의 티켓이 유효하지 않습니다.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = '티켓 수신자 중 한 명 이상이 중복되어 있습니다.';
+$lang['SupportManagerTickets.log.service_id'] = '관련 서비스가 내부 ID로 변경되었습니다: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s"는 필수이며 비워 둘 수 없습니다.';
 

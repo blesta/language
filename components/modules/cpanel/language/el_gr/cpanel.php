@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Servers';
 $lang['Cpanel.module_row'] = 'Διακομιστής';
 $lang['Cpanel.description'] = 'Το cPanel & WHM είναι η κορυφαία πλατφόρμα φιλοξενίας ιστοσελίδων για πάνω από 20 χρόνια. Εμπιστεύονται παγκοσμίως οι τεχνολογικοί εταίροι Wordpress, CloudLinux, Lighstpeed και άλλοι.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Συνδεθείτε';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Κωδικός πρόσβασης';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Όνομα χρήστη';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Συνδεθείτε στο cPanel';
+$lang['Cpanel.tab_client_login'] = 'Συνδεθείτε στο cPanel';
 

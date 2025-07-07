@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Tüm faturalar açık ve herhangi
 $lang['Invoices.!error.invoice_ids.currency'] = 'Tüm faturalar aynı para birimine sahip olmalıdır.';
 $lang['Invoices.!error.invoice_ids.count'] = 'En az iki fatura seçilmelidir.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Tek seferlik hizmetler yenilenemez.';
 

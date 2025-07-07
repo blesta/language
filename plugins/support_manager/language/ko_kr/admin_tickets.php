@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = '선택하지 않은 연락처가 티�
 $lang['AdminTickets.add.text_add_recipient'] = '수신자 추가';
 $lang['AdminTickets.add.heading_contacts'] = '연락처';
 $lang['AdminTickets.add.heading_recipients'] = '수신자';
+$lang['AdminTickets.reply.text_additional_recipients'] = '추가 수신자';
+$lang['AdminTickets.reply.text_service_none'] = '없음';
+$lang['AdminTickets.reply.heading_service'] = '서비스';
+$lang['AdminTickets.add.text_service_none'] = '없음';
+$lang['AdminTickets.add.heading_service'] = '서비스';
+$lang['AdminTickets.add.text_no_contacts'] = '선택한 고객에 대해 추가 연락처를 사용할 수 없습니다.';
+$lang['AdminTickets.!tooltip.recipients'] = '티켓이 업데이트될 때 알림을 받을 이메일 주소입니다.';
+$lang['AdminTickets.!tooltip.contacts'] = '티켓이 업데이트될 때 알림을 받을 연락처입니다. 선택하지 않은 연락처가 티켓에 응답하면 자동으로 티켓에 추가됩니다.';
 

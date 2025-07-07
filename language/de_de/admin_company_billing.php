@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Ver
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Die Anzahl der Serviceaktionen, die versucht werden sollen, bevor der nächste Versuch um den Betrag verzögert wird, der durch die Einstellung für den Abstand zwischen den zweiten Versuchen festgelegt ist';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Die Anzahl der Serviceaktionen, die versucht werden sollen, bevor der nächste Versuch um den Betrag verzögert wird, der durch die Einstellung für den Abstand zwischen den ersten Versuchen festgelegt wurde';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Die Anzahl der Versuche und Fehlversuche, eine Dienstaktion zu verarbeiten, bevor diese Dienstaktion für den automatischen Abschluss deaktiviert wird.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Nur sofortige Löschung zulassen';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Kündigung nur zum Ende des Semesters zulassen';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Sofortige Kündigung oder Kündigung zum Ende der Laufzeit zulassen';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Kundenstornierungsoptionen';
 

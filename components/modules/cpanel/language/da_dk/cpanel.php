@@ -148,4 +148,9 @@ $lang['Cpanel.!error.cpanel_username.length'] = 'Brugernavnet skal være mellem 
 $lang['Cpanel.!error.cpanel_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Cpanel.!error.cpanel_password.matches'] = 'Password og Confirm Password stemmer ikke overens.';
 $lang['Cpanel.!error.configoptions[dedicated_ip].format'] = 'Den dedikerede IP skal være indstillet til 0 eller 1.';
+$lang['Cpanel.tab_client_login.field_login'] = 'Log ind';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Adgangskode';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Brugernavn';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Log ind på cPanel';
+$lang['Cpanel.tab_client_login'] = 'Log ind på cPanel';
 

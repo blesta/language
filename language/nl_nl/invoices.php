@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Alle facturen moeten openstaan en
 $lang['Invoices.!error.invoice_ids.currency'] = 'Alle facturen moeten dezelfde valuta hebben.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Er moeten minstens twee facturen worden geselecteerd.';
 $lang['Invoices.!line_item.parent_description'] = 'Kinderopvang van %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Eenmalige diensten kunnen niet worden verlengd.';
 

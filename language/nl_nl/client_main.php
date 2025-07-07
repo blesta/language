@@ -15,7 +15,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Je factuurmethode is de
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Factuurmethode';
 $lang['ClientMain.invoicemethod.page_title'] = 'Klant #%1$s Factuurmethode';
 $lang['ClientMain.edit.field_editsubmit'] = 'Mijn gegevens bijwerken';
-$lang['ClientMain.edit.field_otp'] = 'Eenmalig wachtwoord';
+$lang['ClientMain.edit.field_otp'] = 'Eenmalig wachtwoord (zoals weergegeven in uw Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_title'] = 'Welkom terug, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Je factureringsmethode is succesvol bijgewerkt. Alle toekomstige facturen worden je toegestuurd via %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Je accountgegevens zijn bijgewerkt.';
 $lang['ClientMain.edit.field_recovery_email'] = 'Herstelmail (optioneel)';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Vereist om Authenticatie met twee factoren in te schakelen of het wachtwoord bij te werken.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Authenticatie met twee factoren';
 

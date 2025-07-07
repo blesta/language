@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Menangguhkan';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Tanggal Dibatalkan';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Tanggal Ditangguhkan';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Tanggal Terakhir Diperbaharui';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Layanan ini memiliki perubahan yang tertunda.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Tanggal Dibayarkan';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Istilah';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Jangan Buat Faktur';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Tambahkan ke Faktur';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Buat Faktur';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Metode Faktur';
+$lang['AdminClients.editservice.text_uncancel'] = 'Anda akan mengaktifkan kembali layanan yang dibatalkan. Jika "Gunakan modul" tidak dicentang, layanan akan diaktifkan kembali hanya di Blesta. Perhatikan bahwa pengaktifan kembali melalui modul mungkin bermasalah dan mungkin tidak didukung oleh semua modul. Mengaktifkan kembali layanan yang dibatalkan tidak akan membatalkan tindakan pembatalan yang dilakukan melalui API modul.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Tanggal Dibayar Lunas:';
+$lang['AdminClients.invoices.option_copy'] = 'Salin';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Tanggal Dibayar Lunas: %1$s';
 

@@ -191,4 +191,5 @@ $lang['StaffGroups.!error.name.empty'] = 'Моля, въведете име.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Невалиден идентификатор на групата на персонала.';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Опашка за услуги';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Промени в услугите';
 

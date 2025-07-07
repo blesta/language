@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.invoice_filters.any'] = 'Orice';
-$lang['Util.filters.invoice_filters.field_currency'] = 'Monedă';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Conținutul postului';
+$lang['Util.filters.invoice_filters.field_currency'] = 'Monedă';
 $lang['Util.filters.invoice_filters.field_invoice_number'] = 'Factura #';
+$lang['Util.filters.invoice_filters.any'] = 'Orice';
 

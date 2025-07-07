@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Dostupné priority';
 $lang['AdminDepartments.edit.field_force_import'] = 'Import síly';
 $lang['AdminDepartments.add.field_force_import'] = 'Import síly';
 $lang['AdminDepartments.!success.department_imported'] = 'Oddělení %1$s bylo úspěšně importováno.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Na nouzovou hodnotu lze nastavit vždy pouze jedno pole.';
+$lang['AdminDepartments.edit.heading_required'] = 'Požadované';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Povolení souvisejících služeb';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Na nouzovou hodnotu lze nastavit vždy pouze jedno pole.';
+$lang['AdminDepartments.add.heading_required'] = 'Požadované';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Povolení souvisejících služeb';
+$lang['AdminDepartments.!tooltip.type'] = '"Eskalovat do nouzové situace" zobrazí výstražné pole se zprávou a zaškrtávacím políčkem. Pokud uživatel zaškrtne políčko, tiket se automaticky eskaluje na "Emergency", i když je tato priorita pro oddělení zakázána. K dispozici pouze v případě, že je možnost Viditelnost nastavena na hodnotu Pouze pro klienty.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Umožnit klientům vybrat službu, ke které se tip vztahuje.';
 

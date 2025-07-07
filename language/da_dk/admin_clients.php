@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Suspendere';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Dato for aflysning';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Dato suspenderet';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Dato for sidste fornyelse';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Denne tjeneste har afventende ændringer.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Dato udbetalt gennem';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Betegnelse';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Fakturer ikke';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Tilføj til faktura';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Opret faktura';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Faktureringsmetode';
+$lang['AdminClients.editservice.text_uncancel'] = 'Du er ved at genaktivere en annulleret tjeneste. Hvis "Brug modul" ikke er markeret, vil tjenesten kun blive genaktiveret i Blesta. Bemærk, at genaktivering via modulet kan være problematisk og ikke understøttes af alle moduler. Genaktivering af en annulleret tjeneste fortryder ikke den annullerede handling, der er udført via modulets API.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Dato for udbetaling:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopi';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Dato for udbetaling: %1$s';
 

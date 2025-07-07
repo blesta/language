@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Індекс замовлення по
 $lang['Navigation.!error.action_id.valid'] = 'Невірний ідентифікатор дії';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-шаблони';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Черга на обслуговування';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Зміни в обслуговуванні';
 

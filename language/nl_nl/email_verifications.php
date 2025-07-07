@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Het geverifieerde veld moet
 $lang['EmailVerifications.!error.token.format'] = 'Voer een geldig token in.';
 $lang['EmailVerifications.!error.email.valid'] = 'Voer een geldig e-mailadres in.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Ongeldig contact id.';
+$lang['EmailVerifications.!error.client.valid'] = 'Uw e-mailadres kon niet worden geverifieerd omdat uw account niet actief is.';
 

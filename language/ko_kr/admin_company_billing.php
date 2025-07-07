@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = '서
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = '다음 시도를 두 번째 시도 간격 설정에 지정된 양만큼 지연시키기 전에 시도할 서비스 작업의 수입니다.';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = '첫 번째 시도 간격 설정에 지정된 양만큼 다음 시도를 지연하기 전에 시도할 서비스 작업의 수입니다.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = '서비스 작업의 자동 완료가 비활성화되기 전까지 해당 서비스 작업에 대한 처리 시도 및 실패 횟수입니다.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = '즉시 취소만 허용';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = '학기말 취소만 허용';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = '즉시 또는 기간 종료 후 취소 허용';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = '클라이언트 취소 옵션';
 

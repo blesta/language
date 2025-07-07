@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Contactele care nu sunt selectate vor
 $lang['AdminTickets.add.text_add_recipient'] = 'Adăugați destinatar';
 $lang['AdminTickets.add.heading_contacts'] = 'Contacte';
 $lang['AdminTickets.add.heading_recipients'] = 'Beneficiari';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Beneficiari suplimentari';
+$lang['AdminTickets.reply.text_service_none'] = 'Niciuna';
+$lang['AdminTickets.reply.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_service_none'] = 'Niciuna';
+$lang['AdminTickets.add.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_no_contacts'] = 'Nu există contacte suplimentare disponibile pentru clientul selectat.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Adresa de e-mail pentru a fi notificat atunci când un bilet este actualizat.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Persoane de contact care urmează să fie notificate atunci când un bilet este actualizat. Cei care nu sunt selectați vor fi adăugați automat la bilet dacă răspund la acesta.';
 

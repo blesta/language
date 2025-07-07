@@ -918,4 +918,16 @@ $lang['AdminClients.editinvoice.section_notes'] = 'Бележки';
 $lang['AdminClients.edit.field_language'] = 'Език';
 $lang['AdminClients.phones.field_phonetype'] = 'Тип';
 $lang['AdminClients.editinvoice.boxtitle_editdraft'] = 'Редактиране на проект на фактура [%1$s]';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Тази услуга е в процес на промяна.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Дата на плащане чрез';
+$lang['AdminClients.editservice.field_status'] = 'Статус';
+$lang['AdminClients.editservice.field_term'] = 'Срок';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Не издавайте фактури';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Прилагане към фактура';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Създаване на фактура';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Метод на фактуриране';
+$lang['AdminClients.editservice.text_uncancel'] = 'Предстои повторно активиране на отменена услуга. Ако отметката на "Използвай модула" не е поставена, услугата ще бъде активирана отново само в Blesta. Обърнете внимание, че повторното активиране чрез модул може да е проблематично и може да не се поддържа от всички модули. Повторното активиране на отменена услуга не отменя действието за отмяна, извършено чрез API на модула.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Дата на плащане чрез:';
+$lang['AdminClients.invoices.option_copy'] = 'Копие';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Дата на плащане чрез: %1$s';
 

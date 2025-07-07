@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Indicele comenzii trebuie să fie o va
 $lang['Navigation.!error.action_id.valid'] = 'ID de acțiune invalid';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Șabloane HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Coada de servicii';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Modificări ale serviciilor';
 

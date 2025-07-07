@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Alle Rechnungen müssen offen und
 $lang['Invoices.!error.invoice_ids.currency'] = 'Alle Rechnungen müssen die gleiche Währung haben.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Es müssen mindestens zwei Rechnungen ausgewählt werden.';
 $lang['Invoices.!line_item.parent_description'] = 'Kinderservice von %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Einmalige Dienste können nicht verlängert werden.';
 

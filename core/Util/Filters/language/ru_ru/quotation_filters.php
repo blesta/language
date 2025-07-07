@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.any'] = 'Любой';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Валюта';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Содержание линейного элемента';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Валюта';
 $lang['Util.filters.quotation_filters.field_quotation_number'] = 'Цитата #';
+$lang['Util.filters.quotation_filters.any'] = 'Любой';
 

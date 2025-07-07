@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Ověřené pole musí mít 
 $lang['EmailVerifications.!error.token.format'] = 'Zadejte prosím platný token.';
 $lang['EmailVerifications.!error.email.valid'] = 'Zadejte prosím platnou e-mailovou adresu.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Neplatné ID kontaktu.';
+$lang['EmailVerifications.!error.client.valid'] = 'Vaši e-mailovou adresu se nepodařilo ověřit, protože váš účet není aktivní.';
 

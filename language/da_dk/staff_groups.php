@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Tilføj
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-skabeloner';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avanceret redigeringstjeneste';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service-kø';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Ændringer i service';
 

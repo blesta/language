@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Vybraný výraz pro doménu "%1$s"
 $lang['Config.!error.domain_duplicated'] = 'Doména "%1$s" se již nachází ve vašem košíku.';
 $lang['Config.!error.invalid_module'] = 'Balíček je v současné době nedostupný.';
 $lang['Config.!error.invalid_pricing_id'] = 'Uvedený balíček nebyl nalezen.';
+$lang['Config.!error.invalid_value_option'] = 'Je třeba vybrat hodnotu pro %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Hodnota možnosti "%1$s" musí být mezi %2$s a %3$s.';
 

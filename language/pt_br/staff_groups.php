@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Adicion
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Modelos HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviço de edição avançada';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Fila de serviço';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Mudanças no serviço';
 

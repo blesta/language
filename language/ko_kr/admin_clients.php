@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = '일시 중단';
 $lang['AdminClients.editservice.field_date_canceled'] = '날짜 취소됨';
 $lang['AdminClients.editservice.field_date_suspended'] = '일시 중단된 날짜';
 $lang['AdminClients.editservice.field_date_last_renewed'] = '마지막 갱신 날짜';
+$lang['AdminClients.services.text_pending_service_changes'] = '이 서비스는 변경이 보류 중입니다.';
+$lang['AdminClients.editservice.field_date_paid_through'] = '결제 완료 날짜';
+$lang['AdminClients.editservice.field_status'] = '상태';
+$lang['AdminClients.editservice.field_term'] = '기간';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = '인보이스 발행 안 함';
+$lang['AdminClients.editservice.field_invoice_method_append'] = '인보이스에 추가';
+$lang['AdminClients.editservice.field_invoice_method_create'] = '송장 생성';
+$lang['AdminClients.editservice.field_invoice_method'] = '송장 방법';
+$lang['AdminClients.editservice.text_uncancel'] = '취소된 서비스를 다시 활성화하려고 합니다. "모듈 사용"을 선택 취소하면 Blesta에서만 서비스가 다시 활성화됩니다. 모듈을 통한 재활성화는 문제가 발생할 수 있으며 일부 모듈에서 지원되지 않을 수 있습니다. 취소된 서비스를 다시 활성화해도 모듈의 API를 통해 수행된 취소 작업은 취소되지 않습니다.';
+$lang['AdminClients.editservice.text_date_paid_through'] = '결제 완료 날짜:';
+$lang['AdminClients.invoices.option_copy'] = '복사';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = '결제 완료 날짜: %1$s';
 

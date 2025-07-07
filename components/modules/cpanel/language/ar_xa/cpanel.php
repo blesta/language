@@ -148,4 +148,9 @@ $lang['Cpanel.tab_stats.disk_heading.limit'] = 'الحد';
 $lang['Cpanel.tab_stats.disk_heading.used'] = 'مستعمل';
 $lang['Cpanel.tab_stats.disk_title'] = 'القرص';
 $lang['Cpanel.tab_stats.bandwidth_unlimited'] = 'غير محدود';
+$lang['Cpanel.tab_client_login.field_login'] = 'تسجيل الدخول';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'كلمة المرور';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'اسم المستخدم';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'تسجيل الدخول إلى cPanel';
+$lang['Cpanel.tab_client_login'] = 'تسجيل الدخول إلى cPanel';
 

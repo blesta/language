@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'تنسيق غير صالح للتش
 $lang['Services.!error.value.empty'] = 'يجب ألا تكون قيمة حقل الخدمة فارغة.';
 $lang['Services.!error.key.length'] = 'يجب ألا يتجاوز مفتاح حقل الخدمة 32 حرفاً.';
 $lang['Services.!error.key.empty'] = 'يجب ألا يكون مفتاح حقل الخدمة فارغاً.';
+$lang['Services.getActions.uncancel'] = 'إعادة التنشيط';
+$lang['Services.!error.uncancel.unsupported'] = 'لا يمكن إلغاء هذه الخدمة، لأن الوحدة النمطية لا تدعمها.';
 

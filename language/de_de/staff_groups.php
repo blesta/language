@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML-Vo
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-Vorlagen';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Erweiterter Bearbeitungsdienst';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service-Warteschlange';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Änderungen im Dienst';
 

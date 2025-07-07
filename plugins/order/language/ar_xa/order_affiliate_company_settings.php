@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'ثابت';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'النسبة المئوية';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'أي';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'أولاً';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'النسبة المئوية';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'ثابت';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
 

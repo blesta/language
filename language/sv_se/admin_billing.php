@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Osuspenderad';
 $lang['AdminBilling.services.action.suspend'] = 'Avvakta';
 $lang['AdminBilling.!success.services_unsuspended'] = 'De utvalda tjänsterna har framgångsrikt avbrutits.';
 $lang['AdminBilling.!success.services_suspended'] = 'De valda tjänsterna har framgångsrikt avbrutits.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Denna tjänst har pågående ändringar.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum Betald genom: %1$s';
 

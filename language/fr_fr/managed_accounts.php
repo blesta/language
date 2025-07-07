@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID d\'invitation non val
 $lang['ManagedAccounts.!error.contact_id.exists'] = 'ID de contact non valide.';
 $lang['ManagedAccounts.!error.permissions.manage'] = 'Vous n\'êtes pas autorisé à gérer ce compte.';
 $lang['ManagedAccounts.!error.permissions.empty'] = 'Vous devez attribuer au moins une autorisation au gestionnaire.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Une invitation n\'a pas pu être envoyée. Assurez-vous que l\'adresse électronique est correcte ou demandez à l\'utilisateur de s\'inscrire d\'abord.';
 

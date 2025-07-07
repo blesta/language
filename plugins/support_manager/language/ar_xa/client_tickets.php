@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'لا توجد أقسام دعم
 $lang['ClientTickets.!success.ticket_closed'] = 'تم إغلاق التذكرة رقم%1$s بنجاح.';
 $lang['ClientTickets.!success.ticket_updated'] = 'تم تحديث التذكرة رقم%1$s بنجاح.';
 $lang['ClientTickets.!success.ticket_created'] = 'تم إنشاء التذكرة رقم%1$s بنجاح.';
+$lang['ClientTickets.reply.text_service_none'] = 'لا يوجد';
+$lang['ClientTickets.reply.heading_service_id'] = 'الخدمات ذات الصلة';
+$lang['ClientTickets.add.none'] = 'لا يوجد';
+$lang['ClientTickets.add.field_service_id'] = 'الخدمات ذات الصلة';
 

@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Bitte wählen Sie eine g
 $lang['BtcpayServer.!error.server_url.valid'] = 'Server-URL ungültig.';
 $lang['BtcpayServer.description'] = 'BTCPayServer ist ein selbstgehostetes, gebührenfreies Bitcoin-Zahlungsgateway.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Erzwingen Sie die in BTCPay Server konfigurierte Voreinstellung für die Speicherung.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Ermöglichen Sie dem Kunden die Wahl der Zahlungsmethode.';
+$lang['BtcpayServer.meta.payment_method'] = 'Zahlungsmethode';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Bitte wählen Sie eine gültige Zahlungsmethode.';
 

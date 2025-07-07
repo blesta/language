@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Pasare
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activar';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activar restricciones de puerta de enlace';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limita las puertas de enlace que pueden utilizar los clientes. Por defecto, las restricciones de puerta de enlace están desactivadas y todas las puertas de enlace están disponibles.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grupo de clientes';
 

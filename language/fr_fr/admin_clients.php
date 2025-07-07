@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Mise en suspens';
 $lang['AdminClients.services.action.suspend'] = 'Suspendre';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Date d\'annulation';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Date de suspension';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Ce service est en cours de modification.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Date de paiement';
+$lang['AdminClients.editservice.field_status'] = 'Statut';
+$lang['AdminClients.editservice.field_term'] = 'Durée';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Ne pas facturer';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Ajouter à la facture';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Créer une facture';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Méthode de facturation';
+$lang['AdminClients.editservice.text_uncancel'] = 'Vous êtes sur le point de réactiver un service annulé. Si l\'option "Utiliser le module" n\'est pas cochée, le service sera réactivé dans Blesta uniquement. Notez que la réactivation via le module peut être problématique et n\'est pas supportée par tous les modules. La réactivation d\'un service annulé n\'annule pas l\'action d\'annulation effectuée via l\'API du module.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Date de paiement par l\'intermédiaire :';
+$lang['AdminClients.invoices.option_copy'] = 'Copie';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Date de paiement par l\'intermédiaire : %1$s';
 

@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = '暂停';
 $lang['AdminClients.editservice.field_date_canceled'] = '取消日期';
 $lang['AdminClients.editservice.field_date_suspended'] = '暂停日期';
 $lang['AdminClients.editservice.field_date_last_renewed'] = '最后续订日期';
+$lang['AdminClients.services.text_pending_service_changes'] = '这项服务有待更改。';
+$lang['AdminClients.editservice.field_date_paid_through'] = '支付日期';
+$lang['AdminClients.editservice.field_status'] = '现状';
+$lang['AdminClients.editservice.field_term'] = '学期';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = '不开发票';
+$lang['AdminClients.editservice.field_invoice_method_append'] = '附加到发票';
+$lang['AdminClients.editservice.field_invoice_method_create'] = '创建发票';
+$lang['AdminClients.editservice.field_invoice_method'] = '发票方式';
+$lang['AdminClients.editservice.text_uncancel'] = '您将重新激活已取消的服务。如果未选中 "使用模块"，则只能在 Blesta 中重新激活服务。请注意，通过模块重新激活可能会有问题，而且并非所有模块都支持。重新激活已取消的服务不会撤销通过模块 API 执行的取消操作。';
+$lang['AdminClients.editservice.text_date_paid_through'] = '支付日期';
+$lang['AdminClients.invoices.option_copy'] = '复制';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = '支付日期%1$s';
 

@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Přidá
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Šablony HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Služba pokročilých úprav';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Fronta služeb';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Změny služeb';
 

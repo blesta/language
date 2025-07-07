@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Kontak yang tidak dipilih akan secara
 $lang['AdminTickets.add.text_add_recipient'] = 'Tambahkan Penerima';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontak';
 $lang['AdminTickets.add.heading_recipients'] = 'Penerima';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Penerima Tambahan';
+$lang['AdminTickets.reply.text_service_none'] = 'Tidak ada';
+$lang['AdminTickets.reply.heading_service'] = 'Layanan';
+$lang['AdminTickets.add.text_service_none'] = 'Tidak ada';
+$lang['AdminTickets.add.heading_service'] = 'Layanan';
+$lang['AdminTickets.add.text_no_contacts'] = 'Tidak ada kontak tambahan yang tersedia untuk klien yang dipilih.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Alamat email yang akan diberitahukan ketika tiket diperbarui.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontak yang akan diberi tahu ketika tiket diperbarui. Mereka yang tidak dipilih akan secara otomatis ditambahkan ke tiket jika mereka merespons.';
 

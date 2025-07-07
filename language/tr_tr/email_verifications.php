@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Doğrulanmış alan "1" vey
 $lang['EmailVerifications.!error.token.format'] = 'Lütfen geçerli bir belirteç girin.';
 $lang['EmailVerifications.!error.email.valid'] = 'Lütfen geçerli bir e-posta adresi girin.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Geçersiz kişi kimliği.';
+$lang['EmailVerifications.!error.client.valid'] = 'Hesabınız aktif olmadığı için e-posta adresiniz doğrulanamadı.';
 

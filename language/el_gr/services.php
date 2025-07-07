@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Μη έγκυρη μορφή για
 $lang['Services.!error.value.empty'] = 'Η τιμή του πεδίου service δεν πρέπει να είναι κενή.';
 $lang['Services.!error.key.length'] = 'Το κλειδί του πεδίου υπηρεσίας δεν πρέπει να υπερβαίνει τους 32 χαρακτήρες.';
 $lang['Services.!error.key.empty'] = 'Το κλειδί του πεδίου υπηρεσίας δεν πρέπει να είναι κενό.';
+$lang['Services.getActions.uncancel'] = 'Ενεργοποίηση';
+$lang['Services.!error.uncancel.unsupported'] = 'Αυτή η υπηρεσία δεν μπορεί να ακυρωθεί, καθώς η ενότητα δεν την υποστηρίζει.';
 

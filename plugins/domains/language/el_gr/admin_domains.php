@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Οι ακόλουθοι TLD δ�
 $lang['AdminDomains.!success.delete'] = 'Το TLD διαγράφηκε επιτυχώς!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Η ημερομηνία καταχώρισης του τομέα έχει ενημερωθεί!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Η ημερομηνία λήξης του τομέα έχει ενημερωθεί!';
+$lang['AdminDomains.tlds.field_currency'] = 'Νόμισμα';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Ο τομέας έχει μεταφερθεί από τον καταχωρητή.';
 

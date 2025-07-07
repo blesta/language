@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Kontaktní jméno';
 $lang['Namesilo.tab_manage_contacts.title'] = 'Správa kontaktů';
 $lang['Namesilo.tab_whois.section_technical'] = 'Technická stránka';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativní';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Kontaktní ID';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Přebírá kontakty ze služby namesilo a přiřazuje je ke klientům služby blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Vytáhnout kontakty Namesilo';
 

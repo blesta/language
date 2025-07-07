@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Es sind keine Unterstützungsab
 $lang['ClientTickets.!success.ticket_closed'] = 'Das Ticket #%1$s wurde erfolgreich geschlossen.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Das Ticket #%1$s wurde erfolgreich aktualisiert.';
 $lang['ClientTickets.!success.ticket_created'] = 'Das Ticket #%1$s wurde erfolgreich erstellt.';
+$lang['ClientTickets.reply.text_service_none'] = 'Keine';
+$lang['ClientTickets.reply.heading_service_id'] = 'Verwandte Dienstleistungen';
+$lang['ClientTickets.add.none'] = 'Keine';
+$lang['ClientTickets.add.field_service_id'] = 'Verwandte Dienstleistungen';
 

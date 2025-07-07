@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Esse feed de dados está desativado. Para ativá-lo, visite Configurações > Empresa > Feeds na área da equipe.';
 $lang['Feed.!error.invalid'] = 'O recurso solicitado não existe ou é inválido.';
+$lang['Feed.!error.disabled'] = 'Esse feed de dados está desativado. Para ativá-lo, visite Configurações > Empresa > Feeds na área da equipe.';
 

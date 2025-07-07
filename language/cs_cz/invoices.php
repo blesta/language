@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Všechny faktury musí být otev�
 $lang['Invoices.!error.invoice_ids.currency'] = 'Všechny faktury musí mít stejnou měnu.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Je třeba vybrat alespoň dvě faktury.';
 $lang['Invoices.!line_item.parent_description'] = 'Služba pro děti %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Jednorázové služby nelze obnovit.';
 

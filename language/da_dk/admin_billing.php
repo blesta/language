@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Ophængning';
 $lang['AdminBilling.services.action.suspend'] = 'Suspendere';
 $lang['AdminBilling.!success.services_unsuspended'] = 'De valgte tjenester blev afbrudt med succes.';
 $lang['AdminBilling.!success.services_suspended'] = 'De valgte tjenester blev suspenderet med succes.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Denne tjeneste har afventende ændringer.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Dato for udbetaling: %1$s';
 

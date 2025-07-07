@@ -28,4 +28,11 @@ $lang['AdminMain.index.email_subject'] = 'Sujet';
 $lang['AdminMain.index.email_to_recipients'] = '%1$s Bénéficiaire(s)';
 $lang['AdminMain.index.no_export_details'] = 'Aucun détail n\'est disponible sur l\'exportation.';
 $lang['AdminMain.index.no_results'] = 'Il n\'y a actuellement aucun emploi dans le domaine du mailing.';
+$lang['AdminMain.settings.submit_cancel'] = 'Annuler';
+$lang['AdminMain.settings.submit_settings'] = 'Sauvegarder les paramètres';
+$lang['AdminMain.settings.form.rate_limit'] = 'Limite du taux';
+$lang['AdminMain.settings.heading'] = 'Paramètres';
+$lang['AdminMain.settings.boxtitle'] = 'Paramètres de l\'expéditeur de masse';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Limite le nombre d\'e-mails envoyés à chaque exécution de la tâche cron. Lors de la prochaine exécution, la tâche reprendra là où elle s\'est arrêtée et enverra le lot d\'emails suivant, et ainsi de suite jusqu\'à ce que tous les emails aient été envoyés. 0 pour aucune limite.';
+$lang['AdminMain.!success.options_updated'] = 'Les paramètres du Mass Mailer ont été mis à jour avec succès !';
 

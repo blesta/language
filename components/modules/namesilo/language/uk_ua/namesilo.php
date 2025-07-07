@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Ім\'я контактн�
 $lang['Namesilo.tab_manage_contacts.title'] = 'Керування контактами';
 $lang['Namesilo.tab_whois.section_technical'] = 'Технічний';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Адміністративний';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Ідентифікатор контакту';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Отримує контакти з namesilo і з\'єднує їх з клієнтами blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Витягнути імена та контакти';
 

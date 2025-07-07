@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Vă rugăm să selectaț
 $lang['BtcpayServer.!error.server_url.valid'] = 'URL-ul serverului nu este valid.';
 $lang['BtcpayServer.description'] = 'BTCPayServer este un gateway de plată Bitcoin, găzduit de sine stătător, fără taxe.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Force store default as configured in BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Permiteți clientului să aleagă metoda de plată.';
+$lang['BtcpayServer.meta.payment_method'] = 'Metoda de plată';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Vă rugăm să selectați o metodă de plată valabilă.';
 

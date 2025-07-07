@@ -72,7 +72,7 @@ $lang['ClientMain.edit.two_factor_step3'] = 'Bekræft din engangsadgangskode, og
 $lang['ClientMain.edit.text_android'] = 'Android';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_windows'] = 'Vinduer';
-$lang['ClientMain.edit.field_otp'] = 'Engangsadgangskode';
+$lang['ClientMain.edit.field_otp'] = 'Engangsadgangskode (som vist i din Authenticator)';
 $lang['ClientMain.edit.field_editsubmit'] = 'Opdater mine oplysninger';
 $lang['ClientMain.invoicemethod.page_title'] = 'Kunde #%1$s Faktureringsmetode';
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Faktureringsmetode';
@@ -80,4 +80,6 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Din fakturametode er de
 $lang['Clientmain.invoicemethod.field_methodsubmit'] = 'Opdatering';
 $lang['ClientMain.getcurrencyamounts.text_total_credits'] = 'Krediteringer:';
 $lang['ClientMain.edit.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Påkrævet for at aktivere tofaktorautentificering eller opdatere adgangskoden.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'To-faktor-autentificering';
 

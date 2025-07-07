@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Ongeldig formaat voor gecodeerd.';
 $lang['Services.!error.value.empty'] = 'De waarde van het serviceveld mag niet leeg zijn.';
 $lang['Services.!error.key.length'] = 'De servicefieldsleutel mag niet langer zijn dan 32 tekens.';
 $lang['Services.!error.key.empty'] = 'De sleutel van het serviceveld mag niet leeg zijn.';
+$lang['Services.getActions.uncancel'] = 'Reactiveren';
+$lang['Services.!error.uncancel.unsupported'] = 'Deze service kan niet worden geannuleerd, omdat de module dit niet ondersteunt.';
 

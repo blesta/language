@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'O índice da ordem deve ser um valor n
 $lang['Navigation.!error.action_id.valid'] = 'ID de ação inválida';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Modelos HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Fila de serviço';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Mudanças no serviço';
 

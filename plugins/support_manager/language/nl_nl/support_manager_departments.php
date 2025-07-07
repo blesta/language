@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Voer een naam in voor de
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Een of meer prioriteiten zijn ongeldig.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecteer minstens één prioriteit.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Alleen voor klanten';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Escaleren naar noodgeval';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Of het ingediend moet worden, moet worden ingesteld op 0 of 1.';
 

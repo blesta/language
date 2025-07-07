@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gatewa
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'inschakelen';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-beperkingen inschakelen';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beperk welke gateways clients kunnen gebruiken. Standaard zijn gatewaybeperkingen uitgeschakeld en zijn alle gateways beschikbaar.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Klantengroep';
 

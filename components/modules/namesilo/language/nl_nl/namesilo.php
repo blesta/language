@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Naam contactpersoon';
 $lang['Namesilo.tab_manage_contacts.title'] = 'Contacten beheren';
 $lang['Namesilo.tab_whois.section_technical'] = 'Technisch';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Administratief';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Contact ID';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Haalt contacten op uit namesilo en koppelt deze aan klanten van Blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Trek Namesilo Contacten';
 

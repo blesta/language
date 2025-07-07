@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Kontakty, które nie zostały wybrane
 $lang['AdminTickets.add.text_add_recipient'] = 'Dodaj odbiorcę';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontakty';
 $lang['AdminTickets.add.heading_recipients'] = 'Odbiorcy';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Dodatkowi odbiorcy';
+$lang['AdminTickets.reply.text_service_none'] = 'Brak';
+$lang['AdminTickets.reply.heading_service'] = 'Usługa';
+$lang['AdminTickets.add.text_service_none'] = 'Brak';
+$lang['AdminTickets.add.heading_service'] = 'Usługa';
+$lang['AdminTickets.add.text_no_contacts'] = 'Brak dodatkowych kontaktów dostępnych dla wybranego klienta.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Adres e-mail do otrzymywania powiadomień o aktualizacji zgłoszenia.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontakty, które mają być powiadamiane o aktualizacji zgłoszenia. Osoby, które nie zostały wybrane, zostaną automatycznie dodane do zgłoszenia, jeśli na nie odpowiedzą.';
 

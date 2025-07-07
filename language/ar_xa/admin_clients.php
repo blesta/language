@@ -918,4 +918,16 @@ $lang['AdminClients.editservice.field_date_canceled'] = 'تاريخ الإلغا
 $lang['AdminClients.services.action.suspend'] = 'تعليق';
 $lang['AdminClients.services.action.unsuspend'] = 'إلغاء التعليق';
 $lang['AdminClients.services.action.field_suspension_reason'] = 'سبب الإيقاف:';
+$lang['AdminClients.services.text_pending_service_changes'] = 'هذه الخدمة لها تغييرات معلقة.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'تاريخ الدفع من خلال';
+$lang['AdminClients.editservice.field_status'] = 'الحالة';
+$lang['AdminClients.editservice.field_term'] = 'المدة';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'عدم إصدار فاتورة';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'الإلحاق بالفاتورة';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'إنشاء الفاتورة';
+$lang['AdminClients.editservice.field_invoice_method'] = 'طريقة الفاتورة';
+$lang['AdminClients.editservice.text_uncancel'] = 'أنت على وشك إعادة تنشيط خدمة تم إلغاؤها. إذا تم إلغاء تحديد "استخدام الوحدة النمطية"، فسيتم إعادة تنشيط الخدمة في Blesta فقط. لاحظ أن إعادة التفعيل من خلال الوحدة النمطية قد تكون إشكالية وقد لا تكون مدعومة من قبل جميع الوحدات النمطية. لا تؤدي إعادة تنشيط الخدمة الملغاة إلى التراجع عن إجراء الإلغاء الذي تم تنفيذه من خلال واجهة برمجة تطبيقات الوحدة النمطية.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'تاريخ الدفع من خلال:';
+$lang['AdminClients.invoices.option_copy'] = 'نسخ';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'تاريخ الدفع من خلال: %1$s';
 

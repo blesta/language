@@ -180,4 +180,6 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'تم إلغاء تعلي�
 $lang['AdminBilling.services.action.suspend'] = 'تعليق';
 $lang['AdminBilling.services.action.unsuspend'] = 'إلغاء التعليق';
 $lang['AdminBilling.services.action.field_suspension_reason'] = 'سبب الإيقاف:';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'هذه الخدمة لها تغييرات معلقة.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'تاريخ الدفع من خلال: %1$s';
 

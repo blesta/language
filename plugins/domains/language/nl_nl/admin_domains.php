@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'De volgende TLD\'s konden niet 
 $lang['AdminDomains.!success.delete'] = 'De TLD zijn succesvol verwijderd!';
 $lang['AdminDomains.!success.change_registration_date'] = 'De registratiedatum van het domein is bijgewerkt!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'De vervaldatum van het domein is bijgewerkt!';
+$lang['AdminDomains.tlds.field_currency'] = 'Valuta';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Het domein is verhuisd van de registrar.';
 

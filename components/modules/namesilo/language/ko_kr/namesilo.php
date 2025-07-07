@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = '연락처 이름';
 $lang['Namesilo.tab_manage_contacts.title'] = '연락처 관리';
 $lang['Namesilo.tab_whois.section_technical'] = '기술';
 $lang['Namesilo.tab_whois.section_administrative'] = '관리';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = '연락처 ID';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = '네임실로의 연락처를 가져와서 블레스타 클라이언트에 연결합니다.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = '풀 네임실로 연락처';
 

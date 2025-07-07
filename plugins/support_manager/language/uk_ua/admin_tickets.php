@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Контакти, які не бул�
 $lang['AdminTickets.add.text_add_recipient'] = 'Додати одержувача';
 $lang['AdminTickets.add.heading_contacts'] = 'Контакти';
 $lang['AdminTickets.add.heading_recipients'] = 'Одержувачі';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Додаткові реципієнти';
+$lang['AdminTickets.reply.text_service_none'] = 'Ні.';
+$lang['AdminTickets.reply.heading_service'] = 'Сервіс';
+$lang['AdminTickets.add.text_service_none'] = 'Ні.';
+$lang['AdminTickets.add.heading_service'] = 'Сервіс';
+$lang['AdminTickets.add.text_no_contacts'] = 'Для обраного клієнта немає додаткових контактів.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Адреса електронної пошти, на яку буде надіслано повідомлення про оновлення квитка.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Контакти, які будуть сповіщені про оновлення тікета. Ті, кого не було обрано, будуть автоматично додані до тікета, якщо відповідатимуть на нього.';
 

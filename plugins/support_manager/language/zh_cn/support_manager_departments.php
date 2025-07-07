@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = '请输入该部门的名
 $lang['SupportManagerDepartments.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = '一个或多个优先级无效。';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = '至少选择一个优先事项。';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = '仅限客户';
+$lang['SupportManagerDepartments.field_types.emergency'] = '升级为紧急情况';
+$lang['SupportManagerDepartments.!error.required.format'] = '是否要求备案必须设置为 0 或 1。';
 

@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.reminder_intervals.hours'] = 'Heures %1$s';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Minutes';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Sélectionnez au moins une priorité.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Une ou plusieurs priorités ne sont pas valides.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Client uniquement';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Passage à l\'état d\'urgence';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Si l\'on veut que le fichier soit réglé sur 0 ou 1.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Опции за надграждане';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Актуализиране на настройките';
 $lang['AdminSystemUpgrade.index.no_results'] = 'Към момента не са налични опции за надграждане.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'Актуализиране на настройките';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'Опции за надграждане';
 $lang['AdminSystemUpgrade.index.page_title'] = 'Настройки &gt; Система &gt; Опции за надграждане';
 

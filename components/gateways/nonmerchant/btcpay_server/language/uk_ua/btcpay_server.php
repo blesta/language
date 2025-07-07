@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Будь ласка, о�
 $lang['BtcpayServer.!error.server_url.valid'] = 'Невірна URL-адреса сервера.';
 $lang['BtcpayServer.description'] = 'BTCPayServer - це самодостатній платіжний шлюз для біткойн-платежів без комісій.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Примусово зберігати значення за замовчуванням, як налаштовано в BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Дозвольте клієнту обирати спосіб оплати.';
+$lang['BtcpayServer.meta.payment_method'] = 'Спосіб оплати';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Будь ласка, оберіть дійсний спосіб оплати.';
 

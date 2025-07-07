@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Modifier la date d\'inscripti
 $lang['AdminMain.edit.field_expiration_date'] = 'Modifier la date d\'expiration';
 $lang['AdminMain.!success.change_registration_date'] = 'La date d\'enregistrement du domaine a été mise à jour !';
 $lang['AdminMain.!success.change_expiration_date'] = 'La date d\'expiration du domaine a été mise à jour !';
+$lang['AdminMain.add.text_refresh'] = 'Rafraîchir';
+$lang['AdminMain.index.tooltip_transferred'] = 'Le domaine a été transféré du bureau d\'enregistrement.';
 

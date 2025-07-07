@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Masukkan nama untuk depa
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Satu atau beberapa prioritas tidak valid.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Pilih setidaknya satu prioritas.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Khusus Klien';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Tingkatkan ke Keadaan Darurat';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Apakah akan memerlukan arsip harus diatur ke 0 atau 1.';
 

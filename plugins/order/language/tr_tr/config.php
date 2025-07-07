@@ -19,4 +19,6 @@ $lang['Config.index.field_addon_label_recurring'] = '{1$s} (%2$s @ %3$s, yeniler
 $lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
 $lang['Config.index.package_price_recurring'] = '%1$s @ %2$s (%3$s tarihinde yenilenir)';
 $lang['Config.index.package_price'] = '%1$s @ %2$s';
+$lang['Config.!error.invalid_value_option'] = '%1$s için bir değer seçilmelidir.';
+$lang['Config.!error.invalid_quantity_option'] = '"%1$s" seçenek değeri %2$s ve %3$s arasında olmalıdır.';
 

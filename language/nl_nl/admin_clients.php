@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Ontspannen';
 $lang['AdminClients.services.action.suspend'] = 'opschorten';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Datum Geannuleerd';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Datum Geschorst';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Deze service heeft hangende wijzigingen.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Datum betaald door';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Term';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Niet factureren';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Toevoegen aan factuur';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Factuur maken';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Factuurmethode';
+$lang['AdminClients.editservice.text_uncancel'] = 'U staat op het punt om een geannuleerde dienst opnieuw te activeren. Als "Gebruik module" niet is aangevinkt, wordt de dienst alleen in Blesta gereactiveerd. Merk op dat het reactiveren via de module problemen kan opleveren en mogelijk niet door alle modules wordt ondersteund. Het opnieuw activeren van een geannuleerde service maakt de annuleringsactie die is uitgevoerd via de API van de module niet ongedaan.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Datum betaald door:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopie';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Datum betaald door: %1$s';
 

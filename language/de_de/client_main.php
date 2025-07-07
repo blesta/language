@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Ihre Rechnungsmethode i
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Methode der Rechnungsstellung';
 $lang['ClientMain.invoicemethod.page_title'] = 'Kunde #%1$s Rechnungsmethode';
 $lang['ClientMain.edit.field_editsubmit'] = 'Meine Informationen aktualisieren';
-$lang['ClientMain.edit.field_otp'] = 'Einmaliges Passwort';
+$lang['ClientMain.edit.field_otp'] = 'Einmaliges Passwort (wie in Ihrem Authenticator angezeigt)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Zahlung vornehmen';
 $lang['ClientMain.!info.invoice_due_title'] = 'Willkommen zurück, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Ihre Rechnungsmethode wurde erfolgreich aktualisiert. Alle zukünftigen Rechnungen werden Ihnen über %1$s zugestellt.';
 $lang['ClientMain.!success.client_updated'] = 'Ihre Kontoinformationen wurden erfolgreich aktualisiert.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Erforderlich, um die Zwei-Faktor-Authentifizierung zu aktivieren oder das Passwort zu aktualisieren.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Zwei-Faktoren-Authentifizierung';
 

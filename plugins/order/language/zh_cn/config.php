@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = '为域"%1$s "选择的术语无效
 $lang['Config.!error.domain_duplicated'] = '域名"%1$s "已在您的购物车中。';
 $lang['Config.!error.invalid_module'] = '该软件包目前不可用。';
 $lang['Config.!error.invalid_pricing_id'] = '未找到给出的软件包。';
+$lang['Config.!error.invalid_value_option'] = '必须为%1$s 选择一个值。';
+$lang['Config.!error.invalid_quantity_option'] = '%1$s" 选项值必须介于%2$s 和%3$s 之间。';
 

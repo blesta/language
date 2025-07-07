@@ -72,7 +72,7 @@ $lang['ClientMain.edit.two_factor_step3'] = 'Confirme su contraseña de un solo 
 $lang['ClientMain.edit.text_android'] = 'Android';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
-$lang['ClientMain.edit.field_otp'] = 'Contraseña única';
+$lang['ClientMain.edit.field_otp'] = 'Contraseña de un solo uso (Como se muestra en su Authenticator)';
 $lang['ClientMain.edit.field_editsubmit'] = 'Actualizar mis datos';
 $lang['ClientMain.invoicemethod.page_title'] = 'Cliente #%1$s Método de facturación';
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Método de facturación';
@@ -80,4 +80,6 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Su método de facturaci
 $lang['Clientmain.invoicemethod.field_methodsubmit'] = 'Actualización';
 $lang['ClientMain.getcurrencyamounts.text_total_credits'] = 'Créditos:';
 $lang['ClientMain.edit.field_recovery_email'] = 'Correo electrónico de recuperación (opcional)';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Necesario para activar la autenticación de dos factores o actualizar la contraseña.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autenticación de dos factores';
 

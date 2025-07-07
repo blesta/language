@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Развернуть';
 $lang['AdminBilling.services.action.suspend'] = 'Приостановить';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Выбранные службы были успешно отменены.';
 $lang['AdminBilling.!success.services_suspended'] = 'Выбранные службы были успешно приостановлены.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Эта услуга ожидает изменений.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Дата оплаты: %1$s';
 

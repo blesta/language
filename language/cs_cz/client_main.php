@@ -15,7 +15,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Způsob fakturace je zp
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Způsob fakturace';
 $lang['ClientMain.invoicemethod.page_title'] = 'Klient #%1$s Způsob fakturace';
 $lang['ClientMain.edit.field_editsubmit'] = 'Aktualizace mých informací';
-$lang['ClientMain.edit.field_otp'] = 'Jednorázové heslo';
+$lang['ClientMain.edit.field_otp'] = 'Jednorázové heslo (zobrazené v autentizačním nástroji)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_title'] = 'Vítej zpět, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Vaše metoda fakturace byla úspěšně aktualizována. Všechny budoucí faktury vám budou doručeny prostřednictvím %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Informace o vašem účtu byly úspěšně aktualizovány.';
 $lang['ClientMain.edit.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Vyžaduje se pro povolení dvoufaktorového ověřování nebo aktualizaci hesla.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Dvoufaktorové ověřování';
 

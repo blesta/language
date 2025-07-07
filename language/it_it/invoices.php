@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Tutte le fatture devono essere ap
 $lang['Invoices.!error.invoice_ids.currency'] = 'Tutte le fatture devono avere la stessa valuta.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Devono essere selezionate almeno due fatture.';
 $lang['Invoices.!line_item.parent_description'] = 'Servizio Infanzia di %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'I servizi una tantum non possono essere rinnovati.';
 

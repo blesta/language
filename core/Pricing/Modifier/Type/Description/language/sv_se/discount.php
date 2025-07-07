@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Discount.description.coupon.percent'] = 'Kupong %1$s (%2$s%%)';
 $lang['Discount.description.coupon.amount'] = 'Kupong %1$s';
+$lang['Discount.description.coupon.percent'] = 'Kupong %1$s (%2$s%%)';
 

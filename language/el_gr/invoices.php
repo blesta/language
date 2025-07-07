@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Όλα τα τιμολόγια π
 $lang['Invoices.!error.invoice_ids.currency'] = 'Όλα τα τιμολόγια πρέπει να έχουν το ίδιο νόμισμα.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Πρέπει να επιλεγούν τουλάχιστον δύο τιμολόγια.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Οι εφάπαξ υπηρεσίες δεν μπορούν να ανανεωθούν.';
 

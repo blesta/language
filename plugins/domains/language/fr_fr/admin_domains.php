@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Les TLD suivants n\'ont pas pu 
 $lang['AdminDomains.!success.delete'] = 'Les TLD ont été supprimés avec succès !';
 $lang['AdminDomains.!success.change_registration_date'] = 'La date d\'enregistrement du domaine a été mise à jour !';
 $lang['AdminDomains.!success.change_expiration_date'] = 'La date d\'expiration du domaine a été mise à jour !';
+$lang['AdminDomains.tlds.field_currency'] = 'Monnaie';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Le domaine a été transféré du bureau d\'enregistrement.';
 

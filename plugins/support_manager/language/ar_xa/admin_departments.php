@@ -149,4 +149,12 @@ $lang['AdminDepartments.edit.field_priorities'] = 'الأولويات المتا
 $lang['AdminDepartments.edit.field_force_import'] = 'قوة الاستيراد';
 $lang['AdminDepartments.add.field_force_import'] = 'قوة الاستيراد';
 $lang['AdminDepartments.!success.department_imported'] = 'تم استيراد قسم %1$s بنجاح.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'يمكن ضبط حقل واحد فقط على الطوارئ في كل مرة.';
+$lang['AdminDepartments.edit.heading_required'] = 'مطلوب';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'تمكين الخدمات ذات الصلة';
+$lang['AdminDepartments.add.text_emergency_field'] = 'يمكن ضبط حقل واحد فقط على الطوارئ في كل مرة.';
+$lang['AdminDepartments.add.heading_required'] = 'مطلوب';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'تمكين الخدمات ذات الصلة';
+$lang['AdminDepartments.!tooltip.type'] = 'يعرض "التصعيد إلى الطوارئ" مربع تنبيه مع رسالة وخانة اختيار. إذا قام المستخدم بالتحقق من خانة الاختيار، يتم تصعيد التذكرة تلقائياً إلى "الطوارئ"، حتى لو تم تعطيل هذه الأولوية للقسم. متوفر فقط عندما يتم تعيين الرؤية إلى "العميل فقط".';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'السماح للعملاء بتحديد الخدمة التي ترتبط بها التذكرة.';
 

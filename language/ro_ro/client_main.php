@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Metoda de facturare est
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Metoda de facturare';
 $lang['ClientMain.invoicemethod.page_title'] = 'Client #%1$s Metoda de facturare a clientului #%1$s';
 $lang['ClientMain.edit.field_editsubmit'] = 'Actualizarea informațiilor mele';
-$lang['ClientMain.edit.field_otp'] = 'Parolă unică';
+$lang['ClientMain.edit.field_otp'] = 'Parolă unică (așa cum este afișată în Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Efectuați plata';
 $lang['ClientMain.!info.invoice_due_title'] = 'Bine ai revenit, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Metoda dumneavoastră de facturare a fost actualizată cu succes. Toate facturile viitoare vă vor fi livrate prin %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Informațiile contului dvs. au fost actualizate cu succes.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Necesar pentru a activa autentificarea cu doi factori sau pentru a actualiza parola.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autentificare cu doi factori';
 

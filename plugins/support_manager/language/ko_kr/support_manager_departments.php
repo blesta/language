@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s 시간';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s 분';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = '하나 이상의 우선순위가 유효하지 않습니다.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = '우선순위를 하나 이상 선택합니다.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = '클라이언트 전용';
+$lang['SupportManagerDepartments.field_types.emergency'] = '긴급 상황으로 에스컬레이션';
+$lang['SupportManagerDepartments.!error.required.format'] = '파일 요구 여부는 0 또는 1로 설정해야 합니다.';
 

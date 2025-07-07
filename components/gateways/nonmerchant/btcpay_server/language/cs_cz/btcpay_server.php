@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Vyberte prosím platnou 
 $lang['BtcpayServer.!error.server_url.valid'] = 'Adresa URL serveru je neplatná.';
 $lang['BtcpayServer.description'] = 'BTCPayServer je samostatně hostovaná platební brána pro bitcoiny bez poplatků.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Vynutit výchozí nastavení úložiště podle konfigurace v BTCPay Serveru.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Umožněte klientovi zvolit způsob platby.';
+$lang['BtcpayServer.meta.payment_method'] = 'Způsob platby';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Vyberte platný způsob platby.';
 

@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Kontakty, které nebyly vybrány, bud
 $lang['AdminTickets.add.text_add_recipient'] = 'Přidat příjemce';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontakty';
 $lang['AdminTickets.add.heading_recipients'] = 'Příjemci';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Další příjemci';
+$lang['AdminTickets.reply.text_service_none'] = 'Žádné';
+$lang['AdminTickets.reply.heading_service'] = 'Služba';
+$lang['AdminTickets.add.text_service_none'] = 'Žádné';
+$lang['AdminTickets.add.heading_service'] = 'Služba';
+$lang['AdminTickets.add.text_no_contacts'] = 'Pro vybraného klienta nejsou k dispozici žádné další kontakty.';
+$lang['AdminTickets.!tooltip.recipients'] = 'E-mailová adresa, na kterou chcete být upozorněni při aktualizaci tipu.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontakty, které mají být informovány o aktualizaci tipu. Ti, kteří nejsou vybráni, budou automaticky přidáni k tiketu, pokud na něj budou reagovat.';
 

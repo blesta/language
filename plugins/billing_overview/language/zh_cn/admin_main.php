@@ -12,7 +12,7 @@
 $lang['AdminMain.graph_line_name.credit'] = '信用卡';
 $lang['AdminMain.graph_line_name.total'] = '总计';
 $lang['AdminMain.graph_name.graph_invoiced'] = '发票金额';
-$lang['AdminMain.graph_name.graph_revenue_year'] = '收入（年初至今）';
+$lang['AdminMain.graph_name.graph_revenue_year'] = '收入（截至本年度 -%1$s)';
 $lang['AdminMain.graph_line_name.credits'] = '荣誉';
 $lang['AdminMain.graph_line_name.other'] = '其他';
 $lang['AdminMain.graph_line_name.ach'] = 'ACH';

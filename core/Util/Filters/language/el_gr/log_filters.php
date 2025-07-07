@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.log_filters.field_end_date'] = 'Ημερομηνία λήξης';
-$lang['Util.filters.log_filters.field_start_date'] = 'Ημερομηνία έναρξης';
 $lang['Util.filters.log_filters.field_string'] = 'Περιεχόμενο';
+$lang['Util.filters.log_filters.field_start_date'] = 'Ημερομηνία έναρξης';
+$lang['Util.filters.log_filters.field_end_date'] = 'Ημερομηνία λήξης';
 

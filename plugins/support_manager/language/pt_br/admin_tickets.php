@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Os contatos não selecionados serão 
 $lang['AdminTickets.add.text_add_recipient'] = 'Adicionar destinatário';
 $lang['AdminTickets.add.heading_contacts'] = 'Contatos';
 $lang['AdminTickets.add.heading_recipients'] = 'Beneficiários';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Destinatários adicionais';
+$lang['AdminTickets.reply.text_service_none'] = 'Nenhum';
+$lang['AdminTickets.reply.heading_service'] = 'Serviço';
+$lang['AdminTickets.add.text_service_none'] = 'Nenhum';
+$lang['AdminTickets.add.heading_service'] = 'Serviço';
+$lang['AdminTickets.add.text_no_contacts'] = 'Não há contatos adicionais disponíveis para o cliente selecionado.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Endereço de e-mail a ser notificado quando um tíquete for atualizado.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Contatos a serem notificados quando um tíquete for atualizado. Os contatos não selecionados serão adicionados automaticamente ao tíquete se responderem a ele.';
 

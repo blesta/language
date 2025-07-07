@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'يجب أن يكون فهرس الطل
 $lang['Navigation.!error.action_id.valid'] = 'معرف الإجراء غير صالح';
 $lang['Navigation.getcompany.nav_html_templates'] = 'قوالب HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'قائمة انتظار الخدمة';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'تغييرات الخدمة';
 

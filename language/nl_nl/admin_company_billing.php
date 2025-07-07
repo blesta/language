@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Pog
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Het aantal serviceacties dat moet worden geprobeerd voordat de volgende poging wordt vertraagd met de hoeveelheid die is opgegeven door de instelling voor de afstand tussen tweede pogingen';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Het aantal serviceacties dat moet worden geprobeerd voordat de volgende poging wordt vertraagd met de hoeveelheid die is opgegeven door de instelling voor de afstand tussen de eerste poging en de volgende poging.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Het aantal pogingen en mislukkingen om een serviceactie te verwerken voordat die serviceactie wordt uitgeschakeld voor automatische voltooiing.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Alleen onmiddellijke annulering toestaan';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Alleen annulering aan het einde van de termijn toestaan';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Onmiddellijke annulering of annulering aan het einde van de termijn toestaan';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Opties voor klant annuleren';
 

@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Индекс заказа должен
 $lang['Navigation.!error.action_id.valid'] = 'Неверный идентификатор действия';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Шаблоны HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Очередь обслуживания';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Изменения в обслуживании';
 

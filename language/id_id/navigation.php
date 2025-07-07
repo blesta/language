@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Indeks pesanan harus berupa nilai nume
 $lang['Navigation.!error.action_id.valid'] = 'ID tindakan tidak valid';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Templat HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Antrian Layanan';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Perubahan Layanan';
 

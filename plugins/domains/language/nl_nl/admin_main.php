@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Registratiedatum wijzigen';
 $lang['AdminMain.edit.field_expiration_date'] = 'Verloopdatum wijzigen';
 $lang['AdminMain.!success.change_registration_date'] = 'De registratiedatum van het domein is bijgewerkt!';
 $lang['AdminMain.!success.change_expiration_date'] = 'De vervaldatum van het domein is bijgewerkt!';
+$lang['AdminMain.add.text_refresh'] = 'Vernieuw';
+$lang['AdminMain.index.tooltip_transferred'] = 'Het domein is verhuisd van de registrar.';
 

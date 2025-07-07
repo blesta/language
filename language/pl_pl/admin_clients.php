@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Unsuspend';
 $lang['AdminClients.services.action.suspend'] = 'Zawieszenie';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Data anulowania';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Data zawieszenia';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Ta usługa oczekuje na zmiany.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Data płatności za pośrednictwem';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Termin';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Nie fakturować';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Dołącz do faktury';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Utwórz fakturę';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Metoda fakturowania';
+$lang['AdminClients.editservice.text_uncancel'] = 'Zamierzasz ponownie aktywować anulowaną usługę. Jeśli opcja "Użyj modułu" nie jest zaznaczona, usługa zostanie ponownie aktywowana tylko w Blesta. Należy pamiętać, że ponowna aktywacja za pośrednictwem modułu może być problematyczna i może nie być obsługiwana przez wszystkie moduły. Ponowna aktywacja anulowanej usługi nie powoduje cofnięcia akcji anulowania wykonanej za pośrednictwem interfejsu API modułu.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Data płatności:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopia';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Data płatności: %1$s';
 

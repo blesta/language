@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Fö
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Antalet serviceåtgärder som ska försöka innan nästa försök fördröjs med den mängd som anges av inställningen för andra försökets avstånd';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Antalet serviceåtgärder som ska försöka innan nästa försök fördröjs med den mängd som anges av inställningen för avståndet mellan första försöket';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Antalet försök och misslyckanden att bearbeta en serviceåtgärd innan den serviceåtgärden inaktiveras från automatisk slutförande.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Endast tillåta omedelbar avbokning';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Tillåt endast avbokning i slutet av terminen';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Tillåt omedelbar avbokning eller avbokning i slutet av terminen';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Alternativ för avbrytande av klient';
 

@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'واحد على �
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'أحد مستلمي التذاكر على الأقل غير صالح.';
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'واحدة على الأقل من جهات اتصال التذاكر غير صالحة.';
 $lang['SupportManagerTickets.!error.priority.valid'] = 'يرجى تحديد أولوية صالحة لهذا القسم.';
+$lang['SupportManagerTickets.log.service_id'] = 'تم تغيير الخدمة ذات الصلة إلى المعرف الداخلي: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" مطلوب ولا يمكن أن يكون فارغًا.';
 

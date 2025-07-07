@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Ubah Tanggal Pendaftaran';
 $lang['AdminMain.edit.field_expiration_date'] = 'Ubah Tanggal Kedaluwarsa';
 $lang['AdminMain.!success.change_registration_date'] = 'Tanggal pendaftaran Domain telah diperbarui!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Tanggal kedaluwarsa Domain telah diperbarui!';
+$lang['AdminMain.add.text_refresh'] = 'Menyegarkan';
+$lang['AdminMain.index.tooltip_transferred'] = 'Domain telah ditransfer dari pencatat.';
 

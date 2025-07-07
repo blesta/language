@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Askıdan Çıkarma';
 $lang['AdminBilling.services.action.suspend'] = 'Askıya al';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Seçilen hizmetler başarıyla askıdan alındı.';
 $lang['AdminBilling.!success.services_suspended'] = 'Seçilen hizmetler başarıyla askıya alındı.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Bu hizmette bekleyen değişiklikler var.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Ödenen Tarih: %1$s';
 

@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Askıya al';
 $lang['AdminClients.editservice.field_date_canceled'] = 'İptal Edilen Tarih';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Askıya Alındığı Tarih';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Son Yenilendiği Tarih';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Bu hizmette bekleyen değişiklikler var.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Ödenen Tarih';
+$lang['AdminClients.editservice.field_status'] = 'Durum';
+$lang['AdminClients.editservice.field_term'] = 'Dönem';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Faturalama Yapmayın';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Faturaya Ekle';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Fatura Oluştur';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Fatura Yöntemi';
+$lang['AdminClients.editservice.text_uncancel'] = 'İptal edilen bir hizmeti yeniden etkinleştirmek üzeresiniz. "Modül kullan" seçeneği işaretli değilse, hizmet yalnızca Blesta\'da yeniden etkinleştirilecektir. Modül üzerinden yeniden etkinleştirmenin sorunlu olabileceğini ve tüm modüller tarafından desteklenmeyebileceğini unutmayın. İptal edilen bir hizmetin yeniden etkinleştirilmesi, modülün API\'si aracılığıyla gerçekleştirilen iptal eylemini geri almaz.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Ödenen Tarih:';
+$lang['AdminClients.invoices.option_copy'] = 'Anlaşıldı';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Ödenen Tarih: %1$s';
 

@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Пожалуйста, в
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'По крайней мере один из контактов билета недействителен.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'По крайней мере один из получателей билета недействителен.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'По крайней мере один из получателей билета дублируется.';
+$lang['SupportManagerTickets.log.service_id'] = 'Соответствующий сервис был изменен на внутренний ID: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" является обязательным и не может быть пустым.';
 

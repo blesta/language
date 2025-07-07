@@ -30,4 +30,8 @@ $lang['BtcpayServer.webhook'] = 'BTCPay Server Webhook';
 $lang['BtcpayServer.webhook_note'] = 'Før du begynder at bruge denne gateway, skal du konfigurere følgende url som et webhook på din BTCPay-server.';
 $lang['BtcpayServer.buildprocess.submit'] = 'Indsend betaling';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Gennemtving standardbutik som konfigureret i BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Giv kunden mulighed for at vælge betalingsmetode.';
+$lang['BtcpayServer.meta.payment_method'] = 'Betalingsmetode';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Vælg venligst en gyldig betalingsmetode.';
 

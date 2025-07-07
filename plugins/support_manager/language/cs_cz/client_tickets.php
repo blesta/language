@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Nejsou k dispozici žádná pod
 $lang['ClientTickets.!success.ticket_closed'] = 'Tiket #%1$s byl úspěšně uzavřen.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Tiket #%1$s byl úspěšně aktualizován.';
 $lang['ClientTickets.!success.ticket_created'] = 'Tiket #%1$s byl úspěšně vytvořen.';
+$lang['ClientTickets.reply.text_service_none'] = 'Žádné';
+$lang['ClientTickets.reply.heading_service_id'] = 'Související služby';
+$lang['ClientTickets.add.none'] = 'Žádné';
+$lang['ClientTickets.add.field_service_id'] = 'Související služby';
 

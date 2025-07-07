@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Selecteer een geldige pr
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Ten minste één van de ticketcontacten is ongeldig.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Ten minste één van de ontvangers van het ticket is ongeldig.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Ten minste één van de ontvangers van het ticket is dubbel.';
+$lang['SupportManagerTickets.log.service_id'] = 'De gerelateerde service is gewijzigd in interne ID: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" is vereist en kan niet leeg zijn.';
 

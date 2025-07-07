@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = '잘못된 초대 ID입�
 $lang['ManagedAccounts.!error.email.invitation'] = '이 계정으로 이미 초대가 전송되었습니다.';
 $lang['ManagedAccounts.!error.client_id.exists'] = '클라이언트 ID가 잘못되었습니다.';
 $lang['ManagedAccounts.!error.client.exists'] = '제공한 이메일 주소에 계정이 할당되어 있지 않습니다.';
+$lang['ManagedAccounts.!error.email.exists'] = '초대를 보내지 못했습니다. 이메일 주소가 올바른지 확인하거나 사용자에게 먼저 등록하도록 요청하세요.';
 

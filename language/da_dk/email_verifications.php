@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.email.valid'] = 'Indtast venligst en gyldig e-m
 $lang['EmailVerifications.!error.token.format'] = 'Indtast venligst et gyldigt token.';
 $lang['EmailVerifications.!error.verified.valid'] = 'Det verificerede felt skal være "1" eller "0".';
 $lang['EmailVerifications.!error.redirect_url.valid'] = 'Indtast venligst en gyldig URL.';
+$lang['EmailVerifications.!error.client.valid'] = 'Din e-mailadresse kunne ikke bekræftes, fordi din konto ikke er aktiv.';
 

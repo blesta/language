@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Nieuwe e-mailing maken';
 $lang['AdminMain.index.boxtitle'] = 'Mass Mailer Jobs';
 $lang['AdminMain.index.page_title'] = 'Massa Mailer';
 $lang['AdminMain.!error.export_found'] = 'De export kon niet worden gevonden op het bestandssysteem.';
+$lang['AdminMain.settings.submit_cancel'] = 'Annuleren';
+$lang['AdminMain.settings.submit_settings'] = 'Instellingen opslaan';
+$lang['AdminMain.settings.form.rate_limit'] = 'Tarieflimiet';
+$lang['AdminMain.settings.heading'] = 'Instellingen';
+$lang['AdminMain.settings.boxtitle'] = 'Instellingen massamailer';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Beperkt het aantal e-mails dat per crontaak wordt verzonden. Bij de volgende uitvoer gaat de taak verder waar hij gebleven was en verzendt de volgende batch e-mails, enzovoort totdat alle e-mails zijn verzonden. 0 voor geen limiet.';
+$lang['AdminMain.!success.options_updated'] = 'De instellingen van de Mass Mailer zijn bijgewerkt!';
 

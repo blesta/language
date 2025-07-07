@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'عتبة 
 $lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'المحاولة الأولى التباعد بين المحاولة الأولى';
 $lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'عتبة تباعد المحاولة الثانية';
 $lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = 'المحاولة الثانية التباعد بين المحاولة الثانية';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'السماح بالإلغاء الفوري فقط';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'السماح بالإلغاء في نهاية المدة فقط';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'السماح بالإلغاء الفوري أو الإلغاء في نهاية المدة';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'خيارات إلغاء العميل إلغاء العميل';
 

@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Prioritas yang Tersedia';
 $lang['AdminDepartments.edit.field_force_import'] = 'Impor Paksa';
 $lang['AdminDepartments.add.field_force_import'] = 'Impor Paksa';
 $lang['AdminDepartments.!success.department_imported'] = 'Departemen %1$s berhasil diimpor.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Hanya satu bidang yang dapat diatur ke keadaan darurat dalam satu waktu.';
+$lang['AdminDepartments.edit.heading_required'] = 'Diperlukan';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Mengaktifkan layanan terkait';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Hanya satu bidang yang dapat diatur ke keadaan darurat dalam satu waktu.';
+$lang['AdminDepartments.add.heading_required'] = 'Diperlukan';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Mengaktifkan layanan terkait';
+$lang['AdminDepartments.!tooltip.type'] = '"Eskalasikan ke Darurat" menampilkan kotak peringatan dengan pesan dan kotak centang. Jika pengguna mencentang kotak centang, tiket akan secara otomatis dieskalasi ke "Darurat", meskipun prioritas tersebut dinonaktifkan untuk departemen tersebut. Hanya tersedia ketika Visibilitas diatur ke Hanya Klien.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Izinkan klien untuk memilih layanan yang terkait dengan tiket tersebut.';
 

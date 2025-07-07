@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Beschikbare prioriteiten';
 $lang['AdminDepartments.edit.field_force_import'] = 'Kracht import';
 $lang['AdminDepartments.add.field_force_import'] = 'Kracht import';
 $lang['AdminDepartments.!success.department_imported'] = 'De %1$s afdeling is succesvol geïmporteerd.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Er kan maar één veld tegelijk op nood worden ingesteld.';
+$lang['AdminDepartments.edit.heading_required'] = 'Vereist';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Aanverwante services inschakelen';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Er kan maar één veld tegelijk op nood worden ingesteld.';
+$lang['AdminDepartments.add.heading_required'] = 'Vereist';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Aanverwante services inschakelen';
+$lang['AdminDepartments.!tooltip.type'] = '"Escaleren naar noodgeval" toont een waarschuwingsvak met een bericht en een selectievakje. Als de gebruiker het selectievakje aanvinkt, wordt het ticket automatisch geëscaleerd naar "Noodgeval", zelfs als die prioriteit is uitgeschakeld voor de afdeling. Alleen beschikbaar als Zichtbaarheid is ingesteld op Alleen klant.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Laat klanten een service selecteren waarop het ticket betrekking heeft.';
 

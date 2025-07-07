@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = '添加 
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 模板';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '高级编辑服务';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = '服务队列';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = '服务变化';
 

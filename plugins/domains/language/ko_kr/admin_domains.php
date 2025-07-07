@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = '다음 TLD는 사용 중이므�
 $lang['AdminDomains.!success.delete'] = 'TLD가 성공적으로 삭제되었습니다!';
 $lang['AdminDomains.!success.change_registration_date'] = '도메인 등록 날짜가 업데이트되었습니다!';
 $lang['AdminDomains.!success.change_expiration_date'] = '도메인 만료일이 업데이트되었습니다!';
+$lang['AdminDomains.tlds.field_currency'] = '통화';
+$lang['AdminDomains.browse.tooltip_transferred'] = '도메인이 등록기관에서 이전되었습니다.';
 

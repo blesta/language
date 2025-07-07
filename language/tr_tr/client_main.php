@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Fatura yönteminiz, siz
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Fatura Yöntemi';
 $lang['ClientMain.invoicemethod.page_title'] = 'Müşteri #%1$s Fatura Yöntemi';
 $lang['ClientMain.edit.field_editsubmit'] = 'Bilgilerimi Güncelle';
-$lang['ClientMain.edit.field_otp'] = 'Tek Kullanımlık Şifre';
+$lang['ClientMain.edit.field_otp'] = 'Tek Kullanımlık Şifre (Authenticator\'ınızda gösterildiği gibi)';
 $lang['ClientMain.edit.text_windows'] = 'Pencereler';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_title'] = 'Tekrar hoş geldin, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Fatura yönteminiz başarıyla güncellendi. Gelecekteki tüm faturalar size %1$s üzerinden teslim edilecektir.';
 $lang['ClientMain.!success.client_updated'] = 'Hesap bilgileriniz başarıyla güncellendi.';
 $lang['ClientMain.!info.service_name'] = '%1$s - %2$s';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'İki Faktörlü Kimlik Doğrulamayı etkinleştirmek veya parolayı güncellemek için gereklidir.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'İki Faktörlü Kimlik Doğrulama';
 

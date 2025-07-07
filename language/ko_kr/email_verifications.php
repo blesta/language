@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = '확인된 필드는 "1" 또
 $lang['EmailVerifications.!error.token.format'] = '유효한 토큰을 입력하세요.';
 $lang['EmailVerifications.!error.email.valid'] = '유효한 이메일 주소를 입력하세요.';
 $lang['EmailVerifications.!error.contact_id.exists'] = '연락처 ID가 잘못되었습니다.';
+$lang['EmailVerifications.!error.client.valid'] = '계정이 활성화되어 있지 않아 이메일 주소를 확인할 수 없습니다.';
 

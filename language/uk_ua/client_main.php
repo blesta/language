@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Ваш метод ви�
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Метод рахунків-фактур';
 $lang['ClientMain.invoicemethod.page_title'] = 'Метод виставлення рахунку клієнта #%1$s';
 $lang['ClientMain.edit.field_editsubmit'] = 'Оновити мою інформацію';
-$lang['ClientMain.edit.field_otp'] = 'Одноразовий пароль';
+$lang['ClientMain.edit.field_otp'] = 'Одноразовий пароль (як показано у вашому аутентифікаторі)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Здійснити платіж'
 $lang['ClientMain.!info.invoice_due_title'] = 'Ласкаво просимо назад, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Ваш метод виставлення рахунків успішно оновлено. Всі майбутні інвойси будуть доставлені вам через %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Інформація про ваш обліковий запис успішно оновлена.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Потрібно, щоб увімкнути двофакторну автентифікацію або оновити пароль.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двофакторна автентифікація';
 

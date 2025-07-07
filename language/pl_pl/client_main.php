@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Metoda fakturowania to 
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Metoda fakturowania';
 $lang['ClientMain.invoicemethod.page_title'] = 'Metoda fakturowania klienta #%1$s';
 $lang['ClientMain.edit.field_editsubmit'] = 'Zaktualizuj moje informacje';
-$lang['ClientMain.edit.field_otp'] = 'Hasło jednorazowe';
+$lang['ClientMain.edit.field_otp'] = 'Hasło jednorazowe (wyświetlane w aplikacji Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Dokonaj płatności';
 $lang['ClientMain.!info.invoice_due_title'] = 'Witamy z powrotem, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Metoda fakturowania została pomyślnie zaktualizowana. Wszystkie przyszłe faktury będą dostarczane za pośrednictwem %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Informacje o koncie zostały pomyślnie zaktualizowane.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Wymagane do włączenia uwierzytelniania dwuskładnikowego lub aktualizacji hasła.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Uwierzytelnianie dwuskładnikowe';
 

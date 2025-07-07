@@ -30,4 +30,8 @@ $lang['BtcpayServer.transaction.speed.low'] = 'Bajo';
 $lang['BtcpayServer.webhook'] = 'Webhook del servidor BTCPay';
 $lang['BtcpayServer.webhook_note'] = 'Antes de empezar a utilizar esta pasarela debe configurar la siguiente url como Webhook en su servidor BTCPay.';
 $lang['BtcpayServer.buildprocess.submit'] = 'Enviar pago';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Forzar tienda por defecto como configurado en BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Permitir al cliente elegir la forma de pago.';
+$lang['BtcpayServer.meta.payment_method'] = 'Forma de pago';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Seleccione un método de pago válido.';
 

@@ -15,7 +15,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Η μέθοδος τι�
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Μέθοδος τιμολόγησης';
 $lang['ClientMain.invoicemethod.page_title'] = 'Πελάτης #%1$s Μέθοδος τιμολόγησης';
 $lang['ClientMain.edit.field_editsubmit'] = 'Ενημέρωση των πληροφοριών μου';
-$lang['ClientMain.edit.field_otp'] = 'Κωδικός πρόσβασης μίας χρήσης';
+$lang['ClientMain.edit.field_otp'] = 'Κωδικός πρόσβασης μίας χρήσης (όπως εμφανίζεται στον Αυθεντικοποιητή σας)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_title'] = 'Καλώς ήρθες πίσω, %
 $lang['ClientMain.!success.invoice_method_updated'] = 'Η μέθοδος τιμολογίου σας ενημερώθηκε επιτυχώς. Όλα τα μελλοντικά τιμολόγια θα σας παραδίδονται μέσω του %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Οι πληροφορίες του λογαριασμού σας ενημερώθηκαν επιτυχώς.';
 $lang['ClientMain.edit.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Απαιτείται για να ενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων ή να ενημερώσετε τον κωδικό πρόσβασης.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Αυθεντικοποίηση δύο παραγόντων';
 

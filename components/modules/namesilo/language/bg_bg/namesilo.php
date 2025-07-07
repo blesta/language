@@ -244,4 +244,7 @@ $lang['Namesilo.module_row_plural'] = 'Сметки';
 $lang['Namesilo.module_row'] = 'Сметка';
 $lang['Namesilo.description'] = 'Препродажба на домейни чрез NameSilo.';
 $lang['Namesilo.name'] = 'NameSilo';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Идентификатор за контакт';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Изтегля контакти от namesilo и ги свързва с клиенти на blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Изтеглете контактите на Namesilo';
 

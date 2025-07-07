@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Οι επαφές που δεν έχ�
 $lang['AdminTickets.add.text_add_recipient'] = 'Προσθήκη παραλήπτη';
 $lang['AdminTickets.add.heading_contacts'] = 'Επαφές';
 $lang['AdminTickets.add.heading_recipients'] = 'Αποδέκτες';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Πρόσθετοι αποδέκτες';
+$lang['AdminTickets.reply.text_service_none'] = 'Κανένα';
+$lang['AdminTickets.reply.heading_service'] = 'Υπηρεσία';
+$lang['AdminTickets.add.text_service_none'] = 'Κανένα';
+$lang['AdminTickets.add.heading_service'] = 'Υπηρεσία';
+$lang['AdminTickets.add.text_no_contacts'] = 'Δεν υπάρχουν διαθέσιμες πρόσθετες επαφές για τον επιλεγμένο πελάτη.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Διεύθυνση ηλεκτρονικού ταχυδρομείου για να ενημερώνεστε όταν ενημερώνεται ένα εισιτήριο.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Επαφές που θα ειδοποιούνται όταν ενημερώνεται ένα εισιτήριο. Όσοι δεν έχουν επιλεγεί, θα προστεθούν αυτόματα στο εισιτήριο, εάν απαντήσουν σε αυτό.';
 

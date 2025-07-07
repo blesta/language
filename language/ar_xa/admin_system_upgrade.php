@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'خيارات الترقية';
-$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'تحديث الإعدادات';
 $lang['AdminSystemUpgrade.index.no_results'] = 'خيارات الترقية غير متوفرة في الوقت الحالي.';
+$lang['AdminSystemUpgrade.index.field_upgradesubmit'] = 'تحديث الإعدادات';
+$lang['AdminSystemUpgrade.index.boxtitle_upgrade'] = 'خيارات الترقية';
 $lang['AdminSystemUpgrade.index.page_title'] = 'الإعدادات &gt; النظام &gt; خيارات الترقية';
 

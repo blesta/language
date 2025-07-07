@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Tambahk
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Templat HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Layanan Edit Tingkat Lanjut';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Antrian Layanan';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Perubahan Layanan';
 

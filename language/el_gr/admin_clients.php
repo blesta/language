@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Μη αναστολή';
 $lang['AdminClients.services.action.suspend'] = 'Αναστολή';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Ημερομηνία ακύρωσης';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Ημερομηνία αναστολής';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Αυτή η υπηρεσία έχει εκκρεμείς αλλαγές.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Ημερομηνία πληρωμής μέσω';
+$lang['AdminClients.editservice.field_status'] = 'Κατάσταση';
+$lang['AdminClients.editservice.field_term'] = 'Όρος';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Μην τιμολογείτε';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Προσθήκη στο τιμολόγιο';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Δημιουργία τιμολογίου';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Μέθοδος τιμολόγησης';
+$lang['AdminClients.editservice.text_uncancel'] = 'Πρόκειται να ενεργοποιήσετε εκ νέου μια ακυρωμένη υπηρεσία. Εάν η επιλογή "Χρήση μονάδας" δεν είναι επιλεγμένη, η υπηρεσία θα ενεργοποιηθεί ξανά μόνο στο Blesta. Σημειώστε ότι η επανενεργοποίηση μέσω της ενότητας μπορεί να είναι προβληματική και ενδέχεται να μην υποστηρίζεται από όλες τις ενότητες. Η επανενεργοποίηση μιας ακυρωμένης υπηρεσίας δεν αναιρεί την ενέργεια ακύρωσης που πραγματοποιήθηκε μέσω του API της ενότητας.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Ημερομηνία πληρωμής μέσω:';
+$lang['AdminClients.invoices.option_copy'] = 'Αντιγραφή';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Ημερομηνία πληρωμής μέσω: %1$s';
 

@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = '암호화된 형식이 잘못되었
 $lang['Services.!error.value.empty'] = '서비스 필드 값은 비어 있지 않아야 합니다.';
 $lang['Services.!error.key.length'] = '서비스 필드 키는 32자를 초과할 수 없습니다.';
 $lang['Services.!error.key.empty'] = '서비스 필드 키는 비어 있지 않아야 합니다.';
+$lang['Services.getActions.uncancel'] = '재활성화';
+$lang['Services.!error.uncancel.unsupported'] = '이 서비스는 모듈에서 지원하지 않으므로 취소할 수 없습니다.';
 

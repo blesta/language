@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Nieprawidłowy format dla szyfrowan
 $lang['Services.!error.value.empty'] = 'Wartość pola usługi nie może być pusta.';
 $lang['Services.!error.key.length'] = 'Klucz pola usługi nie może przekraczać 32 znaków.';
 $lang['Services.!error.key.empty'] = 'Klucz pola usługi nie może być pusty.';
+$lang['Services.getActions.uncancel'] = 'Reaktywacja';
+$lang['Services.!error.uncancel.unsupported'] = 'Tej usługi nie można anulować, ponieważ moduł jej nie obsługuje.';
 

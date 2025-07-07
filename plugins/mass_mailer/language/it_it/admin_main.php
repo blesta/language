@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Creare un nuovo mailing';
 $lang['AdminMain.index.boxtitle'] = 'Mass Mailer Offerte di lavoro';
 $lang['AdminMain.index.page_title'] = 'Mailer di massa';
 $lang['AdminMain.!error.export_found'] = 'L\'esportazione non è stata trovata nel file system.';
+$lang['AdminMain.settings.submit_cancel'] = 'Annullamento';
+$lang['AdminMain.settings.submit_settings'] = 'Salva le impostazioni';
+$lang['AdminMain.settings.form.rate_limit'] = 'Limite di tasso';
+$lang['AdminMain.settings.heading'] = 'Impostazioni';
+$lang['AdminMain.settings.boxtitle'] = 'Impostazioni del Mass Mailer';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Limita la quantità di email inviate per ogni esecuzione dell\'attività cron. All\'esecuzione successiva, riprenderà dal punto in cui è stato interrotto e invierà il gruppo di email successivo, e così via fino a quando tutte le email saranno state inviate. 0 per nessun limite.';
+$lang['AdminMain.!success.options_updated'] = 'Le impostazioni del Mass Mailer sono state aggiornate con successo!';
 

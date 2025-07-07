@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Ontspannen';
 $lang['AdminBilling.services.action.suspend'] = 'opschorten';
 $lang['AdminBilling.!success.services_unsuspended'] = 'De geselecteerde services werden met succes uitgeschakeld.';
 $lang['AdminBilling.!success.services_suspended'] = 'De geselecteerde services zijn met succes opgeschort.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Deze service heeft hangende wijzigingen.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum betaald door: %1$s';
 

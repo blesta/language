@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Призупинити';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Дата скасована';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Дата призупинена';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Дата останнього поновлення';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Ця послуга очікує на зміни.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Дата оплати';
+$lang['AdminClients.editservice.field_status'] = 'Статус';
+$lang['AdminClients.editservice.field_term'] = 'Термін';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Не виставляти рахунок';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Додати до інвойсу';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Створити рахунок-фактуру';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Метод рахунків-фактур';
+$lang['AdminClients.editservice.text_uncancel'] = 'Ви збираєтеся повторно активувати скасовану послугу. Якщо позначку "Використовувати модуль" знято, послугу буде повторно активовано лише у Blesta. Зверніть увагу, що повторна активація через модуль може бути проблематичною і може підтримуватися не всіма модулями. Повторна активація скасованої послуги не скасовує дію скасування, виконану через API модуля.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Дата оплачена:';
+$lang['AdminClients.invoices.option_copy'] = 'Прийнято.';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Дата оплачена: %1$s';
 

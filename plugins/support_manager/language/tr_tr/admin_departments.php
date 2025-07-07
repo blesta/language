@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Mevcut Öncelikler';
 $lang['AdminDepartments.edit.field_force_import'] = 'İthalatı Zorla';
 $lang['AdminDepartments.add.field_force_import'] = 'İthalatı Zorla';
 $lang['AdminDepartments.!success.department_imported'] = '%1$s departmanı başarıyla içe aktarıldı.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Bir seferde yalnızca bir alan acil durum olarak ayarlanabilir.';
+$lang['AdminDepartments.edit.heading_required'] = 'Gerekli';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'İlgili hizmetleri etkinleştirin';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Bir seferde yalnızca bir alan acil durum olarak ayarlanabilir.';
+$lang['AdminDepartments.add.heading_required'] = 'Gerekli';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'İlgili hizmetleri etkinleştirin';
+$lang['AdminDepartments.!tooltip.type'] = '"Acil Duruma Yükselt" bir mesaj ve onay kutusu içeren bir uyarı kutusu gösterir. Kullanıcı onay kutusunu işaretlerse, departman için bu öncelik devre dışı bırakılmış olsa bile destek talebi otomatik olarak "Acil Durum "a yükseltilir. Yalnızca Görünürlük Yalnızca Müşteri olarak ayarlandığında kullanılabilir.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Müşterilerin biletin ilgili olduğu bir hizmet seçmesine izin verin.';
 

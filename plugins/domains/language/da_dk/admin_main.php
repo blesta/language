@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Ændre registreringsdato';
 $lang['AdminMain.edit.field_expiration_date'] = 'Ændre udløbsdato';
 $lang['AdminMain.!success.change_registration_date'] = 'Datoen for domæneregistrering er blevet opdateret!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Domænets udløbsdato er blevet opdateret!';
+$lang['AdminMain.add.text_refresh'] = 'Opdatering';
+$lang['AdminMain.index.tooltip_transferred'] = 'Domænet er blevet flyttet væk fra registratoren.';
 

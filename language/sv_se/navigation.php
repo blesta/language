@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Orderindex måste vara ett numeriskt v
 $lang['Navigation.!error.action_id.valid'] = 'Ogiltigt åtgärds-ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-mallar';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service kö';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Förändringar i tjänster';
 

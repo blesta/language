@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Gerban
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktifkan';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Mengaktifkan Pembatasan Gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Batasi gateway mana yang dapat digunakan klien. Secara default, Pembatasan Gateway dinonaktifkan dan semua gateway tersedia.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Kelompok Klien';
 

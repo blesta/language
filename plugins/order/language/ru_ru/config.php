@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Выбранный термин д
 $lang['Config.!error.domain_duplicated'] = 'Домен "%1$s" уже находится в вашей корзине.';
 $lang['Config.!error.invalid_module'] = 'В настоящее время этот пакет недоступен.';
 $lang['Config.!error.invalid_pricing_id'] = 'Указанный пакет не найден.';
+$lang['Config.!error.invalid_value_option'] = 'Необходимо выбрать значение для %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Значение опции "%1$s" должно находиться между %2$s и %3$s.';
 

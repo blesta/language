@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Pok
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Počet servisních akcí, které se mají provést před zpožděním dalšího pokusu o hodnotu určenou nastavením rozestupu mezi druhými pokusy.';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Počet servisních akcí, o které se pokusí před zpožděním dalšího pokusu o hodnotu určenou nastavením rozestupu mezi prvními pokusy.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Počet pokusů a selhání při zpracování akce služby, než je tato akce služby zakázána k automatickému dokončení.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Povolit pouze okamžité zrušení';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Povolit zrušení pouze na konci semestru';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Umožnit okamžité zrušení nebo zrušení ke konci období';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Možnosti zrušení klienta';
 

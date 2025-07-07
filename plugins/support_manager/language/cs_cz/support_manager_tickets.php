@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Vyberte prosím platnou 
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Alespoň jeden z kontaktů tipu je neplatný.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Alespoň jeden z příjemců tipu je neplatný.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Alespoň jeden z příjemců tipu je duplicitní.';
+$lang['SupportManagerTickets.log.service_id'] = 'Související služba byla změněna na interní ID: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" je povinný a nesmí být prázdný.';
 

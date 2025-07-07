@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Formato non valido per la crittogra
 $lang['Services.!error.value.empty'] = 'Il valore del campo servizio non deve essere vuoto.';
 $lang['Services.!error.key.length'] = 'La chiave del campo di servizio non deve superare i 32 caratteri.';
 $lang['Services.!error.key.empty'] = 'La chiave del campo di servizio non deve essere vuota.';
+$lang['Services.getActions.uncancel'] = 'Riattivare';
+$lang['Services.!error.uncancel.unsupported'] = 'Questo servizio non può essere cancellato, poiché il modulo non lo supporta.';
 

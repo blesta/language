@@ -64,4 +64,6 @@ $lang['Services.getActions.cancel'] = 'Cancelar';
 $lang['Services.getActions.schedule_cancel'] = 'Anulación de horarios';
 $lang['Services.getActions.change_renew'] = 'Cambiar la fecha de renovación';
 $lang['Services.getActions.update_coupon'] = 'Actualizar cupón';
+$lang['Services.getActions.uncancel'] = 'Reactivar';
+$lang['Services.!error.uncancel.unsupported'] = 'Este servicio no se puede cancelar, ya que el módulo no lo admite.';
 

@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Tillgängliga prioriteringar';
 $lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.add.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.!success.department_imported'] = 'Avdelningen %1$s har importerats framgångsrikt.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Endast ett fält kan ställas in på nödsituation åt gången.';
+$lang['AdminDepartments.edit.heading_required'] = 'Krävs';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Aktivera relaterade tjänster';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Endast ett fält kan ställas in på nödsituation åt gången.';
+$lang['AdminDepartments.add.heading_required'] = 'Krävs';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Aktivera relaterade tjänster';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" visar en varningsruta med ett meddelande och en kryssruta. Om användaren markerar kryssrutan eskaleras ärendet automatiskt till "Akut", även om den prioriteten är inaktiverad för avdelningen. Endast tillgänglig när Synlighet är inställd på Endast klient.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Låt kunderna välja en tjänst som biljetten är relaterad till.';
 

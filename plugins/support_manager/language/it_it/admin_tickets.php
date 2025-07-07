@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'I contatti non selezionati saranno ag
 $lang['AdminTickets.add.text_add_recipient'] = 'Aggiungi destinatario';
 $lang['AdminTickets.add.heading_contacts'] = 'Contatti';
 $lang['AdminTickets.add.heading_recipients'] = 'Destinatari';
+$lang['AdminTickets.add.text_service_none'] = 'Nessuno';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Ulteriori destinatari';
+$lang['AdminTickets.reply.text_service_none'] = 'Nessuno';
+$lang['AdminTickets.reply.heading_service'] = 'Servizio';
+$lang['AdminTickets.add.heading_service'] = 'Servizio';
+$lang['AdminTickets.add.text_no_contacts'] = 'Non sono disponibili altri contatti per il cliente selezionato.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Indirizzo e-mail per ricevere una notifica quando un biglietto viene aggiornato.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Contatti da notificare quando un ticket viene aggiornato. Quelli non selezionati saranno aggiunti automaticamente al ticket se rispondono.';
 

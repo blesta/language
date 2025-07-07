@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Ώρες';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Λεπτά';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Μία ή περισσότερες προτεραιότητες είναι άκυρες.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Επιλέξτε τουλάχιστον μία προτεραιότητα.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Μόνο για πελάτες';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Κλιμάκωση σε κατάσταση έκτακτης ανάγκης';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Εάν απαιτείται το αρχείο πρέπει να είναι 0 ή 1.';
 

@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = '创建新邮件';
 $lang['AdminMain.index.boxtitle'] = '邮件群发员职位';
 $lang['AdminMain.index.page_title'] = '群发邮件';
 $lang['AdminMain.!error.export_found'] = '文件系统中找不到导出文件。';
+$lang['AdminMain.settings.submit_cancel'] = '取消';
+$lang['AdminMain.settings.submit_settings'] = '保存设置';
+$lang['AdminMain.settings.form.rate_limit'] = '费率限制';
+$lang['AdminMain.settings.heading'] = '设置';
+$lang['AdminMain.settings.boxtitle'] = '群发邮件设置';
+$lang['AdminMain.!tooltip.rate_limit'] = '限制每次执行 cron 任务时发送的邮件数量。下一次运行时，它将继续发送下一批邮件，依此类推，直到发送完所有邮件。0 表示无限制。';
+$lang['AdminMain.!success.options_updated'] = '已成功更新邮件群发器设置！';
 

@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Timer';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s minutter';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'En eller flere prioriteter er ugyldige.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vælg mindst én prioritet.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Kun for klienter';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Eskaler til nødstilfælde';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Om det skal kræves, at det arkiverede skal indstilles til 0 eller 1.';
 

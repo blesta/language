@@ -12,7 +12,7 @@
 $lang['AdminMain.graph_line_name.credit'] = 'Card de credit';
 $lang['AdminMain.graph_line_name.total'] = 'Total';
 $lang['AdminMain.graph_name.graph_invoiced'] = 'Suma facturată';
-$lang['AdminMain.graph_name.graph_revenue_year'] = 'Venituri (de la începutul anului)';
+$lang['AdminMain.graph_name.graph_revenue_year'] = 'Venituri (An la zi - %1$s)';
 $lang['AdminMain.graph_line_name.credits'] = 'Credite';
 $lang['AdminMain.graph_line_name.other'] = 'Altele';
 $lang['AdminMain.graph_line_name.ach'] = 'ACH';

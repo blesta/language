@@ -124,4 +124,5 @@ $lang['Navigation.getsearchoptions.packages'] = 'Búsqueda de paquetes';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Lista negra';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Plantillas HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Cola de servicio';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Cambios en el servicio';
 

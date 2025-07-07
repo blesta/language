@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = '服务器';
 $lang['Cpanel.module_row'] = '服务器';
 $lang['Cpanel.description'] = '20 多年来，cPanel 和 WHM 一直是业界领先的虚拟主机平台。深受 Wordpress、CloudLinux、Lighstpeed 等全球技术合作伙伴的信赖。';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = '登录';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = '密码';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = '用户名';
+$lang['Cpanel.tab_client_login.logintocpanel'] = '登录 cPanel';
+$lang['Cpanel.tab_client_login'] = '登录 cPanel';
 

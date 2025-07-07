@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderPlugin.!error.dom_required'] = 'L\'estensione dom è necessaria per questo plugin.';
-$lang['FeedReaderPlugin.!error.libxml_required'] = 'L\'estensione libxml è necessaria per questo plugin.';
 $lang['FeedReaderPlugin.description'] = 'Visualizzare qualsiasi feed RSS/Atom direttamente sul cruscotto.';
 $lang['FeedReaderPlugin.name'] = 'Lettore di feed';
+$lang['FeedReaderPlugin.!error.dom_required'] = 'L\'estensione dom è necessaria per questo plugin.';
+$lang['FeedReaderPlugin.!error.libxml_required'] = 'L\'estensione libxml è necessaria per questo plugin.';
 

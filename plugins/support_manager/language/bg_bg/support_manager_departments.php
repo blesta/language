@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Моля, въведе
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Моля, въведете описание.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Моля, въведете име на този отдел.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Само за клиенти';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Ескалиране до спешна помощ';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Дали да се изисква подадената информация трябва да бъде настроена на 0 или 1.';
 

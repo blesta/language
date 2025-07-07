@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.log_filters.field_end_date'] = 'Slutdato';
-$lang['Util.filters.log_filters.field_start_date'] = 'Startdato';
 $lang['Util.filters.log_filters.field_string'] = 'Indhold';
+$lang['Util.filters.log_filters.field_start_date'] = 'Startdato';
+$lang['Util.filters.log_filters.field_end_date'] = 'Slutdato';
 

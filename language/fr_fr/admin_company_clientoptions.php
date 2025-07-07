@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Passer
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activer';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activer les restrictions de la passerelle';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limite les passerelles que les clients peuvent utiliser. Par défaut, les restrictions sur les passerelles sont désactivées et toutes les passerelles sont disponibles.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Groupe de clients';
 

@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Μη αναστολή';
 $lang['AdminBilling.services.action.suspend'] = 'Αναστολή';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Οι επιλεγμένες υπηρεσίες αναστάλθηκαν επιτυχώς.';
 $lang['AdminBilling.!success.services_suspended'] = 'Οι επιλεγμένες υπηρεσίες ανεστάλησαν επιτυχώς.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Αυτή η υπηρεσία έχει εκκρεμείς αλλαγές.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Ημερομηνία πληρωμής μέσω: %1$s';
 

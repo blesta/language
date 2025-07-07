@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.quotation_filters.any'] = 'Enhver';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Quotation #';
 $lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Indhold af post';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Quotation #';
 

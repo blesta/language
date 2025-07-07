@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Bitte geben Sie einen Na
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Eine oder mehrere Prioritäten sind ungültig.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wählen Sie mindestens eine Priorität aus.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Nur für Kunden';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalation zum Notfall';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Ob das Feld benötigt wird, muss auf 0 oder 1 gesetzt werden.';
 

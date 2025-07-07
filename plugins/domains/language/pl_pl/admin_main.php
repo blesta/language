@@ -168,4 +168,6 @@ $lang['AdminMain.!success.change_expiration_date'] = 'Data wygaśnięcia domeny 
 $lang['AdminMain.edit.field_registration_date'] = 'Zmiana daty rejestracji';
 $lang['AdminMain.edit.field_expiration_date'] = 'Zmiana daty wygaśnięcia';
 $lang['AdminMain.!success.change_registration_date'] = 'Data rejestracji domeny została zaktualizowana!';
+$lang['AdminMain.add.text_refresh'] = 'Odświeżanie';
+$lang['AdminMain.index.tooltip_transferred'] = 'Domena została przeniesiona od rejestratora.';
 

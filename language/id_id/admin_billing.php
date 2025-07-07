@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Batalkan penangguhan';
 $lang['AdminBilling.services.action.suspend'] = 'Menangguhkan';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Layanan yang dipilih berhasil dibatalkan penangguhannya.';
 $lang['AdminBilling.!success.services_suspended'] = 'Layanan yang dipilih berhasil ditangguhkan.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Layanan ini memiliki perubahan yang tertunda.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Tanggal Dibayar Lunas: %1$s';
 

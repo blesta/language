@@ -124,4 +124,5 @@ $lang['Navigation.!error.parent_id.valid'] = 'Невалиден идентиф�
 $lang['Navigation.!error.order.valid'] = 'Индексът на поръчката трябва да бъде числова стойност.';
 $lang['Navigation.!error.action_id.valid'] = 'Невалиден идентификатор на действието';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Опашка за услуги';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Промени в услугите';
 

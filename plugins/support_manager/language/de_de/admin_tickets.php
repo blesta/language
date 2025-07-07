@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Nicht ausgewählte Kontakte werden au
 $lang['AdminTickets.add.text_add_recipient'] = 'Empfänger hinzufügen';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontakte';
 $lang['AdminTickets.add.heading_recipients'] = 'Empfänger';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Zusätzliche Begünstigte';
+$lang['AdminTickets.reply.text_service_none'] = 'Keine';
+$lang['AdminTickets.reply.heading_service'] = 'Dienst';
+$lang['AdminTickets.add.text_service_none'] = 'Keine';
+$lang['AdminTickets.add.heading_service'] = 'Dienst';
+$lang['AdminTickets.add.text_no_contacts'] = 'Für den ausgewählten Kunden sind keine weiteren Kontakte verfügbar.';
+$lang['AdminTickets.!tooltip.recipients'] = 'E-Mail-Adresse, die bei der Aktualisierung eines Tickets benachrichtigt werden soll.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontakte, die benachrichtigt werden sollen, wenn ein Ticket aktualisiert wird. Die nicht ausgewählten Kontakte werden automatisch zum Ticket hinzugefügt, wenn sie darauf antworten.';
 

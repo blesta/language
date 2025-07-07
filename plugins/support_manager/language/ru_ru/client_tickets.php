@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Отделы поддержки
 $lang['ClientTickets.!success.ticket_closed'] = 'Билет #%1$s был успешно закрыт.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Билет #%1$s был успешно обновлен.';
 $lang['ClientTickets.!success.ticket_created'] = 'Билет #%1$s был успешно создан.';
+$lang['ClientTickets.reply.text_service_none'] = 'Нет';
+$lang['ClientTickets.reply.heading_service_id'] = 'Сопутствующие услуги';
+$lang['ClientTickets.add.none'] = 'Нет';
+$lang['ClientTickets.add.field_service_id'] = 'Сопутствующие услуги';
 

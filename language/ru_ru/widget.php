@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Отправить';
 $lang['Widget.toggle_filters'] = 'Переключить фильтры';
+$lang['Widget.submit'] = 'Отправить';
 

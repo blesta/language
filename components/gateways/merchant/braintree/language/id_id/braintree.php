@@ -10,7 +10,7 @@
  */
 
 $lang['Braintree.merchant_id'] = 'ID Pedagang';
-$lang['Braintree.description'] = 'Pedagang di lebih dari 45 negara/kawasan di seluruh dunia dapat menerima, membagi, dan memungkinkan pembayaran dalam lebih dari 130 mata uang menggunakan Braintree';
+$lang['Braintree.description'] = 'Membutuhkan PHP &gt;= 7.3. Pedagang di lebih dari 45 negara/kawasan di seluruh dunia dapat menerima, membagi, dan memungkinkan pembayaran dalam lebih dari 130 mata uang menggunakan Braintree';
 $lang['Braintree.!error.environment'] = 'Pilih lingkungan yang valid.';
 $lang['Braintree.!error.private_key'] = 'Masukkan kunci pribadi Anda.';
 $lang['Braintree.!error.public_key'] = 'Masukkan kunci publik Anda.';

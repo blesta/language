@@ -17,7 +17,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Вашият метод
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Метод на фактуриране';
 $lang['ClientMain.invoicemethod.page_title'] = 'Клиент #%1$s Метод на фактуриране';
 $lang['ClientMain.edit.field_editsubmit'] = 'Актуализиране на информацията ми';
-$lang['ClientMain.edit.field_otp'] = 'Еднократна парола';
+$lang['ClientMain.edit.field_otp'] = 'Еднократна парола (както е показана във вашия Authenticator)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Направете плащан�
 $lang['ClientMain.!info.invoice_due_title'] = 'Добре дошли отново, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Вашият метод за фактуриране беше успешно актуализиран. Всички бъдещи фактури ще ви бъдат изпращани чрез %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Информацията за акаунта ви беше успешно актуализирана.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Изисква се, за да се активира двуфакторното удостоверяване или да се актуализира паролата.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двуфакторно удостоверяване на автентичността';
 

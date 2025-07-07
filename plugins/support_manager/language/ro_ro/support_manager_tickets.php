@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Vă rugăm să selectaț
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Cel puțin unul dintre contactele biletului este invalid.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Cel puțin unul dintre destinatarii biletului este invalid.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Cel puțin unul dintre destinatarii biletelor este duplicat.';
+$lang['SupportManagerTickets.log.service_id'] = 'Serviciul aferent a fost schimbat în ID intern: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" este obligatoriu și nu poate fi gol.';
 

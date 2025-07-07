@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.any'] = 'Orice';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Monedă';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Conținutul postului';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Monedă';
 $lang['Util.filters.quotation_filters.field_quotation_number'] = 'Cotație #';
+$lang['Util.filters.quotation_filters.any'] = 'Orice';
 

@@ -17,7 +17,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = '인보이스 방식은 
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = '송장 방법';
 $lang['ClientMain.invoicemethod.page_title'] = '클라이언트 #%1$의 송장 방법';
 $lang['ClientMain.edit.field_editsubmit'] = '내 정보 업데이트';
-$lang['ClientMain.edit.field_otp'] = '일회용 비밀번호';
+$lang['ClientMain.edit.field_otp'] = '일회용 비밀번호(인증서에 표시된 대로)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = '결제하기';
 $lang['ClientMain.!info.invoice_due_title'] = '돌아온 것을 환영합니다, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = '청구서 방법이 성공적으로 업데이트되었습니다. 향후 모든 청구서는 %1$를 통해 전달됩니다.';
 $lang['ClientMain.!success.client_updated'] = '계정 정보가 성공적으로 업데이트되었습니다.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = '2단계 인증을 사용하거나 비밀번호를 업데이트하는 데 필요합니다.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = '2단계 인증';
 

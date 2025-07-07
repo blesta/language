@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Servrar';
 $lang['Cpanel.module_row'] = 'Server';
 $lang['Cpanel.description'] = 'cPanel & WHM har varit den branschledande plattformen för webbhotell i över 20 år. Förtroendefulla över hela världen av teknikpartners som Wordpress, CloudLinux, Lighstpeed med flera.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Logga in';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Lösenord';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Användarnamn';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Logga in på cPanel';
+$lang['Cpanel.tab_client_login'] = 'Logga in på cPanel';
 

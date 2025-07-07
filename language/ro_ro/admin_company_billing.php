@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'În
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Numărul de acțiuni de serviciu care trebuie încercate înainte de întârzierea următoarei încercări cu valoarea specificată de setarea spațiării celei de-a doua încercări';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Numărul de acțiuni de serviciu care trebuie încercate înainte de întârzierea următoarei încercări cu valoarea specificată de setarea spațiării primei încercări';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Numărul de încercări și eșecuri de procesat pentru o acțiune de serviciu înainte ca respectiva acțiune de serviciu să fie dezactivată de la finalizarea automată.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Permiteți numai anularea imediată';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Permiteți numai anularea la sfârșitul trimestrului';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Permiteți anularea imediată sau la sfârșitul termenului';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Opțiuni de anulare client';
 

@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = '您的发票方式是�
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = '发票方式';
 $lang['ClientMain.invoicemethod.page_title'] = '客户 #%1$s 发票方法';
 $lang['ClientMain.edit.field_editsubmit'] = '更新我的信息';
-$lang['ClientMain.edit.field_otp'] = '一次性密码';
+$lang['ClientMain.edit.field_otp'] = '一次性密码（如您的验证器所示）';
 $lang['ClientMain.edit.text_windows'] = '视窗';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = '安卓';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = '付款';
 $lang['ClientMain.!info.invoice_due_title'] = '欢迎回来，%1$s！';
 $lang['ClientMain.!success.invoice_method_updated'] = '您的发票方式已成功更新。今后所有发票都将通过 %1$s 发送给您。';
 $lang['ClientMain.!success.client_updated'] = '您的账户信息已成功更新。';
+$lang['ClientMain.edit.tooltip_confirm_password'] = '启用双因素身份验证或更新密码时需要。';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = '双因素验证';
 

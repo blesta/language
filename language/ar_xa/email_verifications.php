@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'يجب أن يكون الح
 $lang['EmailVerifications.!error.token.format'] = 'الرجاء إدخال رمز مميز صالح.';
 $lang['EmailVerifications.!error.email.valid'] = 'الرجاء إدخال عنوان بريد إلكتروني صحيح.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'معرف جهة اتصال غير صالح.';
+$lang['EmailVerifications.!error.client.valid'] = 'تعذر التحقق من عنوان بريدك الإلكتروني لأن حسابك غير نشط.';
 

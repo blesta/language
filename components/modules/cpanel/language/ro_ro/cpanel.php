@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Servere';
 $lang['Cpanel.module_row'] = 'Server';
 $lang['Cpanel.description'] = 'cPanel & WHM au fost platforma de găzduire web de top din industrie de peste 20 de ani. De încredere la nivel mondial de către partenerii tehnologici Wordpress, CloudLinux, Lighstpeed și mulți alții.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Conectați-vă';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Parolă';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Conectați-vă la cPanel';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Nume utilizator';
+$lang['Cpanel.tab_client_login'] = 'Conectați-vă la cPanel';
 

@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Tilgængelige prioriteter';
 $lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.add.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.!success.department_imported'] = 'Afdelingen %1$s blev importeret med succes.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Kun ét felt kan indstilles til nødsituation ad gangen.';
+$lang['AdminDepartments.edit.heading_required'] = 'Påkrævet';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Aktiver relaterede tjenester';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Kun ét felt kan indstilles til nødsituation ad gangen.';
+$lang['AdminDepartments.add.heading_required'] = 'Påkrævet';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Aktiver relaterede tjenester';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" viser en advarselsboks med en besked og et afkrydsningsfelt. Hvis brugeren markerer afkrydsningsfeltet, eskaleres sagen automatisk til "Nødstilfælde", selv om denne prioritet er deaktiveret for afdelingen. Kun tilgængelig, når Synlighed er indstillet til Kun klient.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Giv kunderne mulighed for at vælge en service, som billetten er relateret til.';
 

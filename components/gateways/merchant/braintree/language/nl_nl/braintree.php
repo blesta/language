@@ -21,6 +21,6 @@ $lang['Braintree.live_mode'] = 'Live modus';
 $lang['Braintree.private_key'] = 'Privé sleutel';
 $lang['Braintree.public_key'] = 'Openbare sleutel';
 $lang['Braintree.merchant_id'] = 'Handelaar ID';
-$lang['Braintree.description'] = 'Handelaren in meer dan 45 landen/regio\'s wereldwijd kunnen betalingen in meer dan 130 valuta\'s accepteren, splitsen en mogelijk maken met Braintree.';
+$lang['Braintree.description'] = 'Vereist PHP &gt;= 7.3. Handelaren in meer dan 45 landen/regio\'s wereldwijd kunnen betalingen in meer dan 130 valuta\'s accepteren, splitsen en mogelijk maken met Braintree.';
 $lang['Braintree.name'] = 'Braintree';
 

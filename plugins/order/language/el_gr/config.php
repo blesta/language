@@ -19,4 +19,6 @@ $lang['Config.index.field_module_group_id'] = 'Ομάδα';
 $lang['Config.index.field_default_addon'] = 'Κανένα';
 $lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
 $lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, ανανεώνεται @ %4$s)';
+$lang['Config.!error.invalid_value_option'] = 'Πρέπει να επιλεγεί μια τιμή για το %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Η τιμή της επιλογής "%1$s" πρέπει να είναι μεταξύ των %2$s και %3$s.';
 

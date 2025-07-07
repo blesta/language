@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = '所有发票都必须是开放的
 $lang['Invoices.!error.invoice_ids.currency'] = '所有发票必须使用相同的货币。';
 $lang['Invoices.!error.invoice_ids.count'] = '必须至少选择两张发票。';
 $lang['Invoices.!line_item.parent_description'] = '儿童服务%1$s -%2$s ：';
+$lang['Invoices.!error.service.renew_onetime'] = '一次性服务不可续约。';
 

@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Обраний термін для
 $lang['Config.!error.domain_duplicated'] = 'Домен "%1$s" вже у вашому кошику.';
 $lang['Config.!error.invalid_module'] = 'Наразі пакет недоступний.';
 $lang['Config.!error.invalid_pricing_id'] = 'Вказаний пакет не був знайдений.';
+$lang['Config.!error.invalid_value_option'] = 'Необхідно вибрати значення для %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Значення параметра "%1$s" має бути між %2$s та %3$s.';
 

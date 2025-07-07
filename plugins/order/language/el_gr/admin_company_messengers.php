@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyMessengers.templates.Order.received_staff_desc'] = 'Ειδοποίηση που αποστέλλεται όταν λαμβάνεται μια παραγγελία.';
 $lang['AdminCompanyMessengers.templates.Order.received_staff_name'] = 'Παραγγελία που ελήφθη';
+$lang['AdminCompanyMessengers.templates.Order.received_staff_desc'] = 'Ειδοποίηση που αποστέλλεται όταν λαμβάνεται μια παραγγελία.';
 

@@ -102,4 +102,5 @@ $lang['Invoices.getPricingPeriods.year'] = 'Година';
 $lang['Invoices.getPricingPeriods.month'] = 'Месец';
 $lang['Invoices.getPricingPeriods.week'] = 'Седмица';
 $lang['Invoices.getPricingPeriods.day'] = 'Ден';
+$lang['Invoices.!error.service.renew_onetime'] = 'Еднократните услуги не могат да бъдат подновени.';
 

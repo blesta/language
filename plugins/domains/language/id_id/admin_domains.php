@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'TLD berikut ini tidak dapat dih
 $lang['AdminDomains.!success.delete'] = 'TLD berhasil dihapus!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Tanggal pendaftaran Domain telah diperbarui!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Tanggal kedaluwarsa Domain telah diperbarui!';
+$lang['AdminDomains.tlds.field_currency'] = 'Mata uang';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Domain telah ditransfer dari pencatat.';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Detta dataflöde är inaktiverat, för att aktivera det besök Inställningar > Företag > Flöden i personalområdet.';
 $lang['Feed.!error.invalid'] = 'Den begärda resursen finns inte eller är ogiltig.';
+$lang['Feed.!error.disabled'] = 'Detta dataflöde är inaktiverat, för att aktivera det besök Inställningar > Företag > Flöden i personalområdet.';
 

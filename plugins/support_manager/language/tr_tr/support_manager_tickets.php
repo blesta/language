@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Lütfen bu departman iç
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Bilet kontaklarından en az biri geçersiz.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Bilet alıcılarından en az biri geçersiz.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Bilet alıcılarından en az biri mükerrerdir.';
+$lang['SupportManagerTickets.log.service_id'] = 'İlgili servis dahili ID olarak değiştirilmiştir: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" zorunludur ve boş olamaz.';
 

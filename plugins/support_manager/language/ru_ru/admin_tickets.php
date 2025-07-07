@@ -131,4 +131,12 @@ $lang['AdminTickets.reply.heading_recipients'] = 'Получатели';
 $lang['AdminTickets.add.text_contacts'] = 'Контакты, не выбранные в списке, будут автоматически добавлены в билет, если они ответят на него.';
 $lang['AdminTickets.add.heading_contacts'] = 'Контакты';
 $lang['AdminTickets.add.heading_recipients'] = 'Получатели';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Дополнительные получатели';
+$lang['AdminTickets.reply.text_service_none'] = 'Нет';
+$lang['AdminTickets.reply.heading_service'] = 'Сервис';
+$lang['AdminTickets.add.text_service_none'] = 'Нет';
+$lang['AdminTickets.add.heading_service'] = 'Сервис';
+$lang['AdminTickets.add.text_no_contacts'] = 'Для выбранного клиента нет дополнительных контактов.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Адрес электронной почты для получения уведомления об обновлении билета.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Контакты, которые будут получать уведомления об обновлении тикета. Те, кто не выбран, будут автоматически добавлены в билет, если они ответят на него.';
 

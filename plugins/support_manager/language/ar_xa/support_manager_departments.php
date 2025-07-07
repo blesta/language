@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'يرجى إدخال اس
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'حدد أولوية واحدة على الأقل.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'أولوية واحدة أو أكثر غير صالحة.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'العميل فقط';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'التصعيد إلى الطوارئ';
+$lang['SupportManagerDepartments.!error.required.format'] = 'يجب تعيين ما إذا كان يجب طلب الحفظ إلى 0 أو 1.';
 

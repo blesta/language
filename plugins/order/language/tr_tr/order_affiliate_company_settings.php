@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Sabit';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Yüzde';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Herhangi bir';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Birinci';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Yüzde';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Sabit';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 

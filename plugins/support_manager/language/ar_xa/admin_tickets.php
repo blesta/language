@@ -131,4 +131,12 @@ $lang['AdminTickets.reply.heading_recipients'] = 'المستلمون';
 $lang['AdminTickets.reply.heading_contacts'] = 'جهات الاتصال';
 $lang['AdminTickets.reply.text_add_recipient'] = 'إضافة مستلم';
 $lang['AdminTickets.reply.text_contacts'] = 'ستتم إضافة جهات الاتصال التي لم يتم تحديدها تلقائياً إلى التذكرة إذا استجابت لها.';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'المستلمون الإضافيون';
+$lang['AdminTickets.reply.text_service_none'] = 'لا يوجد';
+$lang['AdminTickets.reply.heading_service'] = 'الخدمة';
+$lang['AdminTickets.add.text_service_none'] = 'لا يوجد';
+$lang['AdminTickets.add.heading_service'] = 'الخدمة';
+$lang['AdminTickets.add.text_no_contacts'] = 'لا توجد جهات اتصال إضافية متاحة للعميل المحدد.';
+$lang['AdminTickets.!tooltip.recipients'] = 'عنوان البريد الإلكتروني ليتم إعلامك عند تحديث التذكرة.';
+$lang['AdminTickets.!tooltip.contacts'] = 'جهات الاتصال التي سيتم إعلامها عند تحديث التذكرة. ستتم إضافة الأشخاص الذين لم يتم تحديدهم تلقائياً إلى التذكرة إذا استجابوا لها.';
 

@@ -148,4 +148,9 @@ $lang['Cpanel.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['Cpanel.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s 사용 가능)';
 $lang['Cpanel.tab_stats.bandwidth_value'] = '%1$s MB';
 $lang['Cpanel.tab_stats.disk_value'] = '%1$s MB';
+$lang['Cpanel.tab_client_login.field_login'] = '로그인';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = '비밀번호';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = '사용자 이름';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'cPanel에 로그인';
+$lang['Cpanel.tab_client_login'] = 'cPanel에 로그인';
 

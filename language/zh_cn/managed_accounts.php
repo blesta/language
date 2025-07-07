@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = '邀请函 ID 无效。';
 $lang['ManagedAccounts.!error.email.invitation'] = '已经向该账户发送了邀请。';
 $lang['ManagedAccounts.!error.client_id.exists'] = '客户 ID 无效。';
 $lang['ManagedAccounts.!error.client.exists'] = '所提供的电子邮件地址没有指定帐户。';
+$lang['ManagedAccounts.!error.email.exists'] = '无法发送邀请。请确保电子邮件地址正确，或要求用户先注册。';
 

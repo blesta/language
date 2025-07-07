@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Ungültiges Format für verschlüss
 $lang['Services.!error.value.empty'] = 'Der Wert des Servicefeldes darf nicht leer sein.';
 $lang['Services.!error.key.length'] = 'Der Servicefeldschlüssel darf nicht länger als 32 Zeichen sein.';
 $lang['Services.!error.key.empty'] = 'Der Schlüssel des Servicefeldes darf nicht leer sein.';
+$lang['Services.getActions.uncancel'] = 'Reaktivieren Sie';
+$lang['Services.!error.uncancel.unsupported'] = 'Dieser Dienst kann nicht abbestellt werden, da das Modul ihn nicht unterstützt.';
 

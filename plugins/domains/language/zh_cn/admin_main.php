@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = '更改注册日期';
 $lang['AdminMain.edit.field_expiration_date'] = '更改有效期';
 $lang['AdminMain.!success.change_registration_date'] = '域名注册日期已更新！';
 $lang['AdminMain.!success.change_expiration_date'] = '域名到期日期已更新！';
+$lang['AdminMain.add.text_refresh'] = '刷新';
+$lang['AdminMain.index.tooltip_transferred'] = '域名已从注册商处转移。';
 

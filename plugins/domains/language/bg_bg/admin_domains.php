@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Модулът е инст
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Модулът беше успешно надграден.';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Датата на изтичане на домейна е актуализирана!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Датата за регистрация на домейна е актуализирана!';
+$lang['AdminDomains.tlds.field_currency'] = 'Валута';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Домейнът е прехвърлен от регистратора.';
 

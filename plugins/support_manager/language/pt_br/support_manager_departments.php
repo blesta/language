@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Digite um nome para esse
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Uma ou mais prioridades são inválidas.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecione pelo menos uma prioridade.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Somente para clientes';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Encaminhar para emergência';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Se a exigência do campo deve ser definida como 0 ou 1.';
 

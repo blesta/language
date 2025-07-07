@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'يُرجى تحديد س
 $lang['BtcpayServer.!error.server_url.valid'] = 'عنوان URL الخادم غير صالح.';
 $lang['BtcpayServer.description'] = 'BTCPayServer عبارة عن بوابة دفع بيتكوين ذاتية الاستضافة بدون رسوم.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'فرض المتجر الافتراضي كما تم تكوينه في خادم BTCPay.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'السماح للعميل باختيار طريقة الدفع.';
+$lang['BtcpayServer.meta.payment_method'] = 'طريقة الدفع';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'يُرجى تحديد طريقة دفع صالحة.';
 

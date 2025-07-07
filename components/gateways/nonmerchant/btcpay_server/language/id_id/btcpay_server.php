@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Pilih kecepatan transaks
 $lang['BtcpayServer.!error.server_url.valid'] = 'URL server tidak valid.';
 $lang['BtcpayServer.description'] = 'BTCPayServer adalah gateway pembayaran Bitcoin yang dihosting sendiri tanpa biaya.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Memaksa penyimpanan default seperti yang dikonfigurasi di BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Izinkan klien untuk memilih metode pembayaran.';
+$lang['BtcpayServer.meta.payment_method'] = 'Metode Pembayaran';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Pilih metode pembayaran yang valid.';
 

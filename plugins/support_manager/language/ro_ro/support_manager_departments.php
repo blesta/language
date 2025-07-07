@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Vă rugăm să introduce
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Una sau mai multe priorități nu sunt valabile.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selectați cel puțin o prioritate.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Numai client';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Treceți la urgență';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Dacă este necesar ca fișierul să fie setat la 0 sau 1.';
 

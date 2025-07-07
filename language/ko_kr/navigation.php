@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = '주문 인덱스는 숫자 값이어�
 $lang['Navigation.!error.action_id.valid'] = '잘못된 작업 ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML 템플릿';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = '서비스 대기열';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = '서비스 변경 사항';
 

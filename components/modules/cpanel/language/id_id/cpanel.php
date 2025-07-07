@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Server';
 $lang['Cpanel.module_row'] = 'Server';
 $lang['Cpanel.description'] = 'cPanel & WHM telah menjadi platform web hosting terdepan di industri ini selama lebih dari 20 tahun. Dipercaya di seluruh dunia oleh mitra teknologi Wordpress, CloudLinux, Lighstpeed, dan banyak lagi.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Masuk';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Kata sandi';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Nama pengguna';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Masuk ke cPanel';
+$lang['Cpanel.tab_client_login'] = 'Masuk ke cPanel';
 

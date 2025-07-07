@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Όνομα επικοιν�
 $lang['Namesilo.tab_manage_contacts.title'] = 'Διαχείριση επαφών';
 $lang['Namesilo.tab_whois.section_technical'] = 'Τεχνικό';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Διοικητική';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Ταυτότητα επικοινωνίας';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Εισάγει επαφές από το namesilo και τις συνδέει με πελάτες της blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Τραβήξτε τις επαφές Namesilo';
 

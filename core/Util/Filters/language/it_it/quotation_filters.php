@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.any'] = 'Qualsiasi';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Contenuto della voce';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citazione #';
+$lang['Util.filters.quotation_filters.any'] = 'Qualsiasi';
 

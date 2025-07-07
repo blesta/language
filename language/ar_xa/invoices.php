@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'يجب أن تكون جميع ا�
 $lang['Invoices.!error.invoice_ids.client'] = 'يجب أن تنتمي جميع الفواتير إلى نفس العميل.';
 $lang['Invoices.!error.invoice_id.status'] = 'يجب أن تكون فاتورة الوجهة مفتوحة وبدون أي معاملات.';
 $lang['Invoices.!error.invoice_id.unique'] = 'لا يمكن أن تكون الفاتورة الوجهة جزءاً من الفواتير المراد دمجها.';
+$lang['Invoices.!error.service.renew_onetime'] = 'لا يمكن تجديد الخدمات لمرة واحدة.';
 

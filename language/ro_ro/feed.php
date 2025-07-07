@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Acest flux de date este dezactivat; pentru a-l activa, vizitați Setări > Companie > Fluxuri în zona personalului.';
 $lang['Feed.!error.invalid'] = 'Resursa solicitată nu există sau este invalidă.';
+$lang['Feed.!error.disabled'] = 'Acest flux de date este dezactivat; pentru a-l activa, vizitați Setări > Companie > Fluxuri în zona personalului.';
 

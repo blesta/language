@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Det verifierade fältet må
 $lang['EmailVerifications.!error.token.format'] = 'Vänligen ange en giltig token.';
 $lang['EmailVerifications.!error.email.valid'] = 'Ange en giltig e-postadress.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Ogiltigt kontakt-ID.';
+$lang['EmailVerifications.!error.client.valid'] = 'Din e-postadress kunde inte verifieras eftersom ditt konto inte är aktivt.';
 

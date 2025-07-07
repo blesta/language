@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Nume de contact';
 $lang['Namesilo.tab_manage_contacts.title'] = 'Gestionați contactele';
 $lang['Namesilo.tab_whois.section_technical'] = 'Tehnic';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativ';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'ID de contact';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Extrage contactele din namesilo și le asociază cu clienții blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Trageți contactele Namesilo';
 

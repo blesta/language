@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Bitte wählen Sie eine g
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Mindestens einer der Ticketkontakte ist ungültig.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindestens einer der Ticketempfänger ist ungültig.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindestens einer der Ticketempfänger ist doppelt vorhanden.';
+$lang['SupportManagerTickets.log.service_id'] = 'Der zugehörige Dienst wurde auf die interne ID geändert: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" ist erforderlich und darf nicht leer sein.';
 

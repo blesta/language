@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Доб�
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Шаблоны HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Служба расширенного редактирования';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Очередь обслуживания';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Изменения в обслуживании';
 

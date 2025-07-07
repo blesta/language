@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID de convite inválido.
 $lang['ManagedAccounts.!error.email.invitation'] = 'Um convite já foi enviado para essa conta.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'ID de cliente inválido.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Não há nenhuma conta atribuída ao endereço de e-mail fornecido.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Não foi possível enviar um convite. Verifique se o endereço de e-mail está correto ou peça ao usuário que se registre primeiro.';
 

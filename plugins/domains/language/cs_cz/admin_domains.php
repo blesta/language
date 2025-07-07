@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Následující domény nejvyš�
 $lang['AdminDomains.!success.delete'] = 'TLD byly úspěšně odstraněny!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Datum registrace domény bylo aktualizováno!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Datum vypršení platnosti domény bylo aktualizováno!';
+$lang['AdminDomains.tlds.field_currency'] = 'Měna';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Doména byla převedena od registrátora.';
 

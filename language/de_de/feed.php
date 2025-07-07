@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Dieser Datenfeed ist deaktiviert. Um ihn zu aktivieren, besuchen Sie Einstellungen > Unternehmen > Feeds im Personalbereich.';
 $lang['Feed.!error.invalid'] = 'Die angeforderte Ressource existiert nicht oder ist ungültig.';
+$lang['Feed.!error.disabled'] = 'Dieser Datenfeed ist deaktiviert. Um ihn zu aktivieren, besuchen Sie Einstellungen > Unternehmen > Feeds im Personalbereich.';
 

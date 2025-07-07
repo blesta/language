@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = '请为该部门选择一
 $lang['SupportManagerTickets.!error.contacts.valid'] = '至少有一个机票联系人无效。';
 $lang['SupportManagerTickets.!error.recipients.valid'] = '至少有一个收票人无效。';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = '至少有一个机票收件人是重复的。';
+$lang['SupportManagerTickets.log.service_id'] = '相关服务已更改为内部 ID：#%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" 是必填项，不能为空。';
 

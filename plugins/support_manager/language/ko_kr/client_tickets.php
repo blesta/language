@@ -75,4 +75,8 @@ $lang['ClientTickets.!success.ticket_created'] = '티켓 #%1$s가 성공적으�
 $lang['ClientTickets.index.minutes'] = '%1$s 분';
 $lang['ClientTickets.index.hours'] = '%1$s 시간';
 $lang['ClientTickets.reply.log_date'] = '%1$s by %2$s %3$s';
+$lang['ClientTickets.reply.text_service_none'] = '없음';
+$lang['ClientTickets.reply.heading_service_id'] = '관련 서비스';
+$lang['ClientTickets.add.none'] = '없음';
+$lang['ClientTickets.add.field_service_id'] = '관련 서비스';
 

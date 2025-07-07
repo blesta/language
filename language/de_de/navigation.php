@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Der Auftragsindex muss ein numerischer
 $lang['Navigation.!error.action_id.valid'] = 'Ungültige Aktions-ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-Vorlagen';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service-Warteschlange';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Änderungen im Dienst';
 

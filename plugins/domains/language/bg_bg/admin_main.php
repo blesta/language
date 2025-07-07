@@ -168,4 +168,6 @@ $lang['AdminMain.!success.change_expiration_date'] = 'Датата на изти
 $lang['AdminMain.!success.change_registration_date'] = 'Датата за регистрация на домейна е актуализирана!';
 $lang['AdminMain.edit.field_expiration_date'] = 'Промяна на датата на изтичане на валидността';
 $lang['AdminMain.edit.field_registration_date'] = 'Промяна на датата на регистрация';
+$lang['AdminMain.add.text_refresh'] = 'Обновяване';
+$lang['AdminMain.index.tooltip_transferred'] = 'Домейнът е прехвърлен от регистратора.';
 

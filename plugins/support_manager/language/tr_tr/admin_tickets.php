@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Seçilmeyen kişiler, yanıt vermeler
 $lang['AdminTickets.add.text_add_recipient'] = 'Alıcı Ekle';
 $lang['AdminTickets.add.heading_contacts'] = 'İletişim';
 $lang['AdminTickets.add.heading_recipients'] = 'Alıcılar';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Ek Alıcılar';
+$lang['AdminTickets.reply.text_service_none'] = 'Hiçbiri';
+$lang['AdminTickets.reply.heading_service'] = 'Hizmet';
+$lang['AdminTickets.add.text_service_none'] = 'Hiçbiri';
+$lang['AdminTickets.add.heading_service'] = 'Hizmet';
+$lang['AdminTickets.add.text_no_contacts'] = 'Seçilen müşteri için ek kişi mevcut değil.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Bir bilet güncellendiğinde bilgilendirilmek için e-posta adresi.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Bir destek talebi güncellendiğinde bilgilendirilecek kişiler. Seçili olmayanlar, yanıt vermeleri halinde bilete otomatik olarak eklenecektir.';
 

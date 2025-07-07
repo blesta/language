@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Creați un nou mailing';
 $lang['AdminMain.index.boxtitle'] = 'Locuri de muncă Mass Mailer';
 $lang['AdminMain.index.page_title'] = 'Trimitere în masă';
 $lang['AdminMain.!error.export_found'] = 'Exportul nu a putut fi găsit în sistemul de fișiere.';
+$lang['AdminMain.settings.submit_cancel'] = 'Anulează';
+$lang['AdminMain.settings.submit_settings'] = 'Salvare setări';
+$lang['AdminMain.settings.form.rate_limit'] = 'Rata limită';
+$lang['AdminMain.settings.heading'] = 'Setări';
+$lang['AdminMain.settings.boxtitle'] = 'Setări Mass Mailer';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Limitează numărul de e-mailuri trimise la fiecare execuție a sarcinii cron. La următoarea execuție, aceasta va continua de unde a rămas și va trimite următorul lot de e-mailuri, și așa mai departe până când toate e-mailurile sunt trimise. 0 pentru nicio limită.';
+$lang['AdminMain.!success.options_updated'] = 'Setările Mass Mailer au fost actualizate cu succes!';
 

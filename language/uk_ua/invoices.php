@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Всі інвойси повин�
 $lang['Invoices.!error.invoice_ids.currency'] = 'Всі інвойси повинні бути в одній валюті.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Необхідно вибрати принаймні два інвойси.';
 $lang['Invoices.!line_item.parent_description'] = 'Служба у справах дітей %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Одноразові послуги не можуть бути продовжені.';
 

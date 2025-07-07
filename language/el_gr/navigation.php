@@ -124,4 +124,5 @@ $lang['Navigation.!error.action_id.valid'] = 'Μη έγκυρο αναγνωρι
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Μαύρη λίστα';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Πρότυπα HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Ουρά εξυπηρέτησης';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Αλλαγές υπηρεσιών';
 

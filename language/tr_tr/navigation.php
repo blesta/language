@@ -124,4 +124,5 @@ $lang['Navigation.!error.order.valid'] = 'Sipariş indeksi sayısal bir değer o
 $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML Şablonları';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Servis Kuyruğu';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Hizmet Değişiklikleri';
 

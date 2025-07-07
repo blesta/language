@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Υποβολή';
 $lang['Widget.toggle_filters'] = 'Εναλλαγή φίλτρων';
+$lang['Widget.submit'] = 'Υποβολή';
 

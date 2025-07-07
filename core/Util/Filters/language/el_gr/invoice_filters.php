@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.invoice_filters.any'] = 'Οποιοδήποτε';
+$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Τιμολόγιο #';
 $lang['Util.filters.invoice_filters.field_currency'] = 'Νόμισμα';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Περιεχόμενο γραμμής';
-$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Τιμολόγιο #';
 

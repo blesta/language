@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.quotation_filters.any'] = 'Οποιοδήποτε';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Προσφορά #';
 $lang['Util.filters.quotation_filters.field_currency'] = 'Νόμισμα';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Περιεχόμενο γραμμής';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Προσφορά #';
 

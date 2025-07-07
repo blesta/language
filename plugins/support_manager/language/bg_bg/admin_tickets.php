@@ -131,4 +131,12 @@ $lang['AdminTickets.!success.ticket_merge'] = 'Избраните билети �
 $lang['AdminTickets.!success.ticket_split'] = 'Билет №%1$s е успешно разделен на билет №%2$s.';
 $lang['AdminTickets.!success.ticket_updated'] = 'Билетът #%1$s е успешно актуализиран.';
 $lang['AdminTickets.!success.ticket_created'] = 'Билетът #%1$s е успешно отворен.';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Допълнителни получатели';
+$lang['AdminTickets.reply.text_service_none'] = 'Няма';
+$lang['AdminTickets.reply.heading_service'] = 'Услуга';
+$lang['AdminTickets.add.text_service_none'] = 'Няма';
+$lang['AdminTickets.add.heading_service'] = 'Услуга';
+$lang['AdminTickets.add.text_no_contacts'] = 'Няма налични допълнителни контакти за избрания клиент.';
+$lang['AdminTickets.!tooltip.recipients'] = 'Имейл адрес, на който да получавате известия при актуализиране на билета.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Контакти, които да бъдат уведомявани, когато билетът бъде актуализиран. Тези, които не са избрани, ще бъдат автоматично добавени към билета, ако отговорят на него.';
 

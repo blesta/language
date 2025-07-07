@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = '일시 중단 해제';
 $lang['AdminBilling.services.action.suspend'] = '일시 중단';
 $lang['AdminBilling.!success.services_unsuspended'] = '선택한 서비스가 성공적으로 일시 중단 해제되었습니다.';
 $lang['AdminBilling.!success.services_suspended'] = '선택한 서비스가 성공적으로 일시 중단되었습니다.';
+$lang['AdminBilling.services.text_pending_service_changes'] = '이 서비스는 변경이 보류 중입니다.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = '결제 완료 날짜: %1$s';
 

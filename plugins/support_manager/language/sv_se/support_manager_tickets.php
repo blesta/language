@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Vänligen välj en gilti
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Minst en av biljettkontakterna är ogiltig.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Minst en av biljettmottagarna är ogiltig.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Minst en av biljettmottagarna är dubblerad.';
+$lang['SupportManagerTickets.log.service_id'] = 'Den relaterade tjänsten har ändrats till internt ID: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" är obligatoriskt och får inte vara tomt.';
 

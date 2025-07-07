@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Upa
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Jumlah tindakan layanan yang akan dicoba sebelum menunda upaya berikutnya dengan jumlah yang ditentukan oleh pengaturan jarak upaya kedua';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Jumlah tindakan layanan yang akan dicoba sebelum menunda upaya berikutnya dengan jumlah yang ditentukan oleh pengaturan jarak upaya pertama';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Jumlah percobaan dan kegagalan untuk memproses tindakan layanan sebelum tindakan layanan tersebut dinonaktifkan dari penyelesaian otomatis.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Hanya mengizinkan pembatalan langsung';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Hanya mengizinkan pembatalan di akhir masa berlaku';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Memungkinkan pembatalan segera atau di akhir jangka waktu';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Opsi Pembatalan Klien';
 

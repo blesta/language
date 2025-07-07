@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Format tidak valid untuk dienkripsi
 $lang['Services.!error.value.empty'] = 'Nilai bidang layanan tidak boleh kosong.';
 $lang['Services.!error.key.length'] = 'Kunci bidang layanan tidak boleh lebih dari 32 karakter.';
 $lang['Services.!error.key.empty'] = 'Kunci bidang layanan tidak boleh kosong.';
+$lang['Services.getActions.uncancel'] = 'Aktifkan kembali';
+$lang['Services.!error.uncancel.unsupported'] = 'Layanan ini tidak dapat dibatalkan, karena modul tidak mendukungnya.';
 

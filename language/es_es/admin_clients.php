@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.unsuspend'] = 'Unsuspender';
 $lang['AdminClients.services.action.suspend'] = 'Suspender';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Fecha de cancelación';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Fecha de suspensión';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Este servicio tiene cambios pendientes.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Fecha de pago';
+$lang['AdminClients.editservice.field_status'] = 'Estado';
+$lang['AdminClients.editservice.field_term'] = 'Plazo';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'No facturar';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Añadir a la factura';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Crear factura';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Método de facturación';
+$lang['AdminClients.editservice.text_uncancel'] = 'Está a punto de reactivar un servicio cancelado. Si la opción "Usar módulo" está desmarcada, el servicio se reactivará únicamente en Blesta. Tenga en cuenta que la reactivación a través del módulo puede ser problemática y puede que no sea soportada por todos los módulos. La reactivación de un servicio cancelado no deshace la acción de cancelación realizada a través de la API del módulo.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Fecha de pago:';
+$lang['AdminClients.invoices.option_copy'] = 'Copia';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Fecha de pago: %1$s';
 

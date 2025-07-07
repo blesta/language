@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.maintenance_heading'] = 'Tryb konserwacji';
 $lang['ClientMaintenance.index.page_title'] = 'Konserwacja';
+$lang['ClientMaintenance.index.maintenance_heading'] = 'Tryb konserwacji';
 

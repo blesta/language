@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Verfügbare Prioritäten';
 $lang['AdminDepartments.edit.field_force_import'] = 'Import erzwingen';
 $lang['AdminDepartments.add.field_force_import'] = 'Import erzwingen';
 $lang['AdminDepartments.!success.department_imported'] = 'Die Abteilung %1$s wurde erfolgreich importiert.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Es kann jeweils nur ein Feld auf Notfall gesetzt werden.';
+$lang['AdminDepartments.edit.heading_required'] = 'Erforderlich';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Aktivieren Sie zugehörige Dienste';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Es kann jeweils nur ein Feld auf Notfall gesetzt werden.';
+$lang['AdminDepartments.add.heading_required'] = 'Erforderlich';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Aktivieren Sie zugehörige Dienste';
+$lang['AdminDepartments.!tooltip.type'] = '"Eskalieren zu Notfall" zeigt ein Warnfeld mit einer Meldung und einem Kontrollkästchen an. Wenn der Benutzer das Kontrollkästchen aktiviert, wird das Ticket automatisch auf "Notfall" eskaliert, auch wenn diese Priorität für die Abteilung deaktiviert ist. Nur verfügbar, wenn die Sichtbarkeit auf "Nur Kunde" eingestellt ist.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Erlauben Sie den Kunden, eine Dienstleistung auszuwählen, auf die sich das Ticket bezieht.';
 

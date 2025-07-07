@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Dostępne priorytety';
 $lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.add.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.!success.department_imported'] = 'Dział %1$s został pomyślnie zaimportowany.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Jednocześnie tylko jedno pole może być ustawione jako awaryjne.';
+$lang['AdminDepartments.edit.heading_required'] = 'Wymagane';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Włączanie powiązanych usług';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Jednocześnie tylko jedno pole może być ustawione jako awaryjne.';
+$lang['AdminDepartments.add.heading_required'] = 'Wymagane';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Włączanie powiązanych usług';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" wyświetla okno alertu z komunikatem i polem wyboru. Jeśli użytkownik zaznaczy pole wyboru, zgłoszenie jest automatycznie eskalowane do "Emergency", nawet jeśli ten priorytet jest wyłączony dla działu. Dostępne tylko wtedy, gdy opcja Widoczność jest ustawiona na Tylko klient.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Umożliwienie klientom wyboru usługi, której dotyczy zgłoszenie.';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginPlugin.name'] = 'Connexion partagée';
 $lang['SharedLoginPlugin.description'] = 'Permet de se connecter via une URL spécialement conçue.';
+$lang['SharedLoginPlugin.name'] = 'Connexion partagée';
 

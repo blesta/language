@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Ten
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'O número de ações de serviço a serem tentadas antes de atrasar a próxima tentativa pelo valor especificado pela configuração de espaçamento da segunda tentativa';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'O número de ações de serviço a serem tentadas antes de atrasar a próxima tentativa pelo valor especificado pela configuração de espaçamento da primeira tentativa';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'O número de tentativas e falhas de processamento de uma ação de serviço antes que essa ação de serviço seja desativada da conclusão automática.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Permitir apenas o cancelamento imediato';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Permitir apenas o cancelamento no final do período';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Permitir o cancelamento imediato ou no final do período';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Opções de cancelamento do cliente';
 

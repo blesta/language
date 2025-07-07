@@ -28,4 +28,11 @@ $lang['AdminMain.index.categorylink_compose'] = 'Vytvoření nové pošty';
 $lang['AdminMain.index.boxtitle'] = 'Pracovní nabídky pro hromadné rozesílání';
 $lang['AdminMain.index.page_title'] = 'Hromadný rozesílač';
 $lang['AdminMain.!error.export_found'] = 'Export nebyl v souborovém systému nalezen.';
+$lang['AdminMain.settings.submit_cancel'] = 'Zrušit';
+$lang['AdminMain.settings.submit_settings'] = 'Uložit nastavení';
+$lang['AdminMain.settings.form.rate_limit'] = 'Limit sazby';
+$lang['AdminMain.settings.heading'] = 'Nastavení';
+$lang['AdminMain.settings.boxtitle'] = 'Nastavení hromadného mailu';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Omezí množství e-mailů odeslaných při každém spuštění úlohy cron. Při dalším spuštění pokračuje tam, kde skončila, a odešle další dávku e-mailů, a tak dále, dokud nejsou odeslány všechny e-maily. 0 pro žádný limit.';
+$lang['AdminMain.!success.options_updated'] = 'Nastavení hromadného rozesílače bylo úspěšně aktualizováno!';
 

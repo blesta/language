@@ -244,4 +244,7 @@ $lang['Namesilo.tab_manage_contacts.heading_name'] = 'Kontaktpersonens namn';
 $lang['Namesilo.tab_manage_contacts.title'] = 'Hantera kontakter';
 $lang['Namesilo.tab_whois.section_technical'] = 'Teknisk';
 $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativt';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Kontakt-ID';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Hämtar in kontakter från namesilo och kopplar dem till blesta-klienter.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Dra Namesilo-kontakter';
 

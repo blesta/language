@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Kayıt Tarihini Değiştir';
 $lang['AdminMain.edit.field_expiration_date'] = 'Son Kullanma Tarihini Değiştir';
 $lang['AdminMain.!success.change_registration_date'] = 'Alan adı kayıt tarihi güncellendi!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
+$lang['AdminMain.add.text_refresh'] = 'Yenile';
+$lang['AdminMain.index.tooltip_transferred'] = 'Alan adı, kayıt kuruluşundan transfer edilmiştir.';
 

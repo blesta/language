@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Dakika';
 $lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Günler';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Bir veya daha fazla öncelik geçersiz.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'En az bir öncelik seçin.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Sadece Müşteri';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Acil Duruma Yükseltme';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Dosyanın 0 veya 1 olarak ayarlanması gerekip gerekmediği.';
 

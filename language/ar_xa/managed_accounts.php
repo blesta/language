@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.contact_id.exists'] = 'معرف جهة اتصال 
 $lang['ManagedAccounts.!error.invitation_id.exists'] = 'معرّف الدعوة غير صالح.';
 $lang['ManagedAccounts.!error.email.invitation'] = 'تم إرسال دعوة إلى هذا الحساب بالفعل.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'معرف العميل غير صالح.';
+$lang['ManagedAccounts.!error.email.exists'] = 'تعذر إرسال دعوة. تأكد من صحة عنوان البريد الإلكتروني أو اطلب من المستخدم التسجيل أولاً.';
 

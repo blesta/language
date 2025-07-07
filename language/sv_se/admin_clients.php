@@ -918,4 +918,16 @@ $lang['AdminClients.services.action.suspend'] = 'Avvakta';
 $lang['AdminClients.editservice.field_date_canceled'] = 'Datum för avbokning';
 $lang['AdminClients.editservice.field_date_suspended'] = 'Datum inställt';
 $lang['AdminClients.editservice.field_date_last_renewed'] = 'Datum för senaste förnyelse';
+$lang['AdminClients.services.text_pending_service_changes'] = 'Denna tjänst har pågående ändringar.';
+$lang['AdminClients.editservice.field_date_paid_through'] = 'Datum Betald genom';
+$lang['AdminClients.editservice.field_status'] = 'Status';
+$lang['AdminClients.editservice.field_term'] = 'Tidsperiod';
+$lang['AdminClients.editservice.field_invoice_method_dont'] = 'Fakturera inte';
+$lang['AdminClients.editservice.field_invoice_method_append'] = 'Bifoga till faktura';
+$lang['AdminClients.editservice.field_invoice_method_create'] = 'Skapa faktura';
+$lang['AdminClients.editservice.field_invoice_method'] = 'Faktureringssätt';
+$lang['AdminClients.editservice.text_uncancel'] = 'Du är på väg att återaktivera en avbeställd tjänst. Om "Använd modul" är avmarkerat kommer tjänsten endast att återaktiveras i Blesta. Observera att återaktivering via modulen kan vara problematisk och kanske inte stöds av alla moduler. Att återaktivera en avbeställd tjänst ångrar inte avbeställningen som utfördes via modulens API.';
+$lang['AdminClients.editservice.text_date_paid_through'] = 'Datum Betald genom:';
+$lang['AdminClients.invoices.option_copy'] = 'Kopia';
+$lang['AdminClients.!tooltip.text_date_paid_through'] = 'Datum Betald genom: %1$s';
 

@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML-sj
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML sjablonen';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Geavanceerde bewerkingsservice';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service wachtrij';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Serviceveranderingen';
 

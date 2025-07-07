@@ -75,4 +75,8 @@ $lang['ClientTickets.reply.dropzone_drop_files_here'] = 'Αφήστε αρχεί
 $lang['ClientTickets.reply.dropzone_remove_file'] = 'Αφαίρεση αρχείου';
 $lang['ClientTickets.formatDepartmentCustomFields.encrypted_field'] = 'Τα δεδομένα αυτά είναι κρυπτογραφημένα και δεν μπορούν να εμφανιστούν.';
 $lang['ClientTickets.!error.email.blacklist'] = 'Λυπούμαστε, δεν μπορούμε να δεχτούμε το εισιτήριό σας αυτή τη στιγμή.';
+$lang['ClientTickets.reply.text_service_none'] = 'Κανένα';
+$lang['ClientTickets.reply.heading_service_id'] = 'Σχετική υπηρεσία';
+$lang['ClientTickets.add.none'] = 'Κανένα';
+$lang['ClientTickets.add.field_service_id'] = 'Σχετική υπηρεσία';
 

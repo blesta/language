@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Nu sunt disponibile departament
 $lang['ClientTickets.!success.ticket_closed'] = 'Biletul #%1$s a fost închis cu succes.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Biletul #%1$s a fost actualizat cu succes.';
 $lang['ClientTickets.!success.ticket_created'] = 'Biletul #%1$s a fost creat cu succes.';
+$lang['ClientTickets.reply.text_service_none'] = 'Niciuna';
+$lang['ClientTickets.reply.heading_service_id'] = 'Servicii conexe';
+$lang['ClientTickets.add.none'] = 'Niciuna';
+$lang['ClientTickets.add.field_service_id'] = 'Servicii conexe';
 

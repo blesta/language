@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_nonmercha
 $lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'] = 'التاجر';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'هجين';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'لا توجد بوابات مثبتة.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'مجموعة العملاء';
 

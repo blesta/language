@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.invoice_filters.any'] = 'Qualsiasi';
-$lang['Util.filters.invoice_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Contenuto della voce';
+$lang['Util.filters.invoice_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.invoice_filters.field_invoice_number'] = 'Fattura #';
+$lang['Util.filters.invoice_filters.any'] = 'Qualsiasi';
 

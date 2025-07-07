@@ -21,6 +21,6 @@ $lang['Braintree.live_mode'] = 'Canlı Mod';
 $lang['Braintree.private_key'] = 'Özel Anahtar';
 $lang['Braintree.public_key'] = 'Açık Anahtar';
 $lang['Braintree.merchant_id'] = 'Satıcı Kimliği';
-$lang['Braintree.description'] = 'Dünya çapında 45\'ten fazla ülke/bölgedeki tüccarlar Braintree\'yi kullanarak 130\'dan fazla para biriminde ödemeleri kabul edebilir, bölebilir ve etkinleştirebilir';
+$lang['Braintree.description'] = 'PHP &gt;= 7.3 gerektirir. Dünya çapında 45\'ten fazla ülke/bölgedeki satıcılar Braintree\'yi kullanarak 130\'dan fazla para biriminde ödemeleri kabul edebilir, bölebilir ve etkinleştirebilir';
 $lang['Braintree.name'] = 'Braintree';
 

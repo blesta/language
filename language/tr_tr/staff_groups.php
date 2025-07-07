@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML Ş
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML Şablonları';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Gelişmiş Düzenleme Hizmeti';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Servis Kuyruğu';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Hizmet Değişiklikleri';
 

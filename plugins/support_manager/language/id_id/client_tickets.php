@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Tidak ada departemen dukungan y
 $lang['ClientTickets.!success.ticket_closed'] = 'Tiket #%1$ telah berhasil ditutup.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Tiket #%1$ telah berhasil diperbarui.';
 $lang['ClientTickets.!success.ticket_created'] = 'Tiket #%1$ telah berhasil dibuat.';
+$lang['ClientTickets.reply.text_service_none'] = 'Tidak ada';
+$lang['ClientTickets.reply.heading_service_id'] = 'Layanan Terkait';
+$lang['ClientTickets.add.none'] = 'Tidak ada';
+$lang['ClientTickets.add.field_service_id'] = 'Layanan Terkait';
 

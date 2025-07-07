@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Main.index.package_price_recurring'] = '%1$s @ %2$s (renova @ %3$s)';
-$lang['Main.index.package_price'] = '%1$s @ %2$s';
 $lang['Main.!error.package_limits'] = 'Os limites de pacotes foram atingidos para todos os pacotes do grupo selecionado.';
+$lang['Main.index.package_price'] = '%1$s @ %2$s';
+$lang['Main.index.package_price_recurring'] = '%1$s @ %2$s (renova @ %3$s)';
 

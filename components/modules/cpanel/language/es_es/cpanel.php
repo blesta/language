@@ -148,4 +148,9 @@ $lang['Cpanel.!error.cpanel_username.length'] = 'El nombre de usuario debe tener
 $lang['Cpanel.!error.cpanel_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Cpanel.!error.cpanel_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
 $lang['Cpanel.!error.configoptions[dedicated_ip].format'] = 'La IP dedicada debe estar configurada en 0 o 1.';
+$lang['Cpanel.tab_client_login.field_login'] = 'Conectarse';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Contraseña';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Nombre de usuario';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Inicie sesión en cPanel';
+$lang['Cpanel.tab_client_login'] = 'Inicie sesión en cPanel';
 

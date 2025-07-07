@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Купонът е усп
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Купонът е създаден успешно!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Известията бяха успешно актуализирани!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Настройките на фактурата и таксата бяха успешно актуализирани!';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Позволяват само незабавно анулиране';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Разрешете анулиране само в края на срока';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Възможност за незабавна отмяна или отмяна в края на срока';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Опции за отмяна на клиента';
 

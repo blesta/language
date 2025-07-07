@@ -14,4 +14,5 @@ $lang['EmailVerifications.!error.verified.valid'] = 'Zweryfikowane pole musi mie
 $lang['EmailVerifications.!error.token.format'] = 'Wprowadź prawidłowy token.';
 $lang['EmailVerifications.!error.email.valid'] = 'Wprowadź prawidłowy adres e-mail.';
 $lang['EmailVerifications.!error.contact_id.exists'] = 'Nieprawidłowy identyfikator kontaktu.';
+$lang['EmailVerifications.!error.client.valid'] = 'Twój adres e-mail nie mógł zostać zweryfikowany, ponieważ Twoje konto nie jest aktywne.';
 

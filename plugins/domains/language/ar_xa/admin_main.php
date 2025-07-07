@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'تغيير تاريخ الت�
 $lang['AdminMain.edit.field_expiration_date'] = 'تغيير تاريخ انتهاء الصلاحية';
 $lang['AdminMain.!success.change_registration_date'] = 'تم تحديث تاريخ تسجيل النطاق!';
 $lang['AdminMain.!success.change_expiration_date'] = 'تم تحديث تاريخ انتهاء صلاحية النطاق!';
+$lang['AdminMain.add.text_refresh'] = 'تحديث';
+$lang['AdminMain.index.tooltip_transferred'] = 'تم نقل النطاق من المسجل.';
 

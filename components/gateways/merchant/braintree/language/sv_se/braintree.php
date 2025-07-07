@@ -21,6 +21,6 @@ $lang['Braintree.live_mode'] = 'Live-läge';
 $lang['Braintree.private_key'] = 'Privat nyckel';
 $lang['Braintree.public_key'] = 'Offentlig nyckel';
 $lang['Braintree.merchant_id'] = 'ID för handlare';
-$lang['Braintree.description'] = 'Handlare i mer än 45 länder / regioner över hela världen kan acceptera, dela och aktivera betalningar i mer än 130 valutor med Braintree';
+$lang['Braintree.description'] = 'Kräver PHP &gt;= 7.3. Handlare i mer än 45 länder/regioner över hela världen kan acceptera, dela upp och aktivera betalningar i mer än 130 valutor med Braintree';
 $lang['Braintree.name'] = 'Braintree';
 

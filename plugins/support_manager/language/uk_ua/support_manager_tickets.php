@@ -67,4 +67,6 @@ $lang['SupportManagerTickets.!error.priority.valid'] = 'Будь ласка, о�
 $lang['SupportManagerTickets.!error.contacts.valid'] = 'Принаймні один з контактів у квитку недійсний.';
 $lang['SupportManagerTickets.!error.recipients.valid'] = 'Принаймні один з одержувачів квитка є недійсним.';
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Принаймні один з одержувачів квитка дублюється.';
+$lang['SupportManagerTickets.log.service_id'] = 'Відповідний сервіс змінено на внутрішній ідентифікатор: #%1$s.';
+$lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" є обов\'язковим і не може бути порожнім.';
 

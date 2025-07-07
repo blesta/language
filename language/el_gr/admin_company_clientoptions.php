@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Πύλ
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Ενεργοποίηση';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ενεργοποίηση περιορισμών πύλης';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Περιορίστε τις πύλες που μπορούν να χρησιμοποιήσουν οι πελάτες. Από προεπιλογή, οι Περιορισμοί πύλης είναι απενεργοποιημένοι και όλες οι πύλες είναι διαθέσιμες.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Ομάδα πελατών';
 

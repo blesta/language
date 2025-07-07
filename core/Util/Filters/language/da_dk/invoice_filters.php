@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.invoice_filters.any'] = 'Enhver';
+$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Faktura #';
 $lang['Util.filters.invoice_filters.field_currency'] = 'Valuta';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Indhold af post';
-$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Faktura #';
 

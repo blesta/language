@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.!success.requiredfields_updated'] = 'Необх
 $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Потребителското поле на клиента е успешно изтрито.';
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Потребителското поле на клиента е създадено успешно.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Потребителското поле на клиента е успешно актуализирано.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Група клиенти';
 

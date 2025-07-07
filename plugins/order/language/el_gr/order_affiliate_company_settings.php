@@ -12,6 +12,6 @@
 $lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Σταθερό';
 $lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Ποσοστό';
-$lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Οποιοδήποτε';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Πρώτη';
+$lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Οποιοδήποτε';
 

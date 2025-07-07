@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'For
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Antallet af servicehandlinger, der skal forsøges, før næste forsøg forsinkes med den mængde, der er angivet i indstillingen for afstand til andet forsøg.';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Antallet af servicehandlinger, der skal forsøges, før det næste forsøg forsinkes med den mængde, der er angivet i indstillingen for afstand til første forsøg.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Antallet af forsøg og fejl, der skal behandles for en servicehandling, før den pågældende servicehandling deaktiveres fra automatisk afslutning.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Tillad kun øjeblikkelig annullering';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Tillad kun aflysning i slutningen af semesteret';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Tillad øjeblikkelig annullering eller annullering i slutningen af perioden';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Indstillinger for klientannullering';
 

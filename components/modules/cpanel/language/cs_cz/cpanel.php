@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Servery';
 $lang['Cpanel.module_row'] = 'Server';
 $lang['Cpanel.description'] = 'cPanel a WHM jsou přední webhostingovou platformou již více než 20 let. Důvěřují jim celosvětoví technologičtí partneři Wordpress, CloudLinux, Lighstpeed a další.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Přihlášení';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Heslo';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Uživatelské jméno';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Přihlášení do cPanelu';
+$lang['Cpanel.tab_client_login'] = 'Přihlášení do cPanelu';
 

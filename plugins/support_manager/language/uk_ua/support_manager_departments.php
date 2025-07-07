@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Будь ласка, в�
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Один або декілька пріоритетів є недійсними.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Виберіть хоча б один пріоритет.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Тільки для клієнтів';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Ескалація до надзвичайної ситуації';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Чи потрібно вимагати файл, має бути встановлено на 0 або 1.';
 

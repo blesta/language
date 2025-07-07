@@ -82,4 +82,7 @@ $lang['SupportManagerDepartments.!error.name.empty'] = 'Wprowadź nazwę tego dz
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Jeden lub więcej priorytetów jest nieprawidłowych.';
 $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wybierz co najmniej jeden priorytet.';
+$lang['SupportManagerDepartments.visibility_options.client_only'] = 'Tylko klient';
+$lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalacja do sytuacji awaryjnej';
+$lang['SupportManagerDepartments.!error.required.format'] = 'Czy wymagać, aby plik był ustawiony na 0 lub 1.';
 

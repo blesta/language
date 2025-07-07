@@ -272,4 +272,6 @@ $lang['AdminDomains.getTldActions.option_epp_code'] = 'كود EPP';
 $lang['AdminDomains.getTldActions.option_delete'] = 'حذف نطاقات TLD';
 $lang['AdminDomains.!success.change_registration_date'] = 'تم تحديث تاريخ تسجيل النطاق!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'تم تحديث تاريخ انتهاء صلاحية النطاق!';
+$lang['AdminDomains.tlds.field_currency'] = 'العملة';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'تم نقل النطاق من المسجل.';
 

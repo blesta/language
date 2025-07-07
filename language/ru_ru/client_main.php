@@ -16,7 +16,7 @@ $lang['ClientMain.invoicemethod.text_invoice_method'] = 'Способ выста
 $lang['ClientMain.invoicemethod.boxtitle_inv_method'] = 'Метод выставления счета-фактуры';
 $lang['ClientMain.invoicemethod.page_title'] = 'Клиент #%1$s Метод выставления счета';
 $lang['ClientMain.edit.field_editsubmit'] = 'Обновить информацию';
-$lang['ClientMain.edit.field_otp'] = 'Одноразовый пароль';
+$lang['ClientMain.edit.field_otp'] = 'Одноразовый пароль (как показано в вашем аутентификаторе)';
 $lang['ClientMain.edit.text_windows'] = 'Windows';
 $lang['ClientMain.edit.text_ios'] = 'iOS';
 $lang['ClientMain.edit.text_android'] = 'Android';
@@ -80,4 +80,6 @@ $lang['ClientMain.!info.invoice_due_button'] = 'Произвести оплат�
 $lang['ClientMain.!info.invoice_due_title'] = 'С возвращением, %1$s!';
 $lang['ClientMain.!success.invoice_method_updated'] = 'Ваш метод выставления счетов был успешно обновлен. Все последующие счета будут доставляться вам через %1$s.';
 $lang['ClientMain.!success.client_updated'] = 'Информация о вашем аккаунте была успешно обновлена.';
+$lang['ClientMain.edit.tooltip_confirm_password'] = 'Требуется для включения двухфакторной аутентификации или обновления пароля.';
+$lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двухфакторная аутентификация';
 

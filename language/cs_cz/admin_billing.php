@@ -180,4 +180,6 @@ $lang['AdminBilling.services.action.unsuspend'] = 'Odpojení';
 $lang['AdminBilling.services.action.suspend'] = 'Pozastavit';
 $lang['AdminBilling.!success.services_unsuspended'] = 'Vybrané služby byly úspěšně odpojeny.';
 $lang['AdminBilling.!success.services_suspended'] = 'Vybrané služby byly úspěšně pozastaveny.';
+$lang['AdminBilling.services.text_pending_service_changes'] = 'Tato služba čeká na změny.';
+$lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum proplacení: %1$s';
 

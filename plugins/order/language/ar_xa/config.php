@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'المصطلح المحدد للم
 $lang['Config.!error.domain_duplicated'] = 'النطاق "%1$s" موجود بالفعل في سلة التسوق الخاصة بك.';
 $lang['Config.!error.invalid_module'] = 'الحزمة غير متوفرة حالياً.';
 $lang['Config.!error.invalid_pricing_id'] = 'لم يتم العثور على الحزمة المعطاة.';
+$lang['Config.!error.invalid_value_option'] = 'يجب تحديد قيمة %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'يجب أن تكون قيمة الخيار "%1$s" بين %2$s و %3$s.';
 

@@ -75,4 +75,8 @@ $lang['ClientTickets.reply.dropzone_drop_files_here'] = 'Læg filer her for at u
 $lang['ClientTickets.reply.dropzone_remove_file'] = 'Fjern fil';
 $lang['ClientTickets.formatDepartmentCustomFields.encrypted_field'] = 'Disse data er krypterede og kan ikke vises.';
 $lang['ClientTickets.!error.email.blacklist'] = 'Vi kan desværre ikke tage imod din billet i øjeblikket.';
+$lang['ClientTickets.reply.text_service_none'] = 'Ingen';
+$lang['ClientTickets.reply.heading_service_id'] = 'Relateret service';
+$lang['ClientTickets.add.none'] = 'Ingen';
+$lang['ClientTickets.add.field_service_id'] = 'Relateret service';
 

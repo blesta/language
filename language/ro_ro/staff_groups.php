@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Adăuga
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Șabloane HTML';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviciul de editare avansată';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Coada de servicii';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Modificări ale serviciilor';
 

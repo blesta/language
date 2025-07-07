@@ -10,7 +10,7 @@
  */
 
 $lang['Braintree.name'] = 'Braintree';
-$lang['Braintree.description'] = 'Los comerciantes de más de 45 países/regiones de todo el mundo pueden aceptar, dividir y permitir pagos en más de 130 divisas utilizando Braintree.';
+$lang['Braintree.description'] = 'Requiere PHP &gt;= 7.3. Los comerciantes de más de 45 países/regiones de todo el mundo pueden aceptar, dividir y habilitar pagos en más de 130 divisas con Braintree.';
 $lang['Braintree.merchant_id'] = 'ID de comerciante';
 $lang['Braintree.public_key'] = 'Clave pública';
 $lang['Braintree.private_key'] = 'Clave privada';

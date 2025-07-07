@@ -64,4 +64,6 @@ $lang['Services.getActions.cancel'] = 'Annuler';
 $lang['Services.getActions.schedule_cancel'] = 'Annulation du calendrier';
 $lang['Services.getActions.change_renew'] = 'Modifier la date de renouvellement';
 $lang['Services.getActions.update_coupon'] = 'Mise à jour du coupon';
+$lang['Services.getActions.uncancel'] = 'Réactiver';
+$lang['Services.!error.uncancel.unsupported'] = 'Ce service ne peut pas être annulé, car le module ne le prend pas en charge.';
 

@@ -272,4 +272,6 @@ $lang['AdminDomains.!success.delete_partial'] = 'Aşağıdaki TLD\'ler kullanım
 $lang['AdminDomains.!success.delete'] = 'TLD başarıyla silindi!';
 $lang['AdminDomains.!success.change_registration_date'] = 'Alan adı kayıt tarihi güncellendi!';
 $lang['AdminDomains.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
+$lang['AdminDomains.tlds.field_currency'] = 'Para Birimi';
+$lang['AdminDomains.browse.tooltip_transferred'] = 'Alan adı, kayıt kuruluşundan transfer edilmiştir.';
 

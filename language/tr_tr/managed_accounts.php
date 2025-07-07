@@ -16,4 +16,5 @@ $lang['ManagedAccounts.!error.invitation_id.exists'] = 'Geçersiz davetiye kimli
 $lang['ManagedAccounts.!error.email.invitation'] = 'Bu hesaba zaten bir davetiye gönderildi.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Geçersiz istemci kimliği.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Verilen e-posta adresine atanmış bir hesap bulunmamaktadır.';
+$lang['ManagedAccounts.!error.email.exists'] = 'Bir davetiye gönderilemedi. E-posta adresinin doğru olduğundan emin olun veya kullanıcıdan önce kaydolmasını isteyin.';
 

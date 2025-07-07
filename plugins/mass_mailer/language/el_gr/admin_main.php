@@ -28,4 +28,11 @@ $lang['AdminMain.index.email_subject'] = 'Θέμα';
 $lang['AdminMain.index.email_to_recipients'] = '%1$s Παραλήπτης(-ες)';
 $lang['AdminMain.index.no_export_details'] = 'Δεν υπάρχουν διαθέσιμες λεπτομέρειες σχετικά με την εξαγωγή.';
 $lang['AdminMain.index.no_results'] = 'Προς το παρόν δεν υπάρχουν θέσεις εργασίας για αποστολή.';
+$lang['AdminMain.settings.submit_cancel'] = 'Ακύρωση';
+$lang['AdminMain.settings.submit_settings'] = 'Αποθήκευση ρυθμίσεων';
+$lang['AdminMain.settings.form.rate_limit'] = 'Όριο ποσοστού';
+$lang['AdminMain.settings.heading'] = 'Ρυθμίσεις';
+$lang['AdminMain.settings.boxtitle'] = 'Ρυθμίσεις μαζικής αλληλογραφίας';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Περιορίζει τον αριθμό των email που αποστέλλονται ανά εκτέλεση κάθε εργασίας cron. Κατά την επόμενη εκτέλεση, θα συνεχίσει από εκεί που σταμάτησε και θα στείλει την επόμενη παρτίδα μηνυμάτων ηλεκτρονικού ταχυδρομείου κ.ο.κ. μέχρι να αποσταλούν όλα τα μηνύματα ηλεκτρονικού ταχυδρομείου. 0 για κανένα όριο.';
+$lang['AdminMain.!success.options_updated'] = 'Οι ρυθμίσεις του Mass Mailer ενημερώθηκαν με επιτυχία!';
 

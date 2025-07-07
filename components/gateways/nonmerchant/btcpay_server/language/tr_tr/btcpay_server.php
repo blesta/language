@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Lütfen geçerli bir iş
 $lang['BtcpayServer.!error.server_url.valid'] = 'Sunucu URL\'si geçersiz.';
 $lang['BtcpayServer.description'] = 'BTCPayServer, kendi kendine barındırılan, hiçbir ücreti olmayan bir Bitcoin ödeme ağ geçididir.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'BTCPay Server\'da yapılandırıldığı gibi mağaza varsayılanını zorla.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Müşterinin ödeme yöntemini seçmesine izin verin.';
+$lang['BtcpayServer.meta.payment_method'] = 'Ödeme Yöntemi';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Lütfen geçerli bir ödeme yöntemi seçin.';
 

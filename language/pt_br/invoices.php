@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Todas as faturas devem estar aber
 $lang['Invoices.!error.invoice_ids.currency'] = 'Todas as faturas devem ter a mesma moeda.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Pelo menos duas faturas devem ser selecionadas.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Os serviços únicos não podem ser renovados.';
 

@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Não há departamentos de supor
 $lang['ClientTickets.!success.ticket_closed'] = 'O tíquete #%1$s foi fechado com sucesso.';
 $lang['ClientTickets.!success.ticket_updated'] = 'O tíquete #%1$s foi atualizado com sucesso.';
 $lang['ClientTickets.!success.ticket_created'] = 'O tíquete #%1$s foi criado com sucesso.';
+$lang['ClientTickets.reply.text_service_none'] = 'Nenhum';
+$lang['ClientTickets.reply.heading_service_id'] = 'Serviço relacionado';
+$lang['ClientTickets.add.none'] = 'Nenhum';
+$lang['ClientTickets.add.field_service_id'] = 'Serviço relacionado';
 

@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = '网关
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = '启用';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = '启用网关限制';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = '限制客户端可以使用的网关。默认情况下，网关限制被禁用，所有网关都可用。';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = '客户群';
 

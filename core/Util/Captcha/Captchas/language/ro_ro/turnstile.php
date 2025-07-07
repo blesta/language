@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Turnstile.name'] = 'Turnstile';
 $lang['Turnstile.options.field_turnstile_secret_key'] = 'Cheie secretă Turnstil';
 $lang['Turnstile.options.field_turnstile_site_key'] = 'Cheia site-ului Turnstile';
+$lang['Turnstile.name'] = 'Turnstile';
 

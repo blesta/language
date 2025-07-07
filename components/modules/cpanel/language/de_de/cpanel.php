@@ -148,4 +148,9 @@ $lang['Cpanel.module_row_plural'] = 'Server';
 $lang['Cpanel.module_row'] = 'Server';
 $lang['Cpanel.description'] = 'cPanel & WHM sind seit über 20 Jahren die branchenführende Webhosting-Plattform. Weltweites Vertrauen durch Technologiepartner wie Wordpress, CloudLinux, Lighstpeed und viele mehr.';
 $lang['Cpanel.name'] = 'cPanel';
+$lang['Cpanel.tab_client_login.field_login'] = 'Einloggen';
+$lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Passwort';
+$lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Benutzername';
+$lang['Cpanel.tab_client_login.logintocpanel'] = 'Bei cPanel anmelden';
+$lang['Cpanel.tab_client_login'] = 'Bei cPanel anmelden';
 

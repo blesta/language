@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Nesprávný formát pro šifrován�
 $lang['Services.!error.value.empty'] = 'Hodnota pole služby nesmí být prázdná.';
 $lang['Services.!error.key.length'] = 'Klíč pole služby nesmí přesáhnout 32 znaků.';
 $lang['Services.!error.key.empty'] = 'Klíč pole služby nesmí být prázdný.';
+$lang['Services.getActions.uncancel'] = 'Znovu aktivovat';
+$lang['Services.!error.uncancel.unsupported'] = 'Tuto službu nelze zrušit, protože ji modul nepodporuje.';
 

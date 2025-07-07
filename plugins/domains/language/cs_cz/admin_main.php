@@ -168,4 +168,6 @@ $lang['AdminMain.edit.field_registration_date'] = 'Změna data registrace';
 $lang['AdminMain.edit.field_expiration_date'] = 'Změnit datum vypršení platnosti';
 $lang['AdminMain.!success.change_registration_date'] = 'Datum registrace domény bylo aktualizováno!';
 $lang['AdminMain.!success.change_expiration_date'] = 'Datum vypršení platnosti domény bylo aktualizováno!';
+$lang['AdminMain.add.text_refresh'] = 'Obnovit';
+$lang['AdminMain.index.tooltip_transferred'] = 'Doména byla převedena od registrátora.';
 

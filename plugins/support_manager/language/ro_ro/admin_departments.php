@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Priorități disponibile';
 $lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.add.field_force_import'] = 'Force Import';
 $lang['AdminDepartments.!success.department_imported'] = 'Departamentul %1$s a fost importat cu succes.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Un singur câmp poate fi setat la urgență în același timp.';
+$lang['AdminDepartments.edit.heading_required'] = 'Necesar';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Activarea serviciilor conexe';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Un singur câmp poate fi setat la urgență în același timp.';
+$lang['AdminDepartments.add.heading_required'] = 'Necesar';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Activarea serviciilor conexe';
+$lang['AdminDepartments.!tooltip.type'] = '"Escaladare la urgență" afișează o casetă de alertă cu un mesaj și o casetă de selectare. Dacă utilizatorul bifează caseta de selectare, biletul este trecut automat la "Urgență", chiar dacă această prioritate este dezactivată pentru departament. Disponibil numai atunci când vizibilitatea este setată la Doar client.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permiteți clienților să selecteze un serviciu la care se referă biletul.';
 

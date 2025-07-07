@@ -191,4 +191,5 @@ $lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'HTML �
 $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 템플릿';
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '고급 편집 서비스';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = '서비스 대기열';
+$lang['StaffGroups.permissions.admin_tools_servicechanges'] = '서비스 변경 사항';
 

@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Wybierz prawidłową szy
 $lang['BtcpayServer.!error.server_url.valid'] = 'Adres URL serwera jest nieprawidłowy.';
 $lang['BtcpayServer.description'] = 'BTCPayServer to samoobsługowa bramka płatności Bitcoin bez żadnych opłat.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Wymuś domyślny sklep skonfigurowany na serwerze BTCPay.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Pozwól klientowi wybrać metodę płatności.';
+$lang['BtcpayServer.meta.payment_method'] = 'Metoda płatności';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Wybierz prawidłową metodę płatności.';
 

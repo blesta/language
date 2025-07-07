@@ -21,6 +21,6 @@ $lang['Braintree.live_mode'] = 'Режим прямого ефіру';
 $lang['Braintree.private_key'] = 'Приватний ключ';
 $lang['Braintree.public_key'] = 'Відкритий ключ';
 $lang['Braintree.merchant_id'] = 'Ідентифікатор продавця';
-$lang['Braintree.description'] = 'Торговці в більш ніж 45 країнах/регіонах світу можуть приймати, розщеплювати та здійснювати платежі в більш ніж 130 валютах за допомогою Braintree';
+$lang['Braintree.description'] = 'Потрібна версія PHP &gt;= 7.3. Торговці в більш ніж 45 країнах/регіонах світу можуть приймати, розділяти та забезпечувати платежі в більш ніж 130 валютах за допомогою Braintree';
 $lang['Braintree.name'] = 'Braintree';
 

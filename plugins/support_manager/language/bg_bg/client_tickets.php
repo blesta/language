@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Няма налични отд�
 $lang['ClientTickets.!success.ticket_closed'] = 'Тикетът #%1$s е успешно затворен.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Билетът #%1$s е успешно актуализиран.';
 $lang['ClientTickets.!success.ticket_created'] = 'Билетът #%1$s е създаден успешно.';
+$lang['ClientTickets.reply.text_service_none'] = 'Няма';
+$lang['ClientTickets.reply.heading_service_id'] = 'Свързани услуги';
+$lang['ClientTickets.add.none'] = 'Няма';
+$lang['ClientTickets.add.field_service_id'] = 'Свързани услуги';
 

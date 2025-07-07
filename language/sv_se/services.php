@@ -64,4 +64,6 @@ $lang['Services.!error.encrypted.format'] = 'Ogiltigt format för krypterad.';
 $lang['Services.!error.value.empty'] = 'Servicefältets värde får inte vara tomt.';
 $lang['Services.!error.key.length'] = 'Tjänstefältnyckeln får inte innehålla mer än 32 tecken.';
 $lang['Services.!error.key.empty'] = 'Nyckeln för servicefältet får inte vara tom.';
+$lang['Services.getActions.uncancel'] = 'Återaktivera';
+$lang['Services.!error.uncancel.unsupported'] = 'Denna tjänst kan inte avbokas, eftersom modulen inte stöder den.';
 

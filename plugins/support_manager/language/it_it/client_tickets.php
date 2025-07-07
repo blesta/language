@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Non sono disponibili reparti di
 $lang['ClientTickets.!success.ticket_closed'] = 'Il ticket #%1$s è stato chiuso con successo.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Il biglietto #%1$s è stato aggiornato con successo.';
 $lang['ClientTickets.!success.ticket_created'] = 'Il biglietto #%1$s è stato creato con successo.';
+$lang['ClientTickets.reply.text_service_none'] = 'Nessuno';
+$lang['ClientTickets.reply.heading_service_id'] = 'Servizio correlato';
+$lang['ClientTickets.add.none'] = 'Nessuno';
+$lang['ClientTickets.add.field_service_id'] = 'Servizio correlato';
 

@@ -19,4 +19,6 @@ $lang['Config.!error.invalid_domain_term'] = 'Termenul selectat pentru domeniul 
 $lang['Config.!error.domain_duplicated'] = 'Domeniul "%1$s" se află deja în coșul dumneavoastră.';
 $lang['Config.!error.invalid_module'] = 'Pachetul nu este disponibil în prezent.';
 $lang['Config.!error.invalid_pricing_id'] = 'Pachetul dat nu a fost găsit.';
+$lang['Config.!error.invalid_value_option'] = 'Trebuie selectată o valoare pentru %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'Valoarea opțiunii "%1$s" trebuie să fie între %2$s și %3$s.';
 

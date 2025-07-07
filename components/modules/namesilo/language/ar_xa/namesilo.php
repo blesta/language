@@ -244,4 +244,7 @@ $lang['Namesilo.tab_add_contact.title'] = 'إضافة جهة اتصال';
 $lang['Namesilo.tab_edit_contact.field_back'] = 'رجوع';
 $lang['Namesilo.tab_edit_contact.field_submit'] = 'حفظ الاتصال';
 $lang['Namesilo.!success.contact_deleted'] = 'تم حذف جهة الاتصال بنجاح.';
+$lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'معرّف جهة الاتصال';
+$lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'يقوم بسحب جهات الاتصال من قائمة الأسماء ويساعدهم مع عملاء blesta.';
+$lang['Namesilo.getCronTasks.pull_contacts_name'] = 'اسحب جهات اتصال نامسيلو';
 

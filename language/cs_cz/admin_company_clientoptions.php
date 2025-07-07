@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Brána
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Povolit';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Povolení omezení brány';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Omezit, které brány mohou klienti používat. Ve výchozím nastavení jsou omezení brány vypnuta a všechny brány jsou dostupné.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Skupina klientů';
 

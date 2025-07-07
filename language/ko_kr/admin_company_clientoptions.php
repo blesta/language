@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = '게이
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = '사용';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = '게이트웨이 제한 사용';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = '클라이언트가 사용할 수 있는 게이트웨이를 제한합니다. 기본적으로 게이트웨이 제한은 비활성화되어 있으며 모든 게이트웨이를 사용할 수 있습니다.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = '고객 그룹';
 

@@ -75,4 +75,8 @@ $lang['ClientTickets.!notice.no_departments'] = 'Відділів підтрим
 $lang['ClientTickets.!success.ticket_closed'] = 'Квиток #%1$s успішно закрито.';
 $lang['ClientTickets.!success.ticket_updated'] = 'Квиток #%1$s успішно оновлено.';
 $lang['ClientTickets.!success.ticket_created'] = 'Тікет #%1$s успішно створено.';
+$lang['ClientTickets.reply.text_service_none'] = 'Ні.';
+$lang['ClientTickets.reply.heading_service_id'] = 'Супутній сервіс';
+$lang['ClientTickets.add.none'] = 'Ні.';
+$lang['ClientTickets.add.field_service_id'] = 'Супутній сервіс';
 

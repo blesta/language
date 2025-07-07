@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = '사용 가능한 우선순위'
 $lang['AdminDepartments.edit.field_force_import'] = '강제 가져오기';
 $lang['AdminDepartments.add.field_force_import'] = '강제 가져오기';
 $lang['AdminDepartments.!success.department_imported'] = '%1$s 부서를 성공적으로 가져왔습니다.';
+$lang['AdminDepartments.edit.text_emergency_field'] = '한 번에 하나의 필드만 긴급으로 설정할 수 있습니다.';
+$lang['AdminDepartments.edit.heading_required'] = '필수';
+$lang['AdminDepartments.edit.field_enable_related_services'] = '관련 서비스 사용';
+$lang['AdminDepartments.add.text_emergency_field'] = '한 번에 하나의 필드만 긴급으로 설정할 수 있습니다.';
+$lang['AdminDepartments.add.heading_required'] = '필수';
+$lang['AdminDepartments.add.field_enable_related_services'] = '관련 서비스 사용';
+$lang['AdminDepartments.!tooltip.type'] = '"긴급으로 에스컬레이션"에는 메시지와 확인란이 있는 알림 상자가 표시됩니다. 사용자가 확인란을 선택하면 해당 부서의 우선 순위가 비활성화되어 있더라도 티켓이 자동으로 "긴급"으로 에스컬레이션됩니다. 공개 범위가 클라이언트 전용으로 설정된 경우에만 사용할 수 있습니다.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = '고객이 티켓과 관련된 서비스를 선택할 수 있도록 허용합니다.';
 

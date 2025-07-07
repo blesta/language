@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Tetap';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Persentase';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Apa saja';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Pertama';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Persentase';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Tetap';
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 

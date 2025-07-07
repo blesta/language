@@ -149,4 +149,12 @@ $lang['AdminDepartments.add.field_priorities'] = 'Priorités disponibles';
 $lang['AdminDepartments.edit.field_force_import'] = 'Importation de force';
 $lang['AdminDepartments.add.field_force_import'] = 'Importation de force';
 $lang['AdminDepartments.!success.department_imported'] = 'Le département %1$s a été importé avec succès.';
+$lang['AdminDepartments.edit.text_emergency_field'] = 'Un seul champ peut être réglé sur l\'urgence à la fois.';
+$lang['AdminDepartments.edit.heading_required'] = 'Exigée';
+$lang['AdminDepartments.edit.field_enable_related_services'] = 'Activer les services connexes';
+$lang['AdminDepartments.add.text_emergency_field'] = 'Un seul champ peut être réglé sur l\'urgence à la fois.';
+$lang['AdminDepartments.add.heading_required'] = 'Exigée';
+$lang['AdminDepartments.add.field_enable_related_services'] = 'Activer les services connexes';
+$lang['AdminDepartments.!tooltip.type'] = '"Escalader vers l\'urgence" affiche une boîte d\'alerte avec un message et une case à cocher. Si l\'utilisateur coche la case, le ticket est automatiquement escaladé en "Urgence", même si cette priorité est désactivée pour le département. Uniquement disponible lorsque la visibilité est réglée sur Client uniquement.';
+$lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permettre aux clients de sélectionner un service auquel le ticket est lié.';
 

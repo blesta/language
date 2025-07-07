@@ -316,4 +316,8 @@ $lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Π�
 $lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Ο αριθμός των ενεργειών εξυπηρέτησης που πρέπει να επιχειρηθούν πριν από την καθυστέρηση της επόμενης προσπάθειας κατά το ποσό που καθορίζεται από τη ρύθμιση του χρονικού διαστήματος δεύτερης προσπάθειας.';
 $lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Ο αριθμός των ενεργειών εξυπηρέτησης που πρέπει να επιχειρηθούν πριν από την καθυστέρηση της επόμενης προσπάθειας κατά το ποσό που καθορίζεται από τη ρύθμιση του διαστήματος πρώτης προσπάθειας.';
 $lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Ο αριθμός των προσπαθειών και των αποτυχιών επεξεργασίας για μια ενέργεια υπηρεσίας πριν απενεργοποιηθεί η αυτόματη ολοκλήρωση αυτής της ενέργειας υπηρεσίας.';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_now'] = 'Επιτρέπουν μόνο την άμεση ακύρωση';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_end_of_term'] = 'Επιτρέπουν μόνο την ακύρωση στο τέλος της περιόδου';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options_both'] = 'Επιτρέψτε την άμεση ή στο τέλος της περιόδου ακύρωση';
+$lang['AdminCompanyBilling.invoices.field.clients_cancel_options'] = 'Επιλογές ακύρωσης πελάτη';
 

@@ -30,4 +30,8 @@ $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Välj en giltig transakt
 $lang['BtcpayServer.!error.server_url.valid'] = 'Server-URL ogiltig.';
 $lang['BtcpayServer.description'] = 'BTCPayServer är en självhostad Bitcoin-betalningsgateway utan avgifter.';
 $lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Tvinga fram butikens standardinställning som den konfigurerats i BTCPay Server.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Ge kunden möjlighet att välja betalningsmetod.';
+$lang['BtcpayServer.meta.payment_method'] = 'Betalningsmetod';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Vänligen välj en giltig betalningsmetod.';
 

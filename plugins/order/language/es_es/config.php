@@ -19,4 +19,6 @@ $lang['Config.index.field_module_group_id'] = 'Grupo';
 $lang['Config.index.field_default_addon'] = 'Ninguno';
 $lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
 $lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, renueva @ %4$s)';
+$lang['Config.!error.invalid_value_option'] = 'Debe seleccionarse un valor para %1$s.';
+$lang['Config.!error.invalid_quantity_option'] = 'El valor de la opción "%1$s" debe estar comprendido entre %2$s y %3$s.';
 

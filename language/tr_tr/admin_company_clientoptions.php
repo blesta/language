@@ -139,4 +139,5 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_gateway'] = 'Ağ Ge
 $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Etkinleştir';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ağ Geçidi Kısıtlamalarını Etkinleştir';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'İstemcilerin hangi ağ geçitlerini kullanabileceğini sınırlayın. Varsayılan olarak Ağ Geçidi Kısıtlamaları devre dışıdır ve tüm ağ geçitleri kullanılabilir.';
+$lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Müşteri Grubu';
 

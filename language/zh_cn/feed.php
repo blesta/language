@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = '该数据源已禁用，要启用该数据源，请访问员工区中的设置 > 公司 > 数据源。';
 $lang['Feed.!error.invalid'] = '请求的资源不存在或无效。';
+$lang['Feed.!error.disabled'] = '该数据源已禁用，要启用该数据源，请访问员工区中的设置 > 公司 > 数据源。';
 

@@ -131,4 +131,12 @@ $lang['AdminTickets.add.text_contacts'] = 'Kontakter, der ikke er valgt, tilføj
 $lang['AdminTickets.add.text_add_recipient'] = 'Tilføj modtager';
 $lang['AdminTickets.add.heading_contacts'] = 'Kontaktpersoner';
 $lang['AdminTickets.add.heading_recipients'] = 'Modtagere';
+$lang['AdminTickets.reply.text_additional_recipients'] = 'Yderligere modtagere';
+$lang['AdminTickets.reply.text_service_none'] = 'Ingen';
+$lang['AdminTickets.reply.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_service_none'] = 'Ingen';
+$lang['AdminTickets.add.heading_service'] = 'Service';
+$lang['AdminTickets.add.text_no_contacts'] = 'Der er ingen yderligere kontakter til rådighed for den valgte klient.';
+$lang['AdminTickets.!tooltip.recipients'] = 'E-mailadresse til at få besked, når en billet opdateres.';
+$lang['AdminTickets.!tooltip.contacts'] = 'Kontakter, der skal have besked, når en ticket opdateres. Dem, der ikke er valgt, tilføjes automatisk til sagen, hvis de svarer på den.';
 

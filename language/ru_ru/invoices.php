@@ -102,4 +102,5 @@ $lang['Invoices.!error.invoice_ids.status'] = 'Все счета-фактуры 
 $lang['Invoices.!error.invoice_ids.currency'] = 'Все счета-фактуры должны иметь одинаковую валюту.';
 $lang['Invoices.!error.invoice_ids.count'] = 'Необходимо выбрать не менее двух счетов-фактур.';
 $lang['Invoices.!line_item.parent_description'] = 'Служба помощи детям %1$s - %2$s:';
+$lang['Invoices.!error.service.renew_onetime'] = 'Одноразовые услуги не могут быть возобновлены.';
 
