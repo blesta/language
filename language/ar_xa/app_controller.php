@@ -83,4 +83,5 @@ $lang['AppController.modal.text_confirm'] = 'يرجى التأكيد';
 $lang['AppController.modal.text_close'] = 'إغلاق';
 $lang['AppController.select.please'] = '-- يرجى اختيار --';
 $lang['AppController.!error.client_unauthorized_access'] = 'ليس لديك إذن للوصول إلى هذا المورد، يُرجى الاتصال بصاحب الحساب الأساسي لطلب الوصول إليه';
+$lang['AppController.lang.dir'] = 'rtl';
 
