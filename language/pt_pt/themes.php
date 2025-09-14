@@ -1,0 +1,21 @@
+<?php
+/**
+ * Themes
+ *
+ * @package blesta
+ * @subpackage blesta.language.pt_pt
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Themes.type.client'] = 'Cliente';
+$lang['Themes.type.admin'] = 'Equipa';
+$lang['Themes.!error.colors.exist'] = 'Introduza um código hexadecimal válido de 6 caracteres para cada cor.';
+$lang['Themes.!error.type.format'] = 'O tipo de tema fornecido é inválido.';
+$lang['Themes.!error.name.length'] = 'O nome do tema não pode ter mais de 64 caracteres.';
+$lang['Themes.!error.name.empty'] = 'Introduza um nome de tema.';
+$lang['Themes.!error.company_id.set'] = 'Apenas temas específicos da empresa podem ser atualizados.';
+$lang['Themes.!error.company_id.isset'] = 'Apenas temas específicos da empresa podem ser eliminados.';
+$lang['Themes.!error.company_id.exists'] = 'ID da empresa inválido.';
+$lang['Themes.!error.id.exists'] = 'O tema selecionado não existe.';
