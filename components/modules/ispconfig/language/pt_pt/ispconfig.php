@@ -126,5 +126,5 @@ $lang['Ispconfig.tab_stats'] = 'Estatísticas';
 $lang['Ispconfig.module_group'] = 'Grupo de servidores';
 $lang['Ispconfig.module_row_plural'] = 'Servidores';
 $lang['Ispconfig.module_row'] = 'Servidor';
-$lang['Ispconfig.description'] = 'O ISPConfig 3 é um painel de código aberto para Linux capaz de gerenciar vários servidores a partir de um painel de controle.';
+$lang['Ispconfig.description'] = 'O ISPConfig 3 é um painel de código aberto para Linux capaz de gerir vários servidores a partir de um painel de controle.';
 $lang['Ispconfig.name'] = 'ISPConfig';

@@ -10,7 +10,7 @@
  */
 
 $lang['ManagedAccounts.!error.permissions.empty'] = 'Você precisa atribuir pelo menos uma permissão ao gerente.';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Você não está autorizado a gerenciar essa conta.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'Você não está autorizado a gerir essa conta.';
 $lang['ManagedAccounts.!error.contact_id.exists'] = 'ID de contato inválido.';
 $lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID de convite inválido.';
 $lang['ManagedAccounts.!error.email.invitation'] = 'Um convite já foi enviado para essa conta.';

@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['None.manage.text'] = 'Não há nada para gerenciar nesse módulo.';
+$lang['None.manage.text'] = 'Não há nada para gerir nesse módulo.';
 $lang['None.name'] = 'Nenhum';

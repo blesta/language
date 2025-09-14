@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminKnowledgebase.!tooltip.access_category'] = 'As categorias públicas são acessíveis a todos. As categorias privadas podem ser acessadas apenas por usuários que estejam logados. As categorias ocultas são inacessíveis. As categorias da equipe são visíveis apenas para os membros da equipe.';
-$lang['AdminKnowledgebase.!tooltip.access_article'] = 'Os artigos públicos são acessíveis a todos. Os artigos privados podem ser acessados apenas por usuários que estejam logados. Os artigos ocultos são inacessíveis. Os artigos da equipe são visíveis apenas para os membros da equipe.';
+$lang['AdminKnowledgebase.!tooltip.access_category'] = 'As categorias públicas são acessíveis a todos. As categorias privadas podem ser acessadas apenas por usuários que estejam logados. As categorias ocultas são inacessíveis. As categorias da equipa são visíveis apenas para os membros da equipa.';
+$lang['AdminKnowledgebase.!tooltip.access_article'] = 'Os artigos públicos são acessíveis a todos. Os artigos privados podem ser acessados apenas por usuários que estejam logados. Os artigos ocultos são inacessíveis. Os artigos da equipa são visíveis apenas para os membros da equipa.';
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!text.add_category'] = 'Adicionar categoria';
 $lang['AdminKnowledgebase.!text.enclosure_separator'] = '/';
