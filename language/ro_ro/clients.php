@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Tip nevalabil.';
 $lang['Clients.!error.account_id.exists'] = 'ID de cont invalid.';
 $lang['Clients.!error.client_id.exists'] = 'ID client invalid.';
 $lang['Clients.!error.client_group_id.exists'] = 'ID-ul grupului de clienți invalid.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât valoarea minimă.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Valoarea minimă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
 

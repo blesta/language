@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Il conto di pagamento è s
 $lang['ClientAccounts.!success.account_created'] = 'Il conto di pagamento è stato creato con successo.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Il conto di pagamento predefinito è stato rimosso.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Il conto di pagamento predefinito è stato aggiornato.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Aggiornamento delle impostazioni';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Soglia di notifica';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Valuta';
+$lang['ClientAccounts.credithandling.text_description'] = 'Configurare le notifiche di saldo basso. Riceverete un\'e-mail giornaliera quando il saldo del credito scende al di sotto della soglia per qualsiasi valuta.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Gestione del credito';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Gestione del credito';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Le impostazioni di gestione del credito sono state aggiornate con successo.';
 

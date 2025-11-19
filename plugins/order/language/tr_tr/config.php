@@ -21,4 +21,8 @@ $lang['Config.index.package_price_recurring'] = '%1$s @ %2$s (%3$s tarihinde yen
 $lang['Config.index.package_price'] = '%1$s @ %2$s';
 $lang['Config.!error.invalid_value_option'] = '%1$s için bir değer seçilmelidir.';
 $lang['Config.!error.invalid_quantity_option'] = '"%1$s" seçenek değeri %2$s ve %3$s arasında olmalıdır.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s ( %3$s adresini yeniler) (%4$s/ay %5$s% tasarruf!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s% tasarruf!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s ( %3$s adresini yeniler) (%4$s/ay) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

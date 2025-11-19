@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Невалиде
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Тази категория не може да бъде родител на самата себе си.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Тази категория не може да се присвоява на предприятие майка от отделна компания.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Невалиден идентификатор на родител.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Опцията за рекурсивно обновяване на статии е в невалиден формат.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Опцията за актуализиране на статии е в невалиден формат.';
 

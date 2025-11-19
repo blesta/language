@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = '付款账户已成功删�
 $lang['ClientAccounts.!success.account_created'] = '付款账户已成功创建。';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = '已删除默认付款账户。';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = '默认付款账户已更新。';
+$lang['ClientAccounts.credithandling.field_submit'] = '更新设置';
+$lang['ClientAccounts.credithandling.heading_threshold'] = '通知阈值';
+$lang['ClientAccounts.credithandling.heading_currency'] = '货币';
+$lang['ClientAccounts.credithandling.text_description'] = '配置低余额通知。当您的信用余额低于任何货币的阈值时，您每天都会收到一封电子邮件。';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = '信用处理';
+$lang['ClientAccounts.navigation.nav_credithandling'] = '信用处理';
+$lang['ClientAccounts.!success.credit_handling_updated'] = '贷记处理设置已成功更新。';
 

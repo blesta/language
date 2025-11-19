@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Formularz został pomyślnie zaktual
 $lang['AdminForms.!success.form_delete'] = 'Formularz został pomyślnie usunięty.';
 $lang['AdminForms.!success.form_added'] = 'Formularz został pomyślnie dodany.';
 $lang['AdminForms.!success.settings_saved'] = 'Ustawienia zostały pomyślnie zapisane';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Wybierając pakiet, pokaż miesięczny koszt dla każdej opcji cenowej, a także oszczędności miesięcznie w porównaniu z ceną miesięczną (jeśli dotyczy).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Wyświetlanie miesięcznego podziału cen';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Wybierając pakiet, pokaż miesięczny koszt dla każdej opcji cenowej, a także oszczędności miesięcznie w porównaniu z ceną miesięczną (jeśli dotyczy).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Miesięczny podział cen za wyświetlanie';
 

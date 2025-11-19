@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML sjab
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Geavanceerde bewerkingsservice';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service wachtrij';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Serviceveranderingen';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Kredietbehandeling';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Aangepast veld verwijderen';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Aangepast veld bewerken';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Aangepast veld toevoegen';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektronische facturen';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Info over couponpakket ophalen';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opties Couponpakket';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lijst Citaten';
 

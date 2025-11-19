@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Platební účet byl úsp�
 $lang['ClientAccounts.!success.account_created'] = 'Platební účet byl úspěšně vytvořen.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Výchozí platební účet byl odstraněn.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Výchozí platební účet byl aktualizován.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Aktualizace nastavení';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Prahová hodnota oznámení';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Měna';
+$lang['ClientAccounts.credithandling.text_description'] = 'Konfigurace oznámení o nízkém zůstatku. Denně obdržíte e-mail, když váš kreditní zůstatek klesne pod prahovou hodnotu pro jakoukoli měnu.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Zpracování úvěrů';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Zpracování úvěrů';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Nastavení zpracování kreditů bylo úspěšně aktualizováno.';
 

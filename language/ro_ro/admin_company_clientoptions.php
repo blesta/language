@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activar
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activarea restricțiilor Gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limitează gateway-urile pe care le pot utiliza clienții. În mod implicit, restricțiile de gateway sunt dezactivate și toate gateway-urile sunt disponibile.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grup de clienți';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Lungimea parolei';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Regulă personalizată pentru parolă';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Personalizat';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Numai numere';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Numai Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Numai alfanumerice';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Fără spații';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Orice caractere';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Formatul parolei';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Setați lungimea minimă a parolei.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Introduceți o expresie regulată personalizată pentru validarea parolelor atunci când este selectat formatul "Personalizat". Expresia regulată poate defini o lungime minimă a parolei.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Selectați tipul de caractere permise în parole.';
 

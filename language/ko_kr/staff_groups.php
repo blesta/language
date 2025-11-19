@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 템�
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '고급 편집 서비스';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = '서비스 대기열';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = '서비스 변경 사항';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = '신용 처리';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = '사용자 지정 필드 삭제';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = '사용자 지정 필드 편집';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = '사용자 지정 필드 추가';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = '전자 송장';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = '쿠폰 패키지 옵션 정보 가져오기';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = '쿠폰 패키지 가져오기 옵션';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = '견적서 목록';
 

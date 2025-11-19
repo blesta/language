@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = '您的发票方式已成�
 $lang['ClientMain.!success.client_updated'] = '您的账户信息已成功更新。';
 $lang['ClientMain.edit.tooltip_confirm_password'] = '启用双因素身份验证或更新密码时需要。';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = '双因素验证';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = '添加积分';
 

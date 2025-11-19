@@ -31,4 +31,7 @@ $lang['Companies.!error.inv_pad_str.length'] = 'El carácter de relleno de la fa
 $lang['Companies.!error.inv_proforma_format.format'] = 'El formato de factura pro forma no puede entrar en conflicto con el formato de factura provisional.';
 $lang['Companies.!error.inv_proforma_format.contains'] = 'El Formato de Factura Pro Forma debe contener {num}.';
 $lang['Companies.!error.inv_proforma_start.number'] = 'El valor inicial de la factura pro forma debe ser un número.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'El importe máximo del crédito para %1$s debe ser superior al importe mínimo.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'El crédito máximo de %1$s debe ser superior a 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'El importe mínimo del crédito para %1$s debe ser superior a 0.';
 

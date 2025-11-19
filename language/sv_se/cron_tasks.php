@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Längden på nyckeln för cron-uppgiften
 $lang['CronTasks.!error.key.unique'] = 'Den angivna cron task key är redan upptagen.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Tar bort alla tokens för återställning av lösenord som passerat utgångsdatumet från systemet.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Ta bort utgångna tokens för återställning av lösenord';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Skickar ett meddelande till alla användare vars kreditnivåer har sjunkit under det konfigurerade tröskelvärdet.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Meddelanden om lågt saldo';
 

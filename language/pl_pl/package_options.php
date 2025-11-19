@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Wprowadź nazwę dla tej opcji.';
 $lang['PackageOptions.!error.label.length'] = 'Długość etykiety nie może przekraczać 128 znaków.';
 $lang['PackageOptions.!error.label.empty'] = 'Wprowadź etykietę.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Czy ukrywać na fakturze musi być ustawione na 0 lub 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Wyłączenie cen musi być ustawione na 0 lub 1.';
 

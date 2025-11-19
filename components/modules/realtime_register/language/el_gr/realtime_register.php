@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Λογαριασμοί';
 $lang['RealtimeRegister.module_row'] = 'Λογαριασμός';
 $lang['RealtimeRegister.description'] = 'Προσφέρουμε 2.000+ TLDs από πάνω από 150 μητρώα και προσθέτουμε συνεχώς νέα. Αναλαμβάνουμε τις ενημερώσεις των μητρώων και όλες τις πολιτικές και διαδικασίες.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Κατάσταση τομέα';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Δεν σας επιτρέπεται η διαχείριση αυτού του τομέα.';
 

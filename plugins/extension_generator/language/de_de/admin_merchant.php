@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Erweiterung Generat
 $lang['AdminMerchant.index.page_title'] = 'Erweiterung Generator - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Automatisierte Clearing-House-Verarbeitung unter Verwendung von Berechtigungsnachweisen, die vom Verarbeiter außerhalb des Unternehmens gespeichert werden.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Automatisiertes Clearing House-Verfahren unter Verwendung von nicht gespeicherten oder in Blesta gespeicherten Anmeldeinformationen.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Damit kann ein Gateway benutzerdefiniertes HTML für Kreditkartenformulare bereitstellen.  Dies ist für die Unterstützung von Offsite-Kreditkarten gedacht, die iframes verwenden oder zusätzliche Felder benötigen können.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Damit kann ein Gateway benutzerdefiniertes HTML für Kreditkartenformulare bereitstellen. Dies ist für die Unterstützung von Offsite-Kreditkarten gedacht, die iframes verwenden oder zusätzliche Felder benötigen können.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Kreditkartenabwicklung unter Verwendung von Anmeldeinformationen, die vom Verarbeiter außerhalb des Unternehmens gespeichert werden.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Kreditkartenabwicklung mit nicht gespeicherten oder in Blesta gespeicherten Zugangsdaten.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Offsite ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Benutzerdefiniertes Kreditkartenformular';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Offsite-Kreditkarte';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Kreditkarte';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Damit kann ein Gateway benutzerdefiniertes HTML für automatisierte Clearing-House-Formulare bereitstellen. Dies ist zur Unterstützung von externen automatisierten Clearingstellen gedacht, die möglicherweise iframes verwenden oder zusätzliche Felder benötigen.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Benutzerdefiniertes ACH-Formular';
 

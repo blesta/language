@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'يجب أن يتكون رمز الب�
 $lang['Countries.!error.alpha2.exists'] = 'رمز alpha2 غير صالح.';
 $lang['Countries.!error.alpha2.in_use'] = 'رمز البلد ألفا 2، %1$s ، محجوز بالفعل.';
 $lang['Countries.!error.alpha2.format'] = 'يجب أن يتكون رمز البلد Alpha2 من حرفين ألفا.';
+$lang['Countries.!error.format.valid'] = 'يجب أن يكون تنسيق البلد إما "رمز" أو "اسم".';
 

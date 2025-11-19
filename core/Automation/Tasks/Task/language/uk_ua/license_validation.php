@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.completed'] = 'Завдання перевірки ліцензії завершено.';
 $lang['Automation.task.license_validation.attempt'] = 'Спроба підтвердити ліцензію.';
+$lang['Automation.task.license_validation.completed'] = 'Завдання перевірки ліцензії завершено.';
 

@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'Pachetul nu este disponibil în prezent
 $lang['Config.!error.invalid_pricing_id'] = 'Pachetul dat nu a fost găsit.';
 $lang['Config.!error.invalid_value_option'] = 'Trebuie selectată o valoare pentru %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'Valoarea opțiunii "%1$s" trebuie să fie între %2$s și %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (reînnoiește %3$s) (%4$s/mo %5$s%% economii!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/ lună %4$s%% economii!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (reînnoiește %3$s) (%4$s/ lună) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/ lună)';
 

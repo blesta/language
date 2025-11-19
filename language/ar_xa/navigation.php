@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'معرف الإجراء غير ص�
 $lang['Navigation.getcompany.nav_html_templates'] = 'قوالب HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'قائمة انتظار الخدمة';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'تغييرات الخدمة';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'الفواتير الإلكترونية';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'التعامل مع الائتمان';
 

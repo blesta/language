@@ -31,4 +31,7 @@ $lang['Companies.!error.inv_pad_str.length'] = 'Invoice Padding Character skal v
 $lang['Companies.!error.inv_proforma_format.format'] = 'Proformafakturaformatet må ikke være i konflikt med udkastfakturaformatet.';
 $lang['Companies.!error.inv_proforma_format.contains'] = 'Pro Forma Invoice Format skal indeholde {num}.';
 $lang['Companies.!error.inv_proforma_start.number'] = 'Pro Forma Invoice Start Value skal være et tal.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Det maksimale kreditbeløb for %1$s skal være større end minimumsbeløbet.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Det maksimale kreditbeløb for %1$s skal være større end 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Det mindste kreditbeløb for %1$s skal være større end 0.';
 

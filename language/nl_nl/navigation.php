@@ -125,4 +125,6 @@ $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Zwarte lijst';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML sjablonen';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service wachtrij';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Serviceveranderingen';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronische facturen';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredietbehandeling';
 

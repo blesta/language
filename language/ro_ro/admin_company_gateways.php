@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Actualizarea setărilor';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'în uz de către';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'implicit';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'adăugați moneda';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Valute acceptate';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opțiuni de gateway';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Poarta a fost instalată cu 
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Poarta de acces a fost dezinstalată cu succes.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Pasarela a fost actualizată cu succes.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Pasarela a fost actualizată cu succes.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Pentru a seta gateway-urile implicite pentru fiecare monedă, accesați pagina %1$sGateway-uri instalate%2$s și faceți clic pe pictograma angrenaj din dreapta sus a widget-ului.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Actualizare';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Setați gateway-ul implicit al comerciantului pentru fiecare monedă.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gateway-uri comerciale implicite';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Gateway-urile comerciale implicite au fost actualizate cu succes.';
 

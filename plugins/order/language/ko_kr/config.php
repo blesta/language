@@ -21,4 +21,8 @@ $lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
 $lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, 갱신 @ %4$s)';
 $lang['Config.!error.invalid_value_option'] = '%1$s 에 대한 값을 선택해야 합니다.';
 $lang['Config.!error.invalid_quantity_option'] = '"%1$s" 옵션 값은 %2$s 과 %3$s 사이여야 합니다 .';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (갱신 %3$s) (%4$s/mo %5$s%% 절감!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% 절감!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (갱신 %3$s) (%4$s/mo) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

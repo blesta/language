@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Λογαριασμός';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Οι ρυθμίσεις της ειδοποίησής σας ενημερώθηκαν επιτυχώς.';
 $lang['AdminMyinfo.!success.updated'] = 'Οι ρυθμίσεις του λογαριασμού σας ενημερώθηκαν με επιτυχία.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Εικόνα προφίλ';
 

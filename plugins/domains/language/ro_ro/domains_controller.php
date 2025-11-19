@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Schimbare re�
 $lang['DomainsController.!error.move_error'] = 'Domeniile selectate nu au putut fi mutate la clientul selectat.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Modificarea datei de înregistrare';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modificarea datei de expirare';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Eliminarea suprapunerii prețului';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Setați înlocuirea prețului';
 

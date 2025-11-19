@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Délka klíče úlohy cron nesmí překr
 $lang['CronTasks.!error.key.unique'] = 'Zadaný klíč úlohy cron je již obsazen.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Odstraní ze systému všechny tokeny pro resetování hesla, jejichž platnost vypršela.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Odstranění vypršených tokenů pro resetování hesla';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Odešle oznámení všem uživatelům, jejichž úroveň kreditu klesla pod nakonfigurovanou mez.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Oznámení o nízkém zůstatku';
 

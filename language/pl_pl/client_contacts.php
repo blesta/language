@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'Obecnie nie masz żadnych kontaktó
 $lang['ClientContacts.!success.contact_added'] = 'Kontakt został pomyślnie utworzony!';
 $lang['ClientContacts.!success.contact_updated'] = 'Kontakt został pomyślnie zaktualizowany!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Kontakt %1$s %2$s został pomyślnie usunięty!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Zdjęcie profilowe';
 

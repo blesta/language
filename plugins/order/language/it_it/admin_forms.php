@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Il modulo è stato aggiornato con su
 $lang['AdminForms.!success.form_delete'] = 'Il modulo è stato eliminato con successo.';
 $lang['AdminForms.!success.form_added'] = 'Il modulo è stato aggiunto con successo.';
 $lang['AdminForms.!success.settings_saved'] = 'Le impostazioni sono state salvate con successo';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Quando si seleziona un pacchetto, indicare il costo mensile per ogni opzione tariffaria e il risparmio mensile rispetto al prezzo mensile (se applicabile).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Ripartizione dei prezzi mensili del display';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Quando si seleziona un pacchetto, indicare il costo mensile per ogni opzione tariffaria e il risparmio mensile rispetto al prezzo mensile (se applicabile).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Ripartizione dei prezzi mensili del display';
 

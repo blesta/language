@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.text_cron_currently_running'] = 'Cronen køre
 $lang['AdminSystemAutomation.index.text_update_key'] = 'Opdater Cron-nøgle';
 $lang['AdminSystemAutomation.index.text_generate_code'] = 'Generer kode';
 $lang['AdminSystemAutomation.index.note_cron_command'] = 'Dette er et eksempel på en cron-kommando, der kan bruges til at oprette et cron-job på din server. Når du opretter cron-jobbet, skal du sørge for at opdatere cron-kommandoen, så den peger på, hvor PHP er installeret, hvis det adskiller sig fra det, der vises i dette eksempel.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternativ metode (HTTP-anmodning med Cron-nøgle)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Eksempel på Cron-kommando til HTTP-forespørgsler';
 

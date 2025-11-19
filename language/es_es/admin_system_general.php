@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.edittype.field_type'] = 'Tipo';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Utilizar la definición lingüística';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Editar tipo de pago';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'El directorio de carga debe existir y estar fuera del directorio web raíz.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir está activado. El acceso a los archivos está restringido a: %1$s. No se puede acceder a directorios fuera de estas rutas.';
 

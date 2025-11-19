@@ -251,4 +251,6 @@ $lang['Namecheap.!error.FRRegistrantJoDateDec.format'] = 'Veuillez définir la d
 $lang['Namecheap.!error.FRRegistrantJoDatePub.format'] = 'Veuillez indiquer la date de publication du journal au format : AAAA-MM-JJ';
 $lang['Namecheap.!error.FRRegistrantJoNumber.format'] = 'Veuillez indiquer le numéro de journal.';
 $lang['Namecheap.!error.FRRegistrantJoPage.format'] = 'Veuillez définir le numéro de page de l\'annonce du journal.';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Mise à jour automatique de la liste des TLD et des tarifs de Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synchronisation des données TLD';
 

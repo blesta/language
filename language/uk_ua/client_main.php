@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Ваш метод вис�
 $lang['ClientMain.!success.client_updated'] = 'Інформація про ваш обліковий запис успішно оновлена.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Потрібно, щоб увімкнути двофакторну автентифікацію або оновити пароль.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двофакторна автентифікація';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Додавання кредитів';
 

@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Articolul a fost creat cu 
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Categoria a fost ștearsă cu succes.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Categoria a fost actualizată cu succes.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Categoria a fost creată cu succes.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Actualizați toate subcategoriile și articolele acestora';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Actualizați toate articolele din această categorie pentru a avea aceeași accesibilitate';
 

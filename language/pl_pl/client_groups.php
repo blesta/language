@@ -14,4 +14,7 @@ $lang['ClientGroups.!error.group_id.exists'] = 'Nieprawidłowy identyfikator gru
 $lang['ClientGroups.!error.color.length'] = 'Długość koloru nie może przekraczać 16 znaków.';
 $lang['ClientGroups.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['ClientGroups.!error.name.empty'] = 'Podaj nazwę grupy.';
+$lang['ClientGroups.!error.payment_credit_limits.max_less_than_min'] = 'Maksymalna kwota kredytu dla %1$s musi być wyższa niż kwota minimalna.';
+$lang['ClientGroups.!error.payment_credit_limits.max_amount'] = 'Maksymalna kwota kredytu dla %1$s musi być większa niż 0.';
+$lang['ClientGroups.!error.payment_credit_limits.min_amount'] = 'Minimalna kwota kredytu dla %1$s musi być większa niż 0.';
 

@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Διοικητική';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Ταυτότητα επικοινωνίας';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Εισάγει επαφές από το namesilo και τις συνδέει με πελάτες της blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Τραβήξτε τις επαφές Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Αυτή η λειτουργία απαιτεί ο τομέας να χρησιμοποιεί τους ακόλουθους διακομιστές ονομάτων: ns1.dnsowl.com, ns2.dnsowl.com και ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Ο τομέας δεν είναι διαθέσιμος για εγγραφή.';
 

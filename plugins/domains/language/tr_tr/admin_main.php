@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Alan adı kayıt tarihi 
 $lang['AdminMain.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
 $lang['AdminMain.add.text_refresh'] = 'Yenile';
 $lang['AdminMain.index.tooltip_transferred'] = 'Alan adı, kayıt kuruluşundan transfer edilmiştir.';
+$lang['AdminMain.!success.remove_price_override'] = 'Alan adı geçersiz kılma fiyatı kaldırıldı!';
+$lang['AdminMain.!success.set_price_override'] = 'Alan adı geçersiz kılma fiyatı güncellendi!';
 

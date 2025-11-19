@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Uppdatera inställningar';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'som används av';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'standard';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'Lägg till valuta';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Accepterade valutor';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Alternativ för gateway';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Gatewayen installerades fram
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Gatewayen har avinstallerats framgångsrikt.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Gatewayen har uppgraderats framgångsrikt.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Gatewayen uppdaterades framgångsrikt.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Om du vill ställa in standardgateways per valuta går du till sidan %1$sInstalled Gateways%2$s och klickar på kugghjulsikonen längst upp till höger i widgeten.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Uppdatering';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ange standardgateway för varje valuta.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Standardportaler för handlare';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Standardgateways för handlare har uppdaterats framgångsrikt.';
 

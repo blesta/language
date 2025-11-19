@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Neplatné ID spo
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Tato kategorie nemůže být sama sobě nadřazená.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Tuto kategorii nelze přiřadit mateřskému podniku ze samostatné společnosti.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Neplatné ID rodiče.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Možnost rekurzivně aktualizovat články je v nesprávném formátu.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Možnost aktualizovat články je v nesprávném formátu.';
 

@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'تحر
 $lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'حذف قالب HTML';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'قائمة انتظار الخدمة';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'تغييرات الخدمة';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'التعامل مع الائتمان';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'حذف الحقل المخصص';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'تحرير الحقل المخصص';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'إضافة حقل مخصص';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'الفواتير الإلكترونية';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'إحضار معلومات خيار حزمة الكوبون';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'خيارات باقة كوبون الجلب';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'قائمة عروض الأسعار';
 

@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Ogiltig typ.';
 $lang['Clients.!error.account_id.exists'] = 'Ogiltigt konto-ID.';
 $lang['Clients.!error.client_id.exists'] = 'Ogiltigt klient-ID.';
 $lang['Clients.!error.client_group_id.exists'] = 'Ogiltigt ID för kundgrupp.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Det högsta kreditbeloppet för %1$s måste vara större än det lägsta beloppet.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Det maximala kreditbeloppet för %1$s måste vara större än 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Det lägsta kreditbeloppet för %1$s måste vara större än 0.';
 

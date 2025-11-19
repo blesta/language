@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'La data di registrazione
 $lang['AdminMain.!success.change_expiration_date'] = 'La data di scadenza del dominio è stata aggiornata!';
 $lang['AdminMain.add.text_refresh'] = 'Aggiornare';
 $lang['AdminMain.index.tooltip_transferred'] = 'Il dominio è stato trasferito dalla società di registrazione.';
+$lang['AdminMain.!success.remove_price_override'] = 'Il prezzo di annullamento del dominio è stato rimosso!';
+$lang['AdminMain.!success.set_price_override'] = 'Il prezzo di annullamento del dominio è stato aggiornato!';
 

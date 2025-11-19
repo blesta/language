@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_changes_filters.field_date_status'] = 'Оновлення дати';
 $lang['Util.filters.service_changes_filters.field_date_added'] = 'Дата додавання';
+$lang['Util.filters.service_changes_filters.field_date_status'] = 'Оновлення дати';
 $lang['Util.filters.service_changes_filters.field_invoice'] = 'Рахунок-фактура';
 $lang['Util.filters.service_changes_filters.field_service_id'] = 'Ідентифікатор послуги';
 

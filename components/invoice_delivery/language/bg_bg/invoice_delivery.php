@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'Фактура #%1$s';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Фактура #%1$s';
 $lang['InvoiceDelivery.!error.libxml_required'] = 'Разширенията libxml и simplexml са необходими за доставката на фактури.';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Фактура #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'Фактура #%1$s';
 

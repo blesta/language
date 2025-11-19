@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Dienst';
 $lang['AdminTickets.add.text_no_contacts'] = 'Für den ausgewählten Kunden sind keine weiteren Kontakte verfügbar.';
 $lang['AdminTickets.!tooltip.recipients'] = 'E-Mail-Adresse, die bei der Aktualisierung eines Tickets benachrichtigt werden soll.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakte, die benachrichtigt werden sollen, wenn ein Ticket aktualisiert wird. Die nicht ausgewählten Kontakte werden automatisch zum Ticket hinzugefügt, wenn sie darauf antworten.';
+$lang['AdminTickets.reply.text_domain'] = 'Bereich';
+$lang['AdminTickets.reply.heading_rating'] = 'Bewertung';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Bewertung Kommentar';
+$lang['AdminTickets.index.heading_rating'] = 'Bewertung';
 

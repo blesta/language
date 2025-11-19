@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!tooltip.email_verification'] = '새 로그인이 생�
 $lang['AdminCompanyGroups.!tooltip.force_email_usernames'] = '클라이언트가 자신의 사용자 아이디를 정의할 수 있는 기능을 제거합니다.';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = '허용된 게이트웨이';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = '허용된 게이트웨이';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = '마감 후 배송을 위한 송장 요청하기';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = '신용 처리';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = '마감 후 배송을 위한 송장 요청하기';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = '신용 처리';
 

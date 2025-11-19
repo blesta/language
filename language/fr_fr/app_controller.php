@@ -83,4 +83,5 @@ $lang['AppController.sreader.dropdown'] = 'Basculer vers le bas';
 $lang['AppController.sreader.navigation'] = 'Toggle Navigation';
 $lang['AppController.dropzone.text'] = 'Déposez les fichiers ici pour les télécharger ou cliquez pour sélectionner les fichiers.';
 $lang['AppController.!error.client_unauthorized_access'] = 'Vous n\'avez pas l\'autorisation d\'accéder à cette ressource. Veuillez contacter le titulaire du compte principal pour demander l\'accès.';
+$lang['AppController.structure.text_step_up_access'] = 'Vous avez actuellement une session ascendante ouverte avec accès aux paramètres d\'administration. Cliquez ici pour abandonner l\'accès.';
 

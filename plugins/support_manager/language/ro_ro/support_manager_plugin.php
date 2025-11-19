@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Se conectează la server
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Descărcați bilete';
 $lang['SupportManagerPlugin.description'] = 'Permite utilizatorilor și personalului să deschidă și să gestioneze bilete de asistență.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Setări';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Trimiteți automat memento-uri clienților pentru a lăsa feedback-ul lor pentru tichetele care au fost închise după o anumită perioadă de timp.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Trimiteți mementouri de feedback';
 

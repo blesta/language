@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Het formulier is bijgewerkt.';
 $lang['AdminForms.!success.form_delete'] = 'Het formulier is succesvol verwijderd.';
 $lang['AdminForms.!success.form_added'] = 'Het formulier is succesvol toegevoegd.';
 $lang['AdminForms.!success.settings_saved'] = 'De instellingen zijn succesvol opgeslagen';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Toon bij het selecteren van een pakket de maandelijkse kosten voor elke prijsoptie, evenals de besparingen per maand in vergelijking met de maandelijkse prijs (indien van toepassing).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Maandelijks prijsoverzicht weergeven';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Toon bij het selecteren van een pakket de maandelijkse kosten voor elke prijsoptie, evenals de besparingen per maand in vergelijking met de maandelijkse prijs (indien van toepassing).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Maandelijks prijsoverzicht weergeven';
 

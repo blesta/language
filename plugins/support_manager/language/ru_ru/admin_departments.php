@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Требуется';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Включить сопутствующие услуги';
 $lang['AdminDepartments.!tooltip.type'] = '"Эскалировать в экстренный" отображает окно предупреждения с сообщением и флажком. Если пользователь установит флажок, билет будет автоматически переведен в категорию "Экстренный", даже если этот приоритет отключен для отдела. Доступно только в том случае, если для параметра "Видимость" установлено значение "Только для клиентов".';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Позволяет клиентам выбрать услугу, к которой относится билет.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Автоматическая отправка напоминаний об отзывах';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Секрет клиента/приложения OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'Идентификатор клиента / приложения OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Пользователь OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Провайдер OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Автоматическая отправка напоминаний об отзывах';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Секрет клиента/приложения OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'Идентификатор клиента / приложения OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Пользователь OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Провайдер OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Для всех билетов со статусом "Закрыт" напоминание о необходимости оставить отзыв будет отправлено клиенту, если билет был закрыт в течение выбранного периода времени.';
 

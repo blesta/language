@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Пароль';
 $lang['AdminLogin.index.field_username'] = 'Имя пользователя';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Зона персонала';
 $lang['AdminLogin.index.page_title'] = 'Войти';
+$lang['AdminLogin.!info.step_up_otp'] = 'Чтобы продолжить, необходимо еще раз подтвердить свой доступ, введя ниже свой OTP (одноразовый пароль).';
+$lang['AdminLogin.!info.step_up'] = 'Чтобы продолжить, необходимо еще раз подтвердить свой доступ, введя пароль ниже.';
+$lang['AdminLogin.up.link_cancel'] = 'Отмена';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Проверка доступа';
+$lang['AdminLogin.up.field_password'] = 'Пароль';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Проверка доступа';
+$lang['AdminLogin.up.page_title'] = 'Проверка доступа';
 

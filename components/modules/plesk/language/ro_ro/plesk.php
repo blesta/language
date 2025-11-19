@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Numele de gazdă pare a fi invalid.';
 $lang['Plesk.!error.server_name.empty'] = 'Trebuie să introduceți o etichetă de server.';
 $lang['Plesk.!error.api.internal'] = 'A apărut o eroare internă sau serverul nu a răspuns la cerere.';
 $lang['Plesk.!error.simplexml_required'] = 'Extensia simplexml este necesară pentru acest modul.';
+$lang['Plesk.service_info.login_unavailable'] = 'Conectare indisponibilă';
+$lang['Plesk.tab_client_login.field_login'] = 'Conectați-vă';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Parolă';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Nume utilizator';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Conectați-vă la Plesk';
+$lang['Plesk.tab_client_login'] = 'Conectați-vă la Plesk';
 

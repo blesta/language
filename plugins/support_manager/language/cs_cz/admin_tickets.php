@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Služba';
 $lang['AdminTickets.add.text_no_contacts'] = 'Pro vybraného klienta nejsou k dispozici žádné další kontakty.';
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailová adresa, na kterou chcete být upozorněni při aktualizaci tipu.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakty, které mají být informovány o aktualizaci tipu. Ti, kteří nejsou vybráni, budou automaticky přidáni k tiketu, pokud na něj budou reagovat.';
+$lang['AdminTickets.reply.text_domain'] = 'Doména';
+$lang['AdminTickets.reply.heading_rating'] = 'Hodnocení';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Hodnocení Komentář';
+$lang['AdminTickets.index.heading_rating'] = 'Hodnocení';
 

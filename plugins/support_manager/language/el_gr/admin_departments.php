@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Απαιτούμενο';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Ενεργοποίηση σχετικών υπηρεσιών';
 $lang['AdminDepartments.!tooltip.type'] = 'Η επιλογή "Κλιμάκωση σε κατάσταση έκτακτης ανάγκης" εμφανίζει ένα πλαίσιο ειδοποίησης με μήνυμα και πλαίσιο ελέγχου. Εάν ο χρήστης τσεκάρει το πλαίσιο ελέγχου, το εισιτήριο κλιμακώνεται αυτόματα σε "Επείγον", ακόμη και αν αυτή η προτεραιότητα είναι απενεργοποιημένη για το τμήμα. Διαθέσιμο μόνο όταν η ορατότητα έχει οριστεί σε "Μόνο για πελάτες".';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Επιτρέψτε στους πελάτες να επιλέξουν μια υπηρεσία με την οποία σχετίζεται το εισιτήριο.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Αυτόματη αποστολή υπενθύμισης ανατροφοδότησης';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 Μυστικό πελάτη/εφαρμογής';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 ID πελάτη/εφαρμογής';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Χρήστης OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Πάροχος OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Αυτόματη αποστολή υπενθύμισης ανατροφοδότησης';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 Μυστικό πελάτη/εφαρμογής';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 ID πελάτη/εφαρμογής';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Χρήστης OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Πάροχος OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Για όλα τα εισιτήρια με κατάσταση κλειστό, θα αποσταλεί στον πελάτη μια υπενθύμιση για να αφήσει τα σχόλιά του, εάν το εισιτήριο έχει κλείσει για το επιλεγμένο χρονικό διάστημα.';
 

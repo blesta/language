@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'تم الانتهاء من جميع الم�
 $lang['Cron.index.attempt_all'] = 'محاولة تشغيل جميع المهام الخاصة بـ %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'خطأ: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'فشل Cron في التسجيل.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'يجب أن يكون عامل تصفية المهام "استبعاد" مصفوفة.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'يجب أن يكون عامل تصفية المهام "تضمين" مصفوفة.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'لا يمكن أن يحتوي عامل تصفية المهام على مفتاحي "تضمين" و"استبعاد".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'يجب أن يكون عامل تصفية المهام كائن JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'JSON غير صالح في معلمة تصفية المهام: %1$s';
 

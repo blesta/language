@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'Общий ключ reCaptcha';
-$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'Ключ сайта reCaptcha';
 $lang['ReCaptcha.name'] = 'reCaptcha';
+$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'Ключ сайта reCaptcha';
+$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'Общий ключ reCaptcha';
 

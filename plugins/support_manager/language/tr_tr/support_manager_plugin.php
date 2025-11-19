@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'E-postaları indirmek ve
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Biletleri İndir';
 $lang['SupportManagerPlugin.description'] = 'Kullanıcıların ve personelin destek biletleri açmasına ve yönetmesine olanak tanır.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ayarlar';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Belirli bir süre sonra kapatılan destek talepleri için müşterilere geri bildirimlerini bırakmaları için otomatik olarak hatırlatıcılar gönderin.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Geri Bildirim Hatırlatıcıları Gönderin';
 

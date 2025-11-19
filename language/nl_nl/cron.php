@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Alle taken zijn voltooid.';
 $lang['Cron.index.attempt_all'] = 'Ik probeer alle taken voor %1$s uit te voeren.';
 $lang['Cron.!error.task_execution.failed'] = 'Fout: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron slaagde er niet in te loggen.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Taakfilter "uitsluiten" moet een matrix zijn.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Taakfilter "include" moet een matrix zijn.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Taakfilters kunnen niet zowel "insluiten" als "uitsluiten" hebben.';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Taakfilter moet een JSON-object zijn.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Ongeldige JSON in taakfilterparameter: %1$s';
 

@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Definition af brug af sprog';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Rediger betalingstype';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Upload-biblioteket skal eksistere og være uden for rod-webbiblioteket.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir er aktiveret. Filadgang er begrænset til: %1$s. Der er ikke adgang til mapper uden for disse stier.';
 

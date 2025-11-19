@@ -13,4 +13,9 @@ $lang['CmsPages.!error.content.valid'] = 'Ошибка разбора содер
 $lang['CmsPages.!error.title.empty'] = 'Пожалуйста, введите название страницы.';
 $lang['CmsPages.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['CmsPages.!error.uri.empty'] = 'Укажите путь URI к странице.';
+$lang['CmsPages.content_type.md'] = 'Уценка';
+$lang['CmsPages.content_type.wysiwyg'] = 'Редактор WYSIWYG';
+$lang['CmsPages.content_type.text'] = 'Необработанный HTML/текст';
+$lang['CmsPages.!error.content_type.valid'] = 'Недопустимый тип содержимого.';
+$lang['CmsPages.!error.uri.exists'] = 'URI для этой страницы уже существует для другой страницы.';
 

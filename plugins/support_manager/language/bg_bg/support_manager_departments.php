@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Невалиде�
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Само за клиенти';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Ескалиране до спешна помощ';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Дали да се изисква подадената информация трябва да бъде настроена на 0 или 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

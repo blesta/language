@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = '启用'
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = '启用网关限制';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = '限制客户端可以使用的网关。默认情况下，网关限制被禁用，所有网关都可用。';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = '客户群';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = '密码长度';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = '密码自定义规则';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = '定制';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = '仅数字';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = '仅阿尔法';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = '仅字母数字';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = '无空位';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = '任何字符';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = '密码格式';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = '设置最小密码长度。';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = '输入自定义正则表达式，以便在选择 "自定义 "格式时验证密码。正则表达式可定义最小密码长度。';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = '选择密码中允许使用的字符类型。';
 

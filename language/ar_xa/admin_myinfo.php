@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'الإشعارات';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'الحساب';
 $lang['AdminMyinfo.!success.notices_updated'] = 'تم تحديث إعدادات إشعارك بنجاح.';
 $lang['AdminMyinfo.!success.updated'] = 'تم تحديث إعدادات حسابك بنجاح.';
+$lang['AdminMyinfo.index.field_avatar'] = 'صورة الملف الشخصي';
 

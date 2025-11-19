@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Faktura';
 $lang['ClientInvoices.view.page_title'] = 'Faktura #.%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Download';
+$lang['ClientInvoices.!error.format.invalid'] = 'Det valgte fakturaformat er ikke tilgængeligt.';
+$lang['ClientInvoices.view.balance_due'] = 'Forfalden saldo';
+$lang['ClientInvoices.view.payments_amount'] = 'Anvendt beløb';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transaction #';
+$lang['ClientInvoices.view.payments_type'] = 'Type';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Dato for ansøgning';
+$lang['ClientInvoices.view.payments_heading'] = 'Betalinger';
 

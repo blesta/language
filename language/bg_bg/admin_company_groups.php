@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s е групата по 
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s беше успешно изтрит!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s е редактиран успешно!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s е създаден успешно!';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Пренареждане на фактурите за доставка след приключването им';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Обработка на кредити';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Пренареждане на фактурите за доставка след приключването им';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Обработка на кредити';
 

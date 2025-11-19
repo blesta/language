@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Здається, ім\'я хоста �
 $lang['Plesk.!error.server_name.empty'] = 'Ви повинні ввести мітку сервера.';
 $lang['Plesk.!error.api.internal'] = 'Сталася внутрішня помилка або сервер не відповів на запит.';
 $lang['Plesk.!error.simplexml_required'] = 'Для цього модуля потрібне розширення simplexml.';
+$lang['Plesk.service_info.login_unavailable'] = 'Логін недоступний';
+$lang['Plesk.tab_client_login.field_login'] = 'Увійдіть в систему';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Пароль';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Ім\'я користувача';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Увійдіть до Plesk';
+$lang['Plesk.tab_client_login'] = 'Увійдіть до Plesk';
 

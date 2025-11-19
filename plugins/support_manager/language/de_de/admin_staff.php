@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Kreuzen Sie dieses Kästchen an, wenn de
 $lang['AdminStaff.!success.staff_deleted'] = 'Das Personalmitglied wurde erfolgreich gelöscht.';
 $lang['AdminStaff.!success.staff_updated'] = 'Der Mitarbeiter wurde erfolgreich aktualisiert.';
 $lang['AdminStaff.!success.staff_added'] = 'Das Personalmitglied wurde erfolgreich hinzugefügt.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Markdown-Editor-Modus';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Markdown-Editor-Modus';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Wählen Sie den Standard-Ansichtsmodus für Markdown-Editoren. WYSIWYG bietet einen Rich-Text-Editor, Markdown zeigt nebeneinander Markdown und Vorschau, und Markdown - Keine Vorschau zeigt nur den Markdown-Editor.';
 

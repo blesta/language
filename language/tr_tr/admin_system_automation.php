@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Ayarlar > Sistem > Otomasyon'
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Cron anahtarı başarıyla güncellendi!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Otomasyon ayarları başarıyla güncellendi!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Lütfen bir cron anahtarı ayarlayın.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternatif Yöntem (Cron Anahtarı ile HTTP İsteği)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'HTTP İstekleri için Örnek Cron Komutu';
 

@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Pilih setidaknya
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Khusus Klien';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Tingkatkan ke Keadaan Darurat';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Apakah akan memerlukan arsip harus diatur ke 0 atau 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

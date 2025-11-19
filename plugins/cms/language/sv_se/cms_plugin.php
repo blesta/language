@@ -10,6 +10,7 @@
  */
 
 $lang['CmsPlugin.index.title'] = 'Kundportal';
-$lang['CmsPlugin.description'] = 'Med portalen kan du ange sidinnehåll som ska visas på Blestas hemsida URL.';
-$lang['CmsPlugin.name'] = 'Portal';
+$lang['CmsPlugin.description'] = 'CMS ger dig möjlighet att skapa ytterligare sidor i din Blesta.';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

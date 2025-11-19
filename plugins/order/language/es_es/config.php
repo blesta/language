@@ -21,4 +21,8 @@ $lang['Config.index.field_addon_label'] = '%1$s (%2$s @ %3$s)';
 $lang['Config.index.field_addon_label_recurring'] = '%1$s (%2$s @ %3$s, renueva @ %4$s)';
 $lang['Config.!error.invalid_value_option'] = 'Debe seleccionarse un valor para %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'El valor de la opción "%1$s" debe estar comprendido entre %2$s y %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (renueva %3$s) (%4$s/mo %5$s%% de ahorro!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% de ahorro!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (renueva %3$s) (%4$s/mo) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mes)';
 

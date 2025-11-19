@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'تم حذف حساب ال�
 $lang['ClientAccounts.!success.account_created'] = 'تم إنشاء حساب الدفع بنجاح.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'تمت إزالة حساب الدفع الافتراضي.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'تم تحديث حساب الدفع الافتراضي.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'تحديث الإعدادات';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'عتبة الإخطار';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'العملة';
+$lang['ClientAccounts.credithandling.text_description'] = 'تكوين إشعارات انخفاض الرصيد. ستتلقى بريدًا إلكترونيًا يوميًا عندما ينخفض رصيدك عن الحد الأدنى لأي عملة.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'التعامل مع الائتمان';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'التعامل مع الائتمان';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'تم تحديث إعدادات معالجة الائتمان بنجاح.';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'De betaalrekening is succe
 $lang['ClientAccounts.!success.account_created'] = 'De betaalrekening is succesvol aangemaakt.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'De standaardbetaalrekening is verwijderd.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'De standaardbetaalrekening is bijgewerkt.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Instellingen bijwerken';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Meldingsdrempel';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Valuta';
+$lang['ClientAccounts.credithandling.text_description'] = 'Meldingen voor laag saldo configureren. Je ontvangt dagelijks een e-mail wanneer je tegoed onder het drempelbedrag voor een bepaalde valuta komt.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Kredietbehandeling';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Kredietbehandeling';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'De instellingen voor kredietverwerking zijn succesvol bijgewerkt.';
 

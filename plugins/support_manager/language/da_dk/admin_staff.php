@@ -79,4 +79,7 @@ $lang['AdminStaff.schedule_list.heading_department'] = 'Afdeling';
 $lang['AdminStaff.schedule_list.heading_description'] = 'Beskrivelse';
 $lang['AdminStaff.schedule_list.no_department_results'] = 'Denne medarbejder er ikke tilknyttet nogen afdeling.';
 $lang['AdminStaff.text.no_time'] = '--';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Markdown-editortilstand';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Markdown-editortilstand';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Vælg standardvisningstilstand for markdown-editorer. WYSIWYG giver en rich text-editor, Markdown viser markdown og preview side om side, og Markdown - No Preview viser kun markdown-editoren.';
 

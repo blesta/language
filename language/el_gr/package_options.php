@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Παρακαλούμε εισάγε
 $lang['PackageOptions.!error.label.length'] = 'Το μήκος της ετικέτας δεν μπορεί να υπερβαίνει τους 128 χαρακτήρες.';
 $lang['PackageOptions.!error.label.empty'] = 'Παρακαλώ εισάγετε μια ετικέτα.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Το αν πρέπει να αποκρύπτεται στο τιμολόγιο πρέπει να οριστεί σε 0 ή 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Η απενεργοποίηση της τιμολόγησης πρέπει να οριστεί σε 0 ή 1.';
 

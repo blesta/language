@@ -65,4 +65,7 @@ $lang['Clients.getStatusTypes.fraud'] = 'Fraude';
 $lang['Clients.setDebitAccountFailure.note_title'] = 'Débit automatique désactivé pour le compte de paiement.';
 $lang['Clients.setDebitAccountFailure.note_body'] = 'Le compte de paiement %1$s se terminant par x%2$s a été désactivé car il a dépassé le nombre maximum de tentatives de refus.';
 $lang['Clients.customfield.cf2'] = 'Champ personnalisé';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Le montant maximum du crédit pour %1$s doit être supérieur au montant minimum.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Le montant maximum du crédit pour %1$s doit être supérieur à 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Le montant minimum du crédit pour %1$s doit être supérieur à 0.';
 

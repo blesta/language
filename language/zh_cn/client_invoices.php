@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = '表格';
 $lang['ClientInvoices.view.boxtitle_invoice'] = '发票';
 $lang['ClientInvoices.view.page_title'] = '发票 #%1$s';
 $lang['ClientInvoices.index.option_download'] = '下载';
+$lang['ClientInvoices.!error.format.invalid'] = '所选发票格式不可用。';
+$lang['ClientInvoices.view.balance_due'] = '应付余额';
+$lang['ClientInvoices.view.payments_amount'] = '申请金额';
+$lang['ClientInvoices.view.payments_transaction_id'] = '交易 #';
+$lang['ClientInvoices.view.payments_heading'] = '付款';
+$lang['ClientInvoices.view.payments_type'] = '类型';
+$lang['ClientInvoices.view.payments_applied_date'] = '申请日期';
 

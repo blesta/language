@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Questa fattura è stata pagata in pr
 $lang['ClientPay.!success.credit_partial_processed'] = 'I crediti disponibili sono stati applicati, ma esiste ancora un saldo. Si prega di completare la transazione pagando il saldo qui sotto.';
 $lang['ClientPay.!success.credit_full_processed'] = 'I crediti disponibili sono stati applicati.';
 $lang['ClientPay.!success.payment_processed'] = 'Il pagamento è stato elaborato con successo per %1$s. Numero di transazione: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Saldo dovuto';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Importo pagato';
+$lang['ClientPay.method.invoice_total'] = 'Totale fattura';
+$lang['ClientPay.index.text_credit_max_only'] = 'Importo massimo: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Importo minimo: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Importo minimo: %1$s - Importo massimo: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'L\'importo del credito non può superare %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'L\'importo del credito deve essere almeno pari a %1$s.';
 

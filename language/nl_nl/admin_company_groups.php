@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s is succesvol bewerkt!'
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s is succesvol aangemaakt!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Toegestane gateways';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Toegestane gateways';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Facturen opnieuw inleveren nadat ze zijn gesloten';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Kredietbehandeling';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Facturen opnieuw inleveren nadat ze zijn gesloten';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Kredietbehandeling';
 

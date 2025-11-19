@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = '该软件包目前不可用。';
 $lang['Config.!error.invalid_pricing_id'] = '未找到给出的软件包。';
 $lang['Config.!error.invalid_value_option'] = '必须为%1$s 选择一个值。';
 $lang['Config.!error.invalid_quantity_option'] = '%1$s" 选项值必须介于%2$s 和%3$s 之间。';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (续订%3$s) (%4$s/mo%5$s%%节省！) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo%4$s%%节省！)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s （更新%3$s ） (%4$s/月) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/月)';
 

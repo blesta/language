@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'الحزمة غير متوفرة حال
 $lang['Config.!error.invalid_pricing_id'] = 'لم يتم العثور على الحزمة المعطاة.';
 $lang['Config.!error.invalid_value_option'] = 'يجب تحديد قيمة %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'يجب أن تكون قيمة الخيار "%1$s" بين %2$s و %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (يجدد %3$s) (%4$s/ mo %5$s% وفورات!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/ mo %4$s% وفورات!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (يجدد %3$s) (%4$s/ شهر) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/ شهر)';
 

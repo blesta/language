@@ -82,4 +82,5 @@ $lang['ClientMain.!success.client_updated'] = 'Hesap bilgileriniz başarıyla g�
 $lang['ClientMain.!info.service_name'] = '%1$s - %2$s';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'İki Faktörlü Kimlik Doğrulamayı etkinleştirmek veya parolayı güncellemek için gereklidir.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'İki Faktörlü Kimlik Doğrulama';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Kredi Ekle';
 

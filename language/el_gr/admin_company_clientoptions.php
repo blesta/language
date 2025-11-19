@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Ενε�
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ενεργοποίηση περιορισμών πύλης';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Περιορίστε τις πύλες που μπορούν να χρησιμοποιήσουν οι πελάτες. Από προεπιλογή, οι Περιορισμοί πύλης είναι απενεργοποιημένοι και όλες οι πύλες είναι διαθέσιμες.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Ομάδα πελατών';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Μήκος κωδικού πρόσβασης';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Προσαρμοσμένος κανόνας κωδικού πρόσβασης';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Προσαρμοσμένο';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Μόνο αριθμοί';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Μόνο Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Μόνο αλφαριθμητικά';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Δεν υπάρχουν χώροι';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Οποιοιδήποτε χαρακτήρες';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Μορφή κωδικού πρόσβασης';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Ορίστε το ελάχιστο μήκος του κωδικού πρόσβασης.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Εισάγετε μια προσαρμοσμένη κανονική έκφραση για την επικύρωση κωδικών πρόσβασης όταν έχει επιλεγεί η μορφή "Προσαρμοσμένη". Η κανονική έκφραση μπορεί να ορίζει ένα ελάχιστο μήκος κωδικού πρόσβασης.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Επιλέξτε τον τύπο των χαρακτήρων που επιτρέπονται στους κωδικούς πρόσβασης.';
 

@@ -16,4 +16,5 @@ $lang['Blacklist.!error.plugin_dir.exists'] = '지정된 플러그인이 존재�
 $lang['Blacklist.!error.rule.exists'] = '이 규칙은 데이터베이스에 이미 존재합니다.';
 $lang['Blacklist.type.email'] = '이메일 주소';
 $lang['Blacklist.type.ip'] = 'IP 주소/CIDR';
+$lang['Blacklist.!error.block_outgoing.valid'] = '발신 차단 규칙은 "1" 또는 "0"이어야 합니다.';
 

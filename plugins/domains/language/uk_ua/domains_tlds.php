@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'Довжина TLD повинна бу
 $lang['DomainsTlds.!error.tld.not_exists'] = 'Доменного імені в компанії не існує.';
 $lang['DomainsTlds.!error.tld.exists'] = 'У компанії вже існує доменний ім\'я в домені .';
 $lang['DomainsTlds.!error.tld.empty'] = 'Будь ласка, введіть TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" є недійсним сервером імен.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Вибраний модуль не має налаштованих рядків модулів. Будь ласка, налаштуйте модуль перед міграцією.';
 

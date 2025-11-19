@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Markera denna ruta för att göra person
 $lang['AdminStaff.!success.staff_deleted'] = 'Personalen har raderats framgångsrikt.';
 $lang['AdminStaff.!success.staff_updated'] = 'Personalen har uppdaterats framgångsrikt.';
 $lang['AdminStaff.!success.staff_added'] = 'Medarbetaren har lagts till framgångsrikt.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Markdown Editor-läge';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Markdown Editor-läge';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Välj standardvisningsläge för markdownredigerare. WYSIWYG ger en redigerare för rik text, Markdown visar markdown och förhandsgranskning sida vid sida och Markdown - Ingen förhandsgranskning visar endast markdown-redigeraren.';
 

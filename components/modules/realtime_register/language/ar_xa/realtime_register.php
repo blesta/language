@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'الحسابات';
 $lang['RealtimeRegister.module_row'] = 'الحساب';
 $lang['RealtimeRegister.description'] = 'نحن نقدم أكثر من 2,000 نطاق TLD من أكثر من 150 سجلاً، ونضيف باستمرار نطاقات جديدة. نحن نهتم بتحديثات السجل وجميع السياسات والإجراءات.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'حالة المجال';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'لا يُسمح لك بإدارة هذا المجال.';
 

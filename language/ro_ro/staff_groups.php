@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Șabloane
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviciul de editare avansată';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Coada de servicii';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Modificări ale serviciilor';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Gestionarea creditelor';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Ștergeți câmpul personalizat';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Editare câmp personalizat';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Adăugați un câmp personalizat';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Facturi electronice';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Fetch Coupon Package Option Info';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opțiuni pentru pachetul de cupoane Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista de citate';
 

@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = '설정 > 시스템 > 자동�
 $lang['AdminSystemAutomation.!success.cron_key'] = '크론 키가 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = '자동화 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = '크론 키를 설정하세요.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = '대체 방법(크론 키를 사용한 HTTP 요청)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'HTTP 요청에 대한 Cron 명령 예제';
 

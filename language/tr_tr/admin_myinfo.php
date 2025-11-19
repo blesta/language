@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Bildirimler';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Hesap';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Bildirim ayarlarınız başarıyla güncellendi.';
 $lang['AdminMyinfo.!success.updated'] = 'Hesap ayarlarınız başarıyla güncellendi.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profil Resmi';
 

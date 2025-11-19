@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s bylo úspěšně uprav
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s byl úspěšně vytvořen!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Povolené brány';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Povolené brány';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Opětovné předání faktur k doručení po jejich uzavření.';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Zpracování úvěrů';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Opětovné předání faktur k doručení po jejich uzavření.';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Zpracování úvěrů';
 

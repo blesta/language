@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = 'Το όνομα κεντρικο
 $lang['DirectAdmin.!error.server_name.empty'] = 'Πρέπει να εισαγάγετε μια ετικέτα διακομιστή.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Διεύθυνση IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Η διεύθυνση IP φαίνεται να είναι άκυρη.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Έκδοση HTTP';
 

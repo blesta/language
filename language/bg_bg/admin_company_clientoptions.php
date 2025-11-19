@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.!success.field_deleted'] = 'Потребите�
 $lang['AdminCompanyClientOptions.!success.field_created'] = 'Потребителското поле на клиента е създадено успешно.';
 $lang['AdminCompanyClientOptions.!success.field_updated'] = 'Потребителското поле на клиента е успешно актуализирано.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Група клиенти';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Дължина на паролата';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Потребителско правило за парола';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Потребителски';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Само числа';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Само Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Само буквено-цифрови';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Няма пространства';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Всички символи';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Формат на паролата';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Задайте минималната дължина на паролата.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Въведете потребителски регулярен израз за валидиране на пароли, когато е избран формат "Потребителски". Регулярният израз може да определя минимална дължина на паролата.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Изберете вида на разрешените символи в паролите.';
 

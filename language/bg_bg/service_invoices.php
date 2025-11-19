@@ -20,4 +20,7 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Максимални�
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Неуспешните опити трябва да са число.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Невалиден идентификатор на фактурата.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Невалиден идентификатор на услугата.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Позволяват само незабавно анулиране';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Разрешете анулиране само в края на срока';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Възможност за незабавна отмяна или отмяна в края на срока';
 

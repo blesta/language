@@ -52,4 +52,11 @@ $lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Şifre Sıfırlamayı
 $lang['AdminLogin.reset.title_adminarea'] = '%1$s | Şifreyi Sıfırla';
 $lang['AdminLogin.otp.title_adminarea'] = '%1$s | Personel Alanı';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Personel Alanı';
+$lang['AdminLogin.!info.step_up_otp'] = 'Devam edebilmek için aşağıya OTP\'nizi (Tek Kullanımlık Şifre) girerek erişiminizi tekrar doğrulamanız gerekmektedir.';
+$lang['AdminLogin.!info.step_up'] = 'Devam edebilmek için aşağıya şifrenizi girerek erişiminizi tekrar doğrulamanız gerekmektedir.';
+$lang['AdminLogin.up.link_cancel'] = 'İptal';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Erişimi Doğrula';
+$lang['AdminLogin.up.field_password'] = 'Şifre';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Erişim Doğrulama';
+$lang['AdminLogin.up.page_title'] = 'Erişim Doğrulama';
 

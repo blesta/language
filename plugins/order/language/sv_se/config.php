@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'Paketet är för närvarande inte tillg
 $lang['Config.!error.invalid_pricing_id'] = 'Det angivna paketet hittades inte.';
 $lang['Config.!error.invalid_value_option'] = 'Ett värde måste väljas för %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'Alternativvärdet "%1$s" måste ligga mellan %2$s och %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (förnyar %3$s) (%4$s/mo %5$s%% besparingar!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% besparingar!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (förnyar %3$s) (%4$s/mo) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

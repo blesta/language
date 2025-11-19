@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Avstängning';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Förnyelse';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Tillhandahållande';
 $lang['ServiceInvoices.!error.type.valid'] = 'Ogiltig typ av försök.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Endast tillåta omedelbar avbokning';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Tillåt endast avbokning i slutet av terminen';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Tillåt omedelbar avbokning eller avbokning i slutet av terminen';
 

@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'Şu anda hiç irtibatınız yok, il
 $lang['ClientContacts.!success.contact_added'] = 'Kişi başarıyla oluşturuldu!';
 $lang['ClientContacts.!success.contact_updated'] = 'Kişi başarıyla güncellendi!';
 $lang['ClientContacts.!success.contact_deleted'] = 'İletişim %1$s %2$s başarıyla silindi!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profil Resmi';
 

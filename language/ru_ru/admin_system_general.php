@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Настройки �
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Настройки GeoIP были успешно обновлены!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Настройки базовой установки были успешно обновлены!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Каталог загрузки должен существовать и находиться вне корневого веб-каталога.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir включен. Доступ к файлам ограничен: %1$s. Доступ к каталогам за пределами этих путей невозможен.';
 

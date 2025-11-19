@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Formulář byl úspěšně aktualizo
 $lang['AdminForms.!success.form_delete'] = 'Formulář byl úspěšně odstraněn.';
 $lang['AdminForms.!success.form_added'] = 'Formulář byl úspěšně přidán.';
 $lang['AdminForms.!success.settings_saved'] = 'Nastavení bylo úspěšně uloženo';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Při výběru balíčku uveďte měsíční náklady pro každou cenovou variantu a také úsporu za měsíc ve srovnání s měsíční cenou (pokud je to relevantní).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Zobrazení měsíčního rozpisu cen';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Při výběru balíčku uveďte měsíční náklady pro každou cenovou variantu a také úsporu za měsíc ve srovnání s měsíční cenou (pokud je to relevantní).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Zobrazení měsíčního rozpisu cen';
 

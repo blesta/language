@@ -9,7 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['DomainsDomains.!error.unsupported_tld'] = 'TLD domain tidak didukung oleh modul pencatat yang dipilih.';
 $lang['DomainsDomains.!error.invalid_term'] = 'Domain ini tidak dapat diperpanjang selama jumlah tahun yang dipilih.';
 $lang['DomainsDomains.!error.invoices_renew_service'] = 'Domain tidak dapat diperpanjang hingga semua faktur dan perubahan layanan yang mengandung domain ini telah diproses.';
-$lang['DomainsDomains.!error.unsupported_tld'] = 'TLD domain tidak didukung oleh modul pencatat yang dipilih.';
+$lang['DomainsDomains.!error.module_not_registrar'] = 'Modul yang dipilih bukanlah modul pendaftar domain.';
 

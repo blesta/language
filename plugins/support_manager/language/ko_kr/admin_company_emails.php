@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = '직원 티켓 업데이트(모바일)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = '티켓이 업데이트되면 담당 직원에게 알림이 전송됩니다.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = '직원 티켓 업데이트';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = '고객에게 지원 티켓 경험에 대한 평가를 요청하는 알림을 보냅니다.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = '티켓 피드백 요청';
 

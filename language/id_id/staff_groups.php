@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Templat H
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Layanan Edit Tingkat Lanjut';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Antrian Layanan';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Perubahan Layanan';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Penanganan Kredit';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Menghapus Bidang Khusus';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Edit Bidang Khusus';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Tambahkan Bidang Khusus';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Faktur Elektronik';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Ambil Info Opsi Paket Kupon';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Ambil Opsi Paket Kupon';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Daftar Kutipan';
 

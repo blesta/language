@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Τιμολόγιο';
 $lang['ClientInvoices.view.page_title'] = 'Τιμολόγιο #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Λήψη';
+$lang['ClientInvoices.!error.format.invalid'] = 'Η επιλεγμένη μορφή τιμολογίου δεν είναι διαθέσιμη.';
+$lang['ClientInvoices.view.balance_due'] = 'Οφειλόμενο υπόλοιπο';
+$lang['ClientInvoices.view.payments_amount'] = 'Εφαρμοσμένο ποσό';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Συναλλαγή #';
+$lang['ClientInvoices.view.payments_type'] = 'Τύπος';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Ημερομηνία αίτησης';
+$lang['ClientInvoices.view.payments_heading'] = 'Πληρωμές';
 

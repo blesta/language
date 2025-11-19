@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'У вас еще нет конта�
 $lang['ClientContacts.!success.contact_added'] = 'Контакт был успешно создан!';
 $lang['ClientContacts.!success.contact_updated'] = 'Контакт был успешно обновлен!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Контакт %1$s %2$s был успешно удален!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Изображение профиля';
 

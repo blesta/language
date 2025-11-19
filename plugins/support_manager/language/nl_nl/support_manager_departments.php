@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecteer minste
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Alleen voor klanten';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Escaleren naar noodgeval';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Of het ingediend moet worden, moet worden ingesteld op 0 of 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

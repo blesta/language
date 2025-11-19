@@ -16,7 +16,7 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Offsite ACH';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Πρόσβαση με πιστωτική κάρτα χρησιμοποιώντας μη αποθηκευμένα διαπιστευτήρια ή αυτά που είναι αποθηκευμένα στη Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Επεξεργασία πιστωτικών καρτών με χρήση διαπιστευτηρίων που αποθηκεύονται εκτός του χώρου του επεξεργαστή.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Αυτό επιτρέπει σε μια πύλη να παρέχει προσαρμοσμένη html για φόρμες πιστωτικών καρτών.  Αυτό προορίζεται για την υποστήριξη πιστωτικών καρτών εκτός ιστοσελίδας που μπορεί να χρησιμοποιούν iframes ή να απαιτούν πρόσθετα πεδία.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Αυτό επιτρέπει σε μια πύλη να παρέχει προσαρμοσμένη html για φόρμες πιστωτικών καρτών. Αυτό προορίζεται για την υποστήριξη πιστωτικών καρτών εκτός ιστοσελίδας που μπορεί να χρησιμοποιούν iframes ή να απαιτούν πρόσθετα πεδία.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Αυτοματοποιημένη διαδικασία εκκαθάρισης με χρήση μη αποθηκευμένων διαπιστευτηρίων ή εκείνων που είναι αποθηκευμένα στη Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Αυτοματοποιημένη επεξεργασία με τη χρήση διαπιστευτηρίων που αποθηκεύονται εκτός του χώρου του εκτελούντος την επεξεργασία.';
 $lang['AdminMerchant.index.page_title'] = 'Γεννήτρια επέκτασης - %1$s';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.fields.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminMerchant.fields.features'] = 'Επόμενο - Υποστηριζόμενες λειτουργίες';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Υποστηριζόμενα χαρακτηριστικά';
 $lang['AdminMerchant.features.confirm'] = 'Επόμενο - Επιβεβαίωση';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Αυτό επιτρέπει σε μια πύλη να παρέχει προσαρμοσμένη html για αυτοματοποιημένες φόρμες εκκαθάρισης. Αυτό έχει ως στόχο να υποστηρίξει τις αυτοματοποιημένες εκκαθαριστικές επιχειρήσεις εκτός του χώρου που μπορεί να χρησιμοποιούν iframes ή να απαιτούν πρόσθετα πεδία.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Προσαρμοσμένη φόρμα ACH';
 

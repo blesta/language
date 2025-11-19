@@ -9,7 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.description'] = 'Portalen giver dig mulighed for at indstille sideindhold, der skal vises på Blestas hjemmeside-URL.';
+$lang['CmsPlugin.description'] = 'CMS\'et giver dig mulighed for at oprette flere sider i din Blesta.';
 $lang['CmsPlugin.index.title'] = 'Kundeportal';
-$lang['CmsPlugin.name'] = 'Portal';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'В момента нямате ко
 $lang['ClientContacts.!success.contact_added'] = 'Контактът е създаден успешно!';
 $lang['ClientContacts.!success.contact_updated'] = 'Контактът беше успешно актуализиран!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Контактът %1$s %2$s беше успешно изтрит!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Профилна снимка';
 

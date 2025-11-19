@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Håndhæv e-mail
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Rediger gruppe';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Tilladte gateways';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Tilladte gateways';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Sæt fakturaer i kø igen til levering, når de er lukket';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Håndtering af kredit';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Sæt fakturaer i kø igen til levering, når de er lukket';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Håndtering af kredit';
 

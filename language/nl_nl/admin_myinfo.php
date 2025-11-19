@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Account';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Je berichtinstellingen zijn succesvol bijgewerkt.';
 $lang['AdminMyinfo.!success.updated'] = 'Je accountinstellingen zijn bijgewerkt.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'Herstelmail (optioneel)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profielfoto';
 

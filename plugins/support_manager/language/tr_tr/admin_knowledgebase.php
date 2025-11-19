@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Makale başarıyla oluştu
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Kategori başarıyla silindi.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategori başarıyla güncellendi.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategori başarıyla oluşturuldu.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Tüm alt kategorileri ve onların makalelerini de güncelleyin';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Bu kategorideki tüm makaleleri aynı erişilebilirliğe sahip olacak şekilde güncelleyin';
 

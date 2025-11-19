@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'O comprimento da chave da tarefa cron n�
 $lang['CronTasks.!error.key.unique'] = 'A chave da tarefa cron fornecida já está ocupada.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Remove do sistema todos os tokens de redefinição de senha após a data de expiração.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Excluir tokens de redefinição de senha expirados';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Envia um aviso a todos os usuários cujos níveis de crédito caíram abaixo do limite configurado.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notificações de saldo baixo';
 

@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = '확장자 생성기
 $lang['AdminMerchant.index.page_title'] = '확장 생성기 - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = '프로세서가 오프사이트에 저장한 자격 증명을 사용하여 자동화된 클리어링 하우스 처리를 수행합니다.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = '저장되지 않은 자격 증명 또는 Blesta에 저장된 자격 증명을 사용하여 자동화된 클리어링 하우스 처리.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = '이를 통해 게이트웨이에서 신용 카드 양식에 사용자 지정 HTML을 제공할 수 있습니다.  이는 아이프레임을 사용하거나 추가 필드가 필요할 수 있는 오프사이트 신용카드를 지원하기 위한 것입니다.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = '이를 통해 게이트웨이에서 신용 카드 양식에 사용자 지정 HTML을 제공할 수 있습니다. 이는 아이프레임을 사용하거나 추가 필드가 필요할 수 있는 오프사이트 신용카드를 지원하기 위한 것입니다.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = '프로세서가 오프사이트에 저장한 자격 증명을 사용하여 신용 카드를 처리합니다.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = '저장되지 않은 자격 증명 또는 Blesta에 저장된 자격 증명을 사용하여 신용 카드를 처리합니다.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = '오프사이트 ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = '맞춤 신용 카드 양식';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = '오프사이트 신용 카드';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = '신용 카드';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = '이를 통해 게이트웨이에서 자동화된 청산소 양식에 대한 사용자 지정 HTML을 제공할 수 있습니다. 이는 아이프레임을 사용하거나 추가 필드가 필요할 수 있는 오프사이트 자동화된 청산소를 지원하기 위한 것입니다.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = '사용자 지정 ACH 양식';
 

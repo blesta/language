@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'تم إنشاء المقا
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'تم حذف الفئة بنجاح.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'تم تحديث الفئة بنجاح.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'تم إنشاء الفئة بنجاح.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'تحديث جميع الفئات الفرعية ومقالاتها أيضًا';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'قم بتحديث جميع المقالات في هذه الفئة لتكون لها نفس إمكانية الوصول';
 

@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Gerador de extensõ
 $lang['AdminMerchant.index.page_title'] = 'Gerador de extensão - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Processamento automatizado da câmara de compensação usando credenciais armazenadas fora do local pelo processador.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Processamento automatizado de câmaras de compensação usando credenciais não armazenadas ou armazenadas no Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Isso permite que um gateway forneça html personalizado para formulários de cartão de crédito.  O objetivo é oferecer suporte a cartões de crédito externos que possam usar iframes ou exigir campos adicionais.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Isso permite que um gateway forneça html personalizado para formulários de cartão de crédito. O objetivo é oferecer suporte a cartões de crédito externos que possam usar iframes ou exigir campos adicionais.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Processamento de cartão de crédito usando credenciais armazenadas fora do local pelo processador.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Processamento de cartões de crédito usando credenciais não armazenadas ou armazenadas na Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH externo';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Formulário de cartão de crédito personalizado';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Cartão de crédito externo';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Cartão de crédito';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Isso permite que um gateway forneça html personalizado para formulários de câmaras de compensação automatizadas. O objetivo é oferecer suporte a câmaras de compensação automatizadas externas que podem usar iframes ou exigir campos adicionais.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Formulário ACH personalizado';
 

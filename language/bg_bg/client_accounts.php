@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Платежната см�
 $lang['ClientAccounts.!success.account_created'] = 'Платежната сметка е създадена успешно.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Платежната сметка по подразбиране е премахната.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Платежната сметка по подразбиране е актуализирана.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Актуализиране на настройките';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Праг на уведомяване';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Валута';
+$lang['ClientAccounts.credithandling.text_description'] = 'Конфигуриране на известия за нисък баланс. Ще получавате ежедневно имейл, когато кредитният ви баланс падне под праговата сума за всяка валута.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Обработка на кредити';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Обработка на кредити';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Настройките за обработка на кредити са актуализирани успешно.';
 

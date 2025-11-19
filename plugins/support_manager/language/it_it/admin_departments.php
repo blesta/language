@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Richiesto';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Attivare i servizi correlati';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" mostra una casella di avviso con un messaggio e una casella di controllo. Se l\'utente seleziona la casella di controllo, il ticket viene automaticamente assegnato a "Emergenza", anche se questa priorità è disattivata per il reparto. Disponibile solo quando la Visibilità è impostata su Solo cliente.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Consentire ai clienti di selezionare un servizio a cui il ticket è collegato.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Invio automatico di un promemoria di feedback';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Cliente OAuth 2.0 / Segreto dell\'applicazione';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'ID cliente/applicazione OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Utente OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Provider OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Invio automatico di un promemoria di feedback';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Cliente OAuth 2.0 / Segreto dell\'applicazione';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'ID cliente/applicazione OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Utente OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Provider OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Per tutti i ticket con stato chiuso, verrà inviato al cliente un promemoria per lasciare il proprio feedback se il ticket è rimasto chiuso per il periodo di tempo selezionato.';
 

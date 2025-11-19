@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Włącz
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Włącz ograniczenia bramy';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Ograniczenie bram, z których mogą korzystać klienci. Domyślnie ograniczenia bram są wyłączone i wszystkie bramy są dostępne.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grupa klientów';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Długość hasła';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Reguła niestandardowa hasła';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Niestandardowe';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Tylko liczby';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Tylko Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Tylko alfanumeryczne';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Brak miejsc';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Dowolne postacie';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Format hasła';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Ustawienie minimalnej długości hasła.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Wprowadź niestandardowe wyrażenie regularne, aby sprawdzać poprawność haseł po wybraniu formatu "Niestandardowy". Wyrażenie regularne może definiować minimalną długość hasła.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Wybierz typ znaków dozwolonych w hasłach.';
 

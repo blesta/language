@@ -247,4 +247,6 @@ $lang['Namesilo.name'] = 'NameSilo';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Идентификатор за контакт';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Изтегля контакти от namesilo и ги свързва с клиенти на blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Изтеглете контактите на Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Тази функция изисква домейнът да използва следните сървъри за имена: ns1.dnsowl.com, ns2.dnsowl.com и ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Домейнът не е наличен за регистрация.';
 

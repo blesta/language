@@ -46,4 +46,9 @@ $lang['Cron.addpaidpendingservices.attempt'] = 'Forsøg på at levere betalte ve
 $lang['Cron.addpaidpendingservices.completed'] = 'Den betalte afventende serviceopgave er afsluttet.';
 $lang['Cron.addpaidpendingservices.service_error'] = 'Den ventende tjeneste #%1$s fra klient #%2$s kunne ikke gøres aktiv.';
 $lang['Cron.addpaidpendingservices.service_success'] = 'Den ventende tjeneste #%1$s fra klient #%2$s er nu aktiv.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Opgavefilteret "exclude" skal være et array.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Opgavefilteret "include" skal være et array.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Et opgavefilter kan ikke have både "include"- og "exclude"-nøgler.';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Opgavefilteret skal være et JSON-objekt.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Ugyldig JSON i opgavefilterparameter: %1$s';
 

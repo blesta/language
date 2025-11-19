@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Αναστολή';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Ανανέωση';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Παροχή υπηρεσιών';
 $lang['ServiceInvoices.!error.type.valid'] = 'Μη έγκυρος τύπος προσπάθειας.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Επιτρέπουν μόνο την άμεση ακύρωση';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Επιτρέπουν μόνο την ακύρωση στο τέλος της περιόδου';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Επιτρέψτε την άμεση ή στο τέλος της περιόδου ακύρωση';
 

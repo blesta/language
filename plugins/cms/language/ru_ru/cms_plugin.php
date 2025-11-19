@@ -10,6 +10,7 @@
  */
 
 $lang['CmsPlugin.index.title'] = 'Портал для клиентов';
-$lang['CmsPlugin.description'] = 'Портал позволяет задать содержимое страницы, которое будет отображаться на URL домашней страницы Blesta.';
-$lang['CmsPlugin.name'] = 'Портал';
+$lang['CmsPlugin.description'] = 'CMS позволяет создавать дополнительные страницы в вашем Blesta.';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

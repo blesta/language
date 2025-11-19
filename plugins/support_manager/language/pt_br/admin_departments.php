@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Necessário';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Habilitar serviços relacionados';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalar para emergência" mostra uma caixa de alerta com uma mensagem e uma caixa de seleção. Se o usuário marcar a caixa de seleção, o tíquete será automaticamente escalado para "Emergência", mesmo que essa prioridade esteja desativada para o departamento. Disponível somente quando a Visibilidade estiver definida como Somente cliente.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permitir que os clientes selecionem um serviço ao qual o tíquete está relacionado.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Enviar automaticamente um lembrete de feedback';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Segredo do cliente/aplicativo OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'ID do cliente/aplicativo OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Usuário OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Provedor OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Enviar automaticamente um lembrete de feedback';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Segredo do cliente/aplicativo OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'ID do cliente/aplicativo OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Usuário OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Provedor OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Para todos os tíquetes com status de fechado, um lembrete para deixar seu feedback será enviado ao cliente se o tíquete tiver sido fechado pelo período de tempo selecionado.';
 

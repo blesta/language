@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Účty';
 $lang['RealtimeRegister.module_row'] = 'Účet';
 $lang['RealtimeRegister.description'] = 'Nabízíme více než 2 000 TLD od více než 150 registrů a neustále přidáváme nové. Staráme se o aktualizace registrů a veškeré zásady a postupy.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Stav domény';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Tuto doménu nesmíte spravovat.';
 

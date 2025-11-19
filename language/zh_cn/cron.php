@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = '所有任务均已完成。';
 $lang['Cron.index.attempt_all'] = '尝试运行 %1$s 的所有任务。';
 $lang['Cron.!error.task_execution.failed'] = '错误： %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron 登录失败。';
+$lang['Cron.!error.task_filter.exclude_not_array'] = '任务过滤器 "排除 "必须是一个数组。';
+$lang['Cron.!error.task_filter.include_not_array'] = '任务过滤器 "include "必须是一个数组。';
+$lang['Cron.!error.task_filter.both_include_exclude'] = '任务过滤器不能同时具有 "包括 "和 "排除 "键。';
+$lang['Cron.!error.task_filter.invalid_format'] = '任务过滤器必须是一个 JSON 对象。';
+$lang['Cron.!error.task_filter.invalid_json'] = '任务筛选器参数中的 JSON 无效：%1$s';
 

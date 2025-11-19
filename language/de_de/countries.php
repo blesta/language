@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'Der Alpha3-Ländercode muss aus 3 Alp
 $lang['Countries.!error.alpha2.exists'] = 'Ungültiger alpha2-Code.';
 $lang['Countries.!error.alpha2.in_use'] = 'Alpha2-Ländercode, %1$s, ist bereits vergeben.';
 $lang['Countries.!error.alpha2.format'] = 'Der Alpha2-Ländercode muss aus 2 Alpha-Zeichen bestehen.';
+$lang['Countries.!error.format.valid'] = 'Das Länderformat muss entweder "Code" oder "Name" sein.';
 

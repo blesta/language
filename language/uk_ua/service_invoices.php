@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Підвіска';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Поновлення';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Забезпечення провізією';
 $lang['ServiceInvoices.!error.type.valid'] = 'Неправильний тип спроби.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Дозволяти тільки негайне скасування';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Дозволити скасування тільки в кінці терміну';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Дозволити негайне скасування або скасування в кінці терміну';
 

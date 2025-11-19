@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Rekeningen';
 $lang['RealtimeRegister.module_row'] = 'Account';
 $lang['RealtimeRegister.description'] = 'We bieden meer dan 2.000 TLD\'s van meer dan 150 registries en voegen voortdurend nieuwe toe. Wij zorgen voor registerupdates en alle beleidsregels en procedures.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Domeinstatus';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Je hebt geen toestemming om dit domein te beheren.';
 

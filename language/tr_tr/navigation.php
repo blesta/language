@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML Şablonları';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Servis Kuyruğu';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Hizmet Değişiklikleri';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronik Faturalar';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredi İşlemleri';
 

@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.invoice_notes'] = 'الملاحظات';
 $lang['ClientInvoices.view.invoice_terms'] = 'الشروط';
 $lang['ClientInvoices.view.field_download'] = 'تنزيل الفاتورة';
 $lang['ClientInvoices.view.field_pay_invoice'] = 'دفع الفاتورة';
+$lang['ClientInvoices.!error.format.invalid'] = 'تنسيق الفاتورة المحدد غير متوفر.';
+$lang['ClientInvoices.view.balance_due'] = 'الرصيد المستحق';
+$lang['ClientInvoices.view.payments_amount'] = 'المبلغ المطبق';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'المعاملة رقم';
+$lang['ClientInvoices.view.payments_type'] = 'النوع';
+$lang['ClientInvoices.view.payments_applied_date'] = 'تاريخ التقديم';
+$lang['ClientInvoices.view.payments_heading'] = 'المدفوعات';
 

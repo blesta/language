@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'يتصل بخادم POP3
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'تحميل التذاكر';
 $lang['SupportManagerPlugin.description'] = 'السماح للمستخدمين والموظفين بفتح تذاكر الدعم وإدارتها.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'الإعدادات';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'إرسال تذكيرات للعملاء تلقائيًا لترك ملاحظاتهم على التذاكر التي تم إغلاقها بعد فترة زمنية معينة.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'إرسال تذكيرات الملاحظات';
 

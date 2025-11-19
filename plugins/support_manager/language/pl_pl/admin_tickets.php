@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Usługa';
 $lang['AdminTickets.add.text_no_contacts'] = 'Brak dodatkowych kontaktów dostępnych dla wybranego klienta.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Adres e-mail do otrzymywania powiadomień o aktualizacji zgłoszenia.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakty, które mają być powiadamiane o aktualizacji zgłoszenia. Osoby, które nie zostały wybrane, zostaną automatycznie dodane do zgłoszenia, jeśli na nie odpowiedzą.';
+$lang['AdminTickets.reply.text_domain'] = 'Domena';
+$lang['AdminTickets.reply.heading_rating'] = 'Ocena';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Ocena Komentarz';
+$lang['AdminTickets.index.heading_rating'] = 'Ocena';
 

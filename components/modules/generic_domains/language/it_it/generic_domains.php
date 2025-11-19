@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Righe del modulo';
 $lang['GenericDomains.module_row'] = 'Fila del modulo';
 $lang['GenericDomains.description'] = 'Un modulo generico per la registrazione dei domini.';
 $lang['GenericDomains.name'] = 'Domini generici';
+$lang['GenericDomains.manage.save_btn'] = 'Risparmiare';
+$lang['GenericDomains.manage.email_text'] = 'Testo';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Email di rinnovo';
+$lang['GenericDomains.manage.registration_email'] = 'Email di registrazione';
+$lang['GenericDomains.manage.to_emails'] = 'Alle e-mail';
+$lang['GenericDomains.manage.from_email'] = 'Da Email';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Impostazioni di notifica';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Tutti i messaggi di posta elettronica dei destinatari, separati da una virgola.';
 

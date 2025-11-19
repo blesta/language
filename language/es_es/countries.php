@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha2.exists'] = 'Código alfa2 inválido.';
 $lang['Countries.!error.alpha3.format'] = 'El código de país Alpha3 debe tener 3 caracteres alfabéticos.';
 $lang['Countries.!error.alpha3.in_use'] = 'El código de país alfa3, %1$s, ya está ocupado.';
 $lang['Countries.!error.name.format'] = 'Por favor, introduzca un nombre.';
+$lang['Countries.!error.format.valid'] = 'El formato del país debe ser "código" o "nombre".';
 

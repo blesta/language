@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'De onderhoudsinstell
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'De GeoIP-instellingen zijn succesvol bijgewerkt!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'De basisinstellingen zijn bijgewerkt!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'De uploaddirectory moet bestaan en buiten de root webdirectory liggen.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir is ingeschakeld. Bestandstoegang is beperkt tot: %1$s. Directories buiten deze paden zijn niet toegankelijk.';
 

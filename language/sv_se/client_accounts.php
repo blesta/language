@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Betalkontot har raderats f
 $lang['ClientAccounts.!success.account_created'] = 'Betalkontot har skapats framgångsrikt.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Standardbetalningskontot har tagits bort.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Standardbetalningskontot har uppdaterats.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Uppdatera inställningar';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Tröskelvärde för avisering';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Valuta';
+$lang['ClientAccounts.credithandling.text_description'] = 'Konfigurera aviseringar om lågt saldo. Du får ett dagligt e-postmeddelande när ditt kreditsaldo sjunker under tröskelvärdet för någon valuta.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Kredithantering';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Kredithantering';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Inställningarna för kredithantering har uppdaterats.';
 

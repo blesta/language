@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Factură';
 $lang['ClientInvoices.view.page_title'] = 'Factura #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Descărcare';
+$lang['ClientInvoices.!error.format.invalid'] = 'Formatul de factură selectat nu este disponibil.';
+$lang['ClientInvoices.view.balance_due'] = 'Sold datorat';
+$lang['ClientInvoices.view.payments_amount'] = 'Suma aplicată';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Tranzacție #';
+$lang['ClientInvoices.view.payments_type'] = 'Tip';
+$lang['ClientInvoices.view.payments_heading'] = 'Plăți';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Data aplicării';
 

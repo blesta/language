@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Известия';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Сметка';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Настройките на известието ви бяха успешно актуализирани.';
 $lang['AdminMyinfo.!success.updated'] = 'Настройките на профила ви бяха успешно актуализирани.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Профилна снимка';
 

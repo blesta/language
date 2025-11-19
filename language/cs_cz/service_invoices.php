@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Zavěšení';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Obnova';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Provisioning';
 $lang['ServiceInvoices.!error.type.valid'] = 'Neplatný typ pokusu.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Povolit pouze okamžité zrušení';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Povolit zrušení pouze na konci semestru';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Umožnit okamžité zrušení nebo zrušení ke konci období';
 

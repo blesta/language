@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Ви повинні ввест�
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP-адреса';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Здається, IP-адреса є недійсною.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Версія HTTP';
 

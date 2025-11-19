@@ -82,4 +82,5 @@ $lang['ClientMain.!success.client_updated'] = 'Informace o vašem účtu byly ú
 $lang['ClientMain.edit.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Vyžaduje se pro povolení dvoufaktorového ověřování nebo aktualizaci hesla.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Dvoufaktorové ověřování';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Přidat kredity';
 

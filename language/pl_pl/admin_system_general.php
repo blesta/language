@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Ustawienia konserwac
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Ustawienia GeoIP zostały pomyślnie zaktualizowane!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Ustawienia konfiguracji podstawowej zostały pomyślnie zaktualizowane!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Katalog przesyłania musi istnieć i znajdować się poza głównym katalogiem internetowym.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir jest włączone. Dostęp do plików jest ograniczony do: %1$s. Dostęp do katalogów spoza tych ścieżek nie jest możliwy.';
 

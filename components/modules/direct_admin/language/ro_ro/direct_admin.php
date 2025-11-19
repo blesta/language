@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.port.format'] = 'Portul trebuie să fie un număr.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Adresa IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Adresa IP pare să fie invalidă.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Versiunea HTTP';
 

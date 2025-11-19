@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Tanggal pendaftaran Doma
 $lang['AdminMain.!success.change_expiration_date'] = 'Tanggal kedaluwarsa Domain telah diperbarui!';
 $lang['AdminMain.add.text_refresh'] = 'Menyegarkan';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domain telah ditransfer dari pencatat.';
+$lang['AdminMain.!success.remove_price_override'] = 'Harga penggantian domain telah dihapus!';
+$lang['AdminMain.!success.set_price_override'] = 'Harga penggantian domain telah diperbarui!';
 

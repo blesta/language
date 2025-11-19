@@ -52,4 +52,11 @@ $lang['AdminLogin.!error.captcha.invalid'] = 'El captcha introducido no es váli
 $lang['AdminLogin.!success.reset_sent'] = 'Se ha enviado un correo electrónico de confirmación a la dirección registrada.';
 $lang['AdminLogin.!info.reset_password'] = 'Introduzca su nombre de usuario a continuación y se le enviará por correo electrónico un enlace para que pueda establecer una nueva contraseña.';
 $lang['AdminLogin.!info.otp'] = 'Se requiere autenticación de dos factores para este usuario. Introduzca su OTP (contraseña de un solo uso) a continuación.';
+$lang['AdminLogin.!info.step_up_otp'] = 'Para continuar, es necesario verificar de nuevo su acceso introduciendo a continuación su OTP (contraseña de un solo uso).';
+$lang['AdminLogin.!info.step_up'] = 'Para continuar, es necesario verificar de nuevo su acceso introduciendo su contraseña a continuación.';
+$lang['AdminLogin.up.link_cancel'] = 'Cancelar';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Verificar el acceso';
+$lang['AdminLogin.up.field_password'] = 'Contraseña';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verificación de acceso';
+$lang['AdminLogin.up.page_title'] = 'Verificación del acceso';
 

@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Modelli H
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Servizio di modifica avanzata';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Coda di servizio';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Modifiche al servizio';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Gestione del credito';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Eliminare il campo personalizzato';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Modifica del campo personalizzato';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Aggiungi campo personalizzato';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Fatture elettroniche';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Informazioni sulle opzioni del pacchetto di coupon Fetch';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opzioni del pacchetto di coupon Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Elenco citazioni';
 

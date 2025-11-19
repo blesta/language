@@ -67,4 +67,6 @@ $lang['CronTasks.crontask.description.transition_quotations'] = 'Marquer les off
 $lang['CronTasks.crontask.name.license_validation'] = 'Validation de la licence';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Supprime du système tous les jetons de réinitialisation de mot de passe dont la date d\'expiration est dépassée.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Supprimer les jetons de réinitialisation de mot de passe expirés';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Envoie une notification à tous les utilisateurs dont le niveau de crédit est passé en dessous du seuil configuré.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notifications de solde faible';
 

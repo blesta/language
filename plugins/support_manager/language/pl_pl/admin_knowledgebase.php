@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Artykuł został pomyślni
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Kategoria została pomyślnie usunięta.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategoria została pomyślnie zaktualizowana.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategoria została pomyślnie utworzona.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Zaktualizuj wszystkie podkategorie i ich artykuły.';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Zaktualizuj wszystkie artykuły w tej kategorii, aby miały taką samą dostępność.';
 

@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.access_types.public'] = 'Offentlig';
 $lang['SupportManagerKbCategories.access_types.private'] = 'Privat';
 $lang['SupportManagerKbCategories.access_types.hidden'] = 'Skjult';
 $lang['SupportManagerKbCategories.access_types.staff'] = 'Personale';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Indstillingen update articles recursively er i et ugyldigt format.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Indstillingen update articles er i et ugyldigt format.';
 

@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = '잘못된 작업 ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML 템플릿';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = '서비스 대기열';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = '서비스 변경 사항';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = '전자 송장';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = '신용 처리';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['FeedReaderPlugin.description'] = 'Преглеждайте всеки RSS/Atom канал директно на таблото за управление.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'За тази приставка е необходимо разширението dom.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'За тази приставка се изисква разширението libxml.';
-$lang['FeedReaderPlugin.description'] = 'Преглеждайте всеки RSS/Atom канал директно на таблото за управление.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

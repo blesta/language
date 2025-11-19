@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Zadané pravidlo není platnou IP ad
 $lang['Blacklist.!error.type.format'] = 'Typ musí být "ip" nebo "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'Uvedený zásuvný modul neexistuje.';
 $lang['Blacklist.!error.rule.exists'] = 'Toto pravidlo již v databázi existuje.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Odchozí pravidlo bloku musí mít hodnotu "1" nebo "0".';
 

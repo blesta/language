@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generator de extens
 $lang['AdminMerchant.index.page_title'] = 'Generator de extensii - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Procesare automată în cadrul unei case de compensare care utilizează credențiale stocate în afara locului de către procesator.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Procesarea automatizată a centrelor de compensare care utilizează acreditările nestocate sau cele stocate în Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Acest lucru permite unui gateway să furnizeze html personalizat pentru formularele de carduri de credit.  Acest lucru este menit să susțină cardurile de credit offsite care pot folosi iframe sau care necesită câmpuri suplimentare.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Aceasta permite unui gateway să furnizeze html personalizat pentru formularele de card de credit. Acest lucru este menit să sprijine cardurile de credit din afara site-ului care pot utiliza iframe sau care necesită câmpuri suplimentare.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Procesarea cardurilor de credit cu ajutorul acreditărilor stocate în afara sediului procesatorului.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'procesarea cardurilor de credit utilizând credențiale nestocate sau stocate în Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH offsite';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Formular personalizat pentru card de credit';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Card de credit offsite';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Card de credit';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Acest lucru permite unui gateway să furnizeze html personalizat pentru formularele casei de compensare automată. Acest lucru este menit să sprijine casele de compensare automate din afara site-ului care pot utiliza iframe sau care necesită câmpuri suplimentare.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Formular ACH personalizat';
 

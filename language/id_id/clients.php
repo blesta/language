@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Jenis tidak valid.';
 $lang['Clients.!error.account_id.exists'] = 'ID akun tidak valid.';
 $lang['Clients.!error.client_id.exists'] = 'ID klien tidak valid.';
 $lang['Clients.!error.client_group_id.exists'] = 'ID grup klien tidak valid.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari jumlah minimum.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Jumlah kredit minimum untuk %1$s harus lebih besar dari 0.';
 

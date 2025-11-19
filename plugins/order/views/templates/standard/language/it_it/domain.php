@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'Nascondi tutto';
 $lang['Domain.lookup.show_all'] = 'Mostra tutto';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.title'] = 'Verifica la disponibilità del dominio';
+$lang['Domain.lookup.load_more_tlds'] = 'Per saperne di più';
 

@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Выберите
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Только для клиентов';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Эскалация в экстренную ситуацию';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Требуется ли установить значение 0 или 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

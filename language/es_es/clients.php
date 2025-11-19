@@ -65,4 +65,7 @@ $lang['Clients.getStatusTypes.fraud'] = 'Fraude';
 $lang['Clients.setDebitAccountFailure.note_title'] = 'Débito automático desactivado para la cuenta de pago.';
 $lang['Clients.setDebitAccountFailure.note_body'] = 'La cuenta de pago %1$s que termina en x%2$s se ha desactivado porque ha superado el número máximo de intentos de rechazo.';
 $lang['Clients.customfield.cf2'] = 'Campo personalizado';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'El importe máximo del crédito para %1$s debe ser superior al importe mínimo.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'El crédito máximo de %1$s debe ser superior a 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'El importe mínimo del crédito para %1$s debe ser superior a 0.';
 

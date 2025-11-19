@@ -14,4 +14,7 @@ $lang['ClientGroups.!error.group_id.exists'] = 'ID grup klien tidak valid.';
 $lang['ClientGroups.!error.color.length'] = 'Panjang warna tidak boleh melebihi 16 karakter.';
 $lang['ClientGroups.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['ClientGroups.!error.name.empty'] = 'Silakan tentukan nama grup.';
+$lang['ClientGroups.!error.payment_credit_limits.max_less_than_min'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari jumlah minimum.';
+$lang['ClientGroups.!error.payment_credit_limits.max_amount'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari 0.';
+$lang['ClientGroups.!error.payment_credit_limits.min_amount'] = 'Jumlah kredit minimum untuk %1$s harus lebih besar dari 0.';
 

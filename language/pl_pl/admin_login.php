@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Hasło';
 $lang['AdminLogin.index.field_username'] = 'Nazwa użytkownika';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Obszar personelu';
 $lang['AdminLogin.index.page_title'] = 'Zaloguj się';
+$lang['AdminLogin.!info.step_up_otp'] = 'Aby kontynuować, należy ponownie zweryfikować swój dostęp, wprowadzając poniżej hasło jednorazowe (OTP).';
+$lang['AdminLogin.!info.step_up'] = 'Aby kontynuować, należy ponownie zweryfikować swój dostęp, wprowadzając hasło poniżej.';
+$lang['AdminLogin.up.link_cancel'] = 'Anuluj';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Weryfikacja dostępu';
+$lang['AdminLogin.up.field_password'] = 'Hasło';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Weryfikacja dostępu';
+$lang['AdminLogin.up.page_title'] = 'Weryfikacja dostępu';
 

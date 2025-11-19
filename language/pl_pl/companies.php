@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Długość nazwy nie może przekraczać
 $lang['Companies.!error.name.empty'] = 'Wprowadź nazwę.';
 $lang['Companies.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['Companies.!error.company_id.in_use'] = 'Firma ta jest obecnie używana i nie może zostać usunięta.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Maksymalna kwota kredytu dla %1$s musi być wyższa niż kwota minimalna.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Maksymalna kwota kredytu dla %1$s musi być większa niż 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Minimalna kwota kredytu dla %1$s musi być większa niż 0.';
 

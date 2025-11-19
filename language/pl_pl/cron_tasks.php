@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Długość klucza zadania cron nie może
 $lang['CronTasks.!error.key.unique'] = 'Podany klucz zadania cron jest już zajęty.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Usuwa z systemu wszystkie tokeny resetowania hasła, których data ważności minęła.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Usuwanie wygasłych tokenów resetowania hasła';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Wysyła powiadomienie do wszystkich użytkowników, których poziom kredytów spadł poniżej skonfigurowanego progu.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Powiadomienia o niskim saldzie';
 

@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = '维护设置已成�
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP 设置已成功更新！';
 $lang['AdminSystemGeneral.!success.basic_updated'] = '基本设置设置已成功更新！';
 $lang['AdminSystemGeneral.!error.upload_dir'] = '上传目录必须存在，且位于网络根目录之外。';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir 已启用。文件访问仅限于：%1$s.无法访问这些路径之外的目录。';
 

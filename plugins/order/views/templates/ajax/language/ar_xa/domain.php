@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = 'عرض الكل';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.description'] = 'ابدأ بالبحث عن نطاق، أو تخطَّ هذه الخطوة بالنقر على "طلب عناصر أخرى".';
 $lang['Domain.lookup.title'] = 'التحقق من توفر النطاق المتاح';
+$lang['Domain.lookup.load_more_tlds'] = 'تحميل المزيد';
 

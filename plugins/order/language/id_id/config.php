@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'Paket ini saat ini tidak tersedia.';
 $lang['Config.!error.invalid_pricing_id'] = 'Paket yang diberikan tidak ditemukan.';
 $lang['Config.!error.invalid_value_option'] = 'Nilai harus dipilih untuk %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'Nilai opsi "%1$s" harus berada di antara %2$s dan %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (memperbaharui %3$s) (%4$s/mo %5$s%% penghematan!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% penghematan!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (memperbaharui %3$s) (%4$s/mo) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = '名称长度不得超过 64 个字符�
 $lang['Companies.!error.name.empty'] = '请输入姓名。';
 $lang['Companies.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['Companies.!error.company_id.in_use'] = '该公司目前正在使用，可能不会被删除。';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = '%1$s 的最高信用额度必须大于最低额度。';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = '%1$s 的最大信用额必须大于 0。';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = '%1$s 的最低信用额必须大于 0。';
 

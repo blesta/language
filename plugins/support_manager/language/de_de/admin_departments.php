@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Erforderlich';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Aktivieren Sie zugehörige Dienste';
 $lang['AdminDepartments.!tooltip.type'] = '"Eskalieren zu Notfall" zeigt ein Warnfeld mit einer Meldung und einem Kontrollkästchen an. Wenn der Benutzer das Kontrollkästchen aktiviert, wird das Ticket automatisch auf "Notfall" eskaliert, auch wenn diese Priorität für die Abteilung deaktiviert ist. Nur verfügbar, wenn die Sichtbarkeit auf "Nur Kunde" eingestellt ist.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Erlauben Sie den Kunden, eine Dienstleistung auszuwählen, auf die sich das Ticket bezieht.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Automatisch Feedback-Erinnerung senden';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 Client / Anwendungsgeheimnis';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 Client-/Anwendungs-ID';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0 Benutzer';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0 Anbieter';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Automatisch Feedback-Erinnerung senden';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 Client / Anwendungsgeheimnis';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client-/Anwendungs-ID';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 Benutzer';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 Anbieter';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Bei allen Tickets mit dem Status "geschlossen" wird dem Kunden eine Erinnerung an die Abgabe seines Feedbacks gesendet, wenn das Ticket für die gewählte Zeitspanne geschlossen wurde.';
 

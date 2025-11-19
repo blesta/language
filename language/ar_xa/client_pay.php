@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'تم دفع هذه الفاتورة 
 $lang['ClientPay.!success.credit_partial_processed'] = 'تم تطبيق الأرصدة المتاحة، ولكن لا يزال هناك رصيد متبقي. يرجى إكمال هذه المعاملة بدفع الرصيد المتبقي أدناه.';
 $lang['ClientPay.!success.credit_full_processed'] = 'تم تطبيق الاعتمادات المتاحة.';
 $lang['ClientPay.!success.payment_processed'] = 'تمت معالجة عملية الدفع بنجاح %1$s. رقم المعاملة: %2$s';
+$lang['ClientPay.method.invoice_paid_amount'] = 'المبلغ المدفوع';
+$lang['ClientPay.method.invoice_balance_due'] = 'الرصيد المستحق';
+$lang['ClientPay.method.invoice_total'] = 'إجمالي الفاتورة';
+$lang['ClientPay.index.text_credit_max_only'] = 'الحد الأقصى للمبلغ: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'الحد الأدنى للمبلغ: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'الحد الأدنى للمبلغ: %1$s - الحد الأقصى للمبلغ: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'لا يمكن أن يتجاوز مبلغ الائتمان %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'يجب ألا يقل مبلغ الائتمان عن %1$s.';
 

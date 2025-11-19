@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'Обслуговування';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'Режим обслуговування';
+$lang['ClientMaintenance.index.page_title'] = 'Обслуговування';
 

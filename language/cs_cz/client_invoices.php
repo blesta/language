@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Faktura';
 $lang['ClientInvoices.view.page_title'] = 'Faktura #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Stáhnout';
+$lang['ClientInvoices.!error.format.invalid'] = 'Vybraný formát faktury není k dispozici.';
+$lang['ClientInvoices.view.balance_due'] = 'Zůstatek k úhradě';
+$lang['ClientInvoices.view.payments_amount'] = 'Použitá částka';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transakce #';
+$lang['ClientInvoices.view.payments_type'] = 'Typ';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Datum podání žádosti';
+$lang['ClientInvoices.view.payments_heading'] = 'Platby';
 

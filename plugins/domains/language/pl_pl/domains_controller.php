@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Zmiana automa
 $lang['DomainsController.!error.move_error'] = 'Wybrane domeny nie mogły zostać przeniesione do wybranego klienta.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Zmiana daty rejestracji';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Zmiana daty wygaśnięcia';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Usuń zastąpienie ceny';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Zastąpienie ustawionej ceny';
 

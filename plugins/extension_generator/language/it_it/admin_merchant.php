@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generatore di esten
 $lang['AdminMerchant.index.page_title'] = 'Generatore di estensioni - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Elaborazione automatizzata in camera di compensazione utilizzando le credenziali memorizzate fuori sede dall\'elaboratore.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Elaborazione automatizzata della stanza di compensazione utilizzando credenziali non memorizzate o memorizzate in Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Consente a un gateway di fornire un html personalizzato per i moduli delle carte di credito.  È pensato per supportare le carte di credito fuori sede che possono utilizzare iframe o richiedere campi aggiuntivi.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Consente a un gateway di fornire un html personalizzato per i moduli delle carte di credito. È pensato per supportare le carte di credito fuori sede che possono utilizzare iframe o richiedere campi aggiuntivi.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Elaborazione di carte di credito tramite credenziali memorizzate fuori sede dal processore.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Il processo di pagamento con carta di credito utilizza credenziali non memorizzate o memorizzate in Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH fuori sede';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Modulo carta di credito personalizzato';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Carta di credito fuori sede';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Carta di credito';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Consente a un gateway di fornire html personalizzato per i moduli delle stanze di compensazione automatizzate. Questo serve a supportare le stanze di compensazione automatizzate fuori sede che possono utilizzare iframe o richiedere campi aggiuntivi.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Modulo ACH personalizzato';
 

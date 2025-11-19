@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!text.add_category'] = 'Añadir categoría';
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Los artículos públicos son accesibles a todo el mundo. Los artículos privados sólo son accesibles para los usuarios que han iniciado sesión. Los artículos ocultos son inaccesibles. Los artículos del personal sólo son visibles para los miembros del personal.';
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Las categorías públicas son accesibles a todo el mundo. Las categorías privadas sólo son accesibles para los usuarios que han iniciado sesión. Las categorías ocultas son inaccesibles. Las categorías del personal sólo son visibles para los miembros del personal.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Actualice también todas las subcategorías y sus artículos';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Actualizar todos los artículos de esta categoría para que tengan la misma accesibilidad';
 

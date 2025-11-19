@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = '服务';
 $lang['AdminTickets.add.text_no_contacts'] = '所选客户没有其他联系人。';
 $lang['AdminTickets.!tooltip.recipients'] = '更新票据时将收到通知的电子邮件地址。';
 $lang['AdminTickets.!tooltip.contacts'] = '票单更新时要通知的联系人。未被选中的联系人如果回复了票单，将自动添加到票单中。';
+$lang['AdminTickets.reply.text_domain'] = '域名';
+$lang['AdminTickets.reply.heading_rating'] = '评级';
+$lang['AdminTickets.reply.heading_rating_comment'] = '评级评论';
+$lang['AdminTickets.index.heading_rating'] = '评级';
 

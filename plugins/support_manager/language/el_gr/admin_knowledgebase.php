@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!text.add_category'] = 'Προσθήκη κατηγο�
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Τα δημόσια άρθρα είναι προσβάσιμα σε όλους. Τα ιδιωτικά άρθρα είναι προσβάσιμα μόνο σε χρήστες που έχουν συνδεθεί. Τα κρυφά άρθρα δεν είναι προσβάσιμα. Τα άρθρα του προσωπικού είναι ορατά μόνο στα μέλη του προσωπικού.';
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Οι δημόσιες κατηγορίες είναι προσβάσιμες σε όλους. Οι ιδιωτικές κατηγορίες είναι προσβάσιμες μόνο σε χρήστες που έχουν συνδεθεί. Οι κρυφές κατηγορίες δεν είναι προσβάσιμες. Οι κατηγορίες προσωπικού είναι ορατές μόνο στα μέλη του προσωπικού.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Ενημερώστε επίσης όλες τις υποκατηγορίες και τα άρθρα τους';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Ενημερώστε όλα τα άρθρα αυτής της κατηγορίας ώστε να έχουν την ίδια προσβασιμότητα';
 

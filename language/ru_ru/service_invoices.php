@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Подвеска';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Обновление';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Обеспечение';
 $lang['ServiceInvoices.!error.type.valid'] = 'Неверный тип попытки.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Разрешить только немедленную отмену';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Разрешить отмену только в конце семестра';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Разрешить немедленную отмену или отмену в конце срока';
 

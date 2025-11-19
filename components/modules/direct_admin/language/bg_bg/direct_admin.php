@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.port.format'] = 'Портът трябва да е ч�
 $lang['DirectAdmin.!error.host_name.format'] = 'Изглежда, че името на хоста е невалидно.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Трябва да въведете Етикет на сървъра.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.row_meta.http_version'] = 'Версия на HTTP';
 

@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktifka
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Mengaktifkan Pembatasan Gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Batasi gateway mana yang dapat digunakan klien. Secara default, Pembatasan Gateway dinonaktifkan dan semua gateway tersedia.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Kelompok Klien';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Panjang Kata Sandi';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Aturan Khusus Kata Sandi';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Kustom';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Hanya Angka';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Hanya Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Hanya Alfanumerik';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Tidak ada ruang';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Karakter apa saja';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Format Kata Sandi';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Tetapkan panjang kata sandi minimum.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Masukkan ekspresi reguler khusus untuk memvalidasi kata sandi bila format "Kustom" dipilih. Ekspresi reguler dapat menentukan panjang kata sandi minimum.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Pilih jenis karakter yang diizinkan dalam kata sandi.';
 

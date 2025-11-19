@@ -9,7 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['CmsPlugin.description'] = 'CMS를 사용하면 Blesta에서 추가 페이지를 만들 수 있습니다.';
 $lang['CmsPlugin.index.title'] = '클라이언트 포털';
-$lang['CmsPlugin.description'] = '포털에서는 Blesta의 홈페이지 URL에 표시할 페이지 콘텐츠를 설정할 수 있습니다.';
-$lang['CmsPlugin.name'] = 'Portal';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

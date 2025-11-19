@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Setări > Sistem > Automatiza
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Cheia cron a fost actualizată cu succes!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Setările de automatizare au fost actualizate cu succes!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Vă rugăm să setați o cheie cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Metoda alternativă (solicitare HTTP cu cheia Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Exemplu de comandă Cron pentru cereri HTTP';
 

@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Статья была ус
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Категория была успешно удалена.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Категория была успешно обновлена.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Категория была успешно создана.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Обновите все подкатегории и их статьи.';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Обновите все статьи в этой категории для обеспечения одинаковой доступности';
 

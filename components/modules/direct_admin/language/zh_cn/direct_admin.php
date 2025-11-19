@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = '主机名似乎无效。';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP 地址';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP 地址似乎无效。';
+$lang['DirectAdmin.row_meta.http_version'] = 'HTTP 版本';
 

@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Mitarbeiter-Ticket aktualisiert (Mobile)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Mitteilung an einen Mitarbeiter, wenn ein Ticket aktualisiert wird.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Personal-Ticket aktualisiert';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Mitteilung an Kunden mit der Bitte, ihre Erfahrungen mit Support-Tickets zu bewerten.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Ticket-Feedback-Anfrage';
 

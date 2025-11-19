@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Nie masz uprawnień dostęp
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Upuść pliki tutaj, aby je przesłać lub kliknij, aby je wybrać';
 $lang['AppController.!error.client_unauthorized_access'] = 'Nie masz uprawnień dostępu do tego zasobu, skontaktuj się z głównym właścicielem konta, aby poprosić o dostęp.';
+$lang['AppController.structure.text_step_up_access'] = 'Obecnie masz otwartą sesję step up z dostępem do ustawień administratora. Kliknij tutaj, aby zrezygnować z dostępu.';
 

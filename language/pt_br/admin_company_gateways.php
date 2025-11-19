@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Atualizar configurações';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'em uso por';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'padrão';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'adicionar moeda';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Moedas aceitas';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opções de gateway';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'O gateway foi instalado com 
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'O gateway foi desinstalado com sucesso.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'O gateway foi atualizado com sucesso.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'O gateway foi atualizado com sucesso.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Para definir gateways padrão por moeda, acesse a página %1$sInstalled Gateways%2$s e clique no ícone de engrenagem no canto superior direito do widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Atualização';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Defina o gateway de comerciante padrão para cada moeda.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gateways de comerciante padrão';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Os gateways padrão do comerciante foram atualizados com sucesso.';
 

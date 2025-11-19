@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Personalbiljett uppdaterad (mobil)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Meddelande som skickas till en anställd när ett ärende uppdateras.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Personalbiljett uppdaterad';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Meddelande skickas till kunden där de ombeds att betygsätta sin upplevelse av supportärendet.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Begäran om feedback om biljetter';
 

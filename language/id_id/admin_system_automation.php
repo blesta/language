@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Pengaturan > Sistem > Otomati
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Kunci cron telah berhasil diperbarui!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Pengaturan Automation (Otomatisasi) berhasil diperbarui!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Silakan atur kunci cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Metode Alternatif (Permintaan HTTP dengan Kunci Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Contoh Perintah Cron untuk Permintaan HTTP';
 

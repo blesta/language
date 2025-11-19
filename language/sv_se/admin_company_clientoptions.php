@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktiver
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Aktivera Gateway-begränsningar';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Begränsa vilka gateways som klienter kan använda. Som standard är Gateway-begränsningar inaktiverade och alla gateways är tillgängliga.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Kundgrupp';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Lösenordslängd';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Lösenord Anpassad regel';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Anpassad';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Endast siffror';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Endast Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Endast alfanumerisk';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Inga utrymmen';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Alla tecken';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Lösenordsformat';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Ställ in minsta lösenordslängd.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Ange ett anpassat reguljärt uttryck för att validera lösenord när formatet "Custom" har valts. Det reguljära uttrycket kan definiera en minimilängd för lösenordet.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Välj vilken typ av tecken som ska tillåtas i lösenorden.';
 

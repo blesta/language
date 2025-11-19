@@ -142,4 +142,10 @@ $lang['Plesk.!error.simplexml_required'] = 'Bu modül için simplexml uzantısı
 $lang['Plesk.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Kullanılabilir)';
 $lang['Plesk.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['Plesk.!bytes.value'] = '%1$s %2$s';
+$lang['Plesk.service_info.login_unavailable'] = 'Giriş yapılamıyor';
+$lang['Plesk.tab_client_login.field_login'] = 'Giriş yap';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Şifre';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Kullanıcı Adı';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Plesk\'te oturum açın';
+$lang['Plesk.tab_client_login'] = 'Plesk\'te oturum açın';
 

@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Bitte geben Sie einen Namen für di
 $lang['PackageOptions.!error.label.length'] = 'Die Länge des Etiketts darf 128 Zeichen nicht überschreiten.';
 $lang['PackageOptions.!error.label.empty'] = 'Bitte geben Sie eine Bezeichnung ein.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Ob auf Rechnung ausgeblendet werden soll, muss auf 0 oder 1 gesetzt werden.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Ob die Preisgestaltung deaktiviert werden soll, muss auf 0 oder 1 gesetzt werden.';
 

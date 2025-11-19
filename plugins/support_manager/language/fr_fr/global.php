@@ -19,4 +19,7 @@ $lang['Global.action.delete'] = 'Supprimer';
 $lang['Global.action.merge'] = 'Fusionner';
 $lang['Global.action.reassign'] = 'Réaffectation';
 $lang['Global.action.update_status'] = 'Mise à jour du statut';
+$lang['Global.services.text_suspended'] = '(suspendue)';
+$lang['Global.services.text_domain'] = 'Domaine';
+$lang['Global.services.text_service_none'] = 'Aucun';
 

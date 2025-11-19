@@ -82,4 +82,5 @@ $lang['ClientMain.getcurrencyamounts.text_total_credits'] = 'Krediteringer:';
 $lang['ClientMain.edit.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Påkrævet for at aktivere tofaktorautentificering eller opdatere adgangskoden.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'To-faktor-autentificering';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Tilføj kreditter';
 

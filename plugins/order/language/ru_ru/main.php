@@ -9,7 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Main.!error.package_limits'] = 'Для всех пакетов в выбранной группе были достигнуты предельные значения.';
-$lang['Main.index.package_price'] = '%1$s @ %2$s';
 $lang['Main.index.package_price_recurring'] = '%1$s @ %2$s (продлевается @ %3$s)';
+$lang['Main.index.package_price'] = '%1$s @ %2$s';
+$lang['Main.!error.package_limits'] = 'Для всех пакетов в выбранной группе были достигнуты предельные значения.';
+$lang['Main.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (продлевает %3$s) (%4$s/mo %5$s%% экономии!) ';
+$lang['Main.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% экономии!)';
+$lang['Main.index.package_price_recurring_breakdown'] = '%1$s %2$s (обновляет %3$s) (%4$s/mo) ';
+$lang['Main.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

@@ -98,8 +98,8 @@ $lang['AdminCompanyEmails.edittemplate.field.status'] = 'ممكّنة';
 $lang['AdminCompanyEmails.edittemplate.text_none'] = 'لا يوجد';
 $lang['AdminCompanyEmails.edittemplate.boxtitle_edittemplate'] = 'تحرير قالب البريد الإلكتروني %1$s';
 $lang['AdminCompanyEmails.edittemplate.page_title'] = 'الإعدادات &gt; الشركة &gt; رسائل البريد الإلكتروني &gt; تعديل قالب البريد الإلكتروني';
-$lang['AdminCompanyEmails.templates.staff_quotation_approved_desc'] = 'الإشعار المرسل بعد موافقة العميل على عرض الأسعار.';
-$lang['AdminCompanyEmails.templates.staff_quotation_approved_name'] = 'الموافقة على الاقتباس';
+$lang['AdminCompanyEmails.templates.staff_quotation_approved_desc'] = 'الإشعار المرسل إلى الموظفين بعد موافقة العميل على عرض الأسعار.';
+$lang['AdminCompanyEmails.templates.staff_quotation_approved_name'] = 'الموافقة على اقتباس الموظفين';
 $lang['AdminCompanyEmails.templates.quotation_delivery_desc'] = 'إشعار يحتوي على نسخة PDF من عرض أسعار.';
 $lang['AdminCompanyEmails.templates.quotation_delivery_name'] = 'توصيل الأسعار';
 $lang['AdminCompanyEmails.templates.verify_email_desc'] = 'رابط التحقق من البريد الإلكتروني، الذي يتم إرساله عند إنشاء تسجيل دخول جديد أو عند قيام العميل بتغيير عنوان بريده الإلكتروني.';
@@ -230,4 +230,11 @@ $lang['AdminCompanyEmails.!tooltip.oauth2_user'] = 'قم بتعيين حساب �
 $lang['AdminCompanyEmails.!tooltip.oauth2_port'] = 'قم بتعيين المنفذ المستخدم للاتصال بخادم SMTP.';
 $lang['AdminCompanyEmails.!tooltip.oauth2_host'] = 'قم بتعيين اسم المضيف المستخدم للاتصال بخادم SMTP.';
 $lang['AdminCompanyEmails.!success.oauth2_test'] = 'تم اتصال OAuth 2.0 بنجاح!';
+$lang['AdminCompanyEmails.mail.text_mail_from_test'] = 'يتم سحب عنوان البريد الإلكتروني هذا بشكل ديناميكي من أحد قوالب بريدك الإلكتروني ولا يتم حفظه هنا. إذا كان العنوان يستخدم نطاقًا خاطئًا، فهذا مؤشر على أنك بحاجة إلى تحديث العنوان من لقوالب بريدك الإلكتروني.';
+$lang['AdminCompanyEmails.templates.quotation_approved_desc'] = 'إشعار مرسل يدوياً من قبل الموظفين بعرض أسعار تمت الموافقة عليه. يحتوي على نسخة PDF من عرض أسعار';
+$lang['AdminCompanyEmails.templates.quotation_approved_name'] = 'الموافقة على الاقتباس';
+$lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'إشعار إلغاء الخدمة، يتم إرساله عند إلغاء الخدمة.';
+$lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'إلغاء الخدمة';
+$lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'يتم إرسال إشعار عندما ينخفض رصيد العميل الائتماني عن الحد الذي تم تكوينه.';
+$lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'إشعار بانخفاض الرصيد';
 

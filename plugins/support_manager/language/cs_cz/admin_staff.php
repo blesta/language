@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Zaškrtněte toto políčko, aby byl zam
 $lang['AdminStaff.!success.staff_deleted'] = 'Zaměstnanec byl úspěšně smazán.';
 $lang['AdminStaff.!success.staff_updated'] = 'Zaměstnanec byl úspěšně aktualizován.';
 $lang['AdminStaff.!success.staff_added'] = 'Zaměstnanec byl úspěšně přidán.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Režim editoru Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Režim editoru Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Výběr výchozího režimu zobrazení pro editory markdown. WYSIWYG poskytuje bohatý textový editor, Markdown zobrazuje vedle sebe markdown a náhled a Markdown - bez náhledu zobrazuje pouze editor markdown.';
 

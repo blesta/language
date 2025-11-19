@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_merchant'
 $lang['AdminCompanyClientOptions.gatewayrestrictions.text_gateway_type_hybrid'] = 'هجين';
 $lang['AdminCompanyClientOptions.gatewayrestrictions.no_gateways_text'] = 'لا توجد بوابات مثبتة.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'مجموعة العملاء';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'طول كلمة المرور';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'قاعدة مخصصة لكلمة المرور';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'مخصص';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'الأرقام فقط';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'ألفا فقط';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'أبجدي رقمي فقط';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'لا توجد مساحات';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'أي شخصيات';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'تنسيق كلمة المرور';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'تعيين الحد الأدنى لطول كلمة المرور.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'أدخل تعبيراً عادياً مخصصاً للتحقق من صحة كلمات المرور عند تحديد التنسيق "مخصص". قد يحدد التعبير العادي الحد الأدنى لطول كلمة المرور.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'حدد نوع الأحرف المسموح بها في كلمات المرور.';
 

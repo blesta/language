@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Tüm görevler tamamlanmıştır.';
 $lang['Cron.!error.task_execution.failed'] = 'Hata: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron günlüğe kaydedilemedi.';
 $lang['Cron.index.attempt_all'] = 'Tüm görevler %1$s için çalıştırılmaya çalışılıyor.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Görev filtresi "exclude" bir dizi olmalıdır.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Görev filtresi "include" bir dizi olmalıdır.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Görev filtresi hem "dahil et" hem de "hariç tut" anahtarlarına sahip olamaz.';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Görev filtresi bir JSON nesnesi olmalıdır.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Görev filtresi parametresinde geçersiz JSON: %1$s';
 

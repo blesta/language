@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Υπηρεσία';
 $lang['AdminTickets.add.text_no_contacts'] = 'Δεν υπάρχουν διαθέσιμες πρόσθετες επαφές για τον επιλεγμένο πελάτη.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Διεύθυνση ηλεκτρονικού ταχυδρομείου για να ενημερώνεστε όταν ενημερώνεται ένα εισιτήριο.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Επαφές που θα ειδοποιούνται όταν ενημερώνεται ένα εισιτήριο. Όσοι δεν έχουν επιλεγεί, θα προστεθούν αυτόματα στο εισιτήριο, εάν απαντήσουν σε αυτό.';
+$lang['AdminTickets.reply.text_domain'] = 'Τομέας';
+$lang['AdminTickets.reply.heading_rating'] = 'Αξιολόγηση';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Σχόλιο αξιολόγησης';
+$lang['AdminTickets.index.heading_rating'] = 'Αξιολόγηση';
 

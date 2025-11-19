@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'تحديث تذكرة الموظفين (الجوال)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'الإشعار المرسل إلى أحد الموظفين عند تحديث التذكرة.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'تحديث تذكرة الموظفين';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'إشعار مرسل إلى العميل يطلب منه تقييم تجربة تذكرة الدعم الخاصة به.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'طلب ملاحظات على التذكرة';
 

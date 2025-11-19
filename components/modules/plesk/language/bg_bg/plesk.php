@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Името на хоста изглеж
 $lang['Plesk.!error.server_name.empty'] = 'Трябва да въведете Етикет на сървъра.';
 $lang['Plesk.!error.api.internal'] = 'Възникнала е вътрешна грешка или сървърът не е отговорил на заявката.';
 $lang['Plesk.!error.simplexml_required'] = 'За този модул се изисква разширението simplexml.';
+$lang['Plesk.service_info.login_unavailable'] = 'Входът не е достъпен';
+$lang['Plesk.tab_client_login.field_login'] = 'Влезте в системата';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Парола';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Потребителско име';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Влезте в Plesk';
+$lang['Plesk.tab_client_login'] = 'Влезте в Plesk';
 

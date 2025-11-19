@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Стаття успішн�
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Категорію успішно видалено.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Категорію успішно оновлено.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Категорія успішно створена.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Оновіть усі підкатегорії та їхні статті';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Оновіть усі статті в цій категорії, щоб зробити їх однаково доступними';
 

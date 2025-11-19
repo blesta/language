@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Das Formular wurde erfolgreich aktua
 $lang['AdminForms.!success.form_delete'] = 'Das Formular wurde erfolgreich gelöscht.';
 $lang['AdminForms.!success.form_added'] = 'Das Formular wurde erfolgreich hinzugefügt.';
 $lang['AdminForms.!success.settings_saved'] = 'Die Einstellungen wurden erfolgreich gespeichert';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Geben Sie bei der Auswahl eines Pakets die monatlichen Kosten für jede Preisoption sowie die monatlichen Einsparungen im Vergleich zum monatlichen Preis an (falls zutreffend).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Monatliche Preisaufschlüsselung anzeigen';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Geben Sie bei der Auswahl eines Pakets die monatlichen Kosten für jede Preisoption sowie die monatlichen Einsparungen im Vergleich zum monatlichen Preis an (falls zutreffend).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Monatliche Preisaufschlüsselung anzeigen';
 

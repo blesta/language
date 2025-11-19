@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Factuur';
 $lang['ClientInvoices.view.page_title'] = 'Factuur #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Downloaden';
+$lang['ClientInvoices.view.balance_due'] = 'Saldo';
+$lang['ClientInvoices.!error.format.invalid'] = 'Het geselecteerde factuurformaat is niet beschikbaar.';
+$lang['ClientInvoices.view.payments_amount'] = 'Toegepast bedrag';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transactie #';
+$lang['ClientInvoices.view.payments_type'] = 'Type';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Datum toegepast';
+$lang['ClientInvoices.view.payments_heading'] = 'Betalingen';
 

@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'Неверный идентифи�
 $lang['Navigation.getcompany.nav_html_templates'] = 'Шаблоны HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Очередь обслуживания';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Изменения в обслуживании';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Электронные счета-фактуры';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Работа с кредитами';
 

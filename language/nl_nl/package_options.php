@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Voer een naam in voor deze optie.';
 $lang['PackageOptions.!error.label.length'] = 'Het label mag niet langer zijn dan 128 tekens.';
 $lang['PackageOptions.!error.label.empty'] = 'Voer een label in.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Of verbergen op factuur moet worden ingesteld op 0 of 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Of de prijsstelling moet worden uitgeschakeld, moet worden ingesteld op 0 of 1.';
 

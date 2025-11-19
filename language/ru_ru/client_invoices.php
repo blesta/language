@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Проформа';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Счет-фактура';
 $lang['ClientInvoices.view.page_title'] = 'Счет-фактура №%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Скачать';
+$lang['ClientInvoices.!error.format.invalid'] = 'Выбранный формат счета-фактуры недоступен.';
+$lang['ClientInvoices.view.balance_due'] = 'Остаток к оплате';
+$lang['ClientInvoices.view.payments_amount'] = 'Примененная сумма';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Транзакция #';
+$lang['ClientInvoices.view.payments_type'] = 'Тип';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Дата подачи заявки';
+$lang['ClientInvoices.view.payments_heading'] = 'Платежи';
 

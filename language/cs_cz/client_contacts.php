@@ -86,4 +86,5 @@ $lang['ClientContacts.!success.contact_deleted'] = 'Kontakt %1$s %2$s byl úspě
 $lang['ClientContacts.tooltip.client_quotations'] = 'Zobrazení nabídek na ovládacím panelu a umožnění jejich schválení nebo zamítnutí.';
 $lang['ClientContacts.edit.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
 $lang['ClientContacts.add.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profilový obrázek';
 

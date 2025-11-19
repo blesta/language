@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_name'] = 'På
 $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_desc'] = 'Meddelelse, der sendes, når en billet ikke har modtaget et svar i en periode.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_name'] = 'Påmindelse om personalebilletter';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_desc'] = 'Meddelelse, der sendes, når en billet ikke har modtaget et svar i en periode.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Meddelelse sendt til kunden, hvor de bliver bedt om at vurdere deres oplevelse med supportbilletten.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Anmodning om billet-feedback';
 

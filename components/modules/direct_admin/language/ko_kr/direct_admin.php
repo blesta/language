@@ -114,4 +114,5 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP 주소';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP 주소가 유효하지 않은 것 같습니다.';
+$lang['DirectAdmin.row_meta.http_version'] = 'HTTP 버전';
 

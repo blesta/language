@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Проформа';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Рахунок-фактура';
 $lang['ClientInvoices.view.page_title'] = 'Рахунок-фактура%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Завантажити';
+$lang['ClientInvoices.!error.format.invalid'] = 'Вибраний формат інвойсу недоступний.';
+$lang['ClientInvoices.view.balance_due'] = 'Залишок до сплати';
+$lang['ClientInvoices.view.payments_amount'] = 'Застосована сума';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Транзакція №';
+$lang['ClientInvoices.view.payments_type'] = 'Тип';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Дата подачі заявки';
+$lang['ClientInvoices.view.payments_heading'] = 'Платежі';
 

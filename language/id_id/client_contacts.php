@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'Saat ini Anda belum memiliki kontak
 $lang['ClientContacts.!success.contact_added'] = 'Kontak berhasil dibuat!';
 $lang['ClientContacts.!success.contact_updated'] = 'Kontak berhasil diperbarui!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Kontak %1$s %2$s berhasil dihapus!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Gambar Profil';
 

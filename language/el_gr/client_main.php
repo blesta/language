@@ -82,4 +82,5 @@ $lang['ClientMain.!success.client_updated'] = 'Οι πληροφορίες το�
 $lang['ClientMain.edit.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Απαιτείται για να ενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων ή να ενημερώσετε τον κωδικό πρόσβασης.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Αυθεντικοποίηση δύο παραγόντων';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Προσθήκη πιστώσεων';
 

@@ -170,4 +170,6 @@ $lang['AdminMain.edit.field_expiration_date'] = 'Промяна на датат�
 $lang['AdminMain.edit.field_registration_date'] = 'Промяна на датата на регистрация';
 $lang['AdminMain.add.text_refresh'] = 'Обновяване';
 $lang['AdminMain.index.tooltip_transferred'] = 'Домейнът е прехвърлен от регистратора.';
+$lang['AdminMain.!success.remove_price_override'] = 'Цената за отменяне на домейна е премахната!';
+$lang['AdminMain.!success.set_price_override'] = 'Цената за отменяне на домейна е актуализирана!';
 

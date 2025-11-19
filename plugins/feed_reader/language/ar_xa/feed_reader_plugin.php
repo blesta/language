@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['FeedReaderPlugin.description'] = 'اعرض أي موجز RSS/أتوم مباشرةً على لوحة التحكم.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'امتداد دوم مطلوب لهذه الإضافة.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'ملحق libxml مطلوب لهذه الإضافة.';
-$lang['FeedReaderPlugin.description'] = 'اعرض أي موجز RSS/أتوم مباشرةً على لوحة التحكم.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

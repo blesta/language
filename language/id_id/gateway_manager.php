@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Versi tidak valid.';
 $lang['GatewayManager.!error.name.valid'] = 'Nama tidak valid.';
 $lang['GatewayManager.!error.class.valid'] = 'Kelas tidak valid.';
 $lang['GatewayManager.!error.company_id.valid'] = 'ID Perusahaan tidak valid.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Gateway ini digunakan sebagai default untuk satu atau beberapa mata uang, mata uang lain harus dipilih sebelum menghapus mata uang tersebut dari gateway ini.';
 

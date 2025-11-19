@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Datum registrace domény
 $lang['AdminMain.!success.change_expiration_date'] = 'Datum vypršení platnosti domény bylo aktualizováno!';
 $lang['AdminMain.add.text_refresh'] = 'Obnovit';
 $lang['AdminMain.index.tooltip_transferred'] = 'Doména byla převedena od registrátora.';
+$lang['AdminMain.!success.remove_price_override'] = 'Cena za přepsání domény byla odstraněna!';
+$lang['AdminMain.!success.set_price_override'] = 'Cena přepisu domény byla aktualizována!';
 

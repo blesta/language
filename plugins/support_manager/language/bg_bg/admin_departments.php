@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Изисква се';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Активиране на свързани услуги';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" (Ескалиране до спешен случай) показва предупредително поле със съобщение и поле за отметка. Ако потребителят постави отметка в квадратчето, билетът автоматично се ескалира до "Спешна помощ", дори ако този приоритет е изключен за отдела. Налична е само когато видимостта е настроена на Само за клиенти.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Позволете на клиентите да изберат услугата, с която е свързан билетът.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Автоматично изпращане на напомняне за обратна връзка';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Секретна информация за клиент/приложение на OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'Идентификатор на клиент/приложение на OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Потребител на OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Доставчик на OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Автоматично изпращане на напомняне за обратна връзка';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Секретна информация за клиент/приложение на OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'Идентификатор на клиент/приложение на OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Потребител на OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Доставчик на OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'За всички билети със статус затворен на клиента ще бъде изпратено напомняне да остави обратна връзка, ако билетът е бил затворен за избрания период от време.';
 

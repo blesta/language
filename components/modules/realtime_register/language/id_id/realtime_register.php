@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Akun';
 $lang['RealtimeRegister.module_row'] = 'Akun';
 $lang['RealtimeRegister.description'] = 'Kami menawarkan 2.000+ TLD dari lebih dari 150 registri, dan terus menambahkan yang baru. Kami menangani pembaruan registri dan semua kebijakan serta prosedur.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Status Domain';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Anda tidak diizinkan untuk mengelola domain ini.';
 

@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Будь ласка, введіть
 $lang['PackageOptions.!error.label.length'] = 'Довжина етикетки не може перевищувати 128 символів.';
 $lang['PackageOptions.!error.label.empty'] = 'Будь ласка, введіть етикетку.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Чи потрібно приховувати інвойс, має бути встановлено на 0 або 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Чи потрібно вимкнути ціноутворення, має бути встановлене значення 0 або 1.';
 

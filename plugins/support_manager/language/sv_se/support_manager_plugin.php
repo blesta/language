@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Ansluts till POP3/IMAP-s
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Ladda ner biljetter';
 $lang['SupportManagerPlugin.description'] = 'Gör det möjligt för användare och personal att öppna och hantera supportärenden.';
 $lang['SupportManagerPlugin.name'] = 'Supportchef';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Inställningar';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Skicka automatiskt ut påminnelser till kunder om att lämna feedback för ärenden som har stängts efter en viss tid.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Skicka påminnelser om feedback';
 

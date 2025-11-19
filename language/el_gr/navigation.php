@@ -125,4 +125,6 @@ $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Μαύρη λίστα';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Πρότυπα HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Ουρά εξυπηρέτησης';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Αλλαγές υπηρεσιών';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Ηλεκτρονικά τιμολόγια';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Χειρισμός πιστώσεων';
 

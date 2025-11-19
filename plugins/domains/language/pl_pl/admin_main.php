@@ -170,4 +170,6 @@ $lang['AdminMain.edit.field_expiration_date'] = 'Zmiana daty wygaśnięcia';
 $lang['AdminMain.!success.change_registration_date'] = 'Data rejestracji domeny została zaktualizowana!';
 $lang['AdminMain.add.text_refresh'] = 'Odświeżanie';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domena została przeniesiona od rejestratora.';
+$lang['AdminMain.!success.remove_price_override'] = 'Cena nadpisania domeny została usunięta!';
+$lang['AdminMain.!success.set_price_override'] = 'Cena zastąpienia domeny została zaktualizowana!';
 

@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Оновлений квиток для персоналу (мобільний)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Повідомлення надсилається співробітнику, коли квиток оновлюється.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Оновлений квиток для персоналу';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Клієнту надіслано повідомлення з проханням оцінити досвід роботи зі зверненням до служби підтримки.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Запит на зворотній зв\'язок щодо квитка';
 

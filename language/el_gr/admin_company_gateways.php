@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Ενημέρωση ρυθμίσεων';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'σε χρήση από';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'προεπιλογή';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'προσθέστε νόμισμα';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Αποδεκτά νομίσματα';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Επιλογές πύλης';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Η πύλη εγκαταστ
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Η πύλη απεγκαταστάθηκε με επιτυχία.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Η πύλη αναβαθμίστηκε με επιτυχία.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Η πύλη ενημερώθηκε με επιτυχία.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Για να ορίσετε τις προεπιλεγμένες πύλες ανά νόμισμα, μεταβείτε στη σελίδα %1$sΕγκατεστημένες πύλες%2$s και κάντε κλικ στο εικονίδιο με το γρανάζι στην επάνω δεξιά γωνία του widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Ενημέρωση';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ορίστε την προεπιλεγμένη εμπορική πύλη για κάθε νόμισμα.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Προεπιλεγμένες πύλες εμπόρων';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Οι προεπιλεγμένες εμπορικές πύλες ενημερώθηκαν επιτυχώς.';
 

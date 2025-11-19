@@ -114,4 +114,5 @@ $lang['DirectAdmin.tab_client_stats.info_heading.value'] = 'Valeur';
 $lang['DirectAdmin.tab_client_stats.no_results'] = 'Aucune information statistique n\'est actuellement disponible.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Adresse IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'L\'adresse IP semble être invalide.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Version HTTP';
 

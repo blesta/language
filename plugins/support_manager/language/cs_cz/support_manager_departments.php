@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vyberte alespoň
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Pouze pro klienty';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalace do stavu nouze';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Zda vyžadovat vyplnění musí být nastaveno na 0 nebo 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

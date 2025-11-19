@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Etkinle
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ağ Geçidi Kısıtlamalarını Etkinleştir';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'İstemcilerin hangi ağ geçitlerini kullanabileceğini sınırlayın. Varsayılan olarak Ağ Geçidi Kısıtlamaları devre dışıdır ve tüm ağ geçitleri kullanılabilir.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Müşteri Grubu';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Şifre Uzunluğu';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Parola Özel Kuralı';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Özel';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Sadece Sayılar';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Sadece Alfa';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Yalnızca Alfanümerik';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Boşluk Yok';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Herhangi Bir Karakter';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Şifre Formatı';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Minimum parola uzunluğunu ayarlayın.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = '"Özel" biçim seçildiğinde parolaları doğrulamak için özel bir düzenli ifade girin. Düzenli ifade minimum bir parola uzunluğu tanımlayabilir.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Parolalarda izin verilen karakter türünü seçin.';
 

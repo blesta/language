@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Alle Aufgaben sind abgeschlossen.';
 $lang['Cron.index.attempt_all'] = 'Es wird versucht, alle Aufgaben für %1$s auszuführen.';
 $lang['Cron.!error.task_execution.failed'] = 'Fehler: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron konnte nicht protokollieren.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Der Aufgabenfilter "exclude" muss ein Array sein.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Der Aufgabenfilter "include" muss ein Array sein.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Der Aufgabenfilter kann nicht gleichzeitig die Schlüssel "einschließen" und "ausschließen" haben.';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Der Aufgabenfilter muss ein JSON-Objekt sein.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Ungültiges JSON im Aufgabenfilterparameter: %1$s';
 

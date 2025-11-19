@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Trimite cereri HTTP automate pe baza even
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Șterge memoria cache a listei observatorilor de evenimente.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Ștergeți memoria cache';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Șterge jurnalele webhook mai vechi decât perioada de păstrare a jurnalelor configurată.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Curățarea jurnalelor Webhook';
 

@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_name'] = 'Rap
 $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_desc'] = 'Avis envoyé lorsqu\'un ticket n\'a pas reçu de réponse pendant un certain temps.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_name'] = 'Rappel concernant les billets pour le personnel';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_desc'] = 'Avis envoyé lorsqu\'un ticket n\'a pas reçu de réponse pendant un certain temps.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Avis envoyé au client lui demandant d\'évaluer son expérience en matière de ticket d\'assistance.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Demande de retour d\'information sur les tickets';
 

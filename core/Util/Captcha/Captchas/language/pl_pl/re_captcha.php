@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'Klucz współdzielony reCaptcha';
-$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'reCaptcha Site Key';
 $lang['ReCaptcha.name'] = 'reCaptcha';
+$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'reCaptcha Site Key';
+$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'Klucz współdzielony reCaptcha';
 

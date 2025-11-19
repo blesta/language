@@ -71,4 +71,12 @@ $lang['ClientPay.received.amount'] = 'Importe';
 $lang['ClientPay.received.invoices'] = 'Factura #';
 $lang['ClientPay.received.text_try_again'] = 'Inténtalo de nuevo';
 $lang['ClientPay.setcontactview.text_none'] = 'Ninguno';
+$lang['ClientPay.method.invoice_balance_due'] = 'Saldo pendiente';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Importe pagado';
+$lang['ClientPay.method.invoice_total'] = 'Total de la factura';
+$lang['ClientPay.index.text_credit_max_only'] = 'Importe máximo: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Importe mínimo: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Importe mínimo: %1$s - Importe máximo: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'El importe del crédito no puede superar %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'El importe del crédito debe ser como mínimo de %1$s.';
 

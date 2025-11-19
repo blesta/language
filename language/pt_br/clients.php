@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Tipo inválido.';
 $lang['Clients.!error.account_id.exists'] = 'ID de conta inválida.';
 $lang['Clients.!error.client_id.exists'] = 'ID de cliente inválido.';
 $lang['Clients.!error.client_group_id.exists'] = 'ID de grupo de clientes inválido.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'O valor máximo do crédito para %1$s deve ser maior do que o valor mínimo.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'O valor máximo de crédito para %1$s deve ser maior que 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'O valor mínimo de crédito para %1$s deve ser maior que 0.';
 

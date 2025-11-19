@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = '通知';
 $lang['AdminMyinfo.gettabnames.text_index'] = '账户';
 $lang['AdminMyinfo.!success.notices_updated'] = '您的通知设置已成功更新。';
 $lang['AdminMyinfo.!success.updated'] = '您的账户设置已成功更新。';
+$lang['AdminMyinfo.index.field_avatar'] = '简介图片';
 

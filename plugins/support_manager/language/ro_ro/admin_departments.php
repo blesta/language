@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Necesar';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Activarea serviciilor conexe';
 $lang['AdminDepartments.!tooltip.type'] = '"Escaladare la urgență" afișează o casetă de alertă cu un mesaj și o casetă de selectare. Dacă utilizatorul bifează caseta de selectare, biletul este trecut automat la "Urgență", chiar dacă această prioritate este dezactivată pentru departament. Disponibil numai atunci când vizibilitatea este setată la Doar client.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permiteți clienților să selecteze un serviciu la care se referă biletul.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Trimiteți automat un memento de feedback';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 Secret client / aplicație';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 Client / ID aplicație';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Utilizator OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Furnizor OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Trimiteți automat un memento de feedback';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 Secret client / aplicație';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client / ID aplicație';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Utilizator OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Furnizor OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Pentru toate tichetele cu starea închis, clientului i se va trimite un memento pentru a-și lăsa feedback-ul dacă tichetul a fost închis pentru perioada de timp selectată.';
 

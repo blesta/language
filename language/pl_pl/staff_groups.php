@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Szablony 
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Usługa zaawansowanej edycji';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Kolejka usług';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Zmiany w usługach';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Obsługa kredytów';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Usuń pole niestandardowe';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Edytuj pole niestandardowe';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Dodaj pole niestandardowe';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Faktury elektroniczne';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Informacje o opcjach pakietu kuponów Fetch';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opcje pakietów kuponów Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista cytatów';
 

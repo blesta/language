@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Andra med
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Påminnelse om domänförfall 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Första meddelandet som skickas till en kund när deras domän snart kommer att upphöra att gälla.';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Påminnelse om domänens utgång 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Meddelande som skickas till en kund när automatisk förnyelse har avaktiverats för deras domän.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Automatisk förnyelse av domän Inaktiverad';
 

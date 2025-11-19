@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Formuläret uppdaterades framgångsr
 $lang['AdminForms.!success.form_delete'] = 'Formuläret har raderats framgångsrikt.';
 $lang['AdminForms.!success.form_added'] = 'Formuläret har lagts till.';
 $lang['AdminForms.!success.settings_saved'] = 'Inställningarna sparades framgångsrikt';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'När du väljer ett paket ska du visa månadskostnaden för varje prisalternativ samt besparingen per månad jämfört med månadspriset (om tillämpligt).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Prisuppdelning för visning per månad';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'När du väljer ett paket ska du visa månadskostnaden för varje prisalternativ samt besparingen per månad jämfört med månadspriset (om tillämpligt).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Prisuppdelning för visning per månad';
 

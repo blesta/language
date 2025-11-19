@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'صفوف الوحدة النمطي�
 $lang['GenericDomains.module_row'] = 'صف الوحدة';
 $lang['GenericDomains.description'] = 'وحدة نمطية عامة لتسجيل النطاق.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'الحفظ';
+$lang['GenericDomains.manage.email_text'] = 'النص';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'البريد الإلكتروني للتجديد';
+$lang['GenericDomains.manage.registration_email'] = 'البريد الإلكتروني للتسجيل';
+$lang['GenericDomains.manage.from_email'] = 'من البريد الإلكتروني';
+$lang['GenericDomains.manage.to_emails'] = 'إلى رسائل البريد الإلكتروني';
+$lang['GenericDomains.manage.notification_settings_title'] = 'إعدادات الإشعارات';
+$lang['GenericDomains.!tooltip.to_emails'] = 'جميع رسائل البريد الإلكتروني للمستلم، مفصولة بفاصلة.';
 

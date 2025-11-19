@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Довжина імені не може
 $lang['Companies.!error.name.empty'] = 'Будь ласка, введіть ім\'я.';
 $lang['Companies.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 $lang['Companies.!error.company_id.in_use'] = 'Ця компанія наразі використовується і не може бути видалена.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Максимальна сума кредиту на сайті %1$s повинна бути більшою за мінімальну.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Максимальна сума кредиту для %1$s повинна бути більшою за 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Мінімальна сума кредиту для %1$s повинна бути більше 0.';
 

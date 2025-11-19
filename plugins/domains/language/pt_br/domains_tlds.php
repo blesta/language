@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'O TLD deve ter pelo menos 3 caracteres
 $lang['DomainsTlds.!error.tld.not_exists'] = 'O TLD não existe na empresa.';
 $lang['DomainsTlds.!error.tld.exists'] = 'O TLD já existe na empresa.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Digite um TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" não é um servidor de nomes válido.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'O módulo selecionado não tem linhas de módulo configuradas. Configure o módulo antes de migrar.';
 

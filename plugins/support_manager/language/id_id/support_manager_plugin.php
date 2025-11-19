@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Menghubungkan ke server 
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Unduh Tiket';
 $lang['SupportManagerPlugin.description'] = 'Memungkinkan pengguna dan staf untuk membuka dan mengelola tiket dukungan.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Pengaturan';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Secara otomatis mengirimkan pengingat kepada klien untuk meninggalkan umpan balik untuk tiket yang telah ditutup setelah jangka waktu tertentu.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Kirim Pengingat Umpan Balik';
 

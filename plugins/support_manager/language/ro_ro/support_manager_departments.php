@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selectați cel p
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Numai client';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Treceți la urgență';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Dacă este necesar ca fișierul să fie setat la 0 sau 1.';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
 

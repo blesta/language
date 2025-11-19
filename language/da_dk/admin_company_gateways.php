@@ -59,6 +59,11 @@ $lang['AdminCompanyGateways.manage.boxtitle_manage'] = 'Administrer %1$s';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Gateway-muligheder';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Accepterede valutaer';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'Tilføj valuta';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'i brug af';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'standard';
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Opdater indstillinger';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Hvis du vil indstille standardgateways pr. valuta, skal du gå til siden %1$sInstalled Gateways%2$s og klikke på tandhjulsikonet øverst til højre i widgetten.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Standard Merchant Gateways';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Opdatering';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Indstil standardhandelsgatewayen for hver valuta.';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Standard handelsgateways er blevet opdateret.';
 

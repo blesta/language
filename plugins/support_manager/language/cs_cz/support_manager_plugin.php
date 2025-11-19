@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Připojí se k serveru P
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Stáhnout vstupenky';
 $lang['SupportManagerPlugin.description'] = 'Umožňuje uživatelům a zaměstnancům otevírat a spravovat tikety podpory.';
 $lang['SupportManagerPlugin.name'] = 'Manažer podpory';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Nastavení';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Automatické rozesílání připomínek klientům, aby zanechali zpětnou vazbu u tiketů, které byly po určité době uzavřeny.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Odesílání připomenutí zpětné vazby';
 

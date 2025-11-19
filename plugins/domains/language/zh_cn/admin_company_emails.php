@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = '当客户
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = '域名到期提醒 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = '当客户的域名即将到期时，向其发送的第一份通知。';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = '域名到期提醒 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = '当客户的域名自动续费被禁用时，向客户发送的通知。';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = '禁用域名自动更新';
 

@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Wymagane';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Włączanie powiązanych usług';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" wyświetla okno alertu z komunikatem i polem wyboru. Jeśli użytkownik zaznaczy pole wyboru, zgłoszenie jest automatycznie eskalowane do "Emergency", nawet jeśli ten priorytet jest wyłączony dla działu. Dostępne tylko wtedy, gdy opcja Widoczność jest ustawiona na Tylko klient.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Umożliwienie klientom wyboru usługi, której dotyczy zgłoszenie.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Automatycznie wysyłaj przypomnienia o opiniach';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Sekret klienta / aplikacji OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'Identyfikator klienta / aplikacji OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Użytkownik OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Dostawca OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Automatycznie wysyłaj przypomnienia o opiniach';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Sekret klienta / aplikacji OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'Identyfikator klienta / aplikacji OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Użytkownik OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Dostawca OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'W przypadku wszystkich zgłoszeń o statusie zamkniętym, przypomnienie o pozostawieniu opinii zostanie wysłane do klienta, jeśli zgłoszenie było zamknięte przez wybrany czas.';
 

@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD trebuie să aibă cel puțin 3 car
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD nu există în cadrul societății.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD există deja în cadrul companiei.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Vă rugăm să introduceți un TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" nu este un server de nume valid.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Modulul selectat nu are rânduri de module configurate. Vă rugăm să configurați modulul înainte de migrare.';
 

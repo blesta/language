@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Wersja jest nieprawidłowa.';
 $lang['GatewayManager.!error.name.valid'] = 'Nazwa jest nieprawidłowa.';
 $lang['GatewayManager.!error.class.valid'] = 'Klasa jest nieprawidłowa.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Identyfikator firmy jest nieprawidłowy.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Ta brama jest używana jako domyślna dla jednej lub więcej walut, przed usunięciem tej waluty z tej bramy należy wybrać inną.';
 

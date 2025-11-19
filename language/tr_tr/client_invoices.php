@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Fatura';
 $lang['ClientInvoices.view.page_title'] = 'Fatura #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'İndir';
+$lang['ClientInvoices.!error.format.invalid'] = 'Seçilen fatura biçimi mevcut değil.';
+$lang['ClientInvoices.view.balance_due'] = 'Ödenmesi Gereken Bakiye';
+$lang['ClientInvoices.view.payments_heading'] = 'Ödemeler';
+$lang['ClientInvoices.view.payments_amount'] = 'Uygulanan Miktar';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'İşlem #';
+$lang['ClientInvoices.view.payments_type'] = 'Tip';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Başvurulan Tarih';
 

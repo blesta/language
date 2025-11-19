@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Podana reguła nie jest prawidłowym
 $lang['Blacklist.!error.type.format'] = 'Typ musi być "ip" lub "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'Podana wtyczka nie istnieje.';
 $lang['Blacklist.!error.rule.exists'] = 'Ta reguła już istnieje w bazie danych.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Reguła bloku wychodzącego musi mieć wartość "1" lub "0".';
 

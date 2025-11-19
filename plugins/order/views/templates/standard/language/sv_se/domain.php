@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'Dölj alla';
 $lang['Domain.lookup.show_all'] = 'Visa alla';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.title'] = 'Kontrollera domänens tillgänglighet';
+$lang['Domain.lookup.load_more_tlds'] = 'Ladda mer';
 

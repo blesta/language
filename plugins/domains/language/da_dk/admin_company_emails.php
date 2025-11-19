@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Påmindel
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Anden meddelelse sendt til en kunde, når deres domæne snart udløber.';
 $lang['AdminCompanyEmails.templates.Domains.domain_expiration_name'] = 'Meddelelse om udløb af domæne';
 $lang['AdminCompanyEmails.templates.Domains.domain_expiration_desc'] = 'Meddelelse sendt til en kunde kort tid efter, at deres domæne er udløbet.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Meddelelse sendt til en kunde, når automatisk fornyelse er blevet deaktiveret for deres domæne.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Automatisk fornyelse af domæne deaktiveret';
 

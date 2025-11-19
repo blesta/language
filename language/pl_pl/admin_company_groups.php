@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s został pomyślnie edy
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s został pomyślnie utworzony!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Dozwolone bramki';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Dozwolone bramki';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Ponowne kolejkowanie faktur do dostarczenia po ich zamknięciu';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Obsługa kredytów';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Ponowne kolejkowanie faktur do dostarczenia po ich zamknięciu';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Obsługa kredytów';
 

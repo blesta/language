@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = '관리';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = '연락처 ID';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = '네임실로의 연락처를 가져와서 블레스타 클라이언트에 연결합니다.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = '풀 네임실로 연락처';
+$lang['Namesilo.notice.default_nameservers'] = '이 기능을 사용하려면 도메인에서 다음 네임 서버를 사용해야 합니다: ns1.dnsowl.com, ns2.dnsowl.com 및 ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = '도메인을 등록할 수 없습니다.';
 

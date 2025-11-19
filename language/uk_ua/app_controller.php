@@ -83,4 +83,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Токен форми недійс
 $lang['AppController.!error.unauthorized_access'] = 'Ви не маєте права доступу до цього ресурсу';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Якщо у вас немає дозволу на доступ до цього ресурсу, зверніться до основного власника облікового запису, щоб отримати доступ';
+$lang['AppController.structure.text_step_up_access'] = 'Наразі у вас відкритий сеанс з доступом до налаштувань адміністратора. Натисніть тут, щоб закрити доступ.';
 

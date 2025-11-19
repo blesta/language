@@ -140,4 +140,8 @@ $lang['AdminForms.settings.text_accepted_payment_types'] = 'Lorsqu\'une personne
 $lang['AdminForms.settings.payments_allowed_cc'] = 'Carte de crédit';
 $lang['AdminForms.settings.payments_allowed_ach'] = 'Chambre de compensation automatisée';
 $lang['AdminForms.settings.field_save'] = 'Sauvegarder les paramètres';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Lors de la sélection d\'un forfait, indiquez le coût mensuel de chaque option tarifaire ainsi que les économies réalisées par mois par rapport au prix mensuel (le cas échéant).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Ventilation des prix mensuels de l\'affichage';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Lors de la sélection d\'un forfait, indiquez le coût mensuel de chaque option tarifaire ainsi que les économies réalisées par mois par rapport au prix mensuel (le cas échéant).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Ventilation des prix mensuels de l\'affichage';
 

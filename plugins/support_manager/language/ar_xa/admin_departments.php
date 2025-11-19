@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'مطلوب';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'تمكين الخدمات ذات الصلة';
 $lang['AdminDepartments.!tooltip.type'] = 'يعرض "التصعيد إلى الطوارئ" مربع تنبيه مع رسالة وخانة اختيار. إذا قام المستخدم بالتحقق من خانة الاختيار، يتم تصعيد التذكرة تلقائياً إلى "الطوارئ"، حتى لو تم تعطيل هذه الأولوية للقسم. متوفر فقط عندما يتم تعيين الرؤية إلى "العميل فقط".';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'السماح للعملاء بتحديد الخدمة التي ترتبط بها التذكرة.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'إرسال تذكير بالملاحظات تلقائياً';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'عميل OAuth 2.0 العميل/التطبيق السري';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'معرّف العميل/معرف التطبيق OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'مستخدم OAuth 2.0 OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'موفر OAuth 2.0 مزود OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'إرسال تذكير بالملاحظات تلقائياً';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'عميل OAuth 2.0 العميل/التطبيق السري';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'معرّف العميل/معرف التطبيق OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'مستخدم OAuth 2.0 OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'موفر OAuth 2.0 مزود OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'بالنسبة لجميع التذاكر التي تحمل حالة مغلقة، سيتم إرسال تذكير بترك ملاحظاتهم إلى العميل إذا كانت التذكرة مغلقة للفترة الزمنية المحددة.';
 

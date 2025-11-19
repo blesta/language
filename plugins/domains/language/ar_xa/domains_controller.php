@@ -19,4 +19,6 @@ $lang['DomainsController.example'] = 'مثال على اللغة';
 $lang['DomainsController.!error.move_error'] = 'تعذر نقل النطاقات المحددة إلى العميل المحدد.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'تغيير تاريخ التسجيل';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'تغيير تاريخ انتهاء الصلاحية';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'إزالة تجاوز السعر';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'تعيين تجاوز السعر المحدد';
 

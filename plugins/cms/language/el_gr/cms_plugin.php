@@ -10,6 +10,7 @@
  */
 
 $lang['CmsPlugin.index.title'] = 'Πύλη πελατών';
-$lang['CmsPlugin.description'] = 'Η Πύλη σας επιτρέπει να ορίσετε το περιεχόμενο της σελίδας που θα εμφανίζεται στη διεύθυνση URL της αρχικής σελίδας του Blesta.';
-$lang['CmsPlugin.name'] = 'Πύλη';
+$lang['CmsPlugin.description'] = 'Το CMS σας επιτρέπει να δημιουργήσετε πρόσθετες σελίδες στο Blesta σας.';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

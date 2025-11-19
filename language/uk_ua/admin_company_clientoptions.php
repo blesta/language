@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Уві�
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Увімкнення обмежень шлюзу';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Обмежте, які шлюзи можуть використовувати клієнти. За замовчуванням обмеження шлюзів вимкнено, і всі шлюзи доступні.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Група клієнтів';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Довжина пароля';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Користувацьке правило для пароля';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Нестандартний';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Тільки цифри';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Тільки Альфа.';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Тільки буквено-цифрові';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Без пробілів';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Будь-які персонажі';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Формат пароля';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Встановіть мінімальну довжину пароля.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Введіть спеціальний регулярний вираз для перевірки паролів, якщо вибрано формат "Спеціальний". Регулярний вираз може визначати мінімальну довжину пароля.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Виберіть тип символів, дозволених у паролі.';
 

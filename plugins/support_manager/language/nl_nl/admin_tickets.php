@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Service';
 $lang['AdminTickets.add.text_no_contacts'] = 'Er zijn geen extra contactpersonen beschikbaar voor de geselecteerde klant.';
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailadres om op de hoogte te worden gebracht wanneer een ticket wordt bijgewerkt.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Contactpersonen die op de hoogte willen worden gebracht wanneer een ticket wordt bijgewerkt. Degenen die niet zijn geselecteerd, worden automatisch toegevoegd aan het ticket als ze erop reageren.';
+$lang['AdminTickets.reply.text_domain'] = 'Domein';
+$lang['AdminTickets.reply.heading_rating'] = 'Beoordeling';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Beoordeling Commentaar';
+$lang['AdminTickets.index.heading_rating'] = 'Beoordeling';
 

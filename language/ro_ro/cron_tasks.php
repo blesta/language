@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Lungimea cheii pentru sarcina cron nu po
 $lang['CronTasks.!error.key.unique'] = 'Cheia de sarcină cron furnizată este deja ocupată.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Elimină din sistem toate jetoanele de resetare a parolei care au depășit data de expirare.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Ștergeți jetoanele de resetare a parolei expirate';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Trimite o notificare tuturor utilizatorilor ale căror niveluri de credit au scăzut sub pragul configurat.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notificări privind soldul scăzut';
 

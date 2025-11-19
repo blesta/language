@@ -84,4 +84,6 @@ $lang['PackageOptions.getfields.label_textarea'] = '%1$s';
 $lang['PackageOptions.getfields.label_textarea_recurring'] = '%1$s (renueva @ %2$s)';
 $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s configuración';
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s instalación (renueva @ %3$s)';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'La opción de ocultar en la factura debe ser 0 o 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'La opción de desactivar la tarificación debe ser 0 ó 1.';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Das Zahlungskonto wurde er
 $lang['ClientAccounts.!success.account_created'] = 'Das Zahlungskonto wurde erfolgreich erstellt.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Das Standardzahlungskonto wurde entfernt.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Das Standardzahlungskonto wurde aktualisiert.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Einstellungen aktualisieren';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Schwellenwert für die Benachrichtigung';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Währung';
+$lang['ClientAccounts.credithandling.text_description'] = 'Konfigurieren Sie Benachrichtigungen bei niedrigem Guthaben. Sie erhalten täglich eine E-Mail, wenn Ihr Guthaben für eine beliebige Währung unter den Schwellenwert fällt.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Kreditbearbeitung';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Kreditbearbeitung';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Die Einstellungen für die Kreditbearbeitung wurden erfolgreich aktualisiert.';
 

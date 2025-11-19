@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Účet';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Nastavení oznámení bylo úspěšně aktualizováno.';
 $lang['AdminMyinfo.!success.updated'] = 'Nastavení vašeho účtu bylo úspěšně aktualizováno.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profilový obrázek';
 

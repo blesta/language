@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Vă rugăm să introduceți un nume
 $lang['PackageOptions.!error.label.length'] = 'Eticheta nu poate avea o lungime mai mare de 128 de caractere.';
 $lang['PackageOptions.!error.label.empty'] = 'Vă rugăm să introduceți o etichetă.';
 $lang['PackageOptions.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Dacă se ascunde pe factură trebuie setat la 0 sau 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Dacă se dezactivează stabilirea prețurilor trebuie setat la 0 sau 1.';
 

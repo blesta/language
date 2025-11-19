@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = '主机名似乎无效。';
 $lang['Plesk.!error.server_name.empty'] = '必须输入服务器标签。';
 $lang['Plesk.!error.api.internal'] = '发生内部错误，或服务器未响应请求。';
 $lang['Plesk.!error.simplexml_required'] = '该模块需要使用 simplexml 扩展名。';
+$lang['Plesk.service_info.login_unavailable'] = '无法登录';
+$lang['Plesk.tab_client_login.field_login'] = '登录';
+$lang['Plesk.tab_client_login.field_plesk_password'] = '密码';
+$lang['Plesk.tab_client_login.field_plesk_username'] = '用户名';
+$lang['Plesk.tab_client_login.logintoplesk'] = '登录 Plesk';
+$lang['Plesk.tab_client_login'] = '登录 Plesk';
 

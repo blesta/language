@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Diperlukan';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Mengaktifkan layanan terkait';
 $lang['AdminDepartments.!tooltip.type'] = '"Eskalasikan ke Darurat" menampilkan kotak peringatan dengan pesan dan kotak centang. Jika pengguna mencentang kotak centang, tiket akan secara otomatis dieskalasi ke "Darurat", meskipun prioritas tersebut dinonaktifkan untuk departemen tersebut. Hanya tersedia ketika Visibilitas diatur ke Hanya Klien.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Izinkan klien untuk memilih layanan yang terkait dengan tiket tersebut.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Mengirimkan Pengingat Umpan Balik Secara Otomatis';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Rahasia Klien / Aplikasi OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 ID Klien / Aplikasi';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Pengguna OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Penyedia OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Mengirimkan Pengingat Umpan Balik Secara Otomatis';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Rahasia Klien / Aplikasi OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 ID Klien / Aplikasi';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Pengguna OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Penyedia OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Untuk semua tiket dengan status ditutup, pengingat untuk meninggalkan umpan balik akan dikirimkan ke klien jika tiket telah ditutup untuk jangka waktu yang dipilih.';
 

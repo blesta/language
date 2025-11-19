@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Baris Modul';
 $lang['GenericDomains.module_row'] = 'Baris Modul';
 $lang['GenericDomains.description'] = 'Modul generik untuk pendaftaran domain.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Simpan';
+$lang['GenericDomains.manage.email_text'] = 'Teks';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Email Perpanjangan';
+$lang['GenericDomains.manage.registration_email'] = 'Email Pendaftaran';
+$lang['GenericDomains.manage.to_emails'] = 'Ke Email';
+$lang['GenericDomains.manage.from_email'] = 'Dari Email';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Pengaturan Pemberitahuan';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Semua email penerima, dipisahkan dengan koma.';
 

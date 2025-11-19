@@ -91,4 +91,11 @@ $lang['ClientAccounts.navigation.nav_dashboard'] = 'Tableau de bord';
 $lang['ClientAccounts.navigation.nav_paymentaccounts'] = 'Comptes de paiement';
 $lang['ClientAccounts.navigation.nav_paymentaccounts_add'] = 'Ajouter un compte de paiement';
 $lang['ClientAccounts.navigation.nav_return'] = 'Retour au tableau de bord';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Mise à jour des paramètres';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Seuil de notification';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Monnaie';
+$lang['ClientAccounts.credithandling.text_description'] = 'Configurer les notifications de solde bas. Vous recevrez un courriel quotidien lorsque votre solde créditeur passera sous le seuil fixé pour n\'importe quelle devise.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Traitement des crédits';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Traitement des crédits';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Les paramètres de gestion des crédits ont été mis à jour avec succès.';
 

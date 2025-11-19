@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Layanan';
 $lang['AdminTickets.add.text_no_contacts'] = 'Tidak ada kontak tambahan yang tersedia untuk klien yang dipilih.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Alamat email yang akan diberitahukan ketika tiket diperbarui.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontak yang akan diberi tahu ketika tiket diperbarui. Mereka yang tidak dipilih akan secara otomatis ditambahkan ke tiket jika mereka merespons.';
+$lang['AdminTickets.reply.text_domain'] = 'Domain';
+$lang['AdminTickets.reply.heading_rating'] = 'Peringkat';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Komentar Penilaian';
+$lang['AdminTickets.index.heading_rating'] = 'Peringkat';
 

@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Счета';
 $lang['RealtimeRegister.module_row'] = 'Счет';
 $lang['RealtimeRegister.description'] = 'Мы предлагаем 2 000+ ДВУ из более чем 150 реестров и постоянно добавляем новые. Мы заботимся об обновлении реестров, а также обо всех политиках и процедурах.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Статус домена';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Вам не разрешено управлять этим доменом.';
 

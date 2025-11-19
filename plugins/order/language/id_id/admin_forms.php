@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Formulir berhasil diperbarui.';
 $lang['AdminForms.!success.form_delete'] = 'Formulir berhasil dihapus.';
 $lang['AdminForms.!success.form_added'] = 'Formulir berhasil ditambahkan.';
 $lang['AdminForms.!success.settings_saved'] = 'Pengaturan berhasil disimpan';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Saat memilih paket, tunjukkan biaya bulanan untuk setiap opsi harga serta penghematan per bulan jika dibandingkan dengan harga bulanan (jika ada).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Menampilkan Perincian Harga Bulanan';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Saat memilih paket, tunjukkan biaya bulanan untuk setiap opsi harga serta penghematan per bulan jika dibandingkan dengan harga bulanan (jika ada).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Menampilkan Perincian Harga Bulanan';
 

@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'Das Paket ist derzeit nicht verfügbar.
 $lang['Config.!error.invalid_pricing_id'] = 'Das angegebene Paket wurde nicht gefunden.';
 $lang['Config.!error.invalid_value_option'] = 'Für %1$s muss ein Wert ausgewählt werden.';
 $lang['Config.!error.invalid_quantity_option'] = 'Der Wert der Option "%1$s" muss zwischen %2$s und %3$s liegen.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (erneuert %3$s) (%4$s/mo %5$s%% Ersparnis!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/mo %4$s%% Ersparnis!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (erneuert %3$s) (%4$s/mo) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/mo)';
 

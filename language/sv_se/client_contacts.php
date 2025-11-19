@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'Du har för närvarande inga kontak
 $lang['ClientContacts.!success.contact_added'] = 'Kontakten har skapats framgångsrikt!';
 $lang['ClientContacts.!success.contact_updated'] = 'Kontakten har uppdaterats framgångsrikt!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Kontakten %1$s %2$s har raderats framgångsrikt!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profilbild';
 

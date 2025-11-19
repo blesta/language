@@ -19,4 +19,7 @@ $lang['Global.action.delete'] = 'Διαγραφή';
 $lang['Global.action.merge'] = 'Συγχώνευση';
 $lang['Global.action.reassign'] = 'Επαναπροσδιορισμός';
 $lang['Global.action.update_status'] = 'Ενημέρωση κατάστασης';
+$lang['Global.services.text_suspended'] = '(Σε αναστολή)';
+$lang['Global.services.text_domain'] = 'Τομέας';
+$lang['Global.services.text_service_none'] = 'Κανένα';
 

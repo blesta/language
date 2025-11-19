@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = '您目前没有任何联系人，�
 $lang['ClientContacts.!success.contact_added'] = '已成功创建联系人！';
 $lang['ClientContacts.!success.contact_updated'] = '联系人已成功更新！';
 $lang['ClientContacts.!success.contact_deleted'] = '联系人 %1$s %2$s 已成功删除！';
+$lang['ClientContacts.contact_info.field_avatar'] = '简介图片';
 

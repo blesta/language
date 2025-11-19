@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Je hebt geen toegang tot di
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
 $lang['AppController.!error.client_unauthorized_access'] = 'Je hebt geen toegang tot deze bron. Neem contact op met de primaire accounthouder om toegang aan te vragen.';
+$lang['AppController.structure.text_step_up_access'] = 'U hebt momenteel een opstapsessie geopend met toegang tot de beheerdersinstellingen. Klik hier om de toegang te laten vervallen.';
 

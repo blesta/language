@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Ange ett namn för detta alternativ
 $lang['PackageOptions.!error.label.length'] = 'Etiketten får inte vara längre än 128 tecken.';
 $lang['PackageOptions.!error.label.empty'] = 'Vänligen ange en etikett.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Huruvida fakturan ska döljas måste anges till 0 eller 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Om prissättning ska inaktiveras måste ställas in på 0 eller 1.';
 

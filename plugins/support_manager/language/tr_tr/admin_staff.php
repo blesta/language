@@ -79,4 +79,7 @@ $lang['AdminStaff.!success.staff_deleted'] = 'Personel üyesi başarıyla silind
 $lang['AdminStaff.!success.staff_updated'] = 'Personel üyesi başarıyla güncellendi.';
 $lang['AdminStaff.!success.staff_added'] = 'Personel üyesi başarıyla eklendi.';
 $lang['AdminStaff.staff.name'] = '%1$s %2$s';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Markdown Editör Modu';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Markdown Editör Modu';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Markdown düzenleyicileri için varsayılan görünüm modunu seçin. WYSIWYG zengin bir metin düzenleyicisi sağlar, Markdown yan yana markdown ve önizlemeyi gösterir ve Markdown - Önizleme Yok yalnızca markdown düzenleyicisini gösterir.';
 

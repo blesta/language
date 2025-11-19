@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Utiliser les adr
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Groupe d\'édition';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Passerelles autorisées';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Passerelles autorisées';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Remettre en file d\'attente les factures à livrer après leur clôture';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Traitement des crédits';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Remettre en file d\'attente les factures à livrer après leur clôture';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Traitement des crédits';
 

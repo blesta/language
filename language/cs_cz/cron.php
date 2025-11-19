@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Všechny úkoly byly splněny.';
 $lang['Cron.index.attempt_all'] = 'Pokus o spuštění všech úloh pro %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Chyba: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron se nepodařilo přihlásit.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Filtr úlohy "exclude" musí být pole.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Filtr úlohy "include" musí být pole.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Filtr úlohy nemůže mít klíče "zahrnout" i "vyloučit".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Filtr úlohy musí být objekt JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Neplatný JSON v parametru filtru úlohy: %1$s';
 

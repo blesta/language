@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = '账户';
 $lang['Namecheap.module_row'] = '账户';
 $lang['Namecheap.description'] = 'Namecheap, Inc. 是 ICANN 认可的域名注册商，提供域名注册和虚拟主机服务。Namecheap 是一家经济型主机服务提供商，拥有 1,100 万注册用户和 1,000 万个域名。';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = '从 Namecheap 自动更新 TLD 列表和定价。';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'TLD 数据同步';
 

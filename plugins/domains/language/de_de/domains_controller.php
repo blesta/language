@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Automatische 
 $lang['DomainsController.!error.move_error'] = 'Die ausgewählten Domains konnten nicht in den ausgewählten Client verschoben werden.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Registrierungsdatum ändern';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Verfallsdatum ändern';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Preisüberschreibung entfernen';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Preisüberschreibung einstellen';
 

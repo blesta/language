@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Konta';
 $lang['Namecheap.module_row'] = 'Konto';
 $lang['Namecheap.description'] = 'Namecheap, Inc. to akredytowany przez ICANN rejestrator nazw domen, który zapewnia rejestrację nazw domen i hosting. Namecheap jest niedrogim dostawcą usług hostingowych z 11 milionami zarejestrowanych użytkowników i 10 milionami domen.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Automatycznie aktualizuje listę TLD i ceny z Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synchronizacja danych TLD';
 

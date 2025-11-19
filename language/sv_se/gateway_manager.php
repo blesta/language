@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Versionen är ogiltig.';
 $lang['GatewayManager.!error.name.valid'] = 'Namnet är ogiltigt.';
 $lang['GatewayManager.!error.class.valid'] = 'Klassen är ogiltig.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Företagets ID är ogiltigt.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Den här gatewayen används som standard för en eller flera valutor, en annan måste väljas innan valutan tas bort från den här gatewayen.';
 

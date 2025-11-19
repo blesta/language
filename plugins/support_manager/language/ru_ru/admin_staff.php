@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Установите этот флажо
 $lang['AdminStaff.!success.staff_deleted'] = 'Сотрудник был успешно удален.';
 $lang['AdminStaff.!success.staff_updated'] = 'Сотрудник был успешно обновлен.';
 $lang['AdminStaff.!success.staff_added'] = 'Сотрудник успешно добавлен.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Режим редактора уценки';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Режим редактора уценки';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Выберите режим просмотра по умолчанию для редакторов разметки. WYSIWYG предоставляет редактор насыщенного текста, Markdown показывает бок о бок разметку и предварительный просмотр, а Markdown - No Preview показывает только редактор разметки.';
 

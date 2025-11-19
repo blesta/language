@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'ID tindakan tidak valid';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Templat HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Antrian Layanan';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Perubahan Layanan';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Faktur Elektronik';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Penanganan Kredit';
 

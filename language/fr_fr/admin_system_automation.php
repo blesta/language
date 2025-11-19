@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.text_cron_currently_running'] = 'Le cron est 
 $lang['AdminSystemAutomation.index.text_update_key'] = 'Mise à jour de la clé Cron';
 $lang['AdminSystemAutomation.index.text_generate_code'] = 'Générer le code';
 $lang['AdminSystemAutomation.index.note_cron_command'] = 'Ceci est un exemple de commande cron qui peut être utilisé pour créer une tâche cron sur votre serveur. Lors de la mise en place de la tâche cron, assurez-vous de mettre à jour la commande cron pour qu\'elle pointe vers l\'endroit où PHP est installé si cela diffère de ce qui est montré dans cet exemple.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Méthode alternative (requête HTTP avec clé Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Exemple de commande Cron pour les requêtes HTTP';
 

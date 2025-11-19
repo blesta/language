@@ -52,4 +52,11 @@ $lang['AdminLogin.!error.captcha.invalid'] = 'Den indtastede captcha var ugyldig
 $lang['AdminLogin.!success.reset_sent'] = 'En bekræftelsesmail er blevet sendt til den registrerede adresse.';
 $lang['AdminLogin.!info.reset_password'] = 'Indtast dit brugernavn nedenfor, og du vil få tilsendt et tidsfølsomt link, så du kan indstille en ny adgangskode.';
 $lang['AdminLogin.!info.otp'] = 'To-faktor-autentificering er påkrævet for denne bruger. Indtast venligst din OTP (engangsadgangskode) nedenfor.';
+$lang['AdminLogin.!info.step_up_otp'] = 'For at kunne fortsætte er det nødvendigt at bekræfte din adgang igen ved at indtaste din OTP (One-time Password) nedenfor.';
+$lang['AdminLogin.!info.step_up'] = 'For at kunne fortsætte er det nødvendigt at bekræfte din adgang igen ved at indtaste din adgangskode nedenfor.';
+$lang['AdminLogin.up.link_cancel'] = 'Annuller';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Bekræft adgang';
+$lang['AdminLogin.up.field_password'] = 'Adgangskode';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verifikation af adgang';
+$lang['AdminLogin.up.page_title'] = 'Verifikation af adgang';
 

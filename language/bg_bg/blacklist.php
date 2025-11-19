@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Предоставеното пра�
 $lang['Blacklist.!error.type.format'] = 'Типът трябва да е "ip" или "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'Дадената приставка не съществува.';
 $lang['Blacklist.!error.rule.exists'] = 'Това правило вече съществува в базата данни.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Правилото за изходящ блок трябва да бъде "1" или "0".';
 

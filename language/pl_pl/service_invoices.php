@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Zawieszenie';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Odnowienie';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Udostępnianie';
 $lang['ServiceInvoices.!error.type.valid'] = 'Nieprawidłowy typ próby.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Zezwalaj tylko na natychmiastowe anulowanie';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Zezwalaj na anulowanie tylko do końca semestru';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Możliwość anulowania natychmiastowego lub na koniec semestru';
 

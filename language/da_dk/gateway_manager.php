@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.name.valid'] = 'Navnet er ugyldigt.';
 $lang['GatewayManager.!error.version.valid'] = 'Versionen er ugyldig.';
 $lang['GatewayManager.!error.currencies[].exists'] = 'Mindst én valuta accepteres ikke af denne gateway.';
 $lang['GatewayManager.!error.currencies[].in_use'] = 'Mindst én valuta bruges i øjeblikket af en anden gateway.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Denne gateway bruges som standard for en eller flere valutaer, og der skal vælges en anden, før den pågældende valuta fjernes fra denne gateway.';
 

@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = 'Alles weergeven';
 $lang['Domain.lookup.domain_placeholder'] = 'uwdomein.nl';
 $lang['Domain.lookup.description'] = 'Begin met het zoeken naar een domein of sla deze stap over door op "Andere artikelen bestellen" te klikken.';
 $lang['Domain.lookup.title'] = 'Controleer domein beschikbaarheid';
+$lang['Domain.lookup.load_more_tlds'] = 'Meer laden';
 

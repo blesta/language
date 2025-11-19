@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'Kód země Alpha3 musí obsahovat 3 a
 $lang['Countries.!error.alpha2.exists'] = 'Neplatný kód alfa2.';
 $lang['Countries.!error.alpha2.in_use'] = 'Kód země Alpha2, %1$s, je již obsazen.';
 $lang['Countries.!error.alpha2.format'] = 'Kód země Alpha2 musí obsahovat 2 alfanumerické znaky.';
+$lang['Countries.!error.format.valid'] = 'Formát země musí být buď "code", nebo "name".';
 

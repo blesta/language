@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = '도메인 등록 날짜�
 $lang['AdminMain.!success.change_expiration_date'] = '도메인 만료일이 업데이트되었습니다!';
 $lang['AdminMain.add.text_refresh'] = '새로 고침';
 $lang['AdminMain.index.tooltip_transferred'] = '도메인이 등록기관에서 이전되었습니다.';
+$lang['AdminMain.!success.remove_price_override'] = '도메인 재정의 가격이 제거되었습니다!';
+$lang['AdminMain.!success.set_price_override'] = '도메인 재정의 가격이 업데이트되었습니다!';
 

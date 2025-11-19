@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Toate sarcinile au fost îndeplinite.';
 $lang['Cron.index.attempt_all'] = 'Încercarea de a rula toate sarcinile pentru %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Eroare: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron nu a reușit să se înregistreze.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Filtrul Task "exclude" trebuie să fie un array.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Filtrul de sarcină "include" trebuie să fie un array.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Filtrul de sarcini nu poate avea ambele chei "include" și "exclude".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Task filter trebuie să fie un obiect JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'JSON invalid în parametrul filtrului sarcinii: %1$s';
 

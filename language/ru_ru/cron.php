@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Все задания были выполн
 $lang['Cron.index.attempt_all'] = 'Попытка выполнить все задания для %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Ошибка: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron не удалось войти в журнал.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Фильтр задачи "exclude" должен быть массивом.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Фильтр задачи "include" должен быть массивом.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Фильтр задач не может иметь ключи "включить" и "исключить".';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Неверный JSON в параметре фильтра задачи: %1$s';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Фильтр задачи должен представлять собой объект JSON.';
 

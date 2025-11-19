@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'لا يجوز أن يتجاوز طول قيمة كل إعداد فردي 255 حرفاً.';
-$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'قد لا يكون مفتاح الإعداد فارغاً.';
 $lang['SystemOverviewSettings.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
+$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'قد لا يكون مفتاح الإعداد فارغاً.';
+$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'لا يجوز أن يتجاوز طول قيمة كل إعداد فردي 255 حرفاً.';
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = 'معرّف الموظف غير صالح.';
 

@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Vereist';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Aanverwante services inschakelen';
 $lang['AdminDepartments.!tooltip.type'] = '"Escaleren naar noodgeval" toont een waarschuwingsvak met een bericht en een selectievakje. Als de gebruiker het selectievakje aanvinkt, wordt het ticket automatisch geëscaleerd naar "Noodgeval", zelfs als die prioriteit is uitgeschakeld voor de afdeling. Alleen beschikbaar als Zichtbaarheid is ingesteld op Alleen klant.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Laat klanten een service selecteren waarop het ticket betrekking heeft.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Automatisch feedbackherinneringen versturen';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 Client / Toepassingsgeheim';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 Client / Toepassings-ID';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0 gebruiker';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0 aanbieder';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Automatisch feedbackherinneringen versturen';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 Client / Toepassingsgeheim';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client / Toepassings-ID';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 gebruiker';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 aanbieder';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Voor alle tickets met de status Gesloten wordt een herinnering om feedback achter te laten naar de klant gestuurd als het ticket al een bepaalde tijd gesloten is.';
 

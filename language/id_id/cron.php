@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Semua tugas telah selesai.';
 $lang['Cron.index.attempt_all'] = 'Mencoba menjalankan semua tugas selama %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Kesalahan: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron gagal melakukan log.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Filter tugas "kecualikan" harus berupa larik.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Filter tugas "include" harus berupa array.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Filter tugas tidak dapat memiliki tombol "sertakan" dan "kecualikan".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Filter tugas harus berupa objek JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'JSON tidak valid dalam parameter filter tugas: %1$s';
 

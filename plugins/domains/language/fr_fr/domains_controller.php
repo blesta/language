@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Modifier le r
 $lang['DomainsController.!error.move_error'] = 'Les domaines sélectionnés n\'ont pas pu être déplacés vers le client sélectionné.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Modifier la date d\'inscription';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modifier la date d\'expiration';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Supprimer la dérogation de prix';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Fixer un prix prioritaire';
 

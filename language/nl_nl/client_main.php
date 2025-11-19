@@ -82,4 +82,5 @@ $lang['ClientMain.!success.client_updated'] = 'Je accountgegevens zijn bijgewerk
 $lang['ClientMain.edit.field_recovery_email'] = 'Herstelmail (optioneel)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Vereist om Authenticatie met twee factoren in te schakelen of het wachtwoord bij te werken.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Authenticatie met twee factoren';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Credits toevoegen';
 

@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Meddelanden';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Konto';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Dina meddelandeinställningar har uppdaterats.';
 $lang['AdminMyinfo.!success.updated'] = 'Dina kontoinställningar har uppdaterats.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profilbild';
 

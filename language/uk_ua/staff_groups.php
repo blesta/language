@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-ша
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Розширений сервіс редагування';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Черга на обслуговування';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Зміни в обслуговуванні';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Обробка кредитів';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Видалити користувацьке поле';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Редагувати користувацьке поле';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Додати користувацьке поле';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Електронні рахунки-фактури';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Отримати інформацію про опцію пакету купонів';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Параметри пакету купонів';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Список цитат';
 

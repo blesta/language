@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Il nome dell\'host sembra non essere va
 $lang['Plesk.!error.server_name.empty'] = 'È necessario inserire un\'etichetta del server.';
 $lang['Plesk.!error.api.internal'] = 'Si è verificato un errore interno o il server non ha risposto alla richiesta.';
 $lang['Plesk.!error.simplexml_required'] = 'L\'estensione simplexml è necessaria per questo modulo.';
+$lang['Plesk.service_info.login_unavailable'] = 'Accesso non disponibile';
+$lang['Plesk.tab_client_login.field_login'] = 'Accedi';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Password';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Nome utente';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Accedere a Plesk';
+$lang['Plesk.tab_client_login'] = 'Accedere a Plesk';
 

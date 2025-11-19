@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Надсилає автоматичні H
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Очищає кеш списку спостерігачів подій.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Очистити кеш';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Видаляє журнали веб-хуків, термін зберігання яких перевищує заданий.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Очищення журналів веб-хуків';
 

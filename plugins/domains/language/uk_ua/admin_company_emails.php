@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Друг�
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Нагадування про закінчення терміну дії домену 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Перше повідомлення, надіслане клієнту, коли термін дії його домену закінчується.';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Нагадування про закінчення терміну дії домену 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Повідомлення, надіслане клієнту, коли для його домену відключено автоматичне продовження.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Автоматичне продовження домену вимкнено';
 

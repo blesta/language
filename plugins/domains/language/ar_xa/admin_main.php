@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'تم تحديث تاري
 $lang['AdminMain.!success.change_expiration_date'] = 'تم تحديث تاريخ انتهاء صلاحية النطاق!';
 $lang['AdminMain.add.text_refresh'] = 'تحديث';
 $lang['AdminMain.index.tooltip_transferred'] = 'تم نقل النطاق من المسجل.';
+$lang['AdminMain.!success.remove_price_override'] = 'تمت إزالة سعر تجاوز النطاق!';
+$lang['AdminMain.!success.set_price_override'] = 'تم تحديث سعر تجاوز النطاق!';
 

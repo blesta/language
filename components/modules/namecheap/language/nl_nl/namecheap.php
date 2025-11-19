@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Rekeningen';
 $lang['Namecheap.module_row'] = 'Account';
 $lang['Namecheap.description'] = 'Namecheap, Inc. is een ICANN-geaccrediteerde domeinnaamregistrar die domeinnaamregistratie en webhosting biedt. Namecheap is een budget hostingprovider met 11 miljoen geregistreerde gebruikers en 10 miljoen domeinen.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Werkt automatisch de TLD-lijst en prijzen van Namecheap bij.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'TLD-gegevenssynchronisatie';
 

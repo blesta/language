@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = '결제 계정이 성공적
 $lang['ClientAccounts.!success.account_created'] = '결제 계정이 성공적으로 생성되었습니다.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = '기본 결제 계정이 제거되었습니다.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = '기본 결제 계정이 업데이트되었습니다.';
+$lang['ClientAccounts.credithandling.field_submit'] = '설정 업데이트';
+$lang['ClientAccounts.credithandling.heading_threshold'] = '알림 임계값';
+$lang['ClientAccounts.credithandling.heading_currency'] = '통화';
+$lang['ClientAccounts.credithandling.text_description'] = '잔액 부족 알림을 구성합니다. 크레딧 잔액이 모든 통화의 기준 금액 미만으로 떨어지면 매일 이메일을 받게 됩니다.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = '신용 처리';
+$lang['ClientAccounts.navigation.nav_credithandling'] = '신용 처리';
+$lang['ClientAccounts.!success.credit_handling_updated'] = '크레딧 처리 설정이 성공적으로 업데이트되었습니다.';
 

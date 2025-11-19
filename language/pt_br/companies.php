@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'O comprimento do nome não pode exceder
 $lang['Companies.!error.name.empty'] = 'Digite um nome.';
 $lang['Companies.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['Companies.!error.company_id.in_use'] = 'Essa empresa está em uso no momento e não pode ser excluída.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'O valor máximo do crédito para %1$s deve ser maior do que o valor mínimo.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'O valor máximo de crédito para %1$s deve ser maior que 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'O valor mínimo de crédito para %1$s deve ser maior que 0.';
 

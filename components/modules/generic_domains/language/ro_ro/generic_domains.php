@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Rânduri de module';
 $lang['GenericDomains.module_row'] = 'Rândul de module';
 $lang['GenericDomains.description'] = 'Un modul generic pentru înregistrarea domeniilor.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Salvați';
+$lang['GenericDomains.manage.email_text'] = 'Text';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'E-mail de reînnoire';
+$lang['GenericDomains.manage.registration_email'] = 'E-mail de înregistrare';
+$lang['GenericDomains.manage.to_emails'] = 'Către e-mailuri';
+$lang['GenericDomains.manage.from_email'] = 'De la e-mail';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Setări de notificare';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Toate e-mailurile destinatarilor, separate prin virgulă.';
 

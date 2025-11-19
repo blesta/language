@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['FeedReaderPlugin.description'] = 'Lihat umpan RSS/Atom langsung di dasbor Anda.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'Ekstensi dom diperlukan untuk plugin ini.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'Ekstensi libxml diperlukan untuk plugin ini.';
-$lang['FeedReaderPlugin.description'] = 'Lihat umpan RSS/Atom langsung di dasbor Anda.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

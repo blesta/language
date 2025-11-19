@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generator rozszerze
 $lang['AdminMerchant.index.page_title'] = 'Generator rozszerzeń - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Zautomatyzowane przetwarzanie przez izbę rozliczeniową przy użyciu danych uwierzytelniających przechowywanych przez podmiot przetwarzający poza siedzibą firmy.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Zautomatyzowane przetwarzanie przez izbę rozliczeniową przy użyciu niezapisanych danych uwierzytelniających lub tych przechowywanych w Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Pozwala to bramie na dostarczenie niestandardowego html dla formularzy kart kredytowych.  Ma to na celu obsługę zewnętrznych kart kredytowych, które mogą korzystać z ramek iframe lub wymagać dodatkowych pól.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Pozwala to bramie na dostarczenie niestandardowego html dla formularzy kart kredytowych. Ma to na celu obsługę zewnętrznych kart kredytowych, które mogą korzystać z ramek iframe lub wymagać dodatkowych pól.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Przetwarzanie kart kredytowych przy użyciu danych uwierzytelniających przechowywanych przez procesora poza siedzibą firmy.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Przetwarzanie kart kredytowych przy użyciu niezapisanych danych uwierzytelniających lub tych przechowywanych w Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH poza siedzibą firmy';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Niestandardowy formularz karty kredytowej';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Karta kredytowa poza siedzibą firmy';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Karta kredytowa';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Pozwala to bramie na dostarczenie niestandardowego html dla formularzy automatycznej izby rozliczeniowej. Ma to na celu wsparcie zautomatyzowanych izb rozliczeniowych, które mogą korzystać z ramek iframe lub wymagać dodatkowych pól.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Niestandardowy formularz ACH';
 

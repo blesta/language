@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'Приховати все';
 $lang['Domain.lookup.show_all'] = 'Показати всі';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.title'] = 'Перевірка доступності домену';
+$lang['Domain.lookup.load_more_tlds'] = 'Завантажити більше';
 

@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Skift automat
 $lang['DomainsController.!error.move_error'] = 'De valgte domæner kunne ikke flyttes til den valgte klient.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Ændre registreringsdato';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Ændre udløbsdato';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Fjern prisoverstyring';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Indstil prisoverstyring';
 

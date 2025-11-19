@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'De TLD moet minstens 3 tekens lang zij
 $lang['DomainsTlds.!error.tld.not_exists'] = 'De TLD bestaat niet in het bedrijf.';
 $lang['DomainsTlds.!error.tld.exists'] = 'De TLD bestaat al in het bedrijf.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Voer een TLD in.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" is geen geldige naamserver.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'De geselecteerde module heeft geen geconfigureerde module rijen. Configureer de module voordat u migreert.';
 

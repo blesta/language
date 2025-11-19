@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD måste vara minst 3 tecken långt.
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD finns inte i företaget.';
 $lang['DomainsTlds.!error.tld.exists'] = 'Toppdomänen finns redan i företaget.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Vänligen ange en TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" är inte en giltig namnserver.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Den valda modulen har inga konfigurerade modulrader. Konfigurera modulen innan du migrerar.';
 

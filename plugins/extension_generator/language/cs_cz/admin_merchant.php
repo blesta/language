@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generátor rozší�
 $lang['AdminMerchant.index.page_title'] = 'Generátor rozšíření - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Automatizované zpracování v clearingovém centru s využitím pověření uložených mimo pracoviště zpracovatele.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Automatizované zpracování clearingového centra pomocí neuložených pověření nebo pověření uložených v systému Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'To umožňuje bráně poskytovat vlastní html pro formuláře kreditních karet.  To je určeno pro podporu kreditních karet mimo web, které mohou používat iframe nebo vyžadovat další pole.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'To umožňuje bráně poskytovat vlastní html pro formuláře kreditních karet. To je určeno pro podporu kreditních karet mimo web, které mohou používat iframe nebo vyžadovat další pole.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Zpracování kreditních karet pomocí pověření uložených mimo pracoviště zpracovatele.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'zpracování kreditních karet pomocí neuložených pověření nebo pověření uložených v systému Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Offsite ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Vlastní formulář kreditní karty';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Kreditní karta Offsite';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Kreditní karta';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'To umožňuje bráně poskytovat vlastní html pro automatizované formuláře clearingových středisek. To je určeno pro podporu automatizovaných clearingových domů, které mohou používat iframe nebo vyžadovat další pole.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Vlastní formulář ACH';
 

@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Πρότ�
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Προηγμένη υπηρεσία επεξεργασίας';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Ουρά εξυπηρέτησης';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Αλλαγές υπηρεσιών';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Χειρισμός πιστώσεων';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Διαγραφή προσαρμοσμένου πεδίου';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Επεξεργασία προσαρμοσμένου πεδίου';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Προσθήκη προσαρμοσμένου πεδίου';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Ηλεκτρονικά τιμολόγια';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Πληροφορίες επιλογής πακέτου κουπονιών Fetch';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Επιλογές πακέτου κουπονιών Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Λίστα εισαγωγικών';
 

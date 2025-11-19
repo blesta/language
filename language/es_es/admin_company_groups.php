@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Aplicar direccio
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Editar Grupo';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Pasarelas permitidas';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Pasarelas permitidas';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Volver a poner en cola las facturas para su entrega una vez cerradas';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Gestión de créditos';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Volver a poner en cola las facturas para su entrega una vez cerradas';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Gestión de créditos';
 

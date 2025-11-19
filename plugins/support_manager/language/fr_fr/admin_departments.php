@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Exigée';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Activer les services connexes';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalader vers l\'urgence" affiche une boîte d\'alerte avec un message et une case à cocher. Si l\'utilisateur coche la case, le ticket est automatiquement escaladé en "Urgence", même si cette priorité est désactivée pour le département. Uniquement disponible lorsque la visibilité est réglée sur Client uniquement.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Permettre aux clients de sélectionner un service auquel le ticket est lié.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Envoi automatique d\'un rappel de retour d\'information';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Secret du client / de l\'application OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'ID du client / de l\'application OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Utilisateur OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Fournisseur OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Envoi automatique d\'un rappel de retour d\'information';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Secret du client / de l\'application OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'ID du client / de l\'application OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Utilisateur OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Fournisseur OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Pour tous les tickets dont le statut est "fermé", un rappel de laisser un commentaire sera envoyé au client si le ticket a été fermé pendant la durée sélectionnée.';
 

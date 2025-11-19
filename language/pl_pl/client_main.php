@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Metoda fakturowania zosta
 $lang['ClientMain.!success.client_updated'] = 'Informacje o koncie zostały pomyślnie zaktualizowane.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Wymagane do włączenia uwierzytelniania dwuskładnikowego lub aktualizacji hasła.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Uwierzytelnianie dwuskładnikowe';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Dodaj kredyty';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ReCaptcha.name'] = 'reCaptcha';
 $lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'reCaptcha-webstedsnøgle';
 $lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'reCaptcha delt nøgle';
-$lang['ReCaptcha.name'] = 'reCaptcha';
 

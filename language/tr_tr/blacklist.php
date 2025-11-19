@@ -16,4 +16,5 @@ $lang['Blacklist.!error.plugin_dir.exists'] = 'Verilen eklenti mevcut değil.';
 $lang['Blacklist.!error.rule.exists'] = 'Bu kural veritabanında zaten mevcuttur.';
 $lang['Blacklist.type.email'] = 'E-posta Adresi';
 $lang['Blacklist.type.ip'] = 'IP Adresi / CIDR';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Blok giden kuralı "1" veya "0" olmalıdır.';
 

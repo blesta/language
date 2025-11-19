@@ -251,4 +251,6 @@ $lang['Namecheap.nameserver.ns3'] = 'Name Server 3';
 $lang['Namecheap.nameserver.ns2'] = 'Name Server 2';
 $lang['Namecheap.nameserver.ns1'] = 'Name Server 1';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Namecheap에서 TLD 목록과 가격을 자동으로 업데이트합니다.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'TLD 데이터 동기화';
 

@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Ändra förny
 $lang['DomainsController.!error.move_error'] = 'De valda domänerna kunde inte flyttas till den valda klienten.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Ändra registreringsdatum';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Ändra utgångsdatum';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Ta bort prisöverstyrning';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Åsidosättande av inställt pris';
 

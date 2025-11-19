@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selezionare alme
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Passare all\'emergenza';
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Solo per i clienti';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Se richiedere l\'archiviazione deve essere impostato su 0 o 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

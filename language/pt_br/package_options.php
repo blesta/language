@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Digite um nome para essa opção.';
 $lang['PackageOptions.!error.label.length'] = 'O rótulo não pode ter mais de 128 caracteres.';
 $lang['PackageOptions.!error.label.empty'] = 'Digite um rótulo.';
 $lang['PackageOptions.!error.company_id.exists'] = 'ID da empresa inválido.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'A opção de ocultar na fatura deve ser definida como 0 ou 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'A desativação do preço deve ser definida como 0 ou 1.';
 

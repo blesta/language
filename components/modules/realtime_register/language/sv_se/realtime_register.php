@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Konton';
 $lang['RealtimeRegister.module_row'] = 'Konto';
 $lang['RealtimeRegister.description'] = 'Vi erbjuder mer än 2 000 toppdomäner från över 150 register och lägger ständigt till nya. Vi tar hand om registeruppdateringar och alla policyer och procedurer.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Domänstatus';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Du har inte rätt att hantera den här domänen.';
 

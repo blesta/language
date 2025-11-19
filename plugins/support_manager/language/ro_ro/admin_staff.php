@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Bifați această casetă pentru ca membr
 $lang['AdminStaff.!success.staff_deleted'] = 'Membrul personalului a fost șters cu succes.';
 $lang['AdminStaff.!success.staff_updated'] = 'Membrul personalului a fost actualizat cu succes.';
 $lang['AdminStaff.!success.staff_added'] = 'Membrul personalului a fost adăugat cu succes.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Modul editor Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Modul editor Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Selectați modul de vizualizare implicit pentru editorii markdown. WYSIWYG oferă un editor de text bogat, Markdown afișează markdown și previzualizare alăturate, iar Markdown - Fără previzualizare afișează doar editorul de markdown.';
 

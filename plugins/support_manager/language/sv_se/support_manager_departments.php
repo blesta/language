@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Välj minst en p
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Endast för kunder';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalera till akutläge';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Om det ska krävas att den arkiverade måste vara inställd på 0 eller 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

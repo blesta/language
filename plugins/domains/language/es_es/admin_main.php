@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Se ha actualizado la fec
 $lang['AdminMain.!success.change_expiration_date'] = 'Se ha actualizado la fecha de expiración del dominio.';
 $lang['AdminMain.add.text_refresh'] = 'Actualizar';
 $lang['AdminMain.index.tooltip_transferred'] = 'El dominio ha sido transferido del registrador.';
+$lang['AdminMain.!success.remove_price_override'] = '¡Se ha eliminado el precio de anulación del dominio!';
+$lang['AdminMain.!success.set_price_override'] = '¡El precio de anulación del dominio ha sido actualizado!';
 

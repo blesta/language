@@ -46,4 +46,9 @@ $lang['Cron.addpaidpendingservices.attempt'] = 'Tentative de mise à disposition
 $lang['Cron.addpaidpendingservices.completed'] = 'La tâche de paiement des services en attente est terminée.';
 $lang['Cron.addpaidpendingservices.service_error'] = 'Le service en attente #%1$s du client #%2$s n\'a pas pu être activé.';
 $lang['Cron.addpaidpendingservices.service_success'] = 'Le service en attente #%1$s du client #%2$s est maintenant actif.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Le filtre de tâche "exclude" doit être un tableau.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Le filtre de tâche "include" doit être un tableau.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Le filtre de tâche ne peut pas avoir les deux clés "include" et "exclude".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Le filtre de tâche doit être un objet JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'JSON non valide dans le paramètre de filtre de tâche : %1$s';
 

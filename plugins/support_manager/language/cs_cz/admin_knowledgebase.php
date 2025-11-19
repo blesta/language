@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Článek byl úspěšně v
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Kategorie byla úspěšně odstraněna.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategorie byla úspěšně aktualizována.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategorie byla úspěšně vytvořena.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Aktualizace všech podkategorií a jejich článků';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Aktualizujte všechny články v této kategorii tak, aby měly stejnou přístupnost.';
 

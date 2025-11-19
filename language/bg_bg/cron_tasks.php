@@ -67,4 +67,6 @@ $lang['CronTasks.!error.dir.length'] = 'Дължината на директор
 $lang['CronTasks.!error.task_type.format'] = 'Невалиден тип задача. Трябва да е модул, приставка или система.';
 $lang['CronTasks.!error.key.length'] = 'Дължината на ключа на задачата cron не може да надвишава 64 символа.';
 $lang['CronTasks.!error.key.unique'] = 'Предоставеният ключ за задачата cron вече е зает.';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Изпраща известие на всички потребители, чиито кредитни нива са паднали под конфигурирания праг.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Известия за нисък баланс';
 

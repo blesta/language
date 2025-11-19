@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'En az bir öncel
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Sadece Müşteri';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Acil Duruma Yükseltme';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Dosyanın 0 veya 1 olarak ayarlanması gerekip gerekmediği.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Si collega al server POP
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Scarica i biglietti';
 $lang['SupportManagerPlugin.description'] = 'Consente agli utenti e al personale di aprire e gestire i ticket di assistenza.';
 $lang['SupportManagerPlugin.name'] = 'Responsabile dell\'assistenza';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Impostazioni';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Inviare automaticamente ai clienti un promemoria per lasciare il loro feedback per i ticket che sono stati chiusi dopo un certo periodo di tempo.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Inviare promemoria di feedback';
 

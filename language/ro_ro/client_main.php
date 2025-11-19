@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Metoda dumneavoastră de 
 $lang['ClientMain.!success.client_updated'] = 'Informațiile contului dvs. au fost actualizate cu succes.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Necesar pentru a activa autentificarea cu doi factori sau pentru a actualiza parola.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autentificare cu doi factori';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Adăugați credite';
 

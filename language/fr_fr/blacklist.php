@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'La règle fournie n\'est pas une adr
 $lang['Blacklist.!error.rule.format_email'] = 'La règle fournie n\'est pas une adresse électronique.';
 $lang['Blacklist.type.ip'] = 'Adresse IP / CIDR';
 $lang['Blacklist.type.email'] = 'Adresse électronique';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'La règle de sortie du bloc doit être "1" ou "0".';
 

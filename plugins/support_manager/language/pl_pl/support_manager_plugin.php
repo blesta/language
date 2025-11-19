@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Łączy się z serwerem 
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Pobierz bilety';
 $lang['SupportManagerPlugin.description'] = 'Umożliwia użytkownikom i pracownikom otwieranie zgłoszeń do pomocy technicznej i zarządzanie nimi.';
 $lang['SupportManagerPlugin.name'] = 'Menedżer wsparcia';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ustawienia';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Automatycznie wysyłaj klientom przypomnienia o pozostawieniu opinii na temat zgłoszeń, które zostały zamknięte po określonym czasie.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Wysyłanie przypomnień o opiniach';
 

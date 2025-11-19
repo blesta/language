@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Servicio';
 $lang['AdminTickets.add.text_no_contacts'] = 'No hay contactos adicionales disponibles para el cliente seleccionado.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Dirección de correo electrónico para recibir una notificación cuando se actualice un ticket.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Contactos a los que se notificará cuando se actualice un ticket. Los no seleccionados se añadirán automáticamente al ticket si responden a él.';
+$lang['AdminTickets.reply.text_domain'] = 'Dominio';
+$lang['AdminTickets.reply.heading_rating'] = 'Clasificación';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Valoración Comentario';
+$lang['AdminTickets.index.heading_rating'] = 'Clasificación';
 

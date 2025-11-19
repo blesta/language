@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.package_pricing.service'] = 'Η τιμολόγηση �
 $lang['DomainsTlds.!error.tld.supported'] = 'Ο παρεχόμενος TLD δεν υποστηρίζεται από την επιλεγμένη μονάδα καταχωρητή.';
 $lang['DomainsTlds.!error.feature.unsupported'] = 'Η λειτουργία %1$s δεν υποστηρίζεται από την επιλεγμένη μονάδα καταχώρισης.';
 $lang['DomainsTlds.getTldFields.group'] = 'Ομάδα';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" δεν είναι έγκυρος διακομιστής ονομάτων.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Η επιλεγμένη μονάδα δεν έχει διαμορφωμένες σειρές μονάδων. Παρακαλούμε διαμορφώστε την ενότητα πριν από τη μετανάστευση.';
 

@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Вашият метод �
 $lang['ClientMain.!success.client_updated'] = 'Информацията за акаунта ви беше успешно актуализирана.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Изисква се, за да се активира двуфакторното удостоверяване или да се актуализира паролата.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двуфакторно удостоверяване на автентичността';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Добавяне на кредити';
 

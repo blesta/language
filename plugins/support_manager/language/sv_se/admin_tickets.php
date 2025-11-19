@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Service';
 $lang['AdminTickets.add.text_no_contacts'] = 'Inga ytterligare kontakter tillgängliga för den valda kunden.';
 $lang['AdminTickets.!tooltip.recipients'] = 'E-postadress för att bli meddelad när en biljett uppdateras.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakter som ska meddelas när ett ärende uppdateras. De som inte har valts läggs automatiskt till i ärendet om de svarar på det.';
+$lang['AdminTickets.reply.text_domain'] = 'Domän';
+$lang['AdminTickets.reply.heading_rating'] = 'Betyg';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Betyg Kommentar';
+$lang['AdminTickets.index.heading_rating'] = 'Betyg';
 

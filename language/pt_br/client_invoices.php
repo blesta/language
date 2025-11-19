@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Fatura';
 $lang['ClientInvoices.view.page_title'] = 'Número da fatura%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Baixar';
+$lang['ClientInvoices.!error.format.invalid'] = 'O formato de fatura selecionado não está disponível.';
+$lang['ClientInvoices.view.balance_due'] = 'Saldo devedor';
+$lang['ClientInvoices.view.payments_amount'] = 'Valor aplicado';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transação #';
+$lang['ClientInvoices.view.payments_type'] = 'Tipo';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Data de aplicação';
+$lang['ClientInvoices.view.payments_heading'] = 'Pagamentos';
 

@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = '无效的操作 ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML 模板';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = '服务队列';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = '服务变化';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = '电子发票';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = '信用处理';
 

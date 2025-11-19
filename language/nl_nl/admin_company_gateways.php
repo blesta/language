@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Instellingen bijwerken';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'in gebruik door';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'standaard';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'valuta toevoegen';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Geaccepteerde valuta';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Gateway-opties';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'De gateway is succesvol geï
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'De gateway is succesvol verwijderd.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'De gateway is succesvol geüpgraded.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'De gateway is succesvol bijgewerkt.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Om standaard gateways per valuta in te stellen, ga je naar de pagina %1$sGeïnstalleerde gateways%2$s en klik je op het tandwielpictogram rechtsboven in de widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Update';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Stel de standaard merchant gateway in voor elke valuta.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Standaard merchant gateways';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'De standaard merchant gateways zijn succesvol bijgewerkt.';
 

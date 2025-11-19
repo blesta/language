@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = '域名注册日期已更
 $lang['AdminMain.!success.change_expiration_date'] = '域名到期日期已更新！';
 $lang['AdminMain.add.text_refresh'] = '刷新';
 $lang['AdminMain.index.tooltip_transferred'] = '域名已从注册商处转移。';
+$lang['AdminMain.!success.remove_price_override'] = '取消了域名覆盖价格！';
+$lang['AdminMain.!success.set_price_override'] = '域名覆盖价格已更新！';
 

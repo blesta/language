@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Uitbreidingsgenerat
 $lang['AdminMerchant.index.page_title'] = 'Uitbreidingsgenerator - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Geautomatiseerde clearing house-verwerking met behulp van credentials die offsite zijn opgeslagen door de verwerker.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Geautomatiseerde clearinghouse-processen met behulp van niet-opgeslagen referenties of referenties die zijn opgeslagen in Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Hiermee kan een gateway aangepaste html bieden voor creditcardformulieren.  Dit is bedoeld om offsite creditcards te ondersteunen die iframes kunnen gebruiken of extra velden nodig hebben.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Hiermee kan een gateway aangepaste html bieden voor creditcardformulieren. Dit is bedoeld om offsite creditcards te ondersteunen die iframes kunnen gebruiken of extra velden nodig hebben.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Creditcardverwerking met behulp van referenties die offsite zijn opgeslagen door de verwerker.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Creditcardverwerking met niet-opgeslagen referenties of referenties die in Blesta zijn opgeslagen.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Offsite ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Aangepast creditcardformulier';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Offsite creditcard';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Creditcard';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Hiermee kan een gateway aangepaste html bieden voor formulieren van geautomatiseerde verrekenbureaus. Dit is bedoeld om off-site geautomatiseerde clearinghuizen te ondersteunen die iframes kunnen gebruiken of extra velden nodig hebben.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Aangepast ACH-formulier';
 

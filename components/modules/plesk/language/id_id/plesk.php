@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Nama host tampaknya tidak valid.';
 $lang['Plesk.!error.server_name.empty'] = 'Anda harus memasukkan Label Server.';
 $lang['Plesk.!error.api.internal'] = 'Terjadi kesalahan internal, atau server tidak merespons permintaan.';
 $lang['Plesk.!error.simplexml_required'] = 'Ekstensi simplexml diperlukan untuk modul ini.';
+$lang['Plesk.service_info.login_unavailable'] = 'Login tidak tersedia';
+$lang['Plesk.tab_client_login.field_login'] = 'Masuk';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Kata sandi';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Nama pengguna';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Masuk ke Plesk';
+$lang['Plesk.tab_client_login'] = 'Masuk ke Plesk';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Forms.index.order_now'] = 'Заказать сейчас';
 $lang['Forms.index.register'] = 'Регистрация';
+$lang['Forms.index.order_now'] = 'Заказать сейчас';
 

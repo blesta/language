@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Свързва се съ
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Изтегляне на билети';
 $lang['SupportManagerPlugin.description'] = 'Позволява на потребителите и служителите да отварят и управляват заявки за поддръжка.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Настройки';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Автоматично изпращайте напомняния на клиентите да оставят обратна връзка за билети, които са били затворени след определен период от време.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Изпращане на напомняния за обратна връзка';
 

@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Instellingen > Systeem > Auto
 $lang['AdminSystemAutomation.!success.cron_key'] = 'De cron sleutel is succesvol bijgewerkt!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'De Automatiseringsinstellingen zijn succesvol bijgewerkt!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Stel een cron-sleutel in.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternatieve methode (HTTP-verzoek met Cron-sleutel)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Voorbeeld van Cron-commando voor HTTP-verzoeken';
 

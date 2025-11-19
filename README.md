@@ -31,4 +31,5 @@ To install these languages, follow the steps:
 | Yкраїнська, UK | uk_ua |
 | Pyccĸий, RU  | ru_ru  |
 | Português, BR  | pt_br  |
+| Português, PT  | pt_pt  |
 | 中文, CN | zh_cn |

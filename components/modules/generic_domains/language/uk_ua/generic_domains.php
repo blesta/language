@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Модульні ряди';
 $lang['GenericDomains.module_row'] = 'Ряд модулів';
 $lang['GenericDomains.description'] = 'Універсальний модуль для реєстрації доменів.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Зберегти';
+$lang['GenericDomains.manage.email_text'] = 'Текст';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Електронна пошта для поновлення';
+$lang['GenericDomains.manage.registration_email'] = 'Адреса електронної пошти для реєстрації';
+$lang['GenericDomains.manage.to_emails'] = 'На електронну пошту';
+$lang['GenericDomains.manage.from_email'] = 'З електронної пошти';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Налаштування сповіщень';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Всі адреси одержувачів через кому.';
 

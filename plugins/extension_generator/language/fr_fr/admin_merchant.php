@@ -16,7 +16,7 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH hors site';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Traitement des cartes de crédit à l\'aide d\'informations d\'identification non stockées ou stockées dans Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Traitement des cartes de crédit à l\'aide d\'informations d\'identification stockées hors site par le processeur.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Cela permet à une passerelle de fournir un code html personnalisé pour les formulaires de carte de crédit.  Cela permet de prendre en charge les cartes de crédit hors site qui peuvent utiliser des iframes ou nécessiter des champs supplémentaires.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Cela permet à une passerelle de fournir un code html personnalisé pour les formulaires de carte de crédit. Cela permet de prendre en charge les cartes de crédit hors site qui peuvent utiliser des iframes ou nécessiter des champs supplémentaires.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Traitement automatisé de la chambre de compensation à l\'aide d\'informations d\'identification non stockées ou stockées dans Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Traitement automatisé par la chambre de compensation à l\'aide d\'informations d\'identification stockées hors site par le processeur.';
 $lang['AdminMerchant.index.page_title'] = 'Générateur d\'extension - %1$s';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.fields.text_remove'] = 'Retirer';
 $lang['AdminMerchant.fields.features'] = 'Suivant - Fonctionnalités prises en charge';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Fonctionnalités prises en charge';
 $lang['AdminMerchant.features.confirm'] = 'Suivant - Confirmation';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Cela permet à une passerelle de fournir un code html personnalisé pour les formulaires des chambres de compensation automatisées. Il s\'agit de soutenir les chambres de compensation automatisées hors site qui peuvent utiliser des iframes ou exiger des champs supplémentaires.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Formulaire ACH personnalisé';
 

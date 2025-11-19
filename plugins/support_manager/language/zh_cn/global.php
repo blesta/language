@@ -19,4 +19,7 @@ $lang['Global.time_since.minute'] = '%1$s 最小';
 $lang['Global.time_since.hour'] = '%1$s hr';
 $lang['Global.time_since.day'] = '%1$s d';
 $lang['Global.select.never'] = '-- 从来没有 --';
+$lang['Global.services.text_suspended'] = '(暂停)';
+$lang['Global.services.text_domain'] = '域名';
+$lang['Global.services.text_service_none'] = '无';
 

@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Nastavení údržby 
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Nastavení GeoIP bylo úspěšně aktualizováno!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Základní nastavení bylo úspěšně aktualizováno!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Adresář pro nahrávání musí existovat a musí být mimo kořenový adresář webu.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir je povolen. Přístup k souborům je omezen na: %1$s. K adresářům mimo tyto cesty nelze přistupovat.';
 

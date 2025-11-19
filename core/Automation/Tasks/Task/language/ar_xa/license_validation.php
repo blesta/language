@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.completed'] = 'اكتملت مهمة التحقق من صحة الترخيص.';
 $lang['Automation.task.license_validation.attempt'] = 'محاولة التحقق من صحة الترخيص.';
+$lang['Automation.task.license_validation.completed'] = 'اكتملت مهمة التحقق من صحة الترخيص.';
 

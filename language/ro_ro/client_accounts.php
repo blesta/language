@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Contul de plată a fost ș
 $lang['ClientAccounts.!success.account_created'] = 'Contul de plată a fost creat cu succes.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Contul de plată implicit a fost eliminat.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Contul de plată implicit a fost actualizat.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Actualizarea setărilor';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Prag de notificare';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Valută';
+$lang['ClientAccounts.credithandling.text_description'] = 'Configurați notificările privind soldul scăzut. Veți primi un e-mail zilnic atunci când soldul creditului dvs. scade sub valoarea prag pentru orice monedă.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Gestionarea creditelor';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Gestionarea creditelor';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Setările de gestionare a creditelor au fost actualizate cu succes.';
 

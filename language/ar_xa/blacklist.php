@@ -16,4 +16,5 @@ $lang['Blacklist.!error.plugin_dir.exists'] = 'المكون الإضافي ال�
 $lang['Blacklist.!error.rule.exists'] = 'هذه القاعدة موجودة بالفعل في قاعدة البيانات.';
 $lang['Blacklist.type.email'] = 'عنوان البريد الإلكتروني';
 $lang['Blacklist.type.ip'] = 'عنوان IP / CIDR';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'يجب أن تكون قاعدة الكتلة الصادرة "1" أو "0".';
 

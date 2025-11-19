@@ -140,4 +140,8 @@ $lang['AdminForms.settings.text_accepted_payment_types'] = 'Όταν κάποι�
 $lang['AdminForms.settings.payments_allowed_cc'] = 'Πιστωτική κάρτα';
 $lang['AdminForms.settings.payments_allowed_ach'] = 'Αυτοματοποιημένος Οίκος Εκκαθάρισης';
 $lang['AdminForms.settings.field_save'] = 'Αποθήκευση ρυθμίσεων';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Όταν επιλέγετε ένα πακέτο, αναφέρετε το μηνιαίο κόστος για κάθε επιλογή τιμολόγησης, καθώς και την εξοικονόμηση ανά μήνα σε σύγκριση με τη μηνιαία τιμή (κατά περίπτωση).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Εμφάνιση μηνιαίας ανάλυσης τιμών';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Όταν επιλέγετε ένα πακέτο, αναφέρετε το μηνιαίο κόστος για κάθε επιλογή τιμολόγησης, καθώς και την εξοικονόμηση ανά μήνα σε σύγκριση με τη μηνιαία τιμή (κατά περίπτωση).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Εμφάνιση μηνιαίας ανάλυσης τιμών';
 

@@ -59,6 +59,11 @@ $lang['AdminCompanyGateways.manage.boxtitle_manage'] = 'Gérer %1$s';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Options de la passerelle';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Devises acceptées';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'ajouter une devise';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'utilisé par';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'par défaut';
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Mise à jour des paramètres';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Pour définir les passerelles par défaut par devise, allez sur la page %1$sInstalled Gateways%2$s et cliquez sur l\'icône en forme de roue dentée en haut à droite du widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Mise à jour';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Définir la passerelle marchande par défaut pour chaque devise.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Passerelles marchandes par défaut';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Les passerelles marchandes par défaut ont été mises à jour avec succès.';
 

@@ -19,4 +19,7 @@ $lang['Global.time_since.minute'] = '%1$s min';
 $lang['Global.time_since.hour'] = '%1$s Stunde';
 $lang['Global.time_since.day'] = '%1$s d';
 $lang['Global.select.never'] = '-- Niemals --';
+$lang['Global.services.text_suspended'] = '(Ausgesetzt)';
+$lang['Global.services.text_domain'] = 'Bereich';
+$lang['Global.services.text_service_none'] = 'Keine';
 

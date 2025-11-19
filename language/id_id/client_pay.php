@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Faktur ini sebelumnya telah dibayar.
 $lang['ClientPay.!success.credit_partial_processed'] = 'Kredit yang tersedia telah digunakan, namun saldo masih ada. Mohon selesaikan transaksi ini dengan membayar sisanya di bawah ini.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Kredit yang tersedia telah diterapkan.';
 $lang['ClientPay.!success.payment_processed'] = 'Pembayaran berhasil diproses untuk %1$s. Nomor Transaksi: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Saldo Jatuh Tempo';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Jumlah yang Dibayarkan';
+$lang['ClientPay.method.invoice_total'] = 'Total Faktur';
+$lang['ClientPay.index.text_credit_max_only'] = 'Jumlah Maksimum: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Jumlah Minimum: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Jumlah Minimum: %1$s - Jumlah Maksimum: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Jumlah kredit tidak boleh melebihi %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Jumlah kredit harus minimal %1$s.';
 

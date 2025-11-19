@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Plantilla
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Servicio de edición avanzada';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Cola de servicio';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Cambios en el servicio';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Gestión de créditos';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Eliminar campo personalizado';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Editar campo personalizado';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Añadir campo personalizado';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Facturas electrónicas';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Información sobre el paquete de cupones Fetch';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opciones del paquete de cupones Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista de citas';
 

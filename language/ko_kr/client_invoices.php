@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = '프로포마';
 $lang['ClientInvoices.view.boxtitle_invoice'] = '인보이스';
 $lang['ClientInvoices.view.page_title'] = '송장 #%1$s';
 $lang['ClientInvoices.index.option_download'] = '다운로드';
+$lang['ClientInvoices.!error.format.invalid'] = '선택한 인보이스 형식을 사용할 수 없습니다.';
+$lang['ClientInvoices.view.balance_due'] = '잔액 마감';
+$lang['ClientInvoices.view.payments_amount'] = '적용된 금액';
+$lang['ClientInvoices.view.payments_transaction_id'] = '거래 #';
+$lang['ClientInvoices.view.payments_type'] = '유형';
+$lang['ClientInvoices.view.payments_applied_date'] = '적용된 날짜';
+$lang['ClientInvoices.view.payments_heading'] = '결제';
 

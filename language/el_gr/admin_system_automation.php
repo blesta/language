@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Ρυθμίσεις > Σύστ
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Το κλειδί cron ενημερώθηκε επιτυχώς!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Οι ρυθμίσεις αυτοματισμού ενημερώθηκαν με επιτυχία!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Παρακαλούμε ορίστε ένα κλειδί cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Εναλλακτική μέθοδος (Αίτημα HTTP με κλειδί Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Παράδειγμα εντολής Cron για αιτήσεις HTTP';
 

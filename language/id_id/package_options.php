@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Masukkan nama untuk opsi ini.';
 $lang['PackageOptions.!error.label.length'] = 'Panjang label tidak boleh melebihi 128 karakter.';
 $lang['PackageOptions.!error.label.empty'] = 'Silakan masukkan label.';
 $lang['PackageOptions.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Apakah akan menyembunyikan faktur harus diatur ke 0 atau 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Apakah akan menonaktifkan harga harus ditetapkan ke 0 atau 1.';
 

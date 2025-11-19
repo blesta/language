@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Het artikel is succesvol a
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'De categorie is succesvol verwijderd.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'De categorie is succesvol bijgewerkt.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'De categorie is succesvol aangemaakt.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Werk alle subcategorieën en hun artikelen bij';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Werk alle artikelen in deze categorie bij zodat ze dezelfde toegankelijkheid hebben';
 

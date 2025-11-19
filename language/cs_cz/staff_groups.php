@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Šablony 
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Služba pokročilých úprav';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Fronta služeb';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Změny služeb';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Zpracování úvěrů';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Odstranění vlastního pole';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Upravit vlastní pole';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Přidání vlastního pole';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektronické faktury';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Získat informace o možnostech balíčku kupónů';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Možnosti balíčku kupónů Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Seznam citací';
 

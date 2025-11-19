@@ -86,4 +86,5 @@ $lang['ClientContacts.!success.contact_deleted'] = 'Η επαφή %1$s %2$s δι
 $lang['ClientContacts.add.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
 $lang['ClientContacts.edit.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
 $lang['ClientContacts.tooltip.client_quotations'] = 'Εμφανίστε τις Προσφορές στο ταμπλό και επιτρέψτε τους να εγκριθούν ή να απορριφθούν.';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Εικόνα προφίλ';
 

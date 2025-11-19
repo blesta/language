@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = '버전이 잘못되었습니다.
 $lang['GatewayManager.!error.name.valid'] = '이름이 잘못되었습니다.';
 $lang['GatewayManager.!error.class.valid'] = '클래스가 유효하지 않습니다.';
 $lang['GatewayManager.!error.company_id.valid'] = '회사 ID가 유효하지 않습니다.';
+$lang['GatewayManager.!error.currencies.not_default'] = '이 게이트웨이가 하나 이상의 통화에 대한 기본값으로 사용 중이므로 이 게이트웨이에서 해당 통화를 제거하기 전에 다른 통화를 선택해야 합니다.';
 

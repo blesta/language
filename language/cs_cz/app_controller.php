@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Nejste oprávněni k přís
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
 $lang['AppController.!error.client_unauthorized_access'] = 'Nemáte oprávnění k přístupu k tomuto zdroji, obraťte se prosím na držitele primárního účtu a požádejte o přístup.';
+$lang['AppController.structure.text_step_up_access'] = 'V současné době máte otevřenou relaci step up s přístupem k nastavení správce. Kliknutím sem přístup zrušíte.';
 

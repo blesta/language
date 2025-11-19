@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Το όνομα κεντρικού υπ
 $lang['Plesk.!error.server_name.empty'] = 'Πρέπει να εισαγάγετε μια ετικέτα διακομιστή.';
 $lang['Plesk.!error.api.internal'] = 'Προέκυψε ένα εσωτερικό σφάλμα ή ο διακομιστής δεν απάντησε στην αίτηση.';
 $lang['Plesk.!error.simplexml_required'] = 'Η επέκταση simplexml απαιτείται για αυτή την ενότητα.';
+$lang['Plesk.service_info.login_unavailable'] = 'Σύνδεση μη διαθέσιμη';
+$lang['Plesk.tab_client_login.field_login'] = 'Συνδεθείτε';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Κωδικός πρόσβασης';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Όνομα χρήστη';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Συνδεθείτε στο Plesk';
+$lang['Plesk.tab_client_login'] = 'Συνδεθείτε στο Plesk';
 

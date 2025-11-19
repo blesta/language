@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.permission.admin_responses'] = 'Απαντήσεις
 $lang['SupportManagerPlugin.permission.admin_staff'] = 'Προσωπικό';
 $lang['SupportManagerPlugin.permission.admin_knowledgebase'] = 'Βάση γνώσεων';
 $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Υπενθυμίσεις';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ρυθμίσεις';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Αυτόματη αποστολή υπενθυμίσεων στους πελάτες για να αφήσουν τα σχόλιά τους για τα εισιτήρια που έχουν κλείσει μετά από ένα συγκεκριμένο χρονικό διάστημα.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Αποστολή υπενθυμίσεων ανατροφοδότησης';
 

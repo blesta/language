@@ -247,4 +247,6 @@ $lang['Namesilo.!success.contact_deleted'] = 'تم حذف جهة الاتصال 
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'معرّف جهة الاتصال';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'يقوم بسحب جهات الاتصال من قائمة الأسماء ويساعدهم مع عملاء blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'اسحب جهات اتصال نامسيلو';
+$lang['Namesilo.notice.default_nameservers'] = 'وتتطلب هذه الميزة أن يستخدم النطاق خوادم الأسماء التالية: ns1.dnsowl.com، وns2.dnsowl.com، وns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'النطاق غير متاح للتسجيل.';
 

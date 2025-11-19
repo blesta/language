@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'ID de acțiune invalid';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Șabloane HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Coada de servicii';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Modificări ale serviciilor';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Facturi electronice';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Gestionarea creditelor';
 

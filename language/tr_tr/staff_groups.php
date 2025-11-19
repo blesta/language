@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML Şab
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Gelişmiş Düzenleme Hizmeti';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Servis Kuyruğu';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Hizmet Değişiklikleri';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Kredi İşlemleri';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Özel Alanı Sil';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Özel Alanı Düzenle';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Özel Alan Ekleme';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektronik Faturalar';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Getir Kupon Paketi Seçenek Bilgisi';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Getir Kupon Paket Seçenekleri';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Alıntıları Listele';
 

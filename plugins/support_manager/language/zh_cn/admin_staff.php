@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = '选中该复选框可让工作人员全�
 $lang['AdminStaff.!success.staff_deleted'] = '已成功删除该工作人员。';
 $lang['AdminStaff.!success.staff_updated'] = '该工作人员已成功更新。';
 $lang['AdminStaff.!success.staff_added'] = '已成功添加该工作人员。';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Markdown 编辑器模式';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Markdown 编辑器模式';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = '选择标记符编辑器的默认视图模式。WYSIWYG 提供富文本编辑器，Markdown 显示并排的标记符和预览，而 Markdown - 无预览仅显示标记符编辑器。';
 

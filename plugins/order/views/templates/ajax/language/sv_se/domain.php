@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = 'Visa alla';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.description'] = 'Börja med att söka efter en domän, eller hoppa över detta steg genom att klicka på "Beställ andra artiklar".';
 $lang['Domain.lookup.title'] = 'Kontrollera domänens tillgänglighet';
+$lang['Domain.lookup.load_more_tlds'] = 'Ladda mer';
 

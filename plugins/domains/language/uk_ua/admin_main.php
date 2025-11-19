@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Оновлено дат�
 $lang['AdminMain.!success.change_expiration_date'] = 'Оновлена дата закінчення терміну дії домену!';
 $lang['AdminMain.add.text_refresh'] = 'Оновити';
 $lang['AdminMain.index.tooltip_transferred'] = 'Домен передано від реєстратора.';
+$lang['AdminMain.!success.remove_price_override'] = 'Ціна перевизначення домену була видалена!';
+$lang['AdminMain.!success.set_price_override'] = 'Оновлена ціна перевизначення домену!';
 

@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = '라이선스 키가 성�
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = '유지 관리 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = '기본 설정 설정이 성공적으로 업데이트되었습니다!';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir이 활성화되었습니다. 파일 액세스는 %1$s. 이 경로를 벗어난 디렉터리에는 액세스할 수 없습니다.';
 

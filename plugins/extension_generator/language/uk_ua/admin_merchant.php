@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Генератор 
 $lang['AdminMerchant.index.page_title'] = 'Генератор розширень - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Автоматизована обробка клірингової палати з використанням облікових даних, що зберігаються процесором за межами майданчика.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Автоматизована обробка клірингового центру з використанням незбережених облікових даних або тих, що зберігаються в Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Це дозволяє шлюзу надавати кастомний html для форм кредитних карток.  Це призначено для підтримки віддалених кредитних карток, які можуть використовувати iframe або вимагати додаткових полів.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Це дозволяє шлюзу надавати кастомний html для форм кредитних карток. Це призначено для підтримки віддалених кредитних карток, які можуть використовувати iframe або вимагати додаткових полів.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Обробка кредитних карток з використанням облікових даних, які зберігаються за межами сайту процесора.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Обробка кредитних карток з використанням незбережених облікових даних або тих, що зберігаються в Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Виїзний ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Індивідуальна форма кредитної картки';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Кредитна картка для виїзду за кордон';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Кредитна картка';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Це дозволяє шлюзу надавати власний html-код для форм автоматизованого координаційного центру. Це призначено для підтримки віддалених автоматизованих клірингових центрів, які можуть використовувати iframe або вимагати додаткових полів.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Спеціальна форма ACH';
 

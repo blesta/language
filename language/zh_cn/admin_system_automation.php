@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = '设置 > 系统 > 自动化';
 $lang['AdminSystemAutomation.!success.cron_key'] = 'cron 密钥已成功更新！';
 $lang['AdminSystemAutomation.!success.automation_updated'] = '自动化设置已成功更新！';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = '请设置 cron 密钥。';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = '替代方法（带 Cron Key 的 HTTP 请求）';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'HTTP 请求的 Cron 命令示例';
 

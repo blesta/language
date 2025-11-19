@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'ID azione non valido';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Modelli HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Coda di servizio';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Modifiche al servizio';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Fatture elettroniche';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Gestione del credito';
 

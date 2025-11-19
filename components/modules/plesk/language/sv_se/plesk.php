@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Värdnamnet verkar vara ogiltigt.';
 $lang['Plesk.!error.server_name.empty'] = 'Du måste ange en serveretikett.';
 $lang['Plesk.!error.api.internal'] = 'Ett internt fel uppstod, eller så svarade inte servern på begäran.';
 $lang['Plesk.!error.simplexml_required'] = 'Tillägget simplexml krävs för denna modul.';
+$lang['Plesk.service_info.login_unavailable'] = 'Inloggning ej tillgänglig';
+$lang['Plesk.tab_client_login.field_login'] = 'Logga in';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Lösenord';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Användarnamn';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Logga in på Plesk';
+$lang['Plesk.tab_client_login'] = 'Logga in på Plesk';
 

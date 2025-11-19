@@ -1,0 +1,131 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.pt_pt
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.!error.ispconfig_password.matches'] = 'A palavra-passe e a palavra-passe de confirmação não correspondem.';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = 'A palavra-passe deve ter pelo menos 8 caracteres.';
+$lang['Ispconfig.!error.ispconfig_username.length'] = 'O nome de utilizador deve ter entre 1 e 16 caracteres.';
+$lang['Ispconfig.!error.ispconfig_username.test'] = 'O nome de utilizador não pode começar por "test".';
+$lang['Ispconfig.!error.ispconfig_username.format'] = 'O nome de utilizador só pode conter letras e números e não pode começar por um número.';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = 'O nome de domínio não pode começar por "test".';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = 'Introduza um nome de domínio válido, por exemplo, domain.com.';
+$lang['Ispconfig.!error.module_row.missing'] = 'Ocorreu um erro interno. A linha do módulo não está disponível.';
+$lang['Ispconfig.!error.api.internal'] = 'Ocorreu um erro interno ou o servidor não respondeu ao pedido.';
+$lang['Ispconfig.!error.meta[package].empty'] = 'É necessário um pacote ISPConfig.';
+$lang['Ispconfig.!error.name_servers_count'] = 'É necessário definir pelo menos 2 servidores de nomes.';
+$lang['Ispconfig.!error.name_servers_valid'] = 'Um ou mais dos servidores de nomes introduzidos são inválidos.';
+$lang['Ispconfig.!error.account_limit_valid'] = 'O Limite da conta deve ser deixado em branco (para contas ilimitadas) ou definido para um valor inteiro.';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = 'Não foi possível estabelecer uma ligação ao servidor. Verifique se o nome do anfitrião, o nome de utilizador e a palavra-passe estão corretos.';
+$lang['Ispconfig.!error.remote_password_valid'] = 'A palavra-passe parece ser inválida.';
+$lang['Ispconfig.!error.user_name_valid'] = 'O nome de utilizador parece ser inválido.';
+$lang['Ispconfig.!error.port_format'] = 'A porta deve ser um número.';
+$lang['Ispconfig.!error.host_name_valid'] = 'O nome do anfitrião parece ser inválido.';
+$lang['Ispconfig.!error.server_name_valid'] = 'É necessário introduzir uma etiqueta de servidor.';
+$lang['Ispconfig.service_field.tooltip.password'] = 'Pode deixar a palavra-passe em branco para que esta seja gerada automaticamente.';
+$lang['Ispconfig.service_field.tooltip.username'] = 'Pode deixar o nome de utilizador em branco para gerar um automaticamente.';
+$lang['Ispconfig.service_info.option_login'] = 'Iniciar sessão';
+$lang['Ispconfig.service_info.options'] = 'Opções';
+$lang['Ispconfig.service_info.server'] = 'Servidor';
+$lang['Ispconfig.service_info.password'] = 'Palavra-passe';
+$lang['Ispconfig.service_info.username'] = 'Nome de utilizador';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = '(%1$s MB/∞)';
+$lang['Ispconfig.tab_client_stats.usage'] = '(%1$s MB/%2$s MB)';
+$lang['Ispconfig.tab_client_stats.disk_title'] = 'Utilização do disco';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = 'Utilização da largura de banda (mês até à data)';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = 'Limite das bases de dados';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'Limite de utilizadores WebDAV';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = 'Limite do domínio do pseudónimo';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = 'Limite de subdomínios';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = 'Limite de domínios Web';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'Limite de utilizadores FTP';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = 'Quota de largura de banda';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = 'Quota Web';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = 'Valor';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = 'Campo';
+$lang['Ispconfig.tab_client_stats.info_title'] = 'Informações';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = 'Atualizar a palavra-passe';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = 'Palavra-passe';
+$lang['Ispconfig.tab_client_actions.change_password'] = 'Alterar a palavra-passe';
+$lang['Ispconfig.tab_stats.info.limit_database'] = 'Limite das bases de dados';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'Limite de utilizadores WebDAV';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = 'Limite do domínio do pseudónimo';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = 'Limite de subdomínios';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = 'Limite de domínios Web';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'Limite de utilizadores FTP';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = 'Quota de largura de banda';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = 'Quota Web';
+$lang['Ispconfig.tab_stats.info_heading.value'] = 'Valor';
+$lang['Ispconfig.tab_stats.info_heading.field'] = 'Campo';
+$lang['Ispconfig.tab_stats.info_title'] = 'Informações';
+$lang['Ispconfig.service_field.password'] = 'Palavra-passe';
+$lang['Ispconfig.service_field.username'] = 'Nome de utilizador';
+$lang['Ispconfig.service_field.domain'] = 'Domínio';
+$lang['Ispconfig.package_fields.ssh_options'] = 'Opções SSH';
+$lang['Ispconfig.package_fields.php_options'] = 'Opções de PHP';
+$lang['Ispconfig.package_fields.package'] = 'Pacote ISPConfig';
+$lang['Ispconfig.row_meta.account_limit'] = 'Limite da conta';
+$lang['Ispconfig.row_meta.use_ssl'] = 'Utilizar SSL ao ligar à API (recomendado)';
+$lang['Ispconfig.row_meta.password'] = 'Palavra-passe';
+$lang['Ispconfig.row_meta.user_name'] = 'Nome do utilizador';
+$lang['Ispconfig.row_meta.default_port'] = '8080';
+$lang['Ispconfig.row_meta.port'] = 'Porto';
+$lang['Ispconfig.row_meta.host_name'] = 'Nome do anfitrião';
+$lang['Ispconfig.row_meta.server_name'] = 'Etiqueta do servidor';
+$lang['Ispconfig.edit_row.add_btn'] = 'Editar servidor';
+$lang['Ispconfig.edit_row.remove_name_server'] = 'Remover';
+$lang['Ispconfig.edit_row.name_server'] = 'Servidor de nomes %1$s';
+$lang['Ispconfig.edit_row.name_server_host_col'] = 'Nome do anfitrião';
+$lang['Ispconfig.edit_row.name_server_col'] = 'Servidor de nomes';
+$lang['Ispconfig.edit_row.name_server_btn'] = 'Adicionar servidor de nomes adicional';
+$lang['Ispconfig.edit_row.notes_title'] = 'Notas';
+$lang['Ispconfig.edit_row.name_servers_title'] = 'Servidores de nomes';
+$lang['Ispconfig.edit_row.basic_title'] = 'Definições básicas';
+$lang['Ispconfig.edit_row.box_title'] = 'Editar o servidor ISPConfig';
+$lang['Ispconfig.add_row.add_btn'] = 'Adicionar servidor';
+$lang['Ispconfig.add_row.remove_name_server'] = 'Remover';
+$lang['Ispconfig.add_row.name_server'] = 'Servidor de nomes %1$s';
+$lang['Ispconfig.add_row.name_server_host_col'] = 'Nome do anfitrião';
+$lang['Ispconfig.add_row.name_server_col'] = 'Servidor de nomes';
+$lang['Ispconfig.add_row.name_server_btn'] = 'Adicionar servidor de nomes adicional';
+$lang['Ispconfig.add_row.notes_title'] = 'Notas';
+$lang['Ispconfig.add_row.name_servers_title'] = 'Servidores de nomes';
+$lang['Ispconfig.add_row.basic_title'] = 'Definições básicas';
+$lang['Ispconfig.add_row.box_title'] = 'Adicionar o servidor ISPConfig';
+$lang['Ispconfig.order_options.roundrobin'] = 'Distribuir uniformemente entre os servidores';
+$lang['Ispconfig.order_options.first'] = 'Primeiro servidor não cheio';
+$lang['Ispconfig.manage.module_groups_no_results'] = 'Não existem grupos de servidores.';
+$lang['Ispconfig.manage.module_rows_no_results'] = 'Não existem servidores.';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = 'Tem a certeza de que pretende eliminar este grupo de servidores?';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = 'Tem a certeza de que pretende apagar este servidor?';
+$lang['Ispconfig.manage.module_groups.delete'] = 'Eliminar';
+$lang['Ispconfig.manage.module_rows.delete'] = 'Eliminar';
+$lang['Ispconfig.manage.module_groups.edit'] = 'Editar';
+$lang['Ispconfig.manage.module_rows.edit'] = 'Editar';
+$lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.manage.module_groups_heading.options'] = 'Opções';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = 'Contagem de servidores';
+$lang['Ispconfig.manage.module_groups_heading.name'] = 'Nome do grupo';
+$lang['Ispconfig.manage.module_rows_heading.options'] = 'Opções';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = 'Contas';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = 'Nome do anfitrião';
+$lang['Ispconfig.manage.module_rows_heading.name'] = 'Etiqueta do servidor';
+$lang['Ispconfig.manage.module_groups_title'] = 'Grupos de servidores';
+$lang['Ispconfig.manage.module_rows_title'] = 'Servidores';
+$lang['Ispconfig.add_module_group'] = 'Adicionar grupo de servidores';
+$lang['Ispconfig.add_module_row'] = 'Adicionar servidor';
+$lang['Ispconfig.tab_client_actions'] = 'Acções';
+$lang['Ispconfig.tab_client_stats'] = 'Estatísticas';
+$lang['Ispconfig.tab_stats'] = 'Estatísticas';
+$lang['Ispconfig.module_group'] = 'Grupo de servidores';
+$lang['Ispconfig.module_row_plural'] = 'Servidores';
+$lang['Ispconfig.module_row'] = 'Servidor';
+$lang['Ispconfig.description'] = 'O ISPConfig 3 é um painel de código aberto para Linux que é capaz de gerir vários servidores a partir de um painel de controlo.';
+$lang['Ispconfig.name'] = 'ISPConfig';
+

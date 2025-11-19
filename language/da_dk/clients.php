@@ -65,4 +65,7 @@ $lang['Clients.getStatusTypes.fraud'] = 'Svindel';
 $lang['Clients.setDebitAccountFailure.note_title'] = 'Automatisk debitering deaktiveret for betalingskonto.';
 $lang['Clients.setDebitAccountFailure.note_body'] = 'Betalingskontoen %1$s, der ender på x%2$s, blev deaktiveret, fordi den overskred det maksimale antal afvisningsforsøg.';
 $lang['Clients.customfield.cf2'] = 'Brugerdefineret felt';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Det maksimale kreditbeløb for %1$s skal være større end minimumsbeløbet.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Det maksimale kreditbeløb for %1$s skal være større end 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Det mindste kreditbeløb for %1$s skal være større end 0.';
 

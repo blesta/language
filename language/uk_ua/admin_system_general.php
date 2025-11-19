@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Ваш ліцензій�
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Налаштування обслуговування було успішно оновлено!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Налаштування GeoIP успішно оновлено!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Налаштування Базового налаштування успішно оновлено!';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir увімкнено. Доступ до файлів обмежено до: %1$s. Доступ до каталогів поза цими шляхами неможливий.';
 

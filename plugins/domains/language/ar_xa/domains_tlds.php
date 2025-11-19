@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'يجب ألا يقل طول TLD عن 3
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD غير موجود في الشركة.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD موجود بالفعل في الشركة.';
 $lang['DomainsTlds.!error.tld.empty'] = 'يُرجى إدخال TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" ليس خادم أسماء صالحًا.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'لا تحتوي الوحدة النمطية المحددة على صفوف وحدة نمطية مكونة. يرجى تكوين الوحدة النمطية قبل الترحيل.';
 

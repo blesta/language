@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Parola';
 $lang['AdminLogin.index.field_username'] = 'Nume utilizator';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Zona personalului';
 $lang['AdminLogin.index.page_title'] = 'Autentificare';
+$lang['AdminLogin.!info.step_up_otp'] = 'Pentru a continua, este necesar să vă verificați din nou accesul prin introducerea parolei OTP (One-time Password) de mai jos.';
+$lang['AdminLogin.!info.step_up'] = 'Pentru a continua, este necesar să vă verificați din nou accesul prin introducerea parolei de mai jos.';
+$lang['AdminLogin.up.link_cancel'] = 'Anulează';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Verificarea accesului';
+$lang['AdminLogin.up.field_password'] = 'Parolă';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verificarea accesului';
+$lang['AdminLogin.up.page_title'] = 'Verificarea accesului';
 

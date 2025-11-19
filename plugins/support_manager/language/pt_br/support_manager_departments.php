@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecione pelo m
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Somente para clientes';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Encaminhar para emergência';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Se a exigência do campo deve ser definida como 0 ou 1.';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
 

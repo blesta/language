@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s foi editado com sucess
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s foi criado com sucesso!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gateways permitidos';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gateways permitidos';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Reenviar faturas para entrega depois que elas forem fechadas';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Manuseio de crédito';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Reenviar faturas para entrega depois que elas forem fechadas';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Manuseio de crédito';
 

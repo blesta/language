@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Den angivna regeln är inte en gilti
 $lang['Blacklist.!error.type.format'] = 'Typen måste vara "ip" eller "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'Det angivna pluginet existerar inte.';
 $lang['Blacklist.!error.rule.exists'] = 'Denna regel finns redan i databasen.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Den utgående blockregeln måste vara "1" eller "0".';
 

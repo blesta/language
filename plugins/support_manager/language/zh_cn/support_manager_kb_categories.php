@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = '公司 ID 无效
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = '该类别不能自成一类。';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = '不得将此类别分配给独立公司的母公司。';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = '父代 ID 无效。';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = '递归更新文章选项的格式无效。';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = '更新文章选项的格式无效。';
 

@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = '顶级域名必须至少有 3 个字�
 $lang['DomainsTlds.!error.tld.not_exists'] = '公司内不存在顶级域名。';
 $lang['DomainsTlds.!error.tld.exists'] = '公司中已经存在顶级域名。';
 $lang['DomainsTlds.!error.tld.empty'] = '请输入顶级域名。';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" 不是有效的命名服务器。';
+$lang['DomainsTlds.!error.module_id.no_rows'] = '所选模块没有配置模块行。请在迁移前配置模块。';
 

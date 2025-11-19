@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Неправильний тип.';
 $lang['Clients.!error.account_id.exists'] = 'Невірний ідентифікатор облікового запису.';
 $lang['Clients.!error.client_id.exists'] = 'Невірний ідентифікатор клієнта.';
 $lang['Clients.!error.client_group_id.exists'] = 'Невірний ідентифікатор групи клієнтів.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Максимальна сума кредиту на сайті %1$s повинна бути більшою за мінімальну.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Максимальна сума кредиту для %1$s повинна бути більшою за 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Мінімальна сума кредиту для %1$s повинна бути більше 0.';
 

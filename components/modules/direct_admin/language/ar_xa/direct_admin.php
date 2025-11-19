@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = 'يبدو أن اسم المضي�
 $lang['DirectAdmin.!error.server_name.empty'] = 'يجب إدخال تسمية الخادم.';
 $lang['DirectAdmin.!error.ip_address.format'] = 'يبدو أن عنوان IP غير صالح.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'عنوان IP';
+$lang['DirectAdmin.row_meta.http_version'] = 'إصدار HTTP';
 

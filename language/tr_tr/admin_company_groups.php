@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s başarıyla düzenlend
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s başarıyla oluşturuldu!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'İzin Verilen Ağ Geçitleri';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'İzin Verilen Ağ Geçitleri';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Faturalar kapatıldıktan sonra teslimat için yeniden talep edin';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Kredi İşlemleri';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Faturalar kapatıldıktan sonra teslimat için yeniden talep edin';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Kredi İşlemleri';
 

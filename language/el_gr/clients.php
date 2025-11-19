@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Μη έγκυρος τύπος.';
 $lang['Clients.!error.account_id.exists'] = 'Μη έγκυρο αναγνωριστικό λογαριασμού.';
 $lang['Clients.!error.client_id.exists'] = 'Μη έγκυρο αναγνωριστικό πελάτη.';
 $lang['Clients.!error.client_group_id.exists'] = 'Μη έγκυρο αναγνωριστικό ομάδας πελατών.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από το ελάχιστο ποσό.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Το ελάχιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
 

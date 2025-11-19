@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceTemplateManager.getpapersizes.a4'] = 'A4';
 $lang['InvoiceTemplateManager.getpapersizes.letter'] = 'Επιστολή';
+$lang['InvoiceTemplateManager.getpapersizes.a4'] = 'A4';
 

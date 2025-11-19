@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD는 3자 이상이어야 합니다.
 $lang['DomainsTlds.!error.tld.not_exists'] = '회사에 TLD가 존재하지 않습니다.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD는 이미 회사에 존재합니다.';
 $lang['DomainsTlds.!error.tld.empty'] = 'TLD를 입력하세요.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s"는 유효한 네임서버가 아닙니다.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = '선택한 모듈에 구성된 모듈 행이 없습니다. 마이그레이션하기 전에 모듈을 구성하세요.';
 

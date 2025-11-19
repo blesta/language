@@ -83,4 +83,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Form belirteci geçersiz.';
 $lang['AppController.!error.unauthorized_access'] = 'Bu kaynağa erişim yetkiniz yok';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Bu kaynağa erişim izniniz yok, erişim talebinde bulunmak için lütfen birincil hesap sahibiyle iletişime geçin';
+$lang['AppController.structure.text_step_up_access'] = 'Şu anda yönetici ayarlarına erişimi olan açık bir yükseltme oturumunuz var. Erişimi bırakmak için buraya tıklayın.';
 

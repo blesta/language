@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Setările de între�
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Setările GeoIP au fost actualizate cu succes!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Setările Basic Setup au fost actualizate cu succes!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Directorul de încărcare trebuie să existe și să fie în afara directorului web rădăcină.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir este activat. Accesul la fișiere este restricționat la: %1$s. Directoarele din afara acestor căi nu pot fi accesate.';
 

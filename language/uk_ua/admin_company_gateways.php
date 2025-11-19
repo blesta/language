@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Оновлення налаштувань';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'у використанні';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'за замовчуванням';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'додати валюту';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Прийняті валюти';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Параметри шлюзу';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Шлюз було успіш
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Шлюз було успішно деінстальовано.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Шлюз було успішно модернізовано.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Шлюз було успішно оновлено.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Щоб встановити шлюзи за замовчуванням для кожної валюти, перейдіть на сторінку %1$sВстановлені шлюзи%2$s і натисніть на значок шестерні у верхньому правому куті віджету.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Оновлення';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Встановіть шлюз продавця за замовчуванням для кожної валюти.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Мерчант-шлюзи за замовчуванням';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Шлюзи продавців за замовчуванням успішно оновлено.';
 

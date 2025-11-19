@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = '悬挂';
 $lang['ServiceInvoices.getattempttypes.renewal'] = '续订';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = '供应';
 $lang['ServiceInvoices.!error.type.valid'] = '尝试类型无效。';
+$lang['ServiceInvoices.getCancelOptions.now'] = '只允许立即取消';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = '只允许在学期末取消';
+$lang['ServiceInvoices.getCancelOptions.both'] = '允许立即或在学期末取消';
 

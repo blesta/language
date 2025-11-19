@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Die Länge des Schlüssels der Cron-Aufg
 $lang['CronTasks.!error.key.unique'] = 'Der angegebene Cron-Task-Schlüssel ist bereits belegt.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Entfernt alle Kennwortrücksetzungs-Tokens, die das Verfallsdatum überschritten haben, aus dem System.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Abgelaufene Token zum Zurücksetzen des Passworts löschen';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Sendet eine Benachrichtigung an alle Benutzer, deren Guthaben unter den konfigurierten Schwellenwert gefallen ist.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Benachrichtigungen bei niedrigem Saldo';
 

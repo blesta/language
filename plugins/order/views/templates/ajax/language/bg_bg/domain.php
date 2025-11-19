@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = 'Покажи всички';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.description'] = 'Започнете с търсене на домейн или пропуснете тази стъпка, като кликнете върху "Поръчай други елементи".';
 $lang['Domain.lookup.title'] = 'Проверете наличността на домейна';
+$lang['Domain.lookup.load_more_tlds'] = 'Заредете повече';
 

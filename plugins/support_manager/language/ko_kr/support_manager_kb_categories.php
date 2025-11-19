@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = '회사 ID가 잘
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = '이 카테고리는 그 자체로 상위 카테고리가 될 수 없습니다.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = '이 카테고리는 별도의 회사에서 부모에게 할당할 수 없습니다.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = '부모 ID가 잘못되었습니다.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = '문서 재귀적으로 업데이트 옵션이 잘못된 형식입니다.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = '문서 업데이트 옵션이 잘못된 형식입니다.';
 

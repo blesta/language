@@ -19,4 +19,6 @@ $lang['DomainsController.example'] = '언어 예시';
 $lang['DomainsController.!error.move_error'] = '선택한 도메인을 선택한 클라이언트로 이동할 수 없습니다.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = '등록 날짜 변경';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = '만료일 변경';
+$lang['DomainsController.getDomainActions.remove_price_override'] = '가격 재정의 제거';
+$lang['DomainsController.getDomainActions.set_price_override'] = '설정 가격 재정의';
 

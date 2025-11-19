@@ -125,4 +125,6 @@ $lang['Navigation.!error.order.valid'] = 'Индексът на поръчкат
 $lang['Navigation.!error.action_id.valid'] = 'Невалиден идентификатор на действието';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Опашка за услуги';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Промени в услугите';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Електронни фактури';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Обработка на кредити';
 

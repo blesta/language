@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'Alpha3-landcode moet bestaan uit 3 al
 $lang['Countries.!error.alpha2.exists'] = 'Ongeldige alpha2-code.';
 $lang['Countries.!error.alpha2.in_use'] = 'Landcode Alpha2, %1$s, is al bezet.';
 $lang['Countries.!error.alpha2.format'] = 'De landcode Alpha2 moet uit 2 alfanumerieke tekens bestaan.';
+$lang['Countries.!error.format.valid'] = 'Het landformaat moet "code" of "naam" zijn.';
 

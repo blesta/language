@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'POP3/IMAP 서버에 연�
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = '티켓 다운로드';
 $lang['SupportManagerPlugin.description'] = '사용자와 스태프가 지원 티켓을 열고 관리할 수 있습니다.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = '설정';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = '일정 기간이 지난 후 종료된 티켓에 대해 피드백을 남기도록 고객에게 자동으로 알림을 보냅니다.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = '피드백 알림 보내기';
 

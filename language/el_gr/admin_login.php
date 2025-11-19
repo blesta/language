@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Κωδικός πρόσβασης';
 $lang['AdminLogin.index.field_username'] = 'Όνομα χρήστη';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Περιοχή προσωπικού';
 $lang['AdminLogin.index.page_title'] = 'Συνδεθείτε';
+$lang['AdminLogin.!info.step_up_otp'] = 'Για να συνεχίσετε, είναι απαραίτητο να επαληθεύσετε εκ νέου την πρόσβασή σας, εισάγοντας τον OTP (One-time Password) παρακάτω.';
+$lang['AdminLogin.!info.step_up'] = 'Για να συνεχίσετε, είναι απαραίτητο να επαληθεύσετε εκ νέου την πρόσβασή σας εισάγοντας τον κωδικό πρόσβασής σας παρακάτω.';
+$lang['AdminLogin.up.link_cancel'] = 'Ακύρωση';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Επαλήθευση πρόσβασης';
+$lang['AdminLogin.up.field_password'] = 'Κωδικός πρόσβασης';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Επαλήθευση πρόσβασης';
+$lang['AdminLogin.up.page_title'] = 'Επαλήθευση πρόσβασης';
 

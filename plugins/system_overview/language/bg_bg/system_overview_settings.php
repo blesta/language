@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Дължината на всяка отделна стойност на настройката не може да надвишава 255 символа.';
-$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ключът за настройка може да не е празен.';
 $lang['SystemOverviewSettings.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
+$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ключът за настройка може да не е празен.';
+$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Дължината на всяка отделна стойност на настройката не може да надвишава 255 символа.';
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = 'Невалиден идентификационен номер на служителя.';
 

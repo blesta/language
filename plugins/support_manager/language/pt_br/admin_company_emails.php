@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Ticket da equipe atualizado (celular)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Aviso enviado a um membro da equipe quando um tíquete é atualizado.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Ticket da equipe atualizado';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Aviso enviado ao cliente solicitando que ele avalie sua experiência com o tíquete de suporte.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Solicitação de feedback de tíquetes';
 

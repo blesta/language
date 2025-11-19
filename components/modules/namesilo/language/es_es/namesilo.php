@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativo';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Contacto ID';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Extrae contactos de namesilo y los asocia con clientes de blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Pull Namesilo Contactos';
+$lang['Namesilo.notice.default_nameservers'] = 'Esta función requiere que el dominio utilice los siguientes servidores de nombres: ns1.dnsowl.com, ns2.dnsowl.com y ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'El dominio no está disponible para su registro.';
 

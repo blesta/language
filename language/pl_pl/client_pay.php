@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Ta faktura została wcześniej opła
 $lang['ClientPay.!success.credit_partial_processed'] = 'Dostępne kredyty zostały zastosowane, ale saldo nadal istnieje. Dokończ transakcję, wpłacając pozostałą kwotę poniżej.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Dostępne kredyty zostały zastosowane.';
 $lang['ClientPay.!success.payment_processed'] = 'Płatność za %1$s została pomyślnie przetworzona. Numer transakcji: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Saldo do zapłaty';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Zapłacona kwota';
+$lang['ClientPay.method.invoice_total'] = 'Faktura Razem';
+$lang['ClientPay.index.text_credit_max_only'] = 'Maksymalna kwota: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Minimalna kwota: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Kwota minimalna: %1$s - Kwota maksymalna: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Kwota kredytu nie może przekroczyć %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Kwota kredytu musi wynosić co najmniej %1$s.';
 

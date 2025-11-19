@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Дължината на името не
 $lang['Companies.!error.name.empty'] = 'Моля, въведете име.';
 $lang['Companies.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
 $lang['Companies.!error.company_id.in_use'] = 'Тази компания се използва в момента и не може да бъде изтрита.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от минималния размер.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Минималният размер на кредита за %1$s трябва да е по-голям от 0.';
 

@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Această factură a fost plătită a
 $lang['ClientPay.!success.credit_partial_processed'] = 'Creditele disponibile au fost aplicate, dar există încă un sold. Vă rugăm să finalizați această tranzacție prin plata restului de mai jos.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Creditele disponibile au fost aplicate.';
 $lang['ClientPay.!success.payment_processed'] = 'Plata a fost procesată cu succes pentru %1$s. Numărul tranzacției: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Sold datorat';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Suma plătită';
+$lang['ClientPay.method.invoice_total'] = 'Total factură';
+$lang['ClientPay.index.text_credit_max_only'] = 'Suma maximă: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Suma minimă: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Suma minimă: %1$s - Suma maximă: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Valoarea creditului nu poate depăși %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Valoarea creditului trebuie să fie de cel puțin %1$s.';
 

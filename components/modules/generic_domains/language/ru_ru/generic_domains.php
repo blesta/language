@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Строки модуля';
 $lang['GenericDomains.module_row'] = 'Ряд модулей';
 $lang['GenericDomains.description'] = 'Общий модуль для регистрации доменов.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Сохранить';
+$lang['GenericDomains.manage.email_text'] = 'Текст';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Электронная почта для продления';
+$lang['GenericDomains.manage.registration_email'] = 'Регистрационный адрес электронной почты';
+$lang['GenericDomains.manage.to_emails'] = 'В электронную почту';
+$lang['GenericDomains.manage.from_email'] = 'Из электронной почты';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Настройки уведомлений';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Все адреса электронной почты получателей, разделенные запятыми.';
 

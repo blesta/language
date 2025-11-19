@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD şirkette mevcut değildir.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD şirkette zaten mevcuttur.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Lütfen bir TLD girin.';
 $lang['DomainsTlds.!error.feature.unsupported'] = '%1$s özelliği seçilen kayıt memuru modülü tarafından desteklenmiyor.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" geçerli bir ad sunucusu değildir.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Seçilen modülün yapılandırılmış modül satırları yok. Lütfen taşımadan önce modülü yapılandırın.';
 

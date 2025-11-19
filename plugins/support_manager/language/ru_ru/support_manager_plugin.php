@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Подключается
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Скачать билеты';
 $lang['SupportManagerPlugin.description'] = 'Позволяет пользователям и сотрудникам открывать и управлять тикетами поддержки.';
 $lang['SupportManagerPlugin.name'] = 'Менеджер по поддержке';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Настройки';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Автоматически отправляйте клиентам напоминания о необходимости оставить отзыв о тикете, который был закрыт через определенный период времени.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Отправляйте напоминания об обратной связи';
 

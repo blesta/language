@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Ativar'
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Ativar restrições de gateway';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limita os gateways que os clientes podem usar. Por padrão, as Gateway Restrictions estão desativadas e todos os gateways estão disponíveis.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Grupo de clientes';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Comprimento da senha';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Regra personalizada de senha';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Personalizado';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Somente números';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Somente alfa';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Somente alfanumérico';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Sem espaços';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Quaisquer caracteres';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Formato da senha';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Defina o comprimento mínimo da senha.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Insira uma expressão regular personalizada para validar as senhas quando o formato "Personalizado" for selecionado. A expressão regular pode definir um tamanho mínimo de senha.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Selecione o tipo de caracteres permitidos nas senhas.';
 

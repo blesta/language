@@ -125,4 +125,6 @@ $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Liste noire';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Modèles HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'File d\'attente de service';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Changements dans les services';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Factures électroniques';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Traitement des crédits';
 

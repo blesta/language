@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Faktura';
 $lang['ClientInvoices.view.page_title'] = 'Faktura #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Nedladdningar';
+$lang['ClientInvoices.!error.format.invalid'] = 'Det valda fakturaformatet är inte tillgängligt.';
+$lang['ClientInvoices.view.balance_due'] = 'Förfallna skulder';
+$lang['ClientInvoices.view.payments_amount'] = 'Tillämpat belopp';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transaktion #';
+$lang['ClientInvoices.view.payments_type'] = 'Typ';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Datum för tillämpning';
+$lang['ClientInvoices.view.payments_heading'] = 'Betalningar';
 

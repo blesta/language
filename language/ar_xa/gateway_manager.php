@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'الإصدار غير صالح.'
 $lang['GatewayManager.!error.name.valid'] = 'الاسم غير صالح.';
 $lang['GatewayManager.!error.class.valid'] = 'الفصل غير صالح.';
 $lang['GatewayManager.!error.company_id.valid'] = 'معرّف الشركة غير صالح.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'يتم استخدام هذه البوابة كعملة افتراضية لعملة واحدة أو أكثر، ويجب تحديد عملة أخرى قبل إزالة تلك العملة من هذه البوابة.';
 

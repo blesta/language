@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'إخفاء الكل';
 $lang['Domain.lookup.show_all'] = 'عرض الكل';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.title'] = 'التحقق من توفر النطاق المتاح';
+$lang['Domain.lookup.load_more_tlds'] = 'تحميل المزيد';
 

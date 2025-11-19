@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Всі завдання були викон
 $lang['Cron.index.attempt_all'] = 'Спроба запустити всі завдання за %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Помилка: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron не зміг зареєструватися.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Фільтр завдання "виключити" повинен бути масивом.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Фільтр завдання "include" повинен бути масивом.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Фільтр завдань не може мати одночасно ключі "включити" і "виключити".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Фільтр завдань повинен бути JSON-об\'єктом.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Неправильний JSON у параметрі фільтрації завдань: %1$s';
 

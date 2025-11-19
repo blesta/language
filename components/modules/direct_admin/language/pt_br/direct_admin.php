@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Você deve inserir um rótulo d
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Endereço IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'O endereço IP parece ser inválido.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Versão HTTP';
 

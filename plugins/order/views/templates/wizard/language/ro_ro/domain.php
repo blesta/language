@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = 'Arată tot';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.description'] = 'Începeți prin a căuta un domeniu sau săriți peste acest pas făcând clic pe "Comandați alte articole".';
 $lang['Domain.lookup.title'] = 'Verificați disponibilitatea domeniului';
+$lang['Domain.lookup.load_more_tlds'] = 'Încărcați mai mult';
 

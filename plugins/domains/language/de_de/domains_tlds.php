@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'Die TLD muss mindestens 3 Zeichen lang
 $lang['DomainsTlds.!error.tld.not_exists'] = 'Die TLD ist im Unternehmen nicht vorhanden.';
 $lang['DomainsTlds.!error.tld.exists'] = 'Die TLD existiert bereits im Unternehmen.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Bitte geben Sie eine TLD ein.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" ist kein gültiger Nameserver.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Das ausgewählte Modul hat keine konfigurierten Modulzeilen. Bitte konfigurieren Sie das Modul vor der Migration.';
 

@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'الإعدادات &gt; ال�
 $lang['AdminSystemAutomation.!success.cron_key'] = 'تم تحديث مفتاح cron بنجاح!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'تم تحديث إعدادات الأتمتة بنجاح!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'يُرجى تعيين مفتاح كرون.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'الطريقة البديلة (طلب HTTP مع مفتاح Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'مثال على أمر Cron لطلبات HTTP';
 

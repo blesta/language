@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Το μήκος του ονόματος
 $lang['Companies.!error.name.empty'] = 'Παρακαλώ εισάγετε ένα όνομα.';
 $lang['Companies.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['Companies.!error.company_id.in_use'] = 'Αυτή η εταιρεία χρησιμοποιείται επί του παρόντος και δεν μπορεί να διαγραφεί.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από το ελάχιστο ποσό.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Το ελάχιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
 

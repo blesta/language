@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = '请为该选项输入名称。';
 $lang['PackageOptions.!error.label.length'] = '标签长度不得超过 128 个字符。';
 $lang['PackageOptions.!error.label.empty'] = '请输入标签。';
 $lang['PackageOptions.!error.company_id.exists'] = '公司 ID 无效。';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = '是否在发票上隐藏必须设置为 0 或 1。';
+$lang['PackageOptions.!error.disable_pricing.valid'] = '是否禁用定价必须设置为 0 或 1。';
 

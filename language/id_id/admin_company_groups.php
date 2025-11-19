@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s telah berhasil diedit!
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s telah berhasil dibuat!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gerbang yang Diizinkan';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gerbang yang Diizinkan';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Minta faktur untuk pengiriman setelah faktur ditutup';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Penanganan Kredit';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Minta faktur untuk pengiriman setelah faktur ditutup';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Penanganan Kredit';
 

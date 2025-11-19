@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Ungültiger Typ.';
 $lang['Clients.!error.account_id.exists'] = 'Ungültige Konto-ID.';
 $lang['Clients.!error.client_id.exists'] = 'Ungültige Client-ID.';
 $lang['Clients.!error.client_group_id.exists'] = 'Ungültige Kundengruppen-ID.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Der maximale Kreditbetrag für %1$s muss größer sein als der Mindestbetrag.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Der maximale Kreditbetrag für %1$s muss größer als 0 sein.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Der Mindestkreditbetrag für %1$s muss größer als 0 sein.';
 

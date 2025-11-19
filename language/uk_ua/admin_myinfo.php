@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Повідомлення';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Обліковий запис';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Ваші налаштування сповіщень успішно оновлено.';
 $lang['AdminMyinfo.!success.updated'] = 'Налаштування вашого облікового запису успішно оновлено.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Зображення профілю';
 

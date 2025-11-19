@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Επιλέξτε
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Μόνο για πελάτες';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Κλιμάκωση σε κατάσταση έκτακτης ανάγκης';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Εάν απαιτείται το αρχείο πρέπει να είναι 0 ή 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

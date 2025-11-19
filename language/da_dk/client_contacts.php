@@ -86,4 +86,5 @@ $lang['ClientContacts.navigation.nav_return'] = 'Tilbage til instrumentbrættet'
 $lang['ClientContacts.add.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
 $lang['ClientContacts.edit.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
 $lang['ClientContacts.tooltip.client_quotations'] = 'Vis tilbud på dashboardet, og lad dem blive godkendt eller afvist.';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profilbillede';
 

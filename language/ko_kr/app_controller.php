@@ -83,4 +83,5 @@ $lang['AppController.!error.invalid_csrf'] = '양식 토큰이 유효하지 않�
 $lang['AppController.!error.unauthorized_access'] = '해당 리소스에 액세스할 수 있는 권한이 없습니다.';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = '해당 리소스에 액세스할 수 있는 권한이 없는 경우 기본 계정 소유자에게 연락하여 액세스 권한을 요청하세요.';
+$lang['AppController.structure.text_step_up_access'] = '현재 관리자 설정에 액세스할 수 있는 스텝업 세션이 열려 있습니다. 액세스 권한을 삭제하려면 여기를 클릭하세요.';
 

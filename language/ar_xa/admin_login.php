@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'كلمة المرور';
 $lang['AdminLogin.index.field_username'] = 'اسم المستخدم';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | منطقة الموظفين';
 $lang['AdminLogin.index.page_title'] = 'تسجيل الدخول';
+$lang['AdminLogin.!info.step_up_otp'] = 'من أجل المتابعة، من الضروري التحقق من دخولك مرة أخرى عن طريق إدخال كلمة المرور لمرة واحدة (OTP) أدناه.';
+$lang['AdminLogin.!info.step_up'] = 'للمتابعة، من الضروري التحقق من دخولك مرة أخرى عن طريق إدخال كلمة المرور أدناه.';
+$lang['AdminLogin.up.link_cancel'] = 'إلغاء';
+$lang['AdminLogin.up.field_loginsubmit'] = 'التحقق من الوصول';
+$lang['AdminLogin.up.field_password'] = 'كلمة المرور';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | التحقق من الوصول';
+$lang['AdminLogin.up.page_title'] = 'التحقق من الوصول';
 

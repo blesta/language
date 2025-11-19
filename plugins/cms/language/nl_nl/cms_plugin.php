@@ -10,6 +10,7 @@
  */
 
 $lang['CmsPlugin.index.title'] = 'Klantenportaal';
-$lang['CmsPlugin.description'] = 'Met het portaal kunt u instellen dat de inhoud van de pagina wordt weergegeven op de homepage-URL van Blesta.';
-$lang['CmsPlugin.name'] = 'Portaal';
+$lang['CmsPlugin.description'] = 'Met het CMS kun je extra pagina\'s maken in je Blesta.';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

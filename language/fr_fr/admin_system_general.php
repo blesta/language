@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Définition de la langue d\'utilisation';
 $lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Modifier le type de paiement';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Le répertoire de téléchargement doit exister et se trouver en dehors du répertoire web racine.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir est activé. L\'accès aux fichiers est limité à : %1$s. Les répertoires situés en dehors de ces chemins ne sont pas accessibles.';
 

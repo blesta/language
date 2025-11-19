@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'تم تحديث مفتا
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'تم تحديث إعدادات الصيانة بنجاح!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'تم تحديث إعدادات GeoIP بنجاح!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'تم تحديث إعدادات الإعداد الأساسي بنجاح!';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'تم تمكين PHP open_basedir. يقتصر الوصول إلى الملفات على: %1$s. لا يمكن الوصول إلى الدلائل خارج هذه المسارات.';
 

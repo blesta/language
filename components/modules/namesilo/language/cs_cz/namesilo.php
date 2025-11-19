@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativní';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Kontaktní ID';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Přebírá kontakty ze služby namesilo a přiřazuje je ke klientům služby blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Vytáhnout kontakty Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Tato funkce vyžaduje, aby doména používala následující jmenné servery: ns1.dnsowl.com, ns2.dnsowl.com a ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Doména není k dispozici k registraci.';
 

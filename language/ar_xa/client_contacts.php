@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'ليس لديك حالياً أي �
 $lang['ClientContacts.!success.contact_added'] = 'تم إنشاء جهة الاتصال بنجاح!';
 $lang['ClientContacts.!success.contact_updated'] = 'تم تحديث جهة الاتصال بنجاح!';
 $lang['ClientContacts.!success.contact_deleted'] = 'تم حذف جهة الاتصال %1$s %2$s بنجاح!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'صورة الملف الشخصي';
 

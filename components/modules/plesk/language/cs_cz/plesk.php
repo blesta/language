@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'Název hostitele se zdá být neplatný
 $lang['Plesk.!error.server_name.empty'] = 'Je třeba zadat označení serveru.';
 $lang['Plesk.!error.api.internal'] = 'Došlo k interní chybě nebo server na požadavek neodpověděl.';
 $lang['Plesk.!error.simplexml_required'] = 'Pro tento modul je vyžadováno rozšíření simplexml.';
+$lang['Plesk.service_info.login_unavailable'] = 'Přihlášení není k dispozici';
+$lang['Plesk.tab_client_login.field_login'] = 'Přihlášení';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Heslo';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Uživatelské jméno';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Přihlášení do systému Plesk';
+$lang['Plesk.tab_client_login'] = 'Přihlášení do systému Plesk';
 

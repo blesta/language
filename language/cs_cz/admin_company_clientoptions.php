@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Povolit
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Povolení omezení brány';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Omezit, které brány mohou klienti používat. Ve výchozím nastavení jsou omezení brány vypnuta a všechny brány jsou dostupné.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Skupina klientů';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Délka hesla';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Vlastní pravidlo pro heslo';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Vlastní';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Pouze čísla';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Pouze Alfa';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Pouze alfanumerické';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Jakékoli znaky';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Žádná místa';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Formát hesla';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Nastavení minimální délky hesla.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Zadejte vlastní regulární výraz pro ověřování hesel, pokud je vybrán formát "Vlastní". Regulární výraz může definovat minimální délku hesla.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Vyberte typ znaků povolených v heslech.';
 

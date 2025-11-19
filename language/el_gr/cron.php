@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Όλες οι εργασίες έχουν �
 $lang['Cron.index.attempt_all'] = 'Προσπάθεια εκτέλεσης όλων των εργασιών για %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Σφάλμα: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Το Cron απέτυχε να καταγράψει.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Το φίλτρο εργασιών "exclude" πρέπει να είναι ένας πίνακας.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Το φίλτρο εργασιών "include" πρέπει να είναι ένας πίνακας.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Το φίλτρο εργασιών δεν μπορεί να έχει κλειδιά "include" και "exclude".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Το φίλτρο εργασιών πρέπει να είναι ένα αντικείμενο JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Μη έγκυρο JSON στην παράμετρο του φίλτρου εργασιών: %1$s';
 

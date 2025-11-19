@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = '공지사항';
 $lang['AdminMyinfo.gettabnames.text_index'] = '계정';
 $lang['AdminMyinfo.!success.notices_updated'] = '공지사항 설정이 성공적으로 업데이트되었습니다.';
 $lang['AdminMyinfo.!success.updated'] = '계정 설정이 성공적으로 업데이트되었습니다.';
+$lang['AdminMyinfo.index.field_avatar'] = '프로필 사진';
 

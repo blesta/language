@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'Pengaturan berhasil diperbarui!';
-$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'Pembuka Blokir IP';
-$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Izinkan alamat IP diberikan oleh klien';
 $lang['IpUnblockerManagePlugin.index.submit_settings'] = 'Simpan';
+$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Izinkan alamat IP diberikan oleh klien';
+$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'Pembuka Blokir IP';
+$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'Pengaturan berhasil diperbarui!';
 

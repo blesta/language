@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Αποστέλλει αυτοματοπο
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Καθαρίζει την προσωρινή μνήμη της λίστας παρατηρητών συμβάντων.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Εκκαθάριση μνήμης cache';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Διαγράφει τα αρχεία καταγραφής webhook που είναι παλαιότερα από τη ρυθμισμένη περίοδο διατήρησης αρχείων καταγραφής.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Καθαρισμός των αρχείων καταγραφής Webhook';
 

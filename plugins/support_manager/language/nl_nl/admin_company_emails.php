@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Personeel Ticket Bijgewerkt (Mobiel)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Bericht dat naar een personeelslid wordt gestuurd wanneer een ticket wordt bijgewerkt.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Personeel Ticket Bijgewerkt';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Bericht verstuurd naar klant met de vraag om de ervaring met het supportticket te beoordelen.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Ticket Feedbackaanvraag';
 

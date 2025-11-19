@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = '密码';
 $lang['AdminLogin.index.field_username'] = '用户名';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | 工作人员区域';
 $lang['AdminLogin.index.page_title'] = '登录';
+$lang['AdminLogin.!info.step_up_otp'] = '若要继续，请在下面输入您的 OTP（一次性密码），再次验证您的访问权限。';
+$lang['AdminLogin.!info.step_up'] = '若要继续，请在下方输入密码，再次验证您的访问权限。';
+$lang['AdminLogin.up.link_cancel'] = '取消';
+$lang['AdminLogin.up.field_loginsubmit'] = '验证访问';
+$lang['AdminLogin.up.field_password'] = '密码';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | 访问验证';
+$lang['AdminLogin.up.page_title'] = '访问验证';
 

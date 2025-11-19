@@ -79,4 +79,7 @@ $lang['AdminStaff.!success.staff_deleted'] = '직원이 성공적으로 삭제�
 $lang['AdminStaff.!success.staff_updated'] = '직원이 성공적으로 업데이트되었습니다.';
 $lang['AdminStaff.!success.staff_added'] = '직원이 성공적으로 추가되었습니다.';
 $lang['AdminStaff.staff.name'] = '%1$s %2$s';
+$lang['AdminStaff.edit.markdown_editor_mode'] = '마크다운 편집기 모드';
+$lang['AdminStaff.add.markdown_editor_mode'] = '마크다운 편집기 모드';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = '마크다운 편집기의 기본 보기 모드를 선택합니다. WYSIWYG는 서식 있는 텍스트 편집기를 제공하고, 마크다운은 마크다운과 미리 보기를 나란히 표시하며, 마크다운 - 미리 보기 없음은 마크다운 편집기만 표시합니다.';
 

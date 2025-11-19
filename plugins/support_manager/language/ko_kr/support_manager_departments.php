@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = '우선순위를 
 $lang['SupportManagerDepartments.visibility_options.client_only'] = '클라이언트 전용';
 $lang['SupportManagerDepartments.field_types.emergency'] = '긴급 상황으로 에스컬레이션';
 $lang['SupportManagerDepartments.!error.required.format'] = '파일 요구 여부는 0 또는 1로 설정해야 합니다.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

@@ -86,4 +86,5 @@ $lang['ClientContacts.navigation.nav_return'] = 'Retour au tableau de bord';
 $lang['ClientContacts.add.field_recovery_email'] = 'Courriel de récupération (facultatif)';
 $lang['ClientContacts.edit.field_recovery_email'] = 'Courriel de récupération (facultatif)';
 $lang['ClientContacts.tooltip.client_quotations'] = 'Afficher les devis sur le tableau de bord et permettre de les approuver ou de les refuser.';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profil de l\'image';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Varsayılan ödeme he
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Varsayılan ödeme hesabı güncellendi.';
 $lang['ClientAccounts.index.type_ach'] = '%1$s - %2$s';
 $lang['ClientAccounts.index.type_cc'] = '%1$s - %2$s';
+$lang['ClientAccounts.credithandling.text_description'] = 'Düşük bakiye bildirimlerini yapılandırın. Kredi bakiyeniz herhangi bir para birimi için eşik tutarın altına düştüğünde günlük bir e-posta alacaksınız.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Ayarları Güncelle';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Bildirim Eşiği';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Para Birimi';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Kredi İşlemleri';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Kredi İşlemleri';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Kredi işleme ayarları başarıyla güncellendi.';
 

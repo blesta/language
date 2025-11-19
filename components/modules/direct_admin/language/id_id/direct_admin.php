@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Anda harus memasukkan Label Ser
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Alamat IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Alamat IP tampaknya tidak valid.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Versi HTTP';
 

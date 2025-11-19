@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Modül Satırları';
 $lang['GenericDomains.module_row'] = 'Modül Satırı';
 $lang['GenericDomains.description'] = 'Alan adı kaydı için genel bir modül.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Kaydet';
+$lang['GenericDomains.manage.email_text'] = 'Metin';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Yenileme E-postası';
+$lang['GenericDomains.manage.registration_email'] = 'Kayıt E-postası';
+$lang['GenericDomains.manage.to_emails'] = 'E-postalara';
+$lang['GenericDomains.manage.from_email'] = 'E-postadan';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Bildirim Ayarları';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Virgülle ayrılmış tüm alıcı e-postaları.';
 

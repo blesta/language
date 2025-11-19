@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-skab
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avanceret redigeringstjeneste';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service-kø';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Ændringer i service';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Håndtering af kredit';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Slet brugerdefineret felt';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Rediger brugerdefineret felt';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Tilføj brugerdefineret felt';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektroniske fakturaer';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Info om mulighed for hentning af kuponpakke';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Indstillinger for Fetch-kuponpakken';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Liste over citater';
 

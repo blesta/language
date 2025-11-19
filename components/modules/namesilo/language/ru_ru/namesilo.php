@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Административ
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Контактный идентификатор';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Получает контакты из namesilo и соединяет их с клиентами blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Вытащить контакты Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Эта функция требует, чтобы домен использовал следующие серверы имен: ns1.dnsowl.com, ns2.dnsowl.com и ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Домен недоступен для регистрации.';
 

@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = '사용'
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = '게이트웨이 제한 사용';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = '클라이언트가 사용할 수 있는 게이트웨이를 제한합니다. 기본적으로 게이트웨이 제한은 비활성화되어 있으며 모든 게이트웨이를 사용할 수 있습니다.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = '고객 그룹';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = '비밀번호 길이';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = '비밀번호 사용자 지정 규칙';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = '사용자 지정';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = '숫자만';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = '알파 전용';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = '영숫자만';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = '공백 없음';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = '모든 문자';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = '비밀번호 형식';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = '최소 비밀번호 길이를 설정합니다.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = '\'사용자 지정\' 형식을 선택한 경우 사용자 지정 정규식을 입력하여 비밀번호의 유효성을 검사합니다. 정규식으로 최소 비밀번호 길이를 정의할 수 있습니다.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = '비밀번호에 허용되는 문자 유형을 선택합니다.';
 

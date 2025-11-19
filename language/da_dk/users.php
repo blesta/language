@@ -12,7 +12,7 @@
 $lang['Users.!error.username.empty'] = 'Indtast venligst et brugernavn.';
 $lang['Users.!error.username.unique'] = 'Det brugernavn er allerede blevet taget.';
 $lang['Users.!error.current_password.matches'] = 'Ugyldig adgangskode.';
-$lang['Users.!error.new_password.format'] = 'Indtast venligst en adgangskode på mindst 6 tegn.';
+$lang['Users.!error.new_password.format'] = 'Indtast venligst en adgangskode på mindst %1$s tegn.';
 $lang['Users.!error.new_password.matches'] = 'Adgangskoderne stemmer ikke overens.';
 $lang['Users.!error.two_factor_mode.format'] = 'Ugyldig tofaktortilstand.';
 $lang['Users.!error.two_factor_key.format'] = 'Ugyldig tofaktor-nøgle.';

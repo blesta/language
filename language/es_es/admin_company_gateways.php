@@ -59,6 +59,11 @@ $lang['AdminCompanyGateways.manage.boxtitle_manage'] = 'Gestionar %1$s';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opciones de pasarela';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Divisas aceptadas';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'añadir moneda';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'en uso por';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'por defecto';
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Actualizar ajustes';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Para establecer las pasarelas predeterminadas por divisa, vaya a la página %1$sPasarelas instaladas%2$s y haga clic en el icono de engranaje situado en la parte superior derecha del widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Actualización';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Establezca la pasarela comercial predeterminada para cada divisa.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Pasarelas comerciales por defecto';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Las pasarelas comerciales predeterminadas se han actualizado correctamente.';
 

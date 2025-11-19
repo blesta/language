@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Anunțuri';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Cont';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Setările anunțului dvs. au fost actualizate cu succes.';
 $lang['AdminMyinfo.!success.updated'] = 'Setările contului dvs. au fost actualizate cu succes.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Imagine de profil';
 

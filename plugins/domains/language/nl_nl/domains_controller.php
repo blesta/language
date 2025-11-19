@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Auto verlenge
 $lang['DomainsController.!error.move_error'] = 'De geselecteerde domeinen konden niet worden verplaatst naar de geselecteerde client.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Registratiedatum wijzigen';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Verloopdatum wijzigen';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Prijs opheffen';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Prijs verhogen instellen';
 

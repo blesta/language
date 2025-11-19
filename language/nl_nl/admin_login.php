@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Wachtwoord';
 $lang['AdminLogin.index.field_username'] = 'Gebruikersnaam';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Personeelsruimte';
 $lang['AdminLogin.index.page_title'] = 'Inloggen';
+$lang['AdminLogin.!info.step_up_otp'] = 'Om verder te kunnen gaan, moet u uw toegang opnieuw verifiëren door hieronder uw OTP (eenmalig wachtwoord) in te voeren.';
+$lang['AdminLogin.!info.step_up'] = 'Om verder te kunnen gaan, moet u uw toegang opnieuw verifiëren door hieronder uw wachtwoord in te voeren.';
+$lang['AdminLogin.up.link_cancel'] = 'Annuleren';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Toegang verifiëren';
+$lang['AdminLogin.up.field_password'] = 'Wachtwoord';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Toegang verifiëren';
+$lang['AdminLogin.up.page_title'] = 'Toegang verifiëren';
 

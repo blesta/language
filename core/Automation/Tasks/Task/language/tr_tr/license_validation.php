@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.completed'] = 'Lisans doğrulama görevi tamamlandı.';
 $lang['Automation.task.license_validation.attempt'] = 'Lisans doğrulanmaya çalışılıyor.';
+$lang['Automation.task.license_validation.completed'] = 'Lisans doğrulama görevi tamamlandı.';
 

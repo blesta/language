@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliatePaymentMethods.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
-$lang['OrderAffiliatePaymentMethods.!error.names[][lang].format'] = 'Kod języka nie jest prawidłowo sformatowany.';
 $lang['OrderAffiliatePaymentMethods.!error.names[][name].empty'] = 'Wprowadź nazwę metody płatności.';
+$lang['OrderAffiliatePaymentMethods.!error.names[][lang].format'] = 'Kod języka nie jest prawidłowo sformatowany.';
+$lang['OrderAffiliatePaymentMethods.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['OrderAffiliatePaymentMethods.!error.payment_method_id.exists'] = 'Nieprawidłowy identyfikator metody płatności.';
 

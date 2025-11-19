@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Die Länge des Namens darf 64 Zeichen n
 $lang['Companies.!error.name.empty'] = 'Bitte geben Sie einen Namen ein.';
 $lang['Companies.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['Companies.!error.company_id.in_use'] = 'Dieses Unternehmen ist derzeit in Betrieb und kann nicht gelöscht werden.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Der maximale Kreditbetrag für %1$s muss größer sein als der Mindestbetrag.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Der maximale Kreditbetrag für %1$s muss größer als 0 sein.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Der Mindestkreditbetrag für %1$s muss größer als 0 sein.';
 

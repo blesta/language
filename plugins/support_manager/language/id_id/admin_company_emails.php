@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Tiket Staf Diperbarui (Seluler)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Pemberitahuan dikirim ke anggota staf ketika tiket diperbarui.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Tiket Staf Diperbarui';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Pemberitahuan yang dikirimkan ke klien yang meminta mereka untuk menilai pengalaman tiket dukungan mereka.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Permintaan Umpan Balik Tiket';
 

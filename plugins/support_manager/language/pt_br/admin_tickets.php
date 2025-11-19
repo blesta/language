@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Serviço';
 $lang['AdminTickets.add.text_no_contacts'] = 'Não há contatos adicionais disponíveis para o cliente selecionado.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Endereço de e-mail a ser notificado quando um tíquete for atualizado.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Contatos a serem notificados quando um tíquete for atualizado. Os contatos não selecionados serão adicionados automaticamente ao tíquete se responderem a ele.';
+$lang['AdminTickets.reply.text_domain'] = 'Domínio';
+$lang['AdminTickets.reply.heading_rating'] = 'Classificação';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Classificação Comentário';
+$lang['AdminTickets.index.heading_rating'] = 'Classificação';
 

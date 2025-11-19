@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Din fakturametod har uppd
 $lang['ClientMain.!success.client_updated'] = 'Din kontoinformation har uppdaterats framgångsrikt.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Krävs för att aktivera tvåfaktorsautentisering eller uppdatera lösenord.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Tvåfaktorsautentisering';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Lägg till krediter';
 

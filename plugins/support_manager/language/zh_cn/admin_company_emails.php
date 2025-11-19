@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = '员工票据已更新（手机）';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = '票单更新时向工作人员发送的通知。';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = '员工票更新';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = '向客户发送通知，请他们对支持票据体验进行评分。';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = '票务反馈请求';
 

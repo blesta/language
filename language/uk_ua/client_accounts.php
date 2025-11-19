@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Платіжний рах�
 $lang['ClientAccounts.!success.account_created'] = 'Платіжний рахунок успішно створено.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Рахунок для оплати за замовчуванням видалено.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Оновлений рахунок для оплати за замовчуванням.';
+$lang['ClientAccounts.credithandling.text_description'] = 'Налаштуйте сповіщення про низький баланс. Ви будете отримувати щоденний імейл, коли ваш кредитний баланс опуститься нижче порогової суми для будь-якої валюти.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Оновлення налаштувань';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Поріг сповіщення';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Валюта';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Робота з кредитами';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Робота з кредитами';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Налаштування роботи з кредитами успішно оновлено.';
 

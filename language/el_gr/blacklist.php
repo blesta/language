@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Ο παρεχόμενος κανόν
 $lang['Blacklist.!error.rule.format_email'] = 'Ο παρεχόμενος κανόνας δεν είναι διεύθυνση ηλεκτρονικού ταχυδρομείου.';
 $lang['Blacklist.type.ip'] = 'Διεύθυνση IP / CIDR';
 $lang['Blacklist.type.email'] = 'Διεύθυνση ηλεκτρονικού ταχυδρομείου';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Ο κανόνας μπλοκαρίσματος εξερχομένων πρέπει να είναι "1" ή "0".';
 

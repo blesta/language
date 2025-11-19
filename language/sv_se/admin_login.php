@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Lösenord';
 $lang['AdminLogin.index.field_username'] = 'Användarnamn';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Personalområde';
 $lang['AdminLogin.index.page_title'] = 'Logga in';
+$lang['AdminLogin.!info.step_up_otp'] = 'För att kunna fortsätta måste du verifiera din åtkomst igen genom att ange ditt OTP (engångslösenord) nedan.';
+$lang['AdminLogin.!info.step_up'] = 'För att kunna fortsätta måste du verifiera din åtkomst igen genom att ange ditt lösenord nedan.';
+$lang['AdminLogin.up.link_cancel'] = 'Avbryt';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Verifiera åtkomst';
+$lang['AdminLogin.up.field_password'] = 'Lösenord';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verifiering av åtkomst';
+$lang['AdminLogin.up.page_title'] = 'Verifiering av åtkomst';
 

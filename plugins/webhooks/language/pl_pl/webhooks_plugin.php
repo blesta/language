@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Wysyła automatyczne żądania HTTP na po
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Czyści pamięć podręczną listy obserwatorów zdarzeń.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Wyczyść pamięć podręczną';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Usuwa dzienniki webhooków starsze niż skonfigurowany okres przechowywania dzienników.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Czyszczenie dzienników webhooków';
 

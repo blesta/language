@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'Alles verbergen';
 $lang['Domain.lookup.show_all'] = 'Alles weergeven';
 $lang['Domain.lookup.domain_placeholder'] = 'uwdomein.nl';
 $lang['Domain.lookup.title'] = 'Controleer domein beschikbaarheid';
+$lang['Domain.lookup.load_more_tlds'] = 'Meer laden';
 

@@ -140,4 +140,8 @@ $lang['AdminForms.settings.text_accepted_payment_types'] = 'Cuando alguien se re
 $lang['AdminForms.settings.payments_allowed_cc'] = 'Tarjeta de crédito';
 $lang['AdminForms.settings.payments_allowed_ach'] = 'Cámara de compensación automatizada';
 $lang['AdminForms.settings.field_save'] = 'Guardar ajustes';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Al seleccionar un paquete, muestre el coste mensual de cada opción de precios, así como el ahorro mensual en comparación con el precio mensual (si procede).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Mostrar desglose de precios mensuales';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Al seleccionar un paquete, muestre el coste mensual de cada opción de precios, así como el ahorro mensual en comparación con el precio mensual (si procede).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Mostrar desglose de precios mensuales';
 

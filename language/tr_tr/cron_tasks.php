@@ -67,4 +67,6 @@ $lang['CronTasks.!error.dir.length'] = 'Dizin uzunluğu 64 karakteri geçemez.';
 $lang['CronTasks.!error.task_type.format'] = 'Geçersiz görev türü. Modül, eklenti veya sistem olmalıdır.';
 $lang['CronTasks.!error.key.length'] = 'Cron görev anahtarı uzunluğu 64 karakteri geçemez.';
 $lang['CronTasks.!error.key.unique'] = 'Sağlanan cron görev anahtarı zaten alınmış.';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Kredi seviyeleri yapılandırılmış eşiğin altına düşen tüm kullanıcılara bir bildirim gönderir.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Düşük Bakiye Bildirimleri';
 

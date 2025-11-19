@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Промян�
 $lang['DomainsController.example'] = 'Примерен език';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Промяна на датата на изтичане на валидността';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Промяна на датата на регистрация';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Премахване на отмяната на цената';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Задаване на отменяне на цената';
 

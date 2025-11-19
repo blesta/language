@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wybierz co najmn
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Tylko klient';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalacja do sytuacji awaryjnej';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Czy wymagać, aby plik był ustawiony na 0 lub 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

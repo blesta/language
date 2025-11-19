@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Il metodo di fatturazione
 $lang['ClientMain.!success.client_updated'] = 'Le informazioni sul vostro conto sono state aggiornate con successo.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Richiesto per abilitare l\'Autenticazione a due fattori o aggiornare la password.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autenticazione a due fattori';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Aggiungi crediti';
 

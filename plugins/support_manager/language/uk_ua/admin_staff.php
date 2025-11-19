@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Встановіть цей прапор
 $lang['AdminStaff.!success.staff_deleted'] = 'Співробітника успішно видалено.';
 $lang['AdminStaff.!success.staff_updated'] = 'Співробітник був успішно оновлений.';
 $lang['AdminStaff.!success.staff_added'] = 'Співробітника успішно додано.';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Режим редактора націнок';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Режим редактора націнок';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Виберіть режим перегляду за замовчуванням для редакторів розмітки. WYSIWYG надає розширений текстовий редактор, Націнка показує поруч націнку і попередній перегляд, а Націнка - Без попереднього перегляду показує тільки редактор націнки.';
 

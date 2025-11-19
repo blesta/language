@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = '송장 #%1$s';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = '송장 #%1$s';
 $lang['InvoiceDelivery.!error.libxml_required'] = '인보이스 전송을 위해서는 libxml 및 simplexml 확장자가 필요합니다.';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = '송장 #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = '송장 #%1$s';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Akun pembayaran telah berh
 $lang['ClientAccounts.!success.account_created'] = 'Akun pembayaran telah berhasil dibuat.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Akun pembayaran default telah dihapus.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Rekening pembayaran default telah diperbarui.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Memperbarui Pengaturan';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Ambang Batas Pemberitahuan';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Mata uang';
+$lang['ClientAccounts.credithandling.text_description'] = 'Konfigurasikan pemberitahuan saldo rendah. Anda akan menerima email harian ketika saldo kredit Anda turun di bawah jumlah ambang batas untuk mata uang apa pun.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Penanganan Kredit';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Penanganan Kredit';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Pengaturan penanganan kredit telah berhasil diperbarui.';
 

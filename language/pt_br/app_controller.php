@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Você não está autorizado
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Solte os arquivos aqui para fazer upload ou clique para selecionar os arquivos';
 $lang['AppController.!error.client_unauthorized_access'] = 'Você não tem permissão para acessar esse recurso. Entre em contato com o titular da conta principal para solicitar acesso';
+$lang['AppController.structure.text_step_up_access'] = 'No momento, você tem uma sessão de intensificação aberta com acesso às configurações de administrador. Clique aqui para cancelar o acesso.';
 

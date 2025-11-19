@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML 模�
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = '高级编辑服务';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = '服务队列';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = '服务变化';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = '信用处理';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = '删除自定义字段';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = '编辑自定义字段';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Fetch 优惠券套餐选项';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = '添加自定义字段';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = '电子发票';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = '获取优惠券套餐选项信息';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = '清单报价';
 

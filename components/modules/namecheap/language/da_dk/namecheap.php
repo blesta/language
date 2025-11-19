@@ -251,4 +251,6 @@ $lang['Namecheap.!error.FRRegistrantJoDateDec.format'] = 'Angiv venligst Journal
 $lang['Namecheap.!error.FRRegistrantJoDatePub.format'] = 'Angiv venligst tidsskriftets udgivelsesdato i formatet: ÅÅÅÅ-MM-DD';
 $lang['Namecheap.!error.FRRegistrantJoNumber.format'] = 'Angiv venligst journalnummeret.';
 $lang['Namecheap.!error.FRRegistrantJoPage.format'] = 'Indstil venligst Journal Announcement Page Number.';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Opdaterer automatisk TLD-listen og priserne fra Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synkronisering af TLD-data';
 

@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Deze factuur is eerder betaald.';
 $lang['ClientPay.!success.credit_partial_processed'] = 'De beschikbare credits zijn toegepast, maar er is nog een saldo. Voltooi deze transactie door het resterende bedrag hieronder te betalen.';
 $lang['ClientPay.!success.credit_full_processed'] = 'De beschikbare kredieten zijn toegepast.';
 $lang['ClientPay.!success.payment_processed'] = 'De betaling is succesvol verwerkt voor %1$s. Transactienummer: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Saldo';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Betaald Bedrag';
+$lang['ClientPay.method.invoice_total'] = 'Factuur Totaal';
+$lang['ClientPay.index.text_credit_max_only'] = 'Maximumbedrag: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Minimumbedrag: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Minimumbedrag: %1$s - Maximumbedrag: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Het kredietbedrag kan niet hoger zijn dan %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Het kredietbedrag moet minstens %1$s zijn.';
 

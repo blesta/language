@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Pemberitahuan';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Akun';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Pengaturan pemberitahuan Anda berhasil diperbarui.';
 $lang['AdminMyinfo.!success.updated'] = 'Pengaturan akun Anda berhasil diperbarui.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Gambar Profil';
 

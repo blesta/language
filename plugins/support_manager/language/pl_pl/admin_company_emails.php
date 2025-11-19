@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Aktualizacja biletu dla personelu (telefon komórkowy)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Powiadomienie wysyłane do pracownika, gdy zgłoszenie zostanie zaktualizowane.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Zaktualizowano bilet dla personelu';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Powiadomienie wysłane do klienta z prośbą o ocenę obsługi zgłoszenia.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Prośba o opinię na temat biletu';
 

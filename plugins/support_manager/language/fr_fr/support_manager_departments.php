@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].format'] = 'Une ou plusieur
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Client uniquement';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Passage à l\'état d\'urgence';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Si l\'on veut que le fichier soit réglé sur 0 ou 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

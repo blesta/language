@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD musí mít alespoň 3 znaky.';
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD ve společnosti neexistuje.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD již ve společnosti existuje.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Zadejte TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" není platný nameserver.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Vybraný modul nemá nakonfigurované žádné řádky modulu. Před migrací modul nakonfigurujte.';
 

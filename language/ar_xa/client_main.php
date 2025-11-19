@@ -82,4 +82,5 @@ $lang['ClientMain.myinfo.setting_autodebit_enabled'] = 'تم إعداد حساب
 $lang['ClientMain.myinfo.setting_autodebit_disabled'] = 'لم يتم إعداد حسابك للدفع التلقائي.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'مطلوب لتمكين المصادقة الثنائية أو تحديث كلمة المرور.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'المصادقة الثنائية';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'إضافة اعتمادات';
 

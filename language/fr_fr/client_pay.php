@@ -71,4 +71,12 @@ $lang['ClientPay.received.amount'] = 'Montant';
 $lang['ClientPay.received.invoices'] = 'Facture #';
 $lang['ClientPay.received.text_try_again'] = 'Réessayer';
 $lang['ClientPay.setcontactview.text_none'] = 'Aucun';
+$lang['ClientPay.method.invoice_balance_due'] = 'Solde dû';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Montant payé';
+$lang['ClientPay.method.invoice_total'] = 'Total de la facture';
+$lang['ClientPay.index.text_credit_max_only'] = 'Montant maximum : %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Montant minimum : %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Montant minimum : %1$s - Montant maximum : %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Le montant du crédit ne peut excéder %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Le montant du crédit doit être d\'au moins %1$s.';
 

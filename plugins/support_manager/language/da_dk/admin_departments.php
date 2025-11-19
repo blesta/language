@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Påkrævet';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Aktiver relaterede tjenester';
 $lang['AdminDepartments.!tooltip.type'] = '"Escalate to Emergency" viser en advarselsboks med en besked og et afkrydsningsfelt. Hvis brugeren markerer afkrydsningsfeltet, eskaleres sagen automatisk til "Nødstilfælde", selv om denne prioritet er deaktiveret for afdelingen. Kun tilgængelig, når Synlighed er indstillet til Kun klient.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Giv kunderne mulighed for at vælge en service, som billetten er relateret til.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Send automatisk påmindelse om feedback';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 klient/applikationshemmelighed';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 klient/applikations-id';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0-bruger';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0-udbyder';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Send automatisk påmindelse om feedback';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 klient/applikationshemmelighed';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 klient/applikations-id';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0-bruger';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0-udbyder';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'For alle sager med status som lukket vil der blive sendt en påmindelse til kunden om at give feedback, hvis sagen har været lukket i det valgte tidsrum.';
 

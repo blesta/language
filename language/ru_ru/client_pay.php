@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Этот счет уже был оп
 $lang['ClientPay.!success.credit_partial_processed'] = 'Доступные кредиты были использованы, но остаток все еще существует. Пожалуйста, завершите эту операцию, оплатив остаток ниже.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Доступные кредиты были использованы.';
 $lang['ClientPay.!success.payment_processed'] = 'Платеж был успешно обработан для %1$s. Номер транзакции: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Остаток к оплате';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Оплаченная сумма';
+$lang['ClientPay.method.invoice_total'] = 'Счет-фактура Итого';
+$lang['ClientPay.index.text_credit_max_only'] = 'Максимальная сумма: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Минимальная сумма: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Минимальная сумма: %1$s - Максимальная сумма: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Сумма кредита не может превышать %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Сумма кредита должна быть не менее %1$s.';
 

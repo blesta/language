@@ -67,4 +67,6 @@ $lang['CronTasks.!error.dir.length'] = 'Panjang direktori tidak boleh lebih dari
 $lang['CronTasks.!error.task_type.format'] = 'Jenis tugas tidak valid. Harus berupa modul, plugin, atau sistem.';
 $lang['CronTasks.!error.key.length'] = 'Panjang kunci tugas cron tidak boleh melebihi 64 karakter.';
 $lang['CronTasks.!error.key.unique'] = 'Kunci tugas cron yang disediakan sudah diambil.';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Mengirimkan pemberitahuan kepada semua pengguna yang tingkat kreditnya telah berada di bawah ambang batas yang telah dikonfigurasikan.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Pemberitahuan Saldo Rendah';
 

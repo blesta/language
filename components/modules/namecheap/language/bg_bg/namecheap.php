@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Сметки';
 $lang['Namecheap.module_row'] = 'Сметка';
 $lang['Namecheap.description'] = 'Namecheap, Inc. е акредитиран от ICANN регистратор на имена на домейни, който предоставя регистрация на имена на домейни и уеб хостинг. Namecheap е доставчик на бюджетен хостинг с 11 милиона регистрирани потребители и 10 милиона домейна.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Автоматично актуализира списъка с TLD и цените от Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Синхронизиране на данните на TLD';
 

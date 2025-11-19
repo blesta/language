@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Ustawienia aktualizacji';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'w użyciu przez';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'domyślny';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'dodać walutę';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Akceptowane waluty';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opcje bramy';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Brama została pomyślnie za
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Brama została pomyślnie odinstalowana.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Brama została pomyślnie zaktualizowana.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Brama została pomyślnie zaktualizowana.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Aby ustawić domyślne bramki według waluty, przejdź do strony %1$sZainstalowane bramki%2$s i kliknij ikonę koła zębatego w prawym górnym rogu widżetu.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Aktualizacja';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ustaw domyślną bramę handlową dla każdej waluty.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Domyślne bramki handlowe';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Domyślne bramki sprzedawcy zostały pomyślnie zaktualizowane.';
 

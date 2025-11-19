@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Module Rijen';
 $lang['GenericDomains.module_row'] = 'Module Rij';
 $lang['GenericDomains.description'] = 'Een generieke module voor domeinregistratie.';
 $lang['GenericDomains.name'] = 'Algemene domeinen';
+$lang['GenericDomains.manage.save_btn'] = 'Sla';
+$lang['GenericDomains.manage.email_text'] = 'Tekst';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Verlenging e-mail';
+$lang['GenericDomains.manage.registration_email'] = 'Registratie e-mail';
+$lang['GenericDomains.manage.to_emails'] = 'Naar e-mails';
+$lang['GenericDomains.manage.from_email'] = 'Van e-mail';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Instellingen meldingen';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Alle e-mails van ontvangers, gescheiden door komma\'s.';
 

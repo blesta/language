@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = '模块行';
 $lang['GenericDomains.module_row'] = '模块行';
 $lang['GenericDomains.description'] = '域名注册通用模块。';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = '节省';
+$lang['GenericDomains.manage.email_text'] = '文本';
+$lang['GenericDomains.manage.email_html'] = '超文本标记语言';
+$lang['GenericDomains.manage.renewal_email'] = '续订电子邮件';
+$lang['GenericDomains.manage.registration_email'] = '注册电子邮件';
+$lang['GenericDomains.manage.to_emails'] = '至电子邮件';
+$lang['GenericDomains.manage.from_email'] = '发件人电子邮件';
+$lang['GenericDomains.manage.notification_settings_title'] = '通知设置';
+$lang['GenericDomains.!tooltip.to_emails'] = '所有收件人电子邮件，用逗号分隔。';
 

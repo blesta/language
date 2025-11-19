@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'Balíček je v současné době nedostu
 $lang['Config.!error.invalid_pricing_id'] = 'Uvedený balíček nebyl nalezen.';
 $lang['Config.!error.invalid_value_option'] = 'Je třeba vybrat hodnotu pro %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'Hodnota možnosti "%1$s" musí být mezi %2$s a %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (obnovuje %3$s) (%4$s/měsíc %5$s%% úspory!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/ měsíc %4$s%% úspory!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (obnovuje %3$s) (%4$s/měsíc) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/ měsíc)';
 

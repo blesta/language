@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = '行政管理';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = '联系 ID';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = '从 namesilo 拉入联系人，并将他们与 blesta 客户联系起来。';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = '拉动 Namesilo 联系人';
+$lang['Namesilo.notice.default_nameservers'] = '此功能要求域使用以下名称服务器：ns1.dnsowl.com、ns2.dnsowl.com 和 ns3.dnsowl.com。';
+$lang['Namesilo.!error.domain_unavailable'] = '该域名不可注册。';
 

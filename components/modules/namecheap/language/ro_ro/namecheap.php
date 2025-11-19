@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Conturi';
 $lang['Namecheap.module_row'] = 'Cont';
 $lang['Namecheap.description'] = 'Namecheap, Inc. este un registrator de nume de domenii acreditat de ICANN, care oferă servicii de înregistrare a numelor de domenii și găzduire web. Namecheap este un furnizor de găzduire bugetară cu 11 milioane de utilizatori înregistrați și 10 milioane de domenii.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Actualizează automat lista TLD și prețurile de la Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Sincronizarea datelor TLD';
 

@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Diese Rechnung ist bereits bezahlt w
 $lang['ClientPay.!success.credit_partial_processed'] = 'Die verfügbaren Guthaben wurden aufgebraucht, aber es besteht noch ein Restbetrag. Bitte schließen Sie diese Transaktion ab, indem Sie den Restbetrag unten bezahlen.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Die verfügbaren Mittel wurden verwendet.';
 $lang['ClientPay.!success.payment_processed'] = 'Die Zahlung für %1$s wurde erfolgreich verarbeitet. Transaktionsnummer: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Fälliger Saldo';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Bezahlter Betrag';
+$lang['ClientPay.method.invoice_total'] = 'Rechnung Gesamt';
+$lang['ClientPay.index.text_credit_max_only'] = 'Höchstbetrag: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Mindestbetrag: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Mindestbetrag: %1$s - Höchstbetrag: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Der Kreditbetrag darf %1$s nicht überschreiten.';
+$lang['ClientPay.!error.credit_minimum'] = 'Der Kreditbetrag muss mindestens %1$s betragen.';
 

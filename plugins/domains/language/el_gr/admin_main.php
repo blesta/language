@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Η ημερομηνία 
 $lang['AdminMain.!success.change_expiration_date'] = 'Η ημερομηνία λήξης του τομέα έχει ενημερωθεί!';
 $lang['AdminMain.add.text_refresh'] = 'Ανανέωση';
 $lang['AdminMain.index.tooltip_transferred'] = 'Ο τομέας έχει μεταφερθεί από τον καταχωρητή.';
+$lang['AdminMain.!success.remove_price_override'] = 'Η τιμή παράκαμψης του τομέα έχει καταργηθεί!';
+$lang['AdminMain.!success.set_price_override'] = 'Η τιμή παράκαμψης τομέα έχει ενημερωθεί!';
 

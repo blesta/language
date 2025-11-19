@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'Кодът на страната Alph
 $lang['Countries.!error.alpha2.exists'] = 'Невалиден код alpha2.';
 $lang['Countries.!error.alpha2.in_use'] = 'Кодът на страната Alpha2, %1$s, вече е зает.';
 $lang['Countries.!error.alpha2.format'] = 'Кодът на страната Alpha2 трябва да съдържа 2 буквени символа.';
+$lang['Countries.!error.format.valid'] = 'Форматът на държавата трябва да бъде "code" или "name".';
 

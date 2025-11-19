@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_name'] = 'Υ�
 $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_desc'] = 'Ειδοποίηση που αποστέλλεται όταν ένα εισιτήριο δεν έχει λάβει απάντηση για κάποιο χρονικό διάστημα.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_name'] = 'Υπενθύμιση εισιτηρίων προσωπικού';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_desc'] = 'Ειδοποίηση που αποστέλλεται όταν ένα εισιτήριο δεν έχει λάβει απάντηση για κάποιο χρονικό διάστημα.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Ειδοποίηση που αποστέλλεται στον πελάτη ζητώντας του να αξιολογήσει την εμπειρία του με το εισιτήριο υποστήριξης.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Αίτημα ανατροφοδότησης εισιτηρίου';
 

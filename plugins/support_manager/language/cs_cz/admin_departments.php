@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Požadované';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Povolení souvisejících služeb';
 $lang['AdminDepartments.!tooltip.type'] = '"Eskalovat do nouzové situace" zobrazí výstražné pole se zprávou a zaškrtávacím políčkem. Pokud uživatel zaškrtne políčko, tiket se automaticky eskaluje na "Emergency", i když je tato priorita pro oddělení zakázána. K dispozici pouze v případě, že je možnost Viditelnost nastavena na hodnotu Pouze pro klienty.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Umožnit klientům vybrat službu, ke které se tip vztahuje.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Automatické zasílání připomenutí zpětné vazby';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Klient OAuth 2.0 / Tajemství aplikace';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'ID klienta / aplikace OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Uživatel OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Zprostředkovatel OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Automatické zasílání připomenutí zpětné vazby';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Klient OAuth 2.0 / Tajemství aplikace';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'ID klienta / aplikace OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Uživatel OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Zprostředkovatel OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'U všech tiketů se stavem uzavřeno bude klientovi zaslána připomínka, aby zanechal zpětnou vazbu, pokud byl tiket uzavřen po zvolenou dobu.';
 

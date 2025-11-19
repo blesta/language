@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativ';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'ID de contact';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Extrage contactele din namesilo și le asociază cu clienții blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Trageți contactele Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Această caracteristică necesită ca domeniul să utilizeze următoarele servere de nume: ns1.dnsowl.com, ns2.dnsowl.com și ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Domeniul nu este disponibil pentru înregistrare.';
 

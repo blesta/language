@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'ID perusahaan ti
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Kategori ini tidak dapat menjadi induk bagi dirinya sendiri.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Kategori ini tidak boleh diberikan kepada induk dari perusahaan yang terpisah.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'ID orang tua tidak valid.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Opsi perbarui artikel secara rekursif dalam format yang tidak valid.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Opsi perbarui artikel dalam format yang tidak valid.';
 

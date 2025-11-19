@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Le impostazioni di m
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Le impostazioni GeoIP sono state aggiornate con successo!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Le impostazioni del Basic Setup sono state aggiornate con successo!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'La directory di upload deve esistere ed essere esterna alla directory web principale.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir è abilitato. L\'accesso ai file è limitato a: %1$s. Non è possibile accedere alle directory al di fuori di questi percorsi.';
 

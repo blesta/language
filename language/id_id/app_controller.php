@@ -83,4 +83,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Token formulir tidak valid.';
 $lang['AppController.!error.unauthorized_access'] = 'Anda tidak berwenang untuk mengakses sumber daya tersebut';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Anda tidak memiliki izin untuk mengakses sumber daya tersebut, silakan hubungi pemegang akun utama untuk meminta akses';
+$lang['AppController.structure.text_step_up_access'] = 'Saat ini Anda memiliki sesi peningkatan yang terbuka dengan akses ke pengaturan admin. Klik di sini untuk membatalkan akses.';
 

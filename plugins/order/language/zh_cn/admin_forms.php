@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = '表格已成功更新。';
 $lang['AdminForms.!success.form_delete'] = '表格已成功删除。';
 $lang['AdminForms.!success.form_added'] = '表格已成功添加。';
 $lang['AdminForms.!success.settings_saved'] = '设置已成功保存';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = '选择套餐时，请显示每个定价选项的每月费用，以及与每月价格相比每月节省的费用（如适用）。';
+$lang['AdminForms.edit.field_monthly_breakdown'] = '显示屏月度定价细目';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = '选择套餐时，请显示每个定价选项的每月费用，以及与每月价格相比每月节省的费用（如适用）。';
+$lang['AdminForms.add.field_monthly_breakdown'] = '显示屏月度定价细目';
 

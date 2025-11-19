@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'ID da empresa in
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Essa categoria não pode ser um pai para si mesma.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Essa categoria não pode ser atribuída a uma controladora de uma empresa separada.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'ID pai inválido.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'A opção atualizar artigos recursivamente está em um formato inválido.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'A opção de artigos de atualização está em um formato inválido.';
 

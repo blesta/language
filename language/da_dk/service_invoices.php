@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Ophængning';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Fornyelse';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Tilvejebringelse';
 $lang['ServiceInvoices.!error.type.valid'] = 'Ugyldig forsøgstype.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Tillad kun øjeblikkelig annullering';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Tillad kun aflysning i slutningen af semesteret';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Tillad øjeblikkelig annullering eller annullering i slutningen af perioden';
 

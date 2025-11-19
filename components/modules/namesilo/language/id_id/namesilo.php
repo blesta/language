@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Administrasi';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'ID Kontak';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Menarik kontak dari namesilo dan mengasosiasikannya dengan klien blesta.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Tarik Kontak Namesilo';
+$lang['Namesilo.notice.default_nameservers'] = 'Fitur ini mengharuskan domain menggunakan server nama berikut ini: ns1.dnsowl.com, ns2.dnsowl.com, dan ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Domain ini tidak tersedia untuk pendaftaran.';
 

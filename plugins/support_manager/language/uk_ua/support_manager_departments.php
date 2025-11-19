@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Виберіть
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Тільки для клієнтів';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Ескалація до надзвичайної ситуації';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Чи потрібно вимагати файл, має бути встановлено на 0 або 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

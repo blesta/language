@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Alla uppgifter har slutförts.';
 $lang['Cron.index.attempt_all'] = 'Försöker köra alla uppgifter för %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Fel: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron misslyckades med att logga.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Uppgiftsfiltret "exclude" måste vara en matris.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Uppgiftsfiltret "include" måste vara en matris.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Uppgiftsfiltret kan inte ha både "include"- och "exclude"-nycklar.';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Uppgiftsfiltret måste vara ett JSON-objekt.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Ogiltig JSON i parametern för uppgiftsfiltret: %1$s';
 

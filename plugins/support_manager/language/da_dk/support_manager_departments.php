@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vælg mindst én
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Kun for klienter';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Eskaler til nødstilfælde';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Om det skal kræves, at det arkiverede skal indstilles til 0 eller 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Ο λογαριασμός 
 $lang['ClientAccounts.!success.account_created'] = 'Ο λογαριασμός πληρωμών δημιουργήθηκε με επιτυχία.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Ο προεπιλεγμένος λογαριασμός πληρωμής έχει καταργηθεί.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Ο προεπιλεγμένος λογαριασμός πληρωμής έχει ενημερωθεί.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Ενημέρωση ρυθμίσεων';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Κατώφλι ειδοποίησης';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Νόμισμα';
+$lang['ClientAccounts.credithandling.text_description'] = 'Ρυθμίστε τις ειδοποιήσεις χαμηλού υπολοίπου. Θα λαμβάνετε καθημερινά ένα μήνυμα ηλεκτρονικού ταχυδρομείου όταν το πιστωτικό σας υπόλοιπο πέφτει κάτω από το κατώτατο όριο για οποιοδήποτε νόμισμα.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Χειρισμός πιστώσεων';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Χειρισμός πιστώσεων';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Οι ρυθμίσεις χειρισμού πιστώσεων ενημερώθηκαν επιτυχώς.';
 

@@ -71,4 +71,12 @@ $lang['ClientPay.!success.credit_partial_processed'] = 'Mevcut krediler uyguland
 $lang['ClientPay.!success.credit_full_processed'] = 'Mevcut krediler uygulanmıştır.';
 $lang['ClientPay.!success.payment_processed'] = 'Ödeme %1$s için başarıyla işlendi. İşlem Numarası: %2$s';
 $lang['ClientPay.method.field_paymentaccount'] = '%1$s %2$s - %3$s x%4$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Ödenmesi Gereken Bakiye';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Ödenen Tutar';
+$lang['ClientPay.method.invoice_total'] = 'Fatura Toplamı';
+$lang['ClientPay.index.text_credit_max_only'] = 'Maksimum Miktar: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Minimum Miktar: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Minimum Tutar: %1$s - Maksimum Tutar: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Kredi tutarı %1$s adresini geçemez.';
+$lang['ClientPay.!error.credit_minimum'] = 'Kredi tutarı en az %1$s olmalıdır.';
 

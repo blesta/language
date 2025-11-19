@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Всички задачи са изпълн
 $lang['Cron.index.attempt_all'] = 'Опит за изпълнение на всички задачи за %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Грешка: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron не успя да се регистрира.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Филтърът на задачата "exclude" трябва да бъде масив.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Филтърът на задачата "include" трябва да бъде масив.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Филтърът на задачите не може да има едновременно ключове "включва" и "изключва".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Филтърът на задачата трябва да бъде обект JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Невалиден JSON в параметъра на филтъра на задачата: %1$s';
 

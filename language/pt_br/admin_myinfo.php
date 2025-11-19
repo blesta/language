@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Avisos';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Conta';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Suas configurações de aviso foram atualizadas com sucesso.';
 $lang['AdminMyinfo.!success.updated'] = 'As configurações de sua conta foram atualizadas com sucesso.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Foto do perfil';
 

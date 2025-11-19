@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Centang kotak ini agar anggota staf ters
 $lang['AdminStaff.!success.staff_deleted'] = 'Anggota staf telah berhasil dihapus.';
 $lang['AdminStaff.!success.staff_updated'] = 'Anggota staf telah berhasil diperbarui.';
 $lang['AdminStaff.!success.staff_added'] = 'Anggota staf telah berhasil ditambahkan.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Mode Editor Penurunan Harga';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Mode Editor Penurunan Harga';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Pilih mode tampilan default untuk editor penurunan harga. WYSIWYG menyediakan editor teks yang kaya, Penurunan Harga menampilkan penurunan harga dan pratinjau secara berdampingan, dan Penurunan Harga - Tanpa Pratinjau hanya menampilkan editor penurunan harga.';
 

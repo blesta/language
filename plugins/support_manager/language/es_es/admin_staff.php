@@ -79,4 +79,7 @@ $lang['AdminStaff.schedule_list.heading_department'] = 'Departamento';
 $lang['AdminStaff.schedule_list.heading_description'] = 'Descripción';
 $lang['AdminStaff.schedule_list.no_department_results'] = 'Este funcionario no está asignado a ningún departamento.';
 $lang['AdminStaff.text.no_time'] = '--';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Modo Editor Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Modo Editor Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Seleccione el modo de vista predeterminado para los editores de markdown. WYSIWYG ofrece un editor de texto enriquecido, Markdown muestra una vista previa y otra de markdown, y Markdown - Sin vista previa solo muestra el editor de markdown.';
 

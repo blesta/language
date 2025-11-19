@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliatePaymentMethods.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
-$lang['OrderAffiliatePaymentMethods.!error.names[][lang].format'] = 'Kode bahasa tidak diformat dengan benar.';
 $lang['OrderAffiliatePaymentMethods.!error.names[][name].empty'] = 'Masukkan nama metode pembayaran.';
+$lang['OrderAffiliatePaymentMethods.!error.names[][lang].format'] = 'Kode bahasa tidak diformat dengan benar.';
+$lang['OrderAffiliatePaymentMethods.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['OrderAffiliatePaymentMethods.!error.payment_method_id.exists'] = 'ID metode pembayaran tidak valid.';
 

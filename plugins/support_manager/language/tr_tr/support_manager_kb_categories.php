@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Geçersiz şirke
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Bu kategori kendi başına bir ebeveyn olamaz.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Bu kategori ayrı bir şirketten bir ebeveyne atanamaz.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Geçersiz ebeveyn kimliği.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Makaleleri yinelemeli olarak güncelle seçeneği geçersiz bir biçimdedir.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Makaleleri güncelle seçeneği geçersiz bir formatta.';
 

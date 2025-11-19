@@ -67,4 +67,6 @@ $lang['CronTasks.crontask.description.transition_quotations'] = 'Marcar como cad
 $lang['CronTasks.crontask.name.license_validation'] = 'Validación de licencias';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Elimina del sistema todos los tokens de restablecimiento de contraseña que hayan superado la fecha de caducidad.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Eliminar tokens de restablecimiento de contraseña caducados';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Envía un aviso a todos los usuarios cuyos niveles de crédito hayan caído por debajo del umbral configurado.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notificaciones de saldo bajo';
 

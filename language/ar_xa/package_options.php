@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'الرجاء إدخال اسم له
 $lang['PackageOptions.!error.label.length'] = 'لا يجوز أن يتجاوز طول التسمية 128 حرفاً.';
 $lang['PackageOptions.!error.label.empty'] = 'الرجاء إدخال التسمية.';
 $lang['PackageOptions.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'يجب تعيين ما إذا كان الإخفاء في الفاتورة على 0 أو 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'يجب تعيين ما إذا كان يجب تعطيل التسعير إلى 0 أو 1.';
 

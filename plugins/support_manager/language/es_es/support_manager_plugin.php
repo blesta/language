@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.permission.admin_responses'] = 'Respuestas';
 $lang['SupportManagerPlugin.permission.admin_staff'] = 'Personal';
 $lang['SupportManagerPlugin.permission.admin_knowledgebase'] = 'Base de conocimientos';
 $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Recordatorios';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ajustes';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Envíe automáticamente recordatorios a los clientes para que dejen sus comentarios sobre los tickets que se han cerrado después de un determinado periodo de tiempo.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Enviar recordatorios';
 

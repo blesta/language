@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Длина ключа задачи cron 
 $lang['CronTasks.!error.key.unique'] = 'Указанный ключ задания cron уже занят.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Удаляет из системы все токены сброса пароля, срок действия которых истек.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Удаление просроченных токенов сброса пароля';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Отправляет уведомление всем пользователям, чей кредитный уровень упал ниже настроенного порога.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Уведомления о низком балансе';
 

@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Ungültige Unter
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Diese Kategorie kann sich selbst nicht übergeordnet sein.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Diese Kategorie kann nicht einer Muttergesellschaft eines anderen Unternehmens zugeordnet werden.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Ungültige übergeordnete ID.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Die Option Artikel rekursiv aktualisieren hat ein ungültiges Format.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Die Option Artikel aktualisieren hat ein ungültiges Format.';
 

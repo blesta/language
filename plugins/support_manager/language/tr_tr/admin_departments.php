@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Gerekli';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'İlgili hizmetleri etkinleştirin';
 $lang['AdminDepartments.!tooltip.type'] = '"Acil Duruma Yükselt" bir mesaj ve onay kutusu içeren bir uyarı kutusu gösterir. Kullanıcı onay kutusunu işaretlerse, departman için bu öncelik devre dışı bırakılmış olsa bile destek talebi otomatik olarak "Acil Durum "a yükseltilir. Yalnızca Görünürlük Yalnızca Müşteri olarak ayarlandığında kullanılabilir.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Müşterilerin biletin ilgili olduğu bir hizmet seçmesine izin verin.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Geri Bildirim Hatırlatıcısını Otomatik Olarak Gönder';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 İstemci / Uygulama Sırrı';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 İstemci / Uygulama Kimliği';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0 Kullanıcı';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0 Sağlayıcısı';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Geri Bildirim Hatırlatıcısını Otomatik Olarak Gönder';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 İstemci / Uygulama Sırrı';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 İstemci / Uygulama Kimliği';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 Kullanıcı';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 Sağlayıcısı';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Durumu kapalı olan tüm destek talepleri için, destek talebi seçilen süre boyunca kapalı kaldıysa müşteriye geri bildirimlerini bırakması için bir hatırlatma gönderilecektir.';
 

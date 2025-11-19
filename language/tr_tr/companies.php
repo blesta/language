@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'İsim uzunluğu 64 karakteri geçemez.'
 $lang['Companies.!error.name.empty'] = 'Lütfen bir isim girin.';
 $lang['Companies.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 $lang['Companies.!error.company_id.in_use'] = 'Bu şirket şu anda kullanımdadır ve silinemez.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = '%1$s için maksimum kredi miktarı minimum miktardan büyük olmalıdır.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = '%1$s için maksimum kredi miktarı 0\'dan büyük olmalıdır.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = '%1$s için minimum kredi tutarı 0\'dan büyük olmalıdır.';
 

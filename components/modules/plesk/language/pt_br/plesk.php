@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'O nome do host parece ser inválido.';
 $lang['Plesk.!error.server_name.empty'] = 'Você deve inserir um rótulo de servidor.';
 $lang['Plesk.!error.api.internal'] = 'Ocorreu um erro interno ou o servidor não respondeu à solicitação.';
 $lang['Plesk.!error.simplexml_required'] = 'A extensão simplexml é necessária para esse módulo.';
+$lang['Plesk.service_info.login_unavailable'] = 'Login indisponível';
+$lang['Plesk.tab_client_login.field_login'] = 'Fazer login';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Senha';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Nome de usuário';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Faça login no Plesk';
+$lang['Plesk.tab_client_login'] = 'Faça login no Plesk';
 

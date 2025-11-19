@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'حدد هذا المربع لجعل ال
 $lang['AdminStaff.!success.staff_deleted'] = 'تم حذف عضو فريق العمل بنجاح.';
 $lang['AdminStaff.!success.staff_updated'] = 'تم تحديث الموظف بنجاح.';
 $lang['AdminStaff.!success.staff_added'] = 'تمت إضافة الموظف بنجاح.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'وضع محرر تخفيض السعر';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'وضع محرر تخفيض السعر';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'حدد وضع العرض الافتراضي لمحرري تخفيض السعر. يوفر WYSIWYG محرر نص منسق، ويعرض Markdown وضع العلامات والمعاينة جنبًا إلى جنب، ويعرض Markdown - بدون معاينة محرر العلامات فقط.';
 

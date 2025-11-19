@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = 'Modul-Zeilen';
 $lang['GenericDomains.module_row'] = 'Modulreihe';
 $lang['GenericDomains.description'] = 'Ein allgemeines Modul für die Domainregistrierung.';
 $lang['GenericDomains.name'] = 'Generische Domains';
+$lang['GenericDomains.manage.save_btn'] = 'Speichern Sie';
+$lang['GenericDomains.manage.email_text'] = 'Text';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = 'Verlängerungs-E-Mail';
+$lang['GenericDomains.manage.registration_email'] = 'Anmeldung E-Mail';
+$lang['GenericDomains.manage.to_emails'] = 'An E-Mails';
+$lang['GenericDomains.manage.from_email'] = 'Von E-Mail';
+$lang['GenericDomains.manage.notification_settings_title'] = 'Einstellungen für Benachrichtigungen';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Alle Empfänger-E-Mails, getrennt durch ein Komma.';
 

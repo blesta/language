@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.access_types.public'] = 'Δημόσιο';
 $lang['SupportManagerKbCategories.access_types.private'] = 'Ιδιωτικό';
 $lang['SupportManagerKbCategories.access_types.hidden'] = 'Κρυφό';
 $lang['SupportManagerKbCategories.access_types.staff'] = 'Προσωπικό';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Η επιλογή αναδρομική ενημέρωση άρθρων έχει μη έγκυρη μορφή.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Η επιλογή update articles έχει μη έγκυρη μορφή.';
 

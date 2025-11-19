@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Aktivie
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-Einschränkungen aktivieren';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beschränken Sie die Gateways, die Clients verwenden können. Standardmäßig sind Gateway-Einschränkungen deaktiviert und alle Gateways sind verfügbar.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Kundengruppe';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Passwort Länge';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Kennwort Benutzerdefinierte Regel';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Benutzerdefiniert';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Nur Zahlen';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Nur Alpha';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Nur alphanumerisch';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Keine Leerzeichen';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Beliebige Zeichen';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Passwort-Format';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Legen Sie die Mindestlänge des Passworts fest.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Geben Sie einen benutzerdefinierten regulären Ausdruck ein, um Kennwörter zu überprüfen, wenn das Format "Benutzerdefiniert" ausgewählt ist. Der reguläre Ausdruck kann eine Mindestlänge des Kennworts festlegen.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Wählen Sie die Art der in Passwörtern zulässigen Zeichen aus.';
 

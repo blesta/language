@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Version ist ungültig.';
 $lang['GatewayManager.!error.name.valid'] = 'Der Name ist ungültig.';
 $lang['GatewayManager.!error.class.valid'] = 'Klasse ist ungültig.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Die Unternehmens-ID ist ungültig.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Dieses Gateway wird als Standard für eine oder mehrere Währungen verwendet, eine andere muss ausgewählt werden, bevor diese Währung von diesem Gateway entfernt wird.';
 

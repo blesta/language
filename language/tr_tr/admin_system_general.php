@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP ayarları başarıyl
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Temel Kurulum ayarları başarıyla güncellendi!';
 $lang['AdminSystemGeneral.geoip.text_database_not_exists'] = '%1$s mevcut değil.';
 $lang['AdminSystemGeneral.geoip.text_database_exists'] = '%1$s var.';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir etkinleştirildi. Dosya erişimi şu şekilde sınırlandırılmıştır: %1$s. Bu yolların dışındaki dizinlere erişilemez.';
 

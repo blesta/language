@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Změna automa
 $lang['DomainsController.!error.move_error'] = 'Vybrané domény nebylo možné přesunout na vybraného klienta.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Změna data registrace';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Změnit datum vypršení platnosti';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Odstranění přepisu ceny';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Nastavení přepisu ceny';
 

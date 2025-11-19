@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'نوع غير صالح.';
 $lang['Clients.!error.account_id.exists'] = 'معرّف الحساب غير صالح.';
 $lang['Clients.!error.client_id.exists'] = 'معرف العميل غير صالح.';
 $lang['Clients.!error.client_group_id.exists'] = 'معرف مجموعة العملاء غير صالح.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'يجب أن يكون الحد الأقصى لمبلغ الائتمان %1$s أكبر من الحد الأدنى للمبلغ.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'يجب أن يكون الحد الأقصى لمبلغ الرصيد %1$s أكبر من 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'يجب أن يكون الحد الأدنى لمبلغ الرصيد %1$s أكبر من 0.';
 

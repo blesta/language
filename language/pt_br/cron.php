@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Todas as tarefas foram concluídas.';
 $lang['Cron.index.attempt_all'] = 'Tentando executar todas as tarefas para %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Erro: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Falha no registro do Cron.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'O filtro de tarefa "exclude" deve ser uma matriz.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'O filtro de tarefa "include" deve ser uma matriz.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'O filtro de tarefa não pode ter as chaves "incluir" e "excluir".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'O filtro de tarefa deve ser um objeto JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'JSON inválido no parâmetro do filtro de tarefa: %1$s';
 

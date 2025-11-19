@@ -18,4 +18,13 @@ $lang['GenericDomains.module_row_plural'] = '모듈 행';
 $lang['GenericDomains.module_row'] = '모듈 행';
 $lang['GenericDomains.description'] = '도메인 등록을 위한 일반 모듈입니다.';
 $lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.manage.save_btn'] = '저장';
+$lang['GenericDomains.manage.email_text'] = '텍스트';
+$lang['GenericDomains.manage.email_html'] = 'HTML';
+$lang['GenericDomains.manage.renewal_email'] = '갱신 이메일';
+$lang['GenericDomains.manage.registration_email'] = '등록 이메일';
+$lang['GenericDomains.manage.to_emails'] = '이메일 수신';
+$lang['GenericDomains.manage.from_email'] = '이메일 보내기';
+$lang['GenericDomains.manage.notification_settings_title'] = '알림 설정';
+$lang['GenericDomains.!tooltip.to_emails'] = '모든 수신자 이메일을 쉼표로 구분합니다.';
 

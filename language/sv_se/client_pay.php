@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Denna faktura har tidigare betalats.
 $lang['ClientPay.!success.credit_partial_processed'] = 'De tillgängliga krediterna har använts, men det finns fortfarande ett saldo. Vänligen slutför denna transaktion genom att betala återstoden nedan.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Tillgängliga krediter har utnyttjats.';
 $lang['ClientPay.!success.payment_processed'] = 'Betalningen behandlades framgångsrikt för %1$s. Transaktionsnummer: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Förfallna skulder';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Utbetalat belopp';
+$lang['ClientPay.method.invoice_total'] = 'Faktura Totalt';
+$lang['ClientPay.index.text_credit_max_only'] = 'Högsta belopp: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Lägsta belopp: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Lägsta belopp: %1$s - Högsta belopp: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Kreditbeloppet kan inte överstiga %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Kreditbeloppet måste vara minst %1$s.';
 

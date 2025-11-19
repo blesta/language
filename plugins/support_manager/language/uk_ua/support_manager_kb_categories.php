@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Невірний
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Ця категорія не може бути батьком для самої себе.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Ця категорія не може бути присвоєна материнській компанії з окремої компанії.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Неправильний ідентифікатор батька.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Параметр "Оновлювати статті рекурсивно" має невірний формат.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Опція "Оновити статті" має невірний формат.';
 

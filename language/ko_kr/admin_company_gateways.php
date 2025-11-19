@@ -11,7 +11,7 @@
 
 $lang['AdminCompanyGateways.manage.boxtitle_manage'] = '관리 %1$s';
 $lang['AdminCompanyGateways.manage.update_settings'] = '설정 업데이트';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = '다음에서 사용 중';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = '기본값';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = '통화 추가';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = '사용 가능한 통화';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = '게이트웨이 옵션';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = '게이트웨이가 성공적
 $lang['AdminCompanyGateways.!success.uninstalled'] = '게이트웨이가 성공적으로 제거되었습니다.';
 $lang['AdminCompanyGateways.!success.upgraded'] = '게이트웨이가 성공적으로 업그레이드되었습니다.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = '게이트웨이가 성공적으로 업데이트되었습니다.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = '통화별 기본 게이트웨이를 설정하려면 %1$s설치된 게이트웨이%2$s 페이지로 이동하여 위젯의 오른쪽 상단에 있는 톱니바퀴 아이콘을 클릭합니다.';
+$lang['AdminCompanyGateways.installed.btn_save'] = '업데이트';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = '각 통화에 대한 기본 판매자 게이트웨이를 설정합니다.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = '기본 판매자 게이트웨이';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = '기본 판매자 게이트웨이가 성공적으로 업데이트되었습니다.';
 

@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Drugie po
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Przypomnienie o wygaśnięciu domeny 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Pierwsze powiadomienie wysłane do klienta, gdy jego domena wkrótce wygaśnie.';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Przypomnienie o wygaśnięciu domeny 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Powiadomienie wysyłane do klienta, gdy automatyczne odnowienie zostało wyłączone dla jego domeny.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Automatyczne odnawianie domeny wyłączone';
 

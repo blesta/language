@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Ongeldig bedrijf
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Deze categorie kan geen ouder van zichzelf zijn.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Deze categorie mag niet worden toegewezen aan een moedermaatschappij van een afzonderlijk bedrijf.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Ongeldig ouder-ID.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'De optie artikelen recursief bijwerken heeft een ongeldig formaat.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'De optie Artikelen bijwerken heeft een ongeldige indeling.';
 

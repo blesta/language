@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Marque essa caixa para que o membro da e
 $lang['AdminStaff.!success.staff_deleted'] = 'O membro da equipe foi excluído com sucesso.';
 $lang['AdminStaff.!success.staff_updated'] = 'O membro da equipe foi atualizado com sucesso.';
 $lang['AdminStaff.!success.staff_added'] = 'O membro da equipe foi adicionado com sucesso.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Modo de editor Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Modo de editor Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Selecione o modo de exibição padrão para editores de markdown. WYSIWYG fornece um editor de rich text, Markdown mostra markdown e visualização lado a lado e Markdown - No Preview mostra apenas o editor de markdown.';
 

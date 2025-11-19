@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = 'În prezent nu aveți niciun contac
 $lang['ClientContacts.!success.contact_added'] = 'Contactul a fost creat cu succes!';
 $lang['ClientContacts.!success.contact_updated'] = 'Contactul a fost actualizat cu succes!';
 $lang['ClientContacts.!success.contact_deleted'] = 'Contactul %1$s %2$s a fost șters cu succes!';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Imagine de profil';
 

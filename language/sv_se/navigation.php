@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'Ogiltigt åtgärds-ID';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML-mallar';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service kö';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Förändringar i tjänster';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektroniska fakturor';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredithantering';
 

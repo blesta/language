@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Segundo a
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Lembrete de expiração de domínio 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Primeiro aviso enviado a um cliente quando seu domínio expirará em breve.';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Lembrete de expiração de domínio 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Aviso enviado a um cliente quando a renovação automática foi desativada para seu domínio.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Renovação automática de domínio desativada';
 

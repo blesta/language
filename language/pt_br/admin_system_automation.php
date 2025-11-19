@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Configurações > Sistema > A
 $lang['AdminSystemAutomation.!success.cron_key'] = 'A chave do cron foi atualizada com sucesso!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'As configurações de automação foram atualizadas com sucesso!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Defina uma chave cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Método alternativo (solicitação HTTP com chave Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Exemplo de comando Cron para solicitações HTTP';
 

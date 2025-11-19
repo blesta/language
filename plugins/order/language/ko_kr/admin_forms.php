@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = '양식이 성공적으로 업데이�
 $lang['AdminForms.!success.form_delete'] = '양식이 성공적으로 삭제되었습니다.';
 $lang['AdminForms.!success.form_added'] = '양식이 성공적으로 추가되었습니다.';
 $lang['AdminForms.!success.settings_saved'] = '설정이 성공적으로 저장되었습니다.';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = '패키지를 선택할 때 각 요금 옵션의 월별 비용과 월별 요금과 비교했을 때 월별 절감액(해당되는 경우)을 표시합니다.';
+$lang['AdminForms.edit.field_monthly_breakdown'] = '월별 가격 내역 표시';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = '패키지를 선택할 때 각 요금 옵션의 월별 비용과 월별 요금과 비교했을 때 월별 절감액(해당되는 경우)을 표시합니다.';
+$lang['AdminForms.add.field_monthly_breakdown'] = '월별 가격 내역 표시';
 

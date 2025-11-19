@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = '일시 중단';
 $lang['ServiceInvoices.getattempttypes.renewal'] = '갱신';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = '프로비저닝';
 $lang['ServiceInvoices.!error.type.valid'] = '잘못된 시도 유형입니다.';
+$lang['ServiceInvoices.getCancelOptions.now'] = '즉시 취소만 허용';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = '학기말 취소만 허용';
+$lang['ServiceInvoices.getCancelOptions.both'] = '즉시 또는 기간 종료 후 취소 허용';
 

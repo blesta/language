@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = 'Alle ausblenden';
 $lang['Domain.lookup.show_all'] = 'Alle anzeigen';
 $lang['Domain.lookup.domain_placeholder'] = 'IhreDomain.de';
 $lang['Domain.lookup.title'] = 'Domainverfügbarkeit prüfen';
+$lang['Domain.lookup.load_more_tlds'] = 'Mehr laden';
 

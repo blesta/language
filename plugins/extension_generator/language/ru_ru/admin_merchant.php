@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Генератор 
 $lang['AdminMerchant.index.page_title'] = 'Генератор расширений - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Автоматизированная обработка в клиринговой палате с использованием учетных данных, хранящихся за пределами процессора.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Автоматизированная работа с клиринговыми палатами с использованием незарегистрированных учетных данных или тех, что хранятся в Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Это позволяет шлюзу предоставлять пользовательский html для форм кредитных карт.  Это необходимо для поддержки кредитных карт, размещенных на других сайтах, которые могут использовать iframe или требовать дополнительных полей.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Это позволяет шлюзу предоставлять пользовательский html для форм кредитных карт. Это необходимо для поддержки кредитных карт, размещенных на других сайтах, которые могут использовать iframe или требовать дополнительных полей.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Обработка кредитных карт с использованием учетных данных, хранящихся за пределами процессора.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Обработка кредитных карт с использованием не сохраненных учетных данных или хранящихся в Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Вневедомственный ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Пользовательский бланк кредитной карты';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Кредитная карта офсайта';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Кредитная карта';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Это позволяет шлюзу предоставлять пользовательский html для форм автоматизированных расчетных центров. Это предназначено для поддержки внесайтовых автоматизированных расчетных центров, которые могут использовать iframe или требовать дополнительных полей.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Пользовательская форма ACH';
 

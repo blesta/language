@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'الخدمة';
 $lang['AdminTickets.add.text_no_contacts'] = 'لا توجد جهات اتصال إضافية متاحة للعميل المحدد.';
 $lang['AdminTickets.!tooltip.recipients'] = 'عنوان البريد الإلكتروني ليتم إعلامك عند تحديث التذكرة.';
 $lang['AdminTickets.!tooltip.contacts'] = 'جهات الاتصال التي سيتم إعلامها عند تحديث التذكرة. ستتم إضافة الأشخاص الذين لم يتم تحديدهم تلقائياً إلى التذكرة إذا استجابوا لها.';
+$lang['AdminTickets.reply.text_domain'] = 'المجال';
+$lang['AdminTickets.reply.heading_rating'] = 'التقييم';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'تعليق على التقييم';
+$lang['AdminTickets.index.heading_rating'] = 'التقييم';
 

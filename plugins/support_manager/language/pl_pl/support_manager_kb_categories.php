@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Nieprawidłowy i
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Ta kategoria nie może być sama dla siebie rodzicem.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Kategoria ta nie może być przypisana do podmiotu dominującego z odrębnej spółki.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Nieprawidłowy identyfikator rodzica.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Opcja rekurencyjnej aktualizacji artykułów ma nieprawidłowy format.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Opcja aktualizacji artykułów ma nieprawidłowy format.';
 

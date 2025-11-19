@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Обновление билетов для сотрудников (мобильная версия)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Уведомление, отправляемое сотруднику при обновлении билета.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Обновленный билет для сотрудников';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Уведомление, отправленное клиенту с просьбой оценить его впечатления от обращения в службу поддержки.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Запрос на обратную связь';
 

@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.unparent'] = '非亲和重置价格';
 $lang['DomainsController.!error.move_error'] = '所选域无法移动到所选客户端。';
 $lang['DomainsController.getDomainActions.change_registration_date'] = '更改注册日期';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = '更改有效期';
+$lang['DomainsController.getDomainActions.remove_price_override'] = '取消价格覆盖';
+$lang['DomainsController.getDomainActions.set_price_override'] = '设置价格覆盖';
 

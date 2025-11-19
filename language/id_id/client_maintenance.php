@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'Pemeliharaan';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'Mode Pemeliharaan';
+$lang['ClientMaintenance.index.page_title'] = 'Pemeliharaan';
 

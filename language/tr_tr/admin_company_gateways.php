@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Ayarları Güncelle';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'tarafından kullanımda';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'varsayılan';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'para birimi ekle';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Kabul Edilen Para Birimleri';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Ağ Geçidi Seçenekleri';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Ağ geçidi başarıyla kuru
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Ağ geçidi başarıyla kaldırıldı.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Ağ geçidi başarıyla yükseltildi.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Ağ geçidi başarıyla güncellendi.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Para birimi başına varsayılan ağ geçitlerini ayarlamak için %1$sYüklü Ağ Geçitleri%2$s sayfasına gidin ve widget\'ın sağ üst köşesindeki dişli simgesine tıklayın.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Güncelleme';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Her para birimi için varsayılan satıcı ağ geçidini ayarlayın.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Varsayılan Üye İşyeri Ağ Geçitleri';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Varsayılan satıcı ağ geçitleri başarıyla güncellendi.';
 

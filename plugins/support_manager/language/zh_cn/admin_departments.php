@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = '需要';
 $lang['AdminDepartments.add.field_enable_related_services'] = '启用相关服务';
 $lang['AdminDepartments.!tooltip.type'] = '"升级到紧急情况 "显示一个带有信息和复选框的警报框。如果用户选中复选框，则票单将自动升级到 "紧急"，即使该部门已禁用该优先级。仅当可见性设置为仅限客户时可用。';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = '允许客户选择与票据相关的服务。';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = '自动发送反馈提醒';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 客户端/应用程序秘密';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 客户端/应用程序 ID';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0 用户';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0 提供商';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = '自动发送反馈提醒';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 客户端/应用程序秘密';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 客户端/应用程序 ID';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 用户';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 提供商';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = '对于状态为已关闭的所有票单，如果票单已关闭一定时间，就会向客户发送留下反馈的提醒。';
 

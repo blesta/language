@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Zaznacz to pole, aby pracownik był dost
 $lang['AdminStaff.!success.staff_deleted'] = 'Pracownik został pomyślnie usunięty.';
 $lang['AdminStaff.!success.staff_updated'] = 'Pracownik został pomyślnie zaktualizowany.';
 $lang['AdminStaff.!success.staff_added'] = 'Pracownik został pomyślnie dodany.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Tryb edytora Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Tryb edytora Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Wybierz domyślny tryb widoku dla edytorów markdown. WYSIWYG udostępnia edytor tekstu sformatowanego, Markdown wyświetla obok siebie edytor markdown i podgląd, a Markdown - No Preview wyświetla tylko edytor markdown.';
 

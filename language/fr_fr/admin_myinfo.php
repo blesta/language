@@ -39,4 +39,5 @@ $lang['AdminMyinfo.notices.field_noticesubmit'] = 'Avis de mise à jour';
 $lang['AdminMyinfo.notices.no_bcc_results'] = 'Il n\'y a pas d\'avis BCC par email disponible pour votre groupe de personnel.';
 $lang['AdminMyinfo.notices.no_subscription_results'] = 'Il n\'y a pas d\'avis d\'abonnement disponible pour votre groupe de personnel.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'Courriel de récupération (facultatif)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profil de l\'image';
 

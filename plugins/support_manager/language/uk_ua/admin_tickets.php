@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Сервіс';
 $lang['AdminTickets.add.text_no_contacts'] = 'Для обраного клієнта немає додаткових контактів.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Адреса електронної пошти, на яку буде надіслано повідомлення про оновлення квитка.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Контакти, які будуть сповіщені про оновлення тікета. Ті, кого не було обрано, будуть автоматично додані до тікета, якщо відповідатимуть на нього.';
+$lang['AdminTickets.reply.heading_rating'] = 'Рейтинг';
+$lang['AdminTickets.reply.text_domain'] = 'Домен';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Рейтинг Коментар';
+$lang['AdminTickets.index.heading_rating'] = 'Рейтинг';
 

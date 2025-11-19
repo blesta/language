@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = '서비스';
 $lang['AdminTickets.add.text_no_contacts'] = '선택한 고객에 대해 추가 연락처를 사용할 수 없습니다.';
 $lang['AdminTickets.!tooltip.recipients'] = '티켓이 업데이트될 때 알림을 받을 이메일 주소입니다.';
 $lang['AdminTickets.!tooltip.contacts'] = '티켓이 업데이트될 때 알림을 받을 연락처입니다. 선택하지 않은 연락처가 티켓에 응답하면 자동으로 티켓에 추가됩니다.';
+$lang['AdminTickets.reply.text_domain'] = '도메인';
+$lang['AdminTickets.reply.heading_rating'] = '평가';
+$lang['AdminTickets.reply.heading_rating_comment'] = '평가 댓글';
+$lang['AdminTickets.index.heading_rating'] = '평가';
 

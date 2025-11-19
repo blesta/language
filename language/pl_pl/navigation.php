@@ -125,4 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'Nieprawidłowy identyfikator akcji
 $lang['Navigation.getcompany.nav_html_templates'] = 'Szablony HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Kolejka usług';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Zmiany w usługach';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Faktury elektroniczne';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Obsługa kredytów';
 

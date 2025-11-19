@@ -52,4 +52,11 @@ $lang['AdminLogin.!error.captcha.invalid'] = 'Le captcha saisi n\'est pas valide
 $lang['AdminLogin.!success.reset_sent'] = 'Un courriel de confirmation a été envoyé à l\'adresse indiquée.';
 $lang['AdminLogin.!info.reset_password'] = 'Saisissez votre nom d\'utilisateur ci-dessous et un lien vous sera envoyé par courrier électronique afin que vous puissiez créer un nouveau mot de passe.';
 $lang['AdminLogin.!info.otp'] = 'L\'authentification à deux facteurs est requise pour cet utilisateur. Veuillez saisir votre OTP (mot de passe à usage unique) ci-dessous.';
+$lang['AdminLogin.!info.step_up_otp'] = 'Pour continuer, il est nécessaire de vérifier à nouveau votre accès en saisissant votre OTP (mot de passe à usage unique) ci-dessous.';
+$lang['AdminLogin.!info.step_up'] = 'Pour continuer, il est nécessaire de vérifier à nouveau votre accès en saisissant votre mot de passe ci-dessous.';
+$lang['AdminLogin.up.link_cancel'] = 'Annuler';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Vérifier l\'accès';
+$lang['AdminLogin.up.field_password'] = 'Mot de passe';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Vérification de l\'accès';
+$lang['AdminLogin.up.page_title'] = 'Vérification de l\'accès';
 

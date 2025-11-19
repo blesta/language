@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s έχει επεξερ�
 $lang['AdminCompanyGroups.!success.add_created'] = 'Το %1$s δημιουργήθηκε με επιτυχία!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Επιτρεπόμενες πύλες';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Επιτρεπόμενες πύλες';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Επανεπιλογή τιμολογίων για παράδοση μετά το κλείσιμό τους';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Χειρισμός πιστώσεων';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Επανεπιλογή τιμολογίων για παράδοση μετά το κλείσιμό τους';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Χειρισμός πιστώσεων';
 

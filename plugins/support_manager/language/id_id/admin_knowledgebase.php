@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Artikel telah berhasil dib
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Kategori telah berhasil dihapus.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategori telah berhasil diperbarui.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategori telah berhasil dibuat.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Perbarui semua subkategori dan artikelnya juga';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Perbarui semua artikel dalam kategori ini agar memiliki aksesibilitas yang sama';
 

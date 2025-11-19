@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = 'Metode faktur Anda telah 
 $lang['ClientMain.!success.client_updated'] = 'Informasi akun Anda telah berhasil diperbarui.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Diperlukan untuk mengaktifkan Autentikasi Dua Faktor atau memperbarui kata sandi.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Otentikasi Dua Faktor';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Tambahkan Kredit';
 

@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = '连接 POP3/IMAP 服务�
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = '下载门票';
 $lang['SupportManagerPlugin.description'] = '允许用户和员工打开和管理支持票单。';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = '设置';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = '对于在一定时间后关闭的票单，自动向客户发送提醒，请他们留下反馈意见。';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = '发送反馈提醒';
 

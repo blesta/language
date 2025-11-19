@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wählen Sie mind
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'Nur für Kunden';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'Eskalation zum Notfall';
 $lang['SupportManagerDepartments.!error.required.format'] = 'Ob das Feld benötigt wird, muss auf 0 oder 1 gesetzt werden.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'Microsoft';
+$lang['SupportManagerDepartments.providers.google'] = 'Google';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

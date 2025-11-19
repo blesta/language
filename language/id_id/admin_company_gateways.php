@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Memperbarui Pengaturan';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'digunakan oleh';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'default';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'tambahkan mata uang';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Mata Uang yang Diterima';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opsi Gerbang';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Gateway berhasil dipasang.';
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Gateway berhasil dihapus.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Gateway berhasil ditingkatkan.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Gateway berhasil diperbarui.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Untuk mengatur gateway default per mata uang, buka halaman %1$sInstalled Gateways%2$s dan klik ikon roda gigi di kanan atas widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Memperbarui';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Tetapkan gateway pedagang default untuk setiap mata uang.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gerbang Pedagang Default';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Gerbang merchant default telah berhasil diperbarui.';
 

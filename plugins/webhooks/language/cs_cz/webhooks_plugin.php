@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Odesílá automatické požadavky HTTP na
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Vymaže mezipaměť seznamu pozorovatelů událostí.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Vymazat mezipaměť';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Odstraní protokoly webhooku starší než nakonfigurovaná doba uchovávání protokolů.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Čištění protokolů Webhook';
 

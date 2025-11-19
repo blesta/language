@@ -79,4 +79,7 @@ $lang['AdminStaff.schedule_list.heading_department'] = 'Τμήμα';
 $lang['AdminStaff.schedule_list.heading_description'] = 'Περιγραφή';
 $lang['AdminStaff.schedule_list.no_department_results'] = 'Ο εν λόγω υπάλληλος δεν είναι τοποθετημένος σε καμία υπηρεσία.';
 $lang['AdminStaff.text.no_time'] = '--';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Λειτουργία επεξεργασίας Markdown';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Λειτουργία επεξεργασίας Markdown';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Επιλέξτε την προεπιλεγμένη λειτουργία προβολής για τους συντάκτες markdown. Η επιλογή WYSIWYG παρέχει έναν επεξεργαστή πλούσιου κειμένου, η επιλογή Markdown εμφανίζει δίπλα-δίπλα την επεξεργασία markdown και την προεπισκόπηση και η επιλογή Markdown - Χωρίς προεπισκόπηση εμφανίζει μόνο τον επεξεργαστή markdown.';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewPlugin.description'] = 'Εμφανίζει στατιστικά στοιχεία του συστήματος σε ένα widget στο ταμπλό του διαχειριστή.';
 $lang['SystemOverviewPlugin.name'] = 'Επισκόπηση συστήματος';
+$lang['SystemOverviewPlugin.description'] = 'Εμφανίζει στατιστικά στοιχεία του συστήματος σε ένα widget στο ταμπλό του διαχειριστή.';
 

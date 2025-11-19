@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Цей інвойс був рані�
 $lang['ClientPay.!success.credit_partial_processed'] = 'Доступні кредити були використані, але залишок все ще існує. Будь ласка, завершіть цю транзакцію, сплативши решту суми нижче.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Доступні кредити були використані.';
 $lang['ClientPay.!success.payment_processed'] = 'Платіж успішно оброблено на суму %1$s. Номер транзакції: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Залишок до сплати';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Сплачена сума';
+$lang['ClientPay.method.invoice_total'] = 'Інвойс Всього';
+$lang['ClientPay.index.text_credit_max_only'] = 'Максимальна сума: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Мінімальна сума: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Мінімальна сума: %1$s - Максимальна сума: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Сума кредиту не може перевищувати %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Сума кредиту повинна бути не менше %1$s.';
 

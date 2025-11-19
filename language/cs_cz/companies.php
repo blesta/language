@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Délka názvu nesmí překročit 64 zna
 $lang['Companies.!error.name.empty'] = 'Zadejte prosím jméno.';
 $lang['Companies.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['Companies.!error.company_id.in_use'] = 'Tato společnost je v současné době používána a nesmí být odstraněna.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Maximální výše úvěru na %1$s musí být vyšší než minimální výše.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Maximální výše kreditu pro %1$s musí být vyšší než 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Minimální výše kreditu pro %1$s musí být vyšší než 0.';
 

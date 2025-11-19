@@ -43,4 +43,5 @@ $lang['Domain.lookup.order_btn'] = 'Commande sélectionnée';
 $lang['Domain.lookup.term'] = '%1$s %2$s @ %3$s';
 $lang['Domain.lookup.term_recurring'] = '%1$s %2$s @ %3$s (renouvellements @ %4$s)';
 $lang['Domain.lookup.term_onetime'] = '%1$s @ %2$s';
+$lang['Domain.lookup.load_more_tlds'] = 'En savoir plus';
 

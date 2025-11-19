@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Einstellungen > System > Auto
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Der Cron-Schlüssel wurde erfolgreich aktualisiert!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Die Automatisierungseinstellungen wurden erfolgreich aktualisiert!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Bitte setzen Sie einen Cron-Schlüssel.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternative Methode (HTTP-Anfrage mit Cron-Schlüssel)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Beispiel Cron-Befehl für HTTP-Anfragen';
 

@@ -19,4 +19,6 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Αλλαγή 
 $lang['DomainsController.!error.move_error'] = 'Οι επιλεγμένοι τομείς δεν μπόρεσαν να μετακινηθούν στον επιλεγμένο πελάτη.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Αλλαγή ημερομηνίας εγγραφής';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Αλλαγή Ημερομηνία λήξης';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Κατάργηση παράκαμψης τιμής';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Ορισμός παράκαμψης τιμής';
 

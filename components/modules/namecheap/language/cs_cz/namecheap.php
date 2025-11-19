@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Účty';
 $lang['Namecheap.module_row'] = 'Účet';
 $lang['Namecheap.description'] = 'Společnost Namecheap, Inc. je registrátor doménových jmen akreditovaný organizací ICANN, který poskytuje registraci doménových jmen a webhosting. Společnost Namecheap je poskytovatelem levného hostingu s 11 miliony registrovaných uživatelů a 10 miliony domén.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Automaticky aktualizuje seznam domén nejvyšší úrovně a ceny od společnosti Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synchronizace dat TLD';
 

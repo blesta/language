@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['404.heading_error'] = '404';
-$lang['404.text_error'] = 'Üzgünüz, erişmeye çalıştığınız sayfa mevcut değil veya taşınmış olabilir.';
 $lang['404.text_go_to_home'] = 'Ana Sayfaya Git';
+$lang['404.text_error'] = 'Üzgünüz, erişmeye çalıştığınız sayfa mevcut değil veya taşınmış olabilir.';
+$lang['404.heading_error'] = '404';
 

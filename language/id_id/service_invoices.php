@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Penangguhan';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Pembaharuan';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Penyediaan';
 $lang['ServiceInvoices.!error.type.valid'] = 'Jenis upaya tidak valid.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Hanya mengizinkan pembatalan langsung';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Hanya mengizinkan pembatalan di akhir masa berlaku';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Memungkinkan pembatalan segera atau di akhir jangka waktu';
 

@@ -82,4 +82,5 @@ $lang['ClientMain.getcurrencyamounts.text_total_credits'] = 'Crédits :';
 $lang['ClientMain.edit.field_recovery_email'] = 'Courriel de récupération (facultatif)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Requis pour activer l\'authentification à deux facteurs ou mettre à jour le mot de passe.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Authentification à deux facteurs';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Ajouter des crédits';
 

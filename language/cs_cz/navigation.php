@@ -125,4 +125,6 @@ $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Černá listina';
 $lang['Navigation.getcompany.nav_html_templates'] = 'Šablony HTML';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Fronta služeb';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Změny služeb';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronické faktury';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Zpracování úvěrů';
 

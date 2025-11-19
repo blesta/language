@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = 'Невалиден тип.';
 $lang['Clients.!error.account_id.exists'] = 'Невалиден идентификатор на акаунта.';
 $lang['Clients.!error.client_id.exists'] = 'Невалиден идентификатор на клиент.';
 $lang['Clients.!error.client_group_id.exists'] = 'Невалиден идентификатор на клиентска група.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от минималния размер.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от 0.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = 'Минималният размер на кредита за %1$s трябва да е по-голям от 0.';
 

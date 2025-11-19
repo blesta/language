@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generator Ekstensi 
 $lang['AdminMerchant.index.page_title'] = 'Generator Ekstensi - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Pemrosesan lembaga kliring otomatis menggunakan kredensial yang disimpan di luar lokasi oleh pemroses.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Proses kliring otomatis menggunakan kredensial yang tidak disimpan atau yang disimpan di Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Hal ini memungkinkan gateway untuk menyediakan html khusus untuk formulir kartu kredit.  Hal ini dimaksudkan untuk mendukung kartu kredit di luar situs yang mungkin menggunakan iframe atau memerlukan bidang tambahan.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Hal ini memungkinkan gateway untuk menyediakan html khusus untuk formulir kartu kredit. Hal ini dimaksudkan untuk mendukung kartu kredit di luar situs yang mungkin menggunakan iframe atau memerlukan bidang tambahan.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Pemrosesan kartu kredit menggunakan kredensial yang disimpan di luar lokasi oleh pemroses.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Pemrosesan kartu kredit menggunakan kredensial yang tidak tersimpan atau yang tersimpan di Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH di luar lokasi';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Formulir Kartu Kredit Khusus';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Kartu Kredit di Luar Kantor';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Kartu Kredit';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Hal ini memungkinkan gateway untuk menyediakan html khusus untuk formulir lembaga kliring otomatis. Hal ini dimaksudkan untuk mendukung rumah kliring otomatis di luar lokasi yang mungkin menggunakan iframe atau memerlukan bidang tambahan.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Formulir ACH khusus';
 

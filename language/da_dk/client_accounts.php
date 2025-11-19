@@ -91,4 +91,11 @@ $lang['ClientAccounts.navigation.nav_dashboard'] = 'Dashboard';
 $lang['ClientAccounts.navigation.nav_paymentaccounts'] = 'Betalingskonti';
 $lang['ClientAccounts.navigation.nav_paymentaccounts_add'] = 'Tilføj betalingskonto';
 $lang['ClientAccounts.navigation.nav_return'] = 'Tilbage til instrumentbrættet';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Opdater indstillinger';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Underretningstærskel';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Valuta';
+$lang['ClientAccounts.credithandling.text_description'] = 'Konfigurer meddelelser om lav saldo. Du vil modtage en daglig e-mail, når din saldo falder til under tærskelværdien for en hvilken som helst valuta.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Håndtering af kredit';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Håndtering af kredit';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Indstillingerne for kredithåndtering er blevet opdateret.';
 

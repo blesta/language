@@ -86,4 +86,5 @@ $lang['ClientContacts.!info.no_contacts'] = '현재 연락처가 없는 경우 �
 $lang['ClientContacts.!success.contact_added'] = '연락처가 성공적으로 생성되었습니다!';
 $lang['ClientContacts.!success.contact_updated'] = '연락처가 성공적으로 업데이트되었습니다!';
 $lang['ClientContacts.!success.contact_deleted'] = '연락처 %1$s %2$s가 성공적으로 삭제되었습니다!';
+$lang['ClientContacts.contact_info.field_avatar'] = '프로필 사진';
 

@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = '账户';
 $lang['RealtimeRegister.module_row'] = '账户';
 $lang['RealtimeRegister.description'] = '我们提供来自 150 多个注册机构的 2,000 多个顶级域名，并不断增加新的顶级域名。我们负责注册更新以及所有政策和程序。';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = '域名状态';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = '您不能管理此域。';
 

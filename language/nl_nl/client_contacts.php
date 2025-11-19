@@ -86,4 +86,5 @@ $lang['ClientContacts.!success.contact_deleted'] = 'Het contact %1$s %2$s is suc
 $lang['ClientContacts.tooltip.client_quotations'] = 'Offertes weergeven op het dashboard en toestaan dat ze worden goedgekeurd of geweigerd.';
 $lang['ClientContacts.edit.field_recovery_email'] = 'Herstelmail (optioneel)';
 $lang['ClientContacts.add.field_recovery_email'] = 'Herstelmail (optioneel)';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Profielfoto';
 

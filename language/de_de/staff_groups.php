@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-Vorl
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Erweiterter Bearbeitungsdienst';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service-Warteschlange';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Änderungen im Dienst';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Kreditbearbeitung';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Benutzerdefiniertes Feld löschen';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Benutzerdefiniertes Feld bearbeiten';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Benutzerdefiniertes Feld hinzufügen';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektronische Rechnungen';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Coupon-Paket abrufen Option Info';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Fetch Coupon Paket Optionen';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Zitate auflisten';
 

@@ -31,4 +31,7 @@ $lang['Companies.!error.inv_pad_str.length'] = 'Le caractère de remplissage de 
 $lang['Companies.!error.inv_proforma_format.format'] = 'Le format de facture pro forma ne peut pas être en contradiction avec le format de projet de facture.';
 $lang['Companies.!error.inv_proforma_format.contains'] = 'Le format de la facture pro forma doit contenir {num}.';
 $lang['Companies.!error.inv_proforma_start.number'] = 'La valeur de départ de la facture pro forma doit être un nombre.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Le montant maximum du crédit pour %1$s doit être supérieur au montant minimum.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Le montant maximum du crédit pour %1$s doit être supérieur à 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Le montant minimum du crédit pour %1$s doit être supérieur à 0.';
 

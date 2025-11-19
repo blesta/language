@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Versie is ongeldig.';
 $lang['GatewayManager.!error.name.valid'] = 'Naam is ongeldig.';
 $lang['GatewayManager.!error.class.valid'] = 'Klasse is ongeldig.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Bedrijfs-ID is ongeldig.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Deze gateway wordt gebruikt als standaard voor één of meerdere valuta\'s, een andere moet geselecteerd worden voordat die valuta van deze gateway verwijderd wordt.';
 

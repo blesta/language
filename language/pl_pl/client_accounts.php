@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Konto płatnicze zostało 
 $lang['ClientAccounts.!success.account_created'] = 'Konto płatnicze zostało pomyślnie utworzone.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Domyślne konto płatności zostało usunięte.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Domyślne konto płatności zostało zaktualizowane.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Ustawienia aktualizacji';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Próg powiadomienia';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Waluta';
+$lang['ClientAccounts.credithandling.text_description'] = 'Skonfiguruj powiadomienia o niskim saldzie. Otrzymasz codzienną wiadomość e-mail, gdy saldo kredytowe spadnie poniżej kwoty progowej dla dowolnej waluty.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Obsługa kredytów';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Obsługa kredytów';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Ustawienia obsługi kredytów zostały pomyślnie zaktualizowane.';
 

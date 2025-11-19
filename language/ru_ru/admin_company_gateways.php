@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Обновление настроек';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'в использовании';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'по умолчанию';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'добавить валюту';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Принимаемые валюты';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Параметры шлюза';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Шлюз был успешн
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Шлюз был успешно деинсталлирован.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Шлюз был успешно обновлен.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Шлюз был успешно обновлен.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Чтобы установить шлюзы по умолчанию для каждой валюты, перейдите на страницу %1$sInstalled Gateways%2$s и нажмите на значок шестеренки в правом верхнем углу виджета.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Обновление';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Торговые шлюзы по умолчанию';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Установите торговый шлюз по умолчанию для каждой валюты.';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Торговые шлюзы по умолчанию были успешно обновлены.';
 

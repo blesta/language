@@ -84,4 +84,6 @@ $lang['PackageOptions.getfields.label_radio_setup_recurring'] = '{1$s} (%2$s + %
 $lang['PackageOptions.getfields.label_radio_setup'] = '%1$s (%2$s + %3$s kurulum)';
 $lang['PackageOptions.getfields.label_radio'] = '%1$s (%2$s)';
 $lang['PackageOptions.getfields.label_radio_recurring'] = '%1$s (%2$s, yeniler @ %3$s)';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Faturada gizlenip gizlenmeyeceği 0 veya 1 olarak ayarlanmalıdır.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Fiyatlandırmanın devre dışı bırakılıp bırakılmayacağı 0 veya 1 olarak ayarlanmalıdır.';
 

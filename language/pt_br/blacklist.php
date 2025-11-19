@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'A regra fornecida não é um endere�
 $lang['Blacklist.!error.type.format'] = 'O tipo deve ser "ip" ou "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'O plug-in fornecido não existe.';
 $lang['Blacklist.!error.rule.exists'] = 'Essa regra já existe no banco de dados.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'A regra de saída do bloco deve ser "1" ou "0".';
 

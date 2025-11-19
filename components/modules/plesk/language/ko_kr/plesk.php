@@ -142,4 +142,10 @@ $lang['Plesk.!error.simplexml_required'] = '이 모듈에는 simplexml 확장자
 $lang['Plesk.!bytes.value'] = '%1$s %2$s';
 $lang['Plesk.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['Plesk.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s 사용 가능)';
+$lang['Plesk.service_info.login_unavailable'] = '로그인할 수 없습니다.';
+$lang['Plesk.tab_client_login.field_login'] = '로그인';
+$lang['Plesk.tab_client_login.field_plesk_password'] = '비밀번호';
+$lang['Plesk.tab_client_login.field_plesk_username'] = '사용자 이름';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Plesk에 로그인';
+$lang['Plesk.tab_client_login'] = 'Plesk에 로그인';
 

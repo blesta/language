@@ -71,4 +71,12 @@ $lang['ClientPay.!info.unverified_email'] = '입력하신 이메일 주소로 �
 $lang['ClientPay.!success.invoice_paid'] = '이 인보이스는 이전에 결제되었습니다.';
 $lang['ClientPay.!success.credit_partial_processed'] = '사용 가능한 크레딧이 적용되었지만 아직 잔액이 남아 있습니다. 아래에서 나머지 금액을 결제하여 거래를 완료하세요.';
 $lang['ClientPay.!success.credit_full_processed'] = '사용 가능한 크레딧이 적용되었습니다.';
+$lang['ClientPay.method.invoice_balance_due'] = '잔액 마감';
+$lang['ClientPay.method.invoice_paid_amount'] = '결제 금액';
+$lang['ClientPay.method.invoice_total'] = '송장 합계';
+$lang['ClientPay.index.text_credit_max_only'] = '최대 금액: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = '최소 금액: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = '최소 금액: %1$s - 최대 금액: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = '크레딧 금액은 %1$s 을 초과할 수 없습니다.';
+$lang['ClientPay.!error.credit_minimum'] = '크레딧 금액은 %1$s 이상이어야 합니다.';
 

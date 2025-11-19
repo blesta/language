@@ -19,4 +19,7 @@ $lang['Global.select.never'] = '-- Asla --';
 $lang['Global.time_since.minute'] = '%1$s min';
 $lang['Global.time_since.hour'] = '%1$s hr';
 $lang['Global.time_since.day'] = '%1$s d';
+$lang['Global.services.text_suspended'] = '(Askıya alındı)';
+$lang['Global.services.text_domain'] = 'Etki Alanı';
+$lang['Global.services.text_service_none'] = 'Hiçbiri';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Einstellungen aktualisieren';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'im Einsatz bei';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'Standard';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'Währung hinzufügen';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Akzeptierte Währungen';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Gateway-Optionen';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Das Gateway wurde erfolgreic
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Das Gateway wurde erfolgreich deinstalliert.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Das Gateway wurde erfolgreich aufgerüstet.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Das Gateway wurde erfolgreich aktualisiert.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Um die Standard-Gateways pro Währung festzulegen, gehen Sie auf die Seite %1$sInstalled Gateways%2$s und klicken Sie auf das Zahnradsymbol oben rechts im Widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Update';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Legen Sie das Standard-Händler-Gateway für jede Währung fest.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Standard-Händler-Gateways';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Die Standard-Händler-Gateways wurden erfolgreich aktualisiert.';
 

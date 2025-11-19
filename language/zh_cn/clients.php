@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = '类型无效。';
 $lang['Clients.!error.account_id.exists'] = '账户 ID 无效。';
 $lang['Clients.!error.client_id.exists'] = '客户 ID 无效。';
 $lang['Clients.!error.client_group_id.exists'] = '客户组 ID 无效。';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s 的最高信用额度必须大于最低额度。';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s 的最大信用额必须大于 0。';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s 的最低信用额必须大于 0。';
 

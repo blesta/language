@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Du är inte behörig att ko
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Släpp filer här för att ladda upp eller klicka för att välja filer';
 $lang['AppController.!error.client_unauthorized_access'] = 'Du har inte behörighet att komma åt den resursen, vänligen kontakta den primära kontoinnehavaren för att begära åtkomst';
+$lang['AppController.structure.text_step_up_access'] = 'Du har för närvarande en step up-session öppen med åtkomst till admininställningar. Klicka här för att släppa åtkomst.';
 

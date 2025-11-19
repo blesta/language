@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['FeedReaderPlugin.description'] = 'Herhangi bir RSS/Atom beslemesini doğrudan kontrol panelinizde görüntüleyin.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'Bu eklenti için dom uzantısı gereklidir.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'Bu eklenti için libxml uzantısı gereklidir.';
-$lang['FeedReaderPlugin.description'] = 'Herhangi bir RSS/Atom beslemesini doğrudan kontrol panelinizde görüntüleyin.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

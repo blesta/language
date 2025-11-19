@@ -140,4 +140,8 @@ $lang['AdminForms.settings.text_accepted_payment_types'] = 'Når nogen opretter 
 $lang['AdminForms.settings.payments_allowed_cc'] = 'Kreditkort';
 $lang['AdminForms.settings.payments_allowed_ach'] = 'Automatiseret clearingcentral';
 $lang['AdminForms.settings.field_save'] = 'Gem indstillinger';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Når du vælger en pakke, skal du vise de månedlige omkostninger for hver prismulighed samt besparelsen pr. måned sammenlignet med den månedlige pris (hvis det er relevant).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Vis månedlig prisopdeling';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Når du vælger en pakke, skal du vise de månedlige omkostninger for hver prismulighed samt besparelsen pr. måned sammenlignet med den månedlige pris (hvis det er relevant).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Vis månedlig prisopdeling';
 

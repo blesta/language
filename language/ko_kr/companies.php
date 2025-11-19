@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = '이름 길이는 64자를 초과할 수
 $lang['Companies.!error.name.empty'] = '이름을 입력하세요.';
 $lang['Companies.!error.company_id.exists'] = '회사 ID가 잘못되었습니다.';
 $lang['Companies.!error.company_id.in_use'] = '해당 회사는 현재 사용 중이며 삭제되지 않을 수 있습니다.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = '%1$s 의 최대 크레딧 금액은 최소 금액보다 커야 합니다.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = '%1$s 의 최대 크레딧 금액은 0보다 커야 합니다.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = '%1$s 의 최소 크레딧 금액은 0보다 커야 합니다.';
 

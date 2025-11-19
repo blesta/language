@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'مولد الامت
 $lang['AdminMerchant.index.page_title'] = 'مولد التمديد - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'معالجة غرفة المقاصة الآلية باستخدام بيانات الاعتماد المخزنة خارج الموقع بواسطة المعالج.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'معالجة المقاصة الآلية باستخدام بيانات الاعتماد غير المخزنة أو تلك المخزنة في Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'يسمح هذا للبوابة بتوفير html مخصص لنماذج بطاقات الائتمان.  يهدف هذا إلى دعم بطاقات الائتمان خارج الموقع التي قد تستخدم إطارات iframes أو تتطلب حقولاً إضافية.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'يسمح هذا للبوابة بتوفير html مخصص لنماذج بطاقات الائتمان. يهدف هذا إلى دعم بطاقات الائتمان خارج الموقع التي قد تستخدم إطارات iframes أو تتطلب حقولاً إضافية.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'معالجة بطاقات الائتمان باستخدام بيانات الاعتماد المخزنة خارج الموقع بواسطة المعالج.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'معالجة بطاقات الائتمان باستخدام بيانات اعتماد غير مخزنة أو تلك المخزنة في Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'غرفة المقاصة خارج الموقع';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'نموذج بطاقة ائتمان مخصص';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'بطاقة ائتمان خارج الموقع';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'البطاقة الائتمانية';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'يسمح هذا للبوابة بتوفير html مخصص لنماذج غرفة المقاصة الآلية. ويهدف ذلك إلى دعم غرف المقاصة الآلية خارج الموقع التي قد تستخدم إطارات iframes أو تتطلب حقولاً إضافية.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'نموذج ACH المخصص';
 

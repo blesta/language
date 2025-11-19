@@ -82,4 +82,5 @@ $lang['ClientMain.!success.invoice_method_updated'] = '청구서 방법이 성�
 $lang['ClientMain.!success.client_updated'] = '계정 정보가 성공적으로 업데이트되었습니다.';
 $lang['ClientMain.edit.tooltip_confirm_password'] = '2단계 인증을 사용하거나 비밀번호를 업데이트하는 데 필요합니다.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = '2단계 인증';
+$lang['ClientMain.getcurrencyamounts.link_addcredits'] = '크레딧 추가';
 

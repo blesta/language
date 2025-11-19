@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Рахунки';
 $lang['RealtimeRegister.module_row'] = 'Обліковий запис';
 $lang['RealtimeRegister.description'] = 'Ми пропонуємо понад 2 000 доменних імен у більш ніж 150 реєстрах і постійно додаємо нові. Ми дбаємо про оновлення реєстру, а також про всі політики та процедури.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Статус домену';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Ви не маєте права керувати цим доменом.';
 

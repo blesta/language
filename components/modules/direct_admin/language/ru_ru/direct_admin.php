@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = 'Похоже, что имя хо
 $lang['DirectAdmin.!error.server_name.empty'] = 'Необходимо ввести метку сервера.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP-адрес';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Похоже, что IP-адрес недействителен.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Версия HTTP';
 

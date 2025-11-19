@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Тази фактура вече е 
 $lang['ClientPay.!success.credit_partial_processed'] = 'Наличните кредити са приложени, но все още има остатък. Моля, завършете тази транзакция, като платите остатъка по-долу.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Наличните кредити са приложени.';
 $lang['ClientPay.!success.payment_processed'] = 'Плащането беше успешно обработено за %1$s. Номер на транзакцията: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Дължимо салдо';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Платена сума';
+$lang['ClientPay.method.invoice_total'] = 'Фактура Общо';
+$lang['ClientPay.index.text_credit_max_only'] = 'Максимална сума: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Минимална сума: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Минимална сума: %1$s - Максимална сума: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Размерът на кредита не може да надвишава %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Размерът на кредита трябва да бъде най-малко %1$s.';
 

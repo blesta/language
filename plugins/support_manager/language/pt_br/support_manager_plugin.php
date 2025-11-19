@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Conecta-se ao servidor P
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Baixar ingressos';
 $lang['SupportManagerPlugin.description'] = 'Permite que os usuários e a equipe abram e gerenciem tíquetes de suporte.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Configurações';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Envie automaticamente lembretes aos clientes para que deixem seus comentários sobre os tíquetes que foram fechados após um determinado período de tempo.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Enviar lembretes de feedback';
 

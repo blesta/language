@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = 'Потрібно';
 $lang['AdminDepartments.add.field_enable_related_services'] = 'Увімкнути супутні послуги';
 $lang['AdminDepartments.!tooltip.type'] = '"Ескалація до аварійного" показує вікно попередження з повідомленням і прапорцем. Якщо користувач встановлює прапорець, тікет автоматично переходить в категорію "Екстрений", навіть якщо цей пріоритет вимкнений для відділу. Доступно тільки якщо для параметра "Видимість" встановлено значення "Тільки клієнт".';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = 'Дозвольте клієнтам обирати послугу, до якої відноситься квиток.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = 'Автоматично надсилати нагадування про зворотній зв\'язок';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'Секрет клієнта / програми OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'Ідентифікатор клієнта / програми OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'Користувач OAuth 2.0';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'Постачальник OAuth 2.0';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = 'Автоматично надсилати нагадування про зворотній зв\'язок';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'Секрет клієнта / програми OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'Ідентифікатор клієнта / програми OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'Користувач OAuth 2.0';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'Постачальник OAuth 2.0';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Для всіх квитків зі статусом "закрито" клієнту буде надіслано нагадування про необхідність залишити відгук, якщо квиток був закритий протягом обраного періоду часу.';
 

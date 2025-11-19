@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Form başarıyla güncellendi.';
 $lang['AdminForms.!success.form_delete'] = 'Form başarıyla silindi.';
 $lang['AdminForms.!success.form_added'] = 'Form başarıyla eklendi.';
 $lang['AdminForms.!success.settings_saved'] = 'Ayarlar başarıyla kaydedildi';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Bir paket seçerken, her fiyatlandırma seçeneği için aylık maliyeti ve aylık fiyatla karşılaştırıldığında aylık tasarrufu (varsa) gösterin.';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Aylık Fiyat Dağılımını Göster';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Bir paket seçerken, her fiyatlandırma seçeneği için aylık maliyeti ve aylık fiyatla karşılaştırıldığında aylık tasarrufu (varsa) gösterin.';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Aylık Fiyat Dağılımını Göster';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'reCaptcha delad nyckel';
-$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'reCaptcha nyckel för webbplats';
 $lang['ReCaptcha.name'] = 'reCaptcha';
+$lang['ReCaptcha.options.field_recaptcha_pub_key'] = 'reCaptcha nyckel för webbplats';
+$lang['ReCaptcha.options.field_recaptcha_shared_key'] = 'reCaptcha delad nyckel';
 

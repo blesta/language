@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Kata sandi';
 $lang['AdminLogin.index.field_username'] = 'Nama pengguna';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Area Staf';
 $lang['AdminLogin.index.page_title'] = 'Masuk';
+$lang['AdminLogin.!info.step_up_otp'] = 'Untuk melanjutkan, Anda perlu memverifikasi akses Anda lagi dengan memasukkan OTP (Kata Sandi Sekali Pakai) Anda di bawah ini.';
+$lang['AdminLogin.!info.step_up'] = 'Untuk melanjutkan, Anda perlu memverifikasi akses Anda lagi dengan memasukkan kata sandi di bawah ini.';
+$lang['AdminLogin.up.link_cancel'] = 'Batal';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Verifikasi Akses';
+$lang['AdminLogin.up.field_password'] = 'Kata sandi';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verifikasi Akses';
+$lang['AdminLogin.up.page_title'] = 'Verifikasi Akses';
 

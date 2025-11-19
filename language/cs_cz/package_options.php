@@ -84,4 +84,6 @@ $lang['PackageOptions.!error.name.empty'] = 'Zadejte název této možnosti.';
 $lang['PackageOptions.!error.label.length'] = 'Délka štítku nesmí přesáhnout 128 znaků.';
 $lang['PackageOptions.!error.label.empty'] = 'Zadejte prosím štítek.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Neplatné ID společnosti.';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Zda se má skrývat na faktuře, musí být nastaveno na 0 nebo 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Zda se má cenotvorba zakázat, musí být nastaveno na 0 nebo 1.';
 

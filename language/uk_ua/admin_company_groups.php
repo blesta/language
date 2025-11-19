@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = 'Файл %1$s успішн�
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s успішно створено!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Дозволені шлюзи';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Дозволені шлюзи';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Ставте інвойси в чергу на доставку після їх закриття';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Обробка кредитів';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Ставте інвойси в чергу на доставку після їх закриття';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Обробка кредитів';
 

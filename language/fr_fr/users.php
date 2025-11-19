@@ -12,7 +12,7 @@
 $lang['Users.!error.username.empty'] = 'Veuillez saisir un nom d\'utilisateur.';
 $lang['Users.!error.username.unique'] = 'Ce nom d\'utilisateur a déjà été pris.';
 $lang['Users.!error.current_password.matches'] = 'Mot de passe non valide.';
-$lang['Users.!error.new_password.format'] = 'Veuillez saisir un mot de passe d\'au moins 6 caractères.';
+$lang['Users.!error.new_password.format'] = 'Veuillez saisir un mot de passe d\'au moins %1$s caractères.';
 $lang['Users.!error.new_password.matches'] = 'Les mots de passe ne correspondent pas.';
 $lang['Users.!error.two_factor_mode.format'] = 'Mode à deux facteurs non valide.';
 $lang['Users.!error.two_factor_key.format'] = 'Clé à deux facteurs invalide.';

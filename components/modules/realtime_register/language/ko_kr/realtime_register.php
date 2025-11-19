@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = '계정';
 $lang['RealtimeRegister.module_row'] = '계정';
 $lang['RealtimeRegister.description'] = '당사는 150개 이상의 레지스트리에서 2,000개 이상의 TLD를 제공하고 있으며 지속적으로 새로운 레지스트리를 추가하고 있습니다. 레지스트리 업데이트와 모든 정책 및 절차를 처리합니다.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = '도메인 상태';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = '이 도메인은 관리할 수 없습니다.';
 

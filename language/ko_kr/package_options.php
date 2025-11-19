@@ -84,4 +84,6 @@ $lang['PackageOptions.getfields.label_password_setup_recurring'] = '%1$s + %2$s 
 $lang['PackageOptions.getfields.label_textarea_recurring'] = '{1$s} (갱신 @ %2$s)';
 $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s 설정';
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s 설정 (%3$s에서 갱신됨)';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = '인보이스에서 숨길지 여부는 0 또는 1로 설정해야 합니다.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = '가격 책정 비활성화 여부는 0 또는 1로 설정해야 합니다.';
 

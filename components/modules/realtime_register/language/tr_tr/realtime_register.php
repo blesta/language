@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Hesaplar';
 $lang['RealtimeRegister.module_row'] = 'Hesap';
 $lang['RealtimeRegister.description'] = '150\'den fazla sicilden 2.000\'den fazla TLD sunuyoruz ve sürekli yenilerini ekliyoruz. Kayıt güncellemeleri ve tüm politika ve prosedürlerle biz ilgileniyoruz.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Etki Alanı Durumu';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Bu etki alanını yönetme izniniz yok.';
 

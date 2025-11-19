@@ -192,4 +192,12 @@ $lang['StaffGroups.!error.company_id.exists'] = 'Невалиден иденти
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Невалиден идентификатор на групата на персонала.';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Опашка за услуги';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Промени в услугите';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Обработка на кредити';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Изтриване на потребителско поле';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Редактиране на потребителско поле';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Добавяне на потребителско поле';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Електронни фактури';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Извличане на информация за пакет от купони';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Опции за пакет за купон Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Списък с цитати';
 

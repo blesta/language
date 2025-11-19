@@ -39,4 +39,5 @@ $lang['AdminMyinfo.notices.field_noticesubmit'] = 'Opdater meddelelser';
 $lang['AdminMyinfo.notices.no_bcc_results'] = 'Der er ingen e-mail BCC-meddelelser til rådighed for din personalegruppe.';
 $lang['AdminMyinfo.notices.no_subscription_results'] = 'Der er ingen abonnementsmeddelelser tilgængelige for din personalegruppe.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Profilbillede';
 

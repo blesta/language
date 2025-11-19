@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Maakt verbinding met de 
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Kaartjes downloaden';
 $lang['SupportManagerPlugin.description'] = 'Hiermee kunnen gebruikers en medewerkers supporttickets openen en beheren.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Instellingen';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Stuur automatisch herinneringen naar klanten om hun feedback achter te laten voor tickets die na een bepaalde periode zijn gesloten.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Feedbackherinneringen versturen';
 

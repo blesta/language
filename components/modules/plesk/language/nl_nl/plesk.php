@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'De hostnaam lijkt ongeldig te zijn.';
 $lang['Plesk.!error.server_name.empty'] = 'U moet een serverlabel invoeren.';
 $lang['Plesk.!error.api.internal'] = 'Er is een interne fout opgetreden of de server heeft niet gereageerd op de aanvraag.';
 $lang['Plesk.!error.simplexml_required'] = 'De simplexml extensie is vereist voor deze module.';
+$lang['Plesk.service_info.login_unavailable'] = 'Inloggen niet beschikbaar';
+$lang['Plesk.tab_client_login.field_login'] = 'Inloggen';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Gebruikersnaam';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Wachtwoord';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Aanmelden bij Plesk';
+$lang['Plesk.tab_client_login'] = 'Aanmelden bij Plesk';
 

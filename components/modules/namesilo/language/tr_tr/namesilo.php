@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'İdari';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'İletişim Kimliği';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Kişileri namesilo\'dan çeker ve onları blesta müşterileriyle ilişkilendirir.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Namesilo Kişilerini Çekin';
+$lang['Namesilo.notice.default_nameservers'] = 'Bu özellik, etki alanının aşağıdaki ad sunucularını kullanmasını gerektirir: ns1.dnsowl.com, ns2.dnsowl.com ve ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Alan adı kayıt için uygun değildir.';
 

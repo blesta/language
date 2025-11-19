@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Rechnung';
 $lang['ClientInvoices.view.page_title'] = 'Invoice #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Herunterladen';
+$lang['ClientInvoices.!error.format.invalid'] = 'Das ausgewählte Rechnungsformat ist nicht verfügbar.';
+$lang['ClientInvoices.view.balance_due'] = 'Fälliger Saldo';
+$lang['ClientInvoices.view.payments_amount'] = 'Angewandter Betrag';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transaktion #';
+$lang['ClientInvoices.view.payments_type'] = 'Typ';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Datum des Antrags';
+$lang['ClientInvoices.view.payments_heading'] = 'Zahlungen';
 

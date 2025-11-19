@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'لا يجوز أن يتجاوز طول 
 $lang['Companies.!error.name.empty'] = 'الرجاء إدخال اسم.';
 $lang['Companies.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
 $lang['Companies.!error.company_id.in_use'] = 'هذه الشركة قيد الاستخدام حاليًا ولا يجوز حذفها.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'يجب أن يكون الحد الأقصى لمبلغ الائتمان %1$s أكبر من الحد الأدنى للمبلغ.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'يجب أن يكون الحد الأقصى لمبلغ الرصيد %1$s أكبر من 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'يجب أن يكون الحد الأدنى لمبلغ الرصيد %1$s أكبر من 0.';
 

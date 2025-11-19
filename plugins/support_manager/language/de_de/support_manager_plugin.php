@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Stellt eine Verbindung z
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Fahrkarten herunterladen';
 $lang['SupportManagerPlugin.description'] = 'Ermöglicht es Benutzern und Mitarbeitern, Support-Tickets zu öffnen und zu verwalten.';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Einstellungen';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Versenden Sie automatisch Erinnerungen an Kunden, um ihr Feedback für Tickets zu hinterlassen, die nach einer bestimmten Zeit geschlossen wurden.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Feedback-Erinnerungen senden';
 

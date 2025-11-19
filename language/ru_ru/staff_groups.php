@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Шабл�
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Служба расширенного редактирования';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Очередь обслуживания';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Изменения в обслуживании';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Работа с кредитами';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Удалить пользовательское поле';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Редактирование пользовательского поля';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Добавить пользовательское поле';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Электронные счета-фактуры';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Информация о параметрах пакета купонов Fetch';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Варианты пакетов купонов Fetch';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Список цитат';
 

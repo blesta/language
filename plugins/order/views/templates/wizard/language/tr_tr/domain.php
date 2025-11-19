@@ -43,4 +43,5 @@ $lang['Domain.lookup.term_week'] = '%1$s Hafta';
 $lang['Domain.lookup.term_days'] = '%1$s Günler';
 $lang['Domain.lookup.term_day'] = '%1$s Gün';
 $lang['Domain.lookup.domain_eligible_free'] = '%1$s Ücretsiz için uygun';
+$lang['Domain.lookup.load_more_tlds'] = 'Daha Fazla Yükle';
 

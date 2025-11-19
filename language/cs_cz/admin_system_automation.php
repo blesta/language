@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Nastavení > Systém > Automa
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Klíč cron byl úspěšně aktualizován!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Nastavení automatizace bylo úspěšně aktualizováno!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Nastavte prosím klíč cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternativní metoda (požadavek HTTP s klíčem Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Příklad příkazu Cron pro požadavky HTTP';
 

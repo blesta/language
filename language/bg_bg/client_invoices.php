@@ -53,4 +53,11 @@ $lang['ClientInvoices.index.categorylink_make_payment'] = 'Направете п
 $lang['ClientInvoices.index.category_closed'] = 'Затворен';
 $lang['ClientInvoices.index.category_open'] = 'Отворете';
 $lang['ClientInvoices.index.page_title'] = 'Клиент #%1$s Фактури';
+$lang['ClientInvoices.!error.format.invalid'] = 'Избраният формат на фактурата не е наличен.';
+$lang['ClientInvoices.view.balance_due'] = 'Дължимо салдо';
+$lang['ClientInvoices.view.payments_amount'] = 'Приложена сума';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Транзакция #';
+$lang['ClientInvoices.view.payments_type'] = 'Тип';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Дата на кандидатстване';
+$lang['ClientInvoices.view.payments_heading'] = 'Плащания';
 

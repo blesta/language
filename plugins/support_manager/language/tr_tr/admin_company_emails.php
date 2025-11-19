@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Personel Bileti Güncellendi (Mobil)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Bir bilet güncellendiğinde bir personele gönderilen bildirim.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Personel Bileti Güncellendi';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Müşteriye gönderilen ve destek bileti deneyimlerini değerlendirmelerini isteyen bildirim.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Bilet Geri Bildirim Talebi';
 

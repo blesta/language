@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!text.add_category'] = 'Ajouter une catégorie';
 $lang['AdminKnowledgebase.!text.directory_separator'] = '/';
 $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Les articles publics sont accessibles à tous. Les articles privés ne sont accessibles qu\'aux utilisateurs connectés. Les articles cachés sont inaccessibles. Les articles du personnel ne sont visibles que par les membres du personnel.';
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Les catégories publiques sont accessibles à tous. Les catégories privées sont accessibles uniquement aux utilisateurs connectés. Les catégories cachées sont inaccessibles. Les catégories réservées au personnel ne sont visibles que par les membres du personnel.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Mettre à jour toutes les sous-catégories et leurs articles également';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Mettre à jour tous les articles de cette catégorie pour qu\'ils aient la même accessibilité';
 

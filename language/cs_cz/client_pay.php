@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = 'Tato faktura byla již dříve uhraz
 $lang['ClientPay.!success.credit_partial_processed'] = 'Dostupné kredity byly použity, ale stále existuje zůstatek. Dokončete prosím tuto transakci zaplacením níže uvedeného zbytku.';
 $lang['ClientPay.!success.credit_full_processed'] = 'Dostupné kredity byly použity.';
 $lang['ClientPay.!success.payment_processed'] = 'Platba za %1$s byla úspěšně zpracována. Číslo transakce: %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = 'Zůstatek k úhradě';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Vyplacená částka';
+$lang['ClientPay.method.invoice_total'] = 'Faktura celkem';
+$lang['ClientPay.index.text_credit_max_only'] = 'Maximální částka: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Minimální částka: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Minimální částka: %1$s - Maximální částka: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Výše úvěru nesmí přesáhnout %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Výše úvěru musí být alespoň %1$s.';
 

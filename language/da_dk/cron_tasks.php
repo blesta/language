@@ -67,4 +67,6 @@ $lang['CronTasks.crontask.description.transition_quotations'] = 'Markér tilbud,
 $lang['CronTasks.crontask.name.license_validation'] = 'Validering af licens';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Fjerner alle tokens til nulstilling af adgangskode fra systemet efter udløbsdatoen.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Slet udløbne tokens til nulstilling af adgangskode';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Sender en meddelelse til alle brugere, hvis kreditniveau er faldet til under den indstillede grænse.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Meddelelser om lav saldo';
 

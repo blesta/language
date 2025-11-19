@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.package_pricing.service'] = 'No se ha podido desactiva
 $lang['DomainsTlds.!error.tld.supported'] = 'El módulo registrador seleccionado no admite el TLD proporcionado.';
 $lang['DomainsTlds.!error.feature.unsupported'] = 'El módulo de registro seleccionado no admite la función %1$s.';
 $lang['DomainsTlds.getTldFields.group'] = 'Grupo';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" no es un servidor de nombres válido.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'El módulo seleccionado no tiene filas de módulo configuradas. Configure el módulo antes de realizar la migración.';
 

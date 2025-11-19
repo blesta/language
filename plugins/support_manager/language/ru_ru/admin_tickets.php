@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Сервис';
 $lang['AdminTickets.add.text_no_contacts'] = 'Для выбранного клиента нет дополнительных контактов.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Адрес электронной почты для получения уведомления об обновлении билета.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Контакты, которые будут получать уведомления об обновлении тикета. Те, кто не выбран, будут автоматически добавлены в билет, если они ответят на него.';
+$lang['AdminTickets.reply.text_domain'] = 'Домен';
+$lang['AdminTickets.reply.heading_rating'] = 'Рейтинг';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Рейтинг Комментарий';
+$lang['AdminTickets.index.heading_rating'] = 'Рейтинг';
 

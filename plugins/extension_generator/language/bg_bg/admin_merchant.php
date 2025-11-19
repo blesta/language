@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Генератор 
 $lang['AdminMerchant.index.page_title'] = 'Генератор за удължаване - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Автоматизирана обработка в клирингова къща, като се използват пълномощни, съхранявани извън офиса на обработващия.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Автоматизирано обработване на данни от клирингова къща с използване на несъхранени идентификационни данни или такива, съхранени в Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Това позволява на шлюза да предоставя потребителски html за формуляри за кредитни карти.  Това е предназначено за поддръжка на кредитни карти извън сайта, които могат да използват iframes или да изискват допълнителни полета.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Това позволява на шлюза да предоставя потребителски html за формуляри за кредитни карти. Това е предназначено за поддръжка на кредитни карти извън сайта, които могат да използват iframes или да изискват допълнителни полета.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Обработка на кредитни карти чрез използване на данни, съхранявани извън сайта на обработващия.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'обработване на кредитни карти чрез използване на несъхранени идентификационни данни или такива, съхранени в Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH извън сайта';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Персонализиран формуляр за кредитна карта';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Кредитна карта на място';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Кредитна карта';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Това позволява на шлюза да предоставя потребителски html за автоматизирани формуляри на клирингови къщи. Това е предназначено за поддръжка на автоматизирани клирингови къщи извън сайта, които могат да използват iframe или да изискват допълнителни полета.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Персонализиран формуляр за ACH';
 

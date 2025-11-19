@@ -39,4 +39,5 @@ $lang['AdminMyinfo.gettabnames.text_notices'] = 'Уведомления';
 $lang['AdminMyinfo.gettabnames.text_index'] = 'Счет';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Ваши настройки уведомлений были успешно обновлены.';
 $lang['AdminMyinfo.!success.updated'] = 'Настройки вашей учетной записи были успешно обновлены.';
+$lang['AdminMyinfo.index.field_avatar'] = 'Изображение профиля';
 

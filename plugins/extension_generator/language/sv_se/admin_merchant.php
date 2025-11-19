@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Generator för till
 $lang['AdminMerchant.index.page_title'] = 'Generator för förlängning - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'Automatiserad clearing house-behandling med hjälp av autentiseringsuppgifter som lagras externt av personuppgiftsbiträdet.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Automatiserat clearingförfarande med olagrade autentiseringsuppgifter eller sådana som lagrats i Blesta.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Detta gör det möjligt för en gateway att tillhandahålla anpassad html för kreditkortsformulär.  Detta är avsett att stödja kreditkort utanför webbplatsen som kan använda iframes eller kräva ytterligare fält.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Detta gör det möjligt för en gateway att tillhandahålla anpassad html för kreditkortsformulär. Detta är avsett att stödja kreditkort utanför webbplatsen som kan använda iframes eller kräva ytterligare fält.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'Kreditkortsbehandling med hjälp av uppgifter som lagras externt av processorn.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Kreditkortstransaktioner med olagrade autentiseringsuppgifter eller sådana som lagrats i Blesta.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'ACH utanför anläggningen';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Anpassad kreditkortsblankett';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Kreditkort utanför webbplatsen';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Kreditkort';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Detta gör det möjligt för en gateway att tillhandahålla anpassad html för formulär för automatiserade clearinghus. Detta är avsett att stödja automatiserade clearinghus utanför webbplatsen som kan använda iframes eller kräva ytterligare fält.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Anpassat ACH-formulär';
 

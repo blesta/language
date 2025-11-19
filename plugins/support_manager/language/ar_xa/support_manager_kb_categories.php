@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'معرّف ال�
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'لا يمكن أن تكون هذه الفئة أصل لنفسها.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'لا يجوز تعيين هذه الفئة إلى أحد الوالدين من شركة منفصلة.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'معرف الأصل غير صالح.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'خيار تحديث المقالات بشكل متكرر بتنسيق غير صالح.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'خيار تحديث المقالات بصيغة غير صالحة.';
 

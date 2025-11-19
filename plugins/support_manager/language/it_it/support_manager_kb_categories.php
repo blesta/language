@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'ID azienda non v
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Questa categoria non può essere genitore di se stessa.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Questa categoria non può essere assegnata a un genitore di una società separata.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'ID genitore non valido.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'L\'opzione Aggiorna articoli in modo ricorsivo ha un formato non valido.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'L\'opzione Aggiorna articoli ha un formato non valido.';
 

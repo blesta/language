@@ -338,4 +338,6 @@ $lang['RealtimeRegister.module_row_plural'] = 'Konta';
 $lang['RealtimeRegister.module_row'] = 'Konto';
 $lang['RealtimeRegister.description'] = 'Oferujemy ponad 2000 TLD z ponad 150 rejestrów i stale dodajemy nowe. Dbamy o aktualizacje rejestrów oraz wszystkie zasady i procedury.';
 $lang['RealtimeRegister.name'] = 'Realtime Register';
+$lang['RealtimeRegister.tab_client_settings.field_status'] = 'Status domeny';
+$lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Nie możesz zarządzać tą domeną.';
 

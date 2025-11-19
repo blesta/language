@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD musi składać się z co najmniej 
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD nie istnieje w firmie.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD już istnieje w firmie.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Wprowadź TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" nie jest prawidłowym serwerem nazw.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Wybrany moduł nie ma skonfigurowanych wierszy modułów. Skonfiguruj moduł przed migracją.';
 

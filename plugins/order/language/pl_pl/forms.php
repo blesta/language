@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Forms.index.order_now'] = 'Zamów teraz';
 $lang['Forms.index.register'] = 'Rejestr';
+$lang['Forms.index.order_now'] = 'Zamów teraz';
 

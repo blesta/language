@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Inställningar > System > Aut
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Cron-nyckeln har uppdaterats framgångsrikt!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Automationsinställningarna har uppdaterats framgångsrikt!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Ange en cron-nyckel.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Alternativ metod (HTTP-förfrågan med Cron-nyckel)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Exempel på Cron-kommando för HTTP-förfrågningar';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.navigation.nav_dashboard'] = 'Cuadro de mandos';
 $lang['ClientAccounts.navigation.nav_paymentaccounts'] = 'Cuentas de pago';
 $lang['ClientAccounts.navigation.nav_paymentaccounts_add'] = 'Añadir cuenta de pago';
 $lang['ClientAccounts.navigation.nav_return'] = 'Volver al panel de control';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Actualizar ajustes';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Umbral de notificación';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Moneda';
+$lang['ClientAccounts.credithandling.text_description'] = 'Configurar notificaciones de saldo bajo. Recibirás un correo electrónico diario cuando tu saldo sea inferior al umbral de cualquier divisa.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Gestión de créditos';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Gestión de créditos';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'La configuración de la gestión de créditos se ha actualizado correctamente.';
 

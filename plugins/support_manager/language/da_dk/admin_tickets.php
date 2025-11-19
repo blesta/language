@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Service';
 $lang['AdminTickets.add.text_no_contacts'] = 'Der er ingen yderligere kontakter til rådighed for den valgte klient.';
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailadresse til at få besked, når en billet opdateres.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakter, der skal have besked, når en ticket opdateres. Dem, der ikke er valgt, tilføjes automatisk til sagen, hvis de svarer på den.';
+$lang['AdminTickets.reply.text_domain'] = 'Domæne';
+$lang['AdminTickets.reply.heading_rating'] = 'Bedømmelse';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Bedømmelse Kommentar';
+$lang['AdminTickets.index.heading_rating'] = 'Bedømmelse';
 

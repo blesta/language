@@ -71,4 +71,12 @@ $lang['ClientPay.!success.invoice_paid'] = '该发票之前已经支付。';
 $lang['ClientPay.!success.credit_partial_processed'] = '可用积分已使用，但仍有余额。请支付以下余款，完成本次交易。';
 $lang['ClientPay.!success.credit_full_processed'] = '可用积分已经使用。';
 $lang['ClientPay.!success.payment_processed'] = '%1$s 的付款已成功处理。交易编号： %2$s';
+$lang['ClientPay.method.invoice_balance_due'] = '应付余额';
+$lang['ClientPay.method.invoice_paid_amount'] = '已付金额';
+$lang['ClientPay.method.invoice_total'] = '发票总额';
+$lang['ClientPay.index.text_credit_max_only'] = '最高金额：%1$s';
+$lang['ClientPay.index.text_credit_min_only'] = '最低金额：%1$s';
+$lang['ClientPay.index.text_credit_limits'] = '最低金额 %1$s - 最大金额%2$s';
+$lang['ClientPay.!error.credit_maximum'] = '抵免金额不得超过%1$s 。';
+$lang['ClientPay.!error.credit_minimum'] = '信贷金额必须至少为%1$s 。';
 

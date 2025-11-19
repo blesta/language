@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Nu sunteți autorizat să a
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișiere';
 $lang['AppController.!error.client_unauthorized_access'] = 'Nu aveți permisiunea de a accesa această resursă, vă rugăm să contactați titularul principal al contului pentru a solicita accesul';
+$lang['AppController.structure.text_step_up_access'] = 'Aveți în prezent o sesiune Step Up deschisă cu acces la setările de administrare. Faceți clic aici pentru a renunța la acces.';
 

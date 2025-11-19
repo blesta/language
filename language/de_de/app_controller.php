@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Sie sind nicht berechtigt, 
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Dateien zum Hochladen hier ablegen oder zum Auswählen von Dateien anklicken';
 $lang['AppController.!error.client_unauthorized_access'] = 'Sie haben keine Zugriffsberechtigung für diese Ressource. Bitte wenden Sie sich an den Inhaber des Hauptkontos, um den Zugriff zu beantragen.';
+$lang['AppController.structure.text_step_up_access'] = 'Sie haben derzeit eine Step-up-Sitzung mit Zugriff auf die Verwaltungseinstellungen geöffnet. Klicken Sie hier, um den Zugriff aufzuheben.';
 

@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].format'] = 'أولوية و
 $lang['SupportManagerDepartments.visibility_options.client_only'] = 'العميل فقط';
 $lang['SupportManagerDepartments.field_types.emergency'] = 'التصعيد إلى الطوارئ';
 $lang['SupportManagerDepartments.!error.required.format'] = 'يجب تعيين ما إذا كان يجب طلب الحفظ إلى 0 أو 1.';
+$lang['SupportManagerDepartments.providers.microsoft'] = 'مايكروسوفت';
+$lang['SupportManagerDepartments.providers.google'] = 'جوجل';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Aggiornamento delle impostazioni';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'in uso da';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'predefinito';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'aggiungere la valuta';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Valute accettate';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Opzioni del gateway';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Il gateway è stato installa
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Il gateway è stato disinstallato con successo.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Il gateway è stato aggiornato con successo.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Il gateway è stato aggiornato con successo.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Per impostare i gateway predefiniti per valuta, accedere alla pagina %1$sInstalled Gateways%2$s e fare clic sull\'icona dell\'ingranaggio in alto a destra del widget.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Aggiornamento';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Impostare il gateway commerciale predefinito per ogni valuta.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gateway commerciali predefiniti';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'I gateway commerciali predefiniti sono stati aggiornati con successo.';
 

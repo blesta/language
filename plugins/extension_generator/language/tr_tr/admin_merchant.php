@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = 'Extension Generator
 $lang['AdminMerchant.index.page_title'] = 'Uzantı Oluşturucu - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = 'İşleyici tarafından tesis dışında depolanan kimlik bilgileri kullanılarak otomatik takas odası işlemleri.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = 'Depolanmamış kimlik bilgileri veya Blesta\'da depolananlar kullanılarak otomatik takas odası işlemleri.';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Bu, bir ağ geçidinin kredi kartı formları için özel html sağlamasına olanak tanır.  Bu, iframe kullanabilen veya ek alanlar gerektiren site dışı kredi kartlarını desteklemek içindir.';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = 'Bu, bir ağ geçidinin kredi kartı formları için özel html sağlamasına olanak tanır. Bu, iframe kullanabilen veya ek alanlar gerektiren site dışı kredi kartlarını desteklemek içindir.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = 'İşlemci tarafından tesis dışında depolanan kimlik bilgileri kullanılarak kredi kartı işlemleri.';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = 'Depolanmamış kimlik bilgileri veya Blesta\'da depolananlar kullanılarak kredi kartı işlemleri.';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = 'Tesis Dışı ACH';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = 'Özel Kredi Kartı Formu';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = 'Tesis Dışı Kredi Kartı';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = 'Kredi Kartı';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = 'Bu, bir ağ geçidinin otomatik takas odası formları için özel html sağlamasına olanak tanır. Bu, iframe kullanabilen veya ek alanlar gerektiren site dışı otomatik takas odalarını desteklemek içindir.';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = 'Özel ACH Formu';
 

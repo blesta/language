@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Registreringsdatumet fö
 $lang['AdminMain.!success.change_expiration_date'] = 'Domänens utgångsdatum har uppdaterats!';
 $lang['AdminMain.add.text_refresh'] = 'Uppdatera';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domänen har flyttats bort från registraren.';
+$lang['AdminMain.!success.remove_price_override'] = 'Priset för överstyrning av domän har tagits bort!';
+$lang['AdminMain.!success.set_price_override'] = 'Priset för åsidosättande av domän har uppdaterats!';
 

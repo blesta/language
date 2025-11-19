@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'Formularul a fost actualizat cu succ
 $lang['AdminForms.!success.form_delete'] = 'Formularul a fost șters cu succes.';
 $lang['AdminForms.!success.form_added'] = 'Formularul a fost adăugat cu succes.';
 $lang['AdminForms.!success.settings_saved'] = 'Setările au fost salvate cu succes';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Atunci când selectați un pachet, indicați costul lunar pentru fiecare opțiune de tarifare, precum și economiile pe lună în comparație cu prețul lunar (dacă este cazul).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Defalcarea prețurilor lunare de afișare';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Atunci când selectați un pachet, indicați costul lunar pentru fiecare opțiune de tarifare, precum și economiile pe lună în comparație cu prețul lunar (dacă este cazul).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Defalcarea prețurilor lunare de afișare';
 

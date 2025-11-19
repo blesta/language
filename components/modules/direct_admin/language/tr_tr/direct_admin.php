@@ -114,4 +114,5 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP Adresi';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP Adresi geçersiz görünüyor.';
+$lang['DirectAdmin.row_meta.http_version'] = 'HTTP Sürümü';
 

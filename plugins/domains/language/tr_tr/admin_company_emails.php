@@ -15,4 +15,6 @@ $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_desc'] = 'Alan adı
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_2_name'] = 'Alan Adı Süre Sonu Hatırlatma 2';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_desc'] = 'Alan adının süresi yakında dolacak bir müşteriye gönderilen ilk bildirim.';
 $lang['AdminCompanyEmails.templates.Domains.domain_renewal_1_name'] = 'Alan Adı Süre Sonu Hatırlatma 1';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_desc'] = 'Alan adı için otomatik yenileme devre dışı bırakıldığında müşteriye gönderilen bildirim.';
+$lang['AdminCompanyEmails.templates.Domains.domain_auto_renewal_disabled_name'] = 'Alan Adı Otomatik Yenileme Devre Dışı';
 

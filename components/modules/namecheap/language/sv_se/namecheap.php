@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Konton';
 $lang['Namecheap.module_row'] = 'Konto';
 $lang['Namecheap.description'] = 'Namecheap, Inc. är en ICANN-ackrediterad domännamnsregistrator, som tillhandahåller domännamnsregistrering och webbhotell. Namecheap är en budgetleverantör av webbhotell med 11 miljoner registrerade användare och 10 miljoner domäner.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Uppdaterar automatiskt TLD-listan och prissättningen från Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synkronisering av TLD-data';
 

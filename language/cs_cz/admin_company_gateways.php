@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Aktualizace nastavení';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'v používání';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'výchozí';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'přidat měnu';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Akceptované měny';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Možnosti brány';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Brána byla úspěšně nain
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Brána byla úspěšně odinstalována.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Brána byla úspěšně aktualizována.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Brána byla úspěšně aktualizována.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'Chcete-li nastavit výchozí brány pro jednotlivé měny, přejděte na stránku %1$sInstalované brány%2$s a klikněte na ikonu ozubeného kola v pravém horním rohu widgetu.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Aktualizace';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Nastavte výchozí obchodní bránu pro každou měnu.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Výchozí obchodní brány';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Výchozí obchodní brány byly úspěšně aktualizovány.';
 

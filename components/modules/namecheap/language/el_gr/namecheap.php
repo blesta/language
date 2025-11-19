@@ -251,4 +251,6 @@ $lang['Namecheap.module_row_plural'] = 'Λογαριασμοί';
 $lang['Namecheap.module_row'] = 'Λογαριασμός';
 $lang['Namecheap.description'] = 'Η Namecheap, Inc. είναι ένας διαπιστευμένος από τον ICANN καταχωρητής ονομάτων τομέα, ο οποίος παρέχει καταχώριση ονομάτων τομέα και φιλοξενία ιστοσελίδων. Η Namecheap είναι ένας οικονομικός πάροχος φιλοξενίας με 11 εκατομμύρια εγγεγραμμένους χρήστες και 10 εκατομμύρια domains.';
 $lang['Namecheap.name'] = 'Namecheap';
+$lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Ενημερώνει αυτόματα τη λίστα TLD και τις τιμές από το Namecheap.';
+$lang['Namecheap.getCronTasks.tld_sync_name'] = 'Συγχρονισμός δεδομένων TLD';
 

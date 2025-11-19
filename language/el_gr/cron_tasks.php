@@ -67,4 +67,6 @@ $lang['CronTasks.!error.key.length'] = 'Το μήκος του κλειδιού 
 $lang['CronTasks.!error.key.unique'] = 'Το κλειδί cron task που δόθηκε είναι ήδη κατειλημμένο.';
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = 'Αφαιρεί όλα τα κουπόνια επαναφοράς κωδικού πρόσβασης που έχουν λήξει την ημερομηνία λήξης από το σύστημα.';
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Διαγραφή ληγμένων κουπονιών επαναφοράς κωδικού πρόσβασης';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = 'Στέλνει ειδοποίηση σε όλους τους χρήστες των οποίων τα επίπεδα πίστωσης έχουν πέσει κάτω από το ρυθμισμένο όριο.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = 'Ειδοποιήσεις χαμηλού υπολοίπου';
 

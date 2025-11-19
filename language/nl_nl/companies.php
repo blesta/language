@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'De naam mag niet langer zijn dan 64 tek
 $lang['Companies.!error.name.empty'] = 'Voer een naam in.';
 $lang['Companies.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['Companies.!error.company_id.in_use'] = 'Dat bedrijf is momenteel in gebruik en mag niet worden verwijderd.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Het maximale kredietbedrag voor %1$s moet groter zijn dan het minimumbedrag.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Het maximale kredietbedrag voor %1$s moet groter zijn dan 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Het minimale kredietbedrag voor %1$s moet groter zijn dan 0.';
 

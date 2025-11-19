@@ -42,4 +42,5 @@ $lang['Domain.lookup.hide_all'] = '隐藏全部';
 $lang['Domain.lookup.show_all'] = '显示全部';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.title'] = '检查域名可用性';
+$lang['Domain.lookup.load_more_tlds'] = '加载更多';
 

@@ -91,4 +91,11 @@ $lang['ClientAccounts.!success.ccaccount_deleted'] = 'Платежный сче�
 $lang['ClientAccounts.!success.account_created'] = 'Платежный счет был успешно создан.';
 $lang['ClientAccounts.!success.defaultaccount_deleted'] = 'Платежный счет по умолчанию был удален.';
 $lang['ClientAccounts.!success.defaultaccount_updated'] = 'Платежный счет по умолчанию был обновлен.';
+$lang['ClientAccounts.credithandling.field_submit'] = 'Обновление настроек';
+$lang['ClientAccounts.credithandling.heading_threshold'] = 'Порог уведомления';
+$lang['ClientAccounts.credithandling.heading_currency'] = 'Валюта';
+$lang['ClientAccounts.credithandling.text_description'] = 'Настройте уведомления о низком балансе. Вы будете ежедневно получать электронное письмо, когда ваш кредитный баланс опускается ниже пороговой суммы для любой валюты.';
+$lang['ClientAccounts.credithandling.boxtitle_credithandling'] = 'Работа с кредитами';
+$lang['ClientAccounts.navigation.nav_credithandling'] = 'Работа с кредитами';
+$lang['ClientAccounts.!success.credit_handling_updated'] = 'Настройки обработки кредитов были успешно обновлены.';
 

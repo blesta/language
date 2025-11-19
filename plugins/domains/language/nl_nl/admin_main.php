@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'De registratiedatum van 
 $lang['AdminMain.!success.change_expiration_date'] = 'De vervaldatum van het domein is bijgewerkt!';
 $lang['AdminMain.add.text_refresh'] = 'Vernieuw';
 $lang['AdminMain.index.tooltip_transferred'] = 'Het domein is verhuisd van de registrar.';
+$lang['AdminMain.!success.remove_price_override'] = 'De domein opheffingsprijs is verwijderd!';
+$lang['AdminMain.!success.set_price_override'] = 'De domein opheffingsprijs is bijgewerkt!';
 

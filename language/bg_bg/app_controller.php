@@ -83,4 +83,5 @@ $lang['AppController.!success.license_updated'] = 'Лицензът ви е ус
 $lang['AppController.!error.invalid_csrf'] = 'Токенът на формуляра е невалиден.';
 $lang['AppController.!error.unauthorized_access'] = 'Нямате право на достъп до този ресурс';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.structure.text_step_up_access'] = 'В момента имате отворена сесия за повишаване на нивото с достъп до настройките на администратора. Щракнете тук, за да прекратите достъпа.';
 

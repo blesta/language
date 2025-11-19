@@ -53,7 +53,7 @@ $lang['AdminMerchant.index.boxtitle_extension_generator'] = '扩展生成器 - �
 $lang['AdminMerchant.index.page_title'] = '扩展生成器 - %1$s';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach_offsite'] = '使用处理器异地存储的凭证进行自动信息交换处理。';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_ach'] = '使用未存储的凭据或存储在 Blesta 中的凭据进行自动信息交换处理。';
-$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = '这允许网关为信用卡表单提供自定义 HTML。  其目的是支持可能使用 iframe 或需要额外字段的站外信用卡。';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_cc_form'] = '这允许网关为信用卡表单提供自定义 HTML。其目的是支持可能使用 iframe 或需要额外字段的站外信用卡。';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc_offsite'] = '使用处理器异地存储的凭证进行信用卡处理。';
 $lang['AdminMerchant.getsupportedfeatures.tooltip_cc'] = '使用未存储的凭证或存储在 Blesta 中的凭证进行信用卡处理。';
 $lang['AdminMerchant.getsupportedfeatures.ach_offsite'] = '非现场自动转账';
@@ -61,4 +61,6 @@ $lang['AdminMerchant.getsupportedfeatures.ach'] = 'ACH';
 $lang['AdminMerchant.getsupportedfeatures.cc_form'] = '定制信用卡表格';
 $lang['AdminMerchant.getsupportedfeatures.cc_offsite'] = '场外信用卡';
 $lang['AdminMerchant.getsupportedfeatures.cc'] = '信用卡';
+$lang['AdminMerchant.getsupportedfeatures.tooltip_ach_form'] = '这允许网关为自动结算中心表单提供自定义 HTML。这旨在支持可能使用 iframe 或需要额外字段的异地自动结算中心。';
+$lang['AdminMerchant.getsupportedfeatures.ach_form'] = '自定义 ACH 表格';
 

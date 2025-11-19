@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = '문서가 성공적으로 
 $lang['AdminKnowledgebase.!success.category_deleted'] = '카테고리가 성공적으로 삭제되었습니다.';
 $lang['AdminKnowledgebase.!success.category_updated'] = '카테고리가 성공적으로 업데이트되었습니다.';
 $lang['AdminKnowledgebase.!success.category_added'] = '카테고리가 성공적으로 생성되었습니다.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = '모든 하위 카테고리와 해당 문서도 업데이트하세요.';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = '이 카테고리의 모든 문서가 동일한 접근성을 갖도록 업데이트하세요.';
 

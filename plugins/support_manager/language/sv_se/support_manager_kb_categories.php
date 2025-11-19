@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'Ogiltigt företa
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Denna kategori kan inte vara en förälder till sig själv.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Denna kategori får inte tilldelas en förälder från ett separat företag.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'Ogiltigt föräldra-ID.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Alternativet update articles recursively är i ett ogiltigt format.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Alternativet för uppdatering av artiklar är i ett ogiltigt format.';
 

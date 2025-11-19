@@ -46,4 +46,9 @@ $lang['Cron.index.attempt_all_system'] = '모든 시스템 작업을 실행하�
 $lang['Cron.index.completed_all'] = '모든 작업이 완료되었습니다.';
 $lang['Cron.!error.task_execution.failed'] = '오류: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron이 로깅에 실패했습니다.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = '작업 필터 "제외"는 배열이어야 합니다.';
+$lang['Cron.!error.task_filter.include_not_array'] = '작업 필터 \'포함\'은 배열이어야 합니다.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = '작업 필터는 \'포함\' 키와 \'제외\' 키를 모두 가질 수 없습니다.';
+$lang['Cron.!error.task_filter.invalid_format'] = '작업 필터는 JSON 객체여야 합니다.';
+$lang['Cron.!error.task_filter.invalid_json'] = '작업 필터 매개변수에 잘못된 JSON이 있습니다: %1$s';
 

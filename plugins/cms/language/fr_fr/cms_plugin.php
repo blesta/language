@@ -9,7 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.name'] = 'Portail';
-$lang['CmsPlugin.description'] = 'Le portail vous permet de définir le contenu de la page à afficher à l\'URL de la page d\'accueil de Blesta.';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.description'] = 'Le CMS vous permet de créer des pages supplémentaires dans votre Blesta.';
 $lang['CmsPlugin.index.title'] = 'Portail client';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

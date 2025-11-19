@@ -13,4 +13,6 @@ $lang['WebhooksPlugin.description'] = 'Stuurt geautomatiseerde HTTP-verzoeken op
 $lang['WebhooksPlugin.name'] = 'Webhooks';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Wist de cache van de lijst met gebeurteniswaarnemers.';
 $lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Cache wissen';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_desc'] = 'Verwijdert webhooklogbestanden die ouder zijn dan de geconfigureerde bewaarperiode voor logbestanden.';
+$lang['WebhooksPlugin.getCronTasks.cleanup_logs_name'] = 'Webhook logs opschonen';
 

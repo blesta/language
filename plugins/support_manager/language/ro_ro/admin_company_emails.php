@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Staff Ticket Actualizat (Mobil)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Notificare trimisă unui membru al personalului atunci când un bilet este actualizat.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Staff Ticket Actualizat';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Notificare trimisă clientului prin care i se cere să evalueze experiența sa cu biletele de asistență.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Cerere de feedback pentru bilete';
 

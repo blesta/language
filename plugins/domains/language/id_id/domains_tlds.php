@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD harus terdiri dari minimal 3 karak
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD tidak ada di perusahaan.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD sudah ada di perusahaan.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Silakan masukkan TLD.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" bukan merupakan server nama yang valid.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Modul yang dipilih tidak memiliki baris modul yang dikonfigurasi. Harap konfigurasikan modul sebelum melakukan migrasi.';
 

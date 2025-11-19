@@ -140,4 +140,8 @@ $lang['AdminForms.!success.form_edited'] = 'O formulário foi atualizado com suc
 $lang['AdminForms.!success.form_delete'] = 'O formulário foi excluído com êxito.';
 $lang['AdminForms.!success.form_added'] = 'O formulário foi adicionado com sucesso.';
 $lang['AdminForms.!success.settings_saved'] = 'As configurações foram salvas com sucesso';
+$lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Ao selecionar um pacote, mostre o custo mensal de cada opção de preço, bem como a economia por mês em comparação com o preço mensal (se aplicável).';
+$lang['AdminForms.edit.field_monthly_breakdown'] = 'Detalhamento do preço mensal da tela';
+$lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Ao selecionar um pacote, mostre o custo mensal de cada opção de preço, bem como a economia por mês em comparação com o preço mensal (se aplicável).';
+$lang['AdminForms.add.field_monthly_breakdown'] = 'Detalhamento do preço mensal da tela';
 

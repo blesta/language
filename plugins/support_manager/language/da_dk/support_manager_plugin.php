@@ -43,4 +43,7 @@ $lang['SupportManagerPlugin.permission.admin_staff'] = 'Personale';
 $lang['SupportManagerPlugin.permission.admin_knowledgebase'] = 'Videnbase';
 $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Påmindelser';
 $lang['SupportManagerPlugin.name'] = 'Support Manager';
+$lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Indstillinger';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Send automatisk påmindelser til kunder om at give feedback på sager, der er blevet lukket efter en vis periode.';
+$lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Send påmindelser om feedback';
 

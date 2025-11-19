@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'Activer
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Activer les restrictions de la passerelle';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Limite les passerelles que les clients peuvent utiliser. Par défaut, les restrictions sur les passerelles sont désactivées et toutes les passerelles sont disponibles.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Groupe de clients';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Longueur du mot de passe';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Règle personnalisée pour le mot de passe';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Sur mesure';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Chiffres uniquement';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Alpha seulement';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Alphanumérique uniquement';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Pas d\'espace';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Tous les caractères';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Format du mot de passe';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Définir la longueur minimale du mot de passe.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Saisissez une expression régulière personnalisée pour valider les mots de passe lorsque le format "Personnalisé" est sélectionné. L\'expression régulière peut définir une longueur minimale pour le mot de passe.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Sélectionnez le type de caractères autorisés dans les mots de passe.';
 

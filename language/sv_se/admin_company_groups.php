@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s har redigerats framgå
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s har skapats framgångsrikt!';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Tillåtna gateways';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Tillåtna gateways';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Ställ fakturor i kö för leverans efter att de har stängts';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = 'Kredithantering';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = 'Ställ fakturor i kö för leverans efter att de har stängts';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = 'Kredithantering';
 

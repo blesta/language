@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.package_pricing.service'] = 'La tarification n\'a pas 
 $lang['DomainsTlds.!error.tld.supported'] = 'Le TLD fourni n\'est pas pris en charge par le module d\'enregistrement sélectionné.';
 $lang['DomainsTlds.!error.feature.unsupported'] = 'La fonctionnalité %1$s n\'est pas prise en charge par le module d\'enregistrement sélectionné.';
 $lang['DomainsTlds.getTldFields.group'] = 'Groupe';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" n\'est pas un serveur de noms valide.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Le module sélectionné n\'a pas de lignes de module configurées. Veuillez configurer le module avant de migrer.';
 

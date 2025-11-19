@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Namnlängden får inte överstiga 64 te
 $lang['Companies.!error.name.empty'] = 'Vänligen ange ett namn.';
 $lang['Companies.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['Companies.!error.company_id.in_use'] = 'Det företaget används för närvarande och får inte raderas.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Det högsta kreditbeloppet för %1$s måste vara större än det lägsta beloppet.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Det maximala kreditbeloppet för %1$s måste vara större än 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Det lägsta kreditbeloppet för %1$s måste vara större än 0.';
 

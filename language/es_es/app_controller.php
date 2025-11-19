@@ -83,4 +83,5 @@ $lang['AppController.sreader.dropdown'] = 'Desplegable';
 $lang['AppController.sreader.navigation'] = 'Alternar navegación';
 $lang['AppController.dropzone.text'] = 'Suelte los archivos aquí para cargarlos o haga clic para seleccionarlos';
 $lang['AppController.!error.client_unauthorized_access'] = 'No tiene permiso para acceder a ese recurso. Póngase en contacto con el titular principal de la cuenta para solicitar acceso.';
+$lang['AppController.structure.text_step_up_access'] = 'Actualmente tiene una sesión de step up abierta con acceso a la configuración de administración. Haga clic aquí para abandonar el acceso.';
 

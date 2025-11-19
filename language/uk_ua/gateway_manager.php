@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Версія є недійсно
 $lang['GatewayManager.!error.name.valid'] = 'Ім\'я невірне.';
 $lang['GatewayManager.!error.class.valid'] = 'Клас недійсний.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Ідентифікатор компанії недійсний.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Цей шлюз використовується за замовчуванням для однієї або декількох валют, перед тим, як видалити цю валюту з цього шлюзу, необхідно вибрати іншу валюту.';
 

@@ -9,7 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['CmsPlugin.description'] = 'CMS, Blesta\'nızda ek sayfalar oluşturmanıza olanak tanır.';
 $lang['CmsPlugin.index.title'] = 'Müşteri Portalı';
-$lang['CmsPlugin.description'] = 'Portal, Blesta\'nın ana sayfa URL\'sinde görüntülenecek sayfa içeriğini ayarlamanıza olanak tanır.';
-$lang['CmsPlugin.name'] = 'Portal';
+$lang['CmsPlugin.name'] = 'CMS';
+$lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Suspension';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Renouvellement';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Provisionnement';
 $lang['ServiceInvoices.!error.type.valid'] = 'Type de tentative non valide.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Autoriser uniquement l\'annulation immédiate';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Permettre l\'annulation en fin de trimestre uniquement';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Permettre une annulation immédiate ou à la fin du trimestre';
 

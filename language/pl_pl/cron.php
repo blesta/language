@@ -46,4 +46,9 @@ $lang['Cron.index.completed_all'] = 'Wszystkie zadania zostały wykonane.';
 $lang['Cron.index.attempt_all'] = 'Próba uruchomienia wszystkich zadań dla %1$s.';
 $lang['Cron.!error.task_execution.failed'] = 'Błąd: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Logowanie Cron nie powiodło się.';
+$lang['Cron.!error.task_filter.exclude_not_array'] = 'Filtr zadań "exclude" musi być tablicą.';
+$lang['Cron.!error.task_filter.include_not_array'] = 'Filtr zadań "include" musi być tablicą.';
+$lang['Cron.!error.task_filter.both_include_exclude'] = 'Filtr zadań nie może mieć zarówno kluczy "include", jak i "exclude".';
+$lang['Cron.!error.task_filter.invalid_format'] = 'Filtr zadań musi być obiektem JSON.';
+$lang['Cron.!error.task_filter.invalid_json'] = 'Nieprawidłowy JSON w parametrze filtra zadań: %1$s';
 

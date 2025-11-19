@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'Актуализиране на настройките';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'в употреба от';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'по подразбиране';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'добавяне на валута';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'Приети валути';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'Опции за шлюз';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'Шлюзът е инстал
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'Шлюзът беше успешно деинсталиран.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'Шлюзът беше успешно обновен.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'Шлюзът беше успешно актуализиран.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'За да зададете шлюзове по подразбиране за всяка валута, отидете на страницата %1$sИнсталирани шлюзове%2$s и кликнете върху иконата на зъбно колело в горния десен ъгъл на джаджата.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'Актуализация';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Задайте шлюза по подразбиране на търговеца за всяка валута.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Шлюзове за търговци по подразбиране';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Шлюзовете за търговци по подразбиране са успешно актуализирани.';
 

@@ -71,4 +71,12 @@ $lang['ClientPay.received.amount'] = 'Beløb';
 $lang['ClientPay.received.invoices'] = 'Faktura #';
 $lang['ClientPay.received.text_try_again'] = 'Prøv igen';
 $lang['ClientPay.setcontactview.text_none'] = 'Ingen';
+$lang['ClientPay.method.invoice_balance_due'] = 'Forfalden saldo';
+$lang['ClientPay.method.invoice_paid_amount'] = 'Betalt beløb';
+$lang['ClientPay.method.invoice_total'] = 'Faktura i alt';
+$lang['ClientPay.index.text_credit_max_only'] = 'Maksimalt beløb: %1$s';
+$lang['ClientPay.index.text_credit_min_only'] = 'Minimumsbeløb: %1$s';
+$lang['ClientPay.index.text_credit_limits'] = 'Minimumsbeløb: %1$s - Maksimalt beløb: %2$s';
+$lang['ClientPay.!error.credit_maximum'] = 'Kreditbeløbet kan ikke overstige %1$s.';
+$lang['ClientPay.!error.credit_minimum'] = 'Kreditbeløbet skal være på mindst %1$s.';
 

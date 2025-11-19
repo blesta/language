@@ -192,4 +192,12 @@ $lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-mall
 $lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avancerad redigeringstjänst';
 $lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service kö';
 $lang['StaffGroups.permissions.admin_tools_servicechanges'] = 'Förändringar i tjänster';
+$lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'Kredithantering';
+$lang['StaffGroups.permissions.admin_company_clientoptions_deletecustomfield'] = 'Ta bort anpassat fält';
+$lang['StaffGroups.permissions.admin_company_clientoptions_editcustomfield'] = 'Redigera anpassat fält';
+$lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = 'Lägg till anpassat fält';
+$lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elektroniska fakturor';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Hämta information om kupongpaketets alternativ';
+$lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Fetch Kupong Paketalternativ';
+$lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista citat';
 

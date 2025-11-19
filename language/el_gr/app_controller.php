@@ -83,4 +83,5 @@ $lang['AppController.!error.unauthorized_access'] = 'Δεν είστε εξου�
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
 $lang['AppController.!error.client_unauthorized_access'] = 'Δεν έχετε δικαίωμα πρόσβασης σε αυτόν τον πόρο, παρακαλούμε επικοινωνήστε με τον κύριο κάτοχο του λογαριασμού για να ζητήσετε πρόσβαση.';
+$lang['AppController.structure.text_step_up_access'] = 'Έχετε επί του παρόντος μια συνεδρία αναβάθμισης ανοιχτή με πρόσβαση στις ρυθμίσεις του διαχειριστή. Κάντε κλικ εδώ για να εγκαταλείψετε την πρόσβαση.';
 

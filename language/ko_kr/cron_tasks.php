@@ -67,4 +67,6 @@ $lang['CronTasks.!error.dir.length'] = '디렉토리 길이는 64자를 초과�
 $lang['CronTasks.!error.task_type.format'] = '잘못된 작업 유형입니다. 모듈, 플러그인 또는 시스템이어야 합니다.';
 $lang['CronTasks.!error.key.length'] = '크론 작업 키 길이는 64자를 초과할 수 없습니다.';
 $lang['CronTasks.!error.key.unique'] = '제공된 크론 작업 키는 이미 사용 중입니다.';
+$lang['CronTasks.crontask.description.low_balance_notifications'] = '신용 수준이 설정한 임계값 아래로 떨어진 모든 사용자에게 알림을 보냅니다.';
+$lang['CronTasks.crontask.name.low_balance_notifications'] = '잔액 부족 알림';
 

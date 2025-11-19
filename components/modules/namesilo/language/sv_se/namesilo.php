@@ -247,4 +247,6 @@ $lang['Namesilo.tab_whois.section_administrative'] = 'Administrativt';
 $lang['Namesilo.tab_manage_contacts.heading_contact_id'] = 'Kontakt-ID';
 $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Hämtar in kontakter från namesilo och kopplar dem till blesta-klienter.';
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Dra Namesilo-kontakter';
+$lang['Namesilo.notice.default_nameservers'] = 'Den här funktionen kräver att domänen använder följande namnservrar: ns1.dnsowl.com, ns2.dnsowl.com och ns3.dnsowl.com.';
+$lang['Namesilo.!error.domain_unavailable'] = 'Domänen är inte tillgänglig för registrering.';
 

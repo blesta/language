@@ -19,4 +19,6 @@ $lang['DomainsController.example'] = 'Приклад мови';
 $lang['DomainsController.!error.move_error'] = 'Вибрані домени не можуть бути переміщені до вибраного клієнта.';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Змінити дату реєстрації';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Змінити термін дії';
+$lang['DomainsController.getDomainActions.remove_price_override'] = 'Видалити перевизначення ціни';
+$lang['DomainsController.getDomainActions.set_price_override'] = 'Задати перевизначення ціни';
 

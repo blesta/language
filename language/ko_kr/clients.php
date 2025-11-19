@@ -65,4 +65,7 @@ $lang['Clients.!error.type.exists'] = '잘못된 유형입니다.';
 $lang['Clients.!error.account_id.exists'] = '잘못된 계정 ID입니다.';
 $lang['Clients.!error.client_id.exists'] = '클라이언트 ID가 잘못되었습니다.';
 $lang['Clients.!error.client_group_id.exists'] = '클라이언트 그룹 ID가 잘못되었습니다.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s 의 최대 크레딧 금액은 최소 금액보다 커야 합니다.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s 의 최대 크레딧 금액은 0보다 커야 합니다.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s 의 최소 크레딧 금액은 0보다 커야 합니다.';
 

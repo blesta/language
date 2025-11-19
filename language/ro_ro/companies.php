@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Lungimea numelui nu poate depăși 64 d
 $lang['Companies.!error.name.empty'] = 'Vă rugăm să introduceți un nume.';
 $lang['Companies.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['Companies.!error.company_id.in_use'] = 'Societatea respectivă este utilizată în prezent și nu poate fi ștearsă.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât valoarea minimă.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Valoarea minimă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
 

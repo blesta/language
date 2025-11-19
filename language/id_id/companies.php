@@ -31,4 +31,7 @@ $lang['Companies.!error.name.length'] = 'Panjang nama tidak boleh melebihi 64 ka
 $lang['Companies.!error.name.empty'] = 'Silakan masukkan nama.';
 $lang['Companies.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['Companies.!error.company_id.in_use'] = 'Perusahaan tersebut saat ini sedang digunakan dan tidak dapat dihapus.';
+$lang['Companies.!error.payment_credit_limits.max_less_than_min'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari jumlah minimum.';
+$lang['Companies.!error.payment_credit_limits.max_amount'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari 0.';
+$lang['Companies.!error.payment_credit_limits.min_amount'] = 'Jumlah kredit minimum untuk %1$s harus lebih besar dari 0.';
 

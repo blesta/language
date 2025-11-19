@@ -15,4 +15,5 @@ $lang['Countries.!error.alpha3.format'] = 'Код країни Alpha3 повин
 $lang['Countries.!error.alpha2.exists'] = 'Неправильний код альфа2.';
 $lang['Countries.!error.alpha2.in_use'] = 'Код країни Alpha2, %1$s, вже зайнято.';
 $lang['Countries.!error.alpha2.format'] = 'Код країни Alpha2 повинен складатися з 2 букв.';
+$lang['Countries.!error.format.valid'] = 'Формат країни має бути або "код", або "назва".';
 

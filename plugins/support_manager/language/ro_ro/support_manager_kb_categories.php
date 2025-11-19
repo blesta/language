@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.!error.company_id.exists'] = 'ID-ul companiei 
 $lang['SupportManagerKbCategories.!error.parent_id.valid_parent'] = 'Această categorie nu poate fi un părinte pentru sine.';
 $lang['SupportManagerKbCategories.!error.parent_id.valid_company'] = 'Această categorie nu poate fi atribuită unei societăți-mamă dintr-o societate separată.';
 $lang['SupportManagerKbCategories.!error.parent_id.exists'] = 'ID părinte invalid.';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'Opțiunea de actualizare recursivă a articolelor este într-un format invalid.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'Opțiunea de actualizare a articolelor este într-un format invalid.';
 

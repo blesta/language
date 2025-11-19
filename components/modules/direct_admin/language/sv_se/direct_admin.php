@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = 'Värdnamnet verkar vara ogiltigt
 $lang['DirectAdmin.!error.server_name.empty'] = 'Du måste ange en serveretikett.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP-adress';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP-adressen verkar vara ogiltig.';
+$lang['DirectAdmin.row_meta.http_version'] = 'HTTP-version';
 

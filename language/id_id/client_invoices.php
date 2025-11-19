@@ -53,4 +53,11 @@ $lang['ClientInvoices.view.boxtitle_proforma'] = 'Proforma';
 $lang['ClientInvoices.view.boxtitle_invoice'] = 'Faktur';
 $lang['ClientInvoices.view.page_title'] = 'Faktur #%1$s';
 $lang['ClientInvoices.index.option_download'] = 'Unduh';
+$lang['ClientInvoices.!error.format.invalid'] = 'Format faktur yang dipilih tidak tersedia.';
+$lang['ClientInvoices.view.balance_due'] = 'Saldo Jatuh Tempo';
+$lang['ClientInvoices.view.payments_amount'] = 'Jumlah yang Diterapkan';
+$lang['ClientInvoices.view.payments_heading'] = 'Pembayaran';
+$lang['ClientInvoices.view.payments_transaction_id'] = 'Transaksi #';
+$lang['ClientInvoices.view.payments_type'] = 'Jenis';
+$lang['ClientInvoices.view.payments_applied_date'] = 'Tanggal Diterapkan';
 

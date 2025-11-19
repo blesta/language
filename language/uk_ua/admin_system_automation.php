@@ -25,4 +25,6 @@ $lang['AdminSystemAutomation.index.page_title'] = 'Налаштування > С
 $lang['AdminSystemAutomation.!success.cron_key'] = 'Ключ cron успішно оновлено!';
 $lang['AdminSystemAutomation.!success.automation_updated'] = 'Налаштування автоматизації успішно оновлено!';
 $lang['AdminSystemAutomation.!error.empty_cron_key'] = 'Будь ласка, встановіть ключ cron.';
+$lang['AdminSystemAutomation.index.text_alternative_method'] = 'Альтернативний метод (HTTP-запит з ключем Cron)';
+$lang['AdminSystemAutomation.index.field_example_command'] = 'Приклад команди Cron для HTTP-запитів';
 

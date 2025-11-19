@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_rememberme'] = '이 컴퓨터에서 저를 기억�
 $lang['AdminLogin.index.field_password'] = '비밀번호';
 $lang['AdminLogin.index.field_username'] = '사용자 이름';
 $lang['AdminLogin.index.page_title'] = '로그인';
+$lang['AdminLogin.!info.step_up_otp'] = '계속하려면 아래에 OTP(일회용 비밀번호)를 입력하여 다시 한 번 접속을 인증해야 합니다.';
+$lang['AdminLogin.!info.step_up'] = '계속하려면 아래에 비밀번호를 입력하여 다시 접속을 인증해야 합니다.';
+$lang['AdminLogin.up.link_cancel'] = '취소';
+$lang['AdminLogin.up.field_loginsubmit'] = '액세스 확인';
+$lang['AdminLogin.up.field_password'] = '비밀번호';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | 액세스 인증';
+$lang['AdminLogin.up.page_title'] = '액세스 인증';
 

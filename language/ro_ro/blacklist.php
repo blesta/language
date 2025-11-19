@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'Regula furnizată nu este o adresă 
 $lang['Blacklist.!error.type.format'] = 'Tipul trebuie să fie "ip" sau "email".';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'Plugin-ul dat nu există.';
 $lang['Blacklist.!error.rule.exists'] = 'Această regulă există deja în baza de date.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Regula de ieșire a blocului trebuie să fie "1" sau "0".';
 

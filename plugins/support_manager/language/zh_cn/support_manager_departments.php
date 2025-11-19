@@ -85,4 +85,7 @@ $lang['SupportManagerDepartments.!error.priorities[].empty'] = '至少选择一�
 $lang['SupportManagerDepartments.visibility_options.client_only'] = '仅限客户';
 $lang['SupportManagerDepartments.field_types.emergency'] = '升级为紧急情况';
 $lang['SupportManagerDepartments.!error.required.format'] = '是否要求备案必须设置为 0 或 1。';
+$lang['SupportManagerDepartments.providers.microsoft'] = '微软';
+$lang['SupportManagerDepartments.providers.google'] = '谷歌';
+$lang['SupportManagerDepartments.methods.oauth2'] = 'OAuth 2.0';
 

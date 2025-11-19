@@ -114,4 +114,5 @@ $lang['DirectAdmin.!error.host_name.format'] = 'Il nome host sembra non essere v
 $lang['DirectAdmin.!error.server_name.empty'] = 'È necessario inserire un\'etichetta del server.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'Indirizzo IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'L\'indirizzo IP sembra non essere valido.';
+$lang['DirectAdmin.row_meta.http_version'] = 'Versione HTTP';
 

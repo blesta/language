@@ -139,4 +139,8 @@ $lang['AdminTickets.add.heading_service'] = 'Hizmet';
 $lang['AdminTickets.add.text_no_contacts'] = 'Seçilen müşteri için ek kişi mevcut değil.';
 $lang['AdminTickets.!tooltip.recipients'] = 'Bir bilet güncellendiğinde bilgilendirilmek için e-posta adresi.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Bir destek talebi güncellendiğinde bilgilendirilecek kişiler. Seçili olmayanlar, yanıt vermeleri halinde bilete otomatik olarak eklenecektir.';
+$lang['AdminTickets.reply.text_domain'] = 'Etki Alanı';
+$lang['AdminTickets.reply.heading_rating'] = 'Değerlendirme';
+$lang['AdminTickets.reply.heading_rating_comment'] = 'Değerlendirme Yorum';
+$lang['AdminTickets.index.heading_rating'] = 'Değerlendirme';
 

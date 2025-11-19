@@ -52,4 +52,11 @@ $lang['AdminLogin.index.field_password'] = 'Heslo';
 $lang['AdminLogin.index.field_username'] = 'Uživatelské jméno';
 $lang['AdminLogin.index.title_adminarea'] = '%1$s | Oblast pro zaměstnance';
 $lang['AdminLogin.index.page_title'] = 'Přihlášení';
+$lang['AdminLogin.!info.step_up_otp'] = 'Abyste mohli pokračovat, je nutné znovu ověřit svůj přístup zadáním jednorázového hesla (OTP) níže.';
+$lang['AdminLogin.!info.step_up'] = 'Abyste mohli pokračovat, je nutné znovu ověřit svůj přístup zadáním hesla níže.';
+$lang['AdminLogin.up.link_cancel'] = 'Zrušit';
+$lang['AdminLogin.up.field_loginsubmit'] = 'Ověření přístupu';
+$lang['AdminLogin.up.field_password'] = 'Heslo';
+$lang['AdminLogin.up.title_adminarea'] = '%1$s | Ověřování přístupu';
+$lang['AdminLogin.up.page_title'] = 'Ověřování přístupu';
 

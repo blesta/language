@@ -22,4 +22,6 @@ $lang['SupportManagerKbCategories.access_types.public'] = 'Público';
 $lang['SupportManagerKbCategories.access_types.private'] = 'Privado';
 $lang['SupportManagerKbCategories.access_types.hidden'] = 'Oculto';
 $lang['SupportManagerKbCategories.access_types.staff'] = 'Personal';
+$lang['SupportManagerKbCategories.!error.update_recursive.format'] = 'La opción actualizar artículos recursivamente tiene un formato no válido.';
+$lang['SupportManagerKbCategories.!error.update_articles.format'] = 'La opción de actualizar artículos tiene un formato no válido.';
 

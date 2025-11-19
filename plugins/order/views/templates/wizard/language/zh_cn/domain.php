@@ -43,4 +43,5 @@ $lang['Domain.lookup.show_all'] = '显示全部';
 $lang['Domain.lookup.domain_placeholder'] = 'yourdomain.com';
 $lang['Domain.lookup.description'] = '从搜索域名开始，或点击 "订购其他项目 "跳过此步骤。';
 $lang['Domain.lookup.title'] = '检查域名可用性';
+$lang['Domain.lookup.load_more_tlds'] = '加载更多';
 

@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Версията е невали
 $lang['GatewayManager.!error.name.valid'] = 'Името е невалидно.';
 $lang['GatewayManager.!error.class.valid'] = 'Класът е невалиден.';
 $lang['GatewayManager.!error.company_id.valid'] = 'Идентификаторът на фирмата е невалиден.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Този шлюз се използва по подразбиране за една или повече валути, трябва да се избере друга, преди да се премахне тази валута от този шлюз.';
 

@@ -43,4 +43,5 @@ $lang['Domain.lookup.term_years'] = '%1$s 년';
 $lang['Domain.lookup.term'] = '%1$s %2$s @ %3$s';
 $lang['Domain.lookup.term_recurring'] = '%1$s %2$s @ %3$s (갱신 @ %4$s)';
 $lang['Domain.lookup.term_onetime'] = '%1$s @ %2$s';
+$lang['Domain.lookup.load_more_tlds'] = '더 보기';
 

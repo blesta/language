@@ -21,4 +21,8 @@ $lang['Config.!error.invalid_module'] = 'В момента пакетът не �
 $lang['Config.!error.invalid_pricing_id'] = 'Даденият пакет не беше намерен.';
 $lang['Config.!error.invalid_value_option'] = 'Трябва да се избере стойност за %1$s.';
 $lang['Config.!error.invalid_quantity_option'] = 'Стойността на опцията "%1$s" трябва да е между %2$s и %3$s.';
+$lang['Config.index.package_price_recurring_breakdown_savings'] = '%1$s %2$s (подновява %3$s) (%4$s/месец %5$s%% спестявания!) ';
+$lang['Config.index.package_price_breakdown_savings'] = '%1$s %2$s (%3$s/месец %4$s%% икономии!)';
+$lang['Config.index.package_price_recurring_breakdown'] = '%1$s %2$s (подновява %3$s) (%4$s/месец) ';
+$lang['Config.index.package_price_breakdown'] = '%1$s %2$s (%3$s/месец)';
 

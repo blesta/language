@@ -65,4 +65,7 @@ $lang['Clients.!error.client_id.exists'] = 'Geçersiz istemci kimliği.';
 $lang['Clients.!error.client_group_id.exists'] = 'Geçersiz müşteri grubu kimliği.';
 $lang['Clients.!error.value.valid'] = '%1$s geçersiz bir değere ayarlanmış.';
 $lang['Clients.!error.value.required'] = '%1$s geçersiz bir biçimdedir.';
+$lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s için maksimum kredi miktarı minimum miktardan büyük olmalıdır.';
+$lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s için maksimum kredi miktarı 0\'dan büyük olmalıdır.';
+$lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s için minimum kredi tutarı 0\'dan büyük olmalıdır.';
 

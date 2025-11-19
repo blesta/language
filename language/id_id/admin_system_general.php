@@ -91,4 +91,5 @@ $lang['AdminSystemGeneral.!success.license_updated'] = 'Kunci Lisensi Anda telah
 $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Pengaturan Pemeliharaan berhasil diperbarui!';
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Pengaturan GeoIP berhasil diperbarui!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Pengaturan Basic Setup (Pengaturan Dasar) berhasil diperbarui!';
+$lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir diaktifkan. Akses file dibatasi untuk: %1$s. Direktori di luar jalur ini tidak dapat diakses.';
 

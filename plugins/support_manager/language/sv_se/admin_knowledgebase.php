@@ -65,4 +65,6 @@ $lang['AdminKnowledgebase.!success.article_added'] = 'Artikeln har skapats framg
 $lang['AdminKnowledgebase.!success.category_deleted'] = 'Kategorin har raderats framgångsrikt.';
 $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategorin har uppdaterats framgångsrikt.';
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategorin har skapats framgångsrikt.';
+$lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Uppdatera även alla underkategorier och deras artiklar';
+$lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Uppdatera alla artiklar i den här kategorin så att de har samma tillgänglighet';
 

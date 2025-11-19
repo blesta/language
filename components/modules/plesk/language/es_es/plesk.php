@@ -142,4 +142,10 @@ $lang['Plesk.panel_version.plesk_type'] = 'Plesk %1$s para %2$s';
 $lang['Plesk.panel_version.plesk'] = 'Plesk %1$s';
 $lang['Plesk.panel_version.parallels'] = 'Parallels Plesk Panel %1$s';
 $lang['Plesk.panel_version.latest'] = 'Utilice la última versión (recomendado)';
+$lang['Plesk.service_info.login_unavailable'] = 'Login no disponible';
+$lang['Plesk.tab_client_login.field_login'] = 'Conectarse';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'Contraseña';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'Nombre de usuario';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'Iniciar sesión en Plesk';
+$lang['Plesk.tab_client_login'] = 'Iniciar sesión en Plesk';
 

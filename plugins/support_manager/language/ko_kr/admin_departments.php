@@ -157,4 +157,15 @@ $lang['AdminDepartments.add.heading_required'] = '필수';
 $lang['AdminDepartments.add.field_enable_related_services'] = '관련 서비스 사용';
 $lang['AdminDepartments.!tooltip.type'] = '"긴급으로 에스컬레이션"에는 메시지와 확인란이 있는 알림 상자가 표시됩니다. 사용자가 확인란을 선택하면 해당 부서의 우선 순위가 비활성화되어 있더라도 티켓이 자동으로 "긴급"으로 에스컬레이션됩니다. 공개 범위가 클라이언트 전용으로 설정된 경우에만 사용할 수 있습니다.';
 $lang['AdminDepartments.!tooltip.enable_related_services'] = '고객이 티켓과 관련된 서비스를 선택할 수 있도록 허용합니다.';
+$lang['AdminDepartments.edit.field_feedback_ticket_interval'] = '피드백 알림 자동 전송';
+$lang['AdminDepartments.edit.field_oauth2_client_secret'] = 'OAuth 2.0 클라이언트/애플리케이션 시크릿';
+$lang['AdminDepartments.edit.field_oauth2_client_id'] = 'OAuth 2.0 클라이언트/애플리케이션 ID';
+$lang['AdminDepartments.edit.field_oauth2_user'] = 'OAuth 2.0 사용자';
+$lang['AdminDepartments.edit.field_oauth2_provider'] = 'OAuth 2.0 공급자';
+$lang['AdminDepartments.add.field_feedback_ticket_interval'] = '피드백 알림 자동 전송';
+$lang['AdminDepartments.add.field_oauth2_client_secret'] = 'OAuth 2.0 클라이언트/애플리케이션 시크릿';
+$lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 클라이언트/애플리케이션 ID';
+$lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 사용자';
+$lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 공급자';
+$lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = '종료 상태인 모든 티켓의 경우 선택한 기간 동안 티켓이 종료된 경우 피드백을 남기라는 알림이 고객에게 전송됩니다.';
 

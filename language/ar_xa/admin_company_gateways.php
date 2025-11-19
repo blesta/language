@@ -10,7 +10,7 @@
  */
 
 $lang['AdminCompanyGateways.manage.update_settings'] = 'تحديث الإعدادات';
-$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'قيد الاستخدام من قبل';
+$lang['AdminCompanyGateways.manage.text_in_use_by'] = 'افتراضي';
 $lang['AdminCompanyGateways.manage.text_addcurrency'] = 'إضافة عملة';
 $lang['AdminCompanyGateways.manage.heading_currencies'] = 'العملات المقبولة';
 $lang['AdminCompanyGateways.manage.heading_gateway'] = 'خيارات البوابة';
@@ -61,4 +61,9 @@ $lang['AdminCompanyGateways.!success.installed'] = 'تم تثبيت البواب
 $lang['AdminCompanyGateways.!success.uninstalled'] = 'تم إلغاء تثبيت البوابة بنجاح.';
 $lang['AdminCompanyGateways.!success.upgraded'] = 'تمت ترقية البوابة بنجاح.';
 $lang['AdminCompanyGateways.!success.manage_updated'] = 'تم تحديث البوابة بنجاح.';
+$lang['AdminCompanyGateways.manage.text_set_defaults'] = 'لتعيين البوابات الافتراضية لكل عملة، انتقل إلى صفحة %1$sالبوابات المثبتة%2$s وانقر على أيقونة الترس في أعلى يمين الأداة.';
+$lang['AdminCompanyGateways.installed.btn_save'] = 'تحديث';
+$lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'قم بتعيين بوابة التاجر الافتراضية لكل عملة.';
+$lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'بوابات التاجر الافتراضية';
+$lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'تم تحديث بوابات التاجر الافتراضية بنجاح.';
 

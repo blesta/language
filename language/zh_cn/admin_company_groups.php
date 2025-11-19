@@ -61,4 +61,8 @@ $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s 已被成功编辑！'
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s 已成功创建！';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = '允许的网关';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = '允许的网关';
+$lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = '在发票关闭后重新安排交付时间';
+$lang['AdminCompanyGroups.edit.heading_credit_handling'] = '信用处理';
+$lang['AdminCompanyGroups.add.field_requeue_invoice_delivery_on_closed'] = '在发票关闭后重新安排交付时间';
+$lang['AdminCompanyGroups.add.heading_credit_handling'] = '信用处理';
 

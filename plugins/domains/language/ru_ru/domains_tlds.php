@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.tld.length'] = 'Длина TLD должна соста
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD не существует в компании.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD уже существует в компании.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Пожалуйста, введите ДВУ.';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" не является действительным сервером имен.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'В выбранном модуле нет настроенных строк модуля. Пожалуйста, настройте модуль перед миграцией.';
 

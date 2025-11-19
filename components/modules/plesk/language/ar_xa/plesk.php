@@ -142,4 +142,10 @@ $lang['Plesk.!error.host_name.valid'] = 'يبدو أن اسم المضيف غي�
 $lang['Plesk.!error.server_name.empty'] = 'يجب إدخال تسمية الخادم.';
 $lang['Plesk.!error.api.internal'] = 'حدث خطأ داخلي، أو لم يستجب الخادم للطلب.';
 $lang['Plesk.!error.simplexml_required'] = 'ملحق simplexml مطلوب لهذه الوحدة النمطية.';
+$lang['Plesk.service_info.login_unavailable'] = 'تسجيل الدخول غير متاح';
+$lang['Plesk.tab_client_login.field_login'] = 'تسجيل الدخول';
+$lang['Plesk.tab_client_login.field_plesk_password'] = 'كلمة المرور';
+$lang['Plesk.tab_client_login.field_plesk_username'] = 'اسم المستخدم';
+$lang['Plesk.tab_client_login.logintoplesk'] = 'تسجيل الدخول إلى Plesk';
+$lang['Plesk.tab_client_login'] = 'تسجيل الدخول إلى Plesk';
 

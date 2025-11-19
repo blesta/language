@@ -27,4 +27,6 @@ $lang['DomainsTlds.!error.package_pricing.service'] = 'Prisfastsættelsen kunne 
 $lang['DomainsTlds.!error.tld.supported'] = 'Det angivne TLD understøttes ikke af det valgte registratormodul.';
 $lang['DomainsTlds.!error.feature.unsupported'] = 'Funktionen %1$s understøttes ikke af det valgte registratormodul.';
 $lang['DomainsTlds.getTldFields.group'] = 'Gruppe';
+$lang['DomainsTlds.!error.ns.invalid'] = '"%1$s" er ikke en gyldig navneserver.';
+$lang['DomainsTlds.!error.module_id.no_rows'] = 'Det valgte modul har ingen konfigurerede modulrækker. Konfigurer venligst modulet, før du migrerer.';
 

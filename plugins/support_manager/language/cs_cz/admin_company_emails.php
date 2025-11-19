@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_d
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_mobile_name'] = 'Zaměstnanecký lístek aktualizován (mobilní telefon)';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_desc'] = 'Oznámení zaslané zaměstnanci při aktualizaci tipu.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_updated_name'] = 'Zaměstnanecký lístek aktualizován';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Oznámení zaslané klientovi s žádostí o hodnocení zkušeností s lístky podpory.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Žádost o zpětnou vazbu k tipu';
 

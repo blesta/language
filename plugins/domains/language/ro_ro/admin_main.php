@@ -170,4 +170,6 @@ $lang['AdminMain.!success.change_registration_date'] = 'Data înregistrării dom
 $lang['AdminMain.!success.change_expiration_date'] = 'Data de expirare a domeniului a fost actualizată!';
 $lang['AdminMain.add.text_refresh'] = 'Reîmprospătare';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domeniul a fost transferat de la registrator.';
+$lang['AdminMain.!success.remove_price_override'] = 'Prețul de depășire a domeniului a fost eliminat!';
+$lang['AdminMain.!success.set_price_override'] = 'Prețul de depășire a domeniului a fost actualizat!';
 

@@ -84,4 +84,6 @@ $lang['PackageOptions.getfields.label_textarea'] = '%1$s';
 $lang['PackageOptions.getfields.label_textarea_recurring'] = '%1$s (fornyes ved %2$s)';
 $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s opsætning';
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s opsætning (fornyes ved %3$s)';
+$lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Om den skal skjules på fakturaen, skal sættes til 0 eller 1.';
+$lang['PackageOptions.!error.disable_pricing.valid'] = 'Om prissætning skal deaktiveres, skal indstilles til 0 eller 1.';
 

@@ -16,4 +16,5 @@ $lang['Blacklist.!error.rule.format_ip'] = 'De opgegeven regel is geen geldig IP
 $lang['Blacklist.!error.type.format'] = 'Het type moet "ip" of "e-mail" zijn.';
 $lang['Blacklist.!error.plugin_dir.exists'] = 'De opgegeven plugin bestaat niet.';
 $lang['Blacklist.!error.rule.exists'] = 'Deze regel bestaat al in de database.';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'De blokuitgangsregel moet "1" of "0" zijn.';
 

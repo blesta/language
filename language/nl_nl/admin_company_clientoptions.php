@@ -140,4 +140,16 @@ $lang['AdminCompanyClientOptions.gatewayrestrictions.heading_enable'] = 'inschak
 $lang['AdminCompanyClientOptions.gatewayrestrictions.field_enable_gateway_restrictions'] = 'Gateway-beperkingen inschakelen';
 $lang['AdminCompanyClientOptions.!tooltip.enable_gateway_restrictions'] = 'Beperk welke gateways clients kunnen gebruiken. Standaard zijn gatewaybeperkingen uitgeschakeld en zijn alle gateways beschikbaar.';
 $lang['AdminCompanyClientOptions.editcustomfield.field.client_group_id'] = 'Klantengroep';
+$lang['AdminCompanyClientoptions.general.field_password_length'] = 'Lengte wachtwoord';
+$lang['AdminCompanyClientoptions.general.field_password_rule'] = 'Aangepaste wachtwoordregel';
+$lang['AdminCompanyClientoptions.general.field_password_format_custom'] = 'Aangepast';
+$lang['AdminCompanyClientoptions.general.field_password_format_num'] = 'Alleen getallen';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha'] = 'Alleen Alfa';
+$lang['AdminCompanyClientoptions.general.field_password_format_alpha_num'] = 'Alleen alfanumeriek';
+$lang['AdminCompanyClientoptions.general.field_password_format_any'] = 'Tekens';
+$lang['AdminCompanyClientoptions.general.field_password_format_any_no_space'] = 'Geen ruimtes';
+$lang['AdminCompanyClientoptions.general.field_password_format'] = 'Wachtwoordformaat';
+$lang['AdminCompanyClientoptions.!tooltip.password_length'] = 'Stel de minimale wachtwoordlengte in.';
+$lang['AdminCompanyClientoptions.!tooltip.password_rule'] = 'Voer een aangepaste reguliere expressie in om wachtwoorden te valideren wanneer de indeling "Aangepast" is geselecteerd. De reguliere expressie kan een minimale wachtwoordlengte definiëren.';
+$lang['AdminCompanyClientoptions.!tooltip.password_format'] = 'Selecteer het type tekens dat is toegestaan in wachtwoorden.';
 

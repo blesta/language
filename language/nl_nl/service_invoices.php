@@ -20,4 +20,7 @@ $lang['ServiceInvoices.getattempttypes.suspension'] = 'Ophanging';
 $lang['ServiceInvoices.getattempttypes.renewal'] = 'Vernieuwing';
 $lang['ServiceInvoices.getattempttypes.provisioning'] = 'Bevoorrading';
 $lang['ServiceInvoices.!error.type.valid'] = 'Ongeldig pogingtype.';
+$lang['ServiceInvoices.getCancelOptions.now'] = 'Alleen onmiddellijke annulering toestaan';
+$lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Alleen annulering aan het einde van de termijn toestaan';
+$lang['ServiceInvoices.getCancelOptions.both'] = 'Onmiddellijke annulering of annulering aan het einde van de termijn toestaan';
 

@@ -16,4 +16,5 @@ $lang['Blacklist.!error.plugin_dir.exists'] = 'Наведеного плагін
 $lang['Blacklist.!error.rule.exists'] = 'Це правило вже існує в базі даних.';
 $lang['Blacklist.type.email'] = 'Адреса електронної пошти';
 $lang['Blacklist.type.ip'] = 'IP-адреса / CIDR';
+$lang['Blacklist.!error.block_outgoing.valid'] = 'Правило блокування вихідних даних має бути "1" або "0".';
 

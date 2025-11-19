@@ -79,4 +79,7 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Vink dit vakje aan om de medewerker de h
 $lang['AdminStaff.!success.staff_deleted'] = 'Het personeelslid is succesvol verwijderd.';
 $lang['AdminStaff.!success.staff_updated'] = 'Het personeelslid is succesvol bijgewerkt.';
 $lang['AdminStaff.!success.staff_added'] = 'Het personeelslid is succesvol toegevoegd.';
+$lang['AdminStaff.edit.markdown_editor_mode'] = 'Modus Markdown-editor';
+$lang['AdminStaff.add.markdown_editor_mode'] = 'Modus Markdown-editor';
+$lang['AdminStaff.!tooltip.markdown_editor_mode'] = 'Selecteer de standaard weergavemodus voor markdowneditors. WYSIWYG biedt een rijke teksteditor, Markdown toont markdown en voorbeeld naast elkaar, en Markdown - Geen voorbeeld toont alleen de markdown-editor.';
 

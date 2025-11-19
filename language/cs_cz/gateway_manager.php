@@ -15,4 +15,5 @@ $lang['GatewayManager.!error.version.valid'] = 'Verze je neplatná.';
 $lang['GatewayManager.!error.name.valid'] = 'Název je neplatný.';
 $lang['GatewayManager.!error.class.valid'] = 'Třída je neplatná.';
 $lang['GatewayManager.!error.company_id.valid'] = 'ID společnosti je neplatné.';
+$lang['GatewayManager.!error.currencies.not_default'] = 'Tato brána se používá jako výchozí pro jednu nebo více měn, před odebráním této měny z této brány je třeba vybrat jinou měnu.';
 
