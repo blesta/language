@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientInvoices.index.heading_due'] = 'Debido';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Fecha de cierre';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Fecha de facturación';
 $lang['ClientInvoices.index.heading_datedue'] = 'Fecha de vencimiento';
-$lang['ClientInvoices.index.heading_options'] = 'Opciones';
+$lang['ClientInvoices.index.heading_options'] = 'Acciones';
 $lang['ClientInvoices.index.option_view'] = 'Ver';
 $lang['ClientInvoices.index.option_pay'] = 'Pagar';
 $lang['ClientInvoices.index.no_results'] = 'No tiene %1$s Facturas.';

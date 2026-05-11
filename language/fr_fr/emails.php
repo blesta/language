@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.attachments.exist'] = 'Au moins une des pièces jointes fou
 $lang['Emails.!error.email.failed_to_send'] = 'L\'envoi du courriel a échoué en raison d\'un problème de configuration.';
 $lang['Emails.getStatusTypes.active'] = 'Non';
 $lang['Emails.getStatusTypes.inactive'] = 'Oui';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'L\'instantané n\'appartient pas à l\'e-mail spécifié.';
+$lang['Emails.!error.snapshot_id.exists'] = 'ID d\'instantané non valide.';
 

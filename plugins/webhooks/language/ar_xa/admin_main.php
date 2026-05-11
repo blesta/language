@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.edit.field_type'] = 'معاودة الاتصال';
 $lang['AdminMain.edit.field_event'] = 'الحدث';
 $lang['AdminMain.edit.field_callback'] = 'معاودة الاتصال';
 $lang['AdminMain.edit.option_delete'] = 'حذف';
-$lang['AdminMain.edit.heading_options'] = 'الخيارات';
+$lang['AdminMain.edit.heading_options'] = 'الإجراءات';
 $lang['AdminMain.edit.heading_parameter'] = 'حقل جديد';
 $lang['AdminMain.edit.heading_field'] = 'الحقل الأصلي';
 $lang['AdminMain.edit.heading_fields_map'] = 'خريطة الحقول';
@@ -32,7 +32,7 @@ $lang['AdminMain.add.field_type'] = 'معاودة الاتصال';
 $lang['AdminMain.add.field_event'] = 'الحدث';
 $lang['AdminMain.add.field_callback'] = 'معاودة الاتصال';
 $lang['AdminMain.add.option_delete'] = 'حذف';
-$lang['AdminMain.add.heading_options'] = 'الخيارات';
+$lang['AdminMain.add.heading_options'] = 'الإجراءات';
 $lang['AdminMain.add.heading_parameter'] = 'مجال جديد';
 $lang['AdminMain.add.heading_field'] = 'الحقل الأصلي';
 $lang['AdminMain.add.heading_fields_map'] = 'خريطة الحقول';
@@ -43,7 +43,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'تلقي طلب HTTP وت�
 $lang['AdminMain.index.text_description_outgoing'] = 'يرسل طلب HTTP إلى عنوان URL عند تشغيل حدث. يمكن إرسال الطلب باستخدام GET أو POST أو POST أو PUT أو JSON.';
 $lang['AdminMain.index.option_delete'] = 'حذف';
 $lang['AdminMain.index.option_edit'] = 'تحرير';
-$lang['AdminMain.index.heading_options'] = 'الخيارات';
+$lang['AdminMain.index.heading_options'] = 'الإجراءات';
 $lang['AdminMain.index.heading_method'] = 'الطريقة';
 $lang['AdminMain.index.heading_event'] = 'الحدث';
 $lang['AdminMain.index.heading_callback'] = 'معاودة الاتصال';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'حالة HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'الحدث';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'جميع خطافات الويب';
 $lang['AdminMain.logs.field_filterwebhook'] = 'خطاف الويب';
-$lang['AdminMain.logs.heading_options'] = 'الخيارات';
+$lang['AdminMain.logs.heading_options'] = 'الإجراءات';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'إعادة المحاولة الأخيرة';
 $lang['AdminMain.logs.heading_date_triggered'] = 'تاريخ التشغيل';
 $lang['AdminMain.logs.heading_http_response'] = 'استجابة HTTP';

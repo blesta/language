@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Діапазон �
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Чи використовувати виділену IP-адресу, має бути встановлено на 1 або 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Ідентифікатор локації не збігається з ідентифікатором локації у Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Ідентифікатор локації повинен бути числовим.';
+$lang['Pterodactyl.back_to_manage'] = 'Назад';
 

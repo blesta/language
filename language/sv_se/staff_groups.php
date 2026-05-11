@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elek
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Hämta information om kupongpaketets alternativ';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Fetch Kupong Paketalternativ';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista citat';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Återställ ögonblicksbild av e-postmall';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Kontroll av systemintegritet';
 

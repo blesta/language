@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Servers';
 $lang['Teamspeak.module_row'] = 'Διακομιστής';
 $lang['Teamspeak.description'] = 'Το TeamSpeak είναι μια εφαρμογή φωνητικής επικοινωνίας μέσω πρωτοκόλλου Internet για την ηχητική επικοινωνία μεταξύ χρηστών σε ένα κανάλι συνομιλίας.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Πίσω';
+$lang['Teamspeak.manage.tab_rows'] = 'Servers';
+$lang['Teamspeak.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

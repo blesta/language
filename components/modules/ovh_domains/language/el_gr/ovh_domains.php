@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -120,4 +120,7 @@ $lang['OvhDomains.module_row_plural'] = 'Λογαριασμοί';
 $lang['OvhDomains.module_row'] = 'Λογαριασμός';
 $lang['OvhDomains.description'] = '';
 $lang['OvhDomains.name'] = 'Τομείς OVH';
+$lang['OvhDomains.back_to_manage'] = 'Πίσω';
+$lang['OvhDomains.manage.tab_rows'] = 'Servers';
+$lang['OvhDomains.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

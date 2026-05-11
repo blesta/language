@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.!error.cyberpanel_username.test'] = 'El nombre de usuario no p
 $lang['Cyberpanel.!error.cyberpanel_username.length'] = 'El nombre de usuario debe tener entre 1 y 16 caracteres.';
 $lang['Cyberpanel.!error.cyberpanel_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Cyberpanel.!error.cyberpanel_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
+$lang['Cyberpanel.back_to_manage'] = 'Volver';
+$lang['Cyberpanel.manage.tab_rows'] = 'Servidores';
+$lang['Cyberpanel.manage.tab_groups'] = 'Grupos de servidores';
 

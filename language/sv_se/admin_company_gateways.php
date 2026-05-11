@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Uppdatering';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ange standardgateway för varje valuta.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Standardportaler för handlare';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Standardgateways för handlare har uppdaterats framgångsrikt.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Inga matchande gateways hittades.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Filtrera gateways...';
 

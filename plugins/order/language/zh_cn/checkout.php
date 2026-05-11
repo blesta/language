@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = '所选付款账户无法授权付�
 $lang['Checkout.!error.not_client_owner'] = '您必须以客户所有者身份登录才能继续。';
 $lang['Checkout.!error.no_payment_info'] = '您必须选择一种付款方式才能继续。';
 $lang['Checkout.!error.invalid_agree_tos'] = '您必须确认同意条款和条件。';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = '您必须同意定期计费才能继续使用。';
+$lang['Checkout.index.field_agree_recurring_consent'] = '我授权%1$s 从即日起存储我的付款方式并向%2$s 收费，直至我取消。我可以随时通过我的账户在线取消。';
+$lang['Checkout.index.recurring_every'] = '每%1$s';
+$lang['Checkout.index.recurring_every_term'] = '每个%1$s %2$s';
+$lang['Checkout.index.recurring_and'] = '和';
 

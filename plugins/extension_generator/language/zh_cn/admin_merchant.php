@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = '下一步 - 确认';
 $lang['AdminMerchant.features.heading_supported_features'] = '支持的功能';
 $lang['AdminMerchant.fields.features'] = '下一步 - 支持的功能';
 $lang['AdminMerchant.fields.text_remove'] = '移除';
-$lang['AdminMerchant.fields.text_options'] = '选项';
+$lang['AdminMerchant.fields.text_options'] = '行动';
 $lang['AdminMerchant.fields.field_row_add'] = '添加配置字段';
 $lang['AdminMerchant.fields.placeholder_label'] = '例如：配置字段';
 $lang['AdminMerchant.fields.placeholder_name'] = '例如：配置字段';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = '插件列表中显示的徽标。�
 $lang['AdminMerchant.basic.tooltip_description'] = '插件列表中显示的说明';
 $lang['AdminMerchant.basic.text_remove'] = '移除';
 $lang['AdminMerchant.basic.author_row_add'] = '添加作者';
-$lang['AdminMerchant.basic.text_options'] = '选项';
+$lang['AdminMerchant.basic.text_options'] = '行动';
 $lang['AdminMerchant.basic.author_url'] = '作者网址';
 $lang['AdminMerchant.basic.author_name'] = '作者姓名';
 $lang['AdminMerchant.basic.currencies'] = '货币';

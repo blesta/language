@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Messenger 
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Messenger başarıyla kaldırıldı.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Messenger başarıyla yüklendi.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Haberci başarıyla yükseltildi.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Habercileri filtrele...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Eşleşen haberci bulunamadı.';
 

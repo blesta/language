@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminCompanyClientOptions.requiredfields.field_country'] = 'Държав�
 $lang['AdminCompanyClientOptions.requiredfields.field_city'] = 'Град';
 $lang['AdminCompanyClientOptions.requiredfields.field_address2'] = 'Адрес 2';
 $lang['AdminCompanyClientOptions.requiredfields.field_address1'] = 'Адрес 1';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Подаване на';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Актуализиране на настройките';
 $lang['AdminCompanyClientOptions.requiredfields.field_title'] = 'Заглавие';
 $lang['AdminCompanyClientOptions.requiredfields.field_company'] = 'Компания/организация.';
 $lang['AdminCompanyClientOptions.requiredfields.field_last_name'] = 'Фамилия';
@@ -51,7 +51,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Доб
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Стойност на текста по подразбиране';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Стойност по подразбиране Проверено';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Стойност';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Редактиране на потребителско поле';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Актуализиране на потребителско поле';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Криптиране на стойностите';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Потребителски речник';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Изисква се';
@@ -72,7 +72,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Из�
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Стойност на текста по подразбиране';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Стойност по подразбиране Проверено';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Стойност';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Добавяне на потребителско поле';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Създаване на потребителско поле';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Криптиране на стойностите';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Потребителски речник';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Изисква се';

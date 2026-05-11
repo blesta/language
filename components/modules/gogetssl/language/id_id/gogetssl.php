@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.api_password.empty'] = 'Masukkan kata sandi API.';
 $lang['GoGetSSL.!error.api_username.valid'] = 'Sambungan ke server tidak dapat dibuat. Periksa untuk memastikan bahwa kredensial API sudah benar.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Masukkan nama pengguna API.';
 $lang['GoGetSSL.name'] = 'GoGetSSL';
+$lang['Gogetssl.back_to_manage'] = 'Kembali';
 

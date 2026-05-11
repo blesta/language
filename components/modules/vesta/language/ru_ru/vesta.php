@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.module_row_plural'] = 'Серверы';
 $lang['Vesta.module_row'] = 'Сервер';
 $lang['Vesta.description'] = 'Vesta, или VestaCP, - это веб-панель управления с открытым исходным кодом, которая считается отличной альтернативой cPanel. Мало того, что ее безопасность и частые обновления не уступают по качеству cPanel, она еще и совершенно бесплатна.';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.back_to_manage'] = 'Назад';
+$lang['Vesta.manage.tab_rows'] = 'Серверы';
+$lang['Vesta.manage.tab_groups'] = 'Группы серверов';
 

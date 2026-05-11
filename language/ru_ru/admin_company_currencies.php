@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Вы уверены, что хотите обновить эту валюту? Курс этой валюты будет перезаписан при автоматическом обновлении курсов в системе. Вы можете отключить автоматическое обновление в разделе [Настройки] > [Компания] > [Валюты] > [Настройка валюты].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Редактировать валюту';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Обновить валюту';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Обменный курс';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Символ суффикса';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Символ префикса';

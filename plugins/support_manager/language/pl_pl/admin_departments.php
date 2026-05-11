@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Usuń';
 $lang['AdminDepartments.edit.heading_default'] = 'Domyślny';
 $lang['AdminDepartments.edit.heading_value'] = 'Wartość';
 $lang['AdminDepartments.edit.heading_name'] = 'Nazwa';
-$lang['AdminDepartments.edit.heading_options'] = 'Opcje';
+$lang['AdminDepartments.edit.heading_options'] = 'Działania';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Automatyczne usuwanie';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Szyfrowanie';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Klient może dodać';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Usuń';
 $lang['AdminDepartments.add.heading_default'] = 'Domyślne';
 $lang['AdminDepartments.add.heading_value'] = 'Wartość';
 $lang['AdminDepartments.add.heading_name'] = 'Nazwa';
-$lang['AdminDepartments.add.heading_options'] = 'Opcje';
+$lang['AdminDepartments.add.heading_options'] = 'Działania';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Automatyczne usuwanie';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Szyfrowanie';
 $lang['AdminDepartments.add.heading_client_add'] = 'Klient może dodać';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Nie ma żadnych działów.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Działy z przypisanymi do nich biletami nie mogą zostać usunięte, dopóki wszystkie bilety nie zostaną ponownie przypisane do innego działu. Czy na pewno chcesz usunąć ten dział?';
 $lang['AdminDepartments.index.option_delete'] = 'Usuń';
 $lang['AdminDepartments.index.option_edit'] = 'Edytuj';
-$lang['AdminDepartments.index.heading_options'] = 'Opcje';
+$lang['AdminDepartments.index.heading_options'] = 'Działania';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Domyślny priorytet';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Przydzielony personel';
 $lang['AdminDepartments.index.heading_email'] = 'E-mail';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'Identyfikator klienta / 
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Użytkownik OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Dostawca OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'W przypadku wszystkich zgłoszeń o statusie zamkniętym, przypomnienie o pozostawieniu opinii zostanie wysłane do klienta, jeśli zgłoszenie było zamknięte przez wybrany czas.';
+$lang['AdminDepartments.!text.description_hint'] = 'Ten opis będzie widoczny dla klientów podczas wybierania działu';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Przytrzymaj klawisz Ctrl (Windows) lub Cmd (Mac), aby wybrać wiele priorytetów';
+$lang['AdminDepartments.!text.search_responses'] = 'Wyszukiwanie odpowiedzi...';
+$lang['AdminDepartments.!text.searching'] = 'Wyszukiwanie...';
+$lang['AdminDepartments.add.heading_actions'] = 'Działania';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Czy na pewno chcesz usunąć to pole niestandardowe?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Działania';
 

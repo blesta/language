@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,5 @@ $lang['MulticraftModule.!error.panel_api_url.empty'] = '请输入 Multicraft 面
 $lang['MulticraftModule.!error.panel_url.empty'] = '请输入 Multicraft 面板的 URL。';
 $lang['MulticraftModule.!error.server_name.empty'] = '请输入此服务器的标签。';
 $lang['MulticraftModule.!error.json.unavailable'] = '该模块需要 JSON 扩展。';
+$lang['Multicraft.back_to_manage'] = '返回';
 

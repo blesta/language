@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = 'Копирах та
 $lang['AdminDialog.password.field_modal_password'] = 'Парола';
 $lang['AdminDialog.confirm.text_no'] = 'Не';
 $lang['AdminDialog.confirm.text_yes'] = 'Да';
+$lang['AdminDialog.password.title'] = 'Генериране на парола';
+$lang['AdminDialog.password.text_click_generate'] = 'Щракнете върху Генериране, за да създадете сигурна парола.';
 

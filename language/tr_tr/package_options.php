@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.getfields.label_radio'] = '%1$s (%2$s)';
 $lang['PackageOptions.getfields.label_radio_recurring'] = '%1$s (%2$s, yeniler @ %3$s)';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Faturada gizlenip gizlenmeyeceği 0 veya 1 olarak ayarlanmalıdır.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Fiyatlandırmanın devre dışı bırakılıp bırakılmayacağı 0 veya 1 olarak ayarlanmalıdır.';
+$lang['PackageOptions.!error.type.in_use'] = 'Gönderimde yer almayan bir veya daha fazla seçenek değeri bir hizmet tarafından kullanılmakta olduğundan tür değiştirilemez.';
 

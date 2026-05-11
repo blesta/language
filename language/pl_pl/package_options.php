@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Wprowadź etykietę.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Czy ukrywać na fakturze musi być ustawione na 0 lub 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Wyłączenie cen musi być ustawione na 0 lub 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Typ nie może zostać zmieniony, ponieważ co najmniej jedna wartość opcji nieuwzględniona w zgłoszeniu jest używana przez usługę.';
 

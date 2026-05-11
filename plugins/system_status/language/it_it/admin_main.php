@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Nel complesso il sistema è in buona sal
 $lang['AdminMain.index.health_excellent'] = 'Il sistema è in buona salute e sembra funzionare normalmente.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Configurare?';
 $lang['AdminMain.index.upload_dir'] = 'Il percorso della directory di caricamento nelle impostazioni è all\'interno della directory web principale.  Dovrebbe essere posizionato al di sopra della directory web principale per garantire che non ci sia mai un problema di accesso pubblico.';
+$lang['AdminMain.index.text_info'] = 'Informazioni';
+$lang['AdminMain.index.text_warning'] = 'Avvertenze';
+$lang['AdminMain.index.text_error'] = 'Errore';
+$lang['AdminMain.index.text_success'] = 'Il successo';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistema';
+$lang['AdminMain.index.category_database'] = 'Database';
+$lang['AdminMain.index.category_security'] = 'Sicurezza';
 

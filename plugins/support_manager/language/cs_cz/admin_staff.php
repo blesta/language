@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'V současné době nejsou k podpůrnému
 $lang['AdminStaff.index.confirm_delete'] = 'Odstraněním tohoto zaměstnance se zruší přiřazení všech tipů, které jsou mu aktuálně přiřazeny. Opravdu chcete tohoto zaměstnance smazat?';
 $lang['AdminStaff.index.option_delete'] = 'Odstranit';
 $lang['AdminStaff.index.option_edit'] = 'Upravit';
-$lang['AdminStaff.index.heading_options'] = 'Možnosti';
+$lang['AdminStaff.index.heading_options'] = 'Akce';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Přijímání oznámení z aplikace Ticket Messenger';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Přijímání e-mailů o mobilních letenkách';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Příjem e-mailů o vstupenkách';

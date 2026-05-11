@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'لوحة تحكم الويب InterWorx Web Pan
 $lang['Interworx.!error.soap_required'] = 'ملحق SOAP مطلوب لهذه الوحدة النمطية.';
 $lang['Interworx.!error.libxml_required'] = 'ملحق libxml مطلوب لهذه الوحدة النمطية.';
 $lang['Interworx.name'] = 'Interworx';
+$lang['Interworx.back_to_manage'] = 'رجوع';
+$lang['Interworx.manage.tab_rows'] = 'الخوادم';
+$lang['Interworx.manage.tab_groups'] = 'مجموعات الخوادم';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s متاح)';
 

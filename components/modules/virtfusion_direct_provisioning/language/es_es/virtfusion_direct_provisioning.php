@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = 'Servidores';
 $lang['VirtfusionDirectProvisioning.module_row'] = 'Servidor';
 $lang['VirtfusionDirectProvisioning.description'] = 'El módulo VirtFusion Blesta Direct Provisioning es un módulo simple que puede crear, terminar, suspender y desuspender servidores con un puente de acceso directo entre Blesta y VirtFusion.';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = 'Volver';
 

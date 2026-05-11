@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Сміття.';
 $lang['SupportManagerTickets.status.closed'] = 'Закрито.';
 $lang['SupportManagerTickets.status.on_hold'] = 'На утриманні.';
 $lang['SupportManagerTickets.status.in_progress'] = 'У процесі виконання';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Очікуємо на відповідь клієнта';
-$lang['SupportManagerTickets.status.open'] = 'Очікуємо на відповідь персоналу';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Очікування клієнта';
+$lang['SupportManagerTickets.status.open'] = 'Персонал, який чекає на вас';
 $lang['SupportManagerTickets.priority.low'] = 'Низький';
 $lang['SupportManagerTickets.priority.medium'] = 'Середній';
 $lang['SupportManagerTickets.priority.high'] = 'Високий';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Принаймні о�
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Принаймні один з одержувачів квитка дублюється.';
 $lang['SupportManagerTickets.log.service_id'] = 'Відповідний сервіс змінено на внутрішній ідентифікатор: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" є обов\'язковим і не може бути порожнім.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Квиток #%1$s Оновлено';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Новий квиток №%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s відповів на квиток #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s відкритий тікет #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Квиток №%1$s Призначено';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'За вами закріплений квиток №%1$s: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Зображення не вдалося завантажити. Будь ласка, спробуйте ще раз.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Зображення перевищує максимально дозволений розмір %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Неправильний тип зображення. Допускаються лише зображення у форматах JPEG, PNG, GIF та WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Не вдалося створити каталог для завантаження.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Зображення не вдалося зберегти. Будь ласка, спробуйте ще раз.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Вбудовані зображення у форматі base64 не допускаються. Будь ласка, вставте або перетягніть зображення в редактор, щоб завантажити їх.';
 

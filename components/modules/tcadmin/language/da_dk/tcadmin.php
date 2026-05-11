@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.!error.user_name.empty'] = 'Brugernavnet kan ikke være tomt.';
 $lang['Tcadmin.!error.user_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Tcadmin.!error.rcon_password.valid'] = 'RCON Password skal være på mindst 8 tegn.';
 $lang['Tcadmin.!error.private_password.valid'] = 'Den private adgangskode skal være på mindst 8 tegn.';
+$lang['Tcadmin.back_to_manage'] = 'Tilbage';
+$lang['Tcadmin.manage.tab_rows'] = 'Servere';
+$lang['Tcadmin.manage.tab_groups'] = 'Servergrupper';
 

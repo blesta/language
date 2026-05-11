@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminModule.basic.module_type_generic'] = 'Generisk';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrator';
 $lang['AdminModule.basic.author_name'] = 'Forfatterens navn';
 $lang['AdminModule.basic.author_url'] = 'Forfatter-URL';
-$lang['AdminModule.basic.text_options'] = 'Valgmuligheder';
+$lang['AdminModule.basic.text_options'] = 'Handlinger';
 $lang['AdminModule.basic.author_row_add'] = 'Tilføj forfatter';
 $lang['AdminModule.basic.text_remove'] = 'Fjern';
 $lang['AdminModule.basic.static_tlds'] = 'Statisk definition af TLD\'er';
@@ -101,7 +101,7 @@ $lang['AdminModule.fields.placeholder_service_label'] = 'f.eks. serviceområde';
 $lang['AdminModule.fields.module_row_add'] = 'Tilføj felt til modulrække';
 $lang['AdminModule.fields.package_row_add'] = 'Tilføj pakkefelt';
 $lang['AdminModule.fields.service_row_add'] = 'Tilføj servicefelt';
-$lang['AdminModule.fields.text_options'] = 'Valgmuligheder';
+$lang['AdminModule.fields.text_options'] = 'Handlinger';
 $lang['AdminModule.fields.text_remove'] = 'Fjern';
 $lang['AdminModule.fields.features'] = 'Næste - Yderligere funktioner';
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP-kode';
@@ -133,7 +133,7 @@ $lang['AdminModule.features.placeholder_cron_label'] = 'f.eks. min Cron-opgave';
 $lang['AdminModule.features.placeholder_time'] = 'f.eks. 14:25 eller 60';
 $lang['AdminModule.features.service_tab_row_add'] = 'Tilføj fanen Service Management';
 $lang['AdminModule.features.cron_task_row_add'] = 'Tilføj Cron-opgave';
-$lang['AdminModule.features.text_options'] = 'Valgmuligheder';
+$lang['AdminModule.features.text_options'] = 'Handlinger';
 $lang['AdminModule.features.text_remove'] = 'Fjern';
 $lang['AdminModule.features.confirm'] = 'Næste - Konfirmation';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminNonmerchant.features.confirm'] = 'Sonraki - Onaylama';
 $lang['AdminNonmerchant.features.heading_optional_functions'] = 'Opsiyonel Fonksiyonlar';
 $lang['AdminNonmerchant.fields.features'] = 'Sonraki - Ek Özellikler';
 $lang['AdminNonmerchant.fields.text_remove'] = 'Kaldırmak';
-$lang['AdminNonmerchant.fields.text_options'] = 'Seçenekler';
+$lang['AdminNonmerchant.fields.text_options'] = 'Eylemler';
 $lang['AdminNonmerchant.fields.field_row_add'] = 'Yapılandırma Alanı Ekle';
 $lang['AdminNonmerchant.fields.placeholder_label'] = 'ör. Yapılandırma Alanı';
 $lang['AdminNonmerchant.fields.placeholder_name'] = 'örn. configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminNonmerchant.basic.tooltip_logo'] = 'Eklenti listesinde görüntülen
 $lang['AdminNonmerchant.basic.tooltip_description'] = 'Eklenti listesinde gösterilen açıklama';
 $lang['AdminNonmerchant.basic.text_remove'] = 'Kaldırmak';
 $lang['AdminNonmerchant.basic.author_row_add'] = 'Yazar Ekle';
-$lang['AdminNonmerchant.basic.text_options'] = 'Seçenekler';
+$lang['AdminNonmerchant.basic.text_options'] = 'Eylemler';
 $lang['AdminNonmerchant.basic.author_url'] = 'Yazar URL\'si';
 $lang['AdminNonmerchant.basic.author_name'] = 'Yazar Adı';
 $lang['AdminNonmerchant.basic.currencies'] = 'Para Birimleri';

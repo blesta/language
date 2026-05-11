@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.service_field.gogetssl_organization_unit'] = 'Unidad de organiza
 $lang['GoGetSSL.service_field.gogetssl_fax'] = 'Número de fax (formato internacional)';
 $lang['GoGetSSL.tab_reissue'] = 'Reedición';
 $lang['GoGetSSL.tab_reissue.heading_reissue'] = 'Reedición';
+$lang['Gogetssl.back_to_manage'] = 'Volver';
 

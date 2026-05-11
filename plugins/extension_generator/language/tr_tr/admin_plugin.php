@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.features'] = 'Sonraki - Ek Özellikler';
 $lang['AdminPlugin.features.confirm'] = 'Sonraki - Onaylama';
 $lang['AdminPlugin.features.text_remove'] = 'Kaldırmak';
-$lang['AdminPlugin.features.text_options'] = 'Seçenekler';
+$lang['AdminPlugin.features.text_options'] = 'Eylemler';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Cron Görevi Ekleme';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Hizmet Yönetimi Sekmesi Ekleme';
 $lang['AdminPlugin.features.placeholder_time'] = 'örn. 14:25 veya 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Eylem için içeriğin çeki
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Eylem için içeriğin çekileceği URI için denetleyici (örn. admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Eylemin görüntüleneceği arayüzdeki konum';
 $lang['AdminPlugin.integrations.text_remove'] = 'Kaldırmak';
-$lang['AdminPlugin.integrations.text_options'] = 'Seçenekler';
+$lang['AdminPlugin.integrations.text_options'] = 'Eylemler';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Müşteri kartları, müşteri profilinde (müşteri veya yönetici alanında) gösterilen küçük kutulardır ve öncelikle çeşitli istatistikleri (örneğin hizmet, bilet veya sipariş sayısı) görüntülemek için kullanılır. Bir değer, bir etiket, bir arka plan ve bir bağlantıdan oluşurlar.  Etiket, bir geri arama işlevinden alınan değerin altında görüntülenir.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Bu Blesta\'daki kanca sistemidir.  Olaylar ya çekirdek tarafından ya da bir eklenti tarafından kaydedilir, daha sonra eklentiler bu olayları dinler ve olay için işleyici yöntemleri tanımlar.  Herhangi bir eklenti olayları kaydedebileceğinden, bunlardan herhangi bir sayıda olabilir, ancak blesta tarafından tanımlanan çekirdek olayların listesi burada bulunabilir https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Eylemler" çekirdek arayüz üzerinden erişilebilen eklenti sayfalarını temsil eder. Bu, yönetici ve müşteri alanlarındaki gezinme bağlantılarını, yönetici alanındaki widget\'ları ve müşteri profili kenar çubuğundaki bağlantıları içerir. Buraya girilen kontrolörler ve eylemler basit kontrolör dosyaları oluşturmak için kullanılacaktır. Ayrıca, her eylem için örnek görünüm dosyaları oluşturulacaktır.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Eylem Ekle';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Çekirdek Entegrasyonlar';
 $lang['AdminPlugin.database.integrations'] = 'Sonraki - Temel Entegrasyonlar';
 $lang['AdminPlugin.database.text_remove'] = 'Kaldırmak';
-$lang['AdminPlugin.database.text_options'] = 'Seçenekler';
+$lang['AdminPlugin.database.text_options'] = 'Eylemler';
 $lang['AdminPlugin.database.text_more_info'] = 'Bu sayfa, bu eklenti tarafından oluşturulan ve yönetilen veritabanı tabloları için bir şema oluşturmak için kullanılır. Yükleme ve kaldırma sırasında bu tabloları eklemek ve kaldırmak için kod oluşturulacaktır. Ayrıca, bu tablolar için bazı temel işlevlere sahip model dosyaları oluşturulacaktır.';
 $lang['AdminPlugin.database.placeholder_length'] = 'örn. 64 veya \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'ör. sütun_adı';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Eklenti listesinde görüntülenen lo
 $lang['AdminPlugin.basic.tooltip_description'] = 'Eklenti listesinde gösterilen açıklama';
 $lang['AdminPlugin.basic.text_remove'] = 'Kaldırmak';
 $lang['AdminPlugin.basic.author_row_add'] = 'Yazar Ekle';
-$lang['AdminPlugin.basic.text_options'] = 'Seçenekler';
+$lang['AdminPlugin.basic.text_options'] = 'Eylemler';
 $lang['AdminPlugin.basic.author_url'] = 'Yazar URL\'si';
 $lang['AdminPlugin.basic.author_name'] = 'Yazar Adı';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'Nästa - Bekräftelse';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Funktioner som stöds';
 $lang['AdminMerchant.fields.features'] = 'Nästa - Funktioner som stöds';
 $lang['AdminMerchant.fields.text_remove'] = 'Ta bort';
-$lang['AdminMerchant.fields.text_options'] = 'Alternativ';
+$lang['AdminMerchant.fields.text_options'] = 'Åtgärder';
 $lang['AdminMerchant.fields.field_row_add'] = 'Lägg till konfigurationsfält';
 $lang['AdminMerchant.fields.placeholder_label'] = 't.ex. Konfigurationsfält';
 $lang['AdminMerchant.fields.placeholder_name'] = 't.ex. konfiguration_fält';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'Logotypen som visas i plugin-listan
 $lang['AdminMerchant.basic.tooltip_description'] = 'Beskrivningen som visas i plugin-listan';
 $lang['AdminMerchant.basic.text_remove'] = 'Ta bort';
 $lang['AdminMerchant.basic.author_row_add'] = 'Lägg till författare';
-$lang['AdminMerchant.basic.text_options'] = 'Alternativ';
+$lang['AdminMerchant.basic.text_options'] = 'Åtgärder';
 $lang['AdminMerchant.basic.author_url'] = 'Författarens URL';
 $lang['AdminMerchant.basic.author_name'] = 'Författarens namn';
 $lang['AdminMerchant.basic.currencies'] = 'Valutor';

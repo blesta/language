@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Вы уверены, что хо�
 $lang['AdminPayouts.index.option_decline'] = 'Упадок';
 $lang['AdminPayouts.index.option_approve'] = 'Утвердить';
 $lang['AdminPayouts.index.option_edit'] = 'Редактировать';
-$lang['AdminPayouts.index.heading_options'] = 'Опции';
+$lang['AdminPayouts.index.heading_options'] = 'Действия';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Дата запроса';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Оплаченная валюта';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Оплаченная сумма';

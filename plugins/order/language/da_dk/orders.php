@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['Orders.index.heading_invoice_number'] = 'Faktura #';
 $lang['Orders.index.heading_total'] = 'I alt';
 $lang['Orders.index.heading_paid'] = 'Betalt';
 $lang['Orders.index.heading_date_ordered'] = 'Dato for bestilling';
-$lang['Orders.index.heading_options'] = 'Valgmuligheder';
+$lang['Orders.index.heading_options'] = 'Handlinger';
 $lang['Orders.index.option_view'] = 'Se';
 $lang['Orders.index.option_cancel'] = 'Annuller';
 $lang['Orders.index.no_results'] = 'Du har ikke nogen ordrer.';
@@ -34,7 +34,7 @@ $lang['Orders.view.heading_label'] = 'Etiket';
 $lang['Orders.view.heading_term'] = 'Betegnelse';
 $lang['Orders.view.heading_date_created'] = 'Oprettet dato';
 $lang['Orders.view.heading_date_renews'] = 'Dato Fornyer';
-$lang['Orders.view.heading_options'] = 'Valgmuligheder';
+$lang['Orders.view.heading_options'] = 'Handlinger';
 $lang['Orders.view.heading_type'] = 'Type';
 $lang['Orders.view.heading_applied'] = 'Anvendt';
 $lang['Orders.view.heading_status'] = 'Status';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,7 +29,7 @@ $lang['AdminMerchant.basic.signup_url'] = 'URL εγγραφής';
 $lang['AdminMerchant.basic.currencies'] = 'Νομίσματα';
 $lang['AdminMerchant.basic.author_name'] = 'Όνομα συγγραφέα';
 $lang['AdminMerchant.basic.author_url'] = 'Συγγραφέας URL';
-$lang['AdminMerchant.basic.text_options'] = 'Επιλογές';
+$lang['AdminMerchant.basic.text_options'] = 'Δράσεις';
 $lang['AdminMerchant.basic.author_row_add'] = 'Προσθήκη συγγραφέα';
 $lang['AdminMerchant.basic.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminMerchant.basic.tooltip_description'] = 'Η περιγραφή που εμφανίζεται στη λίστα του πρόσθετου';
@@ -56,7 +56,7 @@ $lang['AdminMerchant.fields.tooltip_encryptable'] = 'Εάν θα κρυπτογ�
 $lang['AdminMerchant.fields.placeholder_name'] = 'π.χ. configuration_field';
 $lang['AdminMerchant.fields.placeholder_label'] = 'π.χ. Πεδίο διαμόρφωσης';
 $lang['AdminMerchant.fields.field_row_add'] = 'Προσθήκη πεδίου διαμόρφωσης';
-$lang['AdminMerchant.fields.text_options'] = 'Επιλογές';
+$lang['AdminMerchant.fields.text_options'] = 'Δράσεις';
 $lang['AdminMerchant.fields.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminMerchant.fields.features'] = 'Επόμενο - Υποστηριζόμενες λειτουργίες';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Υποστηριζόμενα χαρακτηριστικά';

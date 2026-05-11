@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminDepartments.index.heading_description'] = 'Περιγραφή';
 $lang['AdminDepartments.index.heading_email'] = 'Ηλεκτρονικό ταχυδρομείο';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Εκχωρημένο προσωπικό';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Προεπιλεγμένη προτεραιότητα';
-$lang['AdminDepartments.index.heading_options'] = 'Επιλογές';
+$lang['AdminDepartments.index.heading_options'] = 'Δράσεις';
 $lang['AdminDepartments.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminDepartments.index.option_delete'] = 'Διαγραφή';
 $lang['AdminDepartments.index.confirm_delete'] = 'Τμήματα στα οποία έχουν εκχωρηθεί εισιτήρια δεν μπορούν να διαγραφούν έως ότου όλα τα εισιτήρια εκ νέου εκχωρηθούν σε ένα άλλο τμήμα. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το τμήμα;';
@@ -87,7 +87,7 @@ $lang['AdminDepartments.add.heading_step'] = 'Βήμα';
 $lang['AdminDepartments.add.heading_client_add'] = 'Ο πελάτης μπορεί να προσθέσει';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Κρυπτογραφημένο';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Αυτόματη διαγραφή';
-$lang['AdminDepartments.add.heading_options'] = 'Επιλογές';
+$lang['AdminDepartments.add.heading_options'] = 'Δράσεις';
 $lang['AdminDepartments.add.heading_name'] = 'Όνομα';
 $lang['AdminDepartments.add.heading_value'] = 'Αξία';
 $lang['AdminDepartments.add.heading_default'] = 'Προεπιλογή';
@@ -138,7 +138,7 @@ $lang['AdminDepartments.edit.heading_step'] = 'Βήμα';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Ο πελάτης μπορεί να προσθέσει';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Κρυπτογραφημένο';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Αυτόματη διαγραφή';
-$lang['AdminDepartments.edit.heading_options'] = 'Επιλογές';
+$lang['AdminDepartments.edit.heading_options'] = 'Δράσεις';
 $lang['AdminDepartments.edit.heading_name'] = 'Όνομα';
 $lang['AdminDepartments.edit.heading_value'] = 'Αξία';
 $lang['AdminDepartments.edit.heading_default'] = 'Προεπιλογή';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 ID πελάτ�
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Χρήστης OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Πάροχος OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Για όλα τα εισιτήρια με κατάσταση κλειστό, θα αποσταλεί στον πελάτη μια υπενθύμιση για να αφήσει τα σχόλιά του, εάν το εισιτήριο έχει κλείσει για το επιλεγμένο χρονικό διάστημα.';
+$lang['AdminDepartments.!text.description_hint'] = 'Αυτή η περιγραφή θα είναι ορατή στους πελάτες όταν επιλέγουν ένα τμήμα.';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Κρατήστε πατημένο το Ctrl (Windows) ή το Cmd (Mac) για να επιλέξετε πολλαπλές προτεραιότητες';
+$lang['AdminDepartments.!text.search_responses'] = 'Αναζήτηση απαντήσεων...';
+$lang['AdminDepartments.!text.searching'] = 'Αναζήτηση...';
+$lang['AdminDepartments.add.heading_actions'] = 'Δράσεις';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Είστε σίγουροι ότι θέλετε να καταργήσετε αυτό το προσαρμοσμένο πεδίο;';
+$lang['AdminDepartments.edit.heading_actions'] = 'Δράσεις';
 

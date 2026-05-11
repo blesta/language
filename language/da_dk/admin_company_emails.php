@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,7 +46,7 @@ $lang['AdminCompanyEmails.templates.text_description'] = 'Beskrivelse';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Valgmuligheder';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Rediger';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Der findes ingen skabeloner af denne type.';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Opdatering';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Ansøg';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Godkendt betaling (kreditkort)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Meddelelse sendt efter en vellykket kreditkortbetaling er godkendt.';
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Betaling afvist (kreditkort)';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuller';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Vedhæftet fil';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Slet';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Er du sikker på, at du vil slette denne vedhæftede fil?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Valgmuligheder';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Handlinger';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Filnavn';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Yderligere vedhæftede filer';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'E-mail-skabelon';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Ingen';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Opdater HTML-skabelon';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Rediger skabelon';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Opdater skabelon';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Navn';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Rediger HTML-skabelon';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Tilføj skabelon';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Opret skabelon';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Navn';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Tilføj HTML-skabelon';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Meddelelse 
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Aflysning af service';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Meddelelse sendes, når klientens saldo falder til under den indstillede grænse.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Meddelelse om lav saldo';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Foreslået emne';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Tekstversion';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML-version';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Emnelinje';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Anvend indhold til:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Fejl:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'For mange anmodninger. Vent venligst et øjeblik, før du prøver igen.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Generering af indhold mislykkedes. Prøv venligst igen.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Opfordringen overskrider den maksimale længde.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Der kræves en prompt for at generere indhold.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Forhåndsvisning af tekst';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Generering af AI-e-mailskabeloner er ikke aktiveret.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'AI-funktioner er i øjeblikket deaktiveret.';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML-eksempel';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Klik på Generer for at oprette e-mailindhold baseret på skabelontypen og de tilgængelige tags.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Genereret indhold';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Valgfri vejledning til AI\'en for at tilpasse det genererede indhold.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Tilføj specifikke krav eller tonepræferencer...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Yderligere instruktioner';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Indlæser prompt...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Spørg til konteksten';
+$lang['AdminCompanyEmails.ai.generating'] = 'Genererer...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Annuller';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Brug dette indhold';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenerere';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Skriv om';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Generer';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Omskriv e-mail-indhold';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generer e-mail-indhold';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'AI-indholdsassistent';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Kopieret!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Kopi';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 Omdirigerings-URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Er du sikker på, at du vil gendanne dette snapshot? Alle ikke-gemte ændringer vil gå tabt.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Der er ingen snapshots tilgængelige for denne e-mailskabelon.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Skabelonens historie';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Gendan snapshot';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Gendan';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Gennemse filer';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Læg filer her, eller klik på Gennemse for at uploade vedhæftede filer';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Brug disse tags i din e-mailskabelon til at inkludere dynamisk indhold.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Tilgængelige tags';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Indtast almindelig tekstversion af e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Indtast e-mail-emne';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Indtast fra e-mailadresse';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Indtast fra navn';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'valgte emner';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Kopier denne URL, og tilføj den som en autoriseret omdirigerings-URI i din OAuth-udbyders applikationsindstillinger (f.eks. Google Cloud Console, Microsoft Azure Portal). Dette er nødvendigt for, at OAuth-godkendelse kan fungere.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'E-mail-skabelonen er blevet gendannet fra øjebliksbilledet!';
 

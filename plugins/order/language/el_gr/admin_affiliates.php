@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminAffiliates.index.heading_visits'] = 'Επισκέψεις';
 $lang['AdminAffiliates.index.heading_sales'] = 'Πωλήσεις';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Ημερομηνία προσθήκης';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Ημερομηνία ενημέρωσης';
-$lang['AdminAffiliates.index.heading_options'] = 'Επιλογές';
+$lang['AdminAffiliates.index.heading_options'] = 'Δράσεις';
 $lang['AdminAffiliates.index.option_manage'] = 'Διαχείριση';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Απενεργοποίηση';
 $lang['AdminAffiliates.index.option_activate'] = 'Ενεργοποίηση';

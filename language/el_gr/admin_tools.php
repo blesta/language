@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,7 +136,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Αλλαγή Μέγιστο';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Προβολή τιμολογίου';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Είστε σίγουροι ότι θέλετε να αφαιρέσετε αυτή την υπηρεσία από την ουρά ανανέωσης;';
-$lang['AdminTools.renewals.heading_options'] = 'Επιλογές';
+$lang['AdminTools.renewals.heading_options'] = 'Δράσεις';
 $lang['AdminTools.renewals.heading_invoice'] = 'Τιμολόγιο';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Μέγιστες προσπάθειες';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Αποτυχημένες προσπάθειες';
@@ -152,7 +152,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Αναβα�
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Ενημερώστε το σύνολο χαρακτήρων και την ταξινόμηση της βάσης δεδομένων, των πινάκων και των στηλών σας σε utf8mb4 για την υποστήριξη χαρακτήρων 4 byte, όπως τα emojis.  Αυτό μπορεί να διαρκέσει αρκετά λεπτά.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Ενημέρωση σε utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Ενημέρωση συλλογής βάσεων δεδομένων';
-$lang['AdminTools.utilities.heading_options'] = 'Επιλογές';
+$lang['AdminTools.utilities.heading_options'] = 'Δράσεις';
 $lang['AdminTools.utilities.heading_description'] = 'Περιγραφή';
 $lang['AdminTools.utilities.heading_utility'] = 'Χρησιμότητα';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Υπηρεσίες κοινής ωφέλειας';
@@ -188,7 +188,7 @@ $lang['AdminTools.blacklist.heading_rule'] = 'Κανόνας';
 $lang['AdminTools.blacklist.heading_type'] = 'Τύπος';
 $lang['AdminTools.blacklist.heading_list'] = 'Λίστα';
 $lang['AdminTools.blacklist.heading_note'] = 'Σημείωση';
-$lang['AdminTools.blacklist.heading_options'] = 'Επιλογές';
+$lang['AdminTools.blacklist.heading_options'] = 'Δράσεις';
 $lang['AdminTools.blacklist.text_type_ip'] = 'Διεύθυνση IP';
 $lang['AdminTools.blacklist.text_type_email'] = 'Διεύθυνση ηλεκτρονικού ταχυδρομείου';
 $lang['AdminTools.blacklist.text_system'] = 'Σύστημα';
@@ -199,7 +199,7 @@ $lang['AdminTools.blacklistadd.boxtitle_addrule'] = 'Προσθήκη κανόν
 $lang['AdminTools.blacklistadd.field_rule'] = 'Κανόνας';
 $lang['AdminTools.blacklistadd.field_type'] = 'Τύπος';
 $lang['AdminTools.blacklistadd.field_note'] = 'Σημείωση';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Προσθήκη κανόνα';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Δημιουργία κανόνα';
 $lang['AdminTools.logservicechanges.text_type'] = 'Τύπος';
 $lang['AdminTools.logservicechanges.text_gateway'] = 'Πύλη';
 $lang['AdminTools.logservicechanges.text_transaction_id'] = 'Αναγνωριστικό συναλλαγής';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Επί του παρόντο�
 $lang['AdminTools.renewals.no_results_provision'] = 'Προς το παρόν δεν υπάρχουν υπηρεσίες σε ουρά αναμονής για παροχή.';
 $lang['AdminTools.!notice.conditions_met'] = 'Τα στοιχεία εμφανίζονται στην καθορισμένη ουρά μόνο όταν πληρούνται όλες οι προϋποθέσεις και είναι έτοιμα για προσπάθεια.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Οι αλλαγές στην υπηρεσία ακυρώθηκαν επιτυχώς.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Αποκλεισμός εξερχόμενων';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Αποκλεισμός εξερχόμενων μηνυμάτων ηλεκτρονικού ταχυδρομείου προς αυτή τη διεύθυνση';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Αποκλεισμός εξερχόμενων';
 $lang['AdminTools.renewals.no_results_changes'] = 'Προς το παρόν δεν υπάρχουν αλλαγές υπηρεσιών σε αναμονή για παροχή.';
 $lang['AdminTools.renewals.option_retry'] = 'Επανάληψη';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Κατάσταση';
 $lang['AdminTools.renewals.category_changes'] = 'Αλλαγές υπηρεσιών';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Μη καταβληθείσα ανανέωση';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Οι αλλαγές στην υπηρεσία έχουν προγραμματιστεί με επιτυχία.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Ελέγξατε τα αρχεία %1$s: %2$s OK, %3$s τροποποιημένο, %4$s λείπει.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Το αρχείο δηλωτικού (manifest.json) δεν βρέθηκε. Αυτό το αρχείο περιλαμβάνεται στις επίσημες εκδόσεις και απαιτείται για την εκτέλεση ελέγχου ακεραιότητας.';
+$lang['AdminTools.integritycheck.text_error'] = 'Προέκυψε σφάλμα κατά τον έλεγχο των αρχείων.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Όλα τα αρχεία ταιριάζουν με το δηλωτικό. Δεν εντοπίστηκαν τροποποιήσεις ή ελλείποντα αρχεία.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Συνολικά αρχεία';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Προμηθευτής';
+$lang['AdminTools.integritycheck.category_core'] = 'Πυρήνας';
+$lang['AdminTools.integritycheck.status_missing'] = 'Λείπει το';
+$lang['AdminTools.integritycheck.status_modified'] = 'Τροποποιημένο';
+$lang['AdminTools.integritycheck.heading_category'] = 'Κατηγορία';
+$lang['AdminTools.integritycheck.heading_file'] = 'Αρχείο';
+$lang['AdminTools.integritycheck.heading_status'] = 'Κατάσταση';
+$lang['AdminTools.integritycheck.text_checking'] = 'Έλεγχος αρχείων, παρακαλώ περιμένετε. Αυτό μπορεί να πάρει λίγο χρόνο...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Τρέξτε ξανά';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Λήψη έκθεσης';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Εκτέλεση ελέγχου ακεραιότητας';
+$lang['AdminTools.integritycheck.text_description'] = 'Επαληθεύστε τα εγκατεστημένα αρχεία σε σχέση με το μανιφέστο που παραδίδεται με αυτή την έκδοση. Αυτό ελέγχει την ακεραιότητα των αρχείων συγκρίνοντας κατακερματισμούς SHA256 και μπορεί να βοηθήσει στον εντοπισμό αρχείων που έχουν τροποποιηθεί, πράγμα χρήσιμο για την αντιμετώπιση προβλημάτων και πριν από την εκτέλεση αναβαθμίσεων.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Έλεγχος ακεραιότητας συστήματος';
+$lang['AdminTools.integritycheck.page_title'] = 'Έλεγχος ακεραιότητας συστήματος';
+$lang['AdminTools.!success.cache_cleared'] = 'Η προσωρινή μνήμη αρχείων εκκαθαρίστηκε επιτυχώς.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Έλεγχος λειτουργίας';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Επαληθεύστε τα αρχεία πυρήνα με το μανιφέστο αποστολής για να εντοπίσετε τροποποιημένα ή ελλείποντα αρχεία.';
+$lang['AdminTools.utilities.integrity_check'] = 'Έλεγχος ακεραιότητας συστήματος';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Καθαρίστε τα αποθηκευμένα αρχεία, συμπεριλαμβανομένων των αποθηκευμένων αρχείων πλοήγησης, προβολών και πρόσθετων. Αυτό μπορεί να προκαλέσει ελαφρώς πιο αργές φορτώσεις σελίδων μέχρι να ξαναχτιστούν οι προσωρινές μνήμες.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Εκκαθάριση μνήμης cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Εκκαθάριση της προσωρινής μνήμης αρχείων';
+$lang['AdminTools.getlognames.text_system'] = 'Σύστημα';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Έκδοση του μανιφέστου: %1$s (δημιουργήθηκε %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Προς το παρόν δεν υπάρχουν υπηρεσίες σε ουρά αναμονής για ανανέωση μετά την πληρωμή.';
+$lang['AdminTools.logsystem.page_title'] = 'Εργαλεία Καταγραφές';
+$lang['AdminTools.logsystem.text_date'] = 'Ημερομηνία';
+$lang['AdminTools.logsystem.text_level'] = 'Επίπεδο';
+$lang['AdminTools.logsystem.text_message'] = 'Μήνυμα';
+$lang['AdminTools.logsystem.no_results'] = 'Δεν υπάρχουν εγγραφές καταγραφής συστήματος.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Ο κατάλογος καταγραφής δεν έχει ρυθμιστεί ή δεν είναι αναγνώσιμος. Διαμορφώστε τον στις Ρυθμίσεις &gt; Σύστημα &gt; Γενικά.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Έκτακτης ανάγκης';
+$lang['AdminTools.logsystem.level_alert'] = 'Ειδοποίηση';
+$lang['AdminTools.logsystem.level_critical'] = 'Κρίσιμη';
+$lang['AdminTools.logsystem.level_error'] = 'Σφάλμα';
+$lang['AdminTools.logsystem.level_warning'] = 'Προειδοποίηση';
+$lang['AdminTools.logsystem.level_notice'] = 'Ανακοίνωση';
+$lang['AdminTools.logsystem.level_info'] = 'Πληροφορίες';
+$lang['AdminTools.logsystem.level_debug'] = 'Αποσφαλμάτωση';
 

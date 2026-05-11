@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Zpětné volání';
 $lang['AdminMain.edit.field_event'] = 'Událost';
 $lang['AdminMain.edit.field_callback'] = 'Zpětné volání';
 $lang['AdminMain.edit.option_delete'] = 'Odstranit';
-$lang['AdminMain.edit.heading_options'] = 'Možnosti';
+$lang['AdminMain.edit.heading_options'] = 'Akce';
 $lang['AdminMain.edit.heading_parameter'] = 'Nové pole';
 $lang['AdminMain.edit.heading_field'] = 'Původní pole';
 $lang['AdminMain.edit.heading_fields_map'] = 'Mapa polí';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Zpětné volání';
 $lang['AdminMain.add.field_event'] = 'Událost';
 $lang['AdminMain.add.field_callback'] = 'Zpětné volání';
 $lang['AdminMain.add.option_delete'] = 'Odstranit';
-$lang['AdminMain.add.heading_options'] = 'Možnosti';
+$lang['AdminMain.add.heading_options'] = 'Akce';
 $lang['AdminMain.add.heading_parameter'] = 'Nové pole';
 $lang['AdminMain.add.heading_field'] = 'Původní pole';
 $lang['AdminMain.add.heading_fields_map'] = 'Mapa polí';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Přijme požadavek HTTP a 
 $lang['AdminMain.index.text_description_outgoing'] = 'Po spuštění události odešle požadavek HTTP na adresu URL. Požadavek lze odeslat pomocí GET, POST, PUT nebo JSON.';
 $lang['AdminMain.index.option_delete'] = 'Odstranit';
 $lang['AdminMain.index.option_edit'] = 'Upravit';
-$lang['AdminMain.index.heading_options'] = 'Možnosti';
+$lang['AdminMain.index.heading_options'] = 'Akce';
 $lang['AdminMain.index.heading_method'] = 'Metoda';
 $lang['AdminMain.index.heading_event'] = 'Událost';
 $lang['AdminMain.index.heading_callback'] = 'Zpětné volání';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Stav HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Událost';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Všechny webové háčky';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Možnosti';
+$lang['AdminMain.logs.heading_options'] = 'Akce';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Poslední opakovaný pokus';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Datum spuštění';
 $lang['AdminMain.logs.heading_http_response'] = 'Odpověď HTTP';

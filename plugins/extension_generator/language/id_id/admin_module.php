@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Berikutnya - Konfirmasi';
 $lang['AdminModule.features.text_remove'] = 'Menghapus';
-$lang['AdminModule.features.text_options'] = 'Pilihan';
+$lang['AdminModule.features.text_options'] = 'Tindakan';
 $lang['AdminModule.features.cron_task_row_add'] = 'Tambahkan Tugas Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'Tambahkan Tab Manajemen Layanan';
 $lang['AdminModule.features.placeholder_time'] = 'misalnya 14:25 atau 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Apakah akan mengi
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Kode EPP';
 $lang['AdminModule.fields.features'] = 'Berikutnya - Fitur Tambahan';
 $lang['AdminModule.fields.text_remove'] = 'Menghapus';
-$lang['AdminModule.fields.text_options'] = 'Pilihan';
+$lang['AdminModule.fields.text_options'] = 'Tindakan';
 $lang['AdminModule.fields.service_row_add'] = 'Tambahkan Bidang Layanan';
 $lang['AdminModule.fields.package_row_add'] = 'Tambahkan Bidang Paket';
 $lang['AdminModule.fields.module_row_add'] = 'Tambahkan Bidang Baris Modul';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD';
 $lang['AdminModule.basic.static_tlds'] = 'Mendefinisikan TLD secara statis';
 $lang['AdminModule.basic.text_remove'] = 'Menghapus';
 $lang['AdminModule.basic.author_row_add'] = 'Tambahkan Penulis';
-$lang['AdminModule.basic.text_options'] = 'Pilihan';
+$lang['AdminModule.basic.text_options'] = 'Tindakan';
 $lang['AdminModule.basic.author_url'] = 'URL Penulis';
 $lang['AdminModule.basic.author_name'] = 'Nama Penulis';
 $lang['AdminModule.basic.module_type_registrar'] = 'Panitera';

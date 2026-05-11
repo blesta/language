@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'Hesaplar';
 $lang['Enom.module_row'] = 'Hesap';
 $lang['Enom.description'] = 'Enom, Inc. SSL sertifikaları, e-posta hizmetleri ve Web sitesi oluşturma yazılımı gibi alan adlarıyla yakından bağlantılı diğer ürünleri de satan bir alan adı kayıt ve Web barındırma şirketidir.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Geri';
 

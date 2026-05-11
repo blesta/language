@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = 'Conturi';
 $lang['Vultr.module_row'] = 'Cont';
 $lang['Vultr.description'] = 'Panoul de control Vultr face ca gestionarea serverului să fie simplă și intuitivă. Sarcinile obișnuite, cum ar fi ordonarea serverelor, gestionarea copiilor de rezervă și ajustarea controlului accesului sunt la doar câteva clicuri distanță.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = 'Înapoi';
 

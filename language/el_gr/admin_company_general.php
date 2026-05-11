@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = 'Έξυπνη α
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'Ενημέρωση ρυθμίσεων';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'Παρουσιάστε στους πελάτες τη δυνατότητα επιλογής opt-in/opt-out του μάρκετινγκ ηλεκτρονικού ταχυδρομείου';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'Μάρκετινγκ';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Επεξεργασία τύπου επαφής';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Ενημέρωση τύπου επαφής';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'Χρήση Ορισμός γλώσσας';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'Όνομα';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'Επεξεργασία τύπου επαφής';
@@ -52,7 +52,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = 'Διαγραφή';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'Επεξεργασία';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'Όχι';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'Ναι';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Επιλογές';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Δράσεις';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'Χρήσεις Γλώσσα Ορισμός';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'Όνομα';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'Τύποι επικοινωνίας';

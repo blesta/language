@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.edit.field_recovery_email'] = 'E-mail pro obnovení (voliteln�
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Vyžaduje se pro povolení dvoufaktorového ověřování nebo aktualizaci hesla.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Dvoufaktorové ověřování';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Přidat kredity';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Odstranění stránky';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Widget\'ları kontrol panelinize eklemek için sağdan sola, kaldırmak için soldan sağa sürükleyin.';
 $lang['AdminMain.index.customize_dashboard'] = 'Gösterge Tablosunu Özelleştirin';
 $lang['AdminMain.index.manage_widgets'] = 'Widget\'ları Yönet';
-$lang['AdminMain.index.no_quicklinks'] = 'Hiçbir Hızlı Bağlantı ayarlanmamıştır.';
+$lang['AdminMain.index.no_quicklinks'] = 'Henüz Hızlı Bağlantı yok. Buraya eklemek için herhangi bir sayfadaki yıldız simgesine tıklayın.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Hızlı Bağlantılar';
 $lang['AdminMain.index.page_title'] = 'Gösterge Tablosu';
 $lang['AdminMain.!success.event_deleted'] = 'Etkinlik başarıyla silindi!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Etkinlik başarıyla güncellendi!';
 $lang['AdminMain.!success.event_added'] = 'Etkinlik başarıyla eklendi!';
 $lang['AdminMain.!error.event_editable'] = 'Bu olayı yalnızca olayı oluşturan kişi silebilir.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Bu olayı yalnızca olayı oluşturan kişi silebilir.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gösterge Tablosu Araçlarını Yönetme';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Kapat';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Hızlı Bağlantıyı Kaldır';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Hızlı Bağlantılardan "%1$s" adresini kaldırmak istediğinizden emin misiniz?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Kaldırmak';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'İptal';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Gösterge panelinizde göstermek veya gizlemek için widget\'lara tıklayın.';
+$lang['AdminMain.calendar.category_list'] = 'Liste';
+$lang['AdminMain.calendar.category_today'] = 'Bugün';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,6 +76,6 @@ $lang['AdminCompanyCurrencies.edit.field_precision'] = 'Præcision';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Præfiks Symbol';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Suffiks Symbol';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Valutakurs';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Rediger valuta';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Opdatering af valuta';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Er du sikker på, at du vil opdatere denne valuta? Denne valutas kurs vil blive overskrevet, når valutakurser automatisk opdateres i systemet. Du kan deaktivere automatiske opdateringer under [Indstillinger] > [Virksomhed] > [Valutaer] > [Valutaopsætning].';
 

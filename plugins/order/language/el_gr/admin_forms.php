@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,7 +32,7 @@ $lang['AdminForms.index.heading_status'] = 'Κατάσταση';
 $lang['AdminForms.index.heading_options'] = 'Επιλογές';
 $lang['AdminForms.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminForms.index.option_delete'] = 'Διαγραφή';
-$lang['AdminForms.index.text_confirm_delete'] = 'Πραγματικά να διαγράψετε αυτή τη φόρμα παραγγελίας;';
+$lang['AdminForms.index.text_confirm_delete'] = 'Σίγουρα θέλετε να διαγράψετε αυτή τη φόρμα παραγγελίας;';
 $lang['AdminForms.index.field_status_active'] = 'Ενεργό';
 $lang['AdminForms.index.field_status_inactive'] = 'Ανενεργό';
 $lang['AdminForms.add.tab_basic'] = 'Βασικό';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Όταν επιλέγετ�
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Εμφάνιση μηνιαίας ανάλυσης τιμών';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Όταν επιλέγετε ένα πακέτο, αναφέρετε το μηνιαίο κόστος για κάθε επιλογή τιμολόγησης, καθώς και την εξοικονόμηση ανά μήνα σε σύγκριση με τη μηνιαία τιμή (κατά περίπτωση).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Εμφάνιση μηνιαίας ανάλυσης τιμών';
+$lang['AdminForms.index.heading_actions'] = 'Δράσεις';
+$lang['AdminForms.index.back_to_forms'] = 'Επιστροφή στα Έντυπα Παραγγελίας';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Απαίτηση συγκατάθεσης για επαναλαμβανόμενες συνδρομές';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Όταν είναι ενεργοποιημένη, οι πελάτες πρέπει να συναινέσουν ρητά στην επαναλαμβανόμενη χρέωση πριν ολοκληρώσουν μια παραγγελία με επαναλαμβανόμενα στοιχεία. Αυτό αντικαθιστά το πλαίσιο ελέγχου Αποθήκευση λεπτομερειών πληρωμής.';
+$lang['AdminForms.add.field_cancel'] = 'Ακύρωση';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Απαίτηση συγκατάθεσης για επαναλαμβανόμενες συνδρομές';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Όταν είναι ενεργοποιημένη, οι πελάτες πρέπει να συναινέσουν ρητά στην επαναλαμβανόμενη χρέωση πριν ολοκληρώσουν μια παραγγελία με επαναλαμβανόμενα στοιχεία. Αυτό αντικαθιστά το πλαίσιο ελέγχου Αποθήκευση λεπτομερειών πληρωμής.';
+$lang['AdminForms.edit.field_cancel'] = 'Ακύρωση';
+$lang['AdminForms.embed_codes.heading'] = 'Ενσωματώστε τον κωδικό για την Αναζήτηση τομέα';
+$lang['AdminForms.embed_codes.description'] = 'Αντιγράψτε ένα από τα παρακάτω αποσπάσματα για να ενσωματώσετε μια φόρμα αναζήτησης τομέα σε έναν εξωτερικό ιστότοπο. Οι υποβολές θα ανοίξουν το ταμείο σε αυτή τη φόρμα παραγγελίας με τον εισαγόμενο τομέα προ-φορτωμένο.';
+$lang['AdminForms.embed_codes.label_first'] = 'Εισάγετε μια ετικέτα URL για αυτή τη φόρμα παραγγελίας για τη δημιουργία κωδικών ενσωμάτωσης.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Απλή HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Προεπισκόπηση';
+$lang['AdminForms.embed_codes.copy'] = 'Αντιγραφή';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Η παράκαμψη CSRF απαιτείται για να λειτουργήσει η ενσωματωμένη αναζήτηση τομέα.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'Τα POST από έναν εξωτερικό ιστότοπο θα απορρίπτονται μέχρι να προσθέσετε το config::preconfig στον πίνακα Blesta.csrf_bypass στο αρχείο config/blesta.php:';
 

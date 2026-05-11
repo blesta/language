@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'الرجاء إدخال اسم ال
 $lang['Actions.!error.url.empty'] = 'الرجاء إدخال عنوان URL.';
 $lang['Actions.!error.location.unique'] = 'يجب أن يكون الموقع وعنوان URL فريداً لهذه الشركة.';
 $lang['Actions.!error.location.valid'] = 'موقع صالح غير صالح.';
+$lang['Actions.!error.icon.length'] = 'يجب ألا تتجاوز فئة الأيقونة 255 حرفاً.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -163,7 +163,7 @@ $lang['AdminCompanyBilling.addcoupon.field_apply_package_options'] = 'Anvend på
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Kun til intern brug';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Kuponkode';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Generer kode';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Begrænsninger';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Begrænsninger og restriktioner';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Startdato';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Slutdato';
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Antal';
@@ -181,7 +181,7 @@ $lang['AdminCompanyBilling.addcoupon.text_period'] = 'Periode';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Vilkår';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Fjern';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Pakker';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Begrænsninger i pakken';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Pakkegruppe-filter';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Opret kupon';
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Alle';
@@ -196,7 +196,7 @@ $lang['AdminCompanyBilling.editcoupon.field_apply_package_options'] = 'Anvend p�
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Kun til intern brug';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Kuponkode';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Generer kode';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Begrænsninger';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Begrænsninger og restriktioner';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Startdato';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Slutdato';
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Antal';
@@ -207,16 +207,16 @@ $lang['AdminCompanyBilling.editcoupon.categorylink_addcurrency'] = 'Tilføj yder
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Valuta';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Type';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Værdi';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Vilkår';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Begrænsninger i løbetiden';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Denne kupon kan kun anvendes på tjenester, der er bestilt for en af de valgte perioder. Hvis der ikke er aktiveret nogen, ignoreres servicens løbetid, når kuponbegrænsningerne evalueres.';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Aktiveret';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Periode';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Vilkår';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Fjern';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Pakker';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Begrænsninger i pakken';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Pakkegruppe-filter';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Rediger kupon';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Opdater kupon';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Alle';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Tildelte pakker';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Tilgængelige pakker';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Kravene';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Mulighed';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Tilvalgsgruppe';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Denne kupon kan kun anvendes, hvis de valgte konfigurerbare indstillinger matcher. Lad den stå tom for at ignorere begrænsninger i konfigurerbare indstillinger.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Konfigurerbare muligheder';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Begrænsninger for konfigurerbare muligheder';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Sæt fakturaer i kø igen til levering, når de er lukket';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Tilføj';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Kunden vil modtage en daglig meddelelse, når deres saldo falder til under dette beløb. Lad den stå tom for at deaktivere notifikationer for denne valuta.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Maksimumsbeløbet for %
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Det maksimale beløb for %1$s skal være større end 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Minimumsbeløbet for %1$s skal være større end 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Indstillingerne for kredithåndtering er blevet opdateret!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Indtast venligst et navn på afsenderadressen.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Indtast venligst en afsenderadresse.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Indtast venligst en returadresse.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Indtast venligst en returadresse for byen.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Vælg venligst en afsenderadresse, stat/provins.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Indtast venligst en returadresse med postnummer.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Vælg venligst et land for returadressen.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Tilgængelige tags omfatter: {num} - tilbudsnummeret (påkrævet); {year} - det firecifrede år; {month} - den tocifrede måned; {day} - den tocifrede dag i måneden.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Citationstal begynder (og øges) fra denne startværdi.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Efterfølgende noteringsnumre øges med denne værdi.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Begrænsninger i brugen';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Begrænsninger i brugen';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Svar-kuvert';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Returadresse';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Navn';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Virksomhed';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Adresse 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Adresse 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'By';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Stat/provins';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Postnummer';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Land';
 

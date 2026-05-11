@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Esse é o tipo de
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Esse é o nome do campo de formulário oculto. Use qty para criar um campo de quantidade.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Esse é o texto que aparece diretamente acima do campo do formulário.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = 'Voltar';
 

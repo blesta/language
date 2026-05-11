@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = '위젯을 오른쪽에서 왼쪽으로 드래그하여 대시보드에 추가하거나 왼쪽에서 오른쪽으로 드래그하여 제거할 수 있습니다.';
 $lang['AdminMain.index.customize_dashboard'] = '대시보드 사용자 지정';
 $lang['AdminMain.index.manage_widgets'] = '위젯 관리';
-$lang['AdminMain.index.no_quicklinks'] = '빠른 링크가 설정되지 않았습니다.';
+$lang['AdminMain.index.no_quicklinks'] = '아직 빠른 링크가 없습니다. 여기에 추가하려면 페이지에서 별 모양 아이콘을 클릭하세요.';
 $lang['AdminMain.index.heading_quicklinks'] = '빠른 링크';
 $lang['AdminMain.index.page_title'] = '대시보드';
 $lang['AdminMain.!success.event_deleted'] = '이벤트가 성공적으로 삭제되었습니다!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = '이벤트가 성공적으로 업데�
 $lang['AdminMain.!success.event_added'] = '이벤트가 성공적으로 추가되었습니다!';
 $lang['AdminMain.!error.event_editable'] = '이벤트 작성자만 해당 이벤트를 삭제할 수 있습니다.';
 $lang['AdminMain.!error.delete_event.staff_id'] = '이벤트 작성자만 이 이벤트를 삭제할 수 있습니다.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = '대시보드 위젯 관리';
+$lang['AdminMain.index.modal_manage_widgets_close'] = '닫기';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = '빠른 링크 제거';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = '빠른 링크에서 "%1$s"를 제거하시겠습니까?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = '제거';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = '취소';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = '위젯을 클릭하여 대시보드에서 위젯을 표시하거나 숨깁니다.';
+$lang['AdminMain.calendar.category_list'] = '목록';
+$lang['AdminMain.calendar.category_today'] = '오늘';
 

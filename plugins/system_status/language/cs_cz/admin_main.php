@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Celkově je systém v dobrém stavu, ale
 $lang['AdminMain.index.health_excellent'] = 'Systém je v dobrém stavu a zdá se, že funguje normálně.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurace?';
 $lang['AdminMain.index.upload_dir'] = 'Cesta k adresáři pro nahrávání v nastavení je v kořenovém adresáři webu.  Měl by být umístěn nad kořenovým webovým adresářem, aby se nikdy nevyskytl problém s jeho veřejným přístupem.';
+$lang['AdminMain.index.text_info'] = 'Informace';
+$lang['AdminMain.index.text_warning'] = 'Varování';
+$lang['AdminMain.index.text_error'] = 'Chyba';
+$lang['AdminMain.index.text_success'] = 'Úspěch';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Systém';
+$lang['AdminMain.index.category_database'] = 'Databáze';
+$lang['AdminMain.index.category_security'] = 'Zabezpečení';
 

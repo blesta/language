@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'W tej sekcji nie ma statycznych adresów URL.
 $lang['AdminMain.urls.latest_file'] = 'Najnowszy plik z <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Usuń';
 $lang['AdminMain.urls.edit'] = 'Edytuj';
-$lang['AdminMain.urls.heading_options'] = 'Opcje';
+$lang['AdminMain.urls.heading_options'] = 'Działania';
 $lang['AdminMain.urls.heading_link'] = 'Link';
 $lang['AdminMain.urls.heading_file'] = 'Plik';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Menedżer pobierania > Zarządzaj';
 $lang['AdminMain.files.no_downloads'] = 'W tej sekcji nie ma plików do pobrania.';
 $lang['AdminMain.files.delete'] = 'Usuń';
 $lang['AdminMain.files.edit'] = 'Edytuj';
-$lang['AdminMain.files.go_back'] = 'Przejdź na wyższy poziom';
-$lang['AdminMain.files.add_category'] = 'Dodaj kategorię tutaj';
+$lang['AdminMain.files.go_back'] = 'Powrót';
+$lang['AdminMain.files.add_category'] = 'Dodaj kategorię';
 $lang['AdminMain.files.add_download'] = 'Dodaj pobieranie tutaj';
 $lang['AdminMain.files.tab_urls'] = 'Statyczne adresy URL';
 $lang['AdminMain.files.tab_files'] = 'Pliki';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Plik został pomyślnie dodany.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategoria została pomyślnie usunięta.';
 $lang['AdminMain.!success.category_updated'] = 'Kategoria została pomyślnie zaktualizowana.';
 $lang['AdminMain.!success.category_added'] = 'Kategoria została pomyślnie utworzona.';
-$lang['AdminMain.edit.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Pliki';
+$lang['AdminMain.sidebar.urls'] = 'Statyczne adresy URL';
+$lang['AdminMain.!performance.xsendfile'] = 'Mod_http2 Apache\'a jest włączony, ale mod_xsendfile nie. Zalecamy włączenie lub zainstalowanie mod_xsendfile dla lepszej wydajności i szybszego pobierania.';
+$lang['AdminMain.modal.confirm_delete'] = 'Potwierdź Usuń';
+$lang['AdminMain.modal.delete'] = 'Usuń';
+$lang['AdminMain.modal.cancel'] = 'Anuluj';
+$lang['AdminMain.modal.save'] = 'Zapisz';
+$lang['AdminMain.add.public'] = 'Publicznie dostępne';
+$lang['AdminMain.add.logged_in'] = 'Musi być zalogowany';
+$lang['AdminMain.add.text_fileinfo'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Źródło pliku';
+$lang['AdminMain.add.upload'] = 'Prześlij plik';
+$lang['AdminMain.add.path'] = 'Określ ścieżkę do pliku';
 

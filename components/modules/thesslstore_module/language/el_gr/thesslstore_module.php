@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Παρακαλ�
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Παρακαλώ εισάγετε το όνομα μεταπωλητή';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Τα διαπιστευτήρια υπάρχουν ήδη';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Κάτι πήγε στραβά στην κλήση API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Δεν επιστράφηκαν προϊόντα από το API. Ελέγξτε τα διαπιστευτήρια API και προσπαθήστε ξανά.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% Περιθώριο θα εφαρμόζεται στην τιμή όλων των προϊόντων. Μπορείτε να το αλλάξετε αργότερα από το μενού ρύθμισης τιμών.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Αλλαγή Email Εγκριτή';
 

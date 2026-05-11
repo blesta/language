@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = '모듈이 성공적으�
 $lang['AdminCompanyModules.!success.uninstalled'] = '모듈이 성공적으로 제거되었습니다.';
 $lang['AdminCompanyModules.!success.installed'] = '모듈이 성공적으로 설치되었습니다.';
 $lang['AdminCompanyModules.!success.upgraded'] = '모듈이 성공적으로 업그레이드되었습니다.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = '필터 모듈...';
+$lang['AdminCompanyModules.text_filter_no_results'] = '일치하는 모듈을 찾을 수 없습니다.';
 

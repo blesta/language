@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['Proxmox.!error.proxmox_root_password.matches'] = 'Las contraseñas raíz 
 $lang['Proxmox.!error.module_row.missing'] = 'Se ha producido un error interno. La fila del módulo no está disponible.';
 $lang['Proxmox.please_select'] = '-- Seleccione --';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
-$lang['Proxmox.!uptime.value'] = '%3$s días, %2$s horas, %1$s minutos';
+$lang['Proxmox.!uptime.value'] = '%1$s días, %2$s horas, %3$s minutos';
 $lang['Proxmox.!percent.used'] = '%1$s%';
 $lang['Proxmox.name'] = 'Proxmox';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment es un entorno de virtualización de servidores de código abierto. Es una distribución Linux basada en Debian con un núcleo Ubuntu LTS modificado y permite desplegar y gestionar máquinas virtuales y contenedores.';
@@ -72,7 +72,7 @@ $lang['Proxmox.manage.module_rows_no_results'] = 'No hay servidores.';
 $lang['Proxmox.manage.module_groups_no_results'] = 'No hay grupos de servidores.';
 $lang['Proxmox.order_options.first'] = 'Primer servidor no completo';
 $lang['Proxmox.row_meta.server_name'] = 'Etiqueta del servidor';
-$lang['Proxmox.row_meta.user'] = 'Usuario';
+$lang['Proxmox.row_meta.user'] = 'Usuario (con @pam o @pve después del nombre de usuario)';
 $lang['Proxmox.row_meta.password'] = 'Contraseña';
 $lang['Proxmox.row_meta.host'] = 'Nombre de host';
 $lang['Proxmox.row_meta.port'] = 'Número de puerto SSL';
@@ -169,4 +169,17 @@ $lang['Proxmox.tab_client_console.vnc_ip'] = 'Anfitrión VNC';
 $lang['Proxmox.tab_client_console.vnc_port'] = 'Puerto VNC';
 $lang['Proxmox.tab_client_console.vnc_user'] = 'Nombre de usuario VNC';
 $lang['Proxmox.tab_client_console.vnc_password'] = 'Contraseña VNC';
+$lang['Proxmox.back_to_manage'] = 'Volver';
+$lang['Proxmox.manage.tab_rows'] = 'Servidores';
+$lang['Proxmox.manage.tab_groups'] = 'Grupos de servidores';
+$lang['Proxmox.tab_isomanager'] = 'Gestor ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Vuelva a instalar';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Vuelva a instalar';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Contraseña raíz';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Plantilla';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Vuelva a instalar';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Gestor ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Imagen';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Monte';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Desmontar ISO';
 

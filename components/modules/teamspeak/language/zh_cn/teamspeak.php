@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = '服务器';
 $lang['Teamspeak.module_row'] = '服务器';
 $lang['Teamspeak.description'] = 'TeamSpeak 是一款互联网协议语音应用程序，用于用户在聊天频道上进行音频交流。';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = '返回';
+$lang['Teamspeak.manage.tab_rows'] = '服务器';
+$lang['Teamspeak.manage.tab_groups'] = '服务器组';
 

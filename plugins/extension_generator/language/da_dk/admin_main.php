@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminMain.index.heading_type'] = 'Type';
 $lang['AdminMain.index.heading_form_type'] = 'Formular Type';
 $lang['AdminMain.index.heading_code_examples'] = 'Eksempler på kode';
 $lang['AdminMain.index.heading_date_updated'] = 'Opdateret dato';
-$lang['AdminMain.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.index.heading_options'] = 'Handlinger';
 $lang['AdminMain.index.option_edit'] = 'Rediger';
 $lang['AdminMain.index.option_delete'] = 'Slet';
 $lang['AdminMain.index.text_confirm_delete'] = 'Er du sikker på, at du vil slette denne udvidelse?';

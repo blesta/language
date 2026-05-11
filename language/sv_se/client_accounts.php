@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['ClientAccounts.index.type_cc'] = '%1$s - %2$s';
 $lang['ClientAccounts.index.option_delete'] = 'Radera';
 $lang['ClientAccounts.index.option_verify'] = 'Verifiera';
 $lang['ClientAccounts.index.option_edit'] = 'Redigera';
-$lang['ClientAccounts.index.heading_options'] = 'Alternativ';
+$lang['ClientAccounts.index.heading_options'] = 'Åtgärder';
 $lang['ClientAccounts.index.heading_last4'] = 'De sista 4';
 $lang['ClientAccounts.index.heading_type'] = 'Typ';
 $lang['ClientAccounts.index.heading_name'] = 'Namn';

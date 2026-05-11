@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Файлът с к
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'Изисква се разширението \'%1$s\'. Вашата версия: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'Изисква се разширението \'%1$s\'.';
 $lang['SystemRequirements.!error.php.minimum'] = 'Необходима е версия на PHP %1$s или по-висока. Вашата версия: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'Изисква се MySQL версия 5.7.7 или MariaDB версия 10.2.2 или по-нова. Вашата версия: %1$s.';
 

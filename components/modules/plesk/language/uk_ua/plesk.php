@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -148,4 +148,7 @@ $lang['Plesk.tab_client_login.field_plesk_password'] = 'Пароль';
 $lang['Plesk.tab_client_login.field_plesk_username'] = 'Ім\'я користувача';
 $lang['Plesk.tab_client_login.logintoplesk'] = 'Увійдіть до Plesk';
 $lang['Plesk.tab_client_login'] = 'Увійдіть до Plesk';
+$lang['Plesk.back_to_manage'] = 'Назад';
+$lang['Plesk.manage.tab_rows'] = 'Сервери';
+$lang['Plesk.manage.tab_groups'] = 'Групи серверів';
 

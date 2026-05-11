@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP 地址';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP 地址似乎无效。';
 $lang['DirectAdmin.row_meta.http_version'] = 'HTTP 版本';
+$lang['DirectAdmin.back_to_manage'] = '返回';
+$lang['DirectAdmin.manage.tab_rows'] = '服务器';
+$lang['DirectAdmin.manage.tab_groups'] = '服务器组';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -117,7 +117,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Facturering';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Bladeren door klanten';
 $lang['Navigation.getprimary.nav_clients'] = 'Klanten';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Dashboard';
-$lang['Navigation.getprimary.nav_home'] = 'Home';
+$lang['Navigation.getprimary.nav_home'] = 'Dashboard';
 $lang['Navigation.!error.parent_id.valid'] = 'Ongeldig ouder navigatie-item-ID';
 $lang['Navigation.!error.order.valid'] = 'De bestelindex moet een numerieke waarde zijn';
 $lang['Navigation.!error.action_id.valid'] = 'Ongeldige actie-ID';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service wachtrij';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Serviceveranderingen';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronische facturen';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredietbehandeling';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

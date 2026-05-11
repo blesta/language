@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Ispmanager.!error.ispmanager_username.length'] = 'Brugernavnet skal være
 $lang['Ispmanager.!error.ispmanager_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Ispmanager.!error.ispmanager_password.matches'] = 'Password og Confirm Password stemmer ikke overens.';
 $lang['Ispmanager.!error.api'] = 'Der opstod en intern fejl, eller serveren svarede ikke på anmodningen.';
+$lang['Ispmanager.back_to_manage'] = 'Tilbage';
+$lang['Ispmanager.manage.tab_rows'] = 'Servere';
+$lang['Ispmanager.manage.tab_groups'] = 'Servergrupper';
 

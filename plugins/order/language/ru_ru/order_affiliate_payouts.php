@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Пожалуйста, вы
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Неверный идентификатор метода оплаты.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Неверный идентификатор партнера.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Неверный идентификатор выплаты.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Запрашиваемая выплата';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s запросил выплату в размере %2$s';
 

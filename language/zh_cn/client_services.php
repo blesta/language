@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,7 +129,7 @@ $lang['ClientServices.index.no_results'] = '您没有 %1$s 服务。';
 $lang['ClientServices.index.text_never'] = '从不';
 $lang['ClientServices.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientServices.index.option_manage'] = '管理';
-$lang['ClientServices.index.heading_options'] = '选项';
+$lang['ClientServices.index.heading_options'] = '行动';
 $lang['ClientServices.index.heading_datecanceled'] = '取消日期';
 $lang['ClientServices.index.heading_datesuspended'] = '暂停日期';
 $lang['ClientServices.index.heading_daterenews'] = '续订日期';

@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Добавить правило';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Создать правило';
 $lang['AdminTools.blacklistadd.field_note'] = 'Примечание';
 $lang['AdminTools.blacklistadd.field_type'] = 'Тип';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Правило';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Удалить';
 $lang['AdminTools.blacklist.text_system'] = 'Система';
 $lang['AdminTools.blacklist.text_type_email'] = 'Адрес электронной почты';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP-адрес';
-$lang['AdminTools.blacklist.heading_options'] = 'Опции';
+$lang['AdminTools.blacklist.heading_options'] = 'Действия';
 $lang['AdminTools.blacklist.heading_note'] = 'Примечание';
 $lang['AdminTools.blacklist.heading_list'] = 'Список';
 $lang['AdminTools.blacklist.heading_type'] = 'Тип';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Изменить максим�
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Просмотреть счет-фактуру';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Вы уверены, что хотите удалить эту услугу из очереди на обновление?';
-$lang['AdminTools.renewals.heading_options'] = 'Опции';
+$lang['AdminTools.renewals.heading_options'] = 'Действия';
 $lang['AdminTools.renewals.heading_invoice'] = 'Счет-фактура';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Максимальное количество попыток';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Неудачные попытки';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Пожал�
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Обновите набор символов и свертку вашей базы данных, таблиц и столбцов до utf8mb4, чтобы поддерживать 4-байтовые символы, такие как emojis.  Это может занять несколько минут.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Обновление до utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Обновление свертки базы данных';
-$lang['AdminTools.utilities.heading_options'] = 'Опции';
+$lang['AdminTools.utilities.heading_options'] = 'Действия';
 $lang['AdminTools.utilities.heading_description'] = 'Описание';
 $lang['AdminTools.utilities.heading_utility'] = 'Коммунальное хозяйство';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Утилиты';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'В настоящее вре�
 $lang['AdminTools.renewals.no_results_provision'] = 'В настоящее время в очереди на предоставление нет ни одной услуги.';
 $lang['AdminTools.!notice.conditions_met'] = 'Предметы появляются в назначенной очереди только тогда, когда все условия выполнены и они готовы к попытке выполнения.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Изменение услуги было успешно отменено.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Блокировать исходящие';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Блокировать исходящие сообщения электронной почты на этот адрес';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Блокировать исходящие';
 $lang['AdminTools.renewals.no_results_changes'] = 'В настоящее время в очереди на предоставление изменений в услугах нет.';
 $lang['AdminTools.renewals.option_retry'] = 'Повторная попытка';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Статус';
 $lang['AdminTools.renewals.category_changes'] = 'Изменения в обслуживании';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Неоплаченное продление';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Служба изменений была успешно запланирована.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Проверил файлы %1$s: %2$s OK, %3$s изменен, %4$s отсутствует.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Файл манифеста (manifest.json) не найден. Этот файл включается в официальные релизы и необходим для проверки целостности.';
+$lang['AdminTools.integritycheck.text_error'] = 'При проверке файлов произошла ошибка.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Все файлы соответствуют манифесту. Изменений или отсутствующих файлов не обнаружено.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Всего файлов';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Поставщик';
+$lang['AdminTools.integritycheck.category_core'] = 'Ядро';
+$lang['AdminTools.integritycheck.status_missing'] = 'Пропажа';
+$lang['AdminTools.integritycheck.status_modified'] = 'Модифицированный';
+$lang['AdminTools.integritycheck.heading_category'] = 'Категория';
+$lang['AdminTools.integritycheck.heading_file'] = 'Файл';
+$lang['AdminTools.integritycheck.heading_status'] = 'Статус';
+$lang['AdminTools.integritycheck.text_checking'] = 'Проверка файлов, пожалуйста, подождите. Это может занять некоторое время...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Беги снова';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Скачать отчет';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Запуск проверки целостности';
+$lang['AdminTools.integritycheck.text_description'] = 'Проверьте установленные файлы по манифесту, поставляемому с этим выпуском. Эта проверка проверяет целостность файлов путем сравнения хэшей SHA256 и помогает выявить файлы, которые были изменены, что полезно для устранения неполадок и перед выполнением обновлений.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Проверка целостности системы';
+$lang['AdminTools.integritycheck.page_title'] = 'Проверка целостности системы';
+$lang['AdminTools.!success.cache_cleared'] = 'Файловый кэш был успешно очищен.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Проверка выполнения';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Проверьте файлы ядра по манифесту поставки, чтобы выявить измененные или отсутствующие файлы.';
+$lang['AdminTools.utilities.integrity_check'] = 'Проверка целостности системы';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Очистите кэшированные файлы, включая кэши навигации, представлений и плагинов. Это может привести к некоторому замедлению загрузки страниц, пока кэш не будет восстановлен.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Очистить кэш';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Очистить файловый кэш';
+$lang['AdminTools.getlognames.text_system'] = 'Система';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Версия манифеста: %1$s (сгенерирована %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'В настоящее время нет услуг, ожидающих обновления после оплаты.';
+$lang['AdminTools.logsystem.page_title'] = 'Журналы инструментов';
+$lang['AdminTools.logsystem.text_date'] = 'Дата';
+$lang['AdminTools.logsystem.text_level'] = 'Уровень';
+$lang['AdminTools.logsystem.text_message'] = 'Сообщение';
+$lang['AdminTools.logsystem.no_results'] = 'Записи в системном журнале отсутствуют.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Каталог журналов не настроен или не доступен для чтения. Настройте его в разделе Настройки &gt; Система &gt; Общие.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Аварийная ситуация';
+$lang['AdminTools.logsystem.level_alert'] = 'Оповещение';
+$lang['AdminTools.logsystem.level_critical'] = 'Критический';
+$lang['AdminTools.logsystem.level_error'] = 'Ошибка';
+$lang['AdminTools.logsystem.level_warning'] = 'Внимание';
+$lang['AdminTools.logsystem.level_notice'] = 'Уведомление';
+$lang['AdminTools.logsystem.level_info'] = 'Информация';
+$lang['AdminTools.logsystem.level_debug'] = 'Отладка';
 

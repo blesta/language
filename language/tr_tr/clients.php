@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.value.required'] = '%1$s geçersiz bir biçimdedir.';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s için maksimum kredi miktarı minimum miktardan büyük olmalıdır.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s için maksimum kredi miktarı 0\'dan büyük olmalıdır.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s için minimum kredi tutarı 0\'dan büyük olmalıdır.';
+$lang['Clients.!error.action[].exists'] = 'Geçersiz bildirim eylemi.';
+$lang['Clients.!error.action.exists'] = 'Geçersiz bildirim eylemi "%1$s".';
 

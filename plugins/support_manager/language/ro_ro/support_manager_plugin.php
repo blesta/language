@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Setări';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Trimiteți automat memento-uri clienților pentru a lăsa feedback-ul lor pentru tichetele care au fost închise după o anumită perioadă de timp.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Trimiteți mementouri de feedback';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Procesarea tichetelor cu AI';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analizează tichetele cu ajutorul inteligenței artificiale pentru a genera sugestii de răspuns și a executa automat utilizările instrumentului (închiderea spam-ului, alocarea de personal, schimbarea priorității).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Setări AI';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Nota: Acest răspuns a fost generat de AI și trebuie revizuit pentru acuratețe.*';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.index.email_to'] = 'Till';
 $lang['AdminMain.index.type.export'] = 'Export';
 $lang['AdminMain.index.type.email'] = 'E-post';
 $lang['AdminMain.index.option_export'] = 'Export';
-$lang['AdminMain.index.heading_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_complete'] = 'Färdigställd';
 $lang['AdminMain.index.heading_status'] = 'Status';
 $lang['AdminMain.index.heading_type'] = 'Typ';

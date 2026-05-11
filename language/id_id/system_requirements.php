@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Berkas konfigurasi
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'Diperlukan ekstensi \'%1$s\'. Versi Anda: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'Diperlukan ekstensi \'%1$s\'.';
 $lang['SystemRequirements.!error.php.minimum'] = 'Diperlukan versi PHP %1$s atau lebih tinggi. Versi Anda: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL versi 5.7.7 atau MariaDB versi 10.2.2 atau yang lebih tinggi diperlukan. Versi Anda: %1$s.';
 

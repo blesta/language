@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = '下一步 - 确认';
 $lang['AdminModule.features.text_remove'] = '移除';
-$lang['AdminModule.features.text_options'] = '选项';
+$lang['AdminModule.features.text_options'] = '行动';
 $lang['AdminModule.features.cron_task_row_add'] = '添加 Cron 任务';
 $lang['AdminModule.features.service_tab_row_add'] = '添加服务管理选项卡';
 $lang['AdminModule.features.placeholder_time'] = '例如：14:25 或 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = '是否允许用�
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP 代码';
 $lang['AdminModule.fields.features'] = '下一步 - 附加功能';
 $lang['AdminModule.fields.text_remove'] = '移除';
-$lang['AdminModule.fields.text_options'] = '选项';
+$lang['AdminModule.fields.text_options'] = '行动';
 $lang['AdminModule.fields.service_row_add'] = '添加服务字段';
 $lang['AdminModule.fields.package_row_add'] = '添加包装字段';
 $lang['AdminModule.fields.module_row_add'] = '添加模块行字段';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = '顶级域名';
 $lang['AdminModule.basic.static_tlds'] = '静态定义 TLD';
 $lang['AdminModule.basic.text_remove'] = '移除';
 $lang['AdminModule.basic.author_row_add'] = '添加作者';
-$lang['AdminModule.basic.text_options'] = '选项';
+$lang['AdminModule.basic.text_options'] = '行动';
 $lang['AdminModule.basic.author_url'] = '作者网址';
 $lang['AdminModule.basic.author_name'] = '作者姓名';
 $lang['AdminModule.basic.module_type_registrar'] = '登记员';

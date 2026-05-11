@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,7 +36,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = '智能搜索';
 $lang['AdminCompanyGeneral.marketing.field_submit'] = '更新设置';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = '向客户提供选择加入/退出电子邮件营销的选项';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = '市场营销';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = '编辑联系人类型';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = '更新联系人类型';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = '使用语言定义';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = '名称';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = '编辑联系人类型';
@@ -54,7 +54,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = '删除';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = '编辑';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = '没有';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = '是';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = '选项';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = '行动';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = '用途 语言定义';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = '名称';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = '联系类型';

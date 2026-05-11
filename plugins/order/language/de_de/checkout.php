@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Die Zahlung konnte für das ausgew
 $lang['Checkout.!error.not_client_owner'] = 'Sie müssen als Client-Eigentümer angemeldet sein, um fortfahren zu können.';
 $lang['Checkout.!error.no_payment_info'] = 'Sie müssen eine Zahlungsmethode auswählen, um fortzufahren.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Sie müssen Ihr Einverständnis mit den Bedingungen und Konditionen bestätigen.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Sie müssen der wiederkehrenden Rechnungsstellung zustimmen, um fortzufahren.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Ich ermächtige %1$s, meine Zahlungsmethode zu speichern und %2$s ab heute zu belasten, bis ich kündige. Ich kann jederzeit online über mein Konto kündigen.';
+$lang['Checkout.index.recurring_every'] = 'jede %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'jede %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'und';
 

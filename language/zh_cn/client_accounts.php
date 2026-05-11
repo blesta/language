@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['ClientAccounts.index.type_cc'] = '%1$s - %2$s';
 $lang['ClientAccounts.index.option_delete'] = '删除';
 $lang['ClientAccounts.index.option_verify'] = '验证';
 $lang['ClientAccounts.index.option_edit'] = '编辑';
-$lang['ClientAccounts.index.heading_options'] = '选项';
+$lang['ClientAccounts.index.heading_options'] = '行动';
 $lang['ClientAccounts.index.heading_last4'] = '最后 4';
 $lang['ClientAccounts.index.heading_type'] = '类型';
 $lang['ClientAccounts.index.heading_name'] = '名称';

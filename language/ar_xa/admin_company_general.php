@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = 'البحث ال
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'تحديث الإعدادات';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'تزويد العملاء بخيار الاشتراك/عدم الاشتراك في التسويق عبر البريد الإلكتروني';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'التسويق';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'تحرير نوع جهة الاتصال';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'تحديث نوع جهة الاتصال';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'تعريف لغة الاستخدام';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'الاسم';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'تحرير نوع جهة الاتصال';
@@ -52,7 +52,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = 'حذف';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'تحرير';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'لا يوجد';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'نعم';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'الخيارات';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'الإجراءات';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'تعريف لغة الاستخدامات';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'الاسم';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'أنواع الاتصال';

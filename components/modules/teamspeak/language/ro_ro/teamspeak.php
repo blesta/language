@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Servere';
 $lang['Teamspeak.module_row'] = 'Server';
 $lang['Teamspeak.description'] = 'TeamSpeak este o aplicație de protocol de voce pe Internet pentru comunicarea audio între utilizatori pe un canal de chat.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Înapoi';
+$lang['Teamspeak.manage.tab_rows'] = 'Servere';
+$lang['Teamspeak.manage.tab_groups'] = 'Grupuri de servere';
 

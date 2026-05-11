@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -117,7 +117,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Fakturace';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Procházet klienty';
 $lang['Navigation.getprimary.nav_clients'] = 'Klienti';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Přístrojová deska';
-$lang['Navigation.getprimary.nav_home'] = 'Home';
+$lang['Navigation.getprimary.nav_home'] = 'Přístrojová deska';
 $lang['Navigation.!error.parent_id.valid'] = 'Nesprávné ID nadřazené navigační položky';
 $lang['Navigation.!error.order.valid'] = 'Index objednávky musí být číselná hodnota';
 $lang['Navigation.!error.action_id.valid'] = 'Nesprávné ID akce';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Fronta služeb';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Změny služeb';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronické faktury';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Zpracování úvěrů';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

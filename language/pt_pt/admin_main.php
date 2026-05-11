@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Arraste os widgets da direita para a esquerda para os adicionar ao seu painel ou da esquerda para a direita para os remover.';
 $lang['AdminMain.index.customize_dashboard'] = 'Personalizar o painel de controlo';
 $lang['AdminMain.index.manage_widgets'] = 'Gerir Widgets';
-$lang['AdminMain.index.no_quicklinks'] = 'Não foram definidas ligações rápidas.';
+$lang['AdminMain.index.no_quicklinks'] = 'Ainda não há ligações rápidas. Clique no ícone da estrela em qualquer página para a adicionar aqui.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Ligações rápidas';
 $lang['AdminMain.index.page_title'] = 'Painel de controlo';
 $lang['AdminMain.!success.event_deleted'] = 'O evento foi eliminado com sucesso!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'O evento foi atualizado com sucesso!
 $lang['AdminMain.!success.event_added'] = 'O evento foi adicionado com sucesso!';
 $lang['AdminMain.!error.event_editable'] = 'Apenas o criador do evento pode apagar esse evento.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Apenas o criador do evento pode apagar este evento.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gerir widgets do Dashboard';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Fechar';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Remover ligação rápida';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Tem a certeza de que pretende remover "%1$s" das ligações rápidas?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Remover';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Cancelar';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Clique nos widgets para os mostrar ou ocultar do seu painel de controlo.';
+$lang['AdminMain.calendar.category_list'] = 'Lista';
+$lang['AdminMain.calendar.category_today'] = 'Hoje';
 

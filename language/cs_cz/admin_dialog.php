@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = 'Toto heslo jsem si 
 $lang['AdminDialog.password.field_modal_password'] = 'Heslo';
 $lang['AdminDialog.confirm.text_no'] = 'Ne';
 $lang['AdminDialog.confirm.text_yes'] = 'Ano';
+$lang['AdminDialog.password.title'] = 'Generování hesla';
+$lang['AdminDialog.password.text_click_generate'] = 'Kliknutím na tlačítko Generovat vytvořte bezpečné heslo.';
 

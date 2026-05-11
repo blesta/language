@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'Λογαριασμοί';
 $lang['Enom.module_row'] = 'Λογαριασμός';
 $lang['Enom.description'] = 'Η Enom, Inc. είναι καταχωρητής ονομάτων τομέα και εταιρεία φιλοξενίας ιστοσελίδων που πωλεί επίσης άλλα προϊόντα στενά συνδεδεμένα με τα ονόματα τομέα, όπως πιστοποιητικά SSL, υπηρεσίες ηλεκτρονικού ταχυδρομείου και λογισμικό δημιουργίας ιστοσελίδων.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Πίσω';
 

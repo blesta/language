@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Server';
 $lang['Enhance.module_row'] = 'Server';
 $lang['Enhance.description'] = 'Enhance adalah panel kontrol hosting berbagi pakai generasi terbaru.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Kembali';
+$lang['Enhance.manage.tab_rows'] = 'Server';
+$lang['Enhance.manage.tab_groups'] = 'Grup Server';
+$lang['Enhance.package_fields.package_tooltip'] = 'Masukkan ID Paket dari panel kontrol Enhance Anda. Paket tidak dapat dimuat secara otomatis.';
 

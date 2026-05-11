@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['Orders.index.heading_invoice_number'] = 'Facture #';
 $lang['Orders.index.heading_total'] = 'Total';
 $lang['Orders.index.heading_paid'] = 'Payé';
 $lang['Orders.index.heading_date_ordered'] = 'Date de la commande';
-$lang['Orders.index.heading_options'] = 'Options';
+$lang['Orders.index.heading_options'] = 'Actions';
 $lang['Orders.index.option_view'] = 'Voir';
 $lang['Orders.index.option_cancel'] = 'Annuler';
 $lang['Orders.index.no_results'] = 'Vous n\'avez pas de commande.';
@@ -34,7 +34,7 @@ $lang['Orders.view.heading_label'] = 'Étiquette';
 $lang['Orders.view.heading_term'] = 'Durée';
 $lang['Orders.view.heading_date_created'] = 'Date de création';
 $lang['Orders.view.heading_date_renews'] = 'Date Renouvellement';
-$lang['Orders.view.heading_options'] = 'Options';
+$lang['Orders.view.heading_options'] = 'Actions';
 $lang['Orders.view.heading_type'] = 'Type';
 $lang['Orders.view.heading_applied'] = 'Appliqué';
 $lang['Orders.view.heading_status'] = 'Statut';

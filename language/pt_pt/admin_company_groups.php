@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gateways permitidas';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gateways permitidas';
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Editar grupo';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Grupo de Atualização';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Aplicar endereços de correio eletrónico como nomes de utilizador';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Utilizar definições da empresa (desmarcar para especificar abaixo)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Métodos de entrega de facturas';

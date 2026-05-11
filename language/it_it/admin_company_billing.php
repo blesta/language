@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -97,16 +97,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(usato %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Pacchetti disponibili';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Pacchetti assegnati';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Tutti';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Modifica del coupon';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Aggiornamento del coupon';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Filtro gruppo di pacchetti';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Pacchetti';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Limitazioni del pacchetto';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Rimuovere';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/D';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Termini';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Periodo';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Abilitato';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Questo coupon può essere applicato solo ai servizi ordinati per uno dei termini/periodi selezionati. Se non ne è abilitato nessuno, il termine del servizio verrà ignorato quando si valutano le limitazioni del coupon.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Termini';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Limiti di durata';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Valore';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Tipo';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Valuta';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Le limitazio
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Quantità';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Data di fine';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Data di inizio';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Limitazioni';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Limitazioni e restrizioni';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Generare codice';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Codice coupon';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Solo per uso interno';
@@ -132,7 +132,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Pacchetti asseg
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Tutti';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Crea Coupon';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Filtro gruppo di pacchetti';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Pacchetti';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Limitazioni del pacchetto';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Rimuovere';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/D';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Termini';
@@ -150,7 +150,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Le limitazion
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Quantità';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Data di fine';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Data di inizio';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Limitazioni';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Limitazioni e restrizioni';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Generare codice';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Codice coupon';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Solo per uso interno';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Requisiti';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Opzione';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Gruppo di opzioni';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Questo coupon può essere applicato solo se le opzioni configurabili selezionate corrispondono. Lasciare vuoto per ignorare le limitazioni delle opzioni configurabili.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Opzioni configurabili';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Limitazioni delle opzioni configurabili';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Aggiungi';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Riavviare le fatture per la consegna dopo la loro chiusura';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Il cliente riceverà una notifica giornaliera quando il saldo del credito scende al di sotto di questo importo. Lasciare vuoto per disattivare le notifiche per questa valuta.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'L\'importo massimo per 
 $lang['AdminCompanyBilling.!error.max_amount'] = 'L\'importo massimo per %1$s deve essere superiore a 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'L\'importo minimo per %1$s deve essere superiore a 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Le impostazioni di gestione del credito sono state aggiornate con successo!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Inserire il nome dell\'indirizzo di ritorno.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Inserire un indirizzo di ritorno aziendale.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Inserire un indirizzo di ritorno.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Inserire la città dell\'indirizzo di ritorno.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Selezionare un indirizzo di ritorno stato/provincia.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Inserire un indirizzo di ritorno con codice postale.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Si prega di selezionare un paese per l\'indirizzo di ritorno.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'I tag disponibili includono: {num} - il numero di quotazione (obbligatorio); {year} - l\'anno a quattro cifre; {month} - il mese a due cifre; {day} - il giorno del mese a due cifre.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'I numeri di quota inizieranno (e aumenteranno) da questo valore iniziale.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'I numeri di preventivo successivi aumenteranno di questo valore.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Limitazioni d\'uso';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Limitazioni d\'uso';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Busta di risposta';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Indirizzo di ritorno';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Nome';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Azienda';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Indirizzo 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Indirizzo 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Città';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Stato/Provincia';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Codice postale';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Paese';
 

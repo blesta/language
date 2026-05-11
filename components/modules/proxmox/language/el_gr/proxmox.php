@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Επόμενο VMID (μην το αλλάξε�
 $lang['Proxmox.row_meta.port'] = 'Αριθμός θύρας SSL';
 $lang['Proxmox.row_meta.host'] = 'Όνομα κεντρικού υπολογιστή';
 $lang['Proxmox.row_meta.password'] = 'Κωδικός πρόσβασης';
-$lang['Proxmox.row_meta.user'] = 'Χρήστης';
+$lang['Proxmox.row_meta.user'] = 'Χρήστης (με @pam ή @pve μετά το όνομα χρήστη)';
 $lang['Proxmox.row_meta.server_name'] = 'Ετικέτα διακομιστή';
 $lang['Proxmox.order_options.first'] = 'Πρώτος μη πλήρης διακομιστής';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Δεν υπάρχουν ομάδες διακομιστών.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Κύριος διακομιστής Proxmox';
 $lang['Proxmox.description'] = 'Το Proxmox Virtual Environment είναι ένα περιβάλλον εικονικοποίησης διακομιστών ανοικτού κώδικα. Πρόκειται για μια διανομή Linux με βάση το Debian με τροποποιημένο πυρήνα Ubuntu LTS και επιτρέπει την ανάπτυξη και διαχείριση εικονικών μηχανών και εμπορευματοκιβωτίων.';
 $lang['Proxmox.name'] = 'Proxmox';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s ημέρες, %2$s ώρες, %1$s λεπτά';
+$lang['Proxmox.!uptime.value'] = '%1$s ημέρες, %2$s ώρες, %3$s λεπτά';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Παρακαλώ επιλέξτε --';
 $lang['Proxmox.!error.module_row.missing'] = 'Εμφανίστηκε ένα εσωτερικό σφάλμα. Η σειρά της μονάδας δεν είναι διαθέσιμη.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Αποσύνδεση ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Όρος ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Τερματισμός λειτουργίας';
 $lang['Proxmox.!actions.boot'] = 'Μπότα';
+$lang['Proxmox.back_to_manage'] = 'Πίσω';
+$lang['Proxmox.manage.tab_rows'] = 'Servers';
+$lang['Proxmox.manage.tab_groups'] = 'Ομάδες διακομιστών';
+$lang['Proxmox.tab_isomanager'] = 'Διαχειριστής ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Επανεγκαταστήστε το';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Επανεγκαταστήστε το';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Κωδικός πρόσβασης ρίζας';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Πρότυπο';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Επανεγκαταστήστε το';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Διαχειριστής ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Εικόνα';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Όρος';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Αποσύνδεση ISO';
 

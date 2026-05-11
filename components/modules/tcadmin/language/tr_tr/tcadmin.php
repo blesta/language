@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Sunucular';
 $lang['Tcadmin.module_row'] = 'Sunucu';
 $lang['Tcadmin.description'] = 'TCAdmin oyun barındırma kontrol paneli, günümüzün Oyun Hizmet Sağlayıcısının zamandan ve paradan tasarruf etmesine yardımcı olurken, son kullanıcıların sunucuları üzerinde tam kontrol sahibi olmalarını sağlamak için sıfırdan tasarlanmıştır.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Geri';
+$lang['Tcadmin.manage.tab_rows'] = 'Sunucular';
+$lang['Tcadmin.manage.tab_groups'] = 'Sunucu Grupları';
 

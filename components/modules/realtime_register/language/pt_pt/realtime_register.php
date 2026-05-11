@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -340,4 +340,5 @@ $lang['RealtimeRegister.domain.FRRegistrantJoNumber'] = 'O Jornal Número oficia
 $lang['RealtimeRegister.domain.FRRegistrantJoPage'] = 'O Jornal Número de página do anúncio oficial';
 $lang['RealtimeRegister.tab_client_settings.field_status'] = 'Estado do domínio';
 $lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Não tem permissão para gerir este domínio.';
+$lang['RealtimeRegister.back_to_manage'] = 'Voltar';
 

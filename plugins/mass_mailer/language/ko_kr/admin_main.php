@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.index.email_to'] = 'To';
 $lang['AdminMain.index.type.export'] = '내보내기';
 $lang['AdminMain.index.type.email'] = '이메일';
 $lang['AdminMain.index.option_export'] = '내보내기';
-$lang['AdminMain.index.heading_options'] = '옵션';
+$lang['AdminMain.index.heading_options'] = '작업';
 $lang['AdminMain.index.heading_complete'] = '완료';
 $lang['AdminMain.index.heading_status'] = '상태';
 $lang['AdminMain.index.heading_type'] = '유형';

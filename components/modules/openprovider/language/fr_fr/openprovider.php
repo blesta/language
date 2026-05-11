@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.!error.domain.not_exist'] = 'Ce domaine n\'existe pas dans O
 $lang['OpenProvider.!error.domain.contact_support'] = 'Veuillez contacter le service d\'assistance pour plus de détails sur le domaine.';
 $lang['OpenProvider.!error.domain.name_undefined'] = 'Nom de domaine non défini.';
 $lang['OpenProvider.!error.service.domain.status_not_active_in_blesta'] = 'Cette section n\'est pas accessible tant que le service n\'est pas dans un état actif.';
+$lang['Openprovider.back_to_manage'] = 'Retour';
 

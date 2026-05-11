@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = '계정';
 $lang['Internetbs.module_row'] = '계정';
 $lang['Internetbs.description'] = 'Internet.bs는 ccTLD 및 gTLD에 대한 도메인 네임 등록 및 이전을 제공합니다.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = '뒤로';
+$lang['Internetbs.manage.tab_rows'] = '서버';
+$lang['Internetbs.manage.tab_groups'] = '서버 그룹';
 

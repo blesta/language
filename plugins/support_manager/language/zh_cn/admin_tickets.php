@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = '垃圾';
 $lang['AdminTickets.index.category_closed'] = '关闭';
 $lang['AdminTickets.index.category_on_hold'] = '搁置';
 $lang['AdminTickets.index.category_in_progress'] = '进行中';
-$lang['AdminTickets.index.category_awaiting_reply'] = '等待客户回复';
-$lang['AdminTickets.index.category_open'] = '等待工作人员答复';
+$lang['AdminTickets.index.category_awaiting_reply'] = '等待客户';
+$lang['AdminTickets.index.category_open'] = '等待工作人员';
 $lang['AdminTickets.text.unassigned'] = '未分配';
 $lang['AdminTickets.search.page_title'] = '%1$s" 的搜索结果';
 $lang['AdminTickets.reply.page_title'] = '支持经理 > 故障单 #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = '所选客户没有其他联系人�
 $lang['AdminTickets.!tooltip.recipients'] = '更新票据时将收到通知的电子邮件地址。';
 $lang['AdminTickets.!tooltip.contacts'] = '票单更新时要通知的联系人。未被选中的联系人如果回复了票单，将自动添加到票单中。';
 $lang['AdminTickets.reply.text_domain'] = '域名';
-$lang['AdminTickets.reply.heading_rating'] = '评级';
+$lang['AdminTickets.reply.heading_rating'] = '客户评价';
 $lang['AdminTickets.reply.heading_rating_comment'] = '评级评论';
 $lang['AdminTickets.index.heading_rating'] = '评级';
+$lang['AdminTickets.index.text_fullscreen'] = '切换全屏';
+$lang['AdminTickets.index.text_exit_fullscreen'] = '退出全屏';
+$lang['AdminTickets.index.placeholder_ticket_number'] = '输入票号';
+$lang['AdminTickets.index.placeholder_summary'] = '搜索摘要';
+$lang['AdminTickets.index.heading_filters'] = '过滤器';
+$lang['AdminTickets.index.field_apply_filters'] = '应用过滤器';
+$lang['AdminTickets.index.field_clear_filters'] = '清除过滤器';
+$lang['AdminTickets.add.heading_contacts_recipients'] = '联系人和收件人';
+$lang['AdminTickets.add.search_responses'] = '搜索回复...';
+$lang['AdminTickets.add.no_results'] = '未找到匹配的答复';
+$lang['AdminTickets.add.searching'] = '搜索...';
+$lang['AdminTickets.add.search_min_chars'] = '输入至少 2 个字符进行搜索';
+$lang['AdminTickets.add.heading_ticket_details'] = '门票详情';
+$lang['AdminTickets.add.login_as_client'] = '以客户身份登录';
+$lang['AdminTickets.add.markdown_supported'] = '支持 Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = '点击此处上传文件或点击此处选择文件';
+$lang['AdminTickets.add.browse_files'] = '浏览文件';
+$lang['AdminTickets.custom_fields.badge_custom'] = '定制';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = '联系人和收件人';
+$lang['AdminTickets.reply.text_date_rated'] = '额定值%1$s';
+$lang['AdminTickets.reply.note_date'] = '%1$s %2$s %3$s 上添加了一个说明';
+$lang['AdminTickets.reply.heading_ticket_details'] = '门票详情';
+$lang['AdminTickets.reply.login_as_client'] = '以客户身份登录';
+$lang['AdminTickets.reply.search_responses'] = '搜索回复...';
+$lang['AdminTickets.reply.no_results'] = '未找到匹配的答复';
+$lang['AdminTickets.reply.searching'] = '搜索...';
+$lang['AdminTickets.reply.search_min_chars'] = '输入至少 2 个字符进行搜索';
+$lang['AdminTickets.reply.markdown_supported'] = '支持 Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = '只有工作人员才能看到内部笔记';
+$lang['AdminTickets.reply.dropzone_drop_files'] = '点击此处上传文件或点击此处选择文件';
+$lang['AdminTickets.reply.browse_files'] = '浏览文件';
+$lang['AdminTickets.reply.btn_cancel'] = '取消';
+$lang['AdminTickets.reply.client_title'] = '客户';
+$lang['AdminTickets.reply.note_label'] = '工作人员说明';
+$lang['AdminTickets.reply.button_generate_ai_response'] = '生成人工智能响应';
+$lang['AdminTickets.reply.button_ai_response_ready'] = '人工智能响应就绪';
+$lang['AdminTickets.reply.button_regenerate'] = '再生';
+$lang['AdminTickets.reply.button_regenerate_ai'] = '再生人工智能响应';
+$lang['AdminTickets.reply.text_generating'] = '生成...';
+$lang['AdminTickets.reply.text_regenerating'] = '再生...';
+$lang['AdminTickets.reply.text_just_now'] = '现在';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm 前';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh 前';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd 前';
+$lang['AdminTickets.reply.modal_title'] = '人工智能生成的响应';
+$lang['AdminTickets.reply.label_confidence'] = '信心';
+$lang['AdminTickets.reply.label_generated'] = '生成';
+$lang['AdminTickets.reply.label_model'] = '模型';
+$lang['AdminTickets.reply.alert_review_required'] = '需要审查';
+$lang['AdminTickets.reply.alert_review_text'] = '本回复由人工智能自动生成。发送前请仔细审阅，以确保准确性和语气恰当。';
+$lang['AdminTickets.reply.label_internal_notes'] = '内部说明';
+$lang['AdminTickets.reply.label_suggested_response'] = '建议的答复';
+$lang['AdminTickets.reply.label_concerns'] = '关注问题';
+$lang['AdminTickets.reply.text_no_response_suggested'] = '未建议答复。理由见内部说明。';
+$lang['AdminTickets.reply.button_cancel'] = '取消';
+$lang['AdminTickets.reply.button_use_response'] = '使用此回复';
+$lang['AdminTickets.reply.button_reject'] = '拒绝';
+$lang['AdminTickets.reply.button_summarize'] = '总结';
+$lang['AdminTickets.reply.text_ai_summary'] = '人工智能概要';
+$lang['AdminTickets.!error.ticket_invalid'] = '无效票据 ID';
+$lang['AdminTickets.!error.ai_not_enabled'] = '支持管理器未启用人工智能功能';
+$lang['AdminTickets.!error.ai_generation_failed'] = '未能生成人工智能响应';
+$lang['AdminTickets.!error.analysis_invalid'] = '分析 ID 无效';
+$lang['AdminTickets.!error.reply_not_found'] = '找不到指定的回复。';
+$lang['AdminTickets.!error.summary_failed'] = '生成摘要失败。';
 

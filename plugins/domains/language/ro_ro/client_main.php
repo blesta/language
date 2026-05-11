@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'Nu aveți %1$s Domenii.';
 $lang['ClientMain.index.text_never'] = 'Niciodată';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Gestionați';
-$lang['ClientMain.index.heading_options'] = 'Opțiuni';
+$lang['ClientMain.index.heading_options'] = 'Acțiuni';
 $lang['ClientMain.index.heading_deletion_date'] = 'Data ștergerii';
 $lang['ClientMain.index.heading_suspension_date'] = 'Data suspendării';
 $lang['ClientMain.index.heading_expiration_date'] = 'Data expirării';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.tooltip.server_description'] = 'Beskriv
 $lang['PterodactylService.service_fields.server_id'] = 'Server-ID (valgfrit)';
 $lang['PterodactylService.service_fields.tooltip.server_id'] = 'Serverens ID i Pterodactyl-panelet. Dette bør kun bruges, når du linker denne service til en allerede eksisterende server.';
 $lang['PterodactylService.service_fields.optional'] = '%1$s (Valgfrit)';
+$lang['Pterodactyl.back_to_manage'] = 'Tilbage';
 

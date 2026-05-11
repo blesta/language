@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = '추가
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = '기본 텍스트 값';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = '기본값 확인';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = '가치';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '사용자 지정 필드 편집';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '사용자 지정 필드 업데이트';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = '값 암호화';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = '사용자 지정 정규식';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = '필수';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = '이 �
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = '기본 텍스트 값';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = '기본값 확인';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = '가치';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = '사용자 지정 필드 추가';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = '사용자 지정 필드 만들기';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = '값 암호화';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = '사용자 지정 정규식';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = '필수';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = '이름';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = '필드 만들기';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = '클라이언트 사용자 지정 필드 찾아보기';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = '설정 > 회사 > 클라이언트 옵션 > 클라이언트 사용자 지정 필드 > 찾아보기';
-$lang['AdminCompanyClientOptions.general.text_submit'] = '제출하기';
+$lang['AdminCompanyClientOptions.general.text_submit'] = '설정 업데이트';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = '확인되지 않은 고객의 결제 방지';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = '클라이언트 ID 증가 값';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = '클라이언트 ID 시작 값';

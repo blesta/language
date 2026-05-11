@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = 'لا توجد تمديدات �
 $lang['AdminMain.index.text_confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف هذا الامتداد؟';
 $lang['AdminMain.index.option_delete'] = 'حذف';
 $lang['AdminMain.index.option_edit'] = 'تحرير';
-$lang['AdminMain.index.heading_options'] = 'الخيارات';
+$lang['AdminMain.index.heading_options'] = 'الإجراءات';
 $lang['AdminMain.index.heading_date_updated'] = 'تاريخ التحديث';
 $lang['AdminMain.index.heading_code_examples'] = 'أمثلة على الرموز';
 $lang['AdminMain.index.heading_form_type'] = 'نوع النموذج';

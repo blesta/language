@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.tab_client_nameservers.field_submit'] = 'Atualizar servidores 
 $lang['Internetbs.tab_client_nameservers'] = 'Servidores de nomes';
 $lang['Internetbs.tab_nameservers.field_submit'] = 'Atualizar servidores de nomes';
 $lang['Internetbs.tab_nameservers'] = 'Servidores de nomes';
+$lang['Internetbs.back_to_manage'] = 'Voltar';
+$lang['Internetbs.manage.tab_rows'] = 'Servidores';
+$lang['Internetbs.manage.tab_groups'] = 'Grupos de servidores';
 

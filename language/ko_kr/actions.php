@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = '작업 이름을 입력하세요.';
 $lang['Actions.!error.url.empty'] = 'URL을 입력하세요.';
 $lang['Actions.!error.location.unique'] = '위치 및 URL은 이 회사에 고유한 것이어야 합니다.';
 $lang['Actions.!error.location.valid'] = '유효한 위치가 잘못되었습니다.';
+$lang['Actions.!error.icon.length'] = '아이콘 클래스는 255자를 초과할 수 없습니다.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.features'] = 'التالي - الميزات الإضافية';
 $lang['AdminPlugin.features.confirm'] = 'التالي - التأكيد';
 $lang['AdminPlugin.features.text_remove'] = 'إزالة';
-$lang['AdminPlugin.features.text_options'] = 'الخيارات';
+$lang['AdminPlugin.features.text_options'] = 'الإجراءات';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'إضافة مهمة Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'إضافة علامة تبويب إدارة الخدمة';
 $lang['AdminPlugin.features.placeholder_time'] = 'على سبيل المثال 14:25 أو 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'الإجراء الخاص ب
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'وحدة التحكم الخاصة بـ URI التي سيتم سحب المحتوى الخاص بالإجراء منها (مثل admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'الموقع في الواجهة لعرض الإجراء';
 $lang['AdminPlugin.integrations.text_remove'] = 'إزالة';
-$lang['AdminPlugin.integrations.text_options'] = 'الخيارات';
+$lang['AdminPlugin.integrations.text_options'] = 'الإجراءات';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'بطاقات العميل عبارة عن مربعات صغيرة تظهر في الملف الشخصي للعميل (في منطقة العميل أو منطقة الإدارة) وتُستخدم بشكل أساسي لعرض إحصائيات مختلفة (مثل عدد الخدمات أو التذاكر أو الطلبات). وهي تتكون من قيمة وتسمية وخلفية ورابط.  يتم عرض التسمية أسفل القيمة التي يتم سحبها من دالة رد الاتصال.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'هذا هو نظام الخطاف في Blesta.  تُسجَّل الأحداث إما عن طريق النواة أو عن طريق مكون إضافي، ثم تستمع المكونات الإضافية لهذه الأحداث وتحدد طرق المعالج للحدث.  نظرًا لأن أي ملحقات يمكنها تسجيل الأحداث، يمكن أن يكون هناك أي عدد منها، ولكن يمكن العثور على قائمة الأحداث الأساسية التي حددتها blesta هنا https://docs.blesta.com/display/dev/Event+معالجات.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = 'تمثل "الإجراءات" صفحات الإضافة التي يمكن الوصول إليها من خلال الواجهة الأساسية. يتضمن ذلك روابط التنقل في منطقة الإدارة ومناطق العميل، والأدوات في منطقة الإدارة، والروابط في الشريط الجانبي لملف تعريف العميل. سيتم استخدام وحدات التحكم والإجراءات التي تم إدخالها هنا لإنشاء ملفات وحدة تحكم بسيطة. بالإضافة إلى ذلك، سيتم إنشاء ملفات عرض نموذجية لكل إجراء.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'إضافة إجراء';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'عمليات التكامل الأساسية';
 $lang['AdminPlugin.database.integrations'] = 'التالي - عمليات التكامل الأساسية';
 $lang['AdminPlugin.database.text_remove'] = 'إزالة';
-$lang['AdminPlugin.database.text_options'] = 'الخيارات';
+$lang['AdminPlugin.database.text_options'] = 'الإجراءات';
 $lang['AdminPlugin.database.text_more_info'] = 'تُستخدم هذه الصفحة لإنشاء مخطط لجداول قاعدة البيانات التي تم إنشاؤها وإدارتها بواسطة هذه الإضافة. سيتم إنشاء كود لإضافة وإزالة هذه الجداول عند التثبيت وإلغاء التثبيت. بالإضافة إلى ذلك، سيتم إنشاء ملفات نموذجية لهذه الجداول مع بعض الوظائف الأساسية.';
 $lang['AdminPlugin.database.placeholder_length'] = 'على سبيل المثال 64 أو "أ"، "ب"، "ج';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'على سبيل المثال اسم_العمود';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'الشعار المعروض في قا
 $lang['AdminPlugin.basic.tooltip_description'] = 'الوصف الموضح في قائمة المكونات الإضافية';
 $lang['AdminPlugin.basic.text_remove'] = 'إزالة';
 $lang['AdminPlugin.basic.author_row_add'] = 'إضافة مؤلف';
-$lang['AdminPlugin.basic.text_options'] = 'الخيارات';
+$lang['AdminPlugin.basic.text_options'] = 'الإجراءات';
 $lang['AdminPlugin.basic.author_url'] = 'عنوان URL للمؤلف';
 $lang['AdminPlugin.basic.author_name'] = 'اسم المؤلف';
 $lang['AdminPlugin.basic.logo'] = 'الشعار';

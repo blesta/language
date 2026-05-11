@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = '설정';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = '일정 기간이 지난 후 종료된 티켓에 대해 피드백을 남기도록 고객에게 자동으로 알림을 보냅니다.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = '피드백 알림 보내기';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'AI로 티켓 처리하기';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'AI로 티켓을 분석하여 응답 제안을 생성하고 도구 사용(스팸 닫기, 담당자 배정, 우선순위 변경)을 자동으로 실행합니다.';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'AI 설정';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*주: 이 답변은 AI에 의해 생성되었으며 정확성을 검토해야 합니다*.';
 

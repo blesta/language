@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.edit.field_type'] = 'Зворотній дзвінок';
 $lang['AdminMain.edit.field_event'] = 'Подія';
 $lang['AdminMain.edit.field_callback'] = 'Зворотній дзвінок';
 $lang['AdminMain.edit.option_delete'] = 'Видалити';
-$lang['AdminMain.edit.heading_options'] = 'Параметри';
+$lang['AdminMain.edit.heading_options'] = 'Дії';
 $lang['AdminMain.edit.heading_parameter'] = 'Нове поле';
 $lang['AdminMain.edit.heading_field'] = 'Оригінальне поле';
 $lang['AdminMain.edit.heading_fields_map'] = 'Карта полів';
@@ -32,7 +32,7 @@ $lang['AdminMain.add.field_type'] = 'Зворотній дзвінок';
 $lang['AdminMain.add.field_event'] = 'Подія';
 $lang['AdminMain.add.field_callback'] = 'Зворотній дзвінок';
 $lang['AdminMain.add.option_delete'] = 'Видалити';
-$lang['AdminMain.add.heading_options'] = 'Параметри';
+$lang['AdminMain.add.heading_options'] = 'Дії';
 $lang['AdminMain.add.heading_parameter'] = 'Нове поле';
 $lang['AdminMain.add.heading_field'] = 'Оригінальне поле';
 $lang['AdminMain.add.heading_fields_map'] = 'Карта полів';
@@ -43,7 +43,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Отримує HTTP-зап
 $lang['AdminMain.index.text_description_outgoing'] = 'Надсилає HTTP-запит на URL-адресу, коли спрацьовує подія. Запит може бути відправлений за допомогою GET, POST, PUT або JSON.';
 $lang['AdminMain.index.option_delete'] = 'Видалити';
 $lang['AdminMain.index.option_edit'] = 'Редагувати';
-$lang['AdminMain.index.heading_options'] = 'Параметри';
+$lang['AdminMain.index.heading_options'] = 'Дії';
 $lang['AdminMain.index.heading_method'] = 'Метод';
 $lang['AdminMain.index.heading_event'] = 'Подія';
 $lang['AdminMain.index.heading_callback'] = 'Зворотній дзвінок';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Статус HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Подія';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Усі веб-хуки';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Веб-гачок';
-$lang['AdminMain.logs.heading_options'] = 'Параметри';
+$lang['AdminMain.logs.heading_options'] = 'Дії';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Остання спроба';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Дата спрацювання';
 $lang['AdminMain.logs.heading_http_response'] = 'Відповідь HTTP';

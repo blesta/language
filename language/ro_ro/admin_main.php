@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Trageți widgeturile din dreapta spre stânga pentru a le adăuga la tabloul de bord sau din stânga spre dreapta pentru a le elimina.';
 $lang['AdminMain.index.customize_dashboard'] = 'Personalizați tabloul de bord';
 $lang['AdminMain.index.manage_widgets'] = 'Gestionați widget-uri';
-$lang['AdminMain.index.no_quicklinks'] = 'Nu a fost setată nicio legătură rapidă.';
+$lang['AdminMain.index.no_quicklinks'] = 'Încă nu există legături rapide. Faceți clic pe pictograma stea de pe orice pagină pentru a o adăuga aici.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Link-uri rapide';
 $lang['AdminMain.index.page_title'] = 'Tabloul de bord';
 $lang['AdminMain.!success.event_deleted'] = 'Evenimentul a fost șters cu succes!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Evenimentul a fost actualizat cu suc
 $lang['AdminMain.!success.event_added'] = 'Evenimentul a fost adăugat cu succes!';
 $lang['AdminMain.!error.event_editable'] = 'Numai creatorul evenimentului poate șterge evenimentul respectiv.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Numai creatorul evenimentului poate șterge acest eveniment.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gestionați widget-urile tabloului de bord';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Închidere';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Eliminarea legăturii rapide';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Sunteți sigur că doriți să eliminați "%1$s" din Quick Links?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Eliminați';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Anulează';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Faceți clic pe widgeturi pentru a le afișa sau ascunde din tabloul de bord.';
+$lang['AdminMain.calendar.category_list'] = 'Listă';
+$lang['AdminMain.calendar.category_today'] = 'Astăzi';
 

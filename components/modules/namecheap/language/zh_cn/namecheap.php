@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.description'] = 'Namecheap, Inc. 是 ICANN 认可的域名注�
 $lang['Namecheap.name'] = 'Namecheap';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = '从 Namecheap 自动更新 TLD 列表和定价。';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'TLD 数据同步';
+$lang['Namecheap.back_to_manage'] = '返回';
 

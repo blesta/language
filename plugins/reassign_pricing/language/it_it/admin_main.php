@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Riassegnare i prezzi';
 $lang['AdminMain.index.no_results'] = 'Non sono disponibili servizi da cui riassegnare i prezzi.';
 $lang['AdminMain.index.text_never'] = 'Mai';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Opzioni';
+$lang['AdminMain.index.heading_options'] = 'Azioni';
 $lang['AdminMain.index.heading_date_renews'] = 'Data Rinnovo';
 $lang['AdminMain.index.heading_date_created'] = 'Data di creazione';
 $lang['AdminMain.index.heading_term'] = 'Termine';

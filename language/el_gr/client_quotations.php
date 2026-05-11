@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'Έγκριση';
 $lang['ClientQuotations.index.no_results'] = 'Δεν έχετε %1$s Παραθέσεις.';
 $lang['ClientQuotations.index.option_approve'] = 'Έγκριση';
 $lang['ClientQuotations.index.option_view'] = 'Προβολή';
-$lang['ClientQuotations.index.heading_options'] = 'Επιλογές';
+$lang['ClientQuotations.index.heading_options'] = 'Δράσεις';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Ημερομηνία Λήξης';
 $lang['ClientQuotations.index.heading_date_created'] = 'Ημερομηνία δημιουργίας';
 $lang['ClientQuotations.index.heading_total'] = 'Ποσό';

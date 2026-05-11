@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = '최소 %1$s 자 이상의 비밀번
 $lang['Users.!error.current_password.matches'] = '비밀번호가 잘못되었습니다.';
 $lang['Users.!error.username.unique'] = '해당 사용자 아이디는 이미 도용되었습니다.';
 $lang['Users.!error.username.empty'] = '사용자 아이디를 입력하세요.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = '패턴과 일치해야 합니다: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = '에는 다음이 포함되어야 합니다. %1$s';
+$lang['Users.!error.password_requirement.length_min'] = '%1$s 문자 이상';
+$lang['Users.!error.password_requirement.length_exact'] = '정확히 %1$s 문자';
+$lang['Users.!error.password_requirement.length_between'] = '%1$s 와 %2$s 문자 사이';
+$lang['Users.!error.password_requirement.special_char'] = '특수 문자';
+$lang['Users.!error.password_requirement.digit'] = '숫자';
+$lang['Users.!error.password_requirement.uppercase'] = '대문자';
+$lang['Users.!error.password_requirement.lowercase'] = '소문자';
+$lang['Users.!error.new_password.format_custom'] = '비밀번호가 요구 사항을 충족하지 않습니다: %2$s';
+$lang['Users.!error.new_password.format_num'] = '비밀번호는 %1$s 자 이상이어야 하며 숫자만 포함해야 합니다.';
+$lang['Users.!error.new_password.format_alpha'] = '비밀번호는 %1$s 자 이상이어야 하며 문자로만 구성되어야 합니다.';
+$lang['Users.!error.new_password.format_alpha_num'] = '비밀번호는 %1$s 자 이상이어야 하며 문자와 숫자만 포함해야 합니다.';
+$lang['Users.!error.new_password.format_any_no_space'] = '비밀번호는 %1$s 자 이상이어야 하며 공백을 포함할 수 없습니다.';
+$lang['Users.!error.new_password.format_any'] = '비밀번호는 %1$s 자 이상이어야 합니다.';
 

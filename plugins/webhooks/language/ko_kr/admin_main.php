@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.edit.field_type'] = '콜백';
 $lang['AdminMain.edit.field_event'] = '이벤트';
 $lang['AdminMain.edit.field_callback'] = '콜백';
 $lang['AdminMain.edit.option_delete'] = '삭제';
-$lang['AdminMain.edit.heading_options'] = '옵션';
+$lang['AdminMain.edit.heading_options'] = '작업';
 $lang['AdminMain.edit.heading_parameter'] = '새 필드';
 $lang['AdminMain.edit.heading_field'] = '원본 필드';
 $lang['AdminMain.edit.heading_fields_map'] = '필드 맵';
@@ -32,7 +32,7 @@ $lang['AdminMain.add.field_type'] = '콜백';
 $lang['AdminMain.add.field_event'] = '이벤트';
 $lang['AdminMain.add.field_callback'] = '콜백';
 $lang['AdminMain.add.option_delete'] = '삭제';
-$lang['AdminMain.add.heading_options'] = '옵션';
+$lang['AdminMain.add.heading_options'] = '작업';
 $lang['AdminMain.add.heading_parameter'] = '새 필드';
 $lang['AdminMain.add.heading_field'] = '원본 필드';
 $lang['AdminMain.add.heading_fields_map'] = '필드 맵';
@@ -43,7 +43,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'HTTP 요청을 수신하�
 $lang['AdminMain.index.text_description_outgoing'] = '이벤트가 트리거되면 URL로 HTTP 요청을 보냅니다. 요청은 GET, POST, PUT 또는 JSON을 사용하여 전송할 수 있습니다.';
 $lang['AdminMain.index.option_delete'] = '삭제';
 $lang['AdminMain.index.option_edit'] = '편집';
-$lang['AdminMain.index.heading_options'] = '옵션';
+$lang['AdminMain.index.heading_options'] = '작업';
 $lang['AdminMain.index.heading_method'] = '방법';
 $lang['AdminMain.index.heading_event'] = '이벤트';
 $lang['AdminMain.index.heading_callback'] = '콜백';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'HTTP 상태';
 $lang['AdminMain.logs.field_filterevent'] = '이벤트';
 $lang['AdminMain.logs.field_filterwebhook_all'] = '모든 웹훅';
 $lang['AdminMain.logs.field_filterwebhook'] = '웹훅';
-$lang['AdminMain.logs.heading_options'] = '옵션';
+$lang['AdminMain.logs.heading_options'] = '작업';
 $lang['AdminMain.logs.heading_date_last_retry'] = '마지막 재시도';
 $lang['AdminMain.logs.heading_date_triggered'] = '트리거된 날짜';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP 응답';

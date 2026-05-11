@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminNonmerchant.features.confirm'] = 'Další - Potvrzení';
 $lang['AdminNonmerchant.features.heading_optional_functions'] = 'Volitelné funkce';
 $lang['AdminNonmerchant.fields.features'] = 'Další - Další funkce';
 $lang['AdminNonmerchant.fields.text_remove'] = 'Odstranění adresy';
-$lang['AdminNonmerchant.fields.text_options'] = 'Možnosti';
+$lang['AdminNonmerchant.fields.text_options'] = 'Akce';
 $lang['AdminNonmerchant.fields.field_row_add'] = 'Přidání konfiguračního pole';
 $lang['AdminNonmerchant.fields.placeholder_label'] = 'např. konfigurační pole';
 $lang['AdminNonmerchant.fields.placeholder_name'] = 'např. configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminNonmerchant.basic.tooltip_logo'] = 'Logo zobrazené ve výpisu zásu
 $lang['AdminNonmerchant.basic.tooltip_description'] = 'Popis uvedený ve výpisu zásuvných modulů';
 $lang['AdminNonmerchant.basic.text_remove'] = 'Odstranění stránky';
 $lang['AdminNonmerchant.basic.author_row_add'] = 'Přidat autora';
-$lang['AdminNonmerchant.basic.text_options'] = 'Možnosti';
+$lang['AdminNonmerchant.basic.text_options'] = 'Akce';
 $lang['AdminNonmerchant.basic.author_url'] = 'Adresa URL autora';
 $lang['AdminNonmerchant.basic.author_name'] = 'Jméno autora';
 $lang['AdminNonmerchant.basic.currencies'] = 'Měny';

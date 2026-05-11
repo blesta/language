@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Löschen';
 $lang['AdminDepartments.edit.heading_default'] = 'Standard';
 $lang['AdminDepartments.edit.heading_value'] = 'Wert';
 $lang['AdminDepartments.edit.heading_name'] = 'Name';
-$lang['AdminDepartments.edit.heading_options'] = 'Optionen';
+$lang['AdminDepartments.edit.heading_options'] = 'Aktionen';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Auto-Löschen';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Verschlüsselt';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Kunde kann hinzufügen';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Löschen';
 $lang['AdminDepartments.add.heading_default'] = 'Standard';
 $lang['AdminDepartments.add.heading_value'] = 'Wert';
 $lang['AdminDepartments.add.heading_name'] = 'Name';
-$lang['AdminDepartments.add.heading_options'] = 'Optionen';
+$lang['AdminDepartments.add.heading_options'] = 'Aktionen';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Auto-Löschen';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Verschlüsselt';
 $lang['AdminDepartments.add.heading_client_add'] = 'Kunde kann hinzufügen';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Es gibt keine Abteilungen.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Abteilungen, denen Tickets zugewiesen sind, können erst gelöscht werden, wenn alle Tickets einer anderen Abteilung zugewiesen wurden. Sind Sie sicher, dass Sie diese Abteilung löschen möchten?';
 $lang['AdminDepartments.index.option_delete'] = 'Löschen';
 $lang['AdminDepartments.index.option_edit'] = 'bearbeiten';
-$lang['AdminDepartments.index.heading_options'] = 'Optionen';
+$lang['AdminDepartments.index.heading_options'] = 'Aktionen';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Standardpriorität';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Zugewiesenes Personal';
 $lang['AdminDepartments.index.heading_email'] = 'E-Mail';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client-/Anwend
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 Benutzer';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 Anbieter';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Bei allen Tickets mit dem Status "geschlossen" wird dem Kunden eine Erinnerung an die Abgabe seines Feedbacks gesendet, wenn das Ticket für die gewählte Zeitspanne geschlossen wurde.';
+$lang['AdminDepartments.!text.description_hint'] = 'Diese Beschreibung wird den Kunden bei der Auswahl einer Abteilung angezeigt';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Halten Sie die Strg-Taste (Windows) bzw. Cmd-Taste (Mac) gedrückt, um mehrere Prioritäten auszuwählen.';
+$lang['AdminDepartments.!text.search_responses'] = 'Antworten suchen...';
+$lang['AdminDepartments.!text.searching'] = 'Ich suche...';
+$lang['AdminDepartments.add.heading_actions'] = 'Aktionen';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Sind Sie sicher, dass Sie dieses benutzerdefinierte Feld entfernen möchten?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Aktionen';
 

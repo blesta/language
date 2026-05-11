@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminMain.index.heading_type'] = 'Type';
 $lang['AdminMain.index.heading_form_type'] = 'Type de formulaire';
 $lang['AdminMain.index.heading_code_examples'] = 'Exemples de codes';
 $lang['AdminMain.index.heading_date_updated'] = 'Date de mise à jour';
-$lang['AdminMain.index.heading_options'] = 'Options';
+$lang['AdminMain.index.heading_options'] = 'Actions';
 $lang['AdminMain.index.option_edit'] = 'Editer';
 $lang['AdminMain.index.option_delete'] = 'Supprimer';
 $lang['AdminMain.index.text_confirm_delete'] = 'Êtes-vous sûr de vouloir supprimer cette extension ?';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,7 +129,7 @@ $lang['ClientServices.index.no_results'] = 'Je hebt geen %1$s Services.';
 $lang['ClientServices.index.text_never'] = 'Nooit';
 $lang['ClientServices.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientServices.index.option_manage'] = 'Beheer';
-$lang['ClientServices.index.heading_options'] = 'Opties';
+$lang['ClientServices.index.heading_options'] = 'Acties';
 $lang['ClientServices.index.heading_datecanceled'] = 'Datum Geannuleerd';
 $lang['ClientServices.index.heading_datesuspended'] = 'Datum geschorst';
 $lang['ClientServices.index.heading_daterenews'] = 'Datum Verlenging';

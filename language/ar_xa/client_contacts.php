@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'ليس لديك جهات اتصال.
 $lang['ClientContacts.index.confirm_delete'] = 'هل تريد بالتأكيد حذف جهة الاتصال هذه؟';
 $lang['ClientContacts.index.option_delete'] = 'حذف';
 $lang['ClientContacts.index.option_edit'] = 'تحرير';
-$lang['ClientContacts.index.heading_options'] = 'الخيارات';
+$lang['ClientContacts.index.heading_options'] = 'الإجراءات';
 $lang['ClientContacts.index.heading_type'] = 'النوع';
 $lang['ClientContacts.index.heading_email'] = 'البريد الإلكتروني';
 $lang['ClientContacts.index.heading_name'] = 'الاسم';

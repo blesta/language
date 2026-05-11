@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'Бележки';
 $lang['AdminSystemApi.edit.field_user'] = 'Потребител';
 $lang['AdminSystemApi.edit.field_company'] = 'Компания';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Редактиране на потребител на API';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Добавяне на потребител';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Създаване на потребител';
 $lang['AdminSystemApi.add.field_notes'] = 'Бележки';
 $lang['AdminSystemApi.add.field_user'] = 'Потребител';
 $lang['AdminSystemApi.add.field_company'] = 'Компания';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'Наистина ли изтри
 $lang['AdminSystemApi.index.no_results'] = 'Няма потребители на API.';
 $lang['AdminSystemApi.index.option_delete'] = 'Изтриване на';
 $lang['AdminSystemApi.index.option_edit'] = 'Редактиране на';
-$lang['AdminSystemApi.index.heading_options'] = 'Опции';
+$lang['AdminSystemApi.index.heading_options'] = 'Действия';
 $lang['AdminSystemApi.index.heading_date'] = 'Дата на създаване';
 $lang['AdminSystemApi.index.heading_company'] = 'Компания';
 $lang['AdminSystemApi.index.heading_key'] = 'Ключ';

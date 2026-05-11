@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.!error.meta[maxclients].valid'] = 'Los Clientes máximos deben 
 $lang['Teamspeak.!error.api.internal'] = 'Se ha producido un error interno o el servidor no ha respondido a la solicitud.';
 $lang['Teamspeak.!error.module_row.missing'] = 'Se ha producido un error interno. La fila del módulo no está disponible.';
 $lang['Teamspeak.!error.teamspeak_name.empty'] = 'El Nombre del servidor aparece vacío.';
+$lang['Teamspeak.back_to_manage'] = 'Volver';
+$lang['Teamspeak.manage.tab_rows'] = 'Servidores';
+$lang['Teamspeak.manage.tab_groups'] = 'Grupos de servidores';
 

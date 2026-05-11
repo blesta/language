@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = 'Saya telah menyalin
 $lang['AdminDialog.password.field_modal_password'] = 'Kata sandi';
 $lang['AdminDialog.confirm.text_no'] = 'Tidak.';
 $lang['AdminDialog.confirm.text_yes'] = 'Ya.';
+$lang['AdminDialog.password.title'] = 'Hasilkan Kata Sandi';
+$lang['AdminDialog.password.text_click_generate'] = 'Klik Buat untuk membuat kata sandi yang aman.';
 

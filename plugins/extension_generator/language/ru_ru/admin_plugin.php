@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Далее - Подтверждение';
 $lang['AdminPlugin.features.text_remove'] = 'Удалить';
-$lang['AdminPlugin.features.text_options'] = 'Опции';
+$lang['AdminPlugin.features.text_options'] = 'Действия';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Добавить задачу Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Добавить вкладку "Управление услугами';
 $lang['AdminPlugin.features.placeholder_time'] = 'Например, 14:25 или 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Действие для URI,
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Контроллер для URI, из которого нужно взять содержимое для действия (например, admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Место в интерфейсе для отображения действия';
 $lang['AdminPlugin.integrations.text_remove'] = 'Удалить';
-$lang['AdminPlugin.integrations.text_options'] = 'Опции';
+$lang['AdminPlugin.integrations.text_options'] = 'Действия';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Карточки клиентов - это небольшие поля, отображаемые в профиле клиента (в клиентской или администраторской зоне) и служащие в основном для отображения различных статистических данных (например, количества услуг, билетов или заказов). Они состоят из значения, метки, фона и ссылки.  Метка отображается под значением, которое подтягивается из функции обратного вызова.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Это система крючков в Blesta.  События регистрируются либо ядром, либо плагином, затем плагины прослушивают эти события и определяют методы-обработчики для них.  Поскольку любые плагины могут регистрировать события, их может быть любое количество, однако список основных событий, определенных в Blesta, можно найти здесь https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Действия" - это страницы плагина, доступные через основной интерфейс. Сюда входят навигационные ссылки в админке и клиентской зоне, виджеты в админке и ссылки на боковой панели профиля клиента. Введенные здесь контроллеры и действия будут использованы для создания простых файлов контроллеров. Кроме того, для каждого действия будут созданы примеры файлов представлений.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Добавить дейст�
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Основные интеграции';
 $lang['AdminPlugin.database.integrations'] = 'Далее - Основные интеграции';
 $lang['AdminPlugin.database.text_remove'] = 'Удалить';
-$lang['AdminPlugin.database.text_options'] = 'Опции';
+$lang['AdminPlugin.database.text_options'] = 'Действия';
 $lang['AdminPlugin.database.text_more_info'] = 'Эта страница используется для создания схемы таблиц базы данных, создаваемых и управляемых этим плагином. Будет сгенерирован код для добавления и удаления этих таблиц при установке и удалении. Кроме того, для этих таблиц будут созданы файлы моделей с некоторыми базовыми функциями.';
 $lang['AdminPlugin.database.placeholder_length'] = 'Например, 64 или \'a\', \'b\', \'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'например, имя_столбца';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Логотип, отображаем�
 $lang['AdminPlugin.basic.tooltip_description'] = 'Описание, отображаемое в листинге плагинов';
 $lang['AdminPlugin.basic.text_remove'] = 'Удалить';
 $lang['AdminPlugin.basic.author_row_add'] = 'Добавить автора';
-$lang['AdminPlugin.basic.text_options'] = 'Опции';
+$lang['AdminPlugin.basic.text_options'] = 'Действия';
 $lang['AdminPlugin.basic.author_url'] = 'Автор URL';
 $lang['AdminPlugin.basic.author_name'] = 'Имя автора';
 $lang['AdminPlugin.basic.logo'] = 'Логотип';

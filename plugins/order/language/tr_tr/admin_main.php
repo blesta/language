@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Sipariş Bildirimleri';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Bu sırada herhangi bir hizmet bulunmamaktadır.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Asla';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Yönetmek';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Seçenekler';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Eylemler';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Tarih Yenilemeleri';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Tarih Eklendi';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Dönem';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Paket';
 $lang['AdminMain.orderinfo.services_heading'] = 'Hizmetler';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Bu siparişe uygulanan herhangi bir işlem yoktur.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Düzenle';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Seçenekler';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Eylemler';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Uygulandı';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Uygulamalı';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Miktar';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Siparişler';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Ortaklık ayarları güncellendi.';
 $lang['AdminMain.!success.settings_updated'] = 'Sipariş ayarlarınız başarıyla güncellendi.';
 $lang['AdminMain.!success.status_updated'] = 'Seçilen siparişler başarıyla güncellendi.';
+$lang['AdminMain.index.paid'] = 'Ücretli';
+$lang['AdminMain.index.unpaid'] = 'Ödenmemiş';
+$lang['AdminMain.index.loading'] = 'Yükleniyor...';
+$lang['AdminMain.index.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'İşlem Kimliği';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Durum';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Tarih';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Hizmet';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Durum';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Beklemede';
+$lang['AdminMain.settings.text_notifications'] = 'Yeni siparişler için nasıl bildirim almak istediğinizi yapılandırın.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Satış ortağı ödemeleri için nasıl bildirim almak istediğinizi yapılandırın.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = '%1$s 字段必须包含一个整数�
 $lang['PterodactylRule.!error.numeric'] = '%1$s 字段必须包含一个数字。';
 $lang['PterodactylRule.!error.regex'] = '%1$s 字段必须与 regex %2$s 匹配。';
 $lang['PterodactylRule.!error.required'] = '%1$s 字段为必填字段。';
+$lang['Pterodactyl.back_to_manage'] = '返回';
 

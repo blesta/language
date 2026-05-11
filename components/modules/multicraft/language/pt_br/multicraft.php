@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'Servidores';
 $lang['Multicraft.module_row.name'] = 'Servidor';
 $lang['Multicraft.name'] = 'Multicraft';
 $lang['Multicraft.!error.module_row.missing'] = 'Ocorreu um erro interno. A linha do módulo não está disponível.';
+$lang['Multicraft.back_to_manage'] = 'Voltar';
 

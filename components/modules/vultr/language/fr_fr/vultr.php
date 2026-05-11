@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.!error.module_row.missing'] = 'Une erreur interne s\'est produite. 
 $lang['Vultr.!error.vultr_hostname.format'] = 'Veuillez saisir un nom d\'hôte valide, par exemple domain.com.';
 $lang['Vultr.!error.vultr_location.valid'] = 'Veuillez sélectionner un lieu valide.';
 $lang['Vultr.!error.vultr_template.valid'] = 'Veuillez sélectionner un modèle valide.';
+$lang['Vultr.back_to_manage'] = 'Retour';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,4 +105,7 @@ $lang['Centoswebpanel.module_row_plural'] = 'Servers';
 $lang['Centoswebpanel.module_row'] = 'Server';
 $lang['Centoswebpanel.description'] = 'Gratis webhostingcontrolepaneel ontworpen voor snel en eenvoudig beheer van (Dedicated & VPS) servers';
 $lang['Centoswebpanel.name'] = 'CentOS WebPanel';
+$lang['Centoswebpanel.back_to_manage'] = 'Terug';
+$lang['Centoswebpanel.manage.tab_rows'] = 'Servers';
+$lang['Centoswebpanel.manage.tab_groups'] = 'Servergroepen';
 

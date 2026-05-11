@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'معرف مجموعة العم
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'يجب أن يكون الحد الأقصى لمبلغ الائتمان %1$s أكبر من الحد الأدنى للمبلغ.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'يجب أن يكون الحد الأقصى لمبلغ الرصيد %1$s أكبر من 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'يجب أن يكون الحد الأدنى لمبلغ الرصيد %1$s أكبر من 0.';
+$lang['Clients.!error.action[].exists'] = 'إجراء إعلام غير صالح.';
+$lang['Clients.!error.action.exists'] = 'إجراء إعلام غير صالح "%1$s".';
 

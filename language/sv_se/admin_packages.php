@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Föräldragrupper';
 $lang['AdminPackages.groups.confirm_delete'] = 'Är du säker på att du vill ta bort den här paketgruppen? Alla paket som tilldelats den här gruppen kommer inte längre att tilldelas den här gruppen och kan bli oanvändbara.';
 $lang['AdminPackages.groups.option_delete'] = 'Radera';
 $lang['AdminPackages.groups.option_edit'] = 'Redigera';
-$lang['AdminPackages.groups.heading_options'] = 'Alternativ';
+$lang['AdminPackages.groups.heading_options'] = 'Åtgärder';
 $lang['AdminPackages.groups.heading_type'] = 'Typ';
 $lang['AdminPackages.groups.heading_name'] = 'Namn';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Paketgrupper';
@@ -198,12 +198,12 @@ $lang['AdminPackages.index.no_results'] = 'Det finns inga paket med denna status
 $lang['AdminPackages.index.option_delete'] = 'Radera';
 $lang['AdminPackages.index.option_copy'] = 'Kopia';
 $lang['AdminPackages.index.option_edit'] = 'Redigera';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Skicka in';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Tillämpa';
 $lang['AdminPackages.index.action.delete'] = 'Ta bort paket';
 $lang['AdminPackages.index.category_inactive'] = 'Inaktiv';
 $lang['AdminPackages.index.category_restricted'] = 'Begränsad';
 $lang['AdminPackages.index.category_active'] = 'Aktiv';
-$lang['AdminPackages.index.heading_options'] = 'Alternativ';
+$lang['AdminPackages.index.heading_options'] = 'Åtgärder';
 $lang['AdminPackages.index.heading_qty'] = 'Antal';
 $lang['AdminPackages.index.heading_module'] = 'Modul';
 $lang['AdminPackages.index.heading_name'] = 'Namn';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_added'] = 'Paketet skapades framgångsrikt
 $lang['AdminPackages.edit.text_default'] = 'Standard';
 $lang['AdminPackages.add.text_default'] = 'Standard';
 $lang['AdminPackages.!tooltip.single_term'] = 'Om det här alternativet är markerat kommer nya tjänster som använder det här paketet inte att förnyas utan automatiskt sägas upp i slutet av den första perioden.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Genererad e-posttext:';
+$lang['AdminPackages.ai.email_preview_html'] = 'HTML för genererad e-post:';
+$lang['AdminPackages.ai.email_use_button'] = 'Använd denna e-post';
+$lang['AdminPackages.ai.email_generating'] = 'Generering av e-post...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Beskriv vad som ska stå i välkomstmeddelandet (t.ex. "Välkommen ny kund, förklara hur tjänsten fungerar")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Generera välkomstmejl';
+$lang['AdminPackages.ai.generate_email_button'] = 'Generera e-post med AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Information om sammanhanget:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Skapa en professionell beskrivning av produkten/servicepaketet.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Skapa ett professionellt välkomstmeddelande för det här produkt-/tjänstepaketet som välkomnar kunden och ger användbar information om den nya tjänsten.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Skriv om och förbättra detta innehåll samtidigt som du behåller samma allmänna information:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Läs igenom uppmaningen ovan, lägg till eventuella ytterligare instruktioner och klicka sedan på Generera för att skapa innehåll.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Laddar prompt...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Uppmaningskontext';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Ange eventuella specifika detaljer eller krav som AI ska inkludera i beskrivningen.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 't.ex. Inkludera information om 24/7 support, nämna 30-dagars pengarna-tillbaka-garanti...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Ytterligare instruktioner (valfritt)';
+$lang['AdminPackages.ai.error_prefix'] = 'Fel:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Misslyckades med att generera beskrivning';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Vänligen ange en uppmaning';
+$lang['AdminPackages.ai.apply_text'] = 'Textversion';
+$lang['AdminPackages.ai.apply_html'] = 'HTML-version';
+$lang['AdminPackages.ai.apply_content_label'] = 'Applicera innehåll på:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Paketbeskrivning AI-funktionen är inte aktiverad';
+$lang['AdminPackages.ai.error_disabled'] = 'AI-funktioner är inte aktiverade';
+$lang['AdminPackages.ai.regenerating'] = 'Regenererande...';
+$lang['AdminPackages.ai.generating'] = 'Genererar...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Avbryt';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenerera';
+$lang['AdminPackages.ai.btn_use'] = 'Använd denna beskrivning';
+$lang['AdminPackages.ai.btn_generate'] = 'Generera';
+$lang['AdminPackages.ai.preview_text'] = 'Genererad text:';
+$lang['AdminPackages.ai.preview_html'] = 'Genererad HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Teknisk';
+$lang['AdminPackages.ai.tone_casual'] = 'Avslappnad';
+$lang['AdminPackages.ai.tone_professional'] = 'Professionell';
+$lang['AdminPackages.ai.tone'] = 'Ton';
+$lang['AdminPackages.ai.generate_text'] = 'Generera text (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Generera HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Beskriv paketets funktioner, målgrupp etc...';
+$lang['AdminPackages.ai.use_content_button'] = 'Använd detta innehåll';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenerera';
+$lang['AdminPackages.ai.no_context'] = 'Inget sammanhang tillgängligt';
+$lang['AdminPackages.ai.context_type_email'] = 'Välkommen e-post';
+$lang['AdminPackages.ai.context_type_description'] = 'Paketbeskrivning';
+$lang['AdminPackages.ai.context_type'] = 'Typ:';
+$lang['AdminPackages.ai.context_module'] = 'Modul:';
+$lang['AdminPackages.ai.context_package'] = 'Paket:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Genererat innehåll:';
+$lang['AdminPackages.ai.context_label'] = 'Sammanhang:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI-omskriven beskrivning';
+$lang['AdminPackages.ai.modal_title_generate'] = 'AI-genererad beskrivning';
+$lang['AdminPackages.ai.modal_title'] = 'AI-genererat innehåll';
+$lang['AdminPackages.ai.rewrite_button'] = 'Skriv om';
+$lang['AdminPackages.ai.generate_button'] = 'Generera';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Tillämpa filter';
+$lang['AdminPackages.index.field_filterclear'] = 'Klar';
+$lang['AdminPackages.index.filter_toggle'] = 'Växla filter';
+$lang['AdminPackages.index.items_selected'] = 'valda objekt';
 

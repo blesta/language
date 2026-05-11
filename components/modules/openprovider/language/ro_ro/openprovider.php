@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.config.description'] = 'Modul Openprovider pentru Blesta.';
 $lang['OpenProvider.config.name'] = 'Openprovider';
 $lang['OpenProvider.nameserver.ns2'] = 'Name Server 2';
 $lang['OpenProvider.nameserver.ns1'] = 'Name Server 1';
+$lang['Openprovider.back_to_manage'] = 'Înapoi';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Aktualizace';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Nastavte výchozí obchodní bránu pro každou měnu.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Výchozí obchodní brány';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Výchozí obchodní brány byly úspěšně aktualizovány.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Nebyly nalezeny žádné odpovídající brány.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Filtrování bran...';
 

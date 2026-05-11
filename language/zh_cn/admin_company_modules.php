@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = '模块已成功更新。
 $lang['AdminCompanyModules.!success.uninstalled'] = '模块已成功卸载。';
 $lang['AdminCompanyModules.!success.installed'] = '模块已成功安装。';
 $lang['AdminCompanyModules.!success.upgraded'] = '模块已成功升级。';
+$lang['AdminCompanyModules.text_filter_placeholder'] = '过滤模块...';
+$lang['AdminCompanyModules.text_filter_no_results'] = '未找到匹配模块。';
 

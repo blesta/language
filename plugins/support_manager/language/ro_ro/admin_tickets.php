@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,7 +57,7 @@ $lang['AdminTickets.reply.heading_client'] = 'Client';
 $lang['AdminTickets.reply.heading_summary'] = 'Rezumat';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Bilet #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Ștergeți fișierul';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișiere';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișierele';
 $lang['AdminTickets.add.text_add_response'] = 'Introduceți un răspuns predefinit';
 $lang['Admintickets.add.client_placeholder'] = 'ID-ul sau numele clientului';
 $lang['AdminTickets.add.field_addsubmit'] = 'Bilet deschis';
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'Gunoi';
 $lang['AdminTickets.index.category_closed'] = 'Închis';
 $lang['AdminTickets.index.category_on_hold'] = 'În așteptare';
 $lang['AdminTickets.index.category_in_progress'] = 'În curs de desfășurare';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'În așteptarea răspunsului clientului';
-$lang['AdminTickets.index.category_open'] = 'În așteptarea răspunsului personalului';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'În așteptarea clientului';
+$lang['AdminTickets.index.category_open'] = 'În așteptarea personalului';
 $lang['AdminTickets.text.unassigned'] = 'Neatribuit';
 $lang['AdminTickets.search.page_title'] = 'Rezultate căutare pentru "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'Manager de asistență > Bilet #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Nu există contacte suplimentare d
 $lang['AdminTickets.!tooltip.recipients'] = 'Adresa de e-mail pentru a fi notificat atunci când un bilet este actualizat.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Persoane de contact care urmează să fie notificate atunci când un bilet este actualizat. Cei care nu sunt selectați vor fi adăugați automat la bilet dacă răspund la acesta.';
 $lang['AdminTickets.reply.text_domain'] = 'Domeniu';
-$lang['AdminTickets.reply.heading_rating'] = 'Evaluare';
+$lang['AdminTickets.reply.heading_rating'] = 'Evaluare client';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Rating Comentariu';
 $lang['AdminTickets.index.heading_rating'] = 'Evaluare';
+$lang['AdminTickets.index.text_fullscreen'] = 'Toggle Fullscreen';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Ieșire ecran complet';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Introduceți numărul biletului';
+$lang['AdminTickets.index.placeholder_summary'] = 'Rezumat căutare';
+$lang['AdminTickets.index.heading_filters'] = 'Filtre';
+$lang['AdminTickets.index.field_apply_filters'] = 'Aplicați filtre';
+$lang['AdminTickets.index.field_clear_filters'] = 'Ștergeți filtrele';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Contacte și destinatari';
+$lang['AdminTickets.add.search_responses'] = 'Căutați răspunsuri...';
+$lang['AdminTickets.add.no_results'] = 'Nu s-au găsit răspunsuri corespunzătoare';
+$lang['AdminTickets.add.searching'] = 'Căutarea...';
+$lang['AdminTickets.add.search_min_chars'] = 'Introduceți cel puțin 2 caractere pentru căutare';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Detalii despre bilete';
+$lang['AdminTickets.add.login_as_client'] = 'Conectați-vă ca client';
+$lang['AdminTickets.add.markdown_supported'] = 'Markdown acceptat';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișierele';
+$lang['AdminTickets.add.browse_files'] = 'Răsfoiți fișierele';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Personalizat';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Contacte și destinatari';
+$lang['AdminTickets.reply.text_date_rated'] = 'Evaluat: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Pe %1$s %2$s %3$s a adăugat o notă';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Detalii despre bilete';
+$lang['AdminTickets.reply.login_as_client'] = 'Conectați-vă ca client';
+$lang['AdminTickets.reply.search_responses'] = 'Căutați răspunsuri...';
+$lang['AdminTickets.reply.no_results'] = 'Nu s-au găsit răspunsuri corespunzătoare';
+$lang['AdminTickets.reply.searching'] = 'Căutarea...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Introduceți cel puțin 2 caractere pentru căutare';
+$lang['AdminTickets.reply.markdown_supported'] = 'Markdown acceptat';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Notele interne sunt vizibile numai pentru membrii personalului';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișiere';
+$lang['AdminTickets.reply.browse_files'] = 'Răsfoiți fișierele';
+$lang['AdminTickets.reply.btn_cancel'] = 'Anulează';
+$lang['AdminTickets.reply.client_title'] = 'Client';
+$lang['AdminTickets.reply.note_label'] = 'Nota personalului';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Generarea răspunsului AI';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Răspunsul AI este pregătit';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenerare';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Regenerarea răspunsului AI';
+$lang['AdminTickets.reply.text_generating'] = 'Generarea...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenerarea...';
+$lang['AdminTickets.reply.text_just_now'] = 'Chiar acum';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm în urmă';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh în urmă';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd în urmă';
+$lang['AdminTickets.reply.modal_title'] = 'Răspuns generat de AI';
+$lang['AdminTickets.reply.label_confidence'] = 'Încredere';
+$lang['AdminTickets.reply.label_generated'] = 'Generate';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'Revizuire necesară';
+$lang['AdminTickets.reply.alert_review_text'] = 'Acest răspuns a fost generat automat de AI. Vă rugăm să îl revizuiți cu atenție înainte de a-l trimite pentru a vă asigura acuratețea și tonul adecvat.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Note interne';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Răspuns sugerat';
+$lang['AdminTickets.reply.label_concerns'] = 'Preocupări';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Nu se sugerează niciun răspuns. A se vedea notele interne pentru motivare.';
+$lang['AdminTickets.reply.button_cancel'] = 'Anulează';
+$lang['AdminTickets.reply.button_use_response'] = 'Utilizați acest răspuns';
+$lang['AdminTickets.reply.button_reject'] = 'Respingeți';
+$lang['AdminTickets.reply.button_summarize'] = 'Rezumați';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Rezumat AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'ID bilet invalid';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Funcțiile AI nu sunt activate pentru Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Nu a reușit să genereze un răspuns AI';
+$lang['AdminTickets.!error.analysis_invalid'] = 'ID de analiză invalid';
+$lang['AdminTickets.!error.reply_not_found'] = 'Răspunsul specificat nu a putut fi găsit.';
+$lang['AdminTickets.!error.summary_failed'] = 'Nu s-a reușit generarea rezumatului.';
 

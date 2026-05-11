@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,7 +47,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = '부모 그룹';
 $lang['AdminPackages.groups.confirm_delete'] = '이 패키지 그룹을 삭제하시겠습니까? 이 그룹에 할당된 모든 패키지는 더 이상 이 그룹에 할당되지 않으며 사용할 수 없게 될 수 있습니다.';
 $lang['AdminPackages.groups.option_delete'] = '삭제';
 $lang['AdminPackages.groups.option_edit'] = '편집';
-$lang['AdminPackages.groups.heading_options'] = '옵션';
+$lang['AdminPackages.groups.heading_options'] = '작업';
 $lang['AdminPackages.groups.heading_type'] = '유형';
 $lang['AdminPackages.groups.heading_name'] = '이름';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = '패키지 그룹';
@@ -200,12 +200,12 @@ $lang['AdminPackages.index.no_results'] = '이 상태의 패키지가 없습니�
 $lang['AdminPackages.index.option_delete'] = '삭제';
 $lang['AdminPackages.index.option_copy'] = '복사';
 $lang['AdminPackages.index.option_edit'] = '편집';
-$lang['AdminPackages.index.field_actionsubmit'] = '제출하기';
+$lang['AdminPackages.index.field_actionsubmit'] = '신청하기';
 $lang['AdminPackages.index.action.delete'] = '패키지 삭제';
 $lang['AdminPackages.index.category_inactive'] = '비활성';
 $lang['AdminPackages.index.category_restricted'] = '제한됨';
 $lang['AdminPackages.index.category_active'] = '활성';
-$lang['AdminPackages.index.heading_options'] = '옵션';
+$lang['AdminPackages.index.heading_options'] = '작업';
 $lang['AdminPackages.index.heading_qty'] = '수량';
 $lang['AdminPackages.index.heading_module'] = '모듈';
 $lang['AdminPackages.index.heading_name'] = '이름';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_deleted'] = '패키지가 성공적으로 
 $lang['AdminPackages.!success.package_updated'] = '패키지가 성공적으로 업데이트되었습니다.';
 $lang['AdminPackages.!success.package_added'] = '패키지가 성공적으로 생성되었습니다.';
 $lang['AdminPackages.!tooltip.single_term'] = '이 옵션을 선택하면 이 패키지를 사용하는 신규 서비스는 갱신되지 않고 최초 기간이 끝나면 자동으로 해지됩니다.';
+$lang['AdminPackages.ai.email_preview_text'] = '생성된 이메일 텍스트:';
+$lang['AdminPackages.ai.email_preview_html'] = '생성된 이메일 HTML:';
+$lang['AdminPackages.ai.email_use_button'] = '이 이메일 사용';
+$lang['AdminPackages.ai.email_generating'] = '이메일 생성...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = '환영 이메일에 포함될 내용을 설명합니다(예: "신규 고객 환영, 서비스 설정 설명").';
+$lang['AdminPackages.ai.email_modal_title'] = '환영 이메일 생성';
+$lang['AdminPackages.ai.generate_email_button'] = 'AI로 이메일 생성';
+$lang['AdminPackages.ai.prompt_context_info'] = '컨텍스트 정보:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = '이 제품/서비스 패키지에 대한 전문적인 설명을 생성합니다.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = '이 제품/서비스 패키지에 대한 전문적인 환영 이메일을 생성하여 고객을 환영하고 새로운 서비스에 대한 유용한 정보를 제공하세요.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = '일반 정보는 동일하게 유지하면서 이 콘텐츠를 다시 작성하고 개선하세요:';
+$lang['AdminPackages.ai.initial_instructions'] = '위의 메시지를 검토하고 추가 지침을 추가한 다음 생성을 클릭하여 콘텐츠를 만듭니다.';
+$lang['AdminPackages.ai.prompt_loading'] = '로딩 중...';
+$lang['AdminPackages.ai.prompt_context_label'] = '프롬프트 컨텍스트';
+$lang['AdminPackages.ai.additional_instructions_help'] = '설명에 포함할 AI에 대한 구체적인 세부 정보나 요구 사항을 입력합니다.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = '예: 연중무휴 24시간 지원에 대한 정보를 포함하거나 30일 환불 보장에 대해 언급합니다...';
+$lang['AdminPackages.ai.additional_instructions_label'] = '추가 지침(선택 사항)';
+$lang['AdminPackages.ai.error_prefix'] = '오류:';
+$lang['AdminPackages.ai.error_generation_failed'] = '설명을 생성하지 못했습니다.';
+$lang['AdminPackages.ai.error_prompt_required'] = '프롬프트를 입력하세요.';
+$lang['AdminPackages.ai.apply_text'] = '텍스트 버전';
+$lang['AdminPackages.ai.apply_html'] = 'HTML 버전';
+$lang['AdminPackages.ai.apply_content_label'] = '콘텐츠를 적용합니다:';
+$lang['AdminPackages.ai.error_feature_disabled'] = '패키지 설명 AI 기능이 활성화되지 않았습니다.';
+$lang['AdminPackages.ai.error_disabled'] = 'AI 기능이 활성화되지 않았습니다.';
+$lang['AdminPackages.ai.regenerating'] = '재생성...';
+$lang['AdminPackages.ai.generating'] = '생성...';
+$lang['AdminPackages.ai.btn_cancel'] = '취소';
+$lang['AdminPackages.ai.btn_regenerate'] = '재생성';
+$lang['AdminPackages.ai.btn_use'] = '이 설명 사용';
+$lang['AdminPackages.ai.btn_generate'] = '생성';
+$lang['AdminPackages.ai.preview_text'] = '생성된 텍스트:';
+$lang['AdminPackages.ai.tone_professional'] = '전문가';
+$lang['AdminPackages.ai.preview_html'] = '생성된 HTML:';
+$lang['AdminPackages.ai.tone_technical'] = '기술';
+$lang['AdminPackages.ai.tone_casual'] = '캐주얼';
+$lang['AdminPackages.ai.tone'] = '톤';
+$lang['AdminPackages.ai.generate_text'] = '텍스트 생성(마크다운)';
+$lang['AdminPackages.ai.generate_html'] = 'HTML 생성';
+$lang['AdminPackages.ai.prompt_placeholder'] = '패키지 기능, 타겟 고객 등을 설명하세요...';
+$lang['AdminPackages.ai.use_content_button'] = '이 콘텐츠 사용';
+$lang['AdminPackages.ai.regenerate_button'] = '재생성';
+$lang['AdminPackages.ai.no_context'] = '사용 가능한 컨텍스트 없음';
+$lang['AdminPackages.ai.context_type_email'] = '환영 이메일';
+$lang['AdminPackages.ai.context_type_description'] = '패키지 설명';
+$lang['AdminPackages.ai.context_type'] = '유형:';
+$lang['AdminPackages.ai.context_module'] = '모듈:';
+$lang['AdminPackages.ai.context_package'] = '패키지:';
+$lang['AdminPackages.ai.generated_content_label'] = '생성된 콘텐츠:';
+$lang['AdminPackages.ai.context_label'] = '컨텍스트:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI로 재작성된 설명';
+$lang['AdminPackages.ai.modal_title_generate'] = 'AI 생성 설명';
+$lang['AdminPackages.ai.modal_title'] = 'AI 생성 콘텐츠';
+$lang['AdminPackages.ai.rewrite_button'] = '재작성';
+$lang['AdminPackages.ai.generate_button'] = '생성';
+$lang['AdminPackages.index.field_filtersubmit'] = '필터 적용';
+$lang['AdminPackages.index.field_filterclear'] = '지우기';
+$lang['AdminPackages.index.filter_toggle'] = '필터 토글';
+$lang['AdminPackages.index.items_selected'] = '선택한 항목';
 

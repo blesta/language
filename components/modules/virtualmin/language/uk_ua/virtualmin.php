@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.package_fields.domains_list'] = 'Список доступни
 $lang['Virtualmin.package_fields.sub_domains_disable'] = 'Вимкнути';
 $lang['Virtualmin.package_fields.sub_domains_enable'] = 'Увімкнути';
 $lang['Virtualmin.package_fields.sub_domains'] = 'Увімкнути продаж субдоменів';
+$lang['Virtualmin.back_to_manage'] = 'Назад';
+$lang['Virtualmin.manage.tab_rows'] = 'Сервери';
+$lang['Virtualmin.manage.tab_groups'] = 'Групи серверів';
 

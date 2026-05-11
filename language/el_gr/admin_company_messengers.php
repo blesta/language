@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Η δια�
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Ο αγγελιοφόρος απεγκαταστάθηκε επιτυχώς.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Ο αγγελιοφόρος εγκαταστάθηκε με επιτυχία.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Ο αγγελιοφόρος αναβαθμίστηκε επιτυχώς.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Φίλτρο αγγελιοφόρων...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Δεν βρέθηκαν ταιριαστοί αγγελιοφόροι.';
 

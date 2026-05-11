@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Yapılandırma dos
 $lang['SystemRequirements.!error.extension_version.minimum'] = '\'%1$s\' uzantısı gereklidir. Sürümünüz: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = '\'%1$s\' uzantısı gereklidir.';
 $lang['SystemRequirements.!error.php.minimum'] = 'PHP sürümü %1$s veya üstü gereklidir. Sizin sürümünüz: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL sürüm 5.7.7 veya MariaDB sürüm 10.2.2 veya üzeri gereklidir. Sürümünüz: %1$s.';
 

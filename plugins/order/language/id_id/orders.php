@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['Orders.view.heading_number'] = 'Nomor';
 $lang['Orders.view.heading_status'] = 'Status';
 $lang['Orders.view.heading_applied'] = 'Diterapkan';
 $lang['Orders.view.heading_type'] = 'Jenis';
-$lang['Orders.view.heading_options'] = 'Pilihan';
+$lang['Orders.view.heading_options'] = 'Tindakan';
 $lang['Orders.view.heading_date_renews'] = 'Pembaruan Tanggal';
 $lang['Orders.view.heading_date_created'] = 'Tanggal Dibuat';
 $lang['Orders.view.heading_term'] = 'Istilah';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Lihat Pesanan';
 $lang['Orders.index.no_results'] = 'Anda tidak memiliki pesanan apa pun.';
 $lang['Orders.index.option_cancel'] = 'Batal';
 $lang['Orders.index.option_view'] = 'Melihat';
-$lang['Orders.index.heading_options'] = 'Pilihan';
+$lang['Orders.index.heading_options'] = 'Tindakan';
 $lang['Orders.index.heading_date_ordered'] = 'Tanggal Dipesan';
 $lang['Orders.index.heading_paid'] = 'Dibayar';
 $lang['Orders.index.heading_total'] = 'Total';

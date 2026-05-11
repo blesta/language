@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'Затвердити';
 $lang['ClientQuotations.index.no_results'] = 'У вас немає котирувань %1$s.';
 $lang['ClientQuotations.index.option_approve'] = 'Затвердити';
 $lang['ClientQuotations.index.option_view'] = 'Вигляд';
-$lang['ClientQuotations.index.heading_options'] = 'Параметри';
+$lang['ClientQuotations.index.heading_options'] = 'Дії';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Дата закінчення терміну дії';
 $lang['ClientQuotations.index.heading_date_created'] = 'Дата створення';
 $lang['ClientQuotations.index.heading_total'] = 'Сума';

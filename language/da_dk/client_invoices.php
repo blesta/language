@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientInvoices.index.heading_due'] = 'På grund af';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Dato Lukket';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Dato for fakturering';
 $lang['ClientInvoices.index.heading_datedue'] = 'Dato forfalden';
-$lang['ClientInvoices.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientInvoices.index.heading_options'] = 'Handlinger';
 $lang['ClientInvoices.index.option_view'] = 'Se';
 $lang['ClientInvoices.index.option_pay'] = 'Løn';
 $lang['ClientInvoices.index.no_results'] = 'Du har ingen %1$s fakturaer.';

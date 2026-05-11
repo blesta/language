@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = '포기한 주문';
 $lang['AdminForms.add.tab_basic'] = '기본';
 $lang['AdminForms.index.field_status_inactive'] = '비활성';
 $lang['AdminForms.index.field_status_active'] = '활성';
-$lang['AdminForms.index.text_confirm_delete'] = '이 주문 양식을 정말 삭제하시겠습니까?';
+$lang['AdminForms.index.text_confirm_delete'] = '이 주문 양식을 삭제하시겠습니까?';
 $lang['AdminForms.index.option_delete'] = '삭제';
 $lang['AdminForms.index.option_edit'] = '편집';
 $lang['AdminForms.index.heading_options'] = '옵션';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = '패키지를 선택할 때
 $lang['AdminForms.edit.field_monthly_breakdown'] = '월별 가격 내역 표시';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = '패키지를 선택할 때 각 요금 옵션의 월별 비용과 월별 요금과 비교했을 때 월별 절감액(해당되는 경우)을 표시합니다.';
 $lang['AdminForms.add.field_monthly_breakdown'] = '월별 가격 내역 표시';
+$lang['AdminForms.index.heading_actions'] = '작업';
+$lang['AdminForms.index.back_to_forms'] = '주문 양식으로 돌아가기';
+$lang['AdminForms.add.field_require_recurring_consent'] = '정기 구독에 대한 동의가 필요합니다.';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = '이 기능을 사용하도록 설정하면 고객은 정기결제 품목으로 주문을 완료하기 전에 정기결제에 명시적으로 동의해야 합니다. 이 설정은 결제 세부 정보 저장 확인란을 대체합니다.';
+$lang['AdminForms.add.field_cancel'] = '취소';
+$lang['AdminForms.edit.field_require_recurring_consent'] = '정기 구독에 대한 동의가 필요합니다.';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = '이 기능을 사용하도록 설정하면 고객은 정기결제 품목으로 주문을 완료하기 전에 정기결제에 명시적으로 동의해야 합니다. 이 설정은 결제 세부 정보 저장 확인란을 대체합니다.';
+$lang['AdminForms.edit.field_cancel'] = '취소';
+$lang['AdminForms.embed_codes.heading'] = '도메인 검색용 임베드 코드';
+$lang['AdminForms.embed_codes.description'] = '아래 스니펫 중 하나를 복사하여 외부 사이트에 도메인 검색 양식을 임베드하세요. 제출하면 입력한 도메인이 미리 로드된 상태에서 이 주문 양식에서 결제가 열립니다.';
+$lang['AdminForms.embed_codes.label_first'] = '임베드 코드를 생성하려면 이 주문 양식의 URL 레이블을 입력합니다.';
+$lang['AdminForms.embed_codes.html_plain'] = '일반 HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = '부트스트랩 5';
+$lang['AdminForms.embed_codes.preview'] = '미리 보기';
+$lang['AdminForms.embed_codes.copy'] = '복사';
+$lang['AdminForms.embed_codes.csrf_required'] = '임베디드 도메인 검색이 작동하려면 CSRF 우회가 필요합니다.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'config/blesta.php의 Blesta.csrf_bypass 배열에 config::preconfig를 추가할 때까지 외부 사이트의 POST는 거부됩니다:';
 

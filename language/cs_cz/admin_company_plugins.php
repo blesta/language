@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Zásuvný modul byl úspěšně
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Zásuvný modul byl úspěšně aktualizován.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Zásuvný modul byl úspěšně odinstalován.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Zásuvný modul byl úspěšně nainstalován. Je možné, že zaregistroval oprávnění ACL pro různé prostředky. Pro přístup k těmto zdrojům bude možná nutné udělit skupině zaměstnanců přístup k těmto oprávněním.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Zásuvné moduly filtrů...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Nebyly nalezeny žádné odpovídající pluginy.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Yazdır';
 $lang['AdminBilling.printqueue.page_title'] = 'Faturalama Yazdırma Kuyruğu';
 $lang['AdminBilling.invoices.text_edit'] = 'Düzenle';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Bu faturaya uygulanan herhangi bir işlem yoktur.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Seçenekler';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Eylemler';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Uygulandı';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Uygulamalı';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Miktar';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Hata';
 $lang['AdminBilling.transactions.category_voided'] = 'Geçersiz';
 $lang['AdminBilling.transactions.category_declined'] = 'Reddedildi';
 $lang['AdminBilling.transactions.category_approved'] = 'Onaylandı';
-$lang['AdminBilling.transactions.heading_options'] = 'Seçenekler';
+$lang['AdminBilling.transactions.heading_options'] = 'Eylemler';
 $lang['AdminBilling.transactions.heading_date'] = 'Tarih';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referans #';
 $lang['AdminBilling.transactions.heading_number'] = 'Sayı';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'İşlemler';
 $lang['AdminBilling.transactions.page_title'] = 'Faturalama İşlemleri';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'İptal Nedeni: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Bu hizmetin ayrıntıları yoktur.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Gönder';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Başvurmak';
 $lang['AdminBilling.services.action.field_client'] = 'Müşteri:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Müşteriye Gönder';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'İptal etmeyin';
@@ -82,7 +82,7 @@ $lang['AdminBilling.services.category_active'] = 'Aktif';
 $lang['AdminBilling.services.confirm_delete'] = 'Bu hizmeti silmek istediğinizden emin misiniz?';
 $lang['AdminBilling.services.option_delete'] = 'Silme';
 $lang['AdminBilling.services.option_manage'] = 'Yönetmek';
-$lang['AdminBilling.services.heading_options'] = 'Seçenekler';
+$lang['AdminBilling.services.heading_options'] = 'Eylemler';
 $lang['AdminBilling.services.heading_datecanceled'] = 'İptal Edilen Tarih';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Askıya Alındığı Tarih';
 $lang['AdminBilling.services.heading_daterenews'] = 'Tarih Yenilemeleri';
@@ -95,7 +95,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Hizmetler';
 $lang['AdminBilling.services.page_title'] = 'Faturalama Hizmetleri';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Bu teklifle ilişkili herhangi bir fatura bulunmamaktadır.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Görünüm';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Seçenekler';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Eylemler';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Faturalandırıldığı Tarih';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Ücretli';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Miktar';
@@ -106,7 +106,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Onaylamak';
 $lang['AdminBilling.quotations.option_invoice'] = 'Fatura Oluştur';
 $lang['AdminBilling.quotations.option_view'] = 'Görünüm';
 $lang['AdminBilling.quotations.option_edit'] = 'Düzenle';
-$lang['AdminBilling.quotations.heading_options'] = 'Seçenekler';
+$lang['AdminBilling.quotations.heading_options'] = 'Eylemler';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Son Kullanma Tarihi';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Oluşturulma Tarihi';
 $lang['AdminBilling.quotations.heading_total'] = 'Miktar';
@@ -132,7 +132,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Açık';
 $lang['AdminBilling.invoices.heading_count'] = 'Saymak';
 $lang['AdminBilling.invoices.heading_duration'] = 'Süre';
 $lang['AdminBilling.invoices.heading_term'] = 'Dönem';
-$lang['AdminBilling.invoices.heading_options'] = 'Seçenekler';
+$lang['AdminBilling.invoices.heading_options'] = 'Eylemler';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Son Tarih';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Faturalandırıldığı Tarih';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Tarih Kapalı';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Seçilen hizmetler başar
 $lang['AdminBilling.!success.services_suspended'] = 'Seçilen hizmetler başarıyla askıya alındı.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Bu hizmette bekleyen değişiklikler var.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Ödenen Tarih: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'öğe seçildi';
+$lang['AdminBilling.transactions.option_view'] = 'Görünüm';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Eylemler';
+$lang['AdminBilling.services.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminBilling.services.text_item_selected'] = 'öğe seçildi';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Filtreleri Uygula';
+$lang['AdminBilling.services.field_filterclear'] = 'Temiz';
+$lang['AdminBilling.services.filter_toggle'] = 'Filtreleri Değiştir';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Filtreleri Uygula';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Temiz';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Filtreleri Değiştir';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Gösterge panelinizde göstermek veya gizlemek için widget\'lara tıklayın.';
 

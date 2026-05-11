@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Servery';
 $lang['Teamspeak.module_row'] = 'Server';
 $lang['Teamspeak.description'] = 'TeamSpeak je aplikace pro hlasovou komunikaci prostřednictvím internetového protokolu, která slouží ke zvukové komunikaci mezi uživateli na chatovacím kanálu.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Zpět';
+$lang['Teamspeak.manage.tab_rows'] = 'Servery';
+$lang['Teamspeak.manage.tab_groups'] = 'Skupiny serverů';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientManagers.accounts.no_results'] = 'V současné době nespravujete �
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Opravdu se chcete vzdát přístupu k tomuto účtu?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Vzdát se přístupu';
 $lang['ClientManagers.accounts.option_manage'] = 'Správa';
-$lang['ClientManagers.accounts.heading_options'] = 'Možnosti';
+$lang['ClientManagers.accounts.heading_options'] = 'Akce';
 $lang['ClientManagers.accounts.heading_company'] = 'Společnost';
 $lang['ClientManagers.accounts.heading_name'] = 'Celé jméno';
 $lang['ClientManagers.accounts.heading_email'] = 'E-mail';
@@ -47,7 +47,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Odvolání';
 $lang['ClientManagers.index.option_edit'] = 'Upravit';
 $lang['ClientManagers.index.text_status_pending'] = 'Čeká se na';
 $lang['ClientManagers.index.text_status_accepted'] = 'Přijato';
-$lang['ClientManagers.index.heading_options'] = 'Možnosti';
+$lang['ClientManagers.index.heading_options'] = 'Akce';
 $lang['ClientManagers.index.heading_status'] = 'Stav';
 $lang['ClientManagers.index.heading_company'] = 'Společnost';
 $lang['ClientManagers.index.heading_name'] = 'Celé jméno';

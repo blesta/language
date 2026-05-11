@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Upravit typ platby';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Aktualizace typu platby';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Použití Definice jazyka';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Typ';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Název';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ano';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Odstranění tohoto typu platby způsobí, že všechny transakce, které tento typ platby používají, budou nastaveny na "ostatní". Opravdu chcete tento typ platby odstranit?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Odstranit';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Upravit';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Možnosti';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Akce';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Užití Definice jazyka';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Typ';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Název';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Nastavení GeoIP bylo úsp
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Základní nastavení bylo úspěšně aktualizováno!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Adresář pro nahrávání musí existovat a musí být mimo kořenový adresář webu.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir je povolen. Přístup k souborům je omezen na: %1$s. K adresářům mimo tyto cesty nelze přistupovat.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Adresář mezipaměti';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Tato hodnota představuje úplnou cestu k serveru, kam má Blesta zapisovat soubory v mezipaměti. Do tohoto adresáře musí mít možnost zapisovat webový uživatel serveru a uživatel cronu. Z důvodu bezpečnosti by tato cesta měla být umístěna mimo kořenový adresář webu; pokud musí být uvnitř kořenového adresáře webu, zapíše Blesta soubor .htaccess jako částečné zmírnění, ale konfigurace serveru, které ignorují .htaccess (například Nginx), takovou ochranu neposkytují.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Změnu adresáře mezipaměti nelze použít, protože soubor se značkami na adrese config/cache.dir.php nelze zapsat ani odstranit. Udělte právo zápisu do adresáře config (a do souboru marker, pokud existuje) a zkuste to znovu.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Adresář mezipaměti musí být existující adresář, do kterého lze zapisovat.';
 

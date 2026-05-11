@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_clientoptions_addcustomfield'] = '�
 $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = '电子发票';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = '获取优惠券套餐选项信息';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = '清单报价';
+$lang['StaffGroups.permissions.admin_system_ai'] = '人工智能';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = '恢复电子邮件模板快照';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = '系统完整性检查';
 

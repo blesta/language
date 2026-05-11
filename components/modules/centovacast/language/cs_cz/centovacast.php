@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -160,4 +160,7 @@ $lang['Centovacast.module_row_plural'] = 'Servery';
 $lang['Centovacast.module_row'] = 'Server';
 $lang['Centovacast.description'] = 'Snadno můžete spravovat jednu stanici nebo automatizovat stream hosting s tisíci klienty. Centova Cast zvládne prakticky jakýkoli scénář hostování streamů!';
 $lang['Centovacast.name'] = 'CentovaCast';
+$lang['Centovacast.back_to_manage'] = 'Zpět';
+$lang['Centovacast.manage.tab_rows'] = 'Servery';
+$lang['Centovacast.manage.tab_groups'] = 'Skupiny serverů';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Pilih status pembayaran ya
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'ID metode pembayaran tidak valid.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'ID afiliasi tidak valid.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'ID pembayaran tidak valid.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Pembayaran Diminta';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s meminta pembayaran sebesar %2$s';
 

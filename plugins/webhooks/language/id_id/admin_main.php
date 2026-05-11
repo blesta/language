@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.edit.field_type'] = 'Panggilan balik';
 $lang['AdminMain.edit.field_event'] = 'Acara';
 $lang['AdminMain.edit.field_callback'] = 'Panggilan balik';
 $lang['AdminMain.edit.option_delete'] = 'Menghapus';
-$lang['AdminMain.edit.heading_options'] = 'Pilihan';
+$lang['AdminMain.edit.heading_options'] = 'Tindakan';
 $lang['AdminMain.edit.heading_parameter'] = 'Bidang Baru';
 $lang['AdminMain.edit.heading_field'] = 'Bidang Asli';
 $lang['AdminMain.edit.heading_fields_map'] = 'Peta Bidang';
@@ -32,7 +32,7 @@ $lang['AdminMain.add.field_type'] = 'Panggilan balik';
 $lang['AdminMain.add.field_event'] = 'Acara';
 $lang['AdminMain.add.field_callback'] = 'Panggilan balik';
 $lang['AdminMain.add.option_delete'] = 'Menghapus';
-$lang['AdminMain.add.heading_options'] = 'Pilihan';
+$lang['AdminMain.add.heading_options'] = 'Tindakan';
 $lang['AdminMain.add.heading_parameter'] = 'Bidang Baru';
 $lang['AdminMain.add.heading_field'] = 'Bidang Asli';
 $lang['AdminMain.add.heading_fields_map'] = 'Peta Bidang';
@@ -43,7 +43,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Menerima permintaan HTTP d
 $lang['AdminMain.index.text_description_outgoing'] = 'Mengirimkan permintaan HTTP ke URL ketika sebuah peristiwa dipicu. Permintaan dapat dikirim menggunakan GET, POST, PUT, atau JSON.';
 $lang['AdminMain.index.option_delete'] = 'Menghapus';
 $lang['AdminMain.index.option_edit'] = 'Sunting';
-$lang['AdminMain.index.heading_options'] = 'Pilihan';
+$lang['AdminMain.index.heading_options'] = 'Tindakan';
 $lang['AdminMain.index.heading_method'] = 'Metode';
 $lang['AdminMain.index.heading_event'] = 'Acara';
 $lang['AdminMain.index.heading_callback'] = 'Panggilan balik';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Status HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Acara';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Semua Webhook';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Pilihan';
+$lang['AdminMain.logs.heading_options'] = 'Tindakan';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Coba Lagi Terakhir';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Tanggal Dipicu';
 $lang['AdminMain.logs.heading_http_response'] = 'Respons HTTP';

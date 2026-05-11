@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminAffiliates.index.heading_visits'] = 'Visites';
 $lang['AdminAffiliates.index.heading_sales'] = 'Vente';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Date d\'ajout';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Date de mise à jour';
-$lang['AdminAffiliates.index.heading_options'] = 'Options';
+$lang['AdminAffiliates.index.heading_options'] = 'Actions';
 $lang['AdminAffiliates.index.option_manage'] = 'Gérer';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Désactiver';
 $lang['AdminAffiliates.index.option_activate'] = 'Activer';

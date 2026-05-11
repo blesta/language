@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,8 +65,8 @@ $lang['AdminTickets.reply.heading_client'] = 'Клиент';
 $lang['AdminTickets.reply.heading_summary'] = 'Резюме';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Билет #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Премахване на файл';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Пуснете файловете тук, за да ги качите, или щракнете, за да изберете файлове';
-$lang['AdminTickets.add.text_add_response'] = 'Вмъкване на предварително зададен отговор';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Пуснете файлове тук, за да ги качите, или кликнете, за да изберете файлове';
+$lang['AdminTickets.add.text_add_response'] = 'Вмъкване на предварително определен отговор';
 $lang['Admintickets.add.client_placeholder'] = 'Идентификатор или име на клиента';
 $lang['AdminTickets.add.field_addsubmit'] = 'Отворен билет';
 $lang['AdminTickets.add.text_add_attachment'] = 'Добавяне на прикачен файл';
@@ -116,8 +116,8 @@ $lang['AdminTickets.index.category_trash'] = 'Отпадъци';
 $lang['AdminTickets.index.category_closed'] = 'Затворен';
 $lang['AdminTickets.index.category_on_hold'] = 'В режим на задържане';
 $lang['AdminTickets.index.category_in_progress'] = 'В процес на изпълнение';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'В очакване на отговор от клиента';
-$lang['AdminTickets.index.category_open'] = 'В очакване на отговор от персонала';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'В очакване на клиент';
+$lang['AdminTickets.index.category_open'] = 'В очакване на персонала';
 $lang['AdminTickets.text.unassigned'] = 'Не е присвоено';
 $lang['AdminTickets.search.page_title'] = 'Резултати от търсенето за "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'Мениджър поддръжка &gt; Билет #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Няма налични допъл
 $lang['AdminTickets.!tooltip.recipients'] = 'Имейл адрес, на който да получавате известия при актуализиране на билета.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Контакти, които да бъдат уведомявани, когато билетът бъде актуализиран. Тези, които не са избрани, ще бъдат автоматично добавени към билета, ако отговорят на него.';
 $lang['AdminTickets.reply.text_domain'] = 'Домейн';
-$lang['AdminTickets.reply.heading_rating'] = 'Рейтинг';
+$lang['AdminTickets.reply.heading_rating'] = 'Оценка на клиентите';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Рейтинг Коментар';
 $lang['AdminTickets.index.heading_rating'] = 'Рейтинг';
+$lang['AdminTickets.index.text_fullscreen'] = 'Превключване на цял екран';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Излизане на цял екран';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Въведете номера на билета';
+$lang['AdminTickets.index.placeholder_summary'] = 'Обобщение на търсенето';
+$lang['AdminTickets.index.heading_filters'] = 'Филтри';
+$lang['AdminTickets.index.field_apply_filters'] = 'Прилагане на филтри';
+$lang['AdminTickets.index.field_clear_filters'] = 'Изчистване на филтрите';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Контакти и получатели';
+$lang['AdminTickets.add.search_responses'] = 'Търсене на отговори...';
+$lang['AdminTickets.add.no_results'] = 'Не са намерени съвпадащи отговори';
+$lang['AdminTickets.add.searching'] = 'Търсене...';
+$lang['AdminTickets.add.search_min_chars'] = 'Въведете поне 2 символа за търсене';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Подробности за билета';
+$lang['AdminTickets.add.login_as_client'] = 'Влезте като клиент';
+$lang['AdminTickets.add.markdown_supported'] = 'Поддържа се Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Пуснете файлове тук, за да ги качите, или кликнете, за да изберете файлове';
+$lang['AdminTickets.add.browse_files'] = 'Преглед на файлове';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Потребителски';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Контакти и получатели';
+$lang['AdminTickets.reply.text_date_rated'] = 'Оценени: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'На %1$s %2$s %3$s добави бележка';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Подробности за билета';
+$lang['AdminTickets.reply.login_as_client'] = 'Влезте като клиент';
+$lang['AdminTickets.reply.search_responses'] = 'Търсене на отговори...';
+$lang['AdminTickets.reply.no_results'] = 'Не са намерени съвпадащи отговори';
+$lang['AdminTickets.reply.searching'] = 'Търсене...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Въведете поне 2 символа за търсене';
+$lang['AdminTickets.reply.markdown_supported'] = 'Поддържа се Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Вътрешните бележки са видими само за членовете на персонала';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Пуснете файловете тук, за да ги качите, или щракнете, за да изберете файлове';
+$lang['AdminTickets.reply.browse_files'] = 'Преглед на файлове';
+$lang['AdminTickets.reply.btn_cancel'] = 'Отмяна на';
+$lang['AdminTickets.reply.client_title'] = 'Клиент';
+$lang['AdminTickets.reply.note_label'] = 'Бележка на персонала';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Генериране на отговор от AI';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Готовност за реакция на AI';
+$lang['AdminTickets.reply.button_regenerate'] = 'Регенерирайте';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Регенериране на отговора на AI';
+$lang['AdminTickets.reply.text_generating'] = 'Генериране на...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Регенерираща...';
+$lang['AdminTickets.reply.text_just_now'] = 'Точно сега';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sпреди';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sпреди h';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sпреди г';
+$lang['AdminTickets.reply.modal_title'] = 'Отговор, генериран от AI';
+$lang['AdminTickets.reply.label_confidence'] = 'Доверие';
+$lang['AdminTickets.reply.label_generated'] = 'Генериран';
+$lang['AdminTickets.reply.label_model'] = 'Модел';
+$lang['AdminTickets.reply.alert_review_required'] = 'Изисква се преглед';
+$lang['AdminTickets.reply.alert_review_text'] = 'Този отговор е генериран автоматично от AI. Моля, прегледайте го внимателно, преди да го изпратите, за да се уверите в точността и подходящия тон.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Вътрешни бележки';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Предложен отговор';
+$lang['AdminTickets.reply.label_concerns'] = 'Загриженост';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Не е предложен отговор. Вж. вътрешните бележки за обосновка.';
+$lang['AdminTickets.reply.button_cancel'] = 'Отмяна на';
+$lang['AdminTickets.reply.button_use_response'] = 'Използвайте този отговор';
+$lang['AdminTickets.reply.button_reject'] = 'Отхвърляне на';
+$lang['AdminTickets.reply.button_summarize'] = 'Обобщете';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Обобщение на AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Невалиден идентификатор на билета';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Функциите на AI не са активирани за Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Не успя да генерира отговор на AI';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Невалиден идентификатор на анализ';
+$lang['AdminTickets.!error.reply_not_found'] = 'Посоченият отговор не може да бъде намерен.';
+$lang['AdminTickets.!error.summary_failed'] = 'Не успя да генерира обобщение.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Imprimir';
 $lang['AdminBilling.printqueue.page_title'] = 'Fila de impressão de faturação';
 $lang['AdminBilling.invoices.text_edit'] = 'Editar';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Esta fatura não tem transacções aplicadas.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Opções';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Acções';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Aplicado em';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Aplicado';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Montante';
@@ -56,7 +56,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Erro';
 $lang['AdminBilling.transactions.category_voided'] = 'Anulado';
 $lang['AdminBilling.transactions.category_declined'] = 'Recusado';
 $lang['AdminBilling.transactions.category_approved'] = 'Aprovado';
-$lang['AdminBilling.transactions.heading_options'] = 'Opções';
+$lang['AdminBilling.transactions.heading_options'] = 'Acções';
 $lang['AdminBilling.transactions.heading_date'] = 'Data';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referência';
 $lang['AdminBilling.transactions.heading_number'] = 'Número';
@@ -69,7 +69,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transacções';
 $lang['AdminBilling.transactions.page_title'] = 'Transacções de faturação';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Motivo da anulação: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Este serviço não tem pormenores.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Enviar';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Aplicar';
 $lang['AdminBilling.services.action.field_client'] = 'Cliente:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Enviar para o cliente';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Não cancelar';
@@ -88,7 +88,7 @@ $lang['AdminBilling.services.category_active'] = 'Ativo';
 $lang['AdminBilling.services.confirm_delete'] = 'Tem a certeza de que pretende eliminar este serviço?';
 $lang['AdminBilling.services.option_delete'] = 'Eliminar';
 $lang['AdminBilling.services.option_manage'] = 'Gerir';
-$lang['AdminBilling.services.heading_options'] = 'Opções';
+$lang['AdminBilling.services.heading_options'] = 'Acções';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Data de cancelamento';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Data de suspensão';
 $lang['AdminBilling.services.heading_daterenews'] = 'Data Renova';
@@ -101,7 +101,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Serviços';
 $lang['AdminBilling.services.page_title'] = 'Serviços de faturação';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Não existem facturas associadas a este orçamento.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Ver';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Opções';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Acções';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Data de faturação';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Pago';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Montante';
@@ -112,7 +112,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Aprovar';
 $lang['AdminBilling.quotations.option_invoice'] = 'Criar fatura';
 $lang['AdminBilling.quotations.option_view'] = 'Ver';
 $lang['AdminBilling.quotations.option_edit'] = 'Editar';
-$lang['AdminBilling.quotations.heading_options'] = 'Opções';
+$lang['AdminBilling.quotations.heading_options'] = 'Acções';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Data de expiração';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Data de criação';
 $lang['AdminBilling.quotations.heading_total'] = 'Montante';
@@ -148,7 +148,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Aberto';
 $lang['AdminBilling.invoices.heading_count'] = 'Contagem';
 $lang['AdminBilling.invoices.heading_duration'] = 'Duração';
 $lang['AdminBilling.invoices.heading_term'] = 'Prazo';
-$lang['AdminBilling.invoices.heading_options'] = 'Opções';
+$lang['AdminBilling.invoices.heading_options'] = 'Acções';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Data de vencimento';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Data de faturação';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Data de encerramento';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Os serviços selecio
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'As facturas selecionadas foram marcadas como impressas.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Data do pagamento: %1$s';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Este serviço tem alterações pendentes.';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'itens selecionados';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'item selecionado';
+$lang['AdminBilling.transactions.option_view'] = 'Ver';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Acções';
+$lang['AdminBilling.services.text_items_selected'] = 'itens selecionados';
+$lang['AdminBilling.services.text_item_selected'] = 'item selecionado';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Aplicar filtros';
+$lang['AdminBilling.services.field_filterclear'] = 'Limpo';
+$lang['AdminBilling.services.filter_toggle'] = 'Alternar filtros';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Aplicar filtros';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Limpo';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Alternar filtros';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Clique nos widgets para os mostrar ou ocultar do seu painel de controlo.';
 

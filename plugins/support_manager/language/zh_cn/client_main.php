@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s 分钟';
 $lang['ClientMain.index.any'] = '任何';
 $lang['ClientMain.index.option_reply'] = '答复';
 $lang['ClientMain.index.option_close'] = '关闭';
-$lang['ClientMain.index.heading_options'] = '选项';
+$lang['ClientMain.index.heading_options'] = '行动';
 $lang['ClientMain.index.heading_status'] = '现状';
 $lang['ClientMain.index.heading_last_reply_date'] = '最后答复';
 $lang['ClientMain.index.heading_summary'] = '摘要';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,12 +23,12 @@ $lang['AdminPackages.index.heading_package'] = 'Pakke-ID';
 $lang['AdminPackages.index.heading_name'] = 'Navn';
 $lang['AdminPackages.index.heading_module'] = 'Modul';
 $lang['AdminPackages.index.heading_qty'] = 'Antal';
-$lang['AdminPackages.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminPackages.index.heading_options'] = 'Handlinger';
 $lang['AdminPackages.index.category_active'] = 'Aktiv';
 $lang['AdminPackages.index.category_restricted'] = 'Begrænset';
 $lang['AdminPackages.index.category_inactive'] = 'Inaktiv';
 $lang['AdminPackages.index.action.delete'] = 'Slet pakker';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Indsend';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Ansøg';
 $lang['AdminPackages.index.option_edit'] = 'Rediger';
 $lang['AdminPackages.index.option_copy'] = 'Kopi';
 $lang['AdminPackages.index.option_delete'] = 'Slet';
@@ -181,7 +181,7 @@ $lang['AdminPackages.groups.categorylink_creategroup'] = 'Opret gruppe';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Pakkegrupper';
 $lang['AdminPackages.groups.heading_name'] = 'Navn';
 $lang['AdminPackages.groups.heading_type'] = 'Type';
-$lang['AdminPackages.groups.heading_options'] = 'Valgmuligheder';
+$lang['AdminPackages.groups.heading_options'] = 'Handlinger';
 $lang['AdminPackages.groups.option_edit'] = 'Rediger';
 $lang['AdminPackages.groups.option_delete'] = 'Slet';
 $lang['AdminPackages.groups.confirm_delete'] = 'Er du sikker på, at du vil slette denne pakkegruppe? Alle pakker, der er tildelt denne gruppe, vil ikke længere være tildelt denne gruppe og kan blive ubrugelige.';
@@ -221,4 +221,63 @@ $lang['AdminPackages.edit.field_manual_activation'] = 'Hold betalte ventende tje
 $lang['AdminPackages.edit.text_default'] = 'Standard';
 $lang['AdminPackages.add.text_default'] = 'Standard';
 $lang['AdminPackages.!tooltip.single_term'] = 'Hvis denne mulighed er markeret, vil nye tjenester, der bruger denne pakke, ikke blive fornyet, men automatisk blive annulleret ved udgangen af deres oprindelige periode.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Genereret e-mail-tekst:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Genereret e-mail-HTML:';
+$lang['AdminPackages.ai.email_use_button'] = 'Brug denne e-mail';
+$lang['AdminPackages.ai.email_generating'] = 'Generering af e-mail...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Beskriv, hvad der skal stå i velkomstmailen (f.eks. "Byd ny kunde velkommen, forklar serviceopsætning")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Generer velkomstmail';
+$lang['AdminPackages.ai.generate_email_button'] = 'Generer e-mail med AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Information om konteksten:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Lav en professionel beskrivelse af denne produkt-/servicepakke.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Lav en professionel velkomstmail til denne produkt-/servicepakke, der byder kunden velkommen og giver nyttige oplysninger om deres nye service.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Omskriv og forbedr dette indhold, mens du bevarer de samme generelle oplysninger:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Gennemgå beskeden ovenfor, tilføj eventuelle yderligere instruktioner, og klik derefter på Generér for at oprette indhold.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Indlæser prompt...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Spørg til konteksten';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Angiv eventuelle specifikke detaljer eller krav, som AI\'en skal inkludere i beskrivelsen.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Inkludér f.eks. information om 24/7-support, nævn 30 dages pengene-tilbage-garantien ...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Yderligere instruktioner (valgfrit)';
+$lang['AdminPackages.ai.error_prefix'] = 'Fejl:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Kunne ikke generere beskrivelse';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Indtast venligst en prompt';
+$lang['AdminPackages.ai.apply_text'] = 'Tekstversion';
+$lang['AdminPackages.ai.apply_html'] = 'HTML-version';
+$lang['AdminPackages.ai.apply_content_label'] = 'Anvend indhold til:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Pakkebeskrivelse AI-funktion er ikke aktiveret';
+$lang['AdminPackages.ai.error_disabled'] = 'AI-funktioner er ikke aktiveret';
+$lang['AdminPackages.ai.regenerating'] = 'Regenererende...';
+$lang['AdminPackages.ai.generating'] = 'Genererer...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Annuller';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenerere';
+$lang['AdminPackages.ai.btn_use'] = 'Brug denne beskrivelse';
+$lang['AdminPackages.ai.btn_generate'] = 'Generer';
+$lang['AdminPackages.ai.preview_text'] = 'Genereret tekst:';
+$lang['AdminPackages.ai.preview_html'] = 'Genereret HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Teknisk';
+$lang['AdminPackages.ai.tone_casual'] = 'Afslappet';
+$lang['AdminPackages.ai.tone_professional'] = 'Professionel';
+$lang['AdminPackages.ai.tone'] = 'Tone';
+$lang['AdminPackages.ai.generate_text'] = 'Generer tekst (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Generer HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Beskriv pakkens funktioner, målgruppe osv.';
+$lang['AdminPackages.ai.use_content_button'] = 'Brug dette indhold';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenerere';
+$lang['AdminPackages.ai.no_context'] = 'Ingen tilgængelig kontekst';
+$lang['AdminPackages.ai.context_type_email'] = 'Velkommen e-mail';
+$lang['AdminPackages.ai.context_type_description'] = 'Beskrivelse af pakken';
+$lang['AdminPackages.ai.context_type'] = 'Type:';
+$lang['AdminPackages.ai.context_module'] = 'Modul:';
+$lang['AdminPackages.ai.context_package'] = 'Pakke:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Genereret indhold:';
+$lang['AdminPackages.ai.context_label'] = 'Kontekst:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI-omskrevet beskrivelse';
+$lang['AdminPackages.ai.modal_title_generate'] = 'AI-genereret beskrivelse';
+$lang['AdminPackages.ai.modal_title'] = 'AI-genereret indhold';
+$lang['AdminPackages.ai.rewrite_button'] = 'Skriv om';
+$lang['AdminPackages.ai.generate_button'] = 'Generer';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Anvend filtre';
+$lang['AdminPackages.index.field_filterclear'] = 'Klar';
+$lang['AdminPackages.index.filter_toggle'] = 'Skift mellem filtre';
+$lang['AdminPackages.index.items_selected'] = 'valgte emner';
 

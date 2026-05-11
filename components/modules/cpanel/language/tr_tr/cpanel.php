@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Şifre';
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Kullanıcı Adı';
 $lang['Cpanel.tab_client_login.logintocpanel'] = 'cPanel\'de oturum açın';
 $lang['Cpanel.tab_client_login'] = 'cPanel\'de oturum açın';
+$lang['Cpanel.back_to_manage'] = 'Geri';
+$lang['Cpanel.manage.tab_rows'] = 'Sunucular';
+$lang['Cpanel.manage.tab_groups'] = 'Sunucu Grupları';
 

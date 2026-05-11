@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Mencetak';
 $lang['AdminBilling.printqueue.page_title'] = 'Antrian Cetak Tagihan';
 $lang['AdminBilling.invoices.text_edit'] = 'Sunting';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Faktur ini tidak memiliki transaksi yang diterapkan padanya.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Pilihan';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Tindakan';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Diterapkan pada';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Diterapkan';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Jumlah';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Kesalahan';
 $lang['AdminBilling.transactions.category_voided'] = 'Voided';
 $lang['AdminBilling.transactions.category_declined'] = 'Ditolak';
 $lang['AdminBilling.transactions.category_approved'] = 'Disetujui';
-$lang['AdminBilling.transactions.heading_options'] = 'Pilihan';
+$lang['AdminBilling.transactions.heading_options'] = 'Tindakan';
 $lang['AdminBilling.transactions.heading_date'] = 'Tanggal';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referensi #';
 $lang['AdminBilling.transactions.heading_number'] = 'Nomor';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transaksi';
 $lang['AdminBilling.transactions.page_title'] = 'Transaksi Penagihan';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Alasan Pembatalan: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Layanan ini tidak memiliki detail.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Kirim';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Menerapkan';
 $lang['AdminBilling.services.action.field_client'] = 'Klien:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Dorong ke Klien';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Jangan batalkan';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Aktif';
 $lang['AdminBilling.services.confirm_delete'] = 'Apakah Anda yakin ingin menghapus layanan ini?';
 $lang['AdminBilling.services.option_delete'] = 'Menghapus';
 $lang['AdminBilling.services.option_manage'] = 'Mengelola';
-$lang['AdminBilling.services.heading_options'] = 'Pilihan';
+$lang['AdminBilling.services.heading_options'] = 'Tindakan';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Tanggal Dibatalkan';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Tanggal Ditangguhkan';
 $lang['AdminBilling.services.heading_daterenews'] = 'Pembaruan Tanggal';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Layanan';
 $lang['AdminBilling.services.page_title'] = 'Layanan Penagihan';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Tidak ada faktur yang terkait dengan penawaran ini.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Melihat';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Pilihan';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Tindakan';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Tanggal Ditagih';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Dibayar';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Jumlah';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Menyetujui';
 $lang['AdminBilling.quotations.option_invoice'] = 'Buat Faktur';
 $lang['AdminBilling.quotations.option_view'] = 'Melihat';
 $lang['AdminBilling.quotations.option_edit'] = 'Sunting';
-$lang['AdminBilling.quotations.heading_options'] = 'Pilihan';
+$lang['AdminBilling.quotations.heading_options'] = 'Tindakan';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Tanggal Kedaluwarsa';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Tanggal Pembuatan';
 $lang['AdminBilling.quotations.heading_total'] = 'Jumlah';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Buka';
 $lang['AdminBilling.invoices.heading_count'] = 'Menghitung';
 $lang['AdminBilling.invoices.heading_duration'] = 'Durasi';
 $lang['AdminBilling.invoices.heading_term'] = 'Istilah';
-$lang['AdminBilling.invoices.heading_options'] = 'Pilihan';
+$lang['AdminBilling.invoices.heading_options'] = 'Tindakan';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Tanggal Jatuh Tempo';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Tanggal Ditagih';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Tanggal Ditutup';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Layanan yang dipilih berh
 $lang['AdminBilling.!success.services_suspended'] = 'Layanan yang dipilih berhasil ditangguhkan.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Layanan ini memiliki perubahan yang tertunda.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Tanggal Dibayar Lunas: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'item yang dipilih';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'item yang dipilih';
+$lang['AdminBilling.transactions.option_view'] = 'Melihat';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Tindakan';
+$lang['AdminBilling.services.text_items_selected'] = 'item yang dipilih';
+$lang['AdminBilling.services.text_item_selected'] = 'item yang dipilih';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Menerapkan Filter';
+$lang['AdminBilling.services.field_filterclear'] = 'Jelas';
+$lang['AdminBilling.services.filter_toggle'] = 'Alihkan Filter';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Menerapkan Filter';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Jelas';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Alihkan Filter';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik widget untuk menampilkan atau menyembunyikannya dari dasbor Anda.';
 

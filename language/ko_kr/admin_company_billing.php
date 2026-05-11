@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,16 +99,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(사용한 %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = '사용 가능한 패키지';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = '할당된 패키지';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = '모두';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = '쿠폰 편집';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = '업데이트 쿠폰';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = '패키지 그룹 필터';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = '패키지';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = '패키지 제한 사항';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = '제거';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = '약관';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = '기간';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = '활성화됨';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = '이 쿠폰은 선택한 기간/기간 중 하나에 대해 주문한 서비스에만 적용할 수 있습니다. 활성화된 서비스가 없는 경우 쿠폰 제한을 평가할 때 해당 서비스 기간은 무시됩니다.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = '약관';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = '기간 제한';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = '가치';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = '유형';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = '통화';
@@ -119,7 +119,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = '서비스 �
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = '수량';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = '종료 날짜';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = '시작 날짜';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = '제한 사항';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = '제한 및 제한 사항';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = '코드 생성';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = '쿠폰 코드';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = '내부 전용';
@@ -134,7 +134,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = '할당된 패�
 $lang['AdminCompanyBilling.addcoupon.text_all'] = '모두';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = '쿠폰 만들기';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = '패키지 그룹 필터';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = '패키지';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = '패키지 제한 사항';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = '제거';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = '약관';
@@ -152,7 +152,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = '서비스 갱
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = '수량';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = '종료 날짜';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = '시작 날짜';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = '제한 사항';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = '제한 및 제한 사항';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = '코드 생성';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = '쿠폰 코드';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = '내부 전용';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = '요구 사항';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = '옵션';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = '옵션 그룹';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = '이 쿠폰은 선택한 구성 가능한 옵션이 일치하는 경우에만 적용할 수 있습니다. 구성 가능한 옵션 제한을 무시하려면 비워 두세요.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = '구성 가능한 옵션';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = '구성 가능한 옵션 제한 사항';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = '추가';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = '마감 후 배송을 위한 송장 요청하기';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = '신용 잔액이 이 금액 이하로 떨어지면 고객에게 매일 알림이 전송됩니다. 이 통화에 대한 알림을 사용하지 않으려면 비워 두세요.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = '%1$s 의 최대 금액�
 $lang['AdminCompanyBilling.!error.max_amount'] = '%1$s 의 최대 금액은 0보다 커야 합니다.';
 $lang['AdminCompanyBilling.!error.min_amount'] = '%1$s 의 최소 금액은 0보다 커야 합니다.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = '크레딧 처리 설정이 성공적으로 업데이트되었습니다!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = '반송 주소 이름을 입력하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = '반송 주소 회사를 입력하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = '반송 주소를 입력하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = '반송 주소 도시를 입력하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = '반송 주소 주/도를 선택하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = '반송 주소 우편 번호/우편 번호를 입력하세요.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = '반송 주소 국가를 선택하세요.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = '사용 가능한 태그는 다음과 같습니다: {숫자} - 견적 번호(필수), {연도} - 4자리 연도, {월} - 2자리 월, {일} - 2자리 월의 요일입니다.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = '견적 번호는 이 시작 값에서 시작하여 증가합니다.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = '이후 따옴표 번호는 이 값만큼 증가합니다.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = '사용 제한';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = '사용 제한';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = '회신 봉투';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = '반품 주소';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = '이름';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = '회사';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = '주소 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = '주소 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = '도시';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = '주/시/도';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = '우편번호/우편번호';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = '국가';
 

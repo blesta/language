@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminReportsCustomize.edit.field_submit'] = 'Αποθήκευση';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Προσαρμοσμένη Regex';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Τιμές (διαχωρισμένες με κόμμα)';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Επιλογές';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Δράσεις';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Απαιτούμενο';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Τύπος';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Ετικέτα';
@@ -27,7 +27,7 @@ $lang['AdminReportsCustomize.add.field_submit'] = 'Αποθήκευση';
 $lang['AdminReportsCustomize.add.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Προσαρμοσμένη Regex';
 $lang['AdminReportsCustomize.add.field_values'] = 'Τιμές (διαχωρισμένες με κόμμα)';
-$lang['AdminReportsCustomize.add.table_options'] = 'Επιλογές';
+$lang['AdminReportsCustomize.add.table_options'] = 'Δράσεις';
 $lang['AdminReportsCustomize.add.table_required'] = 'Απαιτούμενο';
 $lang['AdminReportsCustomize.add.table_type'] = 'Τύπος';
 $lang['AdminReportsCustomize.add.table_label'] = 'Ετικέτα';
@@ -42,7 +42,7 @@ $lang['AdminReportsCustomize.index.btn_add_report'] = 'Προσθήκη αναφ
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = 'Σίγουρα θέλετε να διαγράψετε αυτή την αναφορά;';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Διαγραφή';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'Επεξεργασία';
-$lang['AdminReportsCustomize.index.table_options'] = 'Επιλογές';
+$lang['AdminReportsCustomize.index.table_options'] = 'Δράσεις';
 $lang['AdminReportsCustomize.index.table_created'] = 'Ημερομηνία δημιουργίας';
 $lang['AdminReportsCustomize.index.table_name'] = 'Όνομα';
 $lang['AdminReportsCustomize.index.page_title'] = 'Αναφορές χρέωσης';

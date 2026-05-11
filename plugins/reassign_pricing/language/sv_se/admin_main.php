@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Tilldela prissättning på nytt';
 $lang['AdminMain.index.no_results'] = 'Det finns inga tillgängliga tjänster från vilka prissättningen kan omfördelas.';
 $lang['AdminMain.index.text_never'] = 'Aldrig';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_date_renews'] = 'Datum Förnyas';
 $lang['AdminMain.index.heading_date_created'] = 'Skapat datum';
 $lang['AdminMain.index.heading_term'] = 'Term';

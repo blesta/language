@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminNonmerchant.features.confirm'] = 'Далее - Подтвержде�
 $lang['AdminNonmerchant.features.heading_optional_functions'] = 'Дополнительные функции';
 $lang['AdminNonmerchant.fields.features'] = 'Далее - Дополнительные возможности';
 $lang['AdminNonmerchant.fields.text_remove'] = 'Удалить';
-$lang['AdminNonmerchant.fields.text_options'] = 'Опции';
+$lang['AdminNonmerchant.fields.text_options'] = 'Действия';
 $lang['AdminNonmerchant.fields.field_row_add'] = 'Добавить поле конфигурации';
 $lang['AdminNonmerchant.fields.placeholder_label'] = 'Например, поле конфигурации';
 $lang['AdminNonmerchant.fields.placeholder_name'] = 'например, configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminNonmerchant.basic.tooltip_logo'] = 'Логотип, отобража
 $lang['AdminNonmerchant.basic.tooltip_description'] = 'Описание, отображаемое в листинге плагинов';
 $lang['AdminNonmerchant.basic.text_remove'] = 'Удалить';
 $lang['AdminNonmerchant.basic.author_row_add'] = 'Добавить автора';
-$lang['AdminNonmerchant.basic.text_options'] = 'Опции';
+$lang['AdminNonmerchant.basic.text_options'] = 'Действия';
 $lang['AdminNonmerchant.basic.author_url'] = 'Автор URL';
 $lang['AdminNonmerchant.basic.author_name'] = 'Имя автора';
 $lang['AdminNonmerchant.basic.currencies'] = 'Валюты';

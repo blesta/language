@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Lägg till regel';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Skapa regel';
 $lang['AdminTools.blacklistadd.field_note'] = 'Anmärkning';
 $lang['AdminTools.blacklistadd.field_type'] = 'Typ';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regel';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Radera';
 $lang['AdminTools.blacklist.text_system'] = 'System';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-postadress';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP-adress';
-$lang['AdminTools.blacklist.heading_options'] = 'Alternativ';
+$lang['AdminTools.blacklist.heading_options'] = 'Åtgärder';
 $lang['AdminTools.blacklist.heading_note'] = 'Anmärkning';
 $lang['AdminTools.blacklist.heading_list'] = 'Lista';
 $lang['AdminTools.blacklist.heading_type'] = 'Typ';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Förändring Maximalt';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Visa faktura';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Är du säker på att du vill ta bort denna tjänst från förnyelsekön?';
-$lang['AdminTools.renewals.heading_options'] = 'Alternativ';
+$lang['AdminTools.renewals.heading_options'] = 'Åtgärder';
 $lang['AdminTools.renewals.heading_invoice'] = 'Faktura';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maximalt antal försök';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Misslyckade försök';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Uppgradera 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Uppdatera teckenuppsättningen och kollationen för din databas, tabeller och kolumner till utf8mb4 för att stödja 4 byte-tecken som emojis.  Detta kan ta flera minuter.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Uppdatering till utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Uppdatera databas Collation';
-$lang['AdminTools.utilities.heading_options'] = 'Alternativ';
+$lang['AdminTools.utilities.heading_options'] = 'Åtgärder';
 $lang['AdminTools.utilities.heading_description'] = 'Beskrivning';
 $lang['AdminTools.utilities.heading_utility'] = 'Verktyg';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Verktyg';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Det finns för närvarande in
 $lang['AdminTools.renewals.no_results_provision'] = 'Det finns för närvarande inga tjänster som står i kö för provisionering.';
 $lang['AdminTools.!notice.conditions_met'] = 'Försändelserna hamnar i den angivna kön först när alla villkor har uppfyllts och de är redo att prövas.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Tjänsteändringarna har framgångsrikt avbrutits.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blockera utgående';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blockera utgående e-post till den här adressen';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Blockera utgående';
 $lang['AdminTools.renewals.no_results_changes'] = 'Det finns inga serviceändringar som för närvarande står i kö för provisionering.';
 $lang['AdminTools.renewals.option_retry'] = 'Försök igen';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Status';
 $lang['AdminTools.renewals.category_changes'] = 'Förändringar i tjänster';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Obetald förnyelse';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Serviceändringarna har schemalagts framgångsrikt.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Kontrollerade %1$s -filer: %2$s OK, %3$s modifierad, %4$s saknas.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Manifestfilen (manifest.json) hittades inte. Den här filen ingår i officiella utgåvor och krävs för att utföra en integritetskontroll.';
+$lang['AdminTools.integritycheck.text_error'] = 'Ett fel inträffade när filerna kontrollerades.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Alla filer matchar manifestet. Inga ändringar eller saknade filer har upptäckts.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Totalt antal filer';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Leverantör';
+$lang['AdminTools.integritycheck.category_core'] = 'Kärnan';
+$lang['AdminTools.integritycheck.status_missing'] = 'Saknas';
+$lang['AdminTools.integritycheck.status_modified'] = 'Modifierad';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategori';
+$lang['AdminTools.integritycheck.heading_file'] = 'Fil';
+$lang['AdminTools.integritycheck.heading_status'] = 'Status';
+$lang['AdminTools.integritycheck.text_checking'] = 'Kontrollerar filer, vänligen vänta. Detta kan ta en stund...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Kör igen';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Ladda ner rapport';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Kör integritetskontroll';
+$lang['AdminTools.integritycheck.text_description'] = 'Verifiera installerade filer mot det manifest som levererades med den här versionen. Detta kontrollerar filintegriteten genom att jämföra SHA256-hashar och kan hjälpa till att identifiera filer som har ändrats, vilket är användbart vid felsökning och innan du utför uppgraderingar.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Kontroll av systemintegritet';
+$lang['AdminTools.integritycheck.page_title'] = 'Kontroll av systemintegritet';
+$lang['AdminTools.!success.cache_cleared'] = 'Filcachen har rensats framgångsrikt.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Körkontroll';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Verifiera kärnfiler mot det levererade manifestet för att identifiera modifierade eller saknade filer.';
+$lang['AdminTools.utilities.integrity_check'] = 'Kontroll av systemintegritet';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Rensa cachade filer, inklusive navigering, vyer och plugin-cacher. Detta kan orsaka något långsammare sidladdningar tills cacherna har byggts upp igen.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Rensa cacheminnet';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Rensa filcache';
+$lang['AdminTools.getlognames.text_system'] = 'System';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifestversion: %1$s (genererade %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Det finns för närvarande inga tjänster som står i kö för förnyelse efter betalning.';
+$lang['AdminTools.logsystem.page_title'] = 'Verktyg Loggar';
+$lang['AdminTools.logsystem.text_date'] = 'Datum';
+$lang['AdminTools.logsystem.text_level'] = 'Nivå';
+$lang['AdminTools.logsystem.text_message'] = 'Meddelande';
+$lang['AdminTools.logsystem.no_results'] = 'Det finns inga poster i systemloggen.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Loggkatalogen är inte konfigurerad eller är inte läsbar. Konfigurera den under Inställningar &gt; System &gt; Allmänt.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Nödläge';
+$lang['AdminTools.logsystem.level_alert'] = 'Varning';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritisk';
+$lang['AdminTools.logsystem.level_error'] = 'Fel';
+$lang['AdminTools.logsystem.level_warning'] = 'Varning';
+$lang['AdminTools.logsystem.level_notice'] = 'Meddelande';
+$lang['AdminTools.logsystem.level_info'] = 'Information';
+$lang['AdminTools.logsystem.level_debug'] = 'Felsökning';
 

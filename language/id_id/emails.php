@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Tanda tangan email tersebut 
 $lang['Emails.!error.text.parse'] = 'Kesalahan penguraian templat: %1$s';
 $lang['Emails.!error.html.parse'] = 'Kesalahan penguraian templat: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Snapshot bukan milik email yang ditentukan.';
+$lang['Emails.!error.snapshot_id.exists'] = 'ID snapshot tidak valid.';
 

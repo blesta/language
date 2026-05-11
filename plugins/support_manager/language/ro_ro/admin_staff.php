@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'În prezent, nu există personal alocat 
 $lang['AdminStaff.index.confirm_delete'] = 'Ștergerea acestui membru al personalului va anula alocarea tuturor biletelor alocate în prezent acestui membru al personalului. Sunteți sigur că doriți să ștergeți acest membru al personalului?';
 $lang['AdminStaff.index.option_delete'] = 'Ștergeți';
 $lang['AdminStaff.index.option_edit'] = 'Editați';
-$lang['AdminStaff.index.heading_options'] = 'Opțiuni';
+$lang['AdminStaff.index.heading_options'] = 'Acțiuni';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Primiți notificări Ticket Messenger';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Primiți e-mailuri cu bilete mobile';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Primiți e-mailuri cu bilete';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Essa assinatura de correio e
 $lang['Emails.!error.text.parse'] = 'Erro de análise do modelo: %1$s';
 $lang['Emails.!error.html.parse'] = 'Erro de análise do modelo: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'ID de empresa inválido.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'O instantâneo não pertence ao correio eletrónico especificado.';
+$lang['Emails.!error.snapshot_id.exists'] = 'ID de instantâneo inválido.';
 

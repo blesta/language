@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Пов
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Надіслати сповіщення BCC електронною поштою';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Список контролю доступу';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Генерал';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Група редагування';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Група оновлення';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Вихід при зміні IP-адреси';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Компанія';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Ім\'я';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Ви впевнені, що хочете видалити цю групу співробітників?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Редагувати';
 $lang['AdminSystemStaff.groups.no_results'] = 'У нас немає штатних груп.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Параметри';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Дії';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Кількість персоналу';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Назва компанії';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Ім\'я';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Створити групу';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Групи персоналу';
 $lang['AdminSystemStaff.groups.page_title'] = 'Налаштування > Система > Персонал > Групи персоналу';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Редакторський склад';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Оновити персонал';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Доступні групи';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Групи учасників';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Двофакторний штифт';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Редагувати';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Дійсно відновити цього співробітника?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Дійсно деактивувати цього співробітника?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Співробітників з таким статусом немає.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Параметри';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Дії';
 $lang['AdminSystemStaff.manage.heading_email'] = 'Електронна пошта';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Ім\'я';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Додати співробітників';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'Групу співробі�
 $lang['AdminSystemStaff.!success.group_added'] = 'Група співробітників "%1$s" успішно створена!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Цей співробітник успішно оновлений!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Цей співробітник успішно доданий!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Сповіщення';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Сповіщення';
 

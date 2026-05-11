@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Retorno de chamada';
 $lang['AdminMain.edit.field_event'] = 'Evento';
 $lang['AdminMain.edit.field_callback'] = 'Retorno de chamada';
 $lang['AdminMain.edit.option_delete'] = 'Excluir';
-$lang['AdminMain.edit.heading_options'] = 'Opções';
+$lang['AdminMain.edit.heading_options'] = 'Ações';
 $lang['AdminMain.edit.heading_parameter'] = 'Novo campo';
 $lang['AdminMain.edit.heading_field'] = 'Campo original';
 $lang['AdminMain.edit.heading_fields_map'] = 'Mapa dos campos';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Retorno de chamada';
 $lang['AdminMain.add.field_event'] = 'Evento';
 $lang['AdminMain.add.field_callback'] = 'Retorno de chamada';
 $lang['AdminMain.add.option_delete'] = 'Excluir';
-$lang['AdminMain.add.heading_options'] = 'Opções';
+$lang['AdminMain.add.heading_options'] = 'Ações';
 $lang['AdminMain.add.heading_parameter'] = 'Novo campo';
 $lang['AdminMain.add.heading_field'] = 'Campo original';
 $lang['AdminMain.add.heading_fields_map'] = 'Mapa dos campos';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Recebe uma solicitação H
 $lang['AdminMain.index.text_description_outgoing'] = 'Envia uma solicitação HTTP para um URL quando um evento é acionado. A solicitação pode ser enviada usando GET, POST, PUT ou JSON.';
 $lang['AdminMain.index.option_delete'] = 'Excluir';
 $lang['AdminMain.index.option_edit'] = 'Editar';
-$lang['AdminMain.index.heading_options'] = 'Opções';
+$lang['AdminMain.index.heading_options'] = 'Ações';
 $lang['AdminMain.index.heading_method'] = 'Método';
 $lang['AdminMain.index.heading_event'] = 'Evento';
 $lang['AdminMain.index.heading_callback'] = 'Retorno de chamada';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Status do HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Evento';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Todos os webhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Opções';
+$lang['AdminMain.logs.heading_options'] = 'Ações';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Última tentativa';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Data de acionamento';
 $lang['AdminMain.logs.heading_http_response'] = 'Resposta HTTP';

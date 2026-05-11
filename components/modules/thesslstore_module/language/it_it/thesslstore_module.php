@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Inserire il cod
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Inserire il nome del rivenditore';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Le credenziali esistono già';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Qualcosa è andato storto nella chiamata API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Non sono stati restituiti prodotti dall\'API. Controllare le credenziali API e riprovare.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = 'Il margine % si applica al prezzo di tutti i prodotti. È possibile modificarlo in seguito dal menu di impostazione dei prezzi.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Modifica dell\'e-mail di approvazione';
 

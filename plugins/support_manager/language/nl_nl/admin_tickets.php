@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,8 +57,8 @@ $lang['AdminTickets.reply.heading_client'] = 'Klant';
 $lang['AdminTickets.reply.heading_summary'] = 'Samenvatting';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Ticket #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Bestand verwijderen';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
-$lang['AdminTickets.add.text_add_response'] = 'Een vooraf gedefinieerde reactie invoegen';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Drop bestanden hier om te uploaden of klik om bestanden te selecteren';
+$lang['AdminTickets.add.text_add_response'] = 'Vooraf gedefinieerde reactie invoegen';
 $lang['Admintickets.add.client_placeholder'] = 'Klant-ID of naam';
 $lang['AdminTickets.add.field_addsubmit'] = 'Open Ticket';
 $lang['AdminTickets.add.text_add_attachment'] = 'Bijlage toevoegen';
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'Vuilnis';
 $lang['AdminTickets.index.category_closed'] = 'Gesloten';
 $lang['AdminTickets.index.category_on_hold'] = 'In de wacht';
 $lang['AdminTickets.index.category_in_progress'] = 'In uitvoering';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'In afwachting van antwoord van klant';
-$lang['AdminTickets.index.category_open'] = 'In afwachting van antwoord';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'In afwachting van klant';
+$lang['AdminTickets.index.category_open'] = 'In afwachting van personeel';
 $lang['AdminTickets.text.unassigned'] = 'Niet toegewezen';
 $lang['AdminTickets.search.page_title'] = 'Zoekresultaten voor "%1$s';
 $lang['AdminTickets.reply.page_title'] = 'Support Manager > Ticket #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Er zijn geen extra contactpersonen
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailadres om op de hoogte te worden gebracht wanneer een ticket wordt bijgewerkt.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Contactpersonen die op de hoogte willen worden gebracht wanneer een ticket wordt bijgewerkt. Degenen die niet zijn geselecteerd, worden automatisch toegevoegd aan het ticket als ze erop reageren.';
 $lang['AdminTickets.reply.text_domain'] = 'Domein';
-$lang['AdminTickets.reply.heading_rating'] = 'Beoordeling';
+$lang['AdminTickets.reply.heading_rating'] = 'Klantenbeoordeling';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Beoordeling Commentaar';
 $lang['AdminTickets.index.heading_rating'] = 'Beoordeling';
+$lang['AdminTickets.index.text_fullscreen'] = 'Toggle Volledig scherm';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Volledig scherm afsluiten';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Voer ticketnummer in';
+$lang['AdminTickets.index.placeholder_summary'] = 'Samenvatting zoeken';
+$lang['AdminTickets.index.heading_filters'] = 'Filters';
+$lang['AdminTickets.index.field_apply_filters'] = 'Filters toepassen';
+$lang['AdminTickets.index.field_clear_filters'] = 'Filters wissen';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Contactpersonen en ontvangers';
+$lang['AdminTickets.add.search_responses'] = 'Reacties zoeken...';
+$lang['AdminTickets.add.no_results'] = 'Geen overeenkomende reacties gevonden';
+$lang['AdminTickets.add.searching'] = 'Zoeken...';
+$lang['AdminTickets.add.search_min_chars'] = 'Voer minstens 2 tekens in om te zoeken';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Details ticket';
+$lang['AdminTickets.add.login_as_client'] = 'Inloggen als klant';
+$lang['AdminTickets.add.markdown_supported'] = 'Markdown ondersteund';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Drop bestanden hier om te uploaden of klik om bestanden te selecteren';
+$lang['AdminTickets.add.browse_files'] = 'Bladeren door bestanden';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Aangepast';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Contactpersonen en ontvangers';
+$lang['AdminTickets.reply.text_date_rated'] = 'Gewaardeerd: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Op %1$s %2$s %3$s heeft een opmerking toegevoegd';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Details ticket';
+$lang['AdminTickets.reply.login_as_client'] = 'Inloggen als klant';
+$lang['AdminTickets.reply.search_responses'] = 'Reacties zoeken...';
+$lang['AdminTickets.reply.no_results'] = 'Geen overeenkomende reacties gevonden';
+$lang['AdminTickets.reply.searching'] = 'Zoeken...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Voer minstens 2 tekens in om te zoeken';
+$lang['AdminTickets.reply.markdown_supported'] = 'Markdown ondersteund';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Interne notities zijn alleen zichtbaar voor medewerkers';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
+$lang['AdminTickets.reply.browse_files'] = 'Bladeren door bestanden';
+$lang['AdminTickets.reply.btn_cancel'] = 'Annuleren';
+$lang['AdminTickets.reply.client_title'] = 'Klant';
+$lang['AdminTickets.reply.note_label'] = 'Personeelsnotitie';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'AI-respons genereren';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Klaar voor AI-respons';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenereer';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Regenereer AI-respons';
+$lang['AdminTickets.reply.text_generating'] = 'Het genereren van...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenereren...';
+$lang['AdminTickets.reply.text_just_now'] = 'Zojuist';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sgeleden';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh geleden';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd geleden';
+$lang['AdminTickets.reply.modal_title'] = 'AI-gegenereerde respons';
+$lang['AdminTickets.reply.label_confidence'] = 'Vertrouwen';
+$lang['AdminTickets.reply.label_generated'] = 'Gegenereerd';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'Herziening vereist';
+$lang['AdminTickets.reply.alert_review_text'] = 'Dit antwoord is automatisch gegenereerd door AI. Lees het zorgvuldig door voordat u het verstuurt, zodat u zeker weet dat het correct is en de juiste toon aanslaat.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Interne opmerkingen';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Voorgestelde reactie';
+$lang['AdminTickets.reply.label_concerns'] = 'Betreft';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Geen antwoord voorgesteld. Zie interne opmerkingen voor de redenering.';
+$lang['AdminTickets.reply.button_cancel'] = 'Annuleren';
+$lang['AdminTickets.reply.button_use_response'] = 'Gebruik deze reactie';
+$lang['AdminTickets.reply.button_reject'] = 'Weiger';
+$lang['AdminTickets.reply.button_summarize'] = 'Samenvatten';
+$lang['AdminTickets.reply.text_ai_summary'] = 'AI Samenvatting';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Ongeldig ticket-ID';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'AI-functies zijn niet ingeschakeld voor Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'AI-respons is niet gegenereerd';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Ongeldige analyse-ID';
+$lang['AdminTickets.!error.reply_not_found'] = 'Het opgegeven antwoord kon niet worden gevonden.';
+$lang['AdminTickets.!error.summary_failed'] = 'Geen samenvatting gemaakt.';
 

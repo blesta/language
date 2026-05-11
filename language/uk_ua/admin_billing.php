@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Друк';
 $lang['AdminBilling.printqueue.page_title'] = 'Черга на друк рахунків';
 $lang['AdminBilling.invoices.text_edit'] = 'Редагувати';
 $lang['AdminBilling.invoices.applied_no_results'] = 'До цього інвойсу не застосовано жодних транзакцій.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Параметри';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Дії';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Нанесено на';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Застосовано';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Сума';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Помилка.';
 $lang['AdminBilling.transactions.category_voided'] = 'Анульовано';
 $lang['AdminBilling.transactions.category_declined'] = 'Відхилено';
 $lang['AdminBilling.transactions.category_approved'] = 'Затверджено';
-$lang['AdminBilling.transactions.heading_options'] = 'Параметри';
+$lang['AdminBilling.transactions.heading_options'] = 'Дії';
 $lang['AdminBilling.transactions.heading_date'] = 'Дата';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Посилання #';
 $lang['AdminBilling.transactions.heading_number'] = 'Номер';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Транзакції
 $lang['AdminBilling.transactions.page_title'] = 'Білінгові операції';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Причина скасування: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Ця послуга не має реквізитів.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Надіслати';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Подати заявку';
 $lang['AdminBilling.services.action.field_client'] = 'Клієнт:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push до клієнта';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Не скасовувати';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Активний';
 $lang['AdminBilling.services.confirm_delete'] = 'Ви впевнені, що хочете видалити цю послугу?';
 $lang['AdminBilling.services.option_delete'] = 'Видалити';
 $lang['AdminBilling.services.option_manage'] = 'Керувати';
-$lang['AdminBilling.services.heading_options'] = 'Параметри';
+$lang['AdminBilling.services.heading_options'] = 'Дії';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Дата скасована';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Дата призупинена';
 $lang['AdminBilling.services.heading_daterenews'] = 'Поновлення дати';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Послуги';
 $lang['AdminBilling.services.page_title'] = 'Білінгові послуги';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'З цією ціною не пов\'язано жодних рахунків-фактур.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Вигляд';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Параметри';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Дії';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Дата виставлення рахунку';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Оплачено';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Сума';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Затвердити';
 $lang['AdminBilling.quotations.option_invoice'] = 'Створити рахунок-фактуру';
 $lang['AdminBilling.quotations.option_view'] = 'Вигляд';
 $lang['AdminBilling.quotations.option_edit'] = 'Редагувати';
-$lang['AdminBilling.quotations.heading_options'] = 'Параметри';
+$lang['AdminBilling.quotations.heading_options'] = 'Дії';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Термін придатності';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Дата створення';
 $lang['AdminBilling.quotations.heading_total'] = 'Сума';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Відчинено';
 $lang['AdminBilling.invoices.heading_count'] = 'Граф.';
 $lang['AdminBilling.invoices.heading_duration'] = 'Тривалість';
 $lang['AdminBilling.invoices.heading_term'] = 'Термін';
-$lang['AdminBilling.invoices.heading_options'] = 'Параметри';
+$lang['AdminBilling.invoices.heading_options'] = 'Дії';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Дата сплати';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Дата виставлення рахунку';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Дата закрита';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Відібрані сер
 $lang['AdminBilling.!success.services_suspended'] = 'Вибрані сервіси були успішно призупинені.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Ця послуга очікує на зміни.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Дата оплачена: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'вибрані елементи';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'вибрано елемент';
+$lang['AdminBilling.transactions.option_view'] = 'Вигляд';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Дії';
+$lang['AdminBilling.services.text_items_selected'] = 'вибрані елементи';
+$lang['AdminBilling.services.text_item_selected'] = 'вибрано елемент';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Застосувати фільтри';
+$lang['AdminBilling.services.field_filterclear'] = 'Чисто';
+$lang['AdminBilling.services.filter_toggle'] = 'Перемикання фільтрів';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Застосувати фільтри';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Чисто';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Перемикання фільтрів';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Натисніть на віджети, щоб показати або приховати їх на інформаційній панелі.';
 

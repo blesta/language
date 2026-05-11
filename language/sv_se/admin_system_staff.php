@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Meddel
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'E-post BCC-meddelanden';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Åtkomstkontrollista';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Allmänt';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Redigera grupp';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Uppdatera gruppen';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Logga ut vid ändring av IP-adress';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Företag';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Namn';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Är du säker på att du vill ta bort denna personalgrupp?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Redigera';
 $lang['AdminSystemStaff.groups.no_results'] = 'Det finns inga personalgrupper.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Alternativ';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Åtgärder';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Antal anställda';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Företagets namn';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Namn';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Skapa grupp';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Personalgrupper';
 $lang['AdminSystemStaff.groups.page_title'] = 'Inställningar > System > Personal > Personalgrupper';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Redigera personal';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Uppdatering personal';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Tillgängliga grupper';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Grupper av medlemmar';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Tvåfaktor Pin';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Redigera';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Ska jag verkligen återaktivera den här medarbetaren?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Ska jag verkligen avaktivera den här medarbetaren?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Det finns inga anställda med denna status.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Alternativ';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Åtgärder';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-post';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Namn';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Lägg till personal';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'Personalgruppen, "%1$s", har
 $lang['AdminSystemStaff.!success.group_added'] = 'Personalgruppen "%1$s" har framgångsrikt skapats!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Denna medarbetare har uppdaterats framgångsrikt!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Denna medarbetare har framgångsrikt lagts till!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Meddelanden';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Meddelanden';
 

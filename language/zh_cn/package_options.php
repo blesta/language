@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = '请输入标签。';
 $lang['PackageOptions.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = '是否在发票上隐藏必须设置为 0 或 1。';
 $lang['PackageOptions.!error.disable_pricing.valid'] = '是否禁用定价必须设置为 0 或 1。';
+$lang['PackageOptions.!error.type.in_use'] = '由于服务正在使用一个或多个未包含在提交中的选项值，因此无法更改类型。';
 

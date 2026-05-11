@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = 'Kategorie byla úspěš
 $lang['AdminKnowledgebase.!success.category_added'] = 'Kategorie byla úspěšně vytvořena.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Aktualizace všech podkategorií a jejich článků';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Aktualizujte všechny články v této kategorii tak, aby měly stejnou přístupnost.';
+$lang['AdminKnowledgebase.index.view'] = 'Zobrazit';
 

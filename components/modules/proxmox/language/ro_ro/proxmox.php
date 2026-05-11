@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Următorul VMID (nu modificați decât dacă e
 $lang['Proxmox.row_meta.port'] = 'Numărul portului SSL';
 $lang['Proxmox.row_meta.host'] = 'Nume gazdă';
 $lang['Proxmox.row_meta.password'] = 'Parola';
-$lang['Proxmox.row_meta.user'] = 'Utilizator';
+$lang['Proxmox.row_meta.user'] = 'Utilizator (cu @pam sau @pve după numele de utilizator)';
 $lang['Proxmox.row_meta.server_name'] = 'Eticheta serverului';
 $lang['Proxmox.order_options.first'] = 'Primul server care nu este complet';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Nu există grupuri de servere.';
@@ -131,7 +131,7 @@ $lang['Proxmox.module_row_plural'] = 'Servere';
 $lang['Proxmox.module_row'] = 'Proxmox Master Server';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment este un mediu de virtualizare a serverelor cu sursă deschisă. Este o distribuție Linux bazată pe Debian cu un kernel Ubuntu LTS modificat și permite implementarea și gestionarea mașinilor virtuale și a containerelor.';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s zile, %2$s ore, %1$s minute';
+$lang['Proxmox.!uptime.value'] = '%1$s zile, %2$s ore, %3$s minute';
 $lang['Proxmox.!actions.boot'] = 'Cizmă';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Vă rugăm să selectați --';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Demontați ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Montaj ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Oprire';
 $lang['Proxmox.name'] = 'Proxmox';
+$lang['Proxmox.back_to_manage'] = 'Înapoi';
+$lang['Proxmox.manage.tab_rows'] = 'Servere';
+$lang['Proxmox.manage.tab_groups'] = 'Grupuri de servere';
+$lang['Proxmox.tab_isomanager'] = 'Manager ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Reinstalați';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Reinstalați';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Parolă rădăcină';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Șablon';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Reinstalați';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Manager ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Imagine';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Munte';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Demontați ISO';
 

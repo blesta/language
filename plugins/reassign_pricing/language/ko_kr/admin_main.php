@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,7 +29,7 @@ $lang['AdminMain.service.term_onetime'] = '한 번 - %3$s';
 $lang['AdminMain.index.option_service'] = '가격 재할당';
 $lang['AdminMain.index.no_results'] = '가격을 재할당할 수 있는 서비스가 없습니다.';
 $lang['AdminMain.index.text_never'] = '절대로';
-$lang['AdminMain.index.heading_options'] = '옵션';
+$lang['AdminMain.index.heading_options'] = '작업';
 $lang['AdminMain.index.heading_date_renews'] = '날짜 갱신';
 $lang['AdminMain.index.heading_date_created'] = '생성된 날짜';
 $lang['AdminMain.index.heading_term'] = '기간';

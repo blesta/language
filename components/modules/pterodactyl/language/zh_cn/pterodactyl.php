@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.module_row_plural'] = '服务器';
 $lang['Pterodactyl.module_row'] = '服务器';
 $lang['Pterodactyl.description'] = '通过翼龙面板提供和管理游戏服务器。';
 $lang['Pterodactyl.name'] = 'Pterodactyl';
+$lang['Pterodactyl.back_to_manage'] = '返回';
+$lang['Pterodactyl.manage.tab_rows'] = '服务器';
+$lang['Pterodactyl.manage.tab_groups'] = '服务器组';
 

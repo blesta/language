@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.module_row_plural'] = 'Servers';
 $lang['Vesta.module_row'] = 'Server';
 $lang['Vesta.description'] = 'Vesta, of VestaCP, is een open-source webcontrolepaneel dat wordt beschouwd als een geweldig alternatief voor cPanel. Niet alleen komen de beveiliging en regelmatige updates in kwaliteit overeen met die van cPanel, het is ook nog eens helemaal gratis.';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.back_to_manage'] = 'Terug';
+$lang['Vesta.manage.tab_rows'] = 'Servers';
+$lang['Vesta.manage.tab_groups'] = 'Servergroepen';
 

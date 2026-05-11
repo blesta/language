@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.!error.meta[listeners].empty'] = 'Introduzca el límite de oyent
 $lang['Whmsonic.!error.meta[autodj].valid'] = 'Seleccione una opción válida de AutoDJ Access.';
 $lang['Whmsonic.!error.user_name.empty'] = 'El nombre de usuario no puede estar vacío.';
 $lang['Whmsonic.!error.user_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
+$lang['Whmsonic.back_to_manage'] = 'Volver';
+$lang['Whmsonic.manage.tab_rows'] = 'Servidores';
+$lang['Whmsonic.manage.tab_groups'] = 'Grupos de servidores';
 

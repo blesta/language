@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['AdminBilling.invoices.heading_due'] = 'På grund af';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Dato Lukket';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Dato for fakturering';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Dato forfalden';
-$lang['AdminBilling.invoices.heading_options'] = 'Valgmuligheder';
+$lang['AdminBilling.invoices.heading_options'] = 'Handlinger';
 $lang['AdminBilling.invoices.heading_term'] = 'Betegnelse';
 $lang['AdminBilling.invoices.heading_duration'] = 'Varighed';
 $lang['AdminBilling.invoices.heading_count'] = 'Tæl';
@@ -76,7 +76,7 @@ $lang['AdminBilling.quotations.heading_subtotal'] = 'Subtotal';
 $lang['AdminBilling.quotations.heading_total'] = 'Beløb';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Dato for oprettelse';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Udløbsdato';
-$lang['AdminBilling.quotations.heading_options'] = 'Valgmuligheder';
+$lang['AdminBilling.quotations.heading_options'] = 'Handlinger';
 $lang['AdminBilling.quotations.option_edit'] = 'Rediger';
 $lang['AdminBilling.quotations.option_view'] = 'Se';
 $lang['AdminBilling.quotations.option_invoice'] = 'Opret faktura';
@@ -87,7 +87,7 @@ $lang['AdminBilling.quotationinvoices.headingexpand_invoice'] = 'Faktura #';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Beløb';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Betalt';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Dato for fakturering';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Valgmuligheder';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Handlinger';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Se';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Der er ingen fakturaer knyttet til dette tilbud.';
 $lang['AdminBilling.services.page_title'] = 'Faktureringstjenester';
@@ -100,7 +100,7 @@ $lang['AdminBilling.services.heading_dateadded'] = 'Dato tilføjet';
 $lang['AdminBilling.services.heading_daterenews'] = 'Dato Fornyer';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Dato Suspenderet';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Dato Annulleret';
-$lang['AdminBilling.services.heading_options'] = 'Valgmuligheder';
+$lang['AdminBilling.services.heading_options'] = 'Handlinger';
 $lang['AdminBilling.services.option_manage'] = 'Administrer';
 $lang['AdminBilling.services.option_delete'] = 'Slet';
 $lang['AdminBilling.services.confirm_delete'] = 'Er du sikker på, at du vil slette denne tjeneste?';
@@ -119,7 +119,7 @@ $lang['AdminBilling.services.action.field_action_type_date'] = 'Specifik dato';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Aflys ikke';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push til klient';
 $lang['AdminBilling.services.action.field_client'] = 'Kunde:';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Indsend';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Ansøg';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Denne tjeneste har ingen detaljer.';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Årsag til aflysning: %1$s';
 $lang['AdminBilling.transactions.page_title'] = 'Faktureringstransaktioner';
@@ -132,7 +132,7 @@ $lang['AdminBilling.transactions.heading_applied'] = 'Anvendt';
 $lang['AdminBilling.transactions.heading_number'] = 'Antal';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Reference #';
 $lang['AdminBilling.transactions.heading_date'] = 'Dato';
-$lang['AdminBilling.transactions.heading_options'] = 'Valgmuligheder';
+$lang['AdminBilling.transactions.heading_options'] = 'Handlinger';
 $lang['AdminBilling.transactions.category_approved'] = 'Godkendt';
 $lang['AdminBilling.transactions.category_declined'] = 'Afvist';
 $lang['AdminBilling.transactions.category_voided'] = 'Annulleret';
@@ -150,7 +150,7 @@ $lang['AdminBilling.invoices.headingexpand_paymenttype'] = 'Betalingstype';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Beløb';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Anvendt';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Anvendt på';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Valgmuligheder';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Handlinger';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Denne faktura har ingen transaktioner.';
 $lang['AdminBilling.invoices.text_edit'] = 'Rediger';
 $lang['AdminBilling.printqueue.page_title'] = 'Kø til fakturaudskrivning';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'De valgte tjenester blev 
 $lang['AdminBilling.!success.services_suspended'] = 'De valgte tjenester blev suspenderet med succes.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Denne tjeneste har afventende ændringer.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Dato for udbetaling: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'valgte emner';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'element valgt';
+$lang['AdminBilling.transactions.option_view'] = 'Udsigt';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Handlinger';
+$lang['AdminBilling.services.text_items_selected'] = 'valgte emner';
+$lang['AdminBilling.services.text_item_selected'] = 'element valgt';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Anvend filtre';
+$lang['AdminBilling.services.field_filterclear'] = 'Klar';
+$lang['AdminBilling.services.filter_toggle'] = 'Skift mellem filtre';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Anvend filtre';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Klar';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Skift mellem filtre';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik på widgets for at vise eller skjule dem fra dit dashboard.';
 

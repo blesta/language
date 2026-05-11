@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = '구성 파일(%1$s
 $lang['SystemRequirements.!error.extension_version.minimum'] = '확장명 \'%1$s\'가 필요합니다. 사용자 버전: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = '확장자 \'%1$s\'가 필요합니다.';
 $lang['SystemRequirements.!error.php.minimum'] = 'PHP 버전 %1$s 이상이 필요합니다. 사용 중인 버전: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL 버전 5.7.7 또는 MariaDB 버전 10.2.2 이상이 필요합니다. 사용 중인 버전: %1$s.';
 

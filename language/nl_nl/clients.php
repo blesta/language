@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Ongeldig klantgroep-ID.';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Het maximale kredietbedrag voor %1$s moet groter zijn dan het minimumbedrag.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Het maximale kredietbedrag voor %1$s moet groter zijn dan 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Het minimale kredietbedrag voor %1$s moet groter zijn dan 0.';
+$lang['Clients.!error.action[].exists'] = 'Ongeldige meldingsactie.';
+$lang['Clients.!error.action.exists'] = 'Ongeldige meldingsactie "%1$s".';
 

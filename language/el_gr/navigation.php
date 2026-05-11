@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -117,7 +117,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Τιμολόγηση';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Αναζήτηση πελατών';
 $lang['Navigation.getprimary.nav_clients'] = 'Πελάτες';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Ταμπλό';
-$lang['Navigation.getprimary.nav_home'] = 'Αρχική σελίδα';
+$lang['Navigation.getprimary.nav_home'] = 'Ταμπλό';
 $lang['Navigation.!error.parent_id.valid'] = 'Μη έγκυρο αναγνωριστικό στοιχείου πλοήγησης γονέα';
 $lang['Navigation.!error.order.valid'] = 'Ο δείκτης παραγγελίας πρέπει να είναι αριθμητική τιμή';
 $lang['Navigation.!error.action_id.valid'] = 'Μη έγκυρο αναγνωριστικό δράσης';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Ουρά εξυπηρέ
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Αλλαγές υπηρεσιών';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Ηλεκτρονικά τιμολόγια';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Χειρισμός πιστώσεων';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

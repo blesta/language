@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'الحسابات';
 $lang['Enom.module_row'] = 'الحساب';
 $lang['Enom.description'] = 'هي شركة لتسجيل أسماء النطاقات واستضافة المواقع الإلكترونية، وتبيع أيضًا منتجات أخرى مرتبطة ارتباطًا وثيقًا بأسماء النطاقات، مثل شهادات SSL، وخدمات البريد الإلكتروني، وبرامج إنشاء المواقع الإلكترونية.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'رجوع';
 

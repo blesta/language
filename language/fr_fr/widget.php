@@ -4,11 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Soumettre';
+$lang['Widget.submit'] = 'Appliquer les filtres';
 $lang['Widget.toggle_filters'] = 'Filtres à bascule';
+$lang['Widget.clear'] = 'Clair';
+$lang['Widget.resize_widget'] = 'Redimensionner le widget';
 

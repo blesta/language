@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Ange ett namn på åtgärden.';
 $lang['Actions.!error.url.empty'] = 'Vänligen ange en URL.';
 $lang['Actions.!error.location.unique'] = 'Plats och URL måste vara unika för detta företag.';
 $lang['Actions.!error.location.valid'] = 'Giltig plats ogiltig.';
+$lang['Actions.!error.icon.length'] = 'Ikonklassen får inte överstiga 255 tecken.';
 

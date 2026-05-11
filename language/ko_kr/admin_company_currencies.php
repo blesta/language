@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = '이 통화를 업데이트하시겠습니까? 시스템에서 환율이 자동으로 업데이트되면 이 통화의 환율을 덮어쓰게 됩니다. 설정] > [회사] > [통화] > [통화 설정]에서 자동 업데이트를 비활성화할 수 있습니다.';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = '통화 편집';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = '통화 업데이트';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = '환율';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = '접미사 기호';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = '접두사 기호';

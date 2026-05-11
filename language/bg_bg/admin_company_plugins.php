@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Плъгинът беше ус�
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Плъгинът беше успешно обновен.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Плъгинът беше успешно деинсталиран.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Плъгинът беше успешно инсталиран. Възможно е тя да е регистрирала ACL разрешения за различни ресурси. Може да се наложи да предоставите на групата си от служители достъп до тези разрешения, за да имате достъп до тези ресурси.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Филтърни плъгини...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Не са намерени подходящи плъгини.';
 

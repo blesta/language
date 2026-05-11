@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.!error.apnscp_username.length'] = 'Brugernavnet skal være mellem 
 $lang['Apnscp.!error.apnscp_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Apnscp.name'] = 'ApisCP';
 $lang['Apnscp.!error.apnscp_password.matches'] = 'Password og Confirm Password stemmer ikke overens.';
+$lang['Apnscp.back_to_manage'] = 'Tilbage';
+$lang['Apnscp.manage.tab_rows'] = 'Servere';
+$lang['Apnscp.manage.tab_groups'] = 'Servergrupper';
 

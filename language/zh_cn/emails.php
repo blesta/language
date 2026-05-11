@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = '该电子邮件签名目前�
 $lang['Emails.!error.text.parse'] = '模板解析错误：%1$s';
 $lang['Emails.!error.html.parse'] = '模板解析错误：%1$s';
 $lang['Emails.!error.company_id.exists'] = '公司 ID 无效。';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = '快照不属于指定的电子邮件。';
+$lang['Emails.!error.snapshot_id.exists'] = '快照 ID 无效。';
 

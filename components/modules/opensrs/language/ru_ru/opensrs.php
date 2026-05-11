@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Счета';
 $lang['Opensrs.module_row'] = 'Счет';
 $lang['Opensrs.description'] = 'OpenSRS - это оптовый регистратор доменов, предлагающий премиальную платформу с белой этикеткой, которая соединяет партнеров-реселлеров с необходимыми им решениями.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Назад';
 

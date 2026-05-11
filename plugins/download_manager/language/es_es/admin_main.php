@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.files.tab_files'] = 'Archivos';
 $lang['AdminMain.files.tab_urls'] = 'URL estáticas';
 $lang['AdminMain.files.add_download'] = 'Añadir descarga aquí';
 $lang['AdminMain.files.add_category'] = 'Añadir categoría';
-$lang['AdminMain.files.go_back'] = 'Subir un nivel';
+$lang['AdminMain.files.go_back'] = 'Volver';
 $lang['AdminMain.files.edit'] = 'Editar';
 $lang['AdminMain.files.delete'] = 'Borrar';
 $lang['AdminMain.files.no_downloads'] = 'No hay descargas en esta sección.';
@@ -45,7 +45,7 @@ $lang['AdminMain.urls.tab_urls'] = 'URL estáticas';
 $lang['AdminMain.urls.heading_url'] = 'URL';
 $lang['AdminMain.urls.heading_file'] = 'Archivo';
 $lang['AdminMain.urls.heading_link'] = 'Enlace';
-$lang['AdminMain.urls.heading_options'] = 'Opciones';
+$lang['AdminMain.urls.heading_options'] = 'Acciones';
 $lang['AdminMain.urls.edit'] = 'Editar';
 $lang['AdminMain.urls.delete'] = 'Borrar';
 $lang['AdminMain.urls.latest_file'] = 'Último archivo de <strong>%1$s</strong>';
@@ -113,6 +113,19 @@ $lang['AdminMain.editcategory.field_description'] = 'Descripción';
 $lang['AdminMain.editcategory.submit_edit'] = 'Categoría de actualización';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Cancelar';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
-$lang['AdminMain.edit.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Archivos';
+$lang['AdminMain.sidebar.urls'] = 'URL estáticas';
+$lang['AdminMain.!performance.xsendfile'] = 'El mod_http2 de Apache está habilitado, pero el mod_xsendfile no. Recomendamos activar o instalar mod_xsendfile para obtener un mejor rendimiento y descargas más rápidas.';
+$lang['AdminMain.modal.confirm_delete'] = 'Confirmar Borrar';
+$lang['AdminMain.modal.delete'] = 'Borrar';
+$lang['AdminMain.modal.cancel'] = 'Cancelar';
+$lang['AdminMain.modal.save'] = 'Guardar';
+$lang['AdminMain.add.public'] = 'Disponible públicamente';
+$lang['AdminMain.add.logged_in'] = 'Debe estar conectado';
+$lang['AdminMain.add.text_fileinfo'] = 'NOTA: Los archivos deben estar ubicados en algún lugar dentro de su directorio de subidas.';
+$lang['AdminMain.add.field_file_type'] = 'Fuente del archivo';
+$lang['AdminMain.add.upload'] = 'Cargar archivo';
+$lang['AdminMain.add.path'] = 'Especifique la ruta al archivo';
 

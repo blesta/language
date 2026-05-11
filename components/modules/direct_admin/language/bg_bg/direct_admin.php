@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.host_name.format'] = 'Изглежда, че имет�
 $lang['DirectAdmin.!error.server_name.empty'] = 'Трябва да въведете Етикет на сървъра.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.row_meta.http_version'] = 'Версия на HTTP';
+$lang['DirectAdmin.back_to_manage'] = 'Обратно';
+$lang['DirectAdmin.manage.tab_rows'] = 'Сървъри';
+$lang['DirectAdmin.manage.tab_groups'] = 'Групи сървъри';
 

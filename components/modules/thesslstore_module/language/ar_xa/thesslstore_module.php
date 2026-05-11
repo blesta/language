@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'الرجاء إ
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'الرجاء إدخال اسم الموزع';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'أوراق الاعتماد موجودة بالفعل';
 $lang['ThesslstoreModule.!error.api.internal'] = 'حدث خطأ ما في مكالمة API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'لم يتم إرجاع أي منتجات من واجهة برمجة التطبيقات. يُرجى التحقق من بيانات اعتماد واجهة برمجة التطبيقات والمحاولة مرة أخرى.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = 'سيتم تطبيق النسبة المئوية للهامش على سعر جميع المنتجات. يمكنك تغييره لاحقاً من قائمة إعداد السعر.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'تغيير البريد الإلكتروني للموافق على التغيير';
 

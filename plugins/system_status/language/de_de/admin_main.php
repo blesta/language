@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Insgesamt ist das System in einem guten 
 $lang['AdminMain.index.health_excellent'] = 'Das System ist in gutem Zustand und scheint normal zu funktionieren.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurieren?';
 $lang['AdminMain.index.upload_dir'] = 'Der Pfad für das Upload-Verzeichnis in Ihren Einstellungen befindet sich innerhalb des Web-Stammverzeichnisses.  Es sollte oberhalb des Root-Webverzeichnisses liegen, um sicherzustellen, dass es nie ein Problem mit öffentlichem Zugriff gibt.';
+$lang['AdminMain.index.text_info'] = 'Informationen';
+$lang['AdminMain.index.text_warning'] = 'Warnung';
+$lang['AdminMain.index.text_error'] = 'Fehler';
+$lang['AdminMain.index.text_success'] = 'Erfolg';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'System';
+$lang['AdminMain.index.category_database'] = 'Datenbank';
+$lang['AdminMain.index.category_security'] = 'Sicherheit';
 

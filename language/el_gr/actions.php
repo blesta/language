@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Παρακαλούμε εισάγε
 $lang['Actions.!error.url.empty'] = 'Παρακαλούμε εισάγετε μια διεύθυνση URL.';
 $lang['Actions.!error.location.unique'] = 'Η τοποθεσία και η διεύθυνση URL πρέπει να είναι μοναδικές για την εταιρεία αυτή.';
 $lang['Actions.!error.location.valid'] = 'Μη έγκυρη έγκυρη τοποθεσία.';
+$lang['Actions.!error.icon.length'] = 'Η κατηγορία εικονιδίων δεν πρέπει να υπερβαίνει τους 255 χαρακτήρες.';
 

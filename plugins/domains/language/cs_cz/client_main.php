@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'Nemáte žádné %1$s domény.';
 $lang['ClientMain.index.text_never'] = 'Nikdy';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Správa';
-$lang['ClientMain.index.heading_options'] = 'Možnosti';
+$lang['ClientMain.index.heading_options'] = 'Akce';
 $lang['ClientMain.index.heading_deletion_date'] = 'Datum vymazání';
 $lang['ClientMain.index.heading_suspension_date'] = 'Datum pozastavení';
 $lang['ClientMain.index.heading_expiration_date'] = 'Datum vypršení platnosti';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.option_fields.hostname.label'] = 'Nome do an
 $lang['VirtfusionDirectProvisioning.option_fields.hostname.tooltip'] = 'Introduza o nome do seu servidor utilizando um nome de domínio totalmente qualificado. Por exemplo, server.mydomain.com ou web.mydomain.com';
 $lang['VirtfusionDirectProvisioning.option_fields.extra_ip_addresses'] = 'Endereços IP extra';
 $lang['VirtfusionDirectProvisioning.option_fields.extra_ip_addresses.tooltip'] = 'Este campo tem de ser selecionado se o número de IPs extra for reduzido.';
+$lang['Virtfusion.back_to_manage'] = 'Voltar';
 

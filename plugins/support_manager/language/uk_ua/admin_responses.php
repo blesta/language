@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = 'Відповідь %1$s ус�
 $lang['AdminResponses.!success.category_deleted'] = 'Категорію %1$s успішно видалено.';
 $lang['AdminResponses.!success.category_updated'] = 'Категорію %1$s успішно оновлено.';
 $lang['AdminResponses.!success.category_added'] = 'Категорію %1$s успішно додано.';
+$lang['AdminResponses.index.btn_back'] = 'Назад';
+$lang['AdminResponses.index.btn_add_category'] = 'Додати категорію';
+$lang['AdminResponses.index.btn_add_response'] = 'Додати відповідь';
 

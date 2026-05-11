@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = 'Λογαριασμοί';
 $lang['Nominet.module_row'] = 'Λογαριασμός';
 $lang['Nominet.description'] = 'Η Nominet είναι το μητρώο ονομάτων τομέα που διαχειρίζεται τον τομέα ανωτάτου επιπέδου .UK.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = 'Πίσω';
+$lang['Nominet.manage.tab_rows'] = 'Servers';
+$lang['Nominet.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

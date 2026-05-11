@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.orderinfo.applied_heading_paymenttype'] = 'Betalingstype';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Beløb';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Anvendt';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Anvendt på';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Handlinger';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Rediger';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Der er ingen transaktioner på denne ordre.';
 $lang['AdminMain.orderinfo.services_heading'] = 'Tjenester';
@@ -47,7 +47,7 @@ $lang['AdminMain.orderinfo.services_heading_label'] = 'Etiket';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Betegnelse';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Dato tilføjet';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Dato Fornyer';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Handlinger';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Administrer';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Aldrig';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Der er ingen tjenester i denne rækkefølge.';
@@ -112,4 +112,16 @@ $lang['AdminMain.affiliates.graph_visits'] = 'Besøg';
 $lang['AdminMain.affiliates.graph_sales'] = 'Salg';
 $lang['AdminMain.affiliates.submit_settings'] = 'Gem indstillinger';
 $lang['AdminMain.affiliates.submit_cancel'] = 'Annuller';
+$lang['AdminMain.index.paid'] = 'Betalt';
+$lang['AdminMain.index.unpaid'] = 'Ubetalt';
+$lang['AdminMain.index.loading'] = 'Indlæser...';
+$lang['AdminMain.index.text_items_selected'] = 'valgte emner';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Transaktions-ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Dato';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Service';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Afventer';
+$lang['AdminMain.settings.text_notifications'] = 'Konfigurer, hvordan du vil modtage meddelelser om nye ordrer.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Konfigurer, hvordan du vil modtage meddelelser om affiliate-udbetalinger.';
 

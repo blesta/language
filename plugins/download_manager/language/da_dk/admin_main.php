@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,8 +32,8 @@ $lang['AdminMain.files.boxtitle_downloadmanager'] = 'Download Manager';
 $lang['AdminMain.files.tab_files'] = 'Filer';
 $lang['AdminMain.files.tab_urls'] = 'Statiske webadresser';
 $lang['AdminMain.files.add_download'] = 'Tilføj download her';
-$lang['AdminMain.files.add_category'] = 'Tilføj kategori her';
-$lang['AdminMain.files.go_back'] = 'Gå et niveau op';
+$lang['AdminMain.files.add_category'] = 'Tilføj kategori';
+$lang['AdminMain.files.go_back'] = 'Tilbage';
 $lang['AdminMain.files.edit'] = 'Rediger';
 $lang['AdminMain.files.delete'] = 'Slet';
 $lang['AdminMain.files.no_downloads'] = 'Der er ingen downloads i dette afsnit.';
@@ -45,7 +45,7 @@ $lang['AdminMain.urls.tab_urls'] = 'Statiske webadresser';
 $lang['AdminMain.urls.heading_url'] = 'URL';
 $lang['AdminMain.urls.heading_file'] = 'Fil';
 $lang['AdminMain.urls.heading_link'] = 'Link';
-$lang['AdminMain.urls.heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.urls.heading_options'] = 'Handlinger';
 $lang['AdminMain.urls.edit'] = 'Rediger';
 $lang['AdminMain.urls.delete'] = 'Slet';
 $lang['AdminMain.urls.latest_file'] = 'Seneste fil fra <strong>%1$s</strong>';
@@ -113,6 +113,19 @@ $lang['AdminMain.editcategory.field_description'] = 'Beskrivelse';
 $lang['AdminMain.editcategory.submit_edit'] = 'Opdater kategori';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Annuller';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
-$lang['AdminMain.edit.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Filer';
+$lang['AdminMain.sidebar.urls'] = 'Statiske webadresser';
+$lang['AdminMain.!performance.xsendfile'] = 'Apaches mod_http2 er aktiveret, men mod_xsendfile er ikke. Vi anbefaler at aktivere eller installere mod_xsendfile for at få bedre ydeevne og hurtigere downloads.';
+$lang['AdminMain.modal.confirm_delete'] = 'Bekræft sletning';
+$lang['AdminMain.modal.delete'] = 'Sletning';
+$lang['AdminMain.modal.cancel'] = 'Annuller';
+$lang['AdminMain.modal.save'] = 'Gemme';
+$lang['AdminMain.add.public'] = 'Offentligt tilgængelig';
+$lang['AdminMain.add.logged_in'] = 'Skal være logget ind';
+$lang['AdminMain.add.text_fileinfo'] = 'BEMÆRK: Filerne skal være placeret et sted i dit uploads-bibliotek.';
+$lang['AdminMain.add.field_file_type'] = 'Filkilde';
+$lang['AdminMain.add.upload'] = 'Upload fil';
+$lang['AdminMain.add.path'] = 'Angiv sti til fil';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'Anda tidak memiliki kontak. Untuk me
 $lang['ClientContacts.index.confirm_delete'] = 'Apakah Anda yakin ingin menghapus kontak ini?';
 $lang['ClientContacts.index.option_delete'] = 'Menghapus';
 $lang['ClientContacts.index.option_edit'] = 'Sunting';
-$lang['ClientContacts.index.heading_options'] = 'Pilihan';
+$lang['ClientContacts.index.heading_options'] = 'Tindakan';
 $lang['ClientContacts.index.heading_type'] = 'Jenis';
 $lang['ClientContacts.index.heading_email'] = 'Email';
 $lang['ClientContacts.index.heading_name'] = 'Nama';

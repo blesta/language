@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Tambah
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Nilai Teks Default';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Nilai Default Diperiksa';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Nilai';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Edit Bidang Khusus';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Perbarui Bidang Khusus';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Mengenkripsi Nilai';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex khusus';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Diperlukan';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Mengi
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Nilai Teks Default';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Nilai Default Diperiksa';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Nilai';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Tambahkan Bidang Khusus';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Membuat Bidang Khusus';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Mengenkripsi Nilai';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex khusus';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Diperlukan';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nama';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Buat Bidang';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Jelajahi Bidang Khusus Klien';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Pengaturan > Perusahaan > Opsi Klien > Bidang Khusus Klien > Jelajahi';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Kirim';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Memperbarui Pengaturan';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Mencegah Pembayaran dari Klien yang Tidak Terverifikasi';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Nilai Kenaikan ID Klien';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Nilai Awal ID Klien';

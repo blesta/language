@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Rekeningen';
 $lang['Opensrs.module_row'] = 'Account';
 $lang['Opensrs.description'] = 'OpenSRS is een wholesale domeinregistrar die een eersteklas white-label platform biedt dat resellerpartners verbindt met de oplossingen die ze nodig hebben.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Terug';
 

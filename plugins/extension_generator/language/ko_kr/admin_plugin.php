@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.features'] = '다음 - 추가 기능';
 $lang['AdminPlugin.features.confirm'] = '다음 - 확인';
 $lang['AdminPlugin.features.text_remove'] = '제거';
-$lang['AdminPlugin.features.text_options'] = '옵션';
+$lang['AdminPlugin.features.text_options'] = '작업';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Cron 작업 추가';
 $lang['AdminPlugin.features.service_tab_row_add'] = '서비스 관리 탭 추가';
 $lang['AdminPlugin.features.placeholder_time'] = '예: 14:25 또는 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = '작업의 콘텐츠를 가�
 $lang['AdminPlugin.integrations.tooltip_controller'] = '작업의 콘텐츠를 가져올 URI의 컨트롤러(예: admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = '작업을 표시할 인터페이스 내 위치';
 $lang['AdminPlugin.integrations.text_remove'] = '제거';
-$lang['AdminPlugin.integrations.text_options'] = '옵션';
+$lang['AdminPlugin.integrations.text_options'] = '작업';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = '고객 카드는 고객 프로필(고객 또는 관리자 영역)에 표시되는 작은 상자로 주로 다양한 통계(예: 서비스, 티켓 또는 주문 수)를 표시하는 데 사용됩니다. 값, 레이블, 배경 및 링크로 구성됩니다.  레이블은 콜백 함수에서 가져온 값 아래에 표시됩니다.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = '이것이 Blesta의 후크 시스템입니다.  이벤트는 코어 또는 플러그인에 의해 등록되고, 플러그인은 이러한 이벤트를 수신하고 이벤트에 대한 핸들러 메서드를 정의합니다.  모든 플러그인이 이벤트를 등록할 수 있으므로 이벤트 수는 얼마든지 많을 수 있지만, 블레스타에서 정의한 핵심 이벤트 목록은 https://docs.blesta.com/display/dev/Event+Handlers에서 확인할 수 있습니다.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"작업"은 코어 인터페이스를 통해 액세스할 수 있는 플러그인 페이지를 나타냅니다. 여기에는 관리자 및 클라이언트 영역의 탐색 링크, 관리자 영역의 위젯, 클라이언트 프로필 사이드바의 링크가 포함됩니다. 여기에 입력한 컨트롤러와 작업은 간단한 컨트롤러 파일을 생성하는 데 사용됩니다. 또한 각 작업에 대한 샘플 보기 파일이 생성됩니다.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = '작업 추가';
 $lang['AdminPlugin.integrations.heading_integrations'] = '핵심 통합';
 $lang['AdminPlugin.database.integrations'] = '다음 - 핵심 통합';
 $lang['AdminPlugin.database.text_remove'] = '제거';
-$lang['AdminPlugin.database.text_options'] = '옵션';
+$lang['AdminPlugin.database.text_options'] = '작업';
 $lang['AdminPlugin.database.text_more_info'] = '이 페이지는 이 플러그인에서 생성하고 관리하는 데이터베이스 테이블에 대한 스키마를 만드는 데 사용됩니다. 설치 및 제거 시 이러한 테이블을 추가 및 제거하기 위한 코드가 생성됩니다. 또한 이러한 테이블에 대한 모델 파일과 몇 가지 기본 기능이 생성됩니다.';
 $lang['AdminPlugin.database.placeholder_length'] = '예: 64 또는 \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = '예: column_name';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = '플러그인 목록에 표시되는 �
 $lang['AdminPlugin.basic.tooltip_description'] = '플러그인 목록에 표시되는 설명';
 $lang['AdminPlugin.basic.text_remove'] = '제거';
 $lang['AdminPlugin.basic.author_row_add'] = '작성자 추가';
-$lang['AdminPlugin.basic.text_options'] = '옵션';
+$lang['AdminPlugin.basic.text_options'] = '작업';
 $lang['AdminPlugin.basic.author_url'] = '작성자 URL';
 $lang['AdminPlugin.basic.author_name'] = '작성자 이름';
 $lang['AdminPlugin.basic.logo'] = '로고';

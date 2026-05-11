@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Selezionare uno stato di p
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'ID metodo di pagamento non valido.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'ID affiliato non valido.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'ID di pagamento non valido.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Pagamento richiesto';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s ha richiesto un pagamento di %2$s';
 

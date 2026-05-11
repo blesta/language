@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Indstillinger';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Send automatisk påmindelser til kunder om at give feedback på sager, der er blevet lukket efter en vis periode.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Send påmindelser om feedback';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Behandl billetter med AI';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analyserer tickets med AI for at generere forslag til svar og automatisk udføre værktøjsbrug (lukke spam, tildele personale, ændre prioritet).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'AI-indstillinger';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Note: Dette svar blev genereret af AI og bør gennemgås for nøjagtighed.*';
 

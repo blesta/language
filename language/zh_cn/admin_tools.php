@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = '添加规则';
+$lang['AdminTools.blacklistadd.field_submit'] = '创建规则';
 $lang['AdminTools.blacklistadd.field_note'] = '备注';
 $lang['AdminTools.blacklistadd.field_type'] = '类型';
 $lang['AdminTools.blacklistadd.field_rule'] = '规则';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = '删除';
 $lang['AdminTools.blacklist.text_system'] = '系统';
 $lang['AdminTools.blacklist.text_type_email'] = '电子邮件地址';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP 地址';
-$lang['AdminTools.blacklist.heading_options'] = '选项';
+$lang['AdminTools.blacklist.heading_options'] = '行动';
 $lang['AdminTools.blacklist.heading_note'] = '备注';
 $lang['AdminTools.blacklist.heading_list'] = '列表';
 $lang['AdminTools.blacklist.heading_type'] = '类型';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = '最大变化';
 $lang['AdminTools.renewals.option_dequeue'] = '删除队列';
 $lang['AdminTools.renewals.option_view'] = '查看发票';
 $lang['AdminTools.renewals.confirm_dequeue'] = '您确定要从更新队列中删除这项服务吗？';
-$lang['AdminTools.renewals.heading_options'] = '选项';
+$lang['AdminTools.renewals.heading_options'] = '行动';
 $lang['AdminTools.renewals.heading_invoice'] = '发票';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = '最多尝试次数';
 $lang['AdminTools.renewals.heading_failed_attempts'] = '失败的尝试';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = '请将 MySQ
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = '将数据库、表和列的字符集和校对更新为 utf8mb4，以支持表情符号等 4 字节字符。  这可能需要几分钟时间。';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = '更新为 utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = '更新数据库整理';
-$lang['AdminTools.utilities.heading_options'] = '选项';
+$lang['AdminTools.utilities.heading_options'] = '行动';
 $lang['AdminTools.utilities.heading_description'] = '说明';
 $lang['AdminTools.utilities.heading_utility'] = '公用设施';
 $lang['AdminTools.utilities.boxtitle_utilities'] = '公用设施';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = '目前没有排队等待更�
 $lang['AdminTools.renewals.no_results_provision'] = '目前没有排队等待调配的服务。';
 $lang['AdminTools.!notice.conditions_met'] = '只有当所有条件都已满足，可以尝试时，项目才会出现在指定队列中。';
 $lang['AdminTools.!success.service_changes_canceled'] = '服务更改已成功取消。';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = '阻止外发';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = '阻止向该地址发送电子邮件';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = '阻止外发';
 $lang['AdminTools.renewals.no_results_changes'] = '目前没有服务变更排队等待调配。';
 $lang['AdminTools.renewals.option_retry'] = '重试';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = '现状';
 $lang['AdminTools.renewals.category_changes'] = '服务变化';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = '未付续费';
 $lang['AdminTools.!success.service_changes_scheduled'] = '服务更改已成功安排。';
+$lang['AdminTools.integritycheck.text_summary'] = '检查了%1$s 文件： %2$s 确定，%3$s 已修改，%4$s 丢失。';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = '未找到清单文件 (manifest.json)。该文件包含在正式版本中，执行完整性检查时需要该文件。';
+$lang['AdminTools.integritycheck.text_error'] = '检查文件时发生错误。';
+$lang['AdminTools.integritycheck.text_no_issues'] = '所有文件都与清单相符。未发现修改或丢失文件。';
+$lang['AdminTools.integritycheck.text_ok'] = '好的';
+$lang['AdminTools.integritycheck.text_total_files'] = '文件总数';
+$lang['AdminTools.integritycheck.category_vendor'] = '供应商';
+$lang['AdminTools.integritycheck.category_core'] = '核心';
+$lang['AdminTools.integritycheck.status_missing'] = '失踪';
+$lang['AdminTools.integritycheck.status_modified'] = '改装';
+$lang['AdminTools.integritycheck.heading_category'] = '类别';
+$lang['AdminTools.integritycheck.heading_file'] = '文件';
+$lang['AdminTools.integritycheck.heading_status'] = '现状';
+$lang['AdminTools.integritycheck.text_checking'] = '正在检查文件，请稍候。这可能需要一些时间...';
+$lang['AdminTools.integritycheck.field_run_again'] = '再次奔跑';
+$lang['AdminTools.integritycheck.field_download_report'] = '下载报告';
+$lang['AdminTools.integritycheck.field_run_check'] = '运行完整性检查';
+$lang['AdminTools.integritycheck.text_description'] = '对照此版本随附的清单验证已安装的文件。这将通过比较 SHA256 哈希值来检查文件的完整性，并有助于识别被修改过的文件，这对故障排除和执行升级之前非常有用。';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = '系统完整性检查';
+$lang['AdminTools.integritycheck.page_title'] = '系统完整性检查';
+$lang['AdminTools.!success.cache_cleared'] = '文件缓存已成功清除。';
+$lang['AdminTools.utilities.field_integrity_check'] = '运行检查';
+$lang['AdminTools.utilities.text_integrity_check'] = '根据装运清单验证核心文件，以确定修改或丢失的文件。';
+$lang['AdminTools.utilities.integrity_check'] = '系统完整性检查';
+$lang['AdminTools.utilities.text_clear_file_cache'] = '清除缓存文件，包括导航、视图和插件缓存。在缓存重建之前，这可能会导致页面加载速度稍慢。';
+$lang['AdminTools.utilities.field_clear_file_cache'] = '清除缓存';
+$lang['AdminTools.utilities.clear_file_cache'] = '清除文件缓存';
+$lang['AdminTools.getlognames.text_system'] = '系统';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifest 版本：%1$s （生成%2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = '目前没有付款后排队续费的服务。';
+$lang['AdminTools.logsystem.page_title'] = '工具日志';
+$lang['AdminTools.logsystem.text_date'] = '日期';
+$lang['AdminTools.logsystem.text_level'] = '级别';
+$lang['AdminTools.logsystem.text_message'] = '留言';
+$lang['AdminTools.logsystem.no_results'] = '没有系统日志条目。';
+$lang['AdminTools.logsystem.no_log_dir'] = '日志目录未配置或不可读。请在设置 &gt; 系统 &gt; 常规下进行配置。';
+$lang['AdminTools.logsystem.level_emergency'] = '紧急情况';
+$lang['AdminTools.logsystem.level_alert'] = '警报';
+$lang['AdminTools.logsystem.level_critical'] = '关键';
+$lang['AdminTools.logsystem.level_error'] = '错误';
+$lang['AdminTools.logsystem.level_warning'] = '警告';
+$lang['AdminTools.logsystem.level_notice'] = '通知';
+$lang['AdminTools.logsystem.level_info'] = '信息';
+$lang['AdminTools.logsystem.level_debug'] = '调试';
 

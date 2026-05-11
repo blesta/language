@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Skriv ut';
 $lang['AdminBilling.printqueue.page_title'] = 'Utskriftskö för fakturering';
 $lang['AdminBilling.invoices.text_edit'] = 'Redigera';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Denna faktura har inga transaktioner tillämpade på den.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Alternativ';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Åtgärder';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Tillämpad på';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Tillämpad';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Belopp';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Fel';
 $lang['AdminBilling.transactions.category_voided'] = 'Upphörd';
 $lang['AdminBilling.transactions.category_declined'] = 'Deklinerad';
 $lang['AdminBilling.transactions.category_approved'] = 'Godkänd';
-$lang['AdminBilling.transactions.heading_options'] = 'Alternativ';
+$lang['AdminBilling.transactions.heading_options'] = 'Åtgärder';
 $lang['AdminBilling.transactions.heading_date'] = 'Datum';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referensnummer';
 $lang['AdminBilling.transactions.heading_number'] = 'Antal';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transaktioner';
 $lang['AdminBilling.transactions.page_title'] = 'Faktureringstransaktioner';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Orsak till annullering: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Denna tjänst har inga detaljer.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Skicka in';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Tillämpa';
 $lang['AdminBilling.services.action.field_client'] = 'Kund:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Tryck till klient';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Avbryt inte';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Aktiv';
 $lang['AdminBilling.services.confirm_delete'] = 'Är du säker på att du vill ta bort den här tjänsten?';
 $lang['AdminBilling.services.option_delete'] = 'Radera';
 $lang['AdminBilling.services.option_manage'] = 'Hantera';
-$lang['AdminBilling.services.heading_options'] = 'Alternativ';
+$lang['AdminBilling.services.heading_options'] = 'Åtgärder';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Datum Annullerat';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Datum uppskjutet';
 $lang['AdminBilling.services.heading_daterenews'] = 'Datum Förnyas';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Tjänster';
 $lang['AdminBilling.services.page_title'] = 'Faktureringstjänster';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Det finns inga fakturor kopplade till denna offert.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Utsikt';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Alternativ';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Åtgärder';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Datum för fakturering';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Betald';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Belopp';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Godkänna';
 $lang['AdminBilling.quotations.option_invoice'] = 'Skapa faktura';
 $lang['AdminBilling.quotations.option_view'] = 'Utsikt';
 $lang['AdminBilling.quotations.option_edit'] = 'Redigera';
-$lang['AdminBilling.quotations.heading_options'] = 'Alternativ';
+$lang['AdminBilling.quotations.heading_options'] = 'Åtgärder';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Utgångsdatum';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Datum för skapande';
 $lang['AdminBilling.quotations.heading_total'] = 'Belopp';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Öppna';
 $lang['AdminBilling.invoices.heading_count'] = 'Räkna';
 $lang['AdminBilling.invoices.heading_duration'] = 'Varaktighet';
 $lang['AdminBilling.invoices.heading_term'] = 'Term';
-$lang['AdminBilling.invoices.heading_options'] = 'Alternativ';
+$lang['AdminBilling.invoices.heading_options'] = 'Åtgärder';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Datum Förfallodag';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Datum för fakturering';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Datum för stängning';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'De utvalda tjänsterna ha
 $lang['AdminBilling.!success.services_suspended'] = 'De valda tjänsterna har framgångsrikt avbrutits.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Denna tjänst har pågående ändringar.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum Betald genom: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'valda objekt';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'vald artikel';
+$lang['AdminBilling.transactions.option_view'] = 'Utsikt';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Åtgärder';
+$lang['AdminBilling.services.text_items_selected'] = 'valda objekt';
+$lang['AdminBilling.services.text_item_selected'] = 'vald artikel';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Tillämpa filter';
+$lang['AdminBilling.services.field_filterclear'] = 'Klar';
+$lang['AdminBilling.services.filter_toggle'] = 'Växla filter';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Tillämpa filter';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Klar';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Växla filter';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klicka på widgetar för att visa eller dölja dem från instrumentpanelen.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Доб
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Значение текста по умолчанию';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Значение по умолчанию Проверено';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Значение';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Редактирование пользовательского поля';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Обновление пользовательского поля';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Шифровать значения';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Пользовательский регекс';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Требуется';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Ес�
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Значение текста по умолчанию';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Значение по умолчанию Проверено';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Значение';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Добавить пользовательское поле';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Создать пользовательское поле';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Шифровать значения';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Пользовательский регекс';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Требуется';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Имя';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Создать поле';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Просмотр пользовательских полей клиента';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Настройки > Компания > Параметры клиента > Пользовательские поля клиента > Обзор';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Отправить';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Обновление настроек';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Предотвращение платежей от непроверенных клиентов';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Значение приращения идентификатора клиента';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Идентификатор клиента Начальное значение';

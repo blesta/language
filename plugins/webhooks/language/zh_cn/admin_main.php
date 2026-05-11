@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AdminMain.index.boxtitle_webhooks'] = '网络钩子';
 $lang['AdminMain.index.heading_callback'] = '回调';
 $lang['AdminMain.index.heading_event'] = '活动';
 $lang['AdminMain.index.heading_method'] = '方法';
-$lang['AdminMain.index.heading_options'] = '选项';
+$lang['AdminMain.index.heading_options'] = '行动';
 $lang['AdminMain.index.option_edit'] = '编辑';
 $lang['AdminMain.index.option_delete'] = '删除';
 $lang['AdminMain.index.text_description_outgoing'] = '触发事件时向 URL 发送 HTTP 请求。请求可以使用 GET、POST、PUT 或 JSON 发送。';
@@ -35,7 +35,7 @@ $lang['AdminMain.add.heading_event'] = '活动';
 $lang['AdminMain.add.heading_fields_map'] = '田野地图';
 $lang['AdminMain.add.heading_field'] = '原创领域';
 $lang['AdminMain.add.heading_parameter'] = '新领域';
-$lang['AdminMain.add.heading_options'] = '选项';
+$lang['AdminMain.add.heading_options'] = '行动';
 $lang['AdminMain.add.option_delete'] = '删除';
 $lang['AdminMain.add.field_callback'] = '回调';
 $lang['AdminMain.add.field_event'] = '活动';
@@ -49,7 +49,7 @@ $lang['AdminMain.edit.heading_event'] = '活动';
 $lang['AdminMain.edit.heading_fields_map'] = '田野地图';
 $lang['AdminMain.edit.heading_field'] = '原创领域';
 $lang['AdminMain.edit.heading_parameter'] = '新领域';
-$lang['AdminMain.edit.heading_options'] = '选项';
+$lang['AdminMain.edit.heading_options'] = '行动';
 $lang['AdminMain.edit.option_delete'] = '删除';
 $lang['AdminMain.edit.field_callback'] = '回调';
 $lang['AdminMain.edit.field_event'] = '活动';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'HTTP 状态';
 $lang['AdminMain.logs.field_filterevent'] = '活动';
 $lang['AdminMain.logs.field_filterwebhook_all'] = '所有网络钩子';
 $lang['AdminMain.logs.field_filterwebhook'] = '网络钩子';
-$lang['AdminMain.logs.heading_options'] = '选项';
+$lang['AdminMain.logs.heading_options'] = '行动';
 $lang['AdminMain.logs.heading_date_last_retry'] = '最后一次重试';
 $lang['AdminMain.logs.heading_date_triggered'] = '触发日期';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP 响应';

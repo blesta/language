@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'تم تح�
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'تم إلغاء تثبيت برنامج المراسلة بنجاح.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'تم تثبيت برنامج المراسلة بنجاح.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'تمت ترقية برنامج المراسلة بنجاح.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'تصفية الرسل...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'لم يتم العثور على رسل مطابقين';
 

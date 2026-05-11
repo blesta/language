@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Видалити';
 $lang['AdminDepartments.edit.heading_default'] = 'За замовчуванням';
 $lang['AdminDepartments.edit.heading_value'] = 'Значення';
 $lang['AdminDepartments.edit.heading_name'] = 'Ім\'я';
-$lang['AdminDepartments.edit.heading_options'] = 'Параметри';
+$lang['AdminDepartments.edit.heading_options'] = 'Дії';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Автоматичне видалення';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Зашифровано.';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Клієнт може додати';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Видалити';
 $lang['AdminDepartments.add.heading_default'] = 'За замовчуванням';
 $lang['AdminDepartments.add.heading_value'] = 'Значення';
 $lang['AdminDepartments.add.heading_name'] = 'Ім\'я';
-$lang['AdminDepartments.add.heading_options'] = 'Параметри';
+$lang['AdminDepartments.add.heading_options'] = 'Дії';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Автоматичне видалення';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Зашифровано.';
 $lang['AdminDepartments.add.heading_client_add'] = 'Клієнт може додати';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Відділів немає.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Відділи, за якими закріплені квитки, не можуть бути видалені, поки всі квитки не будуть перепризначені іншому відділу. Ви впевнені, що хочете видалити цей відділ?';
 $lang['AdminDepartments.index.option_delete'] = 'Видалити';
 $lang['AdminDepartments.index.option_edit'] = 'Редагувати';
-$lang['AdminDepartments.index.heading_options'] = 'Параметри';
+$lang['AdminDepartments.index.heading_options'] = 'Дії';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Пріоритет за замовчуванням';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Призначений персонал';
 $lang['AdminDepartments.index.heading_email'] = 'Електронна пошта';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'Ідентифікато
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Користувач OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Постачальник OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Для всіх квитків зі статусом "закрито" клієнту буде надіслано нагадування про необхідність залишити відгук, якщо квиток був закритий протягом обраного періоду часу.';
+$lang['AdminDepartments.!text.description_hint'] = 'Цей опис буде видно клієнтам при виборі відділу';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Утримуйте Ctrl (Windows) або Cmd (Mac), щоб вибрати кілька пріоритетів';
+$lang['AdminDepartments.!text.search_responses'] = 'Відповіді на пошукові запити...';
+$lang['AdminDepartments.!text.searching'] = 'Шукаю...';
+$lang['AdminDepartments.add.heading_actions'] = 'Дії';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Ви впевнені, що хочете видалити це кастомне поле?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Дії';
 

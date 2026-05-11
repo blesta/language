@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row_plural'] = 'الخوادم';
 $lang['Ispconfig.module_row'] = 'الخادم';
 $lang['Ispconfig.description'] = 'ISPConfig 3 هي لوحة مفتوحة المصدر لنظام لينكس قادرة على إدارة خوادم متعددة من لوحة تحكم واحدة.';
 $lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.back_to_manage'] = 'رجوع';
+$lang['Ispconfig.manage.tab_rows'] = 'الخوادم';
+$lang['Ispconfig.manage.tab_groups'] = 'مجموعات الخوادم';
 

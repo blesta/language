@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = '사용자 ID는 정수이거
 $lang['MulticraftService.!error.server_id.format'] = '서버 ID는 정수이거나 비워 두어야 합니다.';
 $lang['MulticraftService.!error.client'] = '멀티크래프트 사용자를 생성할 클라이언트를 찾을 수 없습니다.';
 $lang['MulticraftService.!error.internal'] = '내부 오류가 발생했거나 서버가 요청에 응답하지 않았습니다.';
+$lang['Multicraft.back_to_manage'] = '뒤로';
 

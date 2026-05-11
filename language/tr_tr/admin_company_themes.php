@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Bu tür temalar bulunmamaktadır
 $lang['AdminCompanyThemes.index.option_export'] = 'İhracat';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Silme';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Düzenle';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Seçenekler';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Eylemler';
 $lang['AdminCompanyThemes.index.heading_name'] = 'İsim';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Renk Şeması';
 $lang['AdminCompanyThemes.index.heading_id'] = 'KIMLIK';

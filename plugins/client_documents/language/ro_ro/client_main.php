@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['ClientMain.index.option_download'] = 'Descărcați';
-$lang['ClientMain.index.heading_options'] = 'Opțiuni';
+$lang['ClientMain.index.heading_options'] = 'Acțiuni';
 $lang['ClientMain.index.heading_date_added'] = 'Data adăugării';
 $lang['ClientMain.index.heading_description'] = 'Descriere';
 $lang['ClientMain.index.heading_name'] = 'Nume';

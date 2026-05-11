@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,7 +27,7 @@ $lang['AdminLogin.setup.heading_create_account'] = 'Personel hesabınızı oluş
 $lang['AdminLogin.setup.field_newsletter'] = 'Haber bültenimize kaydolun. İstediğiniz zaman vazgeçebilirsiniz.';
 $lang['AdminLogin.setup.trial_newsletter'] = 'Bir deneme sürümüne kaydolarak, deneme sürümünüz boyunca bizden e-posta almayı kabul edersiniz. İstediğiniz zaman vazgeçebilirsiniz.';
 $lang['AdminLogin.setup.field_license_key'] = 'Lisans Anahtarı';
-$lang['AdminLogin.setup.title_adminarea'] = 'İlk Kurulum';
+$lang['AdminLogin.setup.title_adminarea'] = 'Blesta ile Başlayın';
 $lang['AdminLogin.setup.page_title'] = 'İlk Kurulum';
 $lang['AdminLogin.confirmreset.link_login'] = 'İptal, Giriş Yap';
 $lang['AdminLogin.confirmreset.field_resetsubmit'] = 'Şifre Ayarla';
@@ -41,22 +41,37 @@ $lang['AdminLogin.reset.page_title'] = 'Şifre Sıfırlama';
 $lang['AdminLogin.otp.link_login'] = 'İptal, Giriş Yap';
 $lang['AdminLogin.otp.field_loginsubmit'] = 'Giriş Yap';
 $lang['AdminLogin.otp.field_password'] = 'Tek Kullanımlık Şifre';
-$lang['AdminLogin.otp.page_title'] = 'OTP Girişi';
+$lang['AdminLogin.otp.page_title'] = 'İki Faktörlü Kimlik Doğrulama';
 $lang['AdminLogin.index.link_resetpassword'] = 'Şifremi Sıfırla';
 $lang['AdminLogin.index.field_loginsubmit'] = 'Giriş Yap';
 $lang['AdminLogin.index.field_rememberme'] = 'Beni bu bilgisayarda hatırla.';
 $lang['AdminLogin.index.field_password'] = 'Şifre';
 $lang['AdminLogin.index.field_username'] = 'Kullanıcı Adı';
 $lang['AdminLogin.index.page_title'] = 'Giriş yap';
-$lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Şifre Sıfırlamayı Onayla';
-$lang['AdminLogin.reset.title_adminarea'] = '%1$s | Şifreyi Sıfırla';
-$lang['AdminLogin.otp.title_adminarea'] = '%1$s | Personel Alanı';
-$lang['AdminLogin.index.title_adminarea'] = '%1$s | Personel Alanı';
+$lang['AdminLogin.confirmreset.title_adminarea'] = 'Şifre Sıfırlamayı Onayla';
+$lang['AdminLogin.reset.title_adminarea'] = 'Şifre Sıfırlama';
+$lang['AdminLogin.otp.title_adminarea'] = 'İki Faktörlü Kimlik Doğrulama';
+$lang['AdminLogin.index.title_adminarea'] = 'Personel Alanı';
 $lang['AdminLogin.!info.step_up_otp'] = 'Devam edebilmek için aşağıya OTP\'nizi (Tek Kullanımlık Şifre) girerek erişiminizi tekrar doğrulamanız gerekmektedir.';
 $lang['AdminLogin.!info.step_up'] = 'Devam edebilmek için aşağıya şifrenizi girerek erişiminizi tekrar doğrulamanız gerekmektedir.';
 $lang['AdminLogin.up.link_cancel'] = 'İptal';
 $lang['AdminLogin.up.field_loginsubmit'] = 'Erişimi Doğrula';
 $lang['AdminLogin.up.field_password'] = 'Şifre';
-$lang['AdminLogin.up.title_adminarea'] = '%1$s | Erişim Doğrulama';
+$lang['AdminLogin.up.title_adminarea'] = 'Erişim Doğrulama';
 $lang['AdminLogin.up.page_title'] = 'Erişim Doğrulama';
+$lang['AdminLogin.index.page_subtitle'] = 'Tekrar hoş geldiniz! Oturum açma bilgileriniz yoksa yöneticinizle iletişime geçin.';
+$lang['AdminLogin.index.subtitle_adminarea'] = 'Yönetici paneline erişmek için kimlik bilgilerinizi girin.';
+$lang['AdminLogin.otp.page_subtitle'] = 'Oturum açma işlemini tamamlamak için tek kullanımlık şifrenizi girin.';
+$lang['AdminLogin.otp.subtitle_adminarea'] = 'Kimliğinizi doğrulamak için tek kullanımlık şifrenizi girin.';
+$lang['AdminLogin.up.page_subtitle'] = 'Tekrar hoş geldiniz! Oturum açma bilgileriniz yoksa yöneticinizle iletişime geçin.';
+$lang['AdminLogin.up.subtitle_adminarea'] = 'Devam etmek için erişiminizi doğrulayın.';
+$lang['AdminLogin.up.field_password_otp'] = 'Tek Kullanımlık Şifre';
+$lang['AdminLogin.reset.page_subtitle'] = 'Şifrenizi mi unuttunuz? Sıfırlama işlemine başlamak için kullanıcı adınızı girin.';
+$lang['AdminLogin.reset.subtitle_adminarea'] = 'Sıfırlama işlemini başlatmak için kullanıcı adınızı girin.';
+$lang['AdminLogin.confirmreset.page_subtitle'] = 'Hesabınız için yeni bir şifre oluşturun.';
+$lang['AdminLogin.confirmreset.subtitle_adminarea'] = 'Yeni şifrenizi aşağıya girin.';
+$lang['AdminLogin.setup.page_subtitle'] = 'Blesta kurulumunuzu yapılandırın ve yönetici hesabınızı oluşturun.';
+$lang['AdminLogin.setup.subtitle_adminarea'] = 'Faturalama sisteminizi yönetmeye başlamak için ilk kurulumu tamamlayın. Bu sadece birkaç dakikanızı alacaktır.';
+$lang['AdminLogin.!error.step_up_expired'] = 'Yükselme oturumunun süresi dolmuştur.';
+$lang['AdminLogin.!success.step_up_extended'] = 'Step up seansı uzatıldı.';
 

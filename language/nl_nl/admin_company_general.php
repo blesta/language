@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = 'Slim zoeken';
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'Instellingen bijwerken';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'Klanten de mogelijkheid bieden om aan/af te melden voor e-mailmarketing';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'Marketing';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Type contactpersoon bewerken';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Type contactpersoon bijwerken';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'Taalgebruik Definitie';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'Naam';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'Type contactpersoon bewerken';
@@ -52,7 +52,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = 'Verwijder';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'Bewerk';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'Geen';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'Ja';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Opties';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Acties';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'Taalgebruik Definitie';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'Naam';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'Contact Typen';

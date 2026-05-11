@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'Servrar';
 $lang['Multicraft.module_row.name'] = 'Server';
 $lang['Multicraft.name'] = 'Multicraft';
 $lang['Multicraft.!error.module_row.missing'] = 'Ett internt fel har inträffat. Modulraden är inte tillgänglig.';
+$lang['Multicraft.back_to_manage'] = 'Tillbaka';
 

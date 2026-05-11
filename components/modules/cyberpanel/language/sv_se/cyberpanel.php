@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = 'Servrar';
 $lang['Cyberpanel.module_row'] = 'Server';
 $lang['Cyberpanel.description'] = 'CyberPanel är nästa generations kontrollpanel för webbhotell som drivs av OpenLiteSpeed. Byggd för snabbhet, säkerhet och tillförlitlighet.';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = 'Tillbaka';
+$lang['Cyberpanel.manage.tab_rows'] = 'Servrar';
+$lang['Cyberpanel.manage.tab_groups'] = 'Servergrupper';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Aktualizacja';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ustaw domyślną bramę handlową dla każdej waluty.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Domyślne bramki handlowe';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Domyślne bramki sprzedawcy zostały pomyślnie zaktualizowane.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Nie znaleziono pasujących bramek.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Filtruj bramki...';
 

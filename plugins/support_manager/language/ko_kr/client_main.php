@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientMain.index.hour'] = '1시간';
 $lang['ClientMain.index.any'] = '모든';
 $lang['ClientMain.index.option_reply'] = '답글';
 $lang['ClientMain.index.option_close'] = '닫기';
-$lang['ClientMain.index.heading_options'] = '옵션';
+$lang['ClientMain.index.heading_options'] = '작업';
 $lang['ClientMain.index.heading_status'] = '상태';
 $lang['ClientMain.index.heading_last_reply_date'] = '마지막 댓글';
 $lang['ClientMain.index.heading_summary'] = '요약';

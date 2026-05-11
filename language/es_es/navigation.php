@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['Navigation.!error.action_id.valid'] = 'ID de acción no válido';
 $lang['Navigation.!error.order.valid'] = 'El índice de orden debe ser un valor numérico';
 $lang['Navigation.!error.parent_id.valid'] = 'ID de elemento de navegación principal no válido';
-$lang['Navigation.getprimary.nav_home'] = 'Inicio';
+$lang['Navigation.getprimary.nav_home'] = 'Cuadro de mandos';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Cuadro de mandos';
 $lang['Navigation.getprimary.nav_clients'] = 'Clientes';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Buscar clientes';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Cola de servicio';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Cambios en el servicio';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Facturas electrónicas';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Gestión de créditos';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

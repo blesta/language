@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientManagers.accounts.no_results'] = '현재 게스트 계정을 관리
 $lang['ClientManagers.accounts.confirm_give_up'] = '이 계정에 대한 액세스 권한을 포기하시겠습니까?';
 $lang['ClientManagers.accounts.option_give_up_access'] = '액세스 포기';
 $lang['ClientManagers.accounts.option_manage'] = '관리';
-$lang['ClientManagers.accounts.heading_options'] = '옵션';
+$lang['ClientManagers.accounts.heading_options'] = '작업';
 $lang['ClientManagers.accounts.heading_company'] = '회사';
 $lang['ClientManagers.accounts.heading_name'] = '전체 이름';
 $lang['ClientManagers.accounts.heading_email'] = '이메일';
@@ -50,7 +50,7 @@ $lang['ClientManagers.index.option_revoke'] = '취소';
 $lang['ClientManagers.index.option_edit'] = '편집';
 $lang['ClientManagers.index.text_status_pending'] = '보류 중';
 $lang['ClientManagers.index.text_status_accepted'] = '수락됨';
-$lang['ClientManagers.index.heading_options'] = '옵션';
+$lang['ClientManagers.index.heading_options'] = '작업';
 $lang['ClientManagers.index.heading_status'] = '상태';
 $lang['ClientManagers.index.heading_company'] = '회사';
 $lang['ClientManagers.index.heading_name'] = '전체 이름';

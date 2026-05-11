@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = 'Till e-postmeddelanden';
 $lang['GenericDomains.manage.from_email'] = 'Från e-post';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Inställningar för aviseringar';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Alla mottagarens e-postmeddelanden, åtskilda med kommatecken.';
+$lang['Generic_domains.back_to_manage'] = 'Tillbaka';
+$lang['GenericDomains.manage.text_available_tags'] = 'Tillgängliga taggar';
 

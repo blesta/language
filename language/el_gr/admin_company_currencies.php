@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Είστε σίγουροι ότι θέλετε να ενημερώσετε αυτό το νόμισμα; Η συναλλαγματική ισοτιμία αυτού του νομίσματος θα αντικατασταθεί όταν οι συναλλαγματικές ισοτιμίες ενημερώνονται αυτόματα στο σύστημα. Μπορείτε να απενεργοποιήσετε τις αυτόματες ενημερώσεις στην ενότητα [Ρυθμίσεις] > [Εταιρεία] > [Νομίσματα] > [Ρύθμιση νομίσματος].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Επεξεργασία νομίσματος';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Ενημέρωση νομίσματος';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Συναλλαγματική ισοτιμία';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Σύμβολο κατάληξης';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Σύμβολο προθέματος';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,16 +88,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(χρησιμοποιε
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Διαθέσιμα πακέτα';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Εκχωρημένα πακέτα';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Όλα';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Επεξεργασία κουπονιού';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Ενημέρωση κουπονιού';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Φίλτρο ομάδας πακέτων';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Πακέτα';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Περιορισμοί του πακέτου';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Αφαιρέστε το';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Όροι';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Περίοδος';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Ενεργοποιημένο';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Αυτό το κουπόνι μπορεί να εφαρμοστεί μόνο σε υπηρεσίες που έχουν παραγγελθεί για έναν από τους επιλεγμένους όρους/περιόδους. Εάν δεν είναι ενεργοποιημένη καμία από αυτές, τότε ο όρος για την υπηρεσία θα αγνοηθεί κατά την αξιολόγηση των περιορισμών του κουπονιού.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Όροι';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Περιορισμοί θητείας';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Αξία';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Τύπος';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Νόμισμα';
@@ -108,7 +108,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Οι περ�
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Ποσότητα';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Ημερομηνία λήξης';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Ημερομηνία έναρξης';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Περιορισμοί';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Περιορισμοί &amp; περιορισμοί';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Δημιουργία κώδικα';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Κωδικός κουπονιού';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Μόνο για εσωτερική χρήση';
@@ -123,7 +123,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Εκχωρημ�
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Όλα';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Δημιουργία κουπονιού';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Φίλτρο ομάδας πακέτων';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Πακέτα';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Περιορισμοί του πακέτου';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Αφαιρέστε το';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Όροι';
@@ -141,7 +141,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Οι περι
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Ποσότητα';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Ημερομηνία λήξης';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Ημερομηνία έναρξης';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Περιορισμοί';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Περιορισμοί &amp; περιορισμοί';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Δημιουργία κώδικα';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Κωδικός κουπονιού';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Μόνο για εσωτερική χρήση';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Απαιτήσει
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Επιλογή';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Ομάδα επιλογών';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Αυτό το κουπόνι μπορεί να εφαρμοστεί μόνο εάν οι επιλεγμένες διαμορφώσιμες επιλογές ταιριάζουν. Αφήστε το κενό για να αγνοήσετε τους περιορισμούς των διαμορφώσιμων επιλογών.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Διαμορφώσιμες επιλογές';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Διαμορφώσιμοι περιορισμοί επιλογών';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Προσθέστε';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Επανεπιλογή τιμολογίων για παράδοση μετά το κλείσιμό τους';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Ο πελάτης θα λαμβάνει καθημερινή ειδοποίηση όταν το πιστωτικό του υπόλοιπο πέσει κάτω από αυτό το ποσό. Αφήστε το κενό για να απενεργοποιήσετε τις ειδοποιήσεις για αυτό το νόμισμα.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Το μέγιστο π�
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Το μέγιστο ποσό για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Το ελάχιστο ποσό για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Οι ρυθμίσεις χειρισμού πιστώσεων ενημερώθηκαν επιτυχώς!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Παρακαλώ εισάγετε ένα όνομα διεύθυνσης επιστροφής.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Παρακαλώ εισάγετε μια εταιρεία διεύθυνσης επιστροφής.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Παρακαλώ εισάγετε μια διεύθυνση επιστροφής.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Παρακαλούμε εισάγετε μια πόλη με διεύθυνση επιστροφής.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Παρακαλούμε επιλέξτε μια διεύθυνση επιστροφής, κράτος/επαρχία.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Παρακαλούμε εισάγετε ταχυδρομικό/ταχυδρομικό κώδικα διεύθυνσης επιστροφής.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Παρακαλούμε επιλέξτε μια χώρα διεύθυνσης επιστροφής.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Οι διαθέσιμες ετικέτες περιλαμβάνουν: {year} - το τετραψήφιο έτος {month} - ο διψήφιος μήνας {day} - η διψήφια ημέρα του μήνα.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Οι αριθμοί εισαγωγικών θα ξεκινούν (και θα αυξάνονται) από αυτή την αρχική τιμή.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Οι επόμενοι αριθμοί αναφοράς θα αυξάνονται κατά αυτή την τιμή.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Περιορισμοί χρήσης';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Περιορισμοί χρήσης';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Φάκελος απάντησης';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Διεύθυνση επιστροφής';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Όνομα';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Εταιρεία';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Διεύθυνση 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Διεύθυνση 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Πόλη';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Πολιτεία/Περιφέρεια';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Ταχυδρομικός/Ταχυδρομικός κώδικας';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Χώρα';
 

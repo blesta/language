@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = 'Servers';
 $lang['VirtfusionDirectProvisioning.module_row'] = 'Διακομιστής';
 $lang['VirtfusionDirectProvisioning.description'] = 'Η ενότητα VirtFusion Blesta Direct Provisioning είναι μια απλή ενότητα που μπορεί να δημιουργήσει, να τερματίσει, να αναστείλει και να καταργήσει την αναστολή λειτουργίας διακομιστών με μια απευθείας γέφυρα σύνδεσης μεταξύ Blesta και VirtFusion.';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = 'Πίσω';
 

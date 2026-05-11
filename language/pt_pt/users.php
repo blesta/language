@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = 'Introduza uma palavra-passe com pel
 $lang['Users.!error.current_password.matches'] = 'Palavra-passe inválida.';
 $lang['Users.!error.username.unique'] = 'Esse nome de utilizador já foi utilizado.';
 $lang['Users.!error.username.empty'] = 'Introduza um nome de utilizador.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'deve corresponder ao padrão: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'deve conter %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'pelo menos %1$s caracteres';
+$lang['Users.!error.password_requirement.length_exact'] = 'exatamente %1$s caracteres';
+$lang['Users.!error.password_requirement.length_between'] = 'entre %1$s e %2$s caracteres';
+$lang['Users.!error.password_requirement.special_char'] = 'carácter especial';
+$lang['Users.!error.password_requirement.digit'] = 'dígito';
+$lang['Users.!error.password_requirement.uppercase'] = 'letra maiúscula';
+$lang['Users.!error.password_requirement.lowercase'] = 'letra minúscula';
+$lang['Users.!error.new_password.format_custom'] = 'A palavra-passe não cumpre os requisitos: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'A palavra-passe deve ter pelo menos %1$s caracteres e conter apenas números.';
+$lang['Users.!error.new_password.format_alpha'] = 'A palavra-passe deve ter pelo menos %1$s caracteres e conter apenas letras.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'A palavra-passe deve ter pelo menos %1$s caracteres e conter apenas letras e números.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'A palavra-passe deve ter pelo menos %1$s caracteres e não pode conter espaços.';
+$lang['Users.!error.new_password.format_any'] = 'A palavra-passe deve ter pelo menos %1$s caracteres.';
 

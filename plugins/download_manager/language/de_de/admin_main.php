@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'In diesem Abschnitt gibt es keine statischen 
 $lang['AdminMain.urls.latest_file'] = 'Neueste Datei von <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Löschen';
 $lang['AdminMain.urls.edit'] = 'bearbeiten';
-$lang['AdminMain.urls.heading_options'] = 'Optionen';
+$lang['AdminMain.urls.heading_options'] = 'Aktionen';
 $lang['AdminMain.urls.heading_link'] = 'Link';
 $lang['AdminMain.urls.heading_file'] = 'Datei';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Download Manager > Verwalten';
 $lang['AdminMain.files.no_downloads'] = 'In diesem Bereich gibt es keine Downloads.';
 $lang['AdminMain.files.delete'] = 'Löschen';
 $lang['AdminMain.files.edit'] = 'bearbeiten';
-$lang['AdminMain.files.go_back'] = 'Eine Ebene höher gehen';
-$lang['AdminMain.files.add_category'] = 'Hier Kategorie hinzufügen';
+$lang['AdminMain.files.go_back'] = 'Zurück';
+$lang['AdminMain.files.add_category'] = 'Kategorie hinzufügen';
 $lang['AdminMain.files.add_download'] = 'Download hier hinzufügen';
 $lang['AdminMain.files.tab_urls'] = 'Statische URLs';
 $lang['AdminMain.files.tab_files'] = 'Dateien';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Die Datei wurde erfolgreich hinzugefü
 $lang['AdminMain.!success.category_deleted'] = 'Die Kategorie wurde erfolgreich gelöscht.';
 $lang['AdminMain.!success.category_updated'] = 'Die Kategorie wurde erfolgreich aktualisiert.';
 $lang['AdminMain.!success.category_added'] = 'Die Kategorie wurde erfolgreich erstellt.';
-$lang['AdminMain.edit.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Dateien';
+$lang['AdminMain.sidebar.urls'] = 'Statische URLs';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache\'s mod_http2 ist aktiviert, aber mod_xsendfile ist nicht aktiviert. Wir empfehlen, mod_xsendfile zu aktivieren oder zu installieren, um eine bessere Leistung und schnellere Downloads zu erzielen.';
+$lang['AdminMain.modal.confirm_delete'] = 'Bestätigen Löschen';
+$lang['AdminMain.modal.delete'] = 'Löschen';
+$lang['AdminMain.modal.cancel'] = 'Abbrechen';
+$lang['AdminMain.modal.save'] = 'Speichern Sie';
+$lang['AdminMain.add.public'] = 'Öffentlich zugänglich';
+$lang['AdminMain.add.logged_in'] = 'Muss eingeloggt sein';
+$lang['AdminMain.add.text_fileinfo'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden.';
+$lang['AdminMain.add.field_file_type'] = 'Datei Quelle';
+$lang['AdminMain.add.upload'] = 'Datei hochladen';
+$lang['AdminMain.add.path'] = 'Pfad zur Datei angeben';
 

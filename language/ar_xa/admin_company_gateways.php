@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'تحديث';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'قم بتعيين بوابة التاجر الافتراضية لكل عملة.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'بوابات التاجر الافتراضية';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'تم تحديث بوابات التاجر الافتراضية بنجاح.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'لم يتم العثور على بوابات مطابقة.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'بوابات التصفية...';
 

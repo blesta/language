@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Наступний VMID (не змінюйте
 $lang['Proxmox.row_meta.port'] = 'Номер порту SSL';
 $lang['Proxmox.row_meta.host'] = 'Ім\'я хоста';
 $lang['Proxmox.row_meta.password'] = 'Пароль';
-$lang['Proxmox.row_meta.user'] = 'Користувач';
+$lang['Proxmox.row_meta.user'] = 'Користувач (з @pam або @pve після імені користувача)';
 $lang['Proxmox.row_meta.server_name'] = 'Мітка сервера';
 $lang['Proxmox.order_options.first'] = 'Перший неповний сервер';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Груп серверів не існує.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Головний сервер Proxmox';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment - це середовище віртуалізації серверів з відкритим вихідним кодом. Це дистрибутив Linux на основі Debian з модифікованим ядром Ubuntu LTS, що дозволяє розгортати та керувати віртуальними машинами та контейнерами.';
 $lang['Proxmox.!actions.password'] = 'Змінити пароль';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s днів, %2$s годин, %1$s хвилин';
+$lang['Proxmox.!uptime.value'] = '%1$s днів, %2$s годин, %3$s хвилин';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Будь ласка, виберіть.';
 $lang['Proxmox.!error.module_row.missing'] = 'Виникла внутрішня помилка. Рядок модуля недоступний.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Відмонтувати ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Кріплення ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Вимкнення';
 $lang['Proxmox.!actions.boot'] = 'Завантажуйте.';
+$lang['Proxmox.back_to_manage'] = 'Назад';
+$lang['Proxmox.manage.tab_rows'] = 'Сервери';
+$lang['Proxmox.manage.tab_groups'] = 'Групи серверів';
+$lang['Proxmox.tab_isomanager'] = 'Менеджер ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Перевстановити';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Перевстановити';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Рут-пароль';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Шаблон';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Перевстановити';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Менеджер ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Зображення';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Гора';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Відмонтувати ISO';
 

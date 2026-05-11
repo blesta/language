@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -70,7 +70,7 @@ $lang['ClientContacts.index.no_results'] = 'Je hebt nog geen contacten. Klik op 
 $lang['ClientContacts.index.confirm_delete'] = 'Weet je zeker dat je dit contact wilt verwijderen?';
 $lang['ClientContacts.index.option_delete'] = 'Verwijder';
 $lang['ClientContacts.index.option_edit'] = 'Bewerk';
-$lang['ClientContacts.index.heading_options'] = 'Opties';
+$lang['ClientContacts.index.heading_options'] = 'Acties';
 $lang['ClientContacts.index.heading_type'] = 'Type';
 $lang['ClientContacts.index.heading_email'] = 'E-mail';
 $lang['ClientContacts.index.heading_name'] = 'Naam';

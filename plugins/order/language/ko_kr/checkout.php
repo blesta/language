@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.invalid_agree_tos'] = '이용약관에 동의한다는 �
 $lang['Checkout.getpaymentaccounts.account_name'] = '%1$s %2$s - %3$s x%4$s';
 $lang['Checkout.index.totals.tax'] = '%1$s (%2$s%%):';
 $lang['Checkout.complete.totals.tax'] = '%1$s (%2$s%%):';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = '계속하려면 반복 청구에 동의해야 합니다.';
+$lang['Checkout.index.field_agree_recurring_consent'] = '본인은 오늘부터 취소할 때까지 %1$s 에서 결제 방법을 저장하고 %2$s 에 청구하는 것을 승인합니다. 내 계정을 통해 언제든지 온라인으로 취소할 수 있습니다.';
+$lang['Checkout.index.recurring_every'] = '모든 %1$s';
+$lang['Checkout.index.recurring_every_term'] = '모든 %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = '그리고';
 

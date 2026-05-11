@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Този имейл подп
 $lang['Emails.!error.text.parse'] = 'Грешка при анализиране на шаблона: %1$s';
 $lang['Emails.!error.html.parse'] = 'Грешка при анализиране на шаблона: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Снимката не принадлежи на посочения имейл.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Невалиден идентификатор на моментна снимка.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = 'ID Paket';
 $lang['AdminSearch.packages.heading'] = 'Paket';
 $lang['AdminSearch.transactions.no_results'] = 'Tidak ada transaksi yang sesuai dengan kriteria pencarian.';
 $lang['AdminSearch.transactions.option_edit'] = 'Sunting';
-$lang['AdminSearch.transactions.heading_options'] = 'Pilihan';
+$lang['AdminSearch.transactions.heading_options'] = 'Tindakan';
 $lang['AdminSearch.transactions.heading_date'] = 'Tanggal';
 $lang['AdminSearch.transactions.heading_status'] = 'Status';
 $lang['AdminSearch.transactions.heading_number'] = 'Nomor';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = 'Tanggal Ditagih';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Tanggal Ditutup';
 $lang['AdminSearch.invoice.heading_due'] = 'Jatuh Tempo';
 $lang['AdminSearch.invoice.heading_paid'] = 'Dibayar';
-$lang['AdminSearch.invoice.heading_amount'] = 'Pilihan';
+$lang['AdminSearch.invoice.heading_amount'] = 'Jumlah';
 $lang['AdminSearch.invoice.heading_client_id'] = 'ID Klien';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Faktur #';
 $lang['AdminSearch.invoices.heading'] = 'Faktur';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = 'Klien';
 $lang['AdminSearch.index.boxtitle_search'] = 'Hasil Pencarian untuk "%1$s"';
 $lang['AdminSearch.index.page_title'] = 'Hasil Pencarian untuk "%1$s"';
 $lang['AdminSearch.!notice.results_truncated'] = 'Jumlah hasil telah dipotong. Anda mungkin ingin mempersempit pencarian Anda.';
+$lang['AdminSearch.invoice.heading_options'] = 'Tindakan';
 

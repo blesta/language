@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,5 @@ $lang['MulticraftModule.!error.panel_api_url.empty'] = 'Моля, въведет
 $lang['MulticraftModule.!error.panel_url.empty'] = 'Моля, въведете URL адреса на вашия панел Multicraft.';
 $lang['MulticraftModule.!error.server_name.empty'] = 'Моля, въведете етикет за този сървър.';
 $lang['MulticraftModule.!error.json.unavailable'] = 'Разширението JSON се изисква от този модул.';
+$lang['Multicraft.back_to_manage'] = 'Обратно';
 

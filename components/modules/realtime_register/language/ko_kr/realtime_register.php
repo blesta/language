@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -340,4 +340,5 @@ $lang['RealtimeRegister.description'] = '당사는 150개 이상의 레지스트
 $lang['RealtimeRegister.name'] = 'Realtime Register';
 $lang['RealtimeRegister.tab_client_settings.field_status'] = '도메인 상태';
 $lang['RealtimeRegister.!notice.client_update_prohibited'] = '이 도메인은 관리할 수 없습니다.';
+$lang['RealtimeRegister.back_to_manage'] = '뒤로';
 

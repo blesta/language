@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,7 +88,7 @@ $lang['AdminMain.add.term_days'] = '%1$s 天';
 $lang['AdminMain.add.term_day'] = '%1$s 日';
 $lang['AdminMain.add.text_domain_unavailable'] = '不可用';
 $lang['AdminMain.add.text_domain_available'] = '可用';
-$lang['AdminMain.add.heading_options'] = '选项';
+$lang['AdminMain.add.heading_options'] = '行动';
 $lang['AdminMain.add.heading_status'] = '现状';
 $lang['AdminMain.add.heading_domain'] = '域名';
 $lang['AdminMain.add.title_registrar_options'] = '注册商选项';
@@ -109,7 +109,7 @@ $lang['AdminMain.add.field_add'] = '添加域名';
 $lang['AdminMain.add.field_register'] = '注册';
 $lang['AdminMain.add.field_transfer'] = '转让';
 $lang['AdminMain.add.link_viewclient'] = '查看客户';
-$lang['AdminMain.add.boxtitle_add'] = '添加域名： %1$s';
+$lang['AdminMain.add.boxtitle_add'] = '添加域名%1$s';
 $lang['AdminMain.add.boxtitle_client'] = '客户 #%1$s';
 $lang['AdminMain.index.unparent'] = '非亲和重置价格';
 $lang['AdminMain.!error.unsupported_domain'] = '不支持域名。';
@@ -143,7 +143,7 @@ $lang['AdminMain.index.category_canceled'] = '已取消';
 $lang['AdminMain.index.category_suspended'] = '暂停';
 $lang['AdminMain.index.category_pending'] = '待定';
 $lang['AdminMain.index.category_active'] = '活跃';
-$lang['AdminMain.index.heading_options'] = '选项';
+$lang['AdminMain.index.heading_options'] = '行动';
 $lang['AdminMain.index.heading_datecanceled'] = '取消日期';
 $lang['AdminMain.index.heading_datesuspended'] = '暂停日期';
 $lang['AdminMain.index.heading_dateexpires'] = '到期日期';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = '刷新';
 $lang['AdminMain.index.tooltip_transferred'] = '域名已从注册商处转移。';
 $lang['AdminMain.!success.remove_price_override'] = '取消了域名覆盖价格！';
 $lang['AdminMain.!success.set_price_override'] = '域名覆盖价格已更新！';
+$lang['AdminMain.add.heading_search'] = '域名查询';
+$lang['AdminMain.add.field_domain'] = '域名';
+$lang['AdminMain.add.label_spotlight_tlds'] = '聚焦顶级域名';
+$lang['AdminMain.add.link_more_tlds'] = '更多顶级域名';
+$lang['AdminMain.add.button_cancel'] = '取消';
+$lang['AdminMain.add.button_previous'] = '上一页';
+$lang['AdminMain.add.button_continue'] = '继续';
+$lang['AdminMain.add_confirmation.total'] = '共计';
+$lang['AdminMain.add_confirmation.heading_line_items'] = '细列项目';
+$lang['AdminMain.add_confirmation.heading_coupon'] = '优惠券代码';
+$lang['AdminMain.add_confirmation.heading_total'] = '订单总数';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = '输入优惠券代码';
+$lang['AdminMain.edit.text_select_action'] = '点击上面的按钮，显示执行操作的表单。';
+$lang['AdminMain.edit.text_no_fields'] = '此操作不需要任何其他选项。单击 "提交 "继续。';
 

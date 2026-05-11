@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = 'تمت إضافة الرد %1
 $lang['AdminResponses.!success.category_deleted'] = 'تم حذف الفئة %1$s بنجاح.';
 $lang['AdminResponses.!success.category_updated'] = 'تم تحديث الفئة %1$s بنجاح.';
 $lang['AdminResponses.!success.category_added'] = 'تمت إضافة الفئة %1$s بنجاح.';
+$lang['AdminResponses.index.btn_back'] = 'رجوع';
+$lang['AdminResponses.index.btn_add_category'] = 'إضافة فئة';
+$lang['AdminResponses.index.btn_add_response'] = 'إضافة رد';
 

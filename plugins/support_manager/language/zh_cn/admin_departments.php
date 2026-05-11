@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = '删除';
 $lang['AdminDepartments.edit.heading_default'] = '默认值';
 $lang['AdminDepartments.edit.heading_value'] = '价值';
 $lang['AdminDepartments.edit.heading_name'] = '名称';
-$lang['AdminDepartments.edit.heading_options'] = '选项';
+$lang['AdminDepartments.edit.heading_options'] = '行动';
 $lang['AdminDepartments.edit.heading_auto_delete'] = '自动删除';
 $lang['AdminDepartments.edit.heading_encrypted'] = '加密';
 $lang['AdminDepartments.edit.heading_client_add'] = '客户可添加';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = '删除';
 $lang['AdminDepartments.add.heading_default'] = '默认值';
 $lang['AdminDepartments.add.heading_value'] = '价值';
 $lang['AdminDepartments.add.heading_name'] = '名称';
-$lang['AdminDepartments.add.heading_options'] = '选项';
+$lang['AdminDepartments.add.heading_options'] = '行动';
 $lang['AdminDepartments.add.heading_auto_delete'] = '自动删除';
 $lang['AdminDepartments.add.heading_encrypted'] = '加密';
 $lang['AdminDepartments.add.heading_client_add'] = '客户可添加';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = '没有部门。';
 $lang['AdminDepartments.index.confirm_delete'] = '在将所有票单重新分配给其他部门之前，不得删除已分配票单的部门。您确定要删除这个部门吗？';
 $lang['AdminDepartments.index.option_delete'] = '删除';
 $lang['AdminDepartments.index.option_edit'] = '编辑';
-$lang['AdminDepartments.index.heading_options'] = '选项';
+$lang['AdminDepartments.index.heading_options'] = '行动';
 $lang['AdminDepartments.index.heading_default_priority'] = '默认优先级';
 $lang['AdminDepartments.index.heading_assigned_staff'] = '指派工作人员';
 $lang['AdminDepartments.index.heading_email'] = '电子邮件';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 客户端/应�
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 用户';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 提供商';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = '对于状态为已关闭的所有票单，如果票单已关闭一定时间，就会向客户发送留下反馈的提醒。';
+$lang['AdminDepartments.!text.description_hint'] = '客户在选择部门时可看到该说明';
+$lang['AdminDepartments.!text.priorities_hint'] = '按住 Ctrl (Windows) 或 Cmd (Mac) 键选择多个优先级';
+$lang['AdminDepartments.!text.search_responses'] = '搜索回复...';
+$lang['AdminDepartments.!text.searching'] = '搜索...';
+$lang['AdminDepartments.add.heading_actions'] = '行动';
+$lang['AdminDepartments.add.confirm_field_remove'] = '您确定要删除这个自定义字段吗？';
+$lang['AdminDepartments.edit.heading_actions'] = '行动';
 

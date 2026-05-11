@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Încărcați documentul';
 $lang['AdminMain.modal.delete_document'] = 'Chiar ștergeți acest document?';
 $lang['AdminMain.index.option_download'] = 'Descărcați';
 $lang['AdminMain.index.option_delete'] = 'Ștergeți';
-$lang['AdminMain.index.heading_date_options'] = 'Opțiuni';
+$lang['AdminMain.index.heading_date_options'] = 'Acțiuni';
 $lang['AdminMain.index.heading_date_added'] = 'Data adăugării';
 $lang['AdminMain.index.heading_description'] = 'Descriere';
 $lang['AdminMain.index.heading_name'] = 'Nume';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Documente > Adăugați';
 $lang['AdminMain.index.page_title'] = 'Documente';
 $lang['AdminMain.!success.document_deleted'] = 'Documentul a fost șters.';
 $lang['AdminMain.!success.document_uploaded'] = 'Documentul a fost încărcat.';
+$lang['AdminMain.index.link_client'] = 'Înapoi la client #%1$s';
+$lang['AdminMain.add.link_back'] = 'Înapoi la documente';
 

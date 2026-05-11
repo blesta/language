@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AppController.message.close'] = '×';
 $lang['AppController.structure.text_myinfo'] = 'Mine oplysninger';
 $lang['AppController.structure.text_settings'] = 'Indstillinger';
 $lang['AppController.structure.text_logout'] = 'Log ud';
-$lang['AppController.structure.text_maintenance'] = 'Vedligeholdelsestilstand er i øjeblikket aktiveret, og klienter kan ikke logge ind. Klik her for at ændre.';
+$lang['AppController.structure.text_maintenance'] = 'Vedligeholdelsestilstand er i øjeblikket aktiveret, og klienter kan ikke logge ind.';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Tilbage til personaleportalen';
 $lang['AppController.client_structure.default_title'] = 'Min konto';
@@ -83,5 +83,23 @@ $lang['AppController.sreader.dropdown'] = 'Slå rullemenuen til';
 $lang['AppController.sreader.navigation'] = 'Toggle navigation';
 $lang['AppController.dropzone.text'] = 'Læg filer her for at uploade eller klik for at vælge filer';
 $lang['AppController.!error.client_unauthorized_access'] = 'Du har ikke tilladelse til at få adgang til denne ressource, kontakt venligst den primære kontoindehaver for at anmode om adgang.';
-$lang['AppController.structure.text_step_up_access'] = 'Du har i øjeblikket en step up-session åben med adgang til administratorindstillinger. Klik her for at slippe adgangen.';
+$lang['AppController.structure.text_step_up_access'] = 'Du har i øjeblikket en step up-session åben med adgang til administratorindstillinger.';
+$lang['AppController.structure.text_mark_all_read'] = 'Marker alle som læst';
+$lang['AppController.structure.text_open'] = 'Åben';
+$lang['AppController.structure.no_notifications'] = 'Ingen nye notifikationer';
+$lang['AppController.structure.text_notifications'] = 'Meddelelser';
+$lang['AppController.structure.text_licensed_to'] = 'Licenseret til %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Forlæng sessionen';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Der er tid tilbage:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Afslut sessionen nu';
+$lang['AppController.structure.text_step_up_access_header'] = 'Step Up-godkendelse aktiv';
+$lang['AppController.structure.text_maintenance_button'] = 'Rediger vedligeholdelsestilstand';
+$lang['AppController.structure.text_maintenance_header'] = 'Vedligeholdelsestilstand aktiveret';
+$lang['AppController.structure.text_iconbar'] = 'Ikonbjælke';
+$lang['AppController.structure.text_notices'] = 'Meddelelser';
+$lang['AppController.text_loading'] = 'Indlæser...';
+$lang['AppController.modal.btn_delete'] = 'Sletning';
+$lang['AppController.modal.btn_cancel'] = 'Annuller';
+$lang['AppController.modal.confirm_delete'] = 'Bekræft sletning';
 

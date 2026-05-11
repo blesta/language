@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,7 +72,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'لا توجد سمات من هذ
 $lang['AdminCompanyThemes.index.option_export'] = 'التصدير';
 $lang['AdminCompanyThemes.index.option_delete'] = 'حذف';
 $lang['AdminCompanyThemes.index.option_edit'] = 'تحرير';
-$lang['AdminCompanyThemes.index.heading_options'] = 'الخيارات';
+$lang['AdminCompanyThemes.index.heading_options'] = 'الإجراءات';
 $lang['AdminCompanyThemes.index.heading_name'] = 'الاسم';
 $lang['AdminCompanyThemes.index.heading_color'] = 'نظام الألوان';
 $lang['AdminCompanyThemes.index.heading_id'] = 'بطاقة الهوية';

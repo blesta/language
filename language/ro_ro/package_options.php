@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Vă rugăm să introduceți o etic
 $lang['PackageOptions.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Dacă se ascunde pe factură trebuie setat la 0 sau 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Dacă se dezactivează stabilirea prețurilor trebuie setat la 0 sau 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Tipul nu poate fi modificat deoarece una sau mai multe valori ale opțiunii care nu sunt incluse în cerere sunt utilizate de un serviciu.';
 

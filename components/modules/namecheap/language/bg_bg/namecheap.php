@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.description'] = 'Namecheap, Inc. е акредитиран от
 $lang['Namecheap.name'] = 'Namecheap';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Автоматично актуализира списъка с TLD и цените от Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'Синхронизиране на данните на TLD';
+$lang['Namecheap.back_to_manage'] = 'Обратно';
 

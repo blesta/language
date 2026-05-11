@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Bericht dat wo
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Betaling geweigerd (creditcard)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Bericht dat wordt verzonden nadat een succesvolle creditcardbetaling is goedgekeurd.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Betaling goedgekeurd (creditcard)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Update';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Toepassen';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Er zijn geen sjablonen van dit type.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Bewerk';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Opties';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuleren';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Bijlage';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Verwijder';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Weet je zeker dat je deze bijlage wilt verwijderen?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opties';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Acties';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Bestandsnaam';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Extra bijlagen';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'E-mail Sjabloon';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Geen';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'HTML-sjabloon bijwerken';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Sjabloon bewerken';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Sjabloon bijwerken';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Naam';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'HTML-sjabloon bewerken';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Sjabloon toevoegen';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Sjabloon maken';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Naam';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'HTML-sjabloon toevoegen';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Bericht ove
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Dienst niet annuleren';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Bericht wordt verstuurd wanneer het tegoed van de klant onder de ingestelde drempel komt.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Melding laag saldo';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Voorgesteld onderwerp';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Tekstversie';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML-versie';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Onderwerp';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Inhoud toepassen op:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Fout:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Te veel aanvragen. Wacht even voordat u het opnieuw probeert.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Inhoud genereren mislukt. Probeer het opnieuw.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Prompt overschrijdt maximale lengte.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Er is een prompt nodig om inhoud te genereren.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Het genereren van AI-mailsjablonen is niet ingeschakeld.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'AI-functies zijn momenteel uitgeschakeld.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Tekstvoorbeeld';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML Voorbeeld';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Klik op Genereer om e-mailinhoud te maken op basis van het sjabloontype en de beschikbare tags.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Gegenereerde inhoud';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Optionele begeleiding voor de AI om de gegenereerde inhoud aan te passen.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Specifieke vereisten of toonvoorkeuren toevoegen...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Extra instructies';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Prompt laden...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Vraag Context';
+$lang['AdminCompanyEmails.ai.generating'] = 'Het genereren van...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Annuleren';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Gebruik deze inhoud';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenereer';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Herschrijven';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'genereren';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Gekopieerd!';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'E-mailinhoud herschrijven';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'E-mailinhoud genereren';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'AI-inhoud assistent';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Kopie';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 omleiding URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Weet je zeker dat je deze momentopname wilt herstellen? Alle niet-opgeslagen wijzigingen zullen verloren gaan.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Er zijn geen snapshots beschikbaar voor deze e-mailsjabloon.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Sjabloon Geschiedenis';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Snapshot herstellen';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Herstel';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Bladeren door bestanden';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Drop bestanden hier of klik op bladeren om bijlagen te uploaden';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Gebruik deze tags in je e-mailsjabloon om dynamische inhoud op te nemen.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Beschikbare tags';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Tekstversie van e-mail invoeren';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Onderwerp e-mail invoeren';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Voer een e-mailadres in';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Voer naam in';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'geselecteerde items';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Kopieer deze URL en voeg deze toe als een geautoriseerde redirect URI in de applicatie-instellingen van je OAuth provider (bijv. Google Cloud Console, Microsoft Azure Portal). Dit is nodig om OAuth authenticatie te laten werken.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'De e-mailsjabloon is succesvol hersteld van de momentopname!';
 

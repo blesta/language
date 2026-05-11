@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.addgroup.force_limits'] = 'Force %1$s Sınırlar';
 $lang['AdminCompanyModules.!success.row_added'] = '%1$s başarıyla eklendi.';
 $lang['AdminCompanyModules.!success.row_updated'] = '%1$s başarıyla güncellendi.';
 $lang['AdminCompanyModules.!success.row_deleted'] = '%1$s başarıyla silindi.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Filtre modülleri...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Eşleşen modül bulunamadı.';
 

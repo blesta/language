@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.current_password.matches'] = 'Nesprávné heslo.';
 $lang['Users.!error.username.unique'] = 'Toto uživatelské jméno již bylo obsazeno.';
 $lang['Users.!error.username.empty'] = 'Zadejte prosím uživatelské jméno.';
 $lang['Users.!error.recovery_email.format'] = 'Neplatná e-mailová adresa pro obnovení.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'musí odpovídat vzoru: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'musí obsahovat %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'alespoň %1$s znaků';
+$lang['Users.!error.password_requirement.length_exact'] = 'přesně %1$s znaků';
+$lang['Users.!error.password_requirement.length_between'] = 'mezi %1$s a %2$s znaky';
+$lang['Users.!error.password_requirement.special_char'] = 'speciální znak';
+$lang['Users.!error.password_requirement.digit'] = 'číslice';
+$lang['Users.!error.password_requirement.uppercase'] = 'velké písmeno';
+$lang['Users.!error.password_requirement.lowercase'] = 'malé písmeno';
+$lang['Users.!error.new_password.format_custom'] = 'Heslo nesplňuje požadavky: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'Heslo musí mít alespoň %1$s znaků a obsahovat pouze čísla.';
+$lang['Users.!error.new_password.format_alpha'] = 'Heslo musí mít alespoň %1$s znaků a obsahovat pouze písmena.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'Heslo musí mít alespoň %1$s znaků a obsahovat pouze písmena a číslice.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'Heslo musí obsahovat alespoň %1$s znaků a nesmí obsahovat mezery.';
+$lang['Users.!error.new_password.format_any'] = 'Heslo musí mít alespoň %1$s znaků.';
 

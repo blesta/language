@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Перетягуйте віджети справа наліво, щоб додати їх на інформаційну панель, або зліва направо, щоб видалити.';
 $lang['AdminMain.index.customize_dashboard'] = 'Налаштувати інформаційну панель';
 $lang['AdminMain.index.manage_widgets'] = 'Керування віджетами';
-$lang['AdminMain.index.no_quicklinks'] = 'Швидких посилань не встановлено.';
+$lang['AdminMain.index.no_quicklinks'] = 'Ще немає швидких посилань. Натисніть на іконку зірочки на будь-якій сторінці, щоб додати її сюди.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Швидкі посилання';
 $lang['AdminMain.index.page_title'] = 'Приладова панель';
 $lang['AdminMain.!success.event_deleted'] = 'Подію успішно видалено!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Подію успішно оновл
 $lang['AdminMain.!success.event_added'] = 'Подію успішно додано!';
 $lang['AdminMain.!error.event_editable'] = 'Тільки творець події може видалити цю подію.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Тільки творець події може видалити цю подію.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Керування віджетами інформаційної панелі';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Закрити';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Видалити швидке посилання';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Ви дійсно хочете вилучити "%1$s" з Швидких посилань?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Видалити';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Скасувати';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Натисніть на віджети, щоб показати або приховати їх на інформаційній панелі.';
+$lang['AdminMain.calendar.category_list'] = 'Список';
+$lang['AdminMain.calendar.category_today'] = 'Сьогодні';
 

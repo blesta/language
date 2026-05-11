@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,8 +27,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Отпадъци';
 $lang['SupportManagerTickets.status.closed'] = 'Затворен';
 $lang['SupportManagerTickets.status.on_hold'] = 'В режим на задържане';
 $lang['SupportManagerTickets.status.in_progress'] = 'В процес на изпълнение';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'В очакване на отговор от клиента';
-$lang['SupportManagerTickets.status.open'] = 'В очакване на отговор от персонала';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'В очакване на клиент';
+$lang['SupportManagerTickets.status.open'] = 'В очакване на персонала';
 $lang['SupportManagerTickets.priority.low'] = 'Нисък';
 $lang['SupportManagerTickets.priority.medium'] = 'Среден';
 $lang['SupportManagerTickets.priority.high'] = 'Висока';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.department_id.exists'] = 'Моля, избе
 $lang['SupportManagerTickets.!error.code.format'] = 'Кодът на билета трябва да съдържа само цифри.';
 $lang['SupportManagerTickets.log.service_id'] = 'Свързаната услуга е променена на вътрешен идентификатор: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" е задължителен и не може да бъде празен.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Билет #%1$s Актуализиран';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Нов билет #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s отговори на билет #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s отворен билет #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Билет #%1$s Assigned';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Билет №%1$s, който ви е предоставен: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Изображението не може да бъде качено. Моля, опитайте отново.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Образът надвишава максималния разрешен размер от %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Невалиден тип изображение. Разрешени са само изображения JPEG, PNG, GIF и WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Директорията за качване не може да бъде създадена.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Изображението не може да бъде записано. Моля, опитайте отново.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Не са разрешени вътрешни изображения с формат base64. Моля, поставете или плъзнете изображения в редактора, за да ги качите.';
 

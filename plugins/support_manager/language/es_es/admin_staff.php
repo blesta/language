@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminStaff.index.heading_email'] = 'Correo electrónico';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Recibir entradas por correo electrónico';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Recibir entradas por correo electrónico';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Recibir notificaciones de Ticket Messenger';
-$lang['AdminStaff.index.heading_options'] = 'Opciones';
+$lang['AdminStaff.index.heading_options'] = 'Acciones';
 $lang['AdminStaff.index.option_edit'] = 'Editar';
 $lang['AdminStaff.index.option_delete'] = 'Borrar';
 $lang['AdminStaff.index.confirm_delete'] = 'Al eliminar a este miembro del personal se anulará la asignación de todos los tickets actualmente asignados a este miembro del personal. ¿Está seguro de que desea eliminar a este miembro del personal?';

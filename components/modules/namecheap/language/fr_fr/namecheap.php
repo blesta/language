@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.!error.FRRegistrantJoNumber.format'] = 'Veuillez indiquer le nu
 $lang['Namecheap.!error.FRRegistrantJoPage.format'] = 'Veuillez définir le numéro de page de l\'annonce du journal.';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Mise à jour automatique de la liste des TLD et des tarifs de Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synchronisation des données TLD';
+$lang['Namecheap.back_to_manage'] = 'Retour';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.module_row_plural'] = '账户';
 $lang['Connectreseller.module_row'] = '账户';
 $lang['Connectreseller.description'] = 'ConnectReseller 是最大的注册商之一，它为域名注册商创建了一套完全私人标签的程序。';
 $lang['Connectreseller.name'] = 'ConnectReseller';
+$lang['Connectreseller.back_to_manage'] = '返回';
+$lang['Connectreseller.manage.tab_rows'] = '服务器';
+$lang['Connectreseller.manage.tab_groups'] = '服务器组';
 

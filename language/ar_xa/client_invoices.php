@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'نوع الدفع';
 $lang['ClientInvoices.index.no_results'] = 'ليس لديك %1$s فواتير ';
 $lang['ClientInvoices.index.option_pay'] = 'الراتب';
 $lang['ClientInvoices.index.option_view'] = 'عرض';
-$lang['ClientInvoices.index.heading_options'] = 'الخيارات';
+$lang['ClientInvoices.index.heading_options'] = 'الإجراءات';
 $lang['ClientInvoices.index.heading_datedue'] = 'تاريخ الاستحقاق';
 $lang['ClientInvoices.index.heading_datebilled'] = 'تاريخ الفاتورة';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'تاريخ الإغلاق';

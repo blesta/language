@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = 'Categoria a fost actual
 $lang['AdminKnowledgebase.!success.category_added'] = 'Categoria a fost creată cu succes.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Actualizați toate subcategoriile și articolele acestora';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Actualizați toate articolele din această categorie pentru a avea aceeași accesibilitate';
+$lang['AdminKnowledgebase.index.view'] = 'Vizualizare';
 

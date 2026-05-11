@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'Conti';
 $lang['Enom.module_row'] = 'Conto';
 $lang['Enom.description'] = 'Enom, Inc. è una società di registrazione di nomi di dominio e di hosting Web che vende anche altri prodotti strettamente legati ai nomi di dominio, come certificati SSL, servizi di posta elettronica e software per la creazione di siti Web.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Indietro';
 

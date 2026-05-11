@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Това е ти�
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Това е името на скритото поле на формата. Използвайте qty, за да създадете поле за количество.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Това е текстът, който се появява директно над полето на формуляра.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = 'Обратно';
 

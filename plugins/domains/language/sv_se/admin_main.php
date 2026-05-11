@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,7 +88,7 @@ $lang['AdminMain.add.term_days'] = '%1$s Dagar';
 $lang['AdminMain.add.term_day'] = '%1$s Dag';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Ej tillgänglig';
 $lang['AdminMain.add.text_domain_available'] = 'Tillgänglig';
-$lang['AdminMain.add.heading_options'] = 'Alternativ';
+$lang['AdminMain.add.heading_options'] = 'Åtgärder';
 $lang['AdminMain.add.heading_status'] = 'Status';
 $lang['AdminMain.add.heading_domain'] = 'Domän';
 $lang['AdminMain.add.title_registrar_options'] = 'Alternativ för registrator';
@@ -109,7 +109,7 @@ $lang['AdminMain.add.field_add'] = 'Lägg till domän';
 $lang['AdminMain.add.field_register'] = 'Register';
 $lang['AdminMain.add.field_transfer'] = 'Överföring';
 $lang['AdminMain.add.link_viewclient'] = 'Visa kund';
-$lang['AdminMain.add.boxtitle_add'] = 'Lägg till domän: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Lägg till domän %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Kund #%1$s';
 $lang['AdminMain.index.unparent'] = 'Föräldrafri och återställ priset';
 $lang['AdminMain.!error.unsupported_domain'] = 'Domännamnet stöds inte.';
@@ -143,7 +143,7 @@ $lang['AdminMain.index.category_canceled'] = 'Avbokad';
 $lang['AdminMain.index.category_suspended'] = 'Suspenderad';
 $lang['AdminMain.index.category_pending'] = 'Pågående';
 $lang['AdminMain.index.category_active'] = 'Aktiv';
-$lang['AdminMain.index.heading_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_datecanceled'] = 'Datum Annullerat';
 $lang['AdminMain.index.heading_datesuspended'] = 'Datum uppskjutet';
 $lang['AdminMain.index.heading_dateexpires'] = 'Datum som löper ut';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Uppdatera';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domänen har flyttats bort från registraren.';
 $lang['AdminMain.!success.remove_price_override'] = 'Priset för överstyrning av domän har tagits bort!';
 $lang['AdminMain.!success.set_price_override'] = 'Priset för åsidosättande av domän har uppdaterats!';
+$lang['AdminMain.add.heading_search'] = 'Domänuppslagning';
+$lang['AdminMain.add.field_domain'] = 'Domän';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Toppdomäner i fokus';
+$lang['AdminMain.add.link_more_tlds'] = 'Fler toppdomäner';
+$lang['AdminMain.add.button_cancel'] = 'Avbryt';
+$lang['AdminMain.add.button_previous'] = 'Föregående';
+$lang['AdminMain.add.button_continue'] = 'Fortsätt';
+$lang['AdminMain.add_confirmation.total'] = 'Totalt:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Linjeposter';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kupongkod';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Order Totalt';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Ange kupongkod';
+$lang['AdminMain.edit.text_select_action'] = 'Klicka på en knapp ovan för att visa formuläret för att utföra en åtgärd.';
+$lang['AdminMain.edit.text_no_fields'] = 'Denna åtgärd kräver inga ytterligare alternativ. Klicka på Skicka för att fortsätta.';
 

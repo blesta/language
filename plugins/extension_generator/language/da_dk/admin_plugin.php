@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminPlugin.basic.description'] = 'Beskrivelse';
 $lang['AdminPlugin.basic.logo'] = 'Logo';
 $lang['AdminPlugin.basic.author_name'] = 'Forfatterens navn';
 $lang['AdminPlugin.basic.author_url'] = 'Forfatter-URL';
-$lang['AdminPlugin.basic.text_options'] = 'Valgmuligheder';
+$lang['AdminPlugin.basic.text_options'] = 'Handlinger';
 $lang['AdminPlugin.basic.author_row_add'] = 'Tilføj forfatter';
 $lang['AdminPlugin.basic.text_remove'] = 'Fjern';
 $lang['AdminPlugin.basic.tooltip_description'] = 'Den beskrivelse, der vises i plugin-listen';
@@ -61,7 +61,7 @@ $lang['AdminPlugin.database.tooltip_primary'] = 'Markerer denne kolonne som den 
 $lang['AdminPlugin.database.placeholder_column_name'] = 'f.eks. kolonne_navn';
 $lang['AdminPlugin.database.placeholder_length'] = 'f.eks. 64 eller \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.text_more_info'] = 'Denne side bruges til at oprette et skema for de databasetabeller, der genereres og administreres af dette plugin. Der vil blive genereret kode til at tilføje og fjerne disse tabeller ved installation og afinstallation. Derudover vil der blive oprettet modelfiler til disse tabeller med nogle grundlæggende funktioner.';
-$lang['AdminPlugin.database.text_options'] = 'Valgmuligheder';
+$lang['AdminPlugin.database.text_options'] = 'Handlinger';
 $lang['AdminPlugin.database.text_remove'] = 'Fjern';
 $lang['AdminPlugin.database.integrations'] = 'Næste - Kerneintegrationer';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Kerneintegrationer';
@@ -85,7 +85,7 @@ $lang['AdminPlugin.integrations.link'] = 'Link';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Handlinger" repræsenterer plugin-sider, der er tilgængelige via kerneinterfacet. Det omfatter navigationslinks i administrator- og klientområdet, widgets i administratorområdet og links på klientprofilens sidebjælke. De controllere og handlinger, der indtastes her, vil blive brugt til at generere simple controller-filer. Derudover vil der blive oprettet eksempler på visningsfiler for hver handling.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Dette er hook-systemet i Blesta.  Begivenheder registreres enten af kernen eller af et plugin, hvorefter plugins lytter efter disse begivenheder og definerer håndteringsmetoder for begivenheden.  Da alle plugins kan registrere begivenheder, kan der være et hvilket som helst antal af dem, men listen over kernebegivenheder defineret af blesta kan findes her https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Klientkort er små bokse, der vises på klientprofilen (i klient- eller adminområdet) og bruges primært til at vise forskellige statistikker (f.eks. antal tjenester, billetter eller ordrer). De består af en værdi, en etiket, en baggrund og et link.  Etiketten vises under værdien, som hentes ind fra en callback-funktion.';
-$lang['AdminPlugin.integrations.text_options'] = 'Valgmuligheder';
+$lang['AdminPlugin.integrations.text_options'] = 'Handlinger';
 $lang['AdminPlugin.integrations.text_remove'] = 'Fjern';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Det sted i grænsefladen, hvor handlingen skal vises';
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Controlleren for den URI, hvorfra indholdet til handlingen skal hentes (f.eks. admin_main)';
@@ -132,7 +132,7 @@ $lang['AdminPlugin.features.placeholder_cron_label'] = 'f.eks. eksempel på Cron
 $lang['AdminPlugin.features.placeholder_time'] = 'f.eks. 14:25 eller 60';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Tilføj fanen Service Management';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Tilføj Cron-opgave';
-$lang['AdminPlugin.features.text_options'] = 'Valgmuligheder';
+$lang['AdminPlugin.features.text_options'] = 'Handlinger';
 $lang['AdminPlugin.features.text_remove'] = 'Fjern';
 $lang['AdminPlugin.features.confirm'] = 'Næste - Konfirmation';
 

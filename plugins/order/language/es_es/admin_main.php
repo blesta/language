@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.orderinfo.applied_heading_paymenttype'] = 'Tipo de pago';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Importe';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Aplicada';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Aplicado en';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Opciones';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Acciones';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Editar';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'No hay transacciones aplicadas a esta orden.';
 $lang['AdminMain.orderinfo.services_heading'] = 'Servicios';
@@ -47,7 +47,7 @@ $lang['AdminMain.orderinfo.services_heading_label'] = 'Etiqueta';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Plazo';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Fecha de adición';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Fecha Renueva';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Opciones';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Acciones';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Gestione';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Nunca';
 $lang['AdminMain.orderinfo.services_no_results'] = 'No hay servicios en este orden.';
@@ -112,4 +112,16 @@ $lang['AdminMain.affiliates.graph_visits'] = 'Visitas';
 $lang['AdminMain.affiliates.graph_sales'] = 'Ventas';
 $lang['AdminMain.affiliates.submit_settings'] = 'Guardar configuración';
 $lang['AdminMain.affiliates.submit_cancel'] = 'Cancelar';
+$lang['AdminMain.index.paid'] = 'Pagado';
+$lang['AdminMain.index.unpaid'] = 'Sin pagar';
+$lang['AdminMain.index.loading'] = 'Cargando...';
+$lang['AdminMain.index.text_items_selected'] = 'elementos seleccionados';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'ID de transacción';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Estado';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Fecha';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Servicio';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Estado';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Pendiente';
+$lang['AdminMain.settings.text_notifications'] = 'Configure cómo desea recibir las notificaciones de nuevos pedidos.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Configura cómo quieres recibir las notificaciones de los pagos de los afiliados.';
 

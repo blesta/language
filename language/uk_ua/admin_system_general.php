@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Каталог для завантаження повинен існувати і знаходитися поза кореневим каталогом веб-сторінки.';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Редагувати тип платежу';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Оновити тип платежу';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Використання визначення мови';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Тип';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Ім\'я';
@@ -30,7 +30,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Так.';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Видалення цього типу платежу призведе до того, що всі транзакції, які використовують цей тип платежу, будуть встановлені на "інші". Ви впевнені, що хочете видалити цей тип платежу?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Видалити';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Редагувати';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Параметри';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Дії';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Використання визначення мови';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Тип';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Ім\'я';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Налаштуван
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Налаштування GeoIP успішно оновлено!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Налаштування Базового налаштування успішно оновлено!';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir увімкнено. Доступ до файлів обмежено до: %1$s. Доступ до каталогів поза цими шляхами неможливий.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Каталог кешу';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Це значення представляє повний шлях до сервера, куди Blesta має записувати кешовані файли. Ця директорія повинна бути доступною для запису для веб-користувача сервера і користувача cron. З міркувань безпеки, цей шлях має бути розташований поза веб-кореневим каталогом; якщо він має бути всередині веб-кореневого каталогу, Blesta запише файл .htaccess як частковий захист, але конфігурації серверів, які ігнорують .htaccess (наприклад, Nginx), не надають такого захисту.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Зміна каталогу кешу не може бути застосована, оскільки файл маркера за адресою config/cache.dir.php не може бути записаний або видалений. Надайте дозвіл на запис до каталогу config (і до файлу маркера, якщо він існує) і спробуйте ще раз.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Каталог кешу має бути доступним для запису.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Сервери';
 $lang['Tcadmin.module_row'] = 'Сервер';
 $lang['Tcadmin.description'] = 'Панель керування ігровим хостингом TCAdmin була розроблена з нуля, щоб допомогти сучасним провайдерам ігрових послуг заощадити час і гроші, надаючи кінцевим користувачам повний контроль над своїми серверами.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Назад';
+$lang['Tcadmin.manage.tab_rows'] = 'Сервери';
+$lang['Tcadmin.manage.tab_groups'] = 'Групи серверів';
 

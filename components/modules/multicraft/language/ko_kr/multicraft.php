@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = '서버';
 $lang['Multicraft.module_row.name'] = '서버';
 $lang['Multicraft.!error.module_row.missing'] = '내부 오류가 발생했습니다. 모듈 행을 사용할 수 없습니다.';
 $lang['Multicraft.name'] = 'Multicraft';
+$lang['Multicraft.back_to_manage'] = '뒤로';
 

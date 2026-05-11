@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Voer een label in.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Of verbergen op factuur moet worden ingesteld op 0 of 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Of de prijsstelling moet worden uitgeschakeld, moet worden ingesteld op 0 of 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Het type kan niet worden gewijzigd omdat een of meer optiewaarden die niet zijn opgenomen in de inzending in gebruik zijn door een service.';
 

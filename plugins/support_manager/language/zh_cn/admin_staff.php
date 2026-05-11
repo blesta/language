@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = '支助系统目前没有工作人员。'
 $lang['AdminStaff.index.confirm_delete'] = '删除此工作人员将取消当前分配给此工作人员的所有票单。您确定要删除此工作人员吗？';
 $lang['AdminStaff.index.option_delete'] = '删除';
 $lang['AdminStaff.index.option_edit'] = '编辑';
-$lang['AdminStaff.index.heading_options'] = '选项';
+$lang['AdminStaff.index.heading_options'] = '行动';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = '接收票务信使通知';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = '接收移动票务电子邮件';
 $lang['AdminStaff.index.heading_ticket_emails'] = '接收票务电子邮件';

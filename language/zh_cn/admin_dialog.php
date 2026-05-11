@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = '我已将密码复�
 $lang['AdminDialog.password.field_modal_password'] = '密码';
 $lang['AdminDialog.confirm.text_no'] = '没有';
 $lang['AdminDialog.confirm.text_yes'] = '是';
+$lang['AdminDialog.password.title'] = '生成密码';
+$lang['AdminDialog.password.text_click_generate'] = '单击 "生成 "创建安全密码。';
 

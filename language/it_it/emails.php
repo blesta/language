@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Questa firma e-mail è attua
 $lang['Emails.!error.text.parse'] = 'Errore di analisi del modello: %1$s';
 $lang['Emails.!error.html.parse'] = 'Errore di analisi del modello: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'ID azienda non valido.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'L\'istantanea non appartiene all\'e-mail specificata.';
+$lang['Emails.!error.snapshot_id.exists'] = 'ID istantanea non valido.';
 

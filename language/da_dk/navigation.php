@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['Navigation.!error.action_id.valid'] = 'Ugyldigt handlings-ID';
 $lang['Navigation.!error.order.valid'] = 'Ordreindekset skal være en numerisk værdi';
 $lang['Navigation.!error.parent_id.valid'] = 'Ugyldigt ID for overordnet navigationselement';
-$lang['Navigation.getprimary.nav_home'] = 'Hjem';
+$lang['Navigation.getprimary.nav_home'] = 'Dashboard';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Dashboard';
 $lang['Navigation.getprimary.nav_clients'] = 'Kunder';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Gennemse kunder';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service-kø';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Ændringer i service';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektroniske fakturaer';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Håndtering af kredit';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

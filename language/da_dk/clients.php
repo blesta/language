@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.customfield.cf2'] = 'Brugerdefineret felt';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Det maksimale kreditbeløb for %1$s skal være større end minimumsbeløbet.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Det maksimale kreditbeløb for %1$s skal være større end 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Det mindste kreditbeløb for %1$s skal være større end 0.';
+$lang['Clients.!error.action[].exists'] = 'Ugyldig notifikationshandling.';
+$lang['Clients.!error.action.exists'] = 'Ugyldig notifikationshandling "%1$s".';
 

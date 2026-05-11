@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.nameserver.ns4'] = 'Name Server 4';
 $lang['Enom.nameserver.ns3'] = 'Name Server 3';
 $lang['Enom.nameserver.ns2'] = 'Name Server 2';
 $lang['Enom.nameserver.ns1'] = 'Name Server 1';
+$lang['Enom.back_to_manage'] = 'Înapoi';
 

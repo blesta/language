@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Configura�
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Mesagerul a fost dezinstalat cu succes.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Mesagerul a fost instalat cu succes.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Mesagerul a fost actualizat cu succes.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtrați mesagerii...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Nu s-au găsit mesageri corespunzători.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = '계정';
 $lang['Enom.module_row'] = '계정';
 $lang['Enom.description'] = '는 도메인 네임 등록기관이자 웹호스팅 회사로 SSL 인증서, 이메일 서비스, 웹사이트 구축 소프트웨어 등 도메인 네임과 밀접한 관련이 있는 다른 제품도 판매합니다.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = '뒤로';
 

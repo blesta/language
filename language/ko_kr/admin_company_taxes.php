@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyTaxes.basic.heading_tax_provider'] = '%1$s 설정';
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = '규칙 편집';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = '업데이트 규칙';
 $lang['AdminCompanyTaxes.edit.field.state'] = '주/시/도';
 $lang['AdminCompanyTaxes.edit.field.country'] = '국가';
 $lang['AdminCompanyTaxes.edit.field.amount'] = '금액';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Tipul de plată';
 $lang['ClientInvoices.index.no_results'] = 'Nu aveți nicio factură %1$s.';
 $lang['ClientInvoices.index.option_pay'] = 'Salariu';
 $lang['ClientInvoices.index.option_view'] = 'Vezi';
-$lang['ClientInvoices.index.heading_options'] = 'Opțiuni';
+$lang['ClientInvoices.index.heading_options'] = 'Acțiuni';
 $lang['ClientInvoices.index.heading_datedue'] = 'Data scadentă';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Data facturării';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Data închiderii';

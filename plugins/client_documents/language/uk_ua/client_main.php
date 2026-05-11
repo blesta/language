@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['ClientMain.index.option_download'] = 'Завантажити';
-$lang['ClientMain.index.heading_options'] = 'Параметри';
+$lang['ClientMain.index.heading_options'] = 'Дії';
 $lang['ClientMain.index.heading_date_added'] = 'Дата додавання';
 $lang['ClientMain.index.heading_description'] = 'Опис';
 $lang['ClientMain.index.heading_name'] = 'Ім\'я';

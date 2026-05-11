@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.package_fields.backups'] = 'Backup-grænse (valgfri)';
 $lang['PterodactylPackage.package_fields.tooltip.backups'] = 'Det samlede antal sikkerhedskopier, som en bruger har tilladelse til for de oprettede servere. Lad den være tom for at tillade ubegrænset.';
 $lang['PterodactylPackage.package_fields.optional'] = '%1$s (Valgfrit)';
 $lang['PterodactylPackage.package_fields.tooltip.display'] = 'Markér for at give klienter mulighed for at ændre denne værdi under tilføjelse/redigering af service. Lad være med at markere, hvis du planlægger at bruge en konfigurerbar indstilling til dette felt.';
+$lang['Pterodactyl.back_to_manage'] = 'Tilbage';
 

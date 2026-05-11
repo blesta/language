@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'التالي - التأكيد';
 $lang['AdminMerchant.features.heading_supported_features'] = 'الميزات المدعومة';
 $lang['AdminMerchant.fields.features'] = 'التالي - الميزات المدعومة';
 $lang['AdminMerchant.fields.text_remove'] = 'إزالة';
-$lang['AdminMerchant.fields.text_options'] = 'الخيارات';
+$lang['AdminMerchant.fields.text_options'] = 'الإجراءات';
 $lang['AdminMerchant.fields.field_row_add'] = 'إضافة حقل التكوين';
 $lang['AdminMerchant.fields.placeholder_label'] = 'على سبيل المثال حقل التكوين';
 $lang['AdminMerchant.fields.placeholder_name'] = 'على سبيل المثال حقل_التكوين';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'الشعار المعروض في ق
 $lang['AdminMerchant.basic.tooltip_description'] = 'الوصف الموضح في قائمة المكونات الإضافية';
 $lang['AdminMerchant.basic.text_remove'] = 'إزالة';
 $lang['AdminMerchant.basic.author_row_add'] = 'إضافة مؤلف';
-$lang['AdminMerchant.basic.text_options'] = 'الخيارات';
+$lang['AdminMerchant.basic.text_options'] = 'الإجراءات';
 $lang['AdminMerchant.basic.author_url'] = 'عنوان URL للمؤلف';
 $lang['AdminMerchant.basic.author_name'] = 'اسم المؤلف';
 $lang['AdminMerchant.basic.currencies'] = 'العملات';

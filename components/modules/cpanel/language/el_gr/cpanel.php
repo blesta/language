@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Κωδικός πρό�
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Όνομα χρήστη';
 $lang['Cpanel.tab_client_login.logintocpanel'] = 'Συνδεθείτε στο cPanel';
 $lang['Cpanel.tab_client_login'] = 'Συνδεθείτε στο cPanel';
+$lang['Cpanel.back_to_manage'] = 'Πίσω';
+$lang['Cpanel.manage.tab_rows'] = 'Servers';
+$lang['Cpanel.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

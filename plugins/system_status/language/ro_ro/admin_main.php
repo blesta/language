@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'În general, sistemul este în stare bun
 $lang['AdminMain.index.health_excellent'] = 'Sistemul este sănătos și pare să funcționeze normal.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Configurare?';
 $lang['AdminMain.index.upload_dir'] = 'Calea directorului de încărcare din setările dvs. se află în directorul web rădăcină.  Ar trebui să fie plasat deasupra directorului web rădăcină pentru a vă asigura că nu există nicio problemă cu accesul public la acesta.';
+$lang['AdminMain.index.text_info'] = 'Informații';
+$lang['AdminMain.index.text_warning'] = 'Avertisment';
+$lang['AdminMain.index.text_error'] = 'Eroare';
+$lang['AdminMain.index.text_success'] = 'Succes';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistemul';
+$lang['AdminMain.index.category_database'] = 'Baza de date';
+$lang['AdminMain.index.category_security'] = 'Securitate';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Konton';
 $lang['Opensrs.module_row'] = 'Konto';
 $lang['Opensrs.description'] = 'OpenSRS är en domänregistrator som erbjuder en premiumplattform med vita etiketter som kopplar samman återförsäljarpartners med de lösningar de behöver.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Tillbaka';
 

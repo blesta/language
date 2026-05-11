@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'الإعدادات';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'إرسال تذكيرات للعملاء تلقائيًا لترك ملاحظاتهم على التذاكر التي تم إغلاقها بعد فترة زمنية معينة.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'إرسال تذكيرات الملاحظات';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'معالجة التذاكر باستخدام الذكاء الاصطناعي';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'يقوم بتحليل التذاكر باستخدام الذكاء الاصطناعي لإنشاء اقتراحات للاستجابة وتنفيذ استخدامات الأداة تلقائيًا (إغلاق الرسائل غير المرغوب فيها، وتعيين الموظفين، وتغيير الأولوية).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'إعدادات الذكاء الاصطناعي';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---/*ملاحظة: تم إنشاء هذا الرد من قبل منظمة العفو الدولية وينبغي مراجعته للتأكد من دقته.*.';
 

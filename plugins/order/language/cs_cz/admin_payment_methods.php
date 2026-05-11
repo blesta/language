@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'Přidání partn
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Opravdu chcete tento způsob platby odstranit?';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Odstranit';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Upravit';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Možnosti';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Akce';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Název';
 $lang['AdminPaymentMethods.index.no_results'] = 'V současné době nejsou k dispozici žádné platební metody.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Přidání partnerské platební metody';

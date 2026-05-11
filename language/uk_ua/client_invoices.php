@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Тип платежу';
 $lang['ClientInvoices.index.no_results'] = 'У вас немає рахунків-фактур на суму %1$.';
 $lang['ClientInvoices.index.option_pay'] = 'Заплати';
 $lang['ClientInvoices.index.option_view'] = 'Вигляд';
-$lang['ClientInvoices.index.heading_options'] = 'Параметри';
+$lang['ClientInvoices.index.heading_options'] = 'Дії';
 $lang['ClientInvoices.index.heading_datedue'] = 'Дата сплати';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Дата виставлення рахунку';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Дата закрита';

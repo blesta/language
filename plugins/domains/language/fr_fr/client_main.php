@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['ClientMain.index.heading_renewal_date'] = 'Date de renouvellement';
 $lang['ClientMain.index.heading_expiration_date'] = 'Date d\'expiration';
 $lang['ClientMain.index.heading_suspension_date'] = 'Date de suspension';
 $lang['ClientMain.index.heading_deletion_date'] = 'Date de suppression';
-$lang['ClientMain.index.heading_options'] = 'Options';
+$lang['ClientMain.index.heading_options'] = 'Actions';
 $lang['ClientMain.index.option_manage'] = 'Gérer';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.text_never'] = 'Jamais';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Câmpul %1$s trebuie să conțină un
 $lang['PterodactylRule.!error.numeric'] = 'Câmpul %1$s trebuie să conțină un număr.';
 $lang['PterodactylRule.!error.regex'] = 'Câmpul %1$s trebuie să se potrivească cu regexul %2$s.';
 $lang['PterodactylRule.!error.required'] = 'Câmpul %1$s este obligatoriu.';
+$lang['Pterodactyl.back_to_manage'] = 'Înapoi';
 

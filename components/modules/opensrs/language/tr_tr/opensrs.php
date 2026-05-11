@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Hesaplar';
 $lang['Opensrs.module_row'] = 'Hesap';
 $lang['Opensrs.description'] = 'OpenSRS, bayi ortaklarını ihtiyaç duydukları çözümlerle buluşturan premium, beyaz etiketli bir platform sunan toptan bir alan adı kayıt kuruluşudur.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Geri';
 

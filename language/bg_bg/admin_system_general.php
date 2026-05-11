@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Директорията за качване трябва да съществува и да е извън основната уеб директория.';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Име';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Редактиране на типа плащане';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Актуализиране на типа плащане';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Използване на езика Определение';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Тип';
 $lang['AdminSystemGeneral.edittype.boxtitle_edittype'] = 'Редактиране на типа плащане';
@@ -30,7 +30,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Да';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Изтриването на този тип плащане ще доведе до това, че всички транзакции, които използват този тип плащане, ще бъдат зададени като "други". Сигурни ли сте, че искате да изтриете този тип плащане?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Изтриване на';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Редактиране на';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Опции';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Действия';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Употреби Определение на езика';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Тип';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Име';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Настройкит
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Настройките на GeoIP бяха успешно актуализирани!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Настройките на основната настройка бяха успешно актуализирани!';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir е разрешен. Достъпът до файловете е ограничен до: %1$s. Достъпът до директории извън тези пътища не е възможен.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Директория на кеша';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Тази стойност представлява пълния път до сървъра, където Blesta трябва да записва кешираните файлове. Тази директория трябва да може да се записва от уеб потребителя и потребителя на cron на сървъра. От съображения за сигурност този път трябва да бъде разположен извън уеб корена; ако трябва да бъде вътре в уеб корена, Blesta ще запише файл .htaccess като частично смекчаване, но конфигурациите на сървъра, които игнорират .htaccess (като Nginx), не осигуряват такава защита.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Промяната на директорията на кеша не може да бъде приложена, тъй като маркерният файл в config/cache.dir.php не може да бъде записан или премахнат. Дайте право на запис в директорията config (и във файла с маркера, ако съществува) и опитайте отново.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Директорията на кеша трябва да е съществуваща директория, в която може да се пише.';
 

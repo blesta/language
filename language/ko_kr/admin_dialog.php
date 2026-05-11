@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = '이 비밀번호를
 $lang['AdminDialog.password.field_modal_password'] = '비밀번호';
 $lang['AdminDialog.confirm.text_no'] = '아니요';
 $lang['AdminDialog.confirm.text_yes'] = '예';
+$lang['AdminDialog.password.title'] = '비밀번호 생성';
+$lang['AdminDialog.password.text_click_generate'] = '생성을 클릭하여 보안 비밀번호를 생성합니다.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.domain.ASIAIdentForm.societyRegistry'] = 'Registre des sociétés';
 $lang['Enom.domain.ASIAIdentForm.politicalPartyRegistry'] = 'Registre des partis politiques';
 $lang['Enom.domain.ASIAIdentForm.passport'] = 'Passeport/ carte d\'identité de citoyenneté';
 $lang['Enom.domain.ASIAIdentNumber'] = 'Numéro d\'identité';
+$lang['Enom.back_to_manage'] = 'Retour';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminPlugin.basic.description'] = 'Περιγραφή';
 $lang['AdminPlugin.basic.logo'] = 'Λογότυπο';
 $lang['AdminPlugin.basic.author_name'] = 'Όνομα συγγραφέα';
 $lang['AdminPlugin.basic.author_url'] = 'Συγγραφέας URL';
-$lang['AdminPlugin.basic.text_options'] = 'Επιλογές';
+$lang['AdminPlugin.basic.text_options'] = 'Δράσεις';
 $lang['AdminPlugin.basic.author_row_add'] = 'Προσθήκη συγγραφέα';
 $lang['AdminPlugin.basic.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminPlugin.basic.tooltip_description'] = 'Η περιγραφή που εμφανίζεται στη λίστα του πρόσθετου';
@@ -61,7 +61,7 @@ $lang['AdminPlugin.database.tooltip_primary'] = 'Χαρακτηρίζει αυτ
 $lang['AdminPlugin.database.placeholder_column_name'] = 'π.χ. column_name';
 $lang['AdminPlugin.database.placeholder_length'] = 'π.χ. 64 ή \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.text_more_info'] = 'Αυτή η σελίδα χρησιμοποιείται για τη δημιουργία ενός σχήματος για τους πίνακες της βάσης δεδομένων που δημιουργούνται και διαχειρίζονται από αυτό το πρόσθετο. Θα δημιουργηθεί κώδικας για την προσθήκη και την αφαίρεση αυτών των πινάκων κατά την εγκατάσταση και την απεγκατάσταση. Επιπλέον, θα δημιουργηθούν αρχεία μοντέλων για αυτούς τους πίνακες με ορισμένες βασικές λειτουργίες.';
-$lang['AdminPlugin.database.text_options'] = 'Επιλογές';
+$lang['AdminPlugin.database.text_options'] = 'Δράσεις';
 $lang['AdminPlugin.database.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminPlugin.database.integrations'] = 'Επόμενο - Βασικές ενσωματώσεις';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Βασικές ενσωματώσεις';
@@ -85,7 +85,7 @@ $lang['AdminPlugin.integrations.link'] = 'Σύνδεσμος';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = 'Οι "Ενέργειες" αντιπροσωπεύουν σελίδες του πρόσθετου που είναι προσβάσιμες μέσω της βασικής διεπαφής. Αυτό περιλαμβάνει συνδέσμους πλοήγησης στις περιοχές διαχείρισης και πελατών, widgets στην περιοχή διαχείρισης και συνδέσμους στην πλευρική γραμμή του προφίλ πελάτη. Οι ελεγκτές και οι ενέργειες που εισάγονται εδώ θα χρησιμοποιηθούν για τη δημιουργία απλών αρχείων ελεγκτών. Επιπλέον, θα δημιουργηθούν αρχεία προβολής δείγματος για κάθε ενέργεια.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Αυτό είναι το σύστημα γάντζων στο Blesta.  Τα συμβάντα καταχωρούνται είτε από τον πυρήνα είτε από ένα πρόσθετο, στη συνέχεια τα πρόσθετα ακούν αυτά τα συμβάντα και ορίζουν μεθόδους χειρισμού για το συμβάν.  Δεδομένου ότι όλα τα πρόσθετα μπορούν να καταχωρούν γεγονότα, μπορεί να υπάρχει οποιοσδήποτε αριθμός από αυτά, ωστόσο η λίστα των γεγονότων του πυρήνα που ορίζονται από το blesta μπορεί να βρεθεί εδώ https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Οι κάρτες πελατών είναι μικρά κουτάκια που εμφανίζονται στο προφίλ του πελάτη (στην περιοχή πελατών ή διαχείρισης) και χρησιμοποιούνται κυρίως για την εμφάνιση διαφόρων στατιστικών στοιχείων (π.χ. αριθμός υπηρεσιών, εισιτηρίων ή παραγγελιών). Αποτελούνται από μια τιμή, μια ετικέτα, ένα φόντο και έναν σύνδεσμο.  Η ετικέτα εμφανίζεται κάτω από την τιμή η οποία αντλείται από μια συνάρτηση ανάκλησης.';
-$lang['AdminPlugin.integrations.text_options'] = 'Επιλογές';
+$lang['AdminPlugin.integrations.text_options'] = 'Δράσεις';
 $lang['AdminPlugin.integrations.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Η θέση στη διεπαφή για την εμφάνιση της ενέργειας';
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Ο ελεγκτής για το URI από το οποίο θα αντληθεί το περιεχόμενο για την ενέργεια (π.χ. admin_main)';
@@ -132,7 +132,7 @@ $lang['AdminPlugin.features.placeholder_cron_label'] = 'π.χ. Παράδειγ�
 $lang['AdminPlugin.features.placeholder_time'] = 'π.χ. 14:25 ή 60';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Προσθήκη καρτέλας Service Management';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Προσθήκη εργασίας Cron';
-$lang['AdminPlugin.features.text_options'] = 'Επιλογές';
+$lang['AdminPlugin.features.text_options'] = 'Δράσεις';
 $lang['AdminPlugin.features.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminPlugin.features.confirm'] = 'Επόμενο - Επιβεβαίωση';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.settings.actions_description'] = 'Handlinger definere
 $lang['AdminCompanyPlugins.settings.actions_uri'] = 'URI: %1$s';
 $lang['AdminCompanyPlugins.settings.actions_heading_sub'] = 'Underindstillinger';
 $lang['AdminCompanyPlugins.settings.actions_heading_secondary'] = 'Sekundære muligheder';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtrer plugins...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Ingen matchende plugins fundet.';
 

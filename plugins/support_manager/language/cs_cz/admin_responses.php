@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = 'Odpověď %1$s byla úspěšn
 $lang['AdminResponses.!success.category_deleted'] = 'Kategorie %1$s byla úspěšně odstraněna.';
 $lang['AdminResponses.!success.category_updated'] = 'Kategorie %1$s byla úspěšně aktualizována.';
 $lang['AdminResponses.!success.category_added'] = 'Kategorie %1$s byla úspěšně přidána.';
+$lang['AdminResponses.index.btn_back'] = 'Zpět';
+$lang['AdminResponses.index.btn_add_category'] = 'Přidat kategorii';
+$lang['AdminResponses.index.btn_add_response'] = 'Přidat odpověď';
 

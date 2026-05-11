@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -69,7 +69,7 @@ $lang['AdminSystemGeneral.paymenttypes.boxtitle_types'] = 'Betalingstyper';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Navn';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Type';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Bruger sprog Definition';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Valgmuligheder';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Handlinger';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Rediger';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Slet';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Hvis du sletter denne betalingstype, vil alle transaktioner, der bruger denne betalingstype, blive sat til "andet". Er du sikker på, at du vil slette denne betalingstype?';
@@ -89,7 +89,11 @@ $lang['AdminSystemGeneral.edittype.boxtitle_edittype'] = 'Rediger betalingstype'
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Navn';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Definition af brug af sprog';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Rediger betalingstype';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Opdater betalingstype';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Upload-biblioteket skal eksistere og være uden for rod-webbiblioteket.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir er aktiveret. Filadgang er begrænset til: %1$s. Der er ikke adgang til mapper uden for disse stier.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Cache-katalog';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Denne værdi repræsenterer den fulde serversti til det sted, hvor Blesta skal skrive cachelagrede filer. Denne mappe skal kunne skrives af serverens webbruger og cron-bruger. Af sikkerhedshensyn bør denne sti være placeret uden for webroden; hvis den skal være inden for webroden, vil Blesta skrive en .htaccess-fil som en delvis afhjælpning, men serverkonfigurationer, der ignorerer .htaccess (såsom Nginx), giver ingen sådan beskyttelse.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Ændringen af cachebiblioteket kan ikke gennemføres, fordi markørfilen i config/cache.dir.php ikke kan skrives eller fjernes. Giv skrivetilladelse til config-biblioteket (og til markørfilen, hvis den findes), og prøv igen.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Cachebiblioteket skal være et eksisterende skrivbart bibliotek.';
 

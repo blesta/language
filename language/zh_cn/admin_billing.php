@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -15,7 +15,7 @@ $lang['AdminBilling.services.boxtitle_services'] = '服务';
 $lang['AdminBilling.services.page_title'] = '账单服务';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = '此报价没有相关发票。';
 $lang['AdminBilling.quotationinvoices.option_view'] = '查看';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = '选项';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = '行动';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = '账单日期';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = '已付款';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = '金额';
@@ -26,7 +26,7 @@ $lang['AdminBilling.quotations.option_approve'] = '批准';
 $lang['AdminBilling.quotations.option_invoice'] = '创建发票';
 $lang['AdminBilling.quotations.option_view'] = '查看';
 $lang['AdminBilling.quotations.option_edit'] = '编辑';
-$lang['AdminBilling.quotations.heading_options'] = '选项';
+$lang['AdminBilling.quotations.heading_options'] = '行动';
 $lang['AdminBilling.quotations.heading_date_expires'] = '有效期';
 $lang['AdminBilling.quotations.heading_date_created'] = '创建日期';
 $lang['AdminBilling.quotations.heading_total'] = '金额';
@@ -64,7 +64,7 @@ $lang['AdminBilling.invoices.category_open'] = '开放';
 $lang['AdminBilling.invoices.heading_count'] = '计数';
 $lang['AdminBilling.invoices.heading_duration'] = '持续时间';
 $lang['AdminBilling.invoices.heading_term'] = '学期';
-$lang['AdminBilling.invoices.heading_options'] = '选项';
+$lang['AdminBilling.invoices.heading_options'] = '行动';
 $lang['AdminBilling.invoices.heading_datedue'] = '到期日期';
 $lang['AdminBilling.invoices.heading_datebilled'] = '账单日期';
 $lang['AdminBilling.invoices.heading_dateclosed'] = '关闭日期';
@@ -120,7 +120,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = '打印';
 $lang['AdminBilling.printqueue.page_title'] = '账单打印队列';
 $lang['AdminBilling.invoices.text_edit'] = '编辑';
 $lang['AdminBilling.invoices.applied_no_results'] = '该发票未进行任何交易。';
-$lang['AdminBilling.invoices.headingexpand_options'] = '选项';
+$lang['AdminBilling.invoices.headingexpand_options'] = '行动';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = '应用于';
 $lang['AdminBilling.invoices.headingexpand_applied'] = '应用';
 $lang['AdminBilling.invoices.headingexpand_amount'] = '金额';
@@ -136,7 +136,7 @@ $lang['AdminBilling.transactions.category_error'] = '错误';
 $lang['AdminBilling.transactions.category_voided'] = '无效';
 $lang['AdminBilling.transactions.category_declined'] = '拒绝';
 $lang['AdminBilling.transactions.category_approved'] = '批准';
-$lang['AdminBilling.transactions.heading_options'] = '选项';
+$lang['AdminBilling.transactions.heading_options'] = '行动';
 $lang['AdminBilling.transactions.heading_date'] = '日期';
 $lang['AdminBilling.services.heading_term'] = '学期';
 $lang['AdminBilling.transactions.heading_reference_id'] = '参考号';
@@ -151,7 +151,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = '交易';
 $lang['AdminBilling.transactions.page_title'] = '账单交易';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = '取消原因：%1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = '这项服务没有详细信息。';
-$lang['AdminBilling.services.field_actionsubmit'] = '提交';
+$lang['AdminBilling.services.field_actionsubmit'] = '申请';
 $lang['AdminBilling.services.action.field_client'] = '客户：';
 $lang['AdminBilling.services.action.push_to_client'] = '推送到客户端';
 $lang['AdminBilling.services.action.field_action_type_none'] = '不要取消';
@@ -170,7 +170,7 @@ $lang['AdminBilling.services.category_active'] = '活跃';
 $lang['AdminBilling.services.confirm_delete'] = '您确定要删除这项服务吗？';
 $lang['AdminBilling.services.option_delete'] = '删除';
 $lang['AdminBilling.services.option_manage'] = '管理';
-$lang['AdminBilling.services.heading_options'] = '选项';
+$lang['AdminBilling.services.heading_options'] = '行动';
 $lang['AdminBilling.services.heading_datecanceled'] = '取消日期';
 $lang['AdminBilling.services.heading_datesuspended'] = '暂停日期';
 $lang['AdminBilling.services.heading_daterenews'] = '续订日期';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = '所选服务已成功解�
 $lang['AdminBilling.!success.services_suspended'] = '所选服务已成功暂停。';
 $lang['AdminBilling.services.text_pending_service_changes'] = '这项服务有待更改。';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = '支付日期%1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = '所选项目';
+$lang['AdminBilling.printqueue.text_item_selected'] = '选定项目';
+$lang['AdminBilling.transactions.option_view'] = '查看';
+$lang['AdminBilling.transactions.headingexpand_options'] = '行动';
+$lang['AdminBilling.services.text_items_selected'] = '所选项目';
+$lang['AdminBilling.services.text_item_selected'] = '选定项目';
+$lang['AdminBilling.services.field_filtersubmit'] = '应用过滤器';
+$lang['AdminBilling.services.field_filterclear'] = '清晰';
+$lang['AdminBilling.services.filter_toggle'] = '切换过滤器';
+$lang['AdminBilling.quotations.field_filtersubmit'] = '应用过滤器';
+$lang['AdminBilling.quotations.field_filterclear'] = '清晰';
+$lang['AdminBilling.quotations.filter_toggle'] = '切换过滤器';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = '点击小部件可在仪表板上显示或隐藏它们。';
 

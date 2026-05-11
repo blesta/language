@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Kisaran port palin
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Apakah akan menggunakan IP khusus harus diatur ke 1 atau 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'ID lokasi tidak cocok dengan ID lokasi mana pun di Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'ID lokasi harus berupa angka.';
+$lang['Pterodactyl.back_to_manage'] = 'Kembali';
 

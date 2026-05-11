@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'ليس لديك %1$s نطاقات ';
 $lang['ClientMain.index.text_never'] = 'أبداً';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'الإدارة';
-$lang['ClientMain.index.heading_options'] = 'الخيارات';
+$lang['ClientMain.index.heading_options'] = 'الإجراءات';
 $lang['ClientMain.index.heading_deletion_date'] = 'تاريخ الحذف';
 $lang['ClientMain.index.heading_suspension_date'] = 'تاريخ التعليق';
 $lang['ClientMain.index.heading_expiration_date'] = 'تاريخ انتهاء الصلاحية';

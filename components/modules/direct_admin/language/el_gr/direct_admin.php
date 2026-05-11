@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Πρέπει να εισαγά�
 $lang['DirectAdmin.row_meta.ip_address'] = 'Διεύθυνση IP';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Η διεύθυνση IP φαίνεται να είναι άκυρη.';
 $lang['DirectAdmin.row_meta.http_version'] = 'Έκδοση HTTP';
+$lang['DirectAdmin.back_to_manage'] = 'Πίσω';
+$lang['DirectAdmin.manage.tab_rows'] = 'Servers';
+$lang['DirectAdmin.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

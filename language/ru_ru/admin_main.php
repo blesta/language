@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Перетащите виджеты справа налево, чтобы добавить их на приборную панель, или слева направо, чтобы удалить.';
 $lang['AdminMain.index.customize_dashboard'] = 'Настроить приборную панель';
 $lang['AdminMain.index.manage_widgets'] = 'Управление виджетами';
-$lang['AdminMain.index.no_quicklinks'] = 'Быстрые ссылки не установлены.';
+$lang['AdminMain.index.no_quicklinks'] = 'Быстрых ссылок пока нет. Нажмите на значок звезды на любой странице, чтобы добавить ее сюда.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Быстрые ссылки';
 $lang['AdminMain.index.page_title'] = 'Приборная панель';
 $lang['AdminMain.!success.event_deleted'] = 'Событие было успешно удалено!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Событие было успешн
 $lang['AdminMain.!success.event_added'] = 'Событие успешно добавлено!';
 $lang['AdminMain.!error.event_editable'] = 'Удалить событие может только его создатель.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Удалить это событие может только его создатель.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Управление виджетами приборной панели';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Закрыть';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Удалить быструю ссылку';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Вы уверены, что хотите удалить "%1$s" из "Быстрых ссылок"?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Удалить';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Отмена';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Щелкните по виджетам, чтобы показать или скрыть их на приборной панели.';
+$lang['AdminMain.calendar.category_list'] = 'Список';
+$lang['AdminMain.calendar.category_today'] = 'Сегодня';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = '数量';
 $lang['Orders.view.heading_status'] = '现状';
 $lang['Orders.view.heading_applied'] = '应用';
 $lang['Orders.view.heading_type'] = '类型';
-$lang['Orders.view.heading_options'] = '选项';
+$lang['Orders.view.heading_options'] = '行动';
 $lang['Orders.view.heading_date_renews'] = '续订日期';
 $lang['Orders.view.heading_date_created'] = '创建日期';
 $lang['Orders.view.heading_term'] = '学期';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = '查看订单';
 $lang['Orders.index.no_results'] = '您没有任何订单。';
 $lang['Orders.index.option_cancel'] = '取消';
 $lang['Orders.index.option_view'] = '查看';
-$lang['Orders.index.heading_options'] = '选项';
+$lang['Orders.index.heading_options'] = '行动';
 $lang['Orders.index.heading_date_ordered'] = '订购日期';
 $lang['Orders.index.heading_paid'] = '已付款';
 $lang['Orders.index.heading_total'] = '总计';

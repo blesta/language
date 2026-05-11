@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Ladda upp dokument';
 $lang['AdminMain.modal.delete_document'] = 'Har du verkligen raderat det här dokumentet?';
 $lang['AdminMain.index.option_download'] = 'Nedladdning';
 $lang['AdminMain.index.option_delete'] = 'Radera';
-$lang['AdminMain.index.heading_date_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_date_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_date_added'] = 'Datum tillagt';
 $lang['AdminMain.index.heading_description'] = 'Beskrivning';
 $lang['AdminMain.index.heading_name'] = 'Namn';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Dokument > Lägg till';
 $lang['AdminMain.index.page_title'] = 'Dokument';
 $lang['AdminMain.!success.document_deleted'] = 'Dokumentet har raderats.';
 $lang['AdminMain.!success.document_uploaded'] = 'Dokumentet har laddats upp.';
+$lang['AdminMain.index.link_client'] = 'Tillbaka till Client #%1$s';
+$lang['AdminMain.add.link_back'] = 'Tillbaka till Dokument';
 

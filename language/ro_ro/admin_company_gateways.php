@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Actualizare';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Setați gateway-ul implicit al comerciantului pentru fiecare monedă.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gateway-uri comerciale implicite';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Gateway-urile comerciale implicite au fost actualizate cu succes.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Nu s-au găsit porți corespunzătoare.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Filtrarea gateway-urilor...';
 

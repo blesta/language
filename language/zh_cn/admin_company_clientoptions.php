@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = '要�
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = '默认文本值';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = '已检查默认值';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = '价值';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = '添加自定义字段';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = '创建自定义字段';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = '加密值';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = '自定义 Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = '需要';
@@ -50,7 +50,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = '名称';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = '创建字段';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = '浏览客户自定义字段';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = '设置 > 公司 > 客户选项 > 客户自定义字段 > 浏览';
-$lang['AdminCompanyClientOptions.general.text_submit'] = '提交';
+$lang['AdminCompanyClientOptions.general.text_submit'] = '更新设置';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = '防止未经验证的客户付款';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = '客户 ID 增量值';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = '客户 ID 起始值';
@@ -126,7 +126,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = '添加
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = '默认文本值';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = '已检查默认值';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = '价值';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '编辑自定义字段';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = '更新自定义字段';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = '加密值';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = '自定义 Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = '需要';

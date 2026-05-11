@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminReportsCustomize.index.customize'] = 'Personalice';
 $lang['AdminReportsCustomize.index.page_title'] = 'Informes de facturación';
 $lang['AdminReportsCustomize.index.table_name'] = 'Nombre';
 $lang['AdminReportsCustomize.index.table_created'] = 'Fecha de creación';
-$lang['AdminReportsCustomize.index.table_options'] = 'Opciones';
+$lang['AdminReportsCustomize.index.table_options'] = 'Acciones';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'Editar';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Borrar';
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = '¿Está seguro de que desea eliminar este informe?';
@@ -33,7 +33,7 @@ $lang['AdminReportsCustomize.add.table_name'] = 'Nombre';
 $lang['AdminReportsCustomize.add.table_label'] = 'Etiqueta';
 $lang['AdminReportsCustomize.add.table_type'] = 'Tipo';
 $lang['AdminReportsCustomize.add.table_required'] = 'Requerido';
-$lang['AdminReportsCustomize.add.table_options'] = 'Opciones';
+$lang['AdminReportsCustomize.add.table_options'] = 'Acciones';
 $lang['AdminReportsCustomize.add.field_values'] = 'Valores (separados por comas)';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Regex personalizada';
 $lang['AdminReportsCustomize.add.text_remove'] = 'Eliminar';
@@ -47,7 +47,7 @@ $lang['AdminReportsCustomize.edit.table_name'] = 'Nombre';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Etiqueta';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Tipo';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Requerido';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Opciones';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Acciones';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Valores (separados por comas)';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Regex personalizada';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Eliminar';

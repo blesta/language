@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['ClientQuotations.index.heading_subtotal'] = 'Subtotal';
 $lang['ClientQuotations.index.heading_total'] = 'Importe';
 $lang['ClientQuotations.index.heading_date_created'] = 'Fecha de creación';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Fecha de expiración';
-$lang['ClientQuotations.index.heading_options'] = 'Opciones';
+$lang['ClientQuotations.index.heading_options'] = 'Acciones';
 $lang['ClientQuotations.index.option_view'] = 'Ver';
 $lang['ClientQuotations.index.option_approve'] = 'Aprobar';
 $lang['ClientQuotations.index.no_results'] = 'No tiene %1$s Citas.';

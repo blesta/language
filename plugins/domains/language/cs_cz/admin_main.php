@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -34,7 +34,7 @@ $lang['AdminMain.index.category_canceled'] = 'Zrušeno';
 $lang['AdminMain.index.category_suspended'] = 'Pozastaveno';
 $lang['AdminMain.index.category_pending'] = 'Čeká se na';
 $lang['AdminMain.index.category_active'] = 'Aktivní';
-$lang['AdminMain.index.heading_options'] = 'Možnosti';
+$lang['AdminMain.index.heading_options'] = 'Akce';
 $lang['AdminMain.index.heading_datecanceled'] = 'Datum zrušení';
 $lang['AdminMain.index.heading_datesuspended'] = 'Datum pozastavení';
 $lang['AdminMain.index.heading_dateexpires'] = 'Datum ukončení platnosti';
@@ -129,7 +129,7 @@ $lang['AdminMain.add.term_days'] = '%1$s dní';
 $lang['AdminMain.add.term_day'] = '%1$s Day';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Nedostupné';
 $lang['AdminMain.add.text_domain_available'] = 'Dostupné na';
-$lang['AdminMain.add.heading_options'] = 'Možnosti';
+$lang['AdminMain.add.heading_options'] = 'Akce';
 $lang['AdminMain.add.heading_status'] = 'Stav';
 $lang['AdminMain.add.heading_domain'] = 'Doména';
 $lang['AdminMain.add.title_registrar_options'] = 'Možnosti registrátora';
@@ -150,7 +150,7 @@ $lang['AdminMain.add.field_add'] = 'Přidat doménu';
 $lang['AdminMain.add.field_register'] = 'Registrace';
 $lang['AdminMain.add.field_transfer'] = 'Přenos';
 $lang['AdminMain.add.link_viewclient'] = 'Zobrazit klienta';
-$lang['AdminMain.add.boxtitle_add'] = 'Přidat doménu: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Přidat doménu %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Klient #%1$s';
 $lang['AdminMain.index.unparent'] = 'Odstranění rodiče a resetování ceny';
 $lang['AdminMain.!error.unsupported_domain'] = 'Název domény není podporován.';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Obnovit';
 $lang['AdminMain.index.tooltip_transferred'] = 'Doména byla převedena od registrátora.';
 $lang['AdminMain.!success.remove_price_override'] = 'Cena za přepsání domény byla odstraněna!';
 $lang['AdminMain.!success.set_price_override'] = 'Cena přepisu domény byla aktualizována!';
+$lang['AdminMain.add.heading_search'] = 'Vyhledávání domén';
+$lang['AdminMain.add.field_domain'] = 'Doména';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Domény nejvyšší úrovně v centru pozornosti';
+$lang['AdminMain.add.link_more_tlds'] = 'Další domény nejvyšší úrovně';
+$lang['AdminMain.add.button_cancel'] = 'Zrušit';
+$lang['AdminMain.add.button_previous'] = 'Předchozí';
+$lang['AdminMain.add.button_continue'] = 'Pokračovat';
+$lang['AdminMain.add_confirmation.total'] = 'Celkem:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Řádkové položky';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kód kupónu';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Objednávka celkem';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Zadejte kód kupónu';
+$lang['AdminMain.edit.text_select_action'] = 'Kliknutím na tlačítko výše zobrazíte formulář pro provedení akce.';
+$lang['AdminMain.edit.text_no_fields'] = 'Tato akce nevyžaduje žádné další možnosti. Klikněte na tlačítko Odeslat a pokračujte.';
 

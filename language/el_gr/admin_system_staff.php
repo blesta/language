@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Ειδ
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Ειδοποιήσεις BCC μέσω ηλεκτρονικού ταχυδρομείου';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Λίστα ελέγχου πρόσβασης';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Γενικά';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Επεξεργασία ομάδας';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Ομάδα ενημέρωσης';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Αποσύνδεση κατά την αλλαγή διεύθυνσης IP';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Εταιρεία';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Όνομα';
@@ -38,14 +38,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Σίγουρα θέλετε να διαγράψετε αυτή την ομάδα προσωπικού;';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Επεξεργασία';
 $lang['AdminSystemStaff.groups.no_results'] = 'Δεν υπάρχουν ομάδες προσωπικού.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Επιλογές';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Δράσεις';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Αριθμός προσωπικού';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Όνομα εταιρείας';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Όνομα';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Δημιουργία ομάδας';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Ομάδες προσωπικού';
 $lang['AdminSystemStaff.groups.page_title'] = 'Ρυθμίσεις > Σύστημα > Προσωπικό > Ομάδες προσωπικού';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Επεξεργασία προσωπικού';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Ενημέρωση προσωπικού';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Διαθέσιμες ομάδες';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Ομάδες μελών';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Καρφίτσα δύο παραγόντων';
@@ -90,7 +90,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Επεξεργασία';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Αλήθεια, να επανενεργοποιήσετε αυτό το μέλος του προσωπικού;';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Πραγματικά απενεργοποιήστε αυτό το μέλος του προσωπικού;';
 $lang['AdminSystemStaff.manage.no_results'] = 'Δεν υπάρχουν μέλη του προσωπικού με αυτό το καθεστώς.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Επιλογές';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Δράσεις';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Όνομα';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Προσθήκη προσωπικού';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.staff_updated'] = 'Αυτό το μέλος τ�
 $lang['AdminSystemStaff.!success.staff_added'] = 'Αυτό το μέλος του προσωπικού προστέθηκε επιτυχώς!';
 $lang['AdminSystemStaff.add.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
 $lang['AdminSystemStaff.edit.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Ειδοποιήσεις';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Ειδοποιήσεις';
 

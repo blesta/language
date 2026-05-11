@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = '해당 이메일 서명은 �
 $lang['Emails.!error.text.parse'] = '템플릿 구문 분석 오류: %1$s';
 $lang['Emails.!error.html.parse'] = '템플릿 구문 분석 오류: %1$s';
 $lang['Emails.!error.company_id.exists'] = '회사 ID가 잘못되었습니다.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = '스냅샷이 지정된 이메일에 속하지 않습니다.';
+$lang['Emails.!error.snapshot_id.exists'] = '잘못된 스냅샷 ID입니다.';
 

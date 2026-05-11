@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = 'Informațiile contului dvs. au fo
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Necesar pentru a activa autentificarea cu doi factori sau pentru a actualiza parola.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autentificare cu doi factori';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Adăugați credite';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Eliminați';
 

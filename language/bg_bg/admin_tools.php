@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -37,7 +37,7 @@ $lang['AdminTools.renewals.boxtitle_service_queue'] = 'Опашка за усл�
 $lang['AdminTools.getlognames.text_service_changes'] = 'Промени в услугите';
 $lang['AdminTools.!success.rule_added'] = 'Правилото е добавено успешно.';
 $lang['AdminTools.!success.rule_removed'] = 'Правилото е успешно премахнато.';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Добавяне на правило';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Създаване на правило';
 $lang['AdminTools.blacklistadd.field_note'] = 'Забележка';
 $lang['AdminTools.blacklistadd.field_type'] = 'Тип';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Правило';
@@ -48,7 +48,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Изтриване на';
 $lang['AdminTools.blacklist.text_system'] = 'Система';
 $lang['AdminTools.blacklist.text_type_email'] = 'Имейл адрес';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP адрес';
-$lang['AdminTools.blacklist.heading_options'] = 'Опции';
+$lang['AdminTools.blacklist.heading_options'] = 'Действия';
 $lang['AdminTools.blacklist.heading_note'] = 'Забележка';
 $lang['AdminTools.blacklist.heading_list'] = 'Списък';
 $lang['AdminTools.blacklist.heading_type'] = 'Тип';
@@ -184,7 +184,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Промяна Максима�
 $lang['AdminTools.renewals.option_dequeue'] = 'Декуиране';
 $lang['AdminTools.renewals.option_view'] = 'Преглед на фактурата';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Сигурни ли сте, че искате да премахнете тази услуга от опашката за подновяване?';
-$lang['AdminTools.renewals.heading_options'] = 'Опции';
+$lang['AdminTools.renewals.heading_options'] = 'Действия';
 $lang['AdminTools.renewals.heading_invoice'] = 'Фактура';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Максимален брой опити';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Неуспешни опити';
@@ -200,7 +200,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Моля, �
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Актуализирайте набора от символи и collation на базата данни, таблиците и колоните до utf8mb4, за да поддържате 4-байтови символи, като например емотикони.  Това може да отнеме няколко минути.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Обновяване до utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Актуализиране на съпоставянето на базите данни';
-$lang['AdminTools.utilities.heading_options'] = 'Опции';
+$lang['AdminTools.utilities.heading_options'] = 'Действия';
 $lang['AdminTools.utilities.heading_description'] = 'Описание';
 $lang['AdminTools.utilities.heading_utility'] = 'Полезност';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Комунални услуги';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'В момента няма у
 $lang['AdminTools.renewals.no_results_provision'] = 'В момента няма услуги, които да са на опашката за предоставяне.';
 $lang['AdminTools.!notice.conditions_met'] = 'Елементите се появяват в определената опашка само когато всички условия са изпълнени и те са готови за опит.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Промените в услугата бяха успешно отменени.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Блокиране на изходящи';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Блокиране на изходящи имейли до този адрес';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Блокиране на изходящи';
 $lang['AdminTools.renewals.no_results_changes'] = 'В момента няма промени в услугата, които да са на опашката за осигуряване.';
 $lang['AdminTools.renewals.option_retry'] = 'Повторение';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_date_changes'] = 'Дата на промян�
 $lang['AdminTools.renewals.heading_status'] = 'Статус';
 $lang['AdminTools.renewals.category_changes'] = 'Промени в услугите';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Промените в услугата са планирани успешно.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Проверени са файловете %1$s: %2$s ОК, %3$s модифициран, %4$s липсва.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Файлът с манифеста (manifest.json) не беше намерен. Този файл е включен в официалните версии и е необходим за извършване на проверка на целостта.';
+$lang['AdminTools.integritycheck.text_error'] = 'Възникна грешка при проверката на файловете.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Всички файлове отговарят на манифеста. Не са открити модификации или липсващи файлове.';
+$lang['AdminTools.integritycheck.text_ok'] = 'ОК';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Общо файлове';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Продавач';
+$lang['AdminTools.integritycheck.category_core'] = 'Ядро';
+$lang['AdminTools.integritycheck.status_missing'] = 'Липсващ';
+$lang['AdminTools.integritycheck.status_modified'] = 'Модифициран';
+$lang['AdminTools.integritycheck.heading_category'] = 'Категория';
+$lang['AdminTools.integritycheck.heading_file'] = 'Файл';
+$lang['AdminTools.integritycheck.heading_status'] = 'Статус';
+$lang['AdminTools.integritycheck.text_checking'] = 'Проверявам файлове, моля, изчакайте. Това може да отнеме известно време...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Тичай отново';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Изтегляне на доклад';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Извършване на проверка на целостта';
+$lang['AdminTools.integritycheck.text_description'] = 'Проверете дали инсталираните файлове съответстват на манифеста, доставен с тази версия. Това проверява целостта на файловете чрез сравняване на хешове SHA256 и може да помогне за идентифициране на файлове, които са били модифицирани, което е полезно за отстраняване на неизправности и преди извършване на актуализации.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Проверка на целостта на системата';
+$lang['AdminTools.integritycheck.page_title'] = 'Проверка на целостта на системата';
+$lang['AdminTools.!success.cache_cleared'] = 'Файловият кеш е изчистен успешно.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Проверка на изпълнението';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Проверете основните файлове спрямо доставения манифест, за да идентифицирате модифицирани или липсващи файлове.';
+$lang['AdminTools.utilities.integrity_check'] = 'Проверка на целостта на системата';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Изчистете кешираните файлове, включително кеша за навигация, изгледи и плъгини. Това може да доведе до малко по-бавно зареждане на страниците, докато кешовете бъдат възстановени.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Изчистване на кеша';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Изчистване на кеша на файловете';
+$lang['AdminTools.getlognames.text_system'] = 'Система';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Версия на манифеста: %1$s (генериран %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'В момента няма услуги, които да са на опашката за подновяване след плащане.';
+$lang['AdminTools.logsystem.page_title'] = 'Инструменти Дневници';
+$lang['AdminTools.logsystem.text_date'] = 'Дата';
+$lang['AdminTools.logsystem.text_level'] = 'Ниво';
+$lang['AdminTools.logsystem.text_message'] = 'Съобщение';
+$lang['AdminTools.logsystem.no_results'] = 'Няма записи в системния журнал.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Директорията на дневника не е конфигурирана или не може да бъде прочетена. Конфигурирайте я в Настройки &gt; Система &gt; Общи.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Спешна помощ';
+$lang['AdminTools.logsystem.level_alert'] = 'Предупреждение';
+$lang['AdminTools.logsystem.level_critical'] = 'Критичен';
+$lang['AdminTools.logsystem.level_error'] = 'Грешка';
+$lang['AdminTools.logsystem.level_warning'] = 'Предупреждение';
+$lang['AdminTools.logsystem.level_notice'] = 'Известие';
+$lang['AdminTools.logsystem.level_info'] = 'Информация';
+$lang['AdminTools.logsystem.level_debug'] = 'Отстраняване на грешки';
 

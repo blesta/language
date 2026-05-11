@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Modulul a fost actualiza
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Modulul a fost dezinstalat cu succes.';
 $lang['AdminCompanyModules.!success.installed'] = 'Modulul a fost instalat cu succes.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Modulul a fost actualizat cu succes.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Module de filtrare...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Nu s-au găsit module corespunzătoare.';
 

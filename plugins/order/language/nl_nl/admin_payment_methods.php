@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'Affiliate betaal
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Weet je zeker dat je deze betaalmethode wilt verwijderen?';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Verwijder';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Bewerk';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Opties';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Acties';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Naam';
 $lang['AdminPaymentMethods.index.no_results'] = 'Op dit moment zijn er geen betaalmethoden.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Affiliate betaalmethode toevoegen';

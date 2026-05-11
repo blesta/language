@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Configurações';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Envie automaticamente lembretes aos clientes para que deixem seus comentários sobre os tíquetes que foram fechados após um determinado período de tempo.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Enviar lembretes de feedback';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Processar tíquetes com IA';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analisa tíquetes com IA para gerar sugestões de resposta e executar automaticamente os usos da ferramenta (fechar spam, atribuir equipe, alterar prioridade).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Configurações de IA';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\Observação: esta resposta foi gerada pela IA e deve ser revisada para garantir sua precisão.';
 

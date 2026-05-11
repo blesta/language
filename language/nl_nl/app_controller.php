@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Terug naar port
 $lang['AppController.client_structure.default_title'] = 'Mijn account';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Terug naar het personeelsportaal';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'De onderhoudsmodus is momenteel ingeschakeld en clients kunnen niet inloggen. Klik hier om te wijzigen.';
+$lang['AppController.structure.text_maintenance'] = 'De onderhoudsmodus is momenteel ingeschakeld en clients kunnen niet inloggen.';
 $lang['AppController.structure.text_logout'] = 'Afmelden';
 $lang['AppController.structure.text_settings'] = 'Instellingen';
 $lang['AppController.structure.text_myinfo'] = 'Mijn info';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Je hebt geen toegang tot di
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Drop bestanden hier om te uploaden of Klik om bestanden te selecteren';
 $lang['AppController.!error.client_unauthorized_access'] = 'Je hebt geen toegang tot deze bron. Neem contact op met de primaire accounthouder om toegang aan te vragen.';
-$lang['AppController.structure.text_step_up_access'] = 'U hebt momenteel een opstapsessie geopend met toegang tot de beheerdersinstellingen. Klik hier om de toegang te laten vervallen.';
+$lang['AppController.structure.text_step_up_access'] = 'U hebt momenteel een opstapsessie geopend met toegang tot de beheerdersinstellingen.';
+$lang['AppController.structure.text_mark_all_read'] = 'Alles markeren als gelezen';
+$lang['AppController.structure.text_open'] = 'Open';
+$lang['AppController.structure.no_notifications'] = 'Geen nieuwe meldingen';
+$lang['AppController.structure.text_notifications'] = 'Meldingen';
+$lang['AppController.structure.text_licensed_to'] = 'Gelicentieerd aan %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Sessie verlengen';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Resterende tijd:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Sessie nu beëindigen';
+$lang['AppController.structure.text_step_up_access_header'] = 'Stap omhoog Authenticatie Actief';
+$lang['AppController.structure.text_maintenance_button'] = 'Onderhoudsmodus bewerken';
+$lang['AppController.structure.text_maintenance_header'] = 'Onderhoudsmodus ingeschakeld';
+$lang['AppController.structure.text_iconbar'] = 'Pictogrammenbalk';
+$lang['AppController.modal.btn_delete'] = 'Verwijder';
+$lang['AppController.structure.text_notices'] = 'Mededelingen';
+$lang['AppController.text_loading'] = 'Aan het laden...';
+$lang['AppController.modal.btn_cancel'] = 'Annuleren';
+$lang['AppController.modal.confirm_delete'] = 'Bevestigen Wissen';
 

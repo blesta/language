@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'Saat ini tidak ada staf yang ditugaskan 
 $lang['AdminStaff.index.confirm_delete'] = 'Menghapus anggota staf ini akan membatalkan penugasan semua tiket yang saat ini ditugaskan ke anggota staf ini. Apakah Anda yakin ingin menghapus anggota staf ini?';
 $lang['AdminStaff.index.option_delete'] = 'Menghapus';
 $lang['AdminStaff.index.option_edit'] = 'Sunting';
-$lang['AdminStaff.index.heading_options'] = 'Pilihan';
+$lang['AdminStaff.index.heading_options'] = 'Tindakan';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Menerima Pemberitahuan Pesan Tiket';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Menerima Email Tiket Seluler';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Menerima Email Tiket';

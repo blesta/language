@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Рахунки';
 $lang['Opensrs.module_row'] = 'Обліковий запис';
 $lang['Opensrs.description'] = 'OpenSRS - це оптовий реєстратор доменів, який пропонує преміум-платформу з білою етикеткою, що з\'єднує партнерів-реселерів з необхідними їм рішеннями.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Назад';
 

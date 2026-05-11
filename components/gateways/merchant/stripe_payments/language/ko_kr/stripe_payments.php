@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = '이 마이그레이션 도�
 $lang['StripePayments.text_migrate_accounts'] = '이전 Stripe 게이트웨이에서 오프사이트에 저장된 결제 계정을 이 Stripe Payments 게이트웨이로 자동으로 마이그레이션할 수 있습니다. 오프사이트에 저장되지 않은 계정은 새 결제 계정을 수동으로 생성하여 마이그레이션해야 합니다. 시간 초과를 방지하기 위해 마이그레이션은 %1$의 일괄 처리로 수행됩니다. 모든 결제 계정을 마이그레이션하려면 필요한 횟수만큼 이 작업을 실행하세요.';
 $lang['StripePayments.text_accounts_remaining'] = '남은 계정: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = '기존 결제 계정 마이그레이션';
-$lang['StripePayments.webhook_note'] = 'Stripe 계정에서 "결제 의도" 이벤트에 대한 웹훅으로 다음 URL을 구성하는 것이 좋습니다.';
+$lang['StripePayments.webhook_note'] = 'Stripe 계정에서 \'결제 의도\' 및 \'청구\' 이벤트에 대한 웹훅으로 다음 URL을 구성하는 것이 좋습니다.';
 $lang['StripePayments.webhook'] = '스트라이프 웹훅';
 $lang['StripePayments.tooltip_secret_key'] = 'API 비밀 키는 라이브 또는 테스트 모드에 따라 다릅니다. 올바른 키를 사용하고 있는지 확인하세요.';
 $lang['StripePayments.tooltip_publishable_key'] = 'API 게시 가능 키는 라이브 또는 테스트 모드에 따라 다릅니다. 올바른 키를 사용하고 있는지 확인하세요.';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Bitte geben Sie eine Bezeichnung e
 $lang['PackageOptions.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Ob auf Rechnung ausgeblendet werden soll, muss auf 0 oder 1 gesetzt werden.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Ob die Preisgestaltung deaktiviert werden soll, muss auf 0 oder 1 gesetzt werden.';
+$lang['PackageOptions.!error.type.in_use'] = 'Der Typ kann nicht geändert werden, da ein oder mehrere Optionswerte, die nicht in der Vorlage enthalten sind, von einem Dienst verwendet werden.';
 

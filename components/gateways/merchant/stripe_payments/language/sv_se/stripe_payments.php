@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Avinstallera inte den gamla 
 $lang['StripePayments.text_migrate_accounts'] = 'Du kan automatiskt migrera betalkonton som lagrats offsite av den gamla Stripe-gatewayen över till denna Stripe Payments-gateway. Konton som inte lagras offsite måste migreras genom att manuellt skapa nya betalkonton. För att förhindra timeouts kommer migreringar att göras i satser om %1$s. Kör detta så många gånger som behövs för att migrera alla betalkonton.';
 $lang['StripePayments.text_accounts_remaining'] = 'Kvarvarande konton: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrera gamla betalkonton';
-$lang['StripePayments.webhook_note'] = 'Vi rekommenderar att du konfigurerar följande url som en Webhook för "payment_intent"-händelser i ditt Stripe-konto.';
+$lang['StripePayments.webhook_note'] = 'Vi rekommenderar att du konfigurerar följande webbadress som en Webhook för händelserna "payment_intent" och "charge" i ditt Stripe-konto.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Din hemliga API-nyckel är specifik för antingen live- eller testläge. Se till att du använder rätt nyckel.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Din API Publishable Key är specifik för antingen live- eller testläge. Se till att du använder rätt nyckel.';

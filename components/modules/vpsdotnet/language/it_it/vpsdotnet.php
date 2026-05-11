@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,4 +130,7 @@ $lang['Vpsdotnet.module_row_plural'] = 'Server';
 $lang['Vpsdotnet.module_row'] = 'Server master VPS.NET';
 $lang['Vpsdotnet.description'] = 'VPS.NET offre hosting di server virtualizzati.';
 $lang['Vpsdotnet.name'] = 'VPS.NET';
+$lang['Vpsdotnet.back_to_manage'] = 'Indietro';
+$lang['Vpsdotnet.manage.tab_rows'] = 'Server';
+$lang['Vpsdotnet.manage.tab_groups'] = 'Gruppi di server';
 

@@ -4,18 +4,18 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Няма';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Актуализиране на HTML шаблона';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Редактиране на шаблона';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Актуализиране на шаблона';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Етикети';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Име';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Редактиране на HTML шаблон';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Добавяне на шаблон';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Създаване на шаблон';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Етикети';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Име';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Добавяне на HTML шаблон';
@@ -37,7 +37,7 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Отмяна на';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Приложение';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Изтриване на';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Сигурни ли сте, че искате да изтриете този прикачен файл?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Опции';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Действия';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Име на файла';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Допълнителни прикачени файлове';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Шаблон за имейл';
@@ -172,7 +172,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Извести
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Отказано плащане (кредитна карта)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Известие, изпратено след одобрение на успешно плащане с кредитна карта.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Одобрено плащане (кредитна карта)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Актуализация';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Направете заявка на';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Няма шаблони от този тип.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Редактиране на';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Опции';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Извес�
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Отмяна на услугата';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Известие се изпраща, когато кредитният баланс на клиента падне под конфигуриран праг.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Известие за нисък баланс';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Предложена тема';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Текстова версия';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML версия';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Линия на темата';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Прилагайте съдържанието към:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Грешка:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Твърде много заявки. Моля, изчакайте малко, преди да опитате отново.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Генерирането на съдържание е неуспешно. Моля, опитайте отново.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Запитването надхвърля максималната дължина.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'За генериране на съдържание се изисква подкана.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Генерирането на шаблони за имейли с изкуствен интелект не е разрешено.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Функциите за изкуствен интелект в момента са деактивирани.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Преглед на текста';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Предварителен преглед на HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Щракнете върху Генериране, за да създадете имейл съдържание въз основа на типа шаблон и наличните тагове.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Генерирано съдържание';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Незадължителни насоки за ИИ за персонализиране на генерираното съдържание.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Добавете специфични изисквания или предпочитания за тон...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Допълнителни инструкции';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Зареждане на подкана...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Контекст на подкана';
+$lang['AdminCompanyEmails.ai.generating'] = 'Генериране на...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Отмяна на';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Генериране на';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Използване на това съдържание';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Регенерирайте';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Пренаписване на';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Пренаписване на съдържанието на имейла';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Генериране на съдържание за имейли';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Асистент за съдържание с изкуствен интелект';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Копирано!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Копие';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI за пренасочване на OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Сигурни ли сте, че искате да възстановите тази моментна снимка? Всички незаписани промени ще бъдат изгубени.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Няма налични снимки за този имейл шаблон.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'История на шаблона';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Възстановяване на моментна снимка';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Възстановяване на';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Преглед на файлове';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Пуснете файлове тук или кликнете върху браузъра, за да качите прикачени файлове';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Използвайте тези тагове в шаблона на имейла си, за да включите динамично съдържание.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Налични етикети';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Въведете обикновена текстова версия на имейла';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Въведете темата на имейла';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Въведете от имейл адреса';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Въведете името от';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'избрани елементи';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Копирайте този URL адрес и го добавете като оторизиран URI за пренасочване в настройките на приложението на вашия доставчик на OAuth (напр. Google Cloud Console, Microsoft Azure Portal). Това е необходимо, за да работи удостоверяването по OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Шаблонът на имейла е успешно възстановен от моментната снимка!';
 

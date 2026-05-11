@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Śmieci';
 $lang['SupportManagerTickets.status.closed'] = 'Zamknięte';
 $lang['SupportManagerTickets.status.on_hold'] = 'Wstrzymane';
 $lang['SupportManagerTickets.status.in_progress'] = 'W toku';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Oczekiwanie na odpowiedź klienta';
-$lang['SupportManagerTickets.status.open'] = 'Oczekiwanie na odpowiedź personelu';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Oczekiwanie na klienta';
+$lang['SupportManagerTickets.status.open'] = 'Oczekujący personel';
 $lang['SupportManagerTickets.priority.low'] = 'Niski';
 $lang['SupportManagerTickets.priority.medium'] = 'Średni';
 $lang['SupportManagerTickets.priority.high'] = 'Wysoki';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Co najmniej jeden z od
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Co najmniej jeden z odbiorców biletów jest zduplikowany.';
 $lang['SupportManagerTickets.log.service_id'] = 'Powiązana usługa została zmieniona na identyfikator wewnętrzny: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" jest wymagane i nie może być puste.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Ticket #%1$s Zaktualizowano';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Nowy bilet #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s odpowiedział na zgłoszenie #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s otwarty bilet #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Ticket #%1$s Przydzielony';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Bilet #%1$s przypisany do użytkownika: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Nie można załadować obrazu. Spróbuj ponownie.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Obraz przekracza maksymalny dozwolony rozmiar %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Nieprawidłowy typ obrazu. Dozwolone są tylko obrazy JPEG, PNG, GIF i WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Nie można utworzyć katalogu przesyłania.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Nie można zapisać obrazu. Spróbuj ponownie.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Obrazy inline base64 nie są dozwolone. Wklej lub przeciągnij obrazy do edytora, aby je przesłać.';
 

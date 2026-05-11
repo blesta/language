@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = 'Sunteți sigur că doriți 
 $lang['AdminAffiliates.index.option_activate'] = 'Activați';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Dezactivați';
 $lang['AdminAffiliates.index.option_manage'] = 'Gestionați';
-$lang['AdminAffiliates.index.heading_options'] = 'Opțiuni';
+$lang['AdminAffiliates.index.heading_options'] = 'Acțiuni';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Data actualizării';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Data adăugării';
 $lang['AdminAffiliates.index.heading_sales'] = 'Vânzări';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.btn_generate'] = 'Generer';
 $lang['AdminDialog.password.btn_modal_password'] = 'Adgangskode';
 $lang['AdminDialog.password.btn_cancel'] = 'Annuller';
 $lang['AdminDialog.password.btn_use_password'] = 'Brug adgangskode';
+$lang['AdminDialog.password.title'] = 'Generer adgangskode';
+$lang['AdminDialog.password.text_click_generate'] = 'Klik på Generér for at oprette en sikker adgangskode.';
 

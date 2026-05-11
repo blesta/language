@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = '다음 - 확인';
 $lang['AdminMerchant.features.heading_supported_features'] = '지원되는 기능';
 $lang['AdminMerchant.fields.features'] = '다음 - 지원되는 기능';
 $lang['AdminMerchant.fields.text_remove'] = '제거';
-$lang['AdminMerchant.fields.text_options'] = '옵션';
+$lang['AdminMerchant.fields.text_options'] = '작업';
 $lang['AdminMerchant.fields.field_row_add'] = '구성 필드 추가';
 $lang['AdminMerchant.fields.placeholder_label'] = '예: 구성 필드';
 $lang['AdminMerchant.fields.placeholder_name'] = '예: configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = '플러그인 목록에 표시되는
 $lang['AdminMerchant.basic.tooltip_description'] = '플러그인 목록에 표시되는 설명';
 $lang['AdminMerchant.basic.text_remove'] = '제거';
 $lang['AdminMerchant.basic.author_row_add'] = '작성자 추가';
-$lang['AdminMerchant.basic.text_options'] = '옵션';
+$lang['AdminMerchant.basic.text_options'] = '작업';
 $lang['AdminMerchant.basic.author_url'] = '작성자 URL';
 $lang['AdminMerchant.basic.author_name'] = '작성자 이름';
 $lang['AdminMerchant.basic.currencies'] = '통화';

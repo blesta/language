@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.tab_AdminManagementAction'] = 'Acciones de gestión';
 $lang['ThesslstoreModule.replacement_order.box_title'] = 'Lista de pedidos de sustitución de Symantec';
 $lang['ThesslstoreModule.replacement_order.export_csv'] = 'Exportar a CSV';
 $lang['ThesslstoreModule.row_meta.replace_date'] = 'Sustituir por fecha';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'No se han devuelto productos desde la API. Comprueba tus credenciales de API e inténtalo de nuevo.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% Margen se aplicará al precio de todos los productos. Podrá modificarlo posteriormente desde el menú de configuración de precios.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Cambiar el correo electrónico del aprobador';
 

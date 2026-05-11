@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_required'] = 'Wybierz tak, 
 $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Jest to typ pola formularza, który będzie wyświetlany. Zobacz podpowiedź Wartości, aby dowiedzieć się, jak zdefiniować wartości dla pól wyboru, opcji i wyboru.';
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Jest to ukryta nazwa pola formularza. Użyj qty, aby utworzyć pole ilości.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Jest to tekst wyświetlany bezpośrednio nad polem formularza.';
+$lang['UniversalModule.back_to_manage'] = 'Powrót';
 

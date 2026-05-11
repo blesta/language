@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Разрешени шлюзове';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Разрешени шлюзове';
 $lang['AdminCompanyGroups.add.heading_late_fees'] = 'Такси за закъснение';
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Редактиране на група';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Група за актуализация';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Прилагане на имейл адреси като потребителски имена';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Използване на настройките на компанията (махнете отметката, за да посочите по-долу)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Методи за доставка на фактури';

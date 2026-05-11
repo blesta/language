@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,6 @@ $lang['OrderOrders.getstatuses.canceled'] = '已取消';
 $lang['OrderOrders.getstatuses.fraud'] = '欺诈';
 $lang['OrderOrders.getstatuses.accepted'] = '已接受';
 $lang['OrderOrders.getstatuses.pending'] = '回顾';
+$lang['OrderOrders.bell.order_received.title'] = '订单号%1$s 已收到';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s 下订单号%2$s (%3$s)';
 

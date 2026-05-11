@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Verlaten bestelling';
 $lang['AdminForms.add.tab_basic'] = 'Basis';
 $lang['AdminForms.index.field_status_inactive'] = 'Inactief';
 $lang['AdminForms.index.field_status_active'] = 'Actief';
-$lang['AdminForms.index.text_confirm_delete'] = 'Dit bestelformulier echt verwijderen?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Weet je zeker dat je dit bestelformulier wilt verwijderen?';
 $lang['AdminForms.index.option_delete'] = 'Verwijder';
 $lang['AdminForms.index.option_edit'] = 'Bewerk';
 $lang['AdminForms.index.heading_options'] = 'Opties';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Toon bij het selecteren va
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Maandelijks prijsoverzicht weergeven';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Toon bij het selecteren van een pakket de maandelijkse kosten voor elke prijsoptie, evenals de besparingen per maand in vergelijking met de maandelijkse prijs (indien van toepassing).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Maandelijks prijsoverzicht weergeven';
+$lang['AdminForms.index.heading_actions'] = 'Acties';
+$lang['AdminForms.index.back_to_forms'] = 'Terug naar Bestelformulieren';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Toestemming vragen voor terugkerende abonnementen';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Als deze optie is ingeschakeld, moeten klanten expliciet toestemming geven voor terugkerende facturering voordat ze een bestelling met terugkerende items kunnen voltooien. Dit vervangt het selectievakje Betalingsgegevens opslaan.';
+$lang['AdminForms.add.field_cancel'] = 'Annuleren';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Toestemming vragen voor terugkerende abonnementen';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Als deze optie is ingeschakeld, moeten klanten expliciet toestemming geven voor terugkerende facturering voordat ze een bestelling met terugkerende items kunnen voltooien. Dit vervangt het selectievakje Betalingsgegevens opslaan.';
+$lang['AdminForms.edit.field_cancel'] = 'Annuleren';
+$lang['AdminForms.embed_codes.heading'] = 'Code insluiten voor domein zoeken';
+$lang['AdminForms.embed_codes.description'] = 'Kopieer een van de onderstaande fragmenten om een zoekformulier voor domeinen in te sluiten op een externe site. Inzendingen openen de kassa op dit bestelformulier met het ingevoerde domein vooraf geladen.';
+$lang['AdminForms.embed_codes.label_first'] = 'Voer een URL-label in voor dit bestelformulier om insluitcodes te genereren.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Eenvoudige HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Voorbeeld';
+$lang['AdminForms.embed_codes.copy'] = 'Kopie';
+$lang['AdminForms.embed_codes.csrf_required'] = 'CSRF-omleiding is vereist om ingebedde domeinzoekopdracht te laten werken.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POSTs van een externe site worden geweigerd totdat u config::preconfig toevoegt aan de Blesta.csrf_bypass array in config/blesta.php:';
 

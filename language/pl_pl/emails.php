@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Ten podpis e-mail jest obecn
 $lang['Emails.!error.text.parse'] = 'Błąd parsowania szablonu: %1$s';
 $lang['Emails.!error.html.parse'] = 'Błąd parsowania szablonu: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Migawka nie należy do określonej wiadomości e-mail.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Nieprawidłowy identyfikator migawki.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.editcategory.boxtitle_root'] = 'Επεξεργασία κ�
 $lang['AdminResponses.editcategory.boxtitle_editcategory'] = 'Κατηγορία ενημέρωσης';
 $lang['AdminResponses.editcategory.field_name'] = 'Όνομα';
 $lang['AdminResponses.editcategory.field_submit'] = 'Κατηγορία ενημέρωσης';
+$lang['AdminResponses.index.btn_back'] = 'Πίσω';
+$lang['AdminResponses.index.btn_add_category'] = 'Προσθήκη κατηγορίας';
+$lang['AdminResponses.index.btn_add_response'] = 'Προσθήκη απάντησης';
 

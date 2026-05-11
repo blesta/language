@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,7 +48,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'مجموعات الآبا
 $lang['AdminPackages.groups.confirm_delete'] = 'هل تريد بالتأكيد حذف مجموعة الحزم هذه؟ لن يتم تعيين أي حزم تم تعيينها إلى هذه المجموعة بعد الآن، وقد تصبح غير قابلة للاستخدام.';
 $lang['AdminPackages.groups.option_delete'] = 'حذف';
 $lang['AdminPackages.groups.option_edit'] = 'تحرير';
-$lang['AdminPackages.groups.heading_options'] = 'الخيارات';
+$lang['AdminPackages.groups.heading_options'] = 'الإجراءات';
 $lang['AdminPackages.groups.heading_type'] = 'النوع';
 $lang['AdminPackages.groups.heading_name'] = 'الاسم';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'مجموعات الحزم';
@@ -200,12 +200,12 @@ $lang['AdminPackages.index.no_results'] = 'لا توجد حزم بهذه الح�
 $lang['AdminPackages.index.option_delete'] = 'حذف';
 $lang['AdminPackages.index.option_copy'] = 'نسخ';
 $lang['AdminPackages.index.option_edit'] = 'تحرير';
-$lang['AdminPackages.index.field_actionsubmit'] = 'إرسال';
+$lang['AdminPackages.index.field_actionsubmit'] = 'قدم طلبك';
 $lang['AdminPackages.index.action.delete'] = 'حذف الحزم';
 $lang['AdminPackages.index.category_inactive'] = 'غير نشط';
 $lang['AdminPackages.index.category_restricted'] = 'مقيّد';
 $lang['AdminPackages.index.category_active'] = 'نشط';
-$lang['AdminPackages.index.heading_options'] = 'الخيارات';
+$lang['AdminPackages.index.heading_options'] = 'الإجراءات';
 $lang['AdminPackages.index.heading_qty'] = 'الكمية';
 $lang['AdminPackages.index.heading_module'] = 'الوحدة النمطية';
 $lang['AdminPackages.index.heading_name'] = 'الاسم';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_deleted'] = 'تم حذف الحزمة بن
 $lang['AdminPackages.!success.package_updated'] = 'تم تحديث الحزمة بنجاح.';
 $lang['AdminPackages.!success.package_added'] = 'تم إنشاء الحزمة بنجاح.';
 $lang['AdminPackages.!tooltip.single_term'] = 'إذا تم تحديد هذا الخيار، فلن يتم تجديد الخدمات الجديدة التي تستخدم هذه الباقة ولكن سيتم إلغاؤها تلقائيًا في نهاية مدتها الأولية.';
+$lang['AdminPackages.ai.email_preview_text'] = 'نص البريد الإلكتروني المنشأ:';
+$lang['AdminPackages.ai.email_preview_html'] = 'إنشاء البريد الإلكتروني HTML:';
+$lang['AdminPackages.ai.email_use_button'] = 'استخدم هذا البريد الإلكتروني';
+$lang['AdminPackages.ai.email_generating'] = 'إنشاء بريد إلكتروني...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'صف ما يجب أن تقوله رسالة البريد الإلكتروني الترحيبية (على سبيل المثال، "مرحباً بالعميل الجديد، اشرح إعدادات الخدمة")';
+$lang['AdminPackages.ai.email_modal_title'] = 'إنشاء بريد إلكتروني ترحيبي';
+$lang['AdminPackages.ai.generate_email_button'] = 'إنشاء بريد إلكتروني باستخدام الذكاء الاصطناعي';
+$lang['AdminPackages.ai.prompt_context_info'] = 'معلومات السياق:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'قم بإنشاء وصف احترافي لحزمة المنتج/الخدمة هذه.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'أنشئ بريدًا إلكترونيًا ترحيبيًا احترافيًا احترافيًا لحزمة المنتجات/الخدمات هذه يرحب بالعميل ويقدم معلومات مفيدة حول الخدمة الجديدة.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'إعادة كتابة هذا المحتوى وتحسينه مع الحفاظ على نفس المعلومات العامة:';
+$lang['AdminPackages.ai.initial_instructions'] = 'راجع المطالبة أعلاه، وأضف أي تعليمات إضافية، ثم انقر فوق إنشاء لإنشاء المحتوى.';
+$lang['AdminPackages.ai.prompt_loading'] = 'تحميل المطالبة...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'السياق الموجه';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'قدم أي تفاصيل أو متطلبات محددة للذكاء الاصطناعي لتضمينها في الوصف.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'على سبيل المثال، تضمين معلومات حول الدعم على مدار الساعة طوال أيام الأسبوع، وذكر ضمان استرداد الأموال خلال 30 يومًا...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'إرشادات إضافية (اختياري)';
+$lang['AdminPackages.ai.error_prefix'] = 'خطأ:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'فشل في إنشاء الوصف';
+$lang['AdminPackages.ai.error_prompt_required'] = 'الرجاء إدخال مطالبة';
+$lang['AdminPackages.ai.apply_text'] = 'نسخة نصية';
+$lang['AdminPackages.ai.apply_html'] = 'إصدار HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'تطبيق المحتوى على:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'لم يتم تمكين ميزة وصف الحزمة AI';
+$lang['AdminPackages.ai.error_disabled'] = 'لم يتم تمكين ميزات الذكاء الاصطناعي';
+$lang['AdminPackages.ai.regenerating'] = 'تجديد...';
+$lang['AdminPackages.ai.generating'] = 'توليد...';
+$lang['AdminPackages.ai.btn_cancel'] = 'إلغاء';
+$lang['AdminPackages.ai.btn_regenerate'] = 'تجديد';
+$lang['AdminPackages.ai.btn_use'] = 'استخدم هذا الوصف';
+$lang['AdminPackages.ai.btn_generate'] = 'توليد';
+$lang['AdminPackages.ai.tone_professional'] = 'محترف';
+$lang['AdminPackages.ai.preview_text'] = 'نص تم إنشاؤه:';
+$lang['AdminPackages.ai.preview_html'] = 'تم إنشاء HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'التقنية';
+$lang['AdminPackages.ai.tone_casual'] = 'عادي';
+$lang['AdminPackages.ai.tone'] = 'النغمة';
+$lang['AdminPackages.ai.generate_text'] = 'إنشاء نص (تخفيض السعر)';
+$lang['AdminPackages.ai.generate_html'] = 'إنشاء HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'صف ميزات الحزمة والجمهور المستهدف، إلخ...';
+$lang['AdminPackages.ai.use_content_button'] = 'استخدام هذا المحتوى';
+$lang['AdminPackages.ai.regenerate_button'] = 'تجديد';
+$lang['AdminPackages.ai.no_context'] = 'لا يوجد سياق متاح';
+$lang['AdminPackages.ai.context_type_email'] = 'بريد إلكتروني ترحيبي';
+$lang['AdminPackages.ai.context_type_description'] = 'وصف الحزمة';
+$lang['AdminPackages.ai.context_type'] = 'النوع:';
+$lang['AdminPackages.ai.context_module'] = 'الوحدة النمطية:';
+$lang['AdminPackages.ai.context_package'] = 'الحزمة:';
+$lang['AdminPackages.ai.generated_content_label'] = 'المحتوى المُنشأ:';
+$lang['AdminPackages.ai.context_label'] = 'السياق:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'الوصف المعاد كتابته بالذكاء الاصطناعي';
+$lang['AdminPackages.ai.modal_title_generate'] = 'الوصف الذي تم إنشاؤه بالذكاء الاصطناعي';
+$lang['AdminPackages.ai.modal_title'] = 'المحتوى المُنشأ بالذكاء الاصطناعي';
+$lang['AdminPackages.ai.rewrite_button'] = 'إعادة الكتابة';
+$lang['AdminPackages.ai.generate_button'] = 'توليد';
+$lang['AdminPackages.index.field_filtersubmit'] = 'تطبيق الفلاتر';
+$lang['AdminPackages.index.field_filterclear'] = 'واضح';
+$lang['AdminPackages.index.filter_toggle'] = 'تبديل الفلاتر';
+$lang['AdminPackages.index.items_selected'] = 'العناصر المختارة';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,6 @@ $lang['OrderOrders.getstatuses.canceled'] = 'Anulowane';
 $lang['OrderOrders.getstatuses.fraud'] = 'Oszustwo';
 $lang['OrderOrders.getstatuses.accepted'] = 'Przyjęte';
 $lang['OrderOrders.getstatuses.pending'] = 'W recenzji';
+$lang['OrderOrders.bell.order_received.title'] = 'Order #%1$s Received';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s złożono zamówienie #%2$s (%3$s)';
 

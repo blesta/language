@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.complete.totals.subtotal'] = 'Sous-total :';
 $lang['Checkout.complete.totals.tax'] = '%1$s (%2$s%%) :';
 $lang['Checkout.complete.totals.total'] = 'Total dû :';
 $lang['Checkout.complete.totals.total_paid'] = 'Total payé :';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Vous devez consentir à la facturation récurrente pour continuer.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'J\'autorise %1$s à conserver mon mode de paiement et à facturer %2$s à partir d\'aujourd\'hui, jusqu\'à ce que j\'annule. Je peux résilier à tout moment en ligne sur mon compte.';
+$lang['Checkout.index.recurring_every'] = 'tous %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'chaque %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'et';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Nu gestionați în prezent niciun
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Sunteți sigur că doriți să renunțați la accesul la acest cont?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Renunțați la acces';
 $lang['ClientManagers.accounts.option_manage'] = 'Gestionați';
-$lang['ClientManagers.accounts.heading_options'] = 'Opțiuni';
+$lang['ClientManagers.accounts.heading_options'] = 'Acțiuni';
 $lang['ClientManagers.accounts.heading_company'] = 'Compania';
 $lang['ClientManagers.accounts.heading_name'] = 'Nume și prenume';
 $lang['ClientManagers.accounts.heading_email'] = 'Email';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Revocare';
 $lang['ClientManagers.index.option_edit'] = 'Editați';
 $lang['ClientManagers.index.text_status_pending'] = 'În așteptare';
 $lang['ClientManagers.index.text_status_accepted'] = 'Acceptat';
-$lang['ClientManagers.index.heading_options'] = 'Opțiuni';
+$lang['ClientManagers.index.heading_options'] = 'Acțiuni';
 $lang['ClientManagers.index.heading_status'] = 'Stare';
 $lang['ClientManagers.index.heading_company'] = 'Compania';
 $lang['ClientManagers.index.heading_name'] = 'Nume și prenume';

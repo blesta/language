@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'Счета';
 $lang['Internetbs.module_row'] = 'Счет';
 $lang['Internetbs.description'] = 'Internet.bs обеспечивает регистрацию и передачу доменных имен для ccTLDs и gTLDs.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'Назад';
+$lang['Internetbs.manage.tab_rows'] = 'Серверы';
+$lang['Internetbs.manage.tab_groups'] = 'Группы серверов';
 

@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'يجب أن يكون دليل التحميل موجوداً وخارج دليل الويب الجذر.';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'تحرير نوع الدفع';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'تحديث نوع الدفع';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'تعريف لغة الاستخدام';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'النوع';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'الاسم';
@@ -30,7 +30,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'نعم';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'سيؤدي حذف نوع الدفع هذا إلى تعيين جميع المعاملات التي تستخدم نوع الدفع هذا إلى "أخرى". هل أنت متأكد من أنك تريد حذف نوع الدفع هذا؟';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'حذف';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'تحرير';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'الخيارات';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'الإجراءات';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'تعريف لغة الاستخدامات';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'النوع';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'الاسم';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'تم تحديث إع
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'تم تحديث إعدادات GeoIP بنجاح!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'تم تحديث إعدادات الإعداد الأساسي بنجاح!';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'تم تمكين PHP open_basedir. يقتصر الوصول إلى الملفات على: %1$s. لا يمكن الوصول إلى الدلائل خارج هذه المسارات.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'دليل ذاكرة التخزين المؤقت';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'تمثل هذه القيمة مسار الخادم الكامل للمكان الذي يجب أن يكتب فيه Blesta الملفات المخزنة مؤقتاً. يجب أن يكون هذا الدليل قابلاً للكتابة من قبل مستخدم الويب الخاص بالخادم ومستخدم cron. من أجل الأمان، يجب أن يكون هذا المسار خارج جذر الويب؛ إذا كان يجب أن يكون داخل جذر الويب، سيكتب Blesta ملف htaccess كتخفيف جزئي، لكن تكوينات الخادم التي تتجاهل htaccess (مثل Nginx) لا توفر مثل هذه الحماية.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'لا يمكن تطبيق تغيير دليل ذاكرة التخزين المؤقت لأن ملف العلامة في config/cache.dir.php لا يمكن كتابته أو إزالته. امنح إذن الكتابة على دليل التكوين (وعلى ملف العلامة، إذا كان موجودًا) وحاول مرة أخرى.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'يجب أن يكون دليل ذاكرة التخزين المؤقت دليلاً موجوداً قابلاً للكتابة.';
 

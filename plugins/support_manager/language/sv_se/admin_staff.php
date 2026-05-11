@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'Det finns för närvarande ingen persona
 $lang['AdminStaff.index.confirm_delete'] = 'Om du tar bort denna personalmedlem kommer alla ärenden som för närvarande är tilldelade denna personalmedlem att tas bort. Är du säker på att du vill ta bort denna personalmedlem?';
 $lang['AdminStaff.index.option_delete'] = 'Radera';
 $lang['AdminStaff.index.option_edit'] = 'Redigera';
-$lang['AdminStaff.index.heading_options'] = 'Alternativ';
+$lang['AdminStaff.index.heading_options'] = 'Åtgärder';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Ta emot meddelanden från Ticket Messenger';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Ta emot e-postmeddelanden om mobilbiljetter';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Ta emot e-postmeddelanden om biljetter';

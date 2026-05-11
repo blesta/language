@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,8 +27,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Lixo';
 $lang['SupportManagerTickets.status.closed'] = 'Fechado';
 $lang['SupportManagerTickets.status.on_hold'] = 'Em espera';
 $lang['SupportManagerTickets.status.in_progress'] = 'Em curso';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'A aguardar resposta do cliente';
-$lang['SupportManagerTickets.status.open'] = 'Aguarda resposta do pessoal';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'A aguardar cliente';
+$lang['SupportManagerTickets.status.open'] = 'Aguardando pessoal';
 $lang['SupportManagerTickets.priority.low'] = 'Baixa';
 $lang['SupportManagerTickets.priority.medium'] = 'Médio';
 $lang['SupportManagerTickets.priority.high'] = 'Elevado';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.department_id.exists'] = 'Selecione um depar
 $lang['SupportManagerTickets.!error.code.format'] = 'O código do bilhete deve conter apenas dígitos.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = 'O endereço "%1$s" é obrigatório e não pode estar vazio.';
 $lang['SupportManagerTickets.log.service_id'] = 'O serviço relacionado foi alterado para o ID interno: #%1$s.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Bilhete #%1$s Atualizado';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Novo bilhete #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s respondeu ao bilhete #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s bilhete aberto #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Bilhete #%1$s Atribuído';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Bilhete #%1$s atribuído a si: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Não foi possível carregar a imagem. Por favor, tente novamente.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'A imagem excede o tamanho máximo permitido de %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Tipo de imagem inválido. Apenas são permitidas imagens JPEG, PNG, GIF e WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Não foi possível criar o diretório de carregamento.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Não foi possível guardar a imagem. Por favor, tente novamente.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Não são permitidas imagens base64 em linha. Por favor, cole ou arraste as imagens para o editor para as carregar.';
 

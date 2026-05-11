@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -160,4 +160,7 @@ $lang['Centovacast.name'] = 'CentovaCast';
 $lang['Centovacast.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['Centovacast.tab_stats.bandwidth_value'] = '%1$s MB';
 $lang['Centovacast.tab_stats.disk_value'] = '%1$s MB';
+$lang['Centovacast.back_to_manage'] = '뒤로';
+$lang['Centovacast.manage.tab_rows'] = '서버';
+$lang['Centovacast.manage.tab_groups'] = '서버 그룹';
 

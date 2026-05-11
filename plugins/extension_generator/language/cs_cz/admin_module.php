@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Další - Potvrzení';
 $lang['AdminModule.features.text_remove'] = 'Odstranění stránky';
-$lang['AdminModule.features.text_options'] = 'Možnosti';
+$lang['AdminModule.features.text_options'] = 'Akce';
 $lang['AdminModule.features.cron_task_row_add'] = 'Přidání úlohy Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'Přidání karty Správa služeb';
 $lang['AdminModule.features.placeholder_time'] = 'např. 14:25 nebo 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Zda má být uži
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Kód EPP';
 $lang['AdminModule.fields.features'] = 'Další - Další funkce';
 $lang['AdminModule.fields.text_remove'] = 'Odstranění adresy';
-$lang['AdminModule.fields.text_options'] = 'Možnosti';
+$lang['AdminModule.fields.text_options'] = 'Akce';
 $lang['AdminModule.fields.service_row_add'] = 'Přidat pole služby';
 $lang['AdminModule.fields.package_row_add'] = 'Přidat pole balíčku';
 $lang['AdminModule.fields.module_row_add'] = 'Přidání pole řádku modulu';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD';
 $lang['AdminModule.basic.static_tlds'] = 'Staticky definovat TLD';
 $lang['AdminModule.basic.text_remove'] = 'Odstranění stránky';
 $lang['AdminModule.basic.author_row_add'] = 'Přidat autora';
-$lang['AdminModule.basic.text_options'] = 'Možnosti';
+$lang['AdminModule.basic.text_options'] = 'Akce';
 $lang['AdminModule.basic.author_url'] = 'Adresa URL autora';
 $lang['AdminModule.basic.author_name'] = 'Jméno autora';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrátor';

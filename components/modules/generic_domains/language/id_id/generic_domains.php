@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = 'Ke Email';
 $lang['GenericDomains.manage.from_email'] = 'Dari Email';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Pengaturan Pemberitahuan';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Semua email penerima, dipisahkan dengan koma.';
+$lang['Generic_domains.back_to_manage'] = 'Kembali';
+$lang['GenericDomains.manage.text_available_tags'] = 'Tag yang Tersedia';
 

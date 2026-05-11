@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Ρυθμίσεις > Ετα�
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Η εργασία cron έχει εκκαθαριστεί.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Οι ρυθμίσεις αυτοματισμού ενημερώθηκαν με επιτυχία!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Υπάρχουν εργασίες αυτοματοποίησης που έχουν οριστεί να εκτελούνται κάθε λεπτό, αλλά το cron δεν φαίνεται να εκτελείται κάθε λεπτό. Ενημερώστε το cron σας ώστε να εκτελείται κάθε λεπτό για να επωφεληθείτε από αυτά τα μικρότερα διαστήματα.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Δεν έχουν καταγραφεί εκτελέσεις εργασιών αυτοματισμού τις τελευταίες 24 ώρες.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Δεν έχει τελειώσει ακόμα';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Τρέξιμο';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Ολοκληρωμένο';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Εκτέλεση';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Ανανέωση';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Χρονοδιάγραμμα εκτέλεσης εργασιών - Τελευταίες 24 ώρες';
 

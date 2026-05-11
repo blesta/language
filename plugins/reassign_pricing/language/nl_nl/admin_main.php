@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Prijzen opnieuw toewijzen';
 $lang['AdminMain.index.no_results'] = 'Er zijn geen services beschikbaar voor het opnieuw toewijzen van prijzen.';
 $lang['AdminMain.index.text_never'] = 'Nooit';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Opties';
+$lang['AdminMain.index.heading_options'] = 'Acties';
 $lang['AdminMain.index.heading_date_renews'] = 'Datum Verlenging';
 $lang['AdminMain.index.heading_date_created'] = 'Datum gemaakt';
 $lang['AdminMain.index.heading_term'] = 'Term';

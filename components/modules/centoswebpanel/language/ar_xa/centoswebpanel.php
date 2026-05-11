@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,4 +105,7 @@ $lang['Centoswebpanel.!error.api.internal'] = 'حدث خطأ داخلي، أو �
 $lang['Centoswebpanel.!error.meta[nproc].valid'] = 'يجب أن تكون العملية القصوى قيمة رقمية.';
 $lang['Centoswebpanel.!error.meta[nofile].valid'] = 'يجب أن يكون الحد الأقصى للملفات قيمة رقمية.';
 $lang['Centoswebpanel.!error.meta[inode].valid'] = 'يجب أن يكون الحد الأقصى للرموز الداخلية قيمة رقمية.';
+$lang['Centoswebpanel.back_to_manage'] = 'رجوع';
+$lang['Centoswebpanel.manage.tab_rows'] = 'الخوادم';
+$lang['Centoswebpanel.manage.tab_groups'] = 'مجموعات الخوادم';
 

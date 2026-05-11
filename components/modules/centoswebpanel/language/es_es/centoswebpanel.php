@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,4 +105,7 @@ $lang['Centoswebpanel.!error.centoswebpanel_username.length'] = 'El nombre de us
 $lang['Centoswebpanel.!error.centoswebpanel_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Centoswebpanel.!error.centoswebpanel_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
 $lang['Centoswebpanel.!error.api'] = 'Se ha producido un error interno o el servidor no ha respondido a la solicitud.';
+$lang['Centoswebpanel.back_to_manage'] = 'Volver';
+$lang['Centoswebpanel.manage.tab_rows'] = 'Servidores';
+$lang['Centoswebpanel.manage.tab_groups'] = 'Grupos de servidores';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'يكون نطاق 
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'يجب ضبط ما إذا كان يجب استخدام عنوان IP مخصص على 1 أو 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'لا يتطابق معرّف الموقع مع أي معرّف موقع في الزاحف المجنح.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'يجب أن يكون معرّف الموقع رقمياً.';
+$lang['Pterodactyl.back_to_manage'] = 'رجوع';
 

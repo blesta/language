@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = '服务器';
 $lang['Tcadmin.module_row'] = '服务器';
 $lang['Tcadmin.description'] = 'TCAdmin 游戏主机控制面板的设计初衷是帮助当今的游戏服务提供商节省时间和金钱，同时允许最终用户完全控制他们的服务器。';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = '返回';
+$lang['Tcadmin.manage.tab_rows'] = '服务器';
+$lang['Tcadmin.manage.tab_groups'] = '服务器组';
 

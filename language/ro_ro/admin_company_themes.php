@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Nu există teme de acest tip.';
 $lang['AdminCompanyThemes.index.option_export'] = 'Export';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Ștergeți';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Editați';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Opțiuni';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Acțiuni';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Nume';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Schema de culori';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = '客户组 ID 无效。';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s 的最高信用额度必须大于最低额度。';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s 的最大信用额必须大于 0。';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s 的最低信用额必须大于 0。';
+$lang['Clients.!error.action[].exists'] = '通知操作无效。';
+$lang['Clients.!error.action.exists'] = '无效通知操作 "%1$s"。';
 

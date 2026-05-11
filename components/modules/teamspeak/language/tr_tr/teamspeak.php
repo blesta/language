@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row'] = 'Sunucu';
 $lang['Teamspeak.description'] = 'TeamSpeak, bir sohbet kanalında kullanıcılar arasında sesli iletişim için bir seslendirme-İnternet Protokolü uygulamasıdır.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
 $lang['Teamspeak.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Teamspeak.back_to_manage'] = 'Geri';
+$lang['Teamspeak.manage.tab_rows'] = 'Sunucular';
+$lang['Teamspeak.manage.tab_groups'] = 'Sunucu Grupları';
 

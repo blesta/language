@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = 'Vă rugăm să introduceți un n
 $lang['GoGetSSL.!error.api_password.empty'] = 'Vă rugăm să introduceți o parolă API.';
 $lang['GoGetSSL.!error.api_username.valid'] = 'Nu a putut fi stabilită o conexiune cu serverul. Vă rugăm să verificați dacă datele de identificare API sunt corecte.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Vă rugăm să introduceți un nume de utilizator API.';
+$lang['Gogetssl.back_to_manage'] = 'Înapoi';
 

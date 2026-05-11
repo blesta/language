@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Не деинсталира�
 $lang['StripePayments.text_migrate_accounts'] = 'Можете автоматично да мигрирате платежните сметки, съхранявани извън сайта от стария шлюз на Stripe, към този шлюз на Stripe Payments. Сметките, които не се съхраняват извън сайта, трябва да бъдат мигрирани чрез ръчно създаване на нови платежни сметки. За да се предотвратят прекъсвания, миграциите ще се извършват на партиди от %1$s. Изпълнете това толкова пъти, колкото е необходимо, за да мигрират всички платежни сметки.';
 $lang['StripePayments.text_accounts_remaining'] = 'Оставащи сметки: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Мигриране на стари сметки за плащане';
-$lang['StripePayments.webhook_note'] = 'Препоръчително е да конфигурирате следния URL адрес като Webhook за събитията "payment_intent" в профила си в Stripe.';
+$lang['StripePayments.webhook_note'] = 'Препоръчително е да конфигурирате следния URL адрес като Webhook за събитията "payment_intent" и "charge" в профила си в Stripe.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Секретният ключ на API е специфичен за режим на работа в реално време или за режим на тестване. Уверете се, че използвате правилния ключ.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Ключът за публикуване на API е специфичен за режим на работа в реално време или за режим на тестване. Уверете се, че използвате правилния ключ.';

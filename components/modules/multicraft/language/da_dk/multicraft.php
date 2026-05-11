@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.row_meta.panel_api_url'] = 'Panel API URL';
 $lang['Multicraft.row_meta.username'] = 'Brugernavn';
 $lang['Multicraft.row_meta.key'] = 'API-nøgle';
 $lang['Multicraft.row_meta.log_all'] = 'Log alle API-anmodninger';
+$lang['Multicraft.back_to_manage'] = 'Tilbage';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'تم تمكين المكون ا
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'تمت ترقية المكون الإضافي بنجاح.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'تم إلغاء تثبيت المكون الإضافي بنجاح.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'تم تثبيت المكون الإضافي بنجاح. قد تكون قد سجلت أذونات ACL لموارد مختلفة. قد تحتاج إلى منح مجموعة الموظفين لديك حق الوصول إلى هذه الأذونات من أجل الوصول إلى هذه الموارد.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'تصفية المكونات الإضافية...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'لم يتم العثور على ملحقات مطابقة.';
 

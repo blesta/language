@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'O pagamento não pôde ser autoriz
 $lang['Checkout.!error.not_client_owner'] = 'Você deve estar conectado como proprietário do cliente para poder continuar.';
 $lang['Checkout.!error.no_payment_info'] = 'Você deve selecionar um método de pagamento para continuar.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Você deve confirmar sua concordância com os termos e condições.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Você deve consentir com o faturamento recorrente para continuar.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Autorizo o %1$s a armazenar meu método de pagamento e a cobrar o %2$s a partir de hoje, até meu cancelamento. Posso cancelar a qualquer momento on-line por meio de minha conta.';
+$lang['Checkout.index.recurring_every'] = 'todos %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'todo %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'e';
 

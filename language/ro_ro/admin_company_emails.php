@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Notificare tri
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Plată refuzată (card de credit)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Notificare trimisă după ce o plată cu cardul de credit a fost aprobată.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Plata aprobată (Card de credit)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Actualizare';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Aplicați';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Nu există șabloane de acest tip.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Editați';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Opțiuni';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Anulează';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Anexă';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Ștergeți';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Sunteți sigur că doriți să ștergeți acest atașament?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opțiuni';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Acțiuni';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Numele fișierului';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Anexe suplimentare';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Șablon de e-mail';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Niciuna';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Actualizare șablon HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Editare șablon';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Actualizați șablonul';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Etichete';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nume și prenume';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Editează șablonul HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Adăugați șablon';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Crearea șablonului';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Etichete';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nume și prenume';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Adăugați șablon HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Notificare 
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Anularea serviciului';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Notificare trimisă atunci când soldul creditului clientului scade sub pragul configurat.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Notificare de sold scăzut';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Subiect sugerat';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Versiune text';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Linia subiectului';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Versiunea HTML';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Aplicați conținutul la:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Eroare:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Prea multe cereri. Vă rugăm să așteptați un moment înainte de a încerca din nou.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Generarea conținutului a eșuat. Vă rugăm să încercați din nou.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Promptul depășește lungimea maximă.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Este necesar un prompt pentru a genera conținut.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Generarea șablonului de e-mail AI nu este activată.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Funcțiile AI sunt în prezent dezactivate.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Previzualizare text';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Previzualizare HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Faceți clic pe Generare pentru a crea conținut de e-mail pe baza tipului de șablon și a etichetelor disponibile.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Conținut generat';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Ghid opțional pentru inteligența artificială pentru a personaliza conținutul generat.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Adăugați cerințe specifice sau preferințe de ton...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Instrucțiuni suplimentare';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Încărcare prompt...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Contextul solicitării';
+$lang['AdminCompanyEmails.ai.generating'] = 'Generarea...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Anulează';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Utilizați acest conținut';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenerare';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Rescriere';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Generați';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Rescrieți conținutul e-mailului';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generați conținut pentru e-mail';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Asistent de conținut AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Copiat!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Copiați';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 Redirecționare URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Sunteți sigur că doriți să restaurați acest instantaneu? Orice modificări nesalvate vor fi pierdute.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Nu există instantanee disponibile pentru acest șablon de e-mail.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Istoric șablon';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Restaurare instantanee';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Restaurare';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Răsfoiți fișierele';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Aruncați fișiere aici sau faceți clic pe browse pentru a încărca fișiere atașate';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Utilizați aceste etichete în șablonul dvs. de e-mail pentru a include conținut dinamic.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Etichete disponibile';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Introduceți versiunea text simplu a e-mailului';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Introduceți subiectul e-mailului';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Introduceți de la adresa de e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Introduceți de la nume';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'elemente selectate';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Copiați această adresă URL și adăugați-o ca URI de redirecționare autorizat în setările aplicației furnizorului OAuth (de exemplu, Google Cloud Console, Microsoft Azure Portal). Acest lucru este necesar pentru ca autentificarea OAuth să funcționeze.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Șablonul de e-mail a fost restaurat cu succes din instantaneu!';
 

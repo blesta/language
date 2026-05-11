@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Přetažením widgetů zprava doleva je přidáte na ovládací panel nebo zleva doprava je odeberete.';
 $lang['AdminMain.index.customize_dashboard'] = 'Přizpůsobení přístrojové desky';
 $lang['AdminMain.index.manage_widgets'] = 'Správa widgetů';
-$lang['AdminMain.index.no_quicklinks'] = 'Nebyly nastaveny žádné rychlé odkazy.';
+$lang['AdminMain.index.no_quicklinks'] = 'Zatím žádné rychlé odkazy. Kliknutím na ikonu hvězdičky na libovolné stránce ji sem přidáte.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Rychlé odkazy';
 $lang['AdminMain.index.page_title'] = 'Přístrojová deska';
 $lang['AdminMain.!success.event_deleted'] = 'Událost byla úspěšně odstraněna!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Událost byla úspěšně aktualizov
 $lang['AdminMain.!success.event_added'] = 'Událost byla úspěšně přidána!';
 $lang['AdminMain.!error.event_editable'] = 'Událost může odstranit pouze její tvůrce.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Tuto událost může odstranit pouze její tvůrce.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Správa widgetů ovládacího panelu';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Zavřít';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Odstranění rychlého odkazu';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Jste si jisti, že chcete odstranit "%1$s" z Rychlých odkazů?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Odstranění stránky';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Zrušit';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Kliknutím na widgety je zobrazíte nebo skryjete z hlavního panelu.';
+$lang['AdminMain.calendar.category_list'] = 'Seznam';
+$lang['AdminMain.calendar.category_today'] = 'Dnes';
 

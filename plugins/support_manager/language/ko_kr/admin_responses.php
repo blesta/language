@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_updated'] = '응답 %1$s가 성공적으
 $lang['AdminResponses.!success.response_added'] = '응답 %1$s가 성공적으로 추가되었습니다.';
 $lang['AdminResponses.!success.category_added'] = '카테고리 %1$s를 추가했습니다.';
 $lang['AdminResponses.!success.response_deleted'] = '응답 %1$s을(를) 성공적으로 삭제했습니다.';
+$lang['AdminResponses.index.btn_back'] = '뒤로';
+$lang['AdminResponses.index.btn_add_category'] = '카테고리 추가';
+$lang['AdminResponses.index.btn_add_response'] = '응답 추가';
 

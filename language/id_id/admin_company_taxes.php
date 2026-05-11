@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Edit Aturan';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Perbarui Aturan';
 $lang['AdminCompanyTaxes.edit.field.state'] = 'Negara Bagian/Provinsi';
 $lang['AdminCompanyTaxes.edit.field.country'] = 'Negara';
 $lang['AdminCompanyTaxes.edit.field.amount'] = 'Jumlah';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.ext-ioncube-sourceguardian.minimum'] = 'مطل�
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'الامتداد \'%1$s\' مطلوب. الإصدار الخاص بك: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'التمديد \'%1$s\' مطلوب.';
 $lang['SystemRequirements.!error.php.minimum'] = 'مطلوب إصدار PHP %1$s أو أكبر. الإصدار الخاص بك: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'مطلوب الإصدار 5.7.7.7 من MySQL أو الإصدار 10.2.2.2 من MariaDB أو إصدار أكبر. الإصدار الخاص بك: %1$s.';
 

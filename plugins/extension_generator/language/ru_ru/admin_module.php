@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Далее - Подтверждение';
 $lang['AdminModule.features.text_remove'] = 'Удалить';
-$lang['AdminModule.features.text_options'] = 'Опции';
+$lang['AdminModule.features.text_options'] = 'Действия';
 $lang['AdminModule.features.cron_task_row_add'] = 'Добавить задачу Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'Добавить вкладку "Управление услугами';
 $lang['AdminModule.features.placeholder_time'] = 'Например, 14:25 или 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Разрешит�
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Код EPP';
 $lang['AdminModule.fields.features'] = 'Далее - Дополнительные возможности';
 $lang['AdminModule.fields.text_remove'] = 'Удалить';
-$lang['AdminModule.fields.text_options'] = 'Опции';
+$lang['AdminModule.fields.text_options'] = 'Действия';
 $lang['AdminModule.fields.service_row_add'] = 'Добавить поле обслуживания';
 $lang['AdminModule.fields.package_row_add'] = 'Добавить поле пакета';
 $lang['AdminModule.fields.module_row_add'] = 'Добавить поле строки модуля';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'ДВУ';
 $lang['AdminModule.basic.static_tlds'] = 'Статическое определение ДВУ';
 $lang['AdminModule.basic.text_remove'] = 'Удалить';
 $lang['AdminModule.basic.author_row_add'] = 'Добавить автора';
-$lang['AdminModule.basic.text_options'] = 'Опции';
+$lang['AdminModule.basic.text_options'] = 'Действия';
 $lang['AdminModule.basic.author_url'] = 'Автор URL';
 $lang['AdminModule.basic.author_name'] = 'Имя автора';
 $lang['AdminModule.basic.module_type_registrar'] = 'Регистратор';

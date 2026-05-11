@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AdminMain.index.heading_daterenews'] = 'Dato Fornyer';
 $lang['AdminMain.index.heading_dateexpires'] = 'Dato udløber';
 $lang['AdminMain.index.heading_datesuspended'] = 'Dato Suspenderet';
 $lang['AdminMain.index.heading_datecanceled'] = 'Dato Annulleret';
-$lang['AdminMain.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.index.heading_options'] = 'Handlinger';
 $lang['AdminMain.index.category_active'] = 'Aktiv';
 $lang['AdminMain.index.category_pending'] = 'Afventer';
 $lang['AdminMain.index.category_suspended'] = 'Suspenderet';
@@ -58,7 +58,7 @@ $lang['AdminMain.!success.service_edited'] = 'Domænet er blevet opdateret med s
 $lang['AdminMain.!error.unsupported_domain'] = 'Domænenavnet er ikke understøttet.';
 $lang['AdminMain.index.unparent'] = 'Forældrefri og nulstillet pris';
 $lang['AdminMain.add.boxtitle_client'] = 'Klient #%1$s';
-$lang['AdminMain.add.boxtitle_add'] = 'Tilføj domæne: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Tilføj domæne %1$s';
 $lang['AdminMain.add.link_viewclient'] = 'Se klient';
 $lang['AdminMain.add.field_transfer'] = 'Overførsel';
 $lang['AdminMain.add.field_register'] = 'Tilmeld dig';
@@ -79,7 +79,7 @@ $lang['AdminMain.add.title_basic_options'] = 'Grundlæggende muligheder';
 $lang['AdminMain.add.title_registrar_options'] = 'Registrator-muligheder';
 $lang['AdminMain.add.heading_domain'] = 'Domæne';
 $lang['AdminMain.add.heading_status'] = 'Status';
-$lang['AdminMain.add.heading_options'] = 'Valgmuligheder';
+$lang['AdminMain.add.heading_options'] = 'Handlinger';
 $lang['AdminMain.add.text_domain_available'] = 'Tilgængelig';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Ikke tilgængelig';
 $lang['AdminMain.add.term_day'] = '%1$s dag';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Opdatering';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domænet er blevet flyttet væk fra registratoren.';
 $lang['AdminMain.!success.remove_price_override'] = 'Prisen for overstyring af domænet er fjernet!';
 $lang['AdminMain.!success.set_price_override'] = 'Prisen for domæneoverstyring er blevet opdateret!';
+$lang['AdminMain.add.heading_search'] = 'Domæneopslag';
+$lang['AdminMain.add.field_domain'] = 'Domæne';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Spotlight-topdomæner';
+$lang['AdminMain.add.link_more_tlds'] = 'Flere topdomæner';
+$lang['AdminMain.add.button_cancel'] = 'Annuller';
+$lang['AdminMain.add.button_previous'] = 'Tidligere';
+$lang['AdminMain.add.button_continue'] = 'Fortsæt';
+$lang['AdminMain.add_confirmation.total'] = 'I alt:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Linjeposter';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kuponkode';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Ordre i alt';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Indtast kuponkode';
+$lang['AdminMain.edit.text_select_action'] = 'Klik på en knap ovenfor for at få vist formularen til at udføre en handling.';
+$lang['AdminMain.edit.text_no_fields'] = 'Denne handling kræver ingen yderligere indstillinger. Klik på Send for at fortsætte.';
 

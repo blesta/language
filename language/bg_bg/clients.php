@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Невалиден идент�
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от минималния размер.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Максималният размер на кредита за %1$s трябва да е по-голям от 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Минималният размер на кредита за %1$s трябва да е по-голям от 0.';
+$lang['Clients.!error.action[].exists'] = 'Невалидно действие за уведомяване.';
+$lang['Clients.!error.action.exists'] = 'Невалидно действие за уведомяване "%1$s".';
 

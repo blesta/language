@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Плагин был успеш�
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Плагин был успешно обновлен.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Плагин был успешно деинсталлирован.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Плагин был успешно установлен. Возможно, он зарегистрировал ACL-разрешения для различных ресурсов. Чтобы получить доступ к этим ресурсам, вам может потребоваться предоставить группе сотрудников доступ к этим разрешениям.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Фильтр плагинов...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Не найдено ни одного подходящего плагина.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Менеджер по поддержке';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Настройки';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Автоматически отправляйте клиентам напоминания о необходимости оставить отзыв о тикете, который был закрыт через определенный период времени.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Отправляйте напоминания об обратной связи';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Обработка билетов с помощью искусственного интеллекта';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Анализирует тикеты с помощью искусственного интеллекта для создания предложений по реагированию и автоматического выполнения инструментов (закрытие спама, назначение сотрудников, изменение приоритета).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Настройки ИИ';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Примечание: Этот ответ был подготовлен искусственным интеллектом и должен быть проверен на точность.*';
 

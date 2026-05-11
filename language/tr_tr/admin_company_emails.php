@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'İptal';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Eklenti';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Silme';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Bu eki silmek istediğinizden emin misiniz?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Seçenekler';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Eylemler';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Dosya Adı';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Ek Ekler';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'E-posta Şablonu';
@@ -149,7 +149,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Bir kredi kart
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Ödeme Reddedildi (Kredi Kartı)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Başarılı bir kredi kartı ödemesi onaylandıktan sonra gönderilen bildirim.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Ödeme Onaylandı (Kredi Kartı)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Güncelleme';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Başvurmak';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Bu türde bir şablon bulunmamaktadır.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Düzenle';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Seçenekler';
@@ -189,11 +189,11 @@ $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'E-posta imzası ba
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'E-posta şablonu ayarları başarıyla güncellendi!';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Hiçbiri';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'HTML Şablonunu Güncelle';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Şablonu Düzenle';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Güncelleme Şablonu';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Etiketler';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'İsim';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'HTML Şablonunu Düzenle';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Şablon Ekle';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Şablon Oluştur';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Etiketler';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'İsim';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'HTML Şablonu Ekleme';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Hizmet ipta
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Hizmet İptali';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Müşteri kredi bakiyesi yapılandırılan eşiğin altına düştüğünde gönderilen bildirim.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Düşük Bakiye Bildirimi';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Önerilen Konu';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Metin versiyonu';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML sürümü';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Konu satırı';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'İçeriği uygulayın:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Hata:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Çok fazla istek var. Lütfen tekrar denemeden önce bir dakika bekleyin.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'İçerik oluşturma başarısız oldu. Lütfen tekrar deneyin.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'İstem maksimum uzunluğu aşıyor.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'İçerik oluşturmak için bir istem gereklidir.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Yapay zeka e-posta şablonu oluşturma etkin değil.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Yapay zeka özellikleri şu anda devre dışıdır.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Metin Önizleme';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML Önizleme';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Şablon türüne ve mevcut etiketlere göre e-posta içeriği oluşturmak için Oluştur\'a tıklayın.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Oluşturulan İçerik';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Yapay zekanın oluşturulan içeriği özelleştirmesi için isteğe bağlı rehberlik.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Özel gereksinimler veya ton tercihleri ekleyin...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Ek Talimatlar';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Yükleme istemi...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'İstem Bağlamı';
+$lang['AdminCompanyEmails.ai.generating'] = 'Üretmek...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'İptal';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Bu İçeriği Kullanın';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Yenilenme';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Yeniden Yaz';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Oluşturmak';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'E-posta İçeriğini Yeniden Yazın';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'E-posta İçeriği Oluşturun';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Yapay Zeka İçerik Asistanı';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Kopyalandı!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Anlaşıldı';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 Yönlendirme URI\'si';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Bu anlık görüntüyü geri yüklemek istediğinizden emin misiniz? Kaydedilmemiş tüm değişiklikler kaybolacaktır.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Bu e-posta şablonu için anlık görüntü mevcut değildir.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Şablon Geçmişi';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Anlık Görüntüyü Geri Yükle';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Geri Yükleme';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Dosyalara Gözat';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Dosyaları buraya bırakın veya ekleri yüklemek için gözat\'a tıklayın';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Dinamik içerik eklemek için e-posta şablonunuzda bu etiketleri kullanın.';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'E-posta adresinden girin';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Mevcut Etiketler';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'E-postanın düz metin versiyonunu girin';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'E-posta konusunu girin';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'İsimden girin';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Bu URL\'yi kopyalayın ve OAuth sağlayıcınızın uygulama ayarlarına (örneğin, Google Cloud Console, Microsoft Azure Portal) yetkili bir yönlendirme URI\'si olarak ekleyin. OAuth kimlik doğrulamasının çalışması için bu gereklidir.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'E-posta şablonu anlık görüntüden başarıyla geri yüklendi!';
 

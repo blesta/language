@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Dra widgetar från höger till vänster för att lägga till dem i instrumentpanelen, eller från vänster till höger för att ta bort dem.';
 $lang['AdminMain.index.customize_dashboard'] = 'Anpassa instrumentpanelen';
 $lang['AdminMain.index.manage_widgets'] = 'Hantera widgetar';
-$lang['AdminMain.index.no_quicklinks'] = 'Inga snabblänkar har ställts in.';
+$lang['AdminMain.index.no_quicklinks'] = 'Inga snabblänkar ännu. Klicka på stjärnikonen på valfri sida för att lägga till den här.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Snabba länkar';
 $lang['AdminMain.index.page_title'] = 'Instrumentpanel';
 $lang['AdminMain.!success.event_deleted'] = 'Händelsen har raderats framgångsrikt!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Händelsen har uppdaterats framgång
 $lang['AdminMain.!success.event_added'] = 'Händelsen har lagts till med framgång!';
 $lang['AdminMain.!error.event_editable'] = 'Endast den som har skapat evenemanget kan radera det.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Endast den som skapat händelsen får radera den.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Hantera widgets för instrumentpanelen';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Nära';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Ta bort snabblänk';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Är du säker på att du vill ta bort "%1$s" från Snabblänkar?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Ta bort';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Avbryt';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klicka på widgetar för att visa eller dölja dem från instrumentpanelen.';
+$lang['AdminMain.calendar.category_list'] = 'Lista';
+$lang['AdminMain.calendar.category_today'] = 'Idag';
 

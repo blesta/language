@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -74,7 +74,7 @@ $lang['AdminMain.urls.no_urls'] = 'Bu bölümde Statik URL bulunmamaktadır.';
 $lang['AdminMain.urls.latest_file'] = '<strong>%1$s</strong>\'den en son dosya';
 $lang['AdminMain.urls.delete'] = 'Silme';
 $lang['AdminMain.urls.edit'] = 'Düzenle';
-$lang['AdminMain.urls.heading_options'] = 'Seçenekler';
+$lang['AdminMain.urls.heading_options'] = 'Eylemler';
 $lang['AdminMain.urls.heading_link'] = 'Bağlantı';
 $lang['AdminMain.urls.heading_file'] = 'Dosya';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -86,8 +86,8 @@ $lang['AdminMain.urls.page_title'] = 'İndirme Yöneticisi > Yönet';
 $lang['AdminMain.files.no_downloads'] = 'Bu bölümde herhangi bir indirme bulunmamaktadır.';
 $lang['AdminMain.files.delete'] = 'Silme';
 $lang['AdminMain.files.edit'] = 'Düzenle';
-$lang['AdminMain.files.go_back'] = 'Bir seviye yukarı çıkın';
-$lang['AdminMain.files.add_category'] = 'Buraya Kategori Ekle';
+$lang['AdminMain.files.go_back'] = 'Geri';
+$lang['AdminMain.files.add_category'] = 'Kategori Ekle';
 $lang['AdminMain.files.add_download'] = 'İndirmeyi Buraya Ekleyin';
 $lang['AdminMain.files.tab_urls'] = 'Statik URL\'ler';
 $lang['AdminMain.files.tab_files'] = 'Dosyalar';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.category_updated'] = 'Kategori başarıyla güncellend
 $lang['AdminMain.!success.category_added'] = 'Kategori başarıyla oluşturuldu.';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
 $lang['AdminMain.addcategory.boxtitle_root'] = 'Kategori\'yi %1$s\'ye ekleyin';
-$lang['AdminMain.edit.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Dosyalar';
+$lang['AdminMain.sidebar.urls'] = 'Statik URL\'ler';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache\'nin mod_http2\'si etkin, ancak mod_xsendfile etkin değil. Daha iyi performans ve daha hızlı indirme için mod_xsendfile\'ı etkinleştirmenizi veya yüklemenizi öneririz.';
+$lang['AdminMain.modal.confirm_delete'] = 'Silme İşlemini Onayla';
+$lang['AdminMain.modal.delete'] = 'Silme';
+$lang['AdminMain.modal.cancel'] = 'İptal';
+$lang['AdminMain.modal.save'] = 'Kaydet';
+$lang['AdminMain.add.public'] = 'Herkese Açık';
+$lang['AdminMain.add.logged_in'] = 'Giriş yapılmış olmalı';
+$lang['AdminMain.add.text_fileinfo'] = 'NOT: Dosyalar uploads dizininiz içinde bir yerde bulunmalıdır.';
+$lang['AdminMain.add.field_file_type'] = 'Dosya Kaynağı';
+$lang['AdminMain.add.upload'] = 'Dosya Yükle';
+$lang['AdminMain.add.path'] = 'Dosya Yolunu Belirtin';
 

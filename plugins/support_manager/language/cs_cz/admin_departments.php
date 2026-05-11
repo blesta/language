@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Odstranit';
 $lang['AdminDepartments.edit.heading_default'] = 'Výchozí';
 $lang['AdminDepartments.edit.heading_value'] = 'Hodnota';
 $lang['AdminDepartments.edit.heading_name'] = 'Název';
-$lang['AdminDepartments.edit.heading_options'] = 'Možnosti';
+$lang['AdminDepartments.edit.heading_options'] = 'Akce';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Automatické mazání';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Šifrované';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Klient může přidat';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Odstranit';
 $lang['AdminDepartments.add.heading_default'] = 'Výchozí';
 $lang['AdminDepartments.add.heading_value'] = 'Hodnota';
 $lang['AdminDepartments.add.heading_name'] = 'Název';
-$lang['AdminDepartments.add.heading_options'] = 'Možnosti';
+$lang['AdminDepartments.add.heading_options'] = 'Akce';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Automatické mazání';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Šifrované';
 $lang['AdminDepartments.add.heading_client_add'] = 'Klient může přidat';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Neexistují žádná oddělení.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Oddělení s přiřazenými tipy nelze smazat, dokud nejsou všechny tipy přiřazeny jinému oddělení. Opravdu chcete toto oddělení odstranit?';
 $lang['AdminDepartments.index.option_delete'] = 'Odstranit';
 $lang['AdminDepartments.index.option_edit'] = 'Upravit';
-$lang['AdminDepartments.index.heading_options'] = 'Možnosti';
+$lang['AdminDepartments.index.heading_options'] = 'Akce';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Výchozí priorita';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Přidělený personál';
 $lang['AdminDepartments.index.heading_email'] = 'E-mail';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'ID klienta / aplikace OA
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Uživatel OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Zprostředkovatel OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'U všech tiketů se stavem uzavřeno bude klientovi zaslána připomínka, aby zanechal zpětnou vazbu, pokud byl tiket uzavřen po zvolenou dobu.';
+$lang['AdminDepartments.!text.description_hint'] = 'Tento popis se klientům zobrazí při výběru oddělení.';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Podržením klávesy Ctrl (Windows) nebo Cmd (Mac) vyberete více priorit.';
+$lang['AdminDepartments.!text.search_responses'] = 'Vyhledávání odpovědí...';
+$lang['AdminDepartments.!text.searching'] = 'Hledání...';
+$lang['AdminDepartments.add.heading_actions'] = 'Akce';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Jste si jisti, že chcete toto vlastní pole odebrat?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Akce';
 

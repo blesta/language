@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = '서버';
 $lang['Enhance.module_row'] = '서버';
 $lang['Enhance.description'] = 'Enhance는 차세대 공유 호스팅 제어판입니다.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = '뒤로';
+$lang['Enhance.manage.tab_rows'] = '서버';
+$lang['Enhance.manage.tab_groups'] = '서버 그룹';
+$lang['Enhance.package_fields.package_tooltip'] = '향상 제어판에서 요금제 ID를 입력합니다. 요금제를 자동으로 로드할 수 없습니다.';
 

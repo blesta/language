@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'Opmerkingen';
 $lang['AdminSystemApi.edit.field_user'] = 'Gebruiker';
 $lang['AdminSystemApi.edit.field_company'] = 'Bedrijf';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'API-gebruiker bewerken';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Gebruiker toevoegen';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Gebruiker aanmaken';
 $lang['AdminSystemApi.add.field_notes'] = 'Opmerkingen';
 $lang['AdminSystemApi.add.field_user'] = 'Gebruiker';
 $lang['AdminSystemApi.add.field_company'] = 'Bedrijf';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'Deze API-gebruiker echt verwijde
 $lang['AdminSystemApi.index.no_results'] = 'Er zijn geen API-gebruikers.';
 $lang['AdminSystemApi.index.option_delete'] = 'Verwijder';
 $lang['AdminSystemApi.index.option_edit'] = 'Bewerk';
-$lang['AdminSystemApi.index.heading_options'] = 'Opties';
+$lang['AdminSystemApi.index.heading_options'] = 'Acties';
 $lang['AdminSystemApi.index.heading_date'] = 'Datum gemaakt';
 $lang['AdminSystemApi.index.heading_company'] = 'Bedrijf';
 $lang['AdminSystemApi.index.heading_key'] = 'Sleutel';

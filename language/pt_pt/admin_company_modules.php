@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.available.text_author'] = 'Autor:';
 $lang['AdminCompanyModules.available.boxtitle_module'] = 'Módulos';
 $lang['AdminCompanyModules.available.page_title'] = 'Definições &gt; Empresa &gt; Módulos &gt; Disponíveis';
 $lang['AdminCompanyModules.!tab.available'] = 'Disponível';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Módulos de filtro...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Não foram encontrados módulos correspondentes.';
 

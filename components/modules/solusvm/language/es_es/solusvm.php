@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,7 @@ $lang['Solusvm.tab_client_ips.heading_remove_ip'] = 'Eliminar IP %1$s';
 $lang['Solusvm.tab_client_ips.confirm_remove_ip'] = '¿Está seguro de que desea eliminar permanentemente esta dirección IP?';
 $lang['Solusvm.tab_client_ips.remove_ip'] = 'Eliminar IP';
 $lang['Solusvm.tab_client_ips.cancel'] = 'Cancelar';
+$lang['Solusvm.back_to_manage'] = 'Volver';
+$lang['Solusvm.manage.tab_rows'] = 'Servidores';
+$lang['Solusvm.manage.tab_groups'] = 'Grupos de servidores';
 

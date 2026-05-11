@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'ID pengguna harus berupa bil
 $lang['MulticraftService.!error.server_id.format'] = 'ID server harus berupa bilangan bulat, atau dikosongkan.';
 $lang['MulticraftService.!error.client'] = 'Tidak ada klien yang ditemukan untuk membuat pengguna Multicraft.';
 $lang['MulticraftService.!error.internal'] = 'Terjadi kesalahan internal, atau server tidak merespons permintaan.';
+$lang['Multicraft.back_to_manage'] = 'Kembali';
 

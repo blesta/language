@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Ispmanager.!error.ispmanager_username.length'] = 'El nombre de usuario de
 $lang['Ispmanager.!error.ispmanager_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Ispmanager.!error.ispmanager_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
 $lang['Ispmanager.!error.api'] = 'Se ha producido un error interno o el servidor no ha respondido a la solicitud.';
+$lang['Ispmanager.back_to_manage'] = 'Volver';
+$lang['Ispmanager.manage.tab_rows'] = 'Servidores';
+$lang['Ispmanager.manage.tab_groups'] = 'Grupos de servidores';
 

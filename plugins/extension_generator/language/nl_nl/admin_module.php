@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Volgende - Bevestiging';
 $lang['AdminModule.features.text_remove'] = 'Verwijder';
-$lang['AdminModule.features.text_options'] = 'Opties';
+$lang['AdminModule.features.text_options'] = 'Acties';
 $lang['AdminModule.features.cron_task_row_add'] = 'Crontaak toevoegen';
 $lang['AdminModule.features.service_tab_row_add'] = 'Tabblad Servicebeheer toevoegen';
 $lang['AdminModule.features.placeholder_time'] = 'bijv. 14:25 of 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Of gebruikers een
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP-code';
 $lang['AdminModule.fields.features'] = 'Volgende - Extra functies';
 $lang['AdminModule.fields.text_remove'] = 'Verwijder';
-$lang['AdminModule.fields.text_options'] = 'Opties';
+$lang['AdminModule.fields.text_options'] = 'Acties';
 $lang['AdminModule.fields.service_row_add'] = 'Serviceveld toevoegen';
 $lang['AdminModule.fields.package_row_add'] = 'Pakketveld toevoegen';
 $lang['AdminModule.fields.module_row_add'] = 'Module rij veld toevoegen';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD\'s';
 $lang['AdminModule.basic.static_tlds'] = 'TLD\'s statisch definiëren';
 $lang['AdminModule.basic.text_remove'] = 'Verwijder';
 $lang['AdminModule.basic.author_row_add'] = 'Auteur toevoegen';
-$lang['AdminModule.basic.text_options'] = 'Opties';
+$lang['AdminModule.basic.text_options'] = 'Acties';
 $lang['AdminModule.basic.author_url'] = 'Auteur URL';
 $lang['AdminModule.basic.author_name'] = 'Naam auteur';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrator';

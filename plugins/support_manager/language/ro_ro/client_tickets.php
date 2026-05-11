@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,7 +56,7 @@ $lang['ClientTickets.index.minutes'] = '%1$s minute';
 $lang['ClientTickets.index.any'] = 'Orice';
 $lang['ClientTickets.index.option_reply'] = 'Răspuns';
 $lang['ClientTickets.index.option_close'] = 'Închideți';
-$lang['ClientTickets.index.heading_options'] = 'Opțiuni';
+$lang['ClientTickets.index.heading_options'] = 'Acțiuni';
 $lang['ClientTickets.index.heading_status'] = 'Stare';
 $lang['ClientTickets.index.heading_last_reply_date'] = 'Ultimul răspuns';
 $lang['ClientTickets.index.heading_summary'] = 'Rezumat';

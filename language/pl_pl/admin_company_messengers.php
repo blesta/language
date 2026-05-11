@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Konfigurac
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Komunikator został pomyślnie odinstalowany.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Komunikator został pomyślnie zainstalowany.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Komunikator został pomyślnie zaktualizowany.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtruj komunikatory...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Nie znaleziono pasujących komunikatorów.';
 

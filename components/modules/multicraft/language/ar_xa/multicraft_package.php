@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'الرجاء تحديد
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'يرجى تعيين الحد الأقصى لمقدار الذاكرة كعدد صحيح بالميجابايت.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'يُرجى تعيين الحد الأقصى لعدد خانات اللاعبين المسموح بها.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'يرجى تعيين اسم للخادم.';
+$lang['Multicraft.back_to_manage'] = 'رجوع';
 

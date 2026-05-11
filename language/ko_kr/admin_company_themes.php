@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = '이 유형의 테마는 없습�
 $lang['AdminCompanyThemes.index.option_export'] = '내보내기';
 $lang['AdminCompanyThemes.index.option_delete'] = '삭제';
 $lang['AdminCompanyThemes.index.option_edit'] = '편집';
-$lang['AdminCompanyThemes.index.heading_options'] = '옵션';
+$lang['AdminCompanyThemes.index.heading_options'] = '작업';
 $lang['AdminCompanyThemes.index.heading_name'] = '이름';
 $lang['AdminCompanyThemes.index.heading_color'] = '색 구성표';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';

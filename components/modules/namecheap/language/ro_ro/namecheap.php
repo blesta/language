@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.description'] = 'Namecheap, Inc. este un registrator de nume de
 $lang['Namecheap.name'] = 'Namecheap';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Actualizează automat lista TLD și prețurile de la Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'Sincronizarea datelor TLD';
+$lang['Namecheap.back_to_manage'] = 'Înapoi';
 

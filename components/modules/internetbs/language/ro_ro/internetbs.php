@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'Conturi';
 $lang['Internetbs.module_row'] = 'Cont';
 $lang['Internetbs.description'] = 'Internet.bs oferă servicii de înregistrare și transfer de nume de domenii pentru ccTLD și gTLD.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'Înapoi';
+$lang['Internetbs.manage.tab_rows'] = 'Servere';
+$lang['Internetbs.manage.tab_groups'] = 'Grupuri de servere';
 

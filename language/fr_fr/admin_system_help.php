@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.heading_forums'] = 'Forums communautaires';
 $lang['AdminSystemHelp.index.text_forums'] = 'Les forums de Blesta sont un centre d\'assistance communautaire, où les utilisateurs soumettent des questions et des réponses allant du plus simple au plus complexe.';
 $lang['AdminSystemHelp.index.heading_discord'] = 'Discord Chat';
 $lang['AdminSystemHelp.index.text_discord'] = 'Rejoignez-nous sur Discord pour discuter et passer du temps avec d\'autres membres de la communauté.';
+$lang['AdminSystemHelp.credits.page_title'] = 'Réglages &gt; Système &gt; Aide &gt; A propos de Blesta';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'À propos de Blesta';
 

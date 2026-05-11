@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -26,7 +26,7 @@ $lang['AdminPayouts.index.heading_requested_currency'] = 'Monnaie demandée';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Montant payé';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Monnaie payée';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Date de la demande';
-$lang['AdminPayouts.index.heading_options'] = 'Options';
+$lang['AdminPayouts.index.heading_options'] = 'Actions';
 $lang['AdminPayouts.index.option_edit'] = 'Editer';
 $lang['AdminPayouts.index.option_approve'] = 'Approuver';
 $lang['AdminPayouts.index.option_decline'] = 'Déclin';

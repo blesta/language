@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -58,7 +58,7 @@ $lang['AdminStaff.index.no_results'] = '현재 지원 시스템에 배정된 직
 $lang['AdminStaff.index.confirm_delete'] = '이 스태프를 삭제하면 현재 이 스태프에게 배정된 모든 티켓의 배정이 해제됩니다. 이 스태프를 삭제하시겠습니까?';
 $lang['AdminStaff.index.option_delete'] = '삭제';
 $lang['AdminStaff.index.option_edit'] = '편집';
-$lang['AdminStaff.index.heading_options'] = '옵션';
+$lang['AdminStaff.index.heading_options'] = '작업';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = '티켓 메신저 알림 받기';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = '모바일 티켓 이메일 수신';
 $lang['AdminStaff.index.heading_ticket_emails'] = '티켓 이메일 받기';

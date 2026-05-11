@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = 'Информация о ваше�
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Требуется для включения двухфакторной аутентификации или обновления пароля.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Двухфакторная аутентификация';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Добавить кредиты';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Удалить';
 

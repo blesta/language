@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'ال
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'إحضار معلومات خيار حزمة الكوبون';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'خيارات باقة كوبون الجلب';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'قائمة عروض الأسعار';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'الذكاء الاصطناعي';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'استعادة لقطة قالب البريد الإلكتروني';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'التحقق من سلامة النظام';
 

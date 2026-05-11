@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = '服务器';
 $lang['Enhance.module_row'] = '服务器';
 $lang['Enhance.description'] = 'Enhance 是新一代共享主机控制面板。';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = '返回';
+$lang['Enhance.manage.tab_rows'] = '服务器';
+$lang['Enhance.manage.tab_groups'] = '服务器组';
+$lang['Enhance.package_fields.package_tooltip'] = '从 Enhance 控制面板输入计划 ID。无法自动加载计划。';
 

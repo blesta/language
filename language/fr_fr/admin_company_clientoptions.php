@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,7 +50,7 @@ $lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Format de l\'
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID du client Valeur de départ';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Valeur d\'incrémentation de l\'ID du client';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Empêcher les paiements provenant de clients non vérifiés';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Soumettre';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Mise à jour des paramètres';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Paramètres > Société > Options du client > Champs personnalisés du client > Parcourir';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Parcourir les champs personnalisés des clients';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Créer un champ';
@@ -76,7 +76,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Lecture seu
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Exigée';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex personnalisées';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Chiffrer les valeurs';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Ajouter un champ personnalisé';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Créer un champ personnalisé';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Valeur';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Valeur par défaut vérifiée';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Valeur du texte par défaut';
@@ -97,7 +97,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Lecture se
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Exigée';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex personnalisées';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Chiffrer les valeurs';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Modifier un champ personnalisé';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Mise à jour d\'un champ personnalisé';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Valeur';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Valeur par défaut vérifiée';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Valeur du texte par défaut';

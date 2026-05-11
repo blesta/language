@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'Hesaplar';
 $lang['Internetbs.module_row'] = 'Hesap';
 $lang['Internetbs.description'] = 'Internet.bs, ccTLD\'ler ve gTLD\'ler için alan adı kaydı ve transferleri sağlar.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'Geri';
+$lang['Internetbs.manage.tab_rows'] = 'Sunucular';
+$lang['Internetbs.manage.tab_groups'] = 'Sunucu Grupları';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,7 @@ $lang['Solusvm.tab_stats.bandwidth_stats'] = '%1$s/%2$s';
 $lang['Solusvm.tab_stats.memory_stats'] = '%1$s/%2$s';
 $lang['Solusvm.tab_stats.space_stats'] = '%1$s/%2$s';
 $lang['Solusvm.!bytes.value'] = '%1$s%2$s';
+$lang['Solusvm.back_to_manage'] = 'Geri';
+$lang['Solusvm.manage.tab_rows'] = 'Sunucular';
+$lang['Solusvm.manage.tab_groups'] = 'Sunucu Grupları';
 

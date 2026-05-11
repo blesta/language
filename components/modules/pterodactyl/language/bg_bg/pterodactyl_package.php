@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Диапазонъ
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Дали да се използва специален IP адрес, трябва да бъде зададено на 1 или 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Идентификаторът на местоположението не съвпада с никой от Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Идентификаторът на местоположението трябва да е цифров.';
+$lang['Pterodactyl.back_to_manage'] = 'Обратно';
 

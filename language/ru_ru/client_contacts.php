@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'У вас нет контактов.
 $lang['ClientContacts.index.confirm_delete'] = 'Вы уверены, что хотите удалить этот контакт?';
 $lang['ClientContacts.index.option_delete'] = 'Удалить';
 $lang['ClientContacts.index.option_edit'] = 'Редактировать';
-$lang['ClientContacts.index.heading_options'] = 'Опции';
+$lang['ClientContacts.index.heading_options'] = 'Действия';
 $lang['ClientContacts.index.heading_type'] = 'Тип';
 $lang['ClientContacts.index.heading_email'] = 'Электронная почта';
 $lang['ClientContacts.index.heading_name'] = 'Имя';

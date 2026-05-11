@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Tem certeza de que deseja atualizar essa moeda? A taxa de câmbio dessa moeda será substituída quando as taxas de câmbio forem atualizadas automaticamente no sistema. Você pode desativar as atualizações automáticas em [Configurações] > [Empresa] > [Moedas] > [Configuração de moeda].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Editar moeda';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Atualizar moeda';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Taxa de câmbio';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Símbolo de sufixo';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Símbolo de prefixo';

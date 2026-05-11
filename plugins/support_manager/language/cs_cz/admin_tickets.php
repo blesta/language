@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,8 +57,8 @@ $lang['AdminTickets.reply.heading_client'] = 'Klient';
 $lang['AdminTickets.reply.heading_summary'] = 'Souhrn';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Vstupenka #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Odebrat soubor';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
-$lang['AdminTickets.add.text_add_response'] = 'Vložení předdefinované odpovědi';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory.';
+$lang['AdminTickets.add.text_add_response'] = 'Vložit předdefinovanou odpověď';
 $lang['Admintickets.add.client_placeholder'] = 'ID nebo jméno klienta';
 $lang['AdminTickets.add.field_addsubmit'] = 'Otevřený lístek';
 $lang['AdminTickets.add.text_add_attachment'] = 'Přidat přílohu';
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'Odpadkový koš';
 $lang['AdminTickets.index.category_closed'] = 'Uzavřeno';
 $lang['AdminTickets.index.category_on_hold'] = 'Na počkání';
 $lang['AdminTickets.index.category_in_progress'] = 'Probíhá';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Čekáme na odpověď klienta';
-$lang['AdminTickets.index.category_open'] = 'Čekáme na odpověď zaměstnanců';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Čeká na klienta';
+$lang['AdminTickets.index.category_open'] = 'Čekání na zaměstnance';
 $lang['AdminTickets.text.unassigned'] = 'Nepřiřazeno';
 $lang['AdminTickets.search.page_title'] = 'Výsledky hledání pro "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'Správce podpory > Tiket #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Pro vybraného klienta nejsou k di
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailová adresa, na kterou chcete být upozorněni při aktualizaci tipu.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakty, které mají být informovány o aktualizaci tipu. Ti, kteří nejsou vybráni, budou automaticky přidáni k tiketu, pokud na něj budou reagovat.';
 $lang['AdminTickets.reply.text_domain'] = 'Doména';
-$lang['AdminTickets.reply.heading_rating'] = 'Hodnocení';
+$lang['AdminTickets.reply.heading_rating'] = 'Hodnocení zákazníků';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Hodnocení Komentář';
 $lang['AdminTickets.index.heading_rating'] = 'Hodnocení';
+$lang['AdminTickets.index.text_fullscreen'] = 'Přepnout na celou obrazovku';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Ukončení zobrazení na celou obrazovku';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Zadejte číslo letenky';
+$lang['AdminTickets.index.placeholder_summary'] = 'Shrnutí vyhledávání';
+$lang['AdminTickets.index.heading_filters'] = 'Filtry';
+$lang['AdminTickets.index.field_apply_filters'] = 'Použít filtry';
+$lang['AdminTickets.index.field_clear_filters'] = 'Vymazat filtry';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Kontakty a příjemci';
+$lang['AdminTickets.add.search_responses'] = 'Vyhledávání odpovědí...';
+$lang['AdminTickets.add.no_results'] = 'Nebyly nalezeny žádné odpovídající odpovědi';
+$lang['AdminTickets.add.searching'] = 'Hledání...';
+$lang['AdminTickets.add.search_min_chars'] = 'Pro vyhledávání zadejte alespoň 2 znaky';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Podrobnosti o vstupence';
+$lang['AdminTickets.add.login_as_client'] = 'Přihlášení jako klient';
+$lang['AdminTickets.add.markdown_supported'] = 'Podporován formát Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory.';
+$lang['AdminTickets.add.browse_files'] = 'Procházet soubory';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Vlastní';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Kontakty a příjemci';
+$lang['AdminTickets.reply.text_date_rated'] = 'Hodnoceno: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Na %1$s %2$s %3$s přidal poznámku';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Podrobnosti o vstupence';
+$lang['AdminTickets.reply.login_as_client'] = 'Přihlášení jako klient';
+$lang['AdminTickets.reply.search_responses'] = 'Vyhledávání odpovědí...';
+$lang['AdminTickets.reply.no_results'] = 'Nebyly nalezeny žádné odpovídající odpovědi';
+$lang['AdminTickets.reply.searching'] = 'Hledání...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Pro vyhledávání zadejte alespoň 2 znaky';
+$lang['AdminTickets.reply.markdown_supported'] = 'Podporován formát Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Interní poznámky jsou viditelné pouze pro zaměstnance';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
+$lang['AdminTickets.reply.browse_files'] = 'Procházet soubory';
+$lang['AdminTickets.reply.btn_cancel'] = 'Zrušit';
+$lang['AdminTickets.reply.client_title'] = 'Klient';
+$lang['AdminTickets.reply.note_label'] = 'Poznámka zaměstnanců';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Generování odpovědi AI';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Připravenost na odezvu AI';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenerujte';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Regenerovat reakci AI';
+$lang['AdminTickets.reply.text_generating'] = 'Generování...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenerace...';
+$lang['AdminTickets.reply.text_just_now'] = 'Právě teď';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$spřed měsícem';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh před';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$spřed';
+$lang['AdminTickets.reply.modal_title'] = 'Reakce generovaná umělou inteligencí';
+$lang['AdminTickets.reply.label_confidence'] = 'Důvěra';
+$lang['AdminTickets.reply.label_generated'] = 'Generováno';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'Požadovaná recenze';
+$lang['AdminTickets.reply.alert_review_text'] = 'Tato odpověď byla automaticky vygenerována umělou inteligencí. Před odesláním si ji prosím pečlivě prohlédněte, abyste se ujistili o její správnosti a vhodném tónu.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Interní poznámky';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Navrhovaná odpověď';
+$lang['AdminTickets.reply.label_concerns'] = 'Obavy';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Nebyla navržena žádná odpověď. Odůvodnění viz interní poznámky.';
+$lang['AdminTickets.reply.button_cancel'] = 'Zrušit';
+$lang['AdminTickets.reply.button_use_response'] = 'Použijte tuto odpověď';
+$lang['AdminTickets.reply.button_reject'] = 'Odmítnout';
+$lang['AdminTickets.reply.button_summarize'] = 'Shrňte';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Shrnutí umělé inteligence';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Neplatné ID tipu';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Funkce AI nejsou pro Správce podpory povoleny';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Nepodařilo se vygenerovat odpověď AI';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Neplatné ID analýzy';
+$lang['AdminTickets.!error.reply_not_found'] = 'Zadanou odpověď se nepodařilo najít.';
+$lang['AdminTickets.!error.summary_failed'] = 'Nepodařilo se vygenerovat souhrn.';
 

@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Wyszukiwanie TLD';
 $lang['Main.steps.step_1_description'] = 'Wybierz domenę';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Opcje';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Działania';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Okres';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Termin';
 $lang['OrderTypeDomain.settings.text_term'] = 'Minimalny termin i okres';

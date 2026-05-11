@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Επιστρο�
 $lang['AppController.client_structure.default_title'] = 'Ο λογαριασμός μου';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Επιστροφή στην Πύλη Προσωπικού';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Η λειτουργία συντήρησης είναι ενεργοποιημένη και οι πελάτες δεν μπορούν να συνδεθούν. Κάντε κλικ εδώ για να αλλάξετε.';
+$lang['AppController.structure.text_maintenance'] = 'Η λειτουργία συντήρησης είναι ενεργοποιημένη και οι πελάτες δεν μπορούν να συνδεθούν.';
 $lang['AppController.structure.text_logout'] = 'Αποσύνδεση';
 $lang['AppController.structure.text_settings'] = 'Ρυθμίσεις';
 $lang['AppController.structure.text_myinfo'] = 'Οι πληροφορίες μου';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Δεν είστε εξου�
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
 $lang['AppController.!error.client_unauthorized_access'] = 'Δεν έχετε δικαίωμα πρόσβασης σε αυτόν τον πόρο, παρακαλούμε επικοινωνήστε με τον κύριο κάτοχο του λογαριασμού για να ζητήσετε πρόσβαση.';
-$lang['AppController.structure.text_step_up_access'] = 'Έχετε επί του παρόντος μια συνεδρία αναβάθμισης ανοιχτή με πρόσβαση στις ρυθμίσεις του διαχειριστή. Κάντε κλικ εδώ για να εγκαταλείψετε την πρόσβαση.';
+$lang['AppController.structure.text_step_up_access'] = 'Έχετε επί του παρόντος μια συνεδρία αναβάθμισης ανοιχτή με πρόσβαση στις ρυθμίσεις του διαχειριστή.';
+$lang['AppController.structure.text_mark_all_read'] = 'Σημειώστε τα όλα ως αναγνωσμένα';
+$lang['AppController.structure.text_open'] = 'Ανοίξτε το';
+$lang['AppController.structure.no_notifications'] = 'Δεν υπάρχουν νέες ειδοποιήσεις';
+$lang['AppController.structure.text_notifications'] = 'Ειδοποιήσεις';
+$lang['AppController.structure.text_licensed_to'] = 'Άδεια χρήσης σε %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Επέκταση συνεδρίας';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Υπολειπόμενος χρόνος:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Τερματισμός συνεδρίας τώρα';
+$lang['AppController.structure.text_step_up_access_header'] = 'Step Up Authentication Ενεργό';
+$lang['AppController.structure.text_maintenance_button'] = 'Επεξεργασία Λειτουργία συντήρησης';
+$lang['AppController.structure.text_maintenance_header'] = 'Λειτουργία συντήρησης Ενεργοποιημένη';
+$lang['AppController.structure.text_iconbar'] = 'Γραμμή εικονιδίων';
+$lang['AppController.structure.text_notices'] = 'Ανακοινώσεις';
+$lang['AppController.text_loading'] = 'Φόρτωση...';
+$lang['AppController.modal.btn_delete'] = 'Διαγραφή';
+$lang['AppController.modal.btn_cancel'] = 'Ακύρωση';
+$lang['AppController.modal.confirm_delete'] = 'Επιβεβαίωση Διαγραφή';
 

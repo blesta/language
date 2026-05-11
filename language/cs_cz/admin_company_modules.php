@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Modul byl úspěšně ak
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Modul byl úspěšně odinstalován.';
 $lang['AdminCompanyModules.!success.installed'] = 'Modul byl úspěšně nainstalován.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Modul byl úspěšně aktualizován.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Filtrační moduly...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Nebyly nalezeny žádné odpovídající moduly.';
 

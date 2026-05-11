@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Meddelanden om order';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Det finns inga tjänster i denna order.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Aldrig';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Hantera';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Alternativ';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Åtgärder';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Datum Förnyas';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Datum tillagt';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Term';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Paket';
 $lang['AdminMain.orderinfo.services_heading'] = 'Tjänster';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Inga transaktioner tillämpas på denna order.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Redigera';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Alternativ';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Åtgärder';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Tillämpad på';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Tillämpad';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Belopp';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Beställningar';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Affiliate-inställningarna har uppdaterats.';
 $lang['AdminMain.!success.settings_updated'] = 'Dina orderinställningar har uppdaterats.';
 $lang['AdminMain.!success.status_updated'] = 'De valda beställningarna har uppdaterats framgångsrikt.';
+$lang['AdminMain.index.paid'] = 'Betalade';
+$lang['AdminMain.index.unpaid'] = 'Obetald';
+$lang['AdminMain.index.loading'] = 'Laddar...';
+$lang['AdminMain.index.text_items_selected'] = 'valda objekt';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Transaktions-ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Datum';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Service';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Avvaktande';
+$lang['AdminMain.settings.text_notifications'] = 'Konfigurera hur du vill ta emot meddelanden om nya order.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Konfigurera hur du vill ta emot meddelanden om affiliate-utbetalningar.';
 

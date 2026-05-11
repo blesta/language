@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Următorul - Confirmare';
 $lang['AdminModule.features.text_remove'] = 'Eliminați';
-$lang['AdminModule.features.text_options'] = 'Opțiuni';
+$lang['AdminModule.features.text_options'] = 'Acțiuni';
 $lang['AdminModule.features.cron_task_row_add'] = 'Adăugați o sarcină Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'Adăugați fila Managementul serviciilor';
 $lang['AdminModule.features.placeholder_time'] = 'de exemplu, 14:25 sau 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Dacă se permite 
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Codul PPE';
 $lang['AdminModule.fields.features'] = 'Următorul - Caracteristici suplimentare';
 $lang['AdminModule.fields.text_remove'] = 'Eliminați';
-$lang['AdminModule.fields.text_options'] = 'Opțiuni';
+$lang['AdminModule.fields.text_options'] = 'Acțiuni';
 $lang['AdminModule.fields.service_row_add'] = 'Adăugați un câmp de servicii';
 $lang['AdminModule.fields.package_row_add'] = 'Adăugați un câmp de pachet';
 $lang['AdminModule.fields.module_row_add'] = 'Adăugați câmpul de rând al modulului';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD-uri';
 $lang['AdminModule.basic.static_tlds'] = 'Definirea statică a TLD-urilor';
 $lang['AdminModule.basic.text_remove'] = 'Eliminați';
 $lang['AdminModule.basic.author_row_add'] = 'Adaugă autor';
-$lang['AdminModule.basic.text_options'] = 'Opțiuni';
+$lang['AdminModule.basic.text_options'] = 'Acțiuni';
 $lang['AdminModule.basic.author_url'] = 'Autor URL';
 $lang['AdminModule.basic.author_name'] = 'Numele autorului';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrator';

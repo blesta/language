@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Neodinstalovávejte starou b
 $lang['StripePayments.text_migrate_accounts'] = 'Platební účty uložené offsite pomocí staré brány Stripe můžete automaticky migrovat do této brány Stripe Payments. Účty, které nejsou uloženy mimo pracoviště, je třeba migrovat ručním vytvořením nových platebních účtů. Aby se předešlo časovým výpadkům, budou migrace prováděny v dávkách po %1$s. Spusťte tuto akci tolikrát, kolikrát bude potřeba k migraci všech platebních účtů.';
 $lang['StripePayments.text_accounts_remaining'] = 'Zbývající účty: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrace starých platebních účtů';
-$lang['StripePayments.webhook_note'] = 'Doporučujeme nakonfigurovat následující url adresu jako Webhook pro události "payment_intent" ve vašem účtu Stripe.';
+$lang['StripePayments.webhook_note'] = 'Doporučujeme nakonfigurovat následující url jako Webhook pro události "payment_intent" a "charge" ve vašem účtu Stripe.';
 $lang['StripePayments.webhook'] = 'Webový háček Stripe';
 $lang['StripePayments.tooltip_secret_key'] = 'Tajný klíč API je specifický pro živý nebo testovací režim. Ujistěte se, že používáte správný klíč.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Váš publikovatelný klíč API je specifický pro živý nebo testovací režim. Ujistěte se, že používáte správný klíč.';

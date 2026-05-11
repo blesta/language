@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Opravdu chcete tuto měnu aktualizovat? Kurz této měny bude přepsán při automatické aktualizaci kurzů v systému. Automatickou aktualizaci můžete zakázat v nabídce [Nastavení] > [Firma] > [Měny] > [Nastavení měn].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Upravit měnu';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Aktualizace měny';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Směnný kurz';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Symbol přípony';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Předpona Symbol';

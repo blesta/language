@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.package_fields.sub_domains_disable'] = 'تعطيل';
 $lang['Virtualmin.package_fields.domains_list'] = 'قائمة النطاقات المتاحة';
 $lang['Virtualmin.package_fields.tooltip.domains_list'] = 'أدخل قائمة CSV للنطاقات التي ستكون متاحة لتوفير نطاقات فرعية لها، على سبيل المثال "domain1.com، domain2.com، domain3.com"';
 $lang['Virtualmin.!error.meta[domains_list].valid'] = 'واحد أو أكثر من نطاقات الحزمة غير صالحة.';
+$lang['Virtualmin.back_to_manage'] = 'رجوع';
+$lang['Virtualmin.manage.tab_rows'] = 'الخوادم';
+$lang['Virtualmin.manage.tab_groups'] = 'مجموعات الخوادم';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = '说明';
 $lang['AdminSystemApi.edit.field_user'] = '用户';
 $lang['AdminSystemApi.edit.field_company'] = '公司名称';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = '编辑 API 用户';
-$lang['AdminSystemApi.add.field_apisubmit'] = '添加用户';
+$lang['AdminSystemApi.add.field_apisubmit'] = '创建用户';
 $lang['AdminSystemApi.add.field_notes'] = '说明';
 $lang['AdminSystemApi.add.field_user'] = '用户';
 $lang['AdminSystemApi.add.field_company'] = '公司名称';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = '真的要删除这个 API 用户
 $lang['AdminSystemApi.index.no_results'] = '没有 API 用户。';
 $lang['AdminSystemApi.index.option_delete'] = '删除';
 $lang['AdminSystemApi.index.option_edit'] = '编辑';
-$lang['AdminSystemApi.index.heading_options'] = '选项';
+$lang['AdminSystemApi.index.heading_options'] = '行动';
 $lang['AdminSystemApi.index.heading_date'] = '创建日期';
 $lang['AdminSystemApi.index.heading_company'] = '公司名称';
 $lang['AdminSystemApi.index.heading_key'] = '钥匙';

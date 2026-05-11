@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = '전�
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = '쿠폰 패키지 옵션 정보 가져오기';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = '쿠폰 패키지 가져오기 옵션';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = '견적서 목록';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = '이메일 템플릿 스냅샷 복원';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = '시스템 무결성 검사';
 

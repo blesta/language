@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'API-nøgle';
 $lang['Blockonomics.!error.api_key.valid'] = 'API-nøglen er ikke gyldig.';
 $lang['Blockonomics.description'] = 'Tag imod Bitcoin-betalinger, hvert onlinesalg bliver sat direkte ind i din tegnebog. Der kræves ingen KYC-dokumentation.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'Vælg valutaer nedenfor for at konfigurere deres Parent Product UID\'er.';
 

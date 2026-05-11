@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'Nu aveți contacte. Pentru a adăuga
 $lang['ClientContacts.index.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest contact?';
 $lang['ClientContacts.index.option_delete'] = 'Ștergeți';
 $lang['ClientContacts.index.option_edit'] = 'Editați';
-$lang['ClientContacts.index.heading_options'] = 'Opțiuni';
+$lang['ClientContacts.index.heading_options'] = 'Acțiuni';
 $lang['ClientContacts.index.heading_type'] = 'Tip';
 $lang['ClientContacts.index.heading_email'] = 'Email';
 $lang['ClientContacts.index.heading_name'] = 'Nume';

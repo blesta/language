@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.edit.field_recovery_email'] = 'Correo electrónico de recupera
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Necesario para activar la autenticación de dos factores o actualizar la contraseña.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Autenticación de dos factores';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Añadir créditos';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Eliminar';
 

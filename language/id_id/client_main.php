@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = 'Informasi akun Anda telah berhasi
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Diperlukan untuk mengaktifkan Autentikasi Dua Faktor atau memperbarui kata sandi.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Otentikasi Dua Faktor';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Tambahkan Kredit';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Menghapus';
 

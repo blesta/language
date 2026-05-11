@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'Contas';
 $lang['Internetbs.module_row'] = 'Conta';
 $lang['Internetbs.description'] = 'A Internet.bs oferece registro e transferências de nomes de domínios para ccTLDs e gTLDs.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'Voltar';
+$lang['Internetbs.manage.tab_rows'] = 'Servidores';
+$lang['Internetbs.manage.tab_groups'] = 'Grupos de servidores';
 

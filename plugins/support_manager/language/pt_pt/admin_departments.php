@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Eliminar';
 $lang['AdminDepartments.edit.heading_default'] = 'Predefinição';
 $lang['AdminDepartments.edit.heading_value'] = 'Valor';
 $lang['AdminDepartments.edit.heading_name'] = 'Nome';
-$lang['AdminDepartments.edit.heading_options'] = 'Opções';
+$lang['AdminDepartments.edit.heading_options'] = 'Acções';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Eliminar automaticamente';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Encriptado';
 $lang['AdminDepartments.edit.heading_client_add'] = 'O cliente pode Adicionar';
@@ -70,7 +70,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Eliminar';
 $lang['AdminDepartments.add.heading_default'] = 'Predefinição';
 $lang['AdminDepartments.add.heading_value'] = 'Valor';
 $lang['AdminDepartments.add.heading_name'] = 'Nome';
-$lang['AdminDepartments.add.heading_options'] = 'Opções';
+$lang['AdminDepartments.add.heading_options'] = 'Acções';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Eliminar automaticamente';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Encriptado';
 $lang['AdminDepartments.add.heading_client_add'] = 'O cliente pode Adicionar';
@@ -135,7 +135,7 @@ $lang['AdminDepartments.index.no_results'] = 'Não existem departamentos.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Os departamentos com bilhetes atribuídos não podem ser eliminados até que todos os bilhetes tenham sido reatribuídos a um departamento alternativo. Tem a certeza de que pretende apagar este departamento?';
 $lang['AdminDepartments.index.option_delete'] = 'Eliminar';
 $lang['AdminDepartments.index.option_edit'] = 'Editar';
-$lang['AdminDepartments.index.heading_options'] = 'Opções';
+$lang['AdminDepartments.index.heading_options'] = 'Acções';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Prioridade por defeito';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Pessoal afetado';
 $lang['AdminDepartments.index.heading_email'] = 'Correio eletrónico';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'Cliente OAuth 2.0 / ID d
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Utilizador OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Fornecedor OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Para todos os bilhetes com um estado de fechado, será enviado ao cliente um lembrete para deixar o seu feedback se o bilhete tiver sido fechado durante o período de tempo selecionado.';
+$lang['AdminDepartments.!text.description_hint'] = 'Esta descrição será visível para os clientes quando seleccionarem um departamento';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Mantenha premida a tecla Ctrl (Windows) ou Cmd (Mac) para selecionar várias prioridades';
+$lang['AdminDepartments.!text.search_responses'] = 'Pesquisar respostas...';
+$lang['AdminDepartments.!text.searching'] = 'Procurar...';
+$lang['AdminDepartments.add.heading_actions'] = 'Acções';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Tem a certeza de que pretende remover este campo personalizado?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Acções';
 

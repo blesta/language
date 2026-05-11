@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminReportsCustomize.edit.field_submit'] = 'Zapisz';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Usunąć';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Regex niestandardowy';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Wartości (oddzielone przecinkami)';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Opcje';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Działania';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Wymagane';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Etykieta';
@@ -27,7 +27,7 @@ $lang['AdminReportsCustomize.add.field_submit'] = 'Zapisz';
 $lang['AdminReportsCustomize.add.text_remove'] = 'Usunąć';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Regex niestandardowy';
 $lang['AdminReportsCustomize.add.field_values'] = 'Wartości (oddzielone przecinkami)';
-$lang['AdminReportsCustomize.add.table_options'] = 'Opcje';
+$lang['AdminReportsCustomize.add.table_options'] = 'Działania';
 $lang['AdminReportsCustomize.add.table_required'] = 'Wymagane';
 $lang['AdminReportsCustomize.add.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.add.table_label'] = 'Etykieta';
@@ -42,7 +42,7 @@ $lang['AdminReportsCustomize.index.btn_add_report'] = 'Dodaj raport';
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = 'Czy na pewno chcesz usunąć ten raport?';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Usuń';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'Edytuj';
-$lang['AdminReportsCustomize.index.table_options'] = 'Opcje';
+$lang['AdminReportsCustomize.index.table_options'] = 'Działania';
 $lang['AdminReportsCustomize.index.table_created'] = 'Data utworzenia';
 $lang['AdminReportsCustomize.index.table_name'] = 'Nazwa';
 $lang['AdminReportsCustomize.index.page_title'] = 'Raporty rozliczeniowe';

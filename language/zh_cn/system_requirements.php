@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = '配置文件 (%1$s
 $lang['SystemRequirements.!error.extension_version.minimum'] = '需要扩展名"%1$s"。您的版本：%2$s。';
 $lang['SystemRequirements.!error.extension.minimum'] = '扩展名\'%1$s\'为必填项。';
 $lang['SystemRequirements.!error.php.minimum'] = '需要 %1$s 或更高的 PHP 版本。您的版本：%2$s。';
+$lang['SystemRequirements.!error.db_version.minimum'] = '需要 MySQL 5.7.7 或 MariaDB 10.2.2 或更高版本。您的版本：%1$s 。';
 

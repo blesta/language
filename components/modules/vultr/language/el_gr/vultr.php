@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = 'Λογαριασμοί';
 $lang['Vultr.module_row'] = 'Λογαριασμός';
 $lang['Vultr.description'] = 'Ο πίνακας ελέγχου της Vultr καθιστά τη διαχείριση του διακομιστή απλή και διαισθητική. Κοινές εργασίες όπως η παραγγελία διακομιστών, η διαχείριση αντιγράφων ασφαλείας και η ρύθμιση του ελέγχου πρόσβασης είναι μόνο μερικά κλικ μακριά.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = 'Πίσω';
 

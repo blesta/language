@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'Er zijn geen Statische URL\'s in deze sectie.
 $lang['AdminMain.urls.latest_file'] = 'Laatste bestand van <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Verwijder';
 $lang['AdminMain.urls.edit'] = 'Bewerk';
-$lang['AdminMain.urls.heading_options'] = 'Opties';
+$lang['AdminMain.urls.heading_options'] = 'Acties';
 $lang['AdminMain.urls.heading_link'] = 'Link';
 $lang['AdminMain.urls.heading_file'] = 'Bestand';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Downloadbeheer > Beheren';
 $lang['AdminMain.files.no_downloads'] = 'Er zijn geen downloads in deze sectie.';
 $lang['AdminMain.files.delete'] = 'Verwijder';
 $lang['AdminMain.files.edit'] = 'Bewerk';
-$lang['AdminMain.files.go_back'] = 'Ga een niveau omhoog';
-$lang['AdminMain.files.add_category'] = 'Categorie hier toevoegen';
+$lang['AdminMain.files.go_back'] = 'Terug';
+$lang['AdminMain.files.add_category'] = 'Categorie toevoegen';
 $lang['AdminMain.files.add_download'] = 'Download hier toevoegen';
 $lang['AdminMain.files.tab_urls'] = 'Statische URL\'s';
 $lang['AdminMain.files.tab_files'] = 'Bestanden';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Het bestand is succesvol toegevoegd.';
 $lang['AdminMain.!success.category_deleted'] = 'De categorie is succesvol verwijderd.';
 $lang['AdminMain.!success.category_updated'] = 'De categorie is succesvol bijgewerkt.';
 $lang['AdminMain.!success.category_added'] = 'De categorie is succesvol aangemaakt.';
-$lang['AdminMain.edit.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Bestanden';
+$lang['AdminMain.sidebar.urls'] = 'Statische URL\'s';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache\'s mod_http2 is ingeschakeld, maar mod_xsendfile niet. We raden aan om mod_xsendfile in te schakelen of te installeren voor betere prestaties en snellere downloads.';
+$lang['AdminMain.modal.confirm_delete'] = 'Bevestigen Wissen';
+$lang['AdminMain.modal.delete'] = 'Verwijder';
+$lang['AdminMain.modal.cancel'] = 'Annuleren';
+$lang['AdminMain.modal.save'] = 'Sla';
+$lang['AdminMain.add.public'] = 'Publiekelijk beschikbaar';
+$lang['AdminMain.add.logged_in'] = 'U moet ingelogd zijn';
+$lang['AdminMain.add.text_fileinfo'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden.';
+$lang['AdminMain.add.field_file_type'] = 'Bestandsbron';
+$lang['AdminMain.add.upload'] = 'Bestand uploaden';
+$lang['AdminMain.add.path'] = 'Pad naar bestand opgeven';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = 'Номер';
 $lang['Orders.view.heading_status'] = 'Статус';
 $lang['Orders.view.heading_applied'] = 'Прикладная';
 $lang['Orders.view.heading_type'] = 'Тип';
-$lang['Orders.view.heading_options'] = 'Опции';
+$lang['Orders.view.heading_options'] = 'Действия';
 $lang['Orders.view.heading_date_renews'] = 'Дата обновления';
 $lang['Orders.view.heading_date_created'] = 'Дата создания';
 $lang['Orders.view.heading_term'] = 'Срок';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Посмотреть заказ';
 $lang['Orders.index.no_results'] = 'У вас нет никаких заказов.';
 $lang['Orders.index.option_cancel'] = 'Отмена';
 $lang['Orders.index.option_view'] = 'Посмотреть';
-$lang['Orders.index.heading_options'] = 'Опции';
+$lang['Orders.index.heading_options'] = 'Действия';
 $lang['Orders.index.heading_date_ordered'] = 'Дата заказа';
 $lang['Orders.index.heading_paid'] = 'Оплачивается';
 $lang['Orders.index.heading_total'] = 'Всего';

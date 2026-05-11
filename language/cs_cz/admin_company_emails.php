@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Oznámení zas
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Odmítnutí platby (kreditní karta)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Oznámení zaslané po úspěšném schválení platby kreditní kartou.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Schválená platba (kreditní karta)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Aktualizace';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Použít';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Neexistují žádné šablony tohoto typu.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Upravit';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Možnosti';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Zrušit';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Příloha';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Odstranit';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Opravdu chcete tuto přílohu odstranit?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Možnosti';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Akce';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Název souboru';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Další přílohy';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Šablona e-mailu';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Žádné';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Aktualizace šablony HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Upravit šablonu';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Aktualizace šablony';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Štítky';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Název';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Upravit šablonu HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Přidat šablonu';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Vytvořit šablonu';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Štítky';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Název';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Přidání šablony HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Oznámení 
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Zrušení služby';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Oznámení odeslané, když kreditní zůstatek klienta klesne pod nakonfigurovanou hranici.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Oznámení o nízkém zůstatku';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Navrhované téma';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Textová verze';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Verze HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Řádek předmětu';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Použijte obsah na:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Chyba:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Příliš mnoho požadavků. Počkejte prosím chvíli, než to zkusíte znovu.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Generování obsahu se nezdařilo. Zkuste to prosím znovu.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Výzva překračuje maximální délku.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'K vygenerování obsahu je nutná výzva.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Generování šablon e-mailů s umělou inteligencí není povoleno.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Funkce umělé inteligence jsou v současné době vypnuté.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Náhled textu';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Náhled HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Kliknutím na tlačítko Generovat vytvoříte obsah e-mailu na základě typu šablony a dostupných značek.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Vytvořený obsah';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Volitelný návod pro umělou inteligenci k přizpůsobení generovaného obsahu.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Přidejte specifické požadavky nebo preference tónů...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Další pokyny';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Načítání výzvy...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Kontext výzvy';
+$lang['AdminCompanyEmails.ai.generating'] = 'Generování...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Zrušit';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Použití tohoto obsahu';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenerujte';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Přepsat';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Generovat';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Přepsání obsahu e-mailu';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generování obsahu e-mailu';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'AI Content Assistant';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Zkopírováno!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Kopírovat';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI přesměrování OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Jste si jisti, že chcete tento snímek obnovit? Všechny neuložené změny budou ztraceny.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Pro tuto e-mailovou šablonu nejsou k dispozici žádné snímky.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Historie šablon';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Obnovení snímku';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Vložte sem soubory nebo klikněte na tlačítko procházet pro nahrání příloh';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Obnovení';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Procházet soubory';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Pomocí těchto značek můžete do šablony e-mailu zahrnout dynamický obsah.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Dostupné štítky';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Zadejte prostou textovou verzi e-mailu';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Zadejte předmět e-mailu';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Zadejte z e-mailové adresy';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Zadejte z názvu';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'vybrané položky';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Zkopírujte tuto adresu URL a přidejte ji jako autorizované přesměrování URI v nastavení aplikace poskytovatele OAuth (např. Google Cloud Console, Microsoft Azure Portal). To je nutné pro fungování ověřování OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Šablona e-mailu byla úspěšně obnovena ze snímku!';
 

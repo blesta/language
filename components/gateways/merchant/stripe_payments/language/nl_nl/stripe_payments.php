@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Verwijder de oude Stripe-gat
 $lang['StripePayments.text_migrate_accounts'] = 'Je kunt betaalaccounts die offsite waren opgeslagen door de oude Stripe-gateway automatisch migreren naar deze Stripe Payments-gateway. Accounts die niet offsite zijn opgeslagen, moeten worden gemigreerd door handmatig nieuwe betaalaccounts aan te maken. Om time-outs te voorkomen worden migraties gedaan in batches van %1$s. Voer dit zo vaak uit als nodig is om alle betaalrekeningen te migreren.';
 $lang['StripePayments.text_accounts_remaining'] = 'Resterende rekeningen: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Oude betaalrekeningen migreren';
-$lang['StripePayments.webhook_note'] = 'Het wordt aanbevolen om de volgende url te configureren als een Webhook voor "payment_intent" gebeurtenissen in je Stripe-account.';
+$lang['StripePayments.webhook_note'] = 'Het wordt aanbevolen om de volgende url te configureren als een Webhook voor "payment_intent" en "charge" gebeurtenissen in je Stripe-account.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Je API geheime sleutel is specifiek voor live of testmodus. Zorg ervoor dat je de juiste sleutel gebruikt.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Uw API publiceerbare sleutel is specifiek voor live of testmodus. Zorg ervoor dat u de juiste sleutel gebruikt.';

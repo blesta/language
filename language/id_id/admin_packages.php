@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,7 +47,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Kelompok Induk';
 $lang['AdminPackages.groups.confirm_delete'] = 'Apakah Anda yakin ingin menghapus grup paket ini? Paket apa pun yang ditetapkan ke grup ini tidak akan lagi ditetapkan ke grup ini, dan mungkin tidak dapat digunakan.';
 $lang['AdminPackages.groups.option_delete'] = 'Menghapus';
 $lang['AdminPackages.groups.option_edit'] = 'Sunting';
-$lang['AdminPackages.groups.heading_options'] = 'Pilihan';
+$lang['AdminPackages.groups.heading_options'] = 'Tindakan';
 $lang['AdminPackages.groups.heading_type'] = 'Jenis';
 $lang['AdminPackages.groups.heading_name'] = 'Nama';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Grup Paket';
@@ -200,12 +200,12 @@ $lang['AdminPackages.index.no_results'] = 'Tidak ada paket dengan status ini.';
 $lang['AdminPackages.index.option_delete'] = 'Menghapus';
 $lang['AdminPackages.index.option_copy'] = 'Salin';
 $lang['AdminPackages.index.option_edit'] = 'Sunting';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Kirim';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Menerapkan';
 $lang['AdminPackages.index.action.delete'] = 'Menghapus Paket';
 $lang['AdminPackages.index.category_inactive'] = 'Tidak aktif';
 $lang['AdminPackages.index.category_restricted'] = 'Dibatasi';
 $lang['AdminPackages.index.category_active'] = 'Aktif';
-$lang['AdminPackages.index.heading_options'] = 'Pilihan';
+$lang['AdminPackages.index.heading_options'] = 'Tindakan';
 $lang['AdminPackages.index.heading_qty'] = 'Kuantitas';
 $lang['AdminPackages.index.heading_module'] = 'Modul';
 $lang['AdminPackages.index.heading_name'] = 'Nama';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_deleted'] = 'Paket berhasil dihapus.';
 $lang['AdminPackages.!success.package_updated'] = 'Paket berhasil diperbarui.';
 $lang['AdminPackages.!success.package_added'] = 'Paket berhasil dibuat.';
 $lang['AdminPackages.!tooltip.single_term'] = 'Jika opsi ini dicentang, layanan baru yang menggunakan Paket ini tidak akan diperpanjang, tetapi secara otomatis dibatalkan di akhir masa berlaku.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Teks Email yang dihasilkan:';
+$lang['AdminPackages.ai.email_preview_html'] = 'HTML Email yang dihasilkan:';
+$lang['AdminPackages.ai.email_use_button'] = 'Gunakan Email Ini';
+$lang['AdminPackages.ai.email_generating'] = 'Membuat email...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Jelaskan apa yang harus dikatakan dalam email sambutan (misalnya, "Selamat datang pelanggan baru, jelaskan penyiapan layanan")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Buat Email Selamat Datang';
+$lang['AdminPackages.ai.generate_email_button'] = 'Hasilkan Email dengan AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Informasi Konteks:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Buat deskripsi profesional untuk paket produk/layanan ini.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Buat email sambutan profesional untuk paket produk/layanan ini yang menyambut pelanggan dan memberikan informasi bermanfaat tentang layanan baru mereka.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Tulis ulang dan tingkatkan konten ini dengan tetap mempertahankan informasi umum yang sama:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Tinjau petunjuk di atas, tambahkan instruksi tambahan, lalu klik Buat untuk membuat konten.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Memuat permintaan...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Konteks Permintaan';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Berikan detail atau persyaratan khusus untuk AI yang akan disertakan dalam deskripsi.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Misalnya, Sertakan informasi tentang dukungan 24/7, sebutkan jaminan uang kembali 30 hari...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Petunjuk Tambahan (Opsional)';
+$lang['AdminPackages.ai.error_prefix'] = 'Kesalahan:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Gagal menghasilkan deskripsi';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Silakan masukkan prompt';
+$lang['AdminPackages.ai.apply_text'] = 'Versi teks';
+$lang['AdminPackages.ai.apply_html'] = 'Versi HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'Menerapkan konten ke:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Deskripsi paket Fitur AI tidak diaktifkan';
+$lang['AdminPackages.ai.error_disabled'] = 'Fitur AI tidak diaktifkan';
+$lang['AdminPackages.ai.regenerating'] = 'Regenerasi...';
+$lang['AdminPackages.ai.generating'] = 'Menghasilkan...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Batal';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenerasi';
+$lang['AdminPackages.ai.btn_use'] = 'Gunakan Deskripsi Ini';
+$lang['AdminPackages.ai.btn_generate'] = 'Menghasilkan';
+$lang['AdminPackages.ai.preview_text'] = 'Teks yang Dihasilkan:';
+$lang['AdminPackages.ai.preview_html'] = 'HTML yang dihasilkan:';
+$lang['AdminPackages.ai.tone_technical'] = 'Teknis';
+$lang['AdminPackages.ai.tone_casual'] = 'Santai';
+$lang['AdminPackages.ai.tone_professional'] = 'Profesional';
+$lang['AdminPackages.ai.tone'] = 'Nada';
+$lang['AdminPackages.ai.generate_text'] = 'Menghasilkan Teks (Penurunan Harga)';
+$lang['AdminPackages.ai.generate_html'] = 'Menghasilkan HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Jelaskan fitur paket, target audiens, dll...';
+$lang['AdminPackages.ai.use_content_button'] = 'Gunakan Konten Ini';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenerasi';
+$lang['AdminPackages.ai.no_context'] = 'Tidak ada konteks yang tersedia';
+$lang['AdminPackages.ai.context_type_email'] = 'Email Selamat Datang';
+$lang['AdminPackages.ai.context_type_description'] = 'Deskripsi Paket';
+$lang['AdminPackages.ai.context_type'] = 'Ketik:';
+$lang['AdminPackages.ai.context_module'] = 'Modul:';
+$lang['AdminPackages.ai.context_package'] = 'Paket:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Konten yang Dihasilkan:';
+$lang['AdminPackages.ai.context_label'] = 'Konteks:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'Deskripsi yang Ditulis Ulang dengan AI';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Deskripsi yang Dihasilkan AI';
+$lang['AdminPackages.ai.modal_title'] = 'Konten yang Dihasilkan AI';
+$lang['AdminPackages.ai.rewrite_button'] = 'Tulis ulang';
+$lang['AdminPackages.ai.generate_button'] = 'Menghasilkan';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Menerapkan Filter';
+$lang['AdminPackages.index.field_filterclear'] = 'Jelas';
+$lang['AdminPackages.index.filter_toggle'] = 'Alihkan Filter';
+$lang['AdminPackages.index.items_selected'] = 'item yang dipilih';
 

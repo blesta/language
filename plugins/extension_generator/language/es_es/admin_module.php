@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminModule.basic.module_type_generic'] = 'Genérico';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrador';
 $lang['AdminModule.basic.author_name'] = 'Nombre del autor';
 $lang['AdminModule.basic.author_url'] = 'Autor URL';
-$lang['AdminModule.basic.text_options'] = 'Opciones';
+$lang['AdminModule.basic.text_options'] = 'Acciones';
 $lang['AdminModule.basic.author_row_add'] = 'Añadir autor';
 $lang['AdminModule.basic.text_remove'] = 'Eliminar';
 $lang['AdminModule.basic.static_tlds'] = 'Definir estáticamente los TLD';
@@ -101,7 +101,7 @@ $lang['AdminModule.fields.placeholder_service_label'] = 'p. ej. Campo de servici
 $lang['AdminModule.fields.module_row_add'] = 'Añadir campo de fila de módulo';
 $lang['AdminModule.fields.package_row_add'] = 'Añadir campo de paquete';
 $lang['AdminModule.fields.service_row_add'] = 'Añadir campo de servicio';
-$lang['AdminModule.fields.text_options'] = 'Opciones';
+$lang['AdminModule.fields.text_options'] = 'Acciones';
 $lang['AdminModule.fields.text_remove'] = 'Eliminar';
 $lang['AdminModule.fields.features'] = 'Siguiente - Características adicionales';
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Código PPE';
@@ -133,7 +133,7 @@ $lang['AdminModule.features.placeholder_cron_label'] = 'Por ejemplo, Mi tarea Cr
 $lang['AdminModule.features.placeholder_time'] = 'por ejemplo, 14:25 o 60';
 $lang['AdminModule.features.service_tab_row_add'] = 'Añadir pestaña de gestión de servicios';
 $lang['AdminModule.features.cron_task_row_add'] = 'Añadir tarea Cron';
-$lang['AdminModule.features.text_options'] = 'Opciones';
+$lang['AdminModule.features.text_options'] = 'Acciones';
 $lang['AdminModule.features.text_remove'] = 'Eliminar';
 $lang['AdminModule.features.confirm'] = 'Siguiente - Confirmación';
 

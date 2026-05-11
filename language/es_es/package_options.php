@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s configurac
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s instalación (renueva @ %3$s)';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'La opción de ocultar en la factura debe ser 0 o 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'La opción de desactivar la tarificación debe ser 0 ó 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'El tipo no puede modificarse porque uno o más valores de opción no incluidos en el envío están siendo utilizados por un servicio.';
 

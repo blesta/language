@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = '账户';
 $lang['Vultr.module_row'] = '账户';
 $lang['Vultr.description'] = 'Vultr 控制面板让服务器管理变得简单直观。订购服务器、管理备份和调整访问控制等常见任务只需点击几下即可完成。';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = '返回';
 

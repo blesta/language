@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = '请输入至少%1$s 字符长度的
 $lang['Users.!error.current_password.matches'] = '密码无效。';
 $lang['Users.!error.username.unique'] = '该用户名已被注册。';
 $lang['Users.!error.username.empty'] = '请输入用户名。';
+$lang['Users.!error.password_requirement.pattern_fallback'] = '必须与模式匹配：%1$s';
+$lang['Users.!error.password_requirement.must_contain'] = '必须包含%1$s';
+$lang['Users.!error.password_requirement.length_min'] = '至少%1$s 个字符';
+$lang['Users.!error.password_requirement.length_exact'] = '恰好%1$s 字符';
+$lang['Users.!error.password_requirement.length_between'] = '%1$s 和%2$s 字符之间';
+$lang['Users.!error.password_requirement.special_char'] = '特殊字符';
+$lang['Users.!error.password_requirement.digit'] = '数位';
+$lang['Users.!error.password_requirement.uppercase'] = '大写字母';
+$lang['Users.!error.password_requirement.lowercase'] = '小写字母';
+$lang['Users.!error.new_password.format_custom'] = '密码不符合要求：%2$s';
+$lang['Users.!error.new_password.format_num'] = '密码必须至少包含%1$s 个字符，且只包含数字。';
+$lang['Users.!error.new_password.format_alpha'] = '密码必须至少包含%1$s 个字符，且只能包含字母。';
+$lang['Users.!error.new_password.format_alpha_num'] = '密码必须至少包含%1$s 个字符，且只包含字母和数字。';
+$lang['Users.!error.new_password.format_any_no_space'] = '密码必须至少包含%1$s 个字符，且不能包含空格。';
+$lang['Users.!error.new_password.format_any'] = '密码必须至少包含%1$s 个字符。';
 

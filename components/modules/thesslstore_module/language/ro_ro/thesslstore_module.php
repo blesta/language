@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Vă rugăm să 
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Vă rugăm să introduceți numele resellerului';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Există deja acreditări';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Ceva nu a mers bine în apelul API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Nu au fost returnate produse din API. Vă rugăm să verificați acreditările API și să încercați din nou.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = 'Marja % se va aplica la prețul tuturor produselor. O puteți modifica ulterior din meniul de configurare a prețului.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Schimbare e-mail aprobator';
 

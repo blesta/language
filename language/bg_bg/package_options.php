@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Моля, въведете ети�
 $lang['PackageOptions.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Дали да се скрие при фактура трябва да бъде зададено на 0 или 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Дали да се деактивира ценообразуването трябва да бъде зададено на 0 или 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Типът не може да бъде променен, тъй като една или повече стойности на опции, които не са включени в подаването, се използват от услуга.';
 

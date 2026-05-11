@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Введите название д�
 $lang['Actions.!error.url.empty'] = 'Пожалуйста, введите URL-адрес.';
 $lang['Actions.!error.location.unique'] = 'Местоположение и URL должны быть уникальными для данной компании.';
 $lang['Actions.!error.location.valid'] = 'Неверное действительное местоположение.';
+$lang['Actions.!error.icon.length'] = 'Класс значка не должен превышать 255 символов.';
 

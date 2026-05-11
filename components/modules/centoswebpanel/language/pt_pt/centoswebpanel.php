@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,4 +105,7 @@ $lang['Centoswebpanel.service_info.options'] = 'Opções';
 $lang['Centoswebpanel.service_info.server'] = 'Servidor';
 $lang['Centoswebpanel.service_info.password'] = 'Palavra-passe';
 $lang['Centoswebpanel.service_info.username'] = 'Nome de utilizador';
+$lang['Centoswebpanel.back_to_manage'] = 'Voltar';
+$lang['Centoswebpanel.manage.tab_rows'] = 'Servidores';
+$lang['Centoswebpanel.manage.tab_groups'] = 'Grupos de servidores';
 

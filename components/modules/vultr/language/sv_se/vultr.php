@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = 'Konton';
 $lang['Vultr.module_row'] = 'Konto';
 $lang['Vultr.description'] = 'Vultrs kontrollpanel gör serverhanteringen enkel och intuitiv. Vanliga uppgifter som att beställa servrar, hantera säkerhetskopior och justera åtkomstkontroll är bara några klick bort.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = 'Tillbaka';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Acesta este tipul
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Acesta este numele câmpului de formular ascuns. Utilizați qty pentru a crea un câmp de cantitate.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Acesta este textul care apare direct deasupra câmpului de formular.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = 'Înapoi';
 

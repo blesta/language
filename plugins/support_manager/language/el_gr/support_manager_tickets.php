@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,8 +47,8 @@ $lang['SupportManagerTickets.priority.critical'] = 'Κρίσιμη';
 $lang['SupportManagerTickets.priority.high'] = 'Υψηλή';
 $lang['SupportManagerTickets.priority.medium'] = 'Μεσαίο';
 $lang['SupportManagerTickets.priority.low'] = 'Χαμηλή';
-$lang['SupportManagerTickets.status.open'] = 'Εν αναμονή απάντησης του προσωπικού';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Αναμονή απάντησης πελάτη';
+$lang['SupportManagerTickets.status.open'] = 'Αναμονή προσωπικού';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Αναμονή πελάτη';
 $lang['SupportManagerTickets.status.in_progress'] = 'Σε εξέλιξη';
 $lang['SupportManagerTickets.status.on_hold'] = 'Σε αναμονή';
 $lang['SupportManagerTickets.status.closed'] = 'Κλειστό';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Τουλάχιστον
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Τουλάχιστον ένας από τους παραλήπτες του εισιτηρίου είναι διπλός.';
 $lang['SupportManagerTickets.log.service_id'] = 'Η σχετική υπηρεσία έχει αλλάξει σε εσωτερικό αναγνωριστικό: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = 'Το "%1$s" είναι υποχρεωτικό και δεν μπορεί να είναι κενό.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Εισιτήριο #%1$s Ενημέρωση';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Νέο εισιτήριο #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s απάντησε στο εισιτήριο #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s άνοιξε εισιτήριο #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Ticket #%1$s Assigned';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Εισιτήριο #%1$s που σας έχει ανατεθεί: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Η εικόνα δεν μπόρεσε να μεταφορτωθεί. Προσπαθήστε ξανά.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Η εικόνα υπερβαίνει το μέγιστο επιτρεπόμενο μέγεθος των %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Μη έγκυρος τύπος εικόνας. Επιτρέπονται μόνο οι εικόνες JPEG, PNG, GIF και WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Ο κατάλογος μεταφόρτωσης δεν μπόρεσε να δημιουργηθεί.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Η εικόνα δεν μπόρεσε να αποθηκευτεί. Προσπαθήστε ξανά.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Οι εικόνες base64 δεν επιτρέπονται. Παρακαλούμε επικολλήστε ή σύρετε τις εικόνες στον επεξεργαστή για να τις ανεβάσετε.';
 

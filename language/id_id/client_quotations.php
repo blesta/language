@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'Menyetujui';
 $lang['ClientQuotations.index.no_results'] = 'Anda tidak memiliki Kutipan %1$s.';
 $lang['ClientQuotations.index.option_approve'] = 'Menyetujui';
 $lang['ClientQuotations.index.option_view'] = 'Melihat';
-$lang['ClientQuotations.index.heading_options'] = 'Pilihan';
+$lang['ClientQuotations.index.heading_options'] = 'Tindakan';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Tanggal Berakhir';
 $lang['ClientQuotations.index.heading_date_created'] = 'Tanggal Dibuat';
 $lang['ClientQuotations.index.heading_total'] = 'Jumlah';

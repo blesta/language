@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Tidak ada tema jenis ini.';
 $lang['AdminCompanyThemes.index.option_export'] = 'Ekspor';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Menghapus';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Sunting';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Pilihan';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Tindakan';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Nama';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Skema Warna';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';

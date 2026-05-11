@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s minut';
 $lang['ClientMain.index.any'] = 'Jakýkoli';
 $lang['ClientMain.index.option_reply'] = 'Odpovědět';
 $lang['ClientMain.index.option_close'] = 'Zavřít';
-$lang['ClientMain.index.heading_options'] = 'Možnosti';
+$lang['ClientMain.index.heading_options'] = 'Akce';
 $lang['ClientMain.index.heading_status'] = 'Stav';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Poslední odpověď';
 $lang['ClientMain.index.heading_summary'] = 'Souhrn';

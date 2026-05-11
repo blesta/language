@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyTaxes.add.boxtitle_add'] = 'إضافة قاعدة ضريبية';
 $lang['AdminCompanyTaxes.add.page_title'] = 'الإعدادات &gt; الشركة &gt; الضرائب &gt; إضافة قاعدة ضريبية';
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'تحرير القاعدة';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'قاعدة التحديث';
 $lang['AdminCompanyTaxes.edit.field.state'] = 'الولاية/المقاطعة';
 $lang['AdminCompanyTaxes.edit.field.country'] = 'البلد';
 $lang['AdminCompanyTaxes.edit.field.amount'] = 'المبلغ';

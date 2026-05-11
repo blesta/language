@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Password';
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Nome utente';
 $lang['Cpanel.tab_client_login.logintocpanel'] = 'Accedere a cPanel';
 $lang['Cpanel.tab_client_login'] = 'Accedere a cPanel';
+$lang['Cpanel.back_to_manage'] = 'Indietro';
+$lang['Cpanel.manage.tab_rows'] = 'Server';
+$lang['Cpanel.manage.tab_groups'] = 'Gruppi di server';
 

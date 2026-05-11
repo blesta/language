@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'إضافة طر�
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'هل أنت متأكد أنك تريد حذف طريقة الدفع هذه؟';
 $lang['AdminPaymentMethods.index.option_delete'] = 'حذف';
 $lang['AdminPaymentMethods.index.option_edit'] = 'تحرير';
-$lang['AdminPaymentMethods.index.heading_options'] = 'الخيارات';
+$lang['AdminPaymentMethods.index.heading_options'] = 'الإجراءات';
 $lang['AdminPaymentMethods.index.heading_name'] = 'الاسم';
 $lang['AdminPaymentMethods.index.no_results'] = 'لا توجد طرق للدفع في الوقت الحالي.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'إضافة طريقة الدفع بالعمولة';

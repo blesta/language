@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Kuralı Düzenle';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Güncelleme Kuralı';
 $lang['AdminCompanyTaxes.edit.field.state'] = 'Eyalet/İl';
 $lang['AdminCompanyTaxes.edit.field.country'] = 'Ülke';
 $lang['AdminCompanyTaxes.edit.field.amount'] = 'Miktar';

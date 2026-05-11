@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Fact
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Informações sobre as opções do pacote de cupões Fetch';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Opções do pacote de cupões Fetch';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Listar citações';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'IA';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Restaurar o instantâneo do modelo de correio eletrónico';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Verificação da integridade do sistema';
 

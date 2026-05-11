@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.module_row_plural'] = 'Sunucular';
 $lang['Whmsonic.module_row'] = 'Sunucu';
 $lang['Whmsonic.description'] = 'Adanmış veya VPS sunucunuzdan shoutcast, icecast, akışlı medya barındırma, AutoDJ, radyo bayiliği sunmanıza olanak tanır.';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = 'Geri';
+$lang['Whmsonic.manage.tab_rows'] = 'Sunucular';
+$lang['Whmsonic.manage.tab_groups'] = 'Sunucu Grupları';
 

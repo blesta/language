@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Будь ласка, введіт�
 $lang['PackageOptions.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Чи потрібно приховувати інвойс, має бути встановлено на 0 або 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Чи потрібно вимкнути ціноутворення, має бути встановлене значення 0 або 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Тип не може бути змінено, оскільки одне або декілька значень опцій, не включених у подання, використовуються сервісом.';
 

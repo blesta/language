@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Τα δημόσια άρ�
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Οι δημόσιες κατηγορίες είναι προσβάσιμες σε όλους. Οι ιδιωτικές κατηγορίες είναι προσβάσιμες μόνο σε χρήστες που έχουν συνδεθεί. Οι κρυφές κατηγορίες δεν είναι προσβάσιμες. Οι κατηγορίες προσωπικού είναι ορατές μόνο στα μέλη του προσωπικού.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Ενημερώστε επίσης όλες τις υποκατηγορίες και τα άρθρα τους';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Ενημερώστε όλα τα άρθρα αυτής της κατηγορίας ώστε να έχουν την ίδια προσβασιμότητα';
+$lang['AdminKnowledgebase.index.view'] = 'Προβολή';
 

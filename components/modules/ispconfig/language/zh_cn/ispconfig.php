@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row_plural'] = '服务器';
 $lang['Ispconfig.module_row'] = '服务器';
 $lang['Ispconfig.description'] = 'ISPConfig 3 是一款适用于 Linux 的开源面板，能够通过一个控制面板管理多个服务器。';
 $lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.back_to_manage'] = '返回';
+$lang['Ispconfig.manage.tab_rows'] = '服务器';
+$lang['Ispconfig.manage.tab_groups'] = '服务器组';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Oudergroepen';
 $lang['AdminPackages.groups.confirm_delete'] = 'Weet je zeker dat je deze pakketgroep wilt verwijderen? Alle pakketten die aan deze groep zijn toegewezen, zullen niet langer aan deze groep worden toegewezen en kunnen onbruikbaar worden.';
 $lang['AdminPackages.groups.option_delete'] = 'Verwijder';
 $lang['AdminPackages.groups.option_edit'] = 'Bewerk';
-$lang['AdminPackages.groups.heading_options'] = 'Opties';
+$lang['AdminPackages.groups.heading_options'] = 'Acties';
 $lang['AdminPackages.groups.heading_type'] = 'Type';
 $lang['AdminPackages.groups.heading_name'] = 'Naam';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Pakketgroepen';
@@ -193,12 +193,12 @@ $lang['AdminPackages.index.no_results'] = 'Er zijn geen pakketten met deze statu
 $lang['AdminPackages.index.option_delete'] = 'Verwijder';
 $lang['AdminPackages.index.option_copy'] = 'Kopie';
 $lang['AdminPackages.index.option_edit'] = 'Bewerk';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Stuur  in';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Toepassen';
 $lang['AdminPackages.index.action.delete'] = 'Pakketten verwijderen';
 $lang['AdminPackages.index.category_inactive'] = 'Inactief';
 $lang['AdminPackages.index.category_restricted'] = 'Beperkt';
 $lang['AdminPackages.index.category_active'] = 'Actief';
-$lang['AdminPackages.index.heading_options'] = 'Opties';
+$lang['AdminPackages.index.heading_options'] = 'Acties';
 $lang['AdminPackages.index.heading_qty'] = 'Hoeveelheid';
 $lang['AdminPackages.index.heading_module'] = 'Module';
 $lang['AdminPackages.index.heading_name'] = 'Naam';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!tooltip.manual_activation'] = 'Als deze optie is aangevink
 $lang['AdminPackages.edit.text_default'] = 'Standaard';
 $lang['AdminPackages.add.text_default'] = 'Standaard';
 $lang['AdminPackages.!tooltip.single_term'] = 'Als deze optie is aangevinkt, worden nieuwe services die gebruik maken van dit pakket niet verlengd, maar automatisch geannuleerd aan het einde van hun initiële termijn.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Gegenereerde e-mailtekst:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Gegenereerde e-mail-HTML:';
+$lang['AdminPackages.ai.email_use_button'] = 'Gebruik deze e-mail';
+$lang['AdminPackages.ai.email_generating'] = 'E-mail genereren...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Beschrijf wat er in de welkomstmail moet staan (bijv. "Welkom nieuwe klant, service-instellingen uitleggen")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Welkomstmail genereren';
+$lang['AdminPackages.ai.generate_email_button'] = 'E-mail genereren met AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Contextinformatie:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Genereer een professionele beschrijving voor dit product-/dienstenpakket.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Genereer een professionele welkomstmail voor dit product/servicepakket waarin de klant wordt verwelkomd en nuttige informatie krijgt over de nieuwe service.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Herschrijf en verbeter deze inhoud met behoud van dezelfde algemene informatie:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Bekijk de bovenstaande prompt, voeg eventuele extra instructies toe en klik op Genereer om inhoud te maken.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Prompt laden...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Vraag Context';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Geef eventuele specifieke details of vereisten voor de AI om op te nemen in de beschrijving.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Bijvoorbeeld: Informatie opnemen over 24/7 ondersteuning, de 30-dagen-geld-terug-garantie vermelden...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Extra instructies (optioneel)';
+$lang['AdminPackages.ai.error_prefix'] = 'Fout:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Beschrijving niet gegenereerd';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Voer een prompt in';
+$lang['AdminPackages.ai.apply_text'] = 'Tekstversie';
+$lang['AdminPackages.ai.apply_html'] = 'HTML-versie';
+$lang['AdminPackages.ai.apply_content_label'] = 'Inhoud toepassen op:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Pakketbeschrijving AI-functie is niet ingeschakeld';
+$lang['AdminPackages.ai.error_disabled'] = 'AI-functies zijn niet ingeschakeld';
+$lang['AdminPackages.ai.regenerating'] = 'Regenereren...';
+$lang['AdminPackages.ai.generating'] = 'Het genereren van...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Annuleren';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenereer';
+$lang['AdminPackages.ai.btn_use'] = 'Gebruik deze beschrijving';
+$lang['AdminPackages.ai.btn_generate'] = 'genereren';
+$lang['AdminPackages.ai.preview_text'] = 'Gegenereerde tekst:';
+$lang['AdminPackages.ai.preview_html'] = 'Gegenereerde HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Technisch';
+$lang['AdminPackages.ai.tone_casual'] = 'Vrijblijvend';
+$lang['AdminPackages.ai.tone_professional'] = 'Professioneel';
+$lang['AdminPackages.ai.tone'] = 'Toon';
+$lang['AdminPackages.ai.generate_text'] = 'Tekst genereren (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'HTML genereren';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Beschrijf de kenmerken van het pakket, de doelgroep, enz...';
+$lang['AdminPackages.ai.use_content_button'] = 'Gebruik deze inhoud';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenereer';
+$lang['AdminPackages.ai.no_context'] = 'Geen context beschikbaar';
+$lang['AdminPackages.ai.context_type_email'] = 'Welkom e-mail';
+$lang['AdminPackages.ai.context_type_description'] = 'Verpakking Beschrijving';
+$lang['AdminPackages.ai.context_type'] = 'Type:';
+$lang['AdminPackages.ai.context_module'] = 'Module:';
+$lang['AdminPackages.ai.context_package'] = 'Verpakking:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Gegenereerde inhoud:';
+$lang['AdminPackages.ai.context_label'] = 'Context:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI herschreven beschrijving';
+$lang['AdminPackages.ai.modal_title_generate'] = 'AI-gegenereerde beschrijving';
+$lang['AdminPackages.ai.modal_title'] = 'AI-gegenereerde inhoud';
+$lang['AdminPackages.ai.rewrite_button'] = 'Herschrijven';
+$lang['AdminPackages.ai.generate_button'] = 'genereren';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Filters toepassen';
+$lang['AdminPackages.index.field_filterclear'] = 'Duidelijk';
+$lang['AdminPackages.index.filter_toggle'] = 'Filters schakelen';
+$lang['AdminPackages.index.items_selected'] = 'geselecteerde items';
 

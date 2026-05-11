@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = 'معرّف الحزمة';
 $lang['AdminSearch.packages.heading'] = 'الحزم';
 $lang['AdminSearch.transactions.no_results'] = 'لا توجد معاملات تطابق معايير البحث.';
 $lang['AdminSearch.transactions.option_edit'] = 'تحرير';
-$lang['AdminSearch.transactions.heading_options'] = 'الخيارات';
+$lang['AdminSearch.transactions.heading_options'] = 'الإجراءات';
 $lang['AdminSearch.transactions.heading_date'] = 'التاريخ';
 $lang['AdminSearch.transactions.heading_status'] = 'الحالة';
 $lang['AdminSearch.transactions.heading_number'] = 'العدد';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = 'تاريخ الفاتورة'
 $lang['AdminSearch.invoice.heading_date_closed'] = 'تاريخ الإغلاق';
 $lang['AdminSearch.invoice.heading_due'] = 'المستحق';
 $lang['AdminSearch.invoice.heading_paid'] = 'مدفوعة الأجر';
-$lang['AdminSearch.invoice.heading_amount'] = 'الخيارات';
+$lang['AdminSearch.invoice.heading_amount'] = 'المبلغ';
 $lang['AdminSearch.invoice.heading_client_id'] = 'هوية العميل';
 $lang['AdminSearch.invoice.heading_invoice'] = 'رقم الفاتورة';
 $lang['AdminSearch.invoices.heading'] = 'الفواتير';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = 'العملاء';
 $lang['AdminSearch.index.boxtitle_search'] = 'نتائج البحث عن "%1$s"';
 $lang['AdminSearch.index.page_title'] = 'نتائج البحث عن "%1$s"';
 $lang['AdminSearch.!notice.results_truncated'] = 'تم اقتطاع عدد النتائج. قد ترغب في تنقيح البحث.';
+$lang['AdminSearch.invoice.heading_options'] = 'الإجراءات';
 

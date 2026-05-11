@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminStaff.index.heading_email'] = 'Ηλεκτρονικό ταχυδρο
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Λάβετε email εισιτηρίων';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Λήψη email εισιτηρίων για κινητά';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Λάβετε ειδοποιήσεις Ticket Messenger';
-$lang['AdminStaff.index.heading_options'] = 'Επιλογές';
+$lang['AdminStaff.index.heading_options'] = 'Δράσεις';
 $lang['AdminStaff.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminStaff.index.option_delete'] = 'Διαγραφή';
 $lang['AdminStaff.index.confirm_delete'] = 'Η διαγραφή αυτού του μέλους του προσωπικού θα καταργήσει την ανάθεση όλων των εισιτηρίων που έχουν ανατεθεί σε αυτό το μέλος του προσωπικού. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το μέλος του προσωπικού;';

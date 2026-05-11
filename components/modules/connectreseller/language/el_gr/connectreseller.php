@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.order_options.first'] = 'Πρώτος μη πλήρης �
 $lang['Connectreseller.order_options.roundrobin'] = 'Ομοιόμορφη κατανομή μεταξύ των διακομιστών';
 $lang['Connectreseller.tab_client_nameservers.title_list'] = 'Διακομιστές ονομάτων';
 $lang['Connectreseller.tab_nameservers.title_list'] = 'Διακομιστές ονομάτων';
+$lang['Connectreseller.back_to_manage'] = 'Πίσω';
+$lang['Connectreseller.manage.tab_rows'] = 'Servers';
+$lang['Connectreseller.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

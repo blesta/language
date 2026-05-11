@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Il file di configu
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'È richiesta l\'estensione \'%1$s\'. Versione: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'È richiesta l\'estensione "%1$s".';
 $lang['SystemRequirements.!error.php.minimum'] = 'È richiesta la versione PHP %1$s o superiore. La vostra versione: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'È richiesta la versione 5.7.7 di MySQL o la versione 10.2.2 o superiore di MariaDB. La vostra versione: %1$s.';
 

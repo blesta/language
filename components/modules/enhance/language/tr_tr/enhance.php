@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Sunucular';
 $lang['Enhance.module_row'] = 'Sunucu';
 $lang['Enhance.description'] = 'Enhance, yeni nesil bir paylaşımlı hosting kontrol panelidir.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Geri';
+$lang['Enhance.manage.tab_rows'] = 'Sunucular';
+$lang['Enhance.manage.tab_groups'] = 'Sunucu Grupları';
+$lang['Enhance.package_fields.package_tooltip'] = 'Enhance kontrol panelinizden Plan Kimliğini girin. Planlar otomatik olarak yüklenemedi.';
 

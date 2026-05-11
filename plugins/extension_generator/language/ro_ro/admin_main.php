@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = 'Nu există nicio prelungire î
 $lang['AdminMain.index.text_confirm_delete'] = 'Sunteți sigur că doriți să ștergeți această extensie?';
 $lang['AdminMain.index.option_delete'] = 'Ștergeți';
 $lang['AdminMain.index.option_edit'] = 'Editați';
-$lang['AdminMain.index.heading_options'] = 'Opțiuni';
+$lang['AdminMain.index.heading_options'] = 'Acțiuni';
 $lang['AdminMain.index.heading_date_updated'] = 'Data actualizării';
 $lang['AdminMain.index.heading_code_examples'] = 'Exemple de coduri';
 $lang['AdminMain.index.heading_form_type'] = 'Tip de formular';

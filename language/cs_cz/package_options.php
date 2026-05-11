@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Zadejte prosím štítek.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Zda se má skrývat na faktuře, musí být nastaveno na 0 nebo 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Zda se má cenotvorba zakázat, musí být nastaveno na 0 nebo 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Typ nelze změnit, protože služba používá jednu nebo více hodnot možností, které nebyly zahrnuty do podání.';
 

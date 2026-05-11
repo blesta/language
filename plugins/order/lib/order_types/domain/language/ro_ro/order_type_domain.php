@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Căutare TLD';
 $lang['Main.steps.step_1_description'] = 'Alegeți un domeniu';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Opțiuni';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Acțiuni';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Perioada';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Termen';
 $lang['OrderTypeDomain.settings.text_term'] = 'Termen și perioadă minimă';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Verwijder';
 $lang['AdminDepartments.edit.heading_default'] = 'Standaard';
 $lang['AdminDepartments.edit.heading_value'] = 'Waarde';
 $lang['AdminDepartments.edit.heading_name'] = 'Naam';
-$lang['AdminDepartments.edit.heading_options'] = 'Opties';
+$lang['AdminDepartments.edit.heading_options'] = 'Acties';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Automatisch verwijderen';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Gecodeerd';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Klant kan toevoegen';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Verwijder';
 $lang['AdminDepartments.add.heading_default'] = 'Standaard';
 $lang['AdminDepartments.add.heading_value'] = 'Waarde';
 $lang['AdminDepartments.add.heading_name'] = 'Naam';
-$lang['AdminDepartments.add.heading_options'] = 'Opties';
+$lang['AdminDepartments.add.heading_options'] = 'Acties';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Automatisch verwijderen';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Gecodeerd';
 $lang['AdminDepartments.add.heading_client_add'] = 'Klant kan toevoegen';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Er zijn geen afdelingen.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Afdelingen waaraan tickets zijn toegewezen kunnen niet worden verwijderd totdat alle tickets opnieuw zijn toegewezen aan een andere afdeling. Weet je zeker dat je deze afdeling wilt verwijderen?';
 $lang['AdminDepartments.index.option_delete'] = 'Verwijder';
 $lang['AdminDepartments.index.option_edit'] = 'Bewerk';
-$lang['AdminDepartments.index.heading_options'] = 'Opties';
+$lang['AdminDepartments.index.heading_options'] = 'Acties';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Standaard prioriteit';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Toegewezen personeel';
 $lang['AdminDepartments.index.heading_email'] = 'E-mail';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client / Toepa
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 gebruiker';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 aanbieder';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Voor alle tickets met de status Gesloten wordt een herinnering om feedback achter te laten naar de klant gestuurd als het ticket al een bepaalde tijd gesloten is.';
+$lang['AdminDepartments.!text.description_hint'] = 'Deze beschrijving is zichtbaar voor klanten bij het selecteren van een afdeling';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Houd Ctrl (Windows) of Cmd (Mac) ingedrukt om meerdere prioriteiten te selecteren.';
+$lang['AdminDepartments.!text.search_responses'] = 'Reacties zoeken...';
+$lang['AdminDepartments.!text.searching'] = 'Zoeken...';
+$lang['AdminDepartments.add.heading_actions'] = 'Acties';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Weet je zeker dat je dit aangepaste veld wilt verwijderen?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Acties';
 

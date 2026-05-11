@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'الخوادم';
 $lang['Tcadmin.module_row'] = 'الخادم';
 $lang['Tcadmin.description'] = 'تم تصميم TCAdmin لوحة التحكم في استضافة الألعاب من الألف إلى الياء لمساعدة مزود خدمة الألعاب اليوم على توفير الوقت والمال، مع السماح للمستخدمين النهائيين بالتحكم الكامل في خوادمهم.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'رجوع';
+$lang['Tcadmin.manage.tab_rows'] = 'الخوادم';
+$lang['Tcadmin.manage.tab_groups'] = 'مجموعات الخوادم';
 

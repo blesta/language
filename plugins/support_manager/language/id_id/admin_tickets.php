@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,8 +57,8 @@ $lang['AdminTickets.reply.heading_client'] = 'Klien';
 $lang['AdminTickets.reply.heading_summary'] = 'Ringkasan';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Tiket #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Hapus File';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Jatuhkan file di sini untuk mengunggah atau Klik untuk memilih file';
-$lang['AdminTickets.add.text_add_response'] = 'Menyisipkan Respons yang Telah Ditentukan Sebelumnya';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Jatuhkan file di sini untuk mengunggah atau klik untuk memilih file';
+$lang['AdminTickets.add.text_add_response'] = 'Sisipkan Respons yang Telah Ditentukan';
 $lang['Admintickets.add.client_placeholder'] = 'ID atau Nama Klien';
 $lang['AdminTickets.add.field_addsubmit'] = 'Buka Tiket';
 $lang['AdminTickets.add.text_add_attachment'] = 'Tambahkan Lampiran';
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'Sampah';
 $lang['AdminTickets.index.category_closed'] = 'Ditutup';
 $lang['AdminTickets.index.category_on_hold'] = 'Ditunda';
 $lang['AdminTickets.index.category_in_progress'] = 'Sedang Berlangsung';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Menunggu Balasan Klien';
-$lang['AdminTickets.index.category_open'] = 'Menunggu Balasan Staf';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Klien yang Menunggu';
+$lang['AdminTickets.index.category_open'] = 'Staf yang Menunggu';
 $lang['AdminTickets.text.unassigned'] = 'Tidak Ditugaskan';
 $lang['AdminTickets.search.page_title'] = 'Hasil Pencarian untuk "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'Manajer Dukungan > Tiket #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Tidak ada kontak tambahan yang ter
 $lang['AdminTickets.!tooltip.recipients'] = 'Alamat email yang akan diberitahukan ketika tiket diperbarui.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontak yang akan diberi tahu ketika tiket diperbarui. Mereka yang tidak dipilih akan secara otomatis ditambahkan ke tiket jika mereka merespons.';
 $lang['AdminTickets.reply.text_domain'] = 'Domain';
-$lang['AdminTickets.reply.heading_rating'] = 'Peringkat';
+$lang['AdminTickets.reply.heading_rating'] = 'Peringkat Pelanggan';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Komentar Penilaian';
 $lang['AdminTickets.index.heading_rating'] = 'Peringkat';
+$lang['AdminTickets.index.text_fullscreen'] = 'Alihkan Layar Penuh';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Keluar dari Layar Penuh';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Masukkan nomor tiket';
+$lang['AdminTickets.index.placeholder_summary'] = 'Ringkasan pencarian';
+$lang['AdminTickets.index.heading_filters'] = 'Filter';
+$lang['AdminTickets.index.field_apply_filters'] = 'Menerapkan Filter';
+$lang['AdminTickets.index.field_clear_filters'] = 'Hapus Filter';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Kontak &amp; Penerima';
+$lang['AdminTickets.add.search_responses'] = 'Tanggapan pencarian...';
+$lang['AdminTickets.add.no_results'] = 'Tidak ada jawaban yang cocok ditemukan';
+$lang['AdminTickets.add.searching'] = 'Mencari...';
+$lang['AdminTickets.add.search_min_chars'] = 'Masukkan minimal 2 karakter untuk mencari';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Detail Tiket';
+$lang['AdminTickets.add.login_as_client'] = 'Masuk sebagai Klien';
+$lang['AdminTickets.add.markdown_supported'] = 'Penurunan harga didukung';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Letakkan file di sini untuk mengunggah atau klik untuk memilih file';
+$lang['AdminTickets.add.browse_files'] = 'Jelajahi File';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Kustom';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Kontak &amp; Penerima';
+$lang['AdminTickets.reply.text_date_rated'] = 'Dinilai: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Di %1$s %2$s %3$s menambahkan catatan';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Detail Tiket';
+$lang['AdminTickets.reply.login_as_client'] = 'Masuk sebagai Klien';
+$lang['AdminTickets.reply.search_responses'] = 'Tanggapan pencarian...';
+$lang['AdminTickets.reply.no_results'] = 'Tidak ada jawaban yang cocok ditemukan';
+$lang['AdminTickets.reply.searching'] = 'Mencari...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Masukkan minimal 2 karakter untuk mencari';
+$lang['AdminTickets.reply.markdown_supported'] = 'Penurunan harga didukung';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Catatan internal hanya dapat dilihat oleh anggota staf';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Jatuhkan file di sini untuk mengunggah atau Klik untuk memilih file';
+$lang['AdminTickets.reply.browse_files'] = 'Jelajahi File';
+$lang['AdminTickets.reply.btn_cancel'] = 'Batal';
+$lang['AdminTickets.reply.client_title'] = 'Klien';
+$lang['AdminTickets.reply.note_label'] = 'Catatan Staf';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Hasilkan Respons AI';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Respons AI Siap';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenerasi';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Regenerasi Respons AI';
+$lang['AdminTickets.reply.text_generating'] = 'Menghasilkan...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenerasi...';
+$lang['AdminTickets.reply.text_just_now'] = 'Baru saja';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm yang lalu';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh yang lalu';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd lalu';
+$lang['AdminTickets.reply.modal_title'] = 'Respons yang Dihasilkan oleh AI';
+$lang['AdminTickets.reply.label_confidence'] = 'Keyakinan';
+$lang['AdminTickets.reply.label_generated'] = 'Dihasilkan';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'Ulasan Diperlukan';
+$lang['AdminTickets.reply.alert_review_text'] = 'Tanggapan ini secara otomatis dihasilkan oleh AI. Harap tinjau kembali dengan cermat sebelum mengirim untuk memastikan keakuratan dan nada yang sesuai.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Catatan Internal';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Tanggapan yang Disarankan';
+$lang['AdminTickets.reply.label_concerns'] = 'Kekhawatiran';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Tidak ada tanggapan yang disarankan. Lihat catatan internal untuk alasannya.';
+$lang['AdminTickets.reply.button_cancel'] = 'Batal';
+$lang['AdminTickets.reply.button_use_response'] = 'Gunakan Tanggapan Ini';
+$lang['AdminTickets.reply.button_reject'] = 'Menolak';
+$lang['AdminTickets.reply.button_summarize'] = 'Rangkuman';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Ringkasan AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'ID tiket tidak valid';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Fitur AI tidak diaktifkan untuk Manajer Dukungan';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Gagal menghasilkan respons AI';
+$lang['AdminTickets.!error.analysis_invalid'] = 'ID analisis tidak valid';
+$lang['AdminTickets.!error.reply_not_found'] = 'Balasan yang ditentukan tidak dapat ditemukan.';
+$lang['AdminTickets.!error.summary_failed'] = 'Gagal membuat ringkasan.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Pesanan yang Ditinggalkan';
 $lang['AdminForms.add.tab_basic'] = 'Dasar';
 $lang['AdminForms.index.field_status_inactive'] = 'Tidak aktif';
 $lang['AdminForms.index.field_status_active'] = 'Aktif';
-$lang['AdminForms.index.text_confirm_delete'] = 'Benarkah menghapus formulir pemesanan ini?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Apakah Anda yakin ingin menghapus formulir pemesanan ini?';
 $lang['AdminForms.index.option_delete'] = 'Menghapus';
 $lang['AdminForms.index.option_edit'] = 'Sunting';
 $lang['AdminForms.index.heading_options'] = 'Pilihan';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Saat memilih paket, tunjuk
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Menampilkan Perincian Harga Bulanan';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Saat memilih paket, tunjukkan biaya bulanan untuk setiap opsi harga serta penghematan per bulan jika dibandingkan dengan harga bulanan (jika ada).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Menampilkan Perincian Harga Bulanan';
+$lang['AdminForms.index.heading_actions'] = 'Tindakan';
+$lang['AdminForms.index.back_to_forms'] = 'Kembali ke Formulir Pemesanan';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Memerlukan Persetujuan untuk Langganan Berulang';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Jika diaktifkan, pelanggan harus secara eksplisit menyetujui penagihan berulang sebelum menyelesaikan pesanan dengan item yang berulang. Ini menggantikan kotak centang Simpan Detail Pembayaran.';
+$lang['AdminForms.add.field_cancel'] = 'Batal';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Memerlukan Persetujuan untuk Langganan Berulang';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Jika diaktifkan, pelanggan harus secara eksplisit menyetujui penagihan berulang sebelum menyelesaikan pesanan dengan item yang berulang. Ini menggantikan kotak centang Simpan Detail Pembayaran.';
+$lang['AdminForms.edit.field_cancel'] = 'Batal';
+$lang['AdminForms.embed_codes.heading'] = 'Sematkan Kode untuk Pencarian Domain';
+$lang['AdminForms.embed_codes.description'] = 'Salin salah satu cuplikan di bawah ini untuk menyematkan formulir pencarian domain di situs eksternal. Pengirim akan membuka pembayaran pada formulir pemesanan ini dengan domain yang dimasukkan sudah dimuat sebelumnya.';
+$lang['AdminForms.embed_codes.label_first'] = 'Masukkan label URL untuk formulir pemesanan ini untuk menghasilkan kode sematan.';
+$lang['AdminForms.embed_codes.html_plain'] = 'HTML biasa';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Pratinjau';
+$lang['AdminForms.embed_codes.copy'] = 'Salin';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Bypass CSRF diperlukan agar pencarian domain yang disematkan dapat berfungsi.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POST dari situs eksternal akan ditolak hingga Anda menambahkan config::preconfig ke larik Blesta.csrf_bypass di config/blesta.php:';
 

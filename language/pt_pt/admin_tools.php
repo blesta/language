@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminTools.renewals.category_renewal'] = 'Renovação';
 $lang['AdminTools.renewals.category_provision'] = 'Disposições';
 $lang['AdminTools.renewals.boxtitle_service_queue'] = 'Fila de espera de serviço';
 $lang['AdminTools.getlognames.text_service_changes'] = 'Alterações de serviço';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Adicionar regra';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Criar regra';
 $lang['AdminTools.blacklistadd.field_note'] = 'Nota';
 $lang['AdminTools.blacklistadd.field_type'] = 'Tipo';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regra';
@@ -46,7 +46,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Eliminar';
 $lang['AdminTools.blacklist.text_system'] = 'Sistema';
 $lang['AdminTools.blacklist.text_type_email'] = 'Endereço de correio eletrónico';
 $lang['AdminTools.blacklist.text_type_ip'] = 'Endereço IP';
-$lang['AdminTools.blacklist.heading_options'] = 'Opções';
+$lang['AdminTools.blacklist.heading_options'] = 'Acções';
 $lang['AdminTools.blacklist.heading_note'] = 'Nota';
 $lang['AdminTools.blacklist.heading_list'] = 'Lista';
 $lang['AdminTools.blacklist.heading_type'] = 'Tipo';
@@ -184,7 +184,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Alteração Máximo';
 $lang['AdminTools.renewals.option_dequeue'] = 'Fila de espera';
 $lang['AdminTools.renewals.option_view'] = 'Ver fatura';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Tem a certeza de que pretende remover este serviço da fila de renovação?';
-$lang['AdminTools.renewals.heading_options'] = 'Opções';
+$lang['AdminTools.renewals.heading_options'] = 'Acções';
 $lang['AdminTools.renewals.heading_invoice'] = 'Fatura';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Número máximo de tentativas';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Tentativas falhadas';
@@ -200,7 +200,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Actualize o
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Actualize o conjunto de caracteres e o agrupamento da sua base de dados, tabelas e colunas para utf8mb4 para suportar caracteres de 4 bytes, como os emojis.  Isto pode demorar alguns minutos.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Atualização para utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Atualizar a compilação da base de dados';
-$lang['AdminTools.utilities.heading_options'] = 'Opções';
+$lang['AdminTools.utilities.heading_options'] = 'Acções';
 $lang['AdminTools.utilities.heading_description'] = 'Descrição';
 $lang['AdminTools.utilities.heading_utility'] = 'Utilidade';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Utilidades';
@@ -249,7 +249,7 @@ $lang['AdminTools.servicechanges.no_results'] = 'Não há alterações de servi�
 $lang['AdminTools.servicechanges.modal_cancel'] = 'Tem a certeza de que pretende cancelar esta alteração de serviço pendente?';
 $lang['AdminTools.servicechanges.option_cancel'] = 'Cancelar';
 $lang['AdminTools.servicechanges.field_void_invoice'] = 'Anular fatura';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bloqueio de saída';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bloquear as mensagens de correio eletrónico enviadas para este endereço';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Bloqueio de saída';
 $lang['AdminTools.renewals.no_results_changes'] = 'Não existem alterações de serviço atualmente em fila de espera para aprovisionamento.';
 $lang['AdminTools.renewals.option_retry'] = 'Repetir';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Estado';
 $lang['AdminTools.renewals.category_changes'] = 'Alterações de serviço';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Renovação não paga';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'As alterações de serviço foram agendadas com êxito.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'O ficheiro de manifesto (manifest.json) não foi encontrado. Este ficheiro está incluído nas versões oficiais e é necessário para efetuar uma verificação de integridade.';
+$lang['AdminTools.integritycheck.text_error'] = 'Ocorreu um erro ao verificar os ficheiros.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Todos os ficheiros correspondem ao manifesto. Não foram detectadas modificações ou ficheiros em falta.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Total de ficheiros';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Vendedor';
+$lang['AdminTools.integritycheck.category_core'] = 'Núcleo';
+$lang['AdminTools.integritycheck.status_missing'] = 'Em falta';
+$lang['AdminTools.integritycheck.status_modified'] = 'Modificado';
+$lang['AdminTools.integritycheck.heading_category'] = 'Categoria';
+$lang['AdminTools.integritycheck.heading_file'] = 'Ficheiro';
+$lang['AdminTools.integritycheck.heading_status'] = 'Estado';
+$lang['AdminTools.integritycheck.text_checking'] = 'A verificar ficheiros, por favor aguarde. Isto pode demorar um pouco...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Correr de novo';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Descarregar o relatório';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Executar verificação de integridade';
+$lang['AdminTools.integritycheck.text_description'] = 'Verifique os arquivos instalados em relação ao manifesto enviado com esta versão. Isto verifica a integridade dos ficheiros através da comparação de hashes SHA256 e pode ajudar a identificar ficheiros que foram modificados, o que é útil para a resolução de problemas e antes de efetuar actualizações.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Verificação da integridade do sistema';
+$lang['AdminTools.integritycheck.page_title'] = 'Verificação da integridade do sistema';
+$lang['AdminTools.!success.cache_cleared'] = 'A cache de ficheiros foi limpa com sucesso.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Controlo de execução';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Verificar os ficheiros principais em relação ao manifesto enviado para identificar ficheiros modificados ou em falta.';
+$lang['AdminTools.utilities.integrity_check'] = 'Verificação da integridade do sistema';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Limpe os ficheiros em cache, incluindo a navegação, as visualizações e as caches de plug-ins. Isso pode causar carregamentos de página um pouco mais lentos até que os caches sejam reconstruídos.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Limpar cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Limpar a cache de ficheiros';
+$lang['AdminTools.getlognames.text_system'] = 'Sistema';
+$lang['AdminTools.integritycheck.text_summary'] = 'Verificados os ficheiros %1$s: %2$s OK, %3$s modificado, %4$s em falta.';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Versão do manifesto: %1$s (gerado %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Não existem atualmente serviços em fila de espera para renovação após pagamento.';
+$lang['AdminTools.logsystem.page_title'] = 'Registos de ferramentas';
+$lang['AdminTools.logsystem.text_date'] = 'Data';
+$lang['AdminTools.logsystem.text_level'] = 'Nível';
+$lang['AdminTools.logsystem.text_message'] = 'Mensagem';
+$lang['AdminTools.logsystem.no_results'] = 'Não existem entradas no registo do sistema.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'O diretório de registo não está configurado ou não é legível. Configure-o em Definições &gt; Sistema &gt; Geral.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Emergência';
+$lang['AdminTools.logsystem.level_alert'] = 'Alerta';
+$lang['AdminTools.logsystem.level_critical'] = 'Crítico';
+$lang['AdminTools.logsystem.level_error'] = 'Erro';
+$lang['AdminTools.logsystem.level_warning'] = 'Aviso';
+$lang['AdminTools.logsystem.level_notice'] = 'Aviso';
+$lang['AdminTools.logsystem.level_info'] = 'Informações';
+$lang['AdminTools.logsystem.level_debug'] = 'Depurar';
 

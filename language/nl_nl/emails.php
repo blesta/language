@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Die e-mailhandtekening is mo
 $lang['Emails.!error.text.parse'] = 'Sjabloon parse fout: %1$s';
 $lang['Emails.!error.html.parse'] = 'Sjabloon parse fout: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Het snapshot hoort niet bij de opgegeven e-mail.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Ongeldige snapshot ID.';
 

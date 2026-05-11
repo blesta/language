@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Volgende - Bevestiging';
 $lang['AdminPlugin.features.text_remove'] = 'Verwijder';
-$lang['AdminPlugin.features.text_options'] = 'Opties';
+$lang['AdminPlugin.features.text_options'] = 'Acties';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Crontaak toevoegen';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Tabblad Servicebeheer toevoegen';
 $lang['AdminPlugin.features.placeholder_time'] = 'bijv. 14:25 of 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'De actie voor de URI van waa
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'De controller voor de URI vanwaar de inhoud voor de actie moet worden opgehaald (bijv. admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'De locatie in de interface om de actie weer te geven';
 $lang['AdminPlugin.integrations.text_remove'] = 'Verwijder';
-$lang['AdminPlugin.integrations.text_options'] = 'Opties';
+$lang['AdminPlugin.integrations.text_options'] = 'Acties';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Klantenkaarten zijn kleine vakjes die worden weergegeven op het klantenprofiel (in het klanten- of beheerdersgedeelte) en worden voornamelijk gebruikt om verschillende statistieken weer te geven (bijv. aantal diensten, tickets of bestellingen). Ze bestaan uit een waarde, een label, een achtergrond en een link.  Het label wordt weergegeven onder de waarde die wordt opgehaald uit een callbackfunctie.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Dit is het hook-systeem in Blesta.  Gebeurtenissen worden geregistreerd door de kern of door een plugin. Vervolgens luisteren plugins naar deze gebeurtenissen en definiëren ze handler-methodes voor de gebeurtenis.  Omdat alle plugins events kunnen registreren, kunnen er een willekeurig aantal zijn, maar de lijst met core-events die door Blesta zijn gedefinieerd, kan hier worden gevonden https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Acties" vertegenwoordigen pluginpagina\'s die toegankelijk zijn via de kerninterface. Dit omvat navigatie links in de admin en client gebieden, widgets in het admin gebied, en links op het client profiel zijbalk. De controllers en acties die hier worden ingevoerd, worden gebruikt om eenvoudige controllerbestanden te genereren. Daarnaast worden voorbeeldweergavebestanden gemaakt voor elke actie.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Actie toevoegen';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Kernintegraties';
 $lang['AdminPlugin.database.integrations'] = 'Volgende - Kernintegraties';
 $lang['AdminPlugin.database.text_remove'] = 'Verwijder';
-$lang['AdminPlugin.database.text_options'] = 'Opties';
+$lang['AdminPlugin.database.text_options'] = 'Acties';
 $lang['AdminPlugin.database.text_more_info'] = 'Deze pagina wordt gebruikt om een schema te maken voor de database tabellen die gegenereerd en beheerd worden door deze plugin. Code zal worden gegenereerd voor het toevoegen en verwijderen van deze tabellen bij installatie en de-installatie. Daarnaast worden er modelbestanden aangemaakt voor deze tabellen met een aantal basisfuncties.';
 $lang['AdminPlugin.database.placeholder_length'] = 'bijv. 64 of \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'bijv. kolom_naam';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Het logo dat wordt weergegeven in de 
 $lang['AdminPlugin.basic.tooltip_description'] = 'De beschrijving in de plugin lijst';
 $lang['AdminPlugin.basic.text_remove'] = 'Verwijder';
 $lang['AdminPlugin.basic.author_row_add'] = 'Auteur toevoegen';
-$lang['AdminPlugin.basic.text_options'] = 'Opties';
+$lang['AdminPlugin.basic.text_options'] = 'Acties';
 $lang['AdminPlugin.basic.author_url'] = 'Auteur URL';
 $lang['AdminPlugin.basic.author_name'] = 'Naam auteur';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

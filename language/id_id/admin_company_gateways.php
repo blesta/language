@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Memperbarui';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Tetapkan gateway pedagang default untuk setiap mata uang.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gerbang Pedagang Default';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Gerbang merchant default telah berhasil diperbarui.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Tidak ditemukan gateway yang cocok.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Gerbang penyaringan...';
 

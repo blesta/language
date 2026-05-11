@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.customfield.cf2'] = 'Campo personalizado';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'El importe máximo del crédito para %1$s debe ser superior al importe mínimo.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'El crédito máximo de %1$s debe ser superior a 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'El importe mínimo del crédito para %1$s debe ser superior a 0.';
+$lang['Clients.!error.action[].exists'] = 'Acción de notificación no válida.';
+$lang['Clients.!error.action.exists'] = 'Acción de notificación no válida "%1$s".';
 

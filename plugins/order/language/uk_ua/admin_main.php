@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Сповіщення про
 $lang['AdminMain.orderinfo.services_no_results'] = 'У цьому порядку немає послуг.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Ніколи.';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Керувати';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Параметри';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Дії';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Поновлення дати';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Дата додавання';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Термін';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Пакет';
 $lang['AdminMain.orderinfo.services_heading'] = 'Послуги';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'До цього замовлення не застосовуються жодні транзакції.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Редагувати';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Параметри';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Дії';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Нанесено на';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Застосовано';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Сума';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Накази';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Оновлені партнерські налаштування.';
 $lang['AdminMain.!success.settings_updated'] = 'Налаштування вашого замовлення було успішно оновлено.';
 $lang['AdminMain.!success.status_updated'] = 'Вибрані замовлення були успішно оновлені.';
+$lang['AdminMain.index.paid'] = 'Оплачено';
+$lang['AdminMain.index.unpaid'] = 'Неоплачений';
+$lang['AdminMain.index.loading'] = 'Завантаження...';
+$lang['AdminMain.index.text_items_selected'] = 'вибрані елементи';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Ідентифікатор транзакції';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Дата';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Сервіс';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'На розгляді';
+$lang['AdminMain.settings.text_notifications'] = 'Налаштуйте спосіб отримання сповіщень про нові замовлення.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Налаштуйте спосіб отримання сповіщень про партнерські виплати.';
 

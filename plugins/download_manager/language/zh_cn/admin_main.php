@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = '本部分没有静态 URL。';
 $lang['AdminMain.urls.latest_file'] = '来自 <strong>%1$s</strong> 的最新文件';
 $lang['AdminMain.urls.delete'] = '删除';
 $lang['AdminMain.urls.edit'] = '编辑';
-$lang['AdminMain.urls.heading_options'] = '选项';
+$lang['AdminMain.urls.heading_options'] = '行动';
 $lang['AdminMain.urls.heading_link'] = '链接';
 $lang['AdminMain.urls.heading_file'] = '文件';
 $lang['AdminMain.urls.heading_url'] = '网址';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = '下载管理器 > 管理';
 $lang['AdminMain.files.no_downloads'] = '本部分没有下载。';
 $lang['AdminMain.files.delete'] = '删除';
 $lang['AdminMain.files.edit'] = '编辑';
-$lang['AdminMain.files.go_back'] = '升一级';
-$lang['AdminMain.files.add_category'] = '在此添加类别';
+$lang['AdminMain.files.go_back'] = '返回';
+$lang['AdminMain.files.add_category'] = '添加类别';
 $lang['AdminMain.files.add_download'] = '在此添加下载';
 $lang['AdminMain.files.tab_urls'] = '静态 URL';
 $lang['AdminMain.files.tab_files'] = '文件';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = '文件已成功添加。';
 $lang['AdminMain.!success.category_deleted'] = '类别已成功删除。';
 $lang['AdminMain.!success.category_updated'] = '类别已成功更新。';
 $lang['AdminMain.!success.category_added'] = '类别已成功创建。';
-$lang['AdminMain.edit.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = '文件';
+$lang['AdminMain.sidebar.urls'] = '静态 URL';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache 的 mod_http2 已启用，但 mod_xsendfile 未启用。我们建议启用或安装 mod_xsendfile，以提高性能和下载速度。';
+$lang['AdminMain.modal.confirm_delete'] = '确认删除';
+$lang['AdminMain.modal.delete'] = '删除';
+$lang['AdminMain.modal.cancel'] = '取消';
+$lang['AdminMain.modal.save'] = '节省';
+$lang['AdminMain.add.public'] = '公开发布';
+$lang['AdminMain.add.logged_in'] = '必须登录';
+$lang['AdminMain.add.text_fileinfo'] = '注意：文件必须位于上传目录中的某个位置。';
+$lang['AdminMain.add.field_file_type'] = '文件来源';
+$lang['AdminMain.add.upload'] = '上传文件';
+$lang['AdminMain.add.path'] = '指定文件路径';
 

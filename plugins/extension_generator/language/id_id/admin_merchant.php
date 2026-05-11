@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'Berikutnya - Konfirmasi';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Fitur yang Didukung';
 $lang['AdminMerchant.fields.features'] = 'Berikutnya - Fitur yang Didukung';
 $lang['AdminMerchant.fields.text_remove'] = 'Menghapus';
-$lang['AdminMerchant.fields.text_options'] = 'Pilihan';
+$lang['AdminMerchant.fields.text_options'] = 'Tindakan';
 $lang['AdminMerchant.fields.field_row_add'] = 'Tambahkan Bidang Konfigurasi';
 $lang['AdminMerchant.fields.placeholder_label'] = 'misalnya Bidang Konfigurasi';
 $lang['AdminMerchant.fields.placeholder_name'] = 'contoh: configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'Logo yang ditampilkan dalam daftar 
 $lang['AdminMerchant.basic.tooltip_description'] = 'Deskripsi yang ditampilkan dalam daftar plugin';
 $lang['AdminMerchant.basic.text_remove'] = 'Menghapus';
 $lang['AdminMerchant.basic.author_row_add'] = 'Tambahkan Penulis';
-$lang['AdminMerchant.basic.text_options'] = 'Pilihan';
+$lang['AdminMerchant.basic.text_options'] = 'Tindakan';
 $lang['AdminMerchant.basic.author_url'] = 'URL Penulis';
 $lang['AdminMerchant.basic.author_name'] = 'Nama Penulis';
 $lang['AdminMerchant.basic.currencies'] = 'Mata uang';

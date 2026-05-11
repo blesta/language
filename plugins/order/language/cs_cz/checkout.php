@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Pro vybraný platební účet se n
 $lang['Checkout.!error.not_client_owner'] = 'Abyste mohli pokračovat, musíte být přihlášeni jako vlastník klienta.';
 $lang['Checkout.!error.no_payment_info'] = 'Abyste mohli pokračovat, musíte zvolit způsob platby.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Musíte potvrdit svůj souhlas s podmínkami.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Abyste mohli pokračovat, musíte souhlasit s opakovaným účtováním.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Povoluji %1$s, aby ode dneška ukládal můj způsob platby a účtoval %2$s, dokud ho nezruším. Zrušení mohu provést kdykoli online prostřednictvím svého účtu.';
+$lang['Checkout.index.recurring_every'] = 'každý %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'každý %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'a';
 

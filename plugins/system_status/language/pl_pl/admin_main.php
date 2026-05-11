@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Ogólnie system jest w dobrym stanie, al
 $lang['AdminMain.index.health_excellent'] = 'System jest w dobrym stanie i wydaje się działać normalnie.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurować?';
 $lang['AdminMain.index.upload_dir'] = 'Ścieżka katalogu przesyłania w ustawieniach znajduje się w głównym katalogu internetowym.  Powinien być umieszczony powyżej głównego katalogu internetowego, aby zapewnić, że nigdy nie będzie problemu z jego publicznym dostępem.';
+$lang['AdminMain.index.text_info'] = 'Informacje';
+$lang['AdminMain.index.text_warning'] = 'Ostrzeżenie';
+$lang['AdminMain.index.text_error'] = 'Błąd';
+$lang['AdminMain.index.text_success'] = 'Sukces';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'System';
+$lang['AdminMain.index.category_database'] = 'Baza danych';
+$lang['AdminMain.index.category_security'] = 'Bezpieczeństwo';
 

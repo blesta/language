@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,4 +40,42 @@ $lang['AdminMyinfo.!success.notices_updated'] = 'Οι ρυθμίσεις της 
 $lang['AdminMyinfo.!success.updated'] = 'Οι ρυθμίσεις του λογαριασμού σας ενημερώθηκαν με επιτυχία.';
 $lang['AdminMyinfo.index.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
 $lang['AdminMyinfo.index.field_avatar'] = 'Εικόνα προφίλ';
+$lang['AdminMyinfo.!success.notifications_updated'] = 'Οι ρυθμίσεις των ειδοποιήσεών σας ενημερώθηκαν με επιτυχία.';
+$lang['AdminMyinfo.gettabnames.text_notifications'] = 'Ειδοποιήσεις';
+$lang['AdminMyinfo.index.heading_profile_picture'] = 'Εικόνα προφίλ';
+$lang['AdminMyinfo.index.heading_account_information'] = 'Πληροφορίες λογαριασμού';
+$lang['AdminMyinfo.index.heading_two_factor'] = 'Αυθεντικοποίηση δύο παραγόντων';
+$lang['AdminMyinfo.index.heading_additional_settings'] = 'Πρόσθετες ρυθμίσεις';
+$lang['AdminMyinfo.index.link_remove_avatar'] = 'Αφαίρεση εικόνας';
+$lang['AdminMyinfo.index.text_avatar_recommendation'] = 'Συνιστάται: 150x150px, JPG ή PNG, μέγιστο 2MB';
+$lang['AdminMyinfo.index.text_scan_qr'] = 'Σάρωση με την εφαρμογή Authenticator';
+$lang['AdminMyinfo.index.text_authenticator_apps'] = 'Χρησιμοποιήστε το Google Authenticator, το Authy ή οποιαδήποτε εφαρμογή συμβατή με το TOTP';
+$lang['AdminMyinfo.notifications.page_title'] = 'Οι πληροφορίες μου &gt; Ειδοποιήσεις';
+$lang['AdminMyinfo.notifications.heading_notifications'] = 'Ειδοποιήσεις';
+$lang['AdminMyinfo.notifications.field_notificationsubmit'] = 'Ειδοποιήσεις ενημέρωσης';
+$lang['AdminMyinfo.notifications.no_results'] = 'Δεν υπάρχουν διαθέσιμες ειδοποιήσεις για την ομάδα προσωπικού σας.';
+$lang['AdminMyinfo.!success.iconbar_updated'] = 'Οι ρυθμίσεις της γραμμής εικονιδίων σας ενημερώθηκαν με επιτυχία.';
+$lang['AdminMyinfo.!success.iconbar_reset'] = 'Οι ρυθμίσεις της γραμμής εικονιδίων σας επαναφέρθηκαν στις προεπιλεγμένες.';
+$lang['AdminMyinfo.iconbar.page_title'] = 'Οι πληροφορίες μου &gt; Γραμμή εικονιδίων';
+$lang['AdminMyinfo.iconbar.heading_iconbar'] = 'Γραμμή εικονιδίων';
+$lang['AdminMyinfo.iconbar.text_info'] = 'Ρυθμίστε ποια εικονίδια εμφανίζονται στη γραμμή εικονιδίων και τη σειρά τους. Σύρετε τα εικονίδια για να τα αναδιατάξετε, κάντε κλικ στο κουμπί επεξεργασίας για να αλλάξετε το εικονίδιο και χρησιμοποιήστε τα πλαίσια ελέγχου για να ενεργοποιήσετε ή να απενεργοποιήσετε τα εικονίδια. Η γραμμή εικονιδίων παρέχει γρήγορη πρόσβαση σε συχνά χρησιμοποιούμενες λειτουργίες.';
+$lang['AdminMyinfo.iconbar.btn_save'] = 'Αποθήκευση αλλαγών';
+$lang['AdminMyinfo.iconbar.btn_reset'] = 'Επαναφορά στην προεπιλογή';
+$lang['AdminMyinfo.iconbar.btn_create_custom'] = 'Δημιουργία προσαρμοσμένου εικονιδίου';
+$lang['AdminMyinfo.iconbar.modal_create_title'] = 'Δημιουργία προσαρμοσμένου εικονιδίου';
+$lang['AdminMyinfo.iconbar.modal_edit_title'] = 'Επεξεργασία εικονιδίου';
+$lang['AdminMyinfo.iconbar.field_name'] = 'Όνομα';
+$lang['AdminMyinfo.iconbar.field_url'] = 'URL';
+$lang['AdminMyinfo.iconbar.field_icon_class'] = 'Κλάση εικονιδίων (Εικονίδια Bootstrap)';
+$lang['AdminMyinfo.iconbar.field_item_name'] = 'Όνομα στοιχείου';
+$lang['AdminMyinfo.iconbar.text_name_description'] = 'Εισάγετε ένα όνομα για αυτό το στοιχείο της γραμμής εικονιδίων';
+$lang['AdminMyinfo.iconbar.text_url_description'] = 'Εισάγετε τη διεύθυνση URL στην οποία θα πρέπει να παραπέμπει αυτό το εικονίδιο';
+$lang['AdminMyinfo.iconbar.text_icon_description'] = 'Εισάγετε ένα όνομα κλάσης εικονιδίων Bootstrap (π.χ. bi-grid, bi-people, bi-calendar-event).';
+$lang['AdminMyinfo.iconbar.text_browse_icons'] = 'Αναζήτηση εικονιδίων';
+$lang['AdminMyinfo.iconbar.btn_modal_apply'] = 'Εφαρμογή';
+$lang['AdminMyinfo.iconbar.btn_modal_create'] = 'Δημιουργία εικονιδίου';
+$lang['AdminMyinfo.iconbar.btn_modal_cancel'] = 'Ακύρωση';
+$lang['AdminMyinfo.iconbar.confirm_reset'] = 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τη γραμμή εικονιδίων στις προεπιλεγμένες ρυθμίσεις;';
+$lang['AdminMyinfo.iconbar.field_show_ai_chatbot'] = 'Εμφάνιση εικονιδίου Chatbot';
+$lang['AdminMyinfo.iconbar.text_show_ai_chatbot'] = 'Εμφανίστε το εικονίδιο του AI chatbot στη γραμμή εικονιδίων. Αποεπιλέξτε το για να το αφαιρέσετε.';
 

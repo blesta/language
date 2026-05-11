@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'Kunci API';
 $lang['Blockonomics.!error.api_key.valid'] = 'Kunci API tidak valid.';
 $lang['Blockonomics.description'] = 'Menerima Pembayaran Bitcoin, setiap penjualan online disetorkan langsung ke dompet Anda. Tidak diperlukan dokumentasi KYC.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'Pilih mata uang di bawah ini untuk mengonfigurasi UID Produk Induknya.';
 

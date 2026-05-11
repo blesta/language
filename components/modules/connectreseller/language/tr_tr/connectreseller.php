@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.module_row_plural'] = 'Hesaplar';
 $lang['Connectreseller.module_row'] = 'Hesap';
 $lang['Connectreseller.description'] = 'ConnectReseller, alan adı sahipleri için tamamen özel etiketli bir dizi program oluşturan en büyük Kayıt Şirketlerinden biridir.';
 $lang['Connectreseller.name'] = 'ConnectReseller';
+$lang['Connectreseller.back_to_manage'] = 'Geri';
+$lang['Connectreseller.manage.tab_rows'] = 'Sunucular';
+$lang['Connectreseller.manage.tab_groups'] = 'Sunucu Grupları';
 

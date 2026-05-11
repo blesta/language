@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'Tidak ada URL Statis di bagian ini.';
 $lang['AdminMain.urls.latest_file'] = 'File terbaru dari <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Menghapus';
 $lang['AdminMain.urls.edit'] = 'Sunting';
-$lang['AdminMain.urls.heading_options'] = 'Pilihan';
+$lang['AdminMain.urls.heading_options'] = 'Tindakan';
 $lang['AdminMain.urls.heading_link'] = 'Tautan';
 $lang['AdminMain.urls.heading_file'] = 'Mengajukan';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Pengelola Unduhan > Kelola';
 $lang['AdminMain.files.no_downloads'] = 'Tidak ada unduhan di bagian ini.';
 $lang['AdminMain.files.delete'] = 'Menghapus';
 $lang['AdminMain.files.edit'] = 'Sunting';
-$lang['AdminMain.files.go_back'] = 'Naik satu tingkat';
-$lang['AdminMain.files.add_category'] = 'Tambahkan Kategori Di Sini';
+$lang['AdminMain.files.go_back'] = 'Kembali';
+$lang['AdminMain.files.add_category'] = 'Tambah Kategori';
 $lang['AdminMain.files.add_download'] = 'Tambahkan Unduh di sini';
 $lang['AdminMain.files.tab_urls'] = 'URL Statis';
 $lang['AdminMain.files.tab_files'] = 'File';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'File telah berhasil ditambahkan.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategori telah berhasil dihapus.';
 $lang['AdminMain.!success.category_updated'] = 'Kategori telah berhasil diperbarui.';
 $lang['AdminMain.!success.category_added'] = 'Kategori telah berhasil dibuat.';
-$lang['AdminMain.edit.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'File';
+$lang['AdminMain.sidebar.urls'] = 'URL Statis';
+$lang['AdminMain.!performance.xsendfile'] = 'Mod_http2 Apache diaktifkan, tetapi mod_xsendfile tidak. Kami menyarankan untuk mengaktifkan atau menginstal mod_xsendfile untuk kinerja yang lebih baik dan unduhan yang lebih cepat.';
+$lang['AdminMain.modal.confirm_delete'] = 'Konfirmasi Hapus';
+$lang['AdminMain.modal.delete'] = 'Menghapus';
+$lang['AdminMain.modal.cancel'] = 'Batal';
+$lang['AdminMain.modal.save'] = 'Simpan';
+$lang['AdminMain.add.public'] = 'Tersedia untuk umum';
+$lang['AdminMain.add.logged_in'] = 'Harus masuk';
+$lang['AdminMain.add.text_fileinfo'] = 'CATATAN: File harus berada di suatu tempat di dalam direktori unggahan Anda.';
+$lang['AdminMain.add.field_file_type'] = 'Sumber File';
+$lang['AdminMain.add.upload'] = 'Unggah File';
+$lang['AdminMain.add.path'] = 'Menentukan Jalur ke File';
 

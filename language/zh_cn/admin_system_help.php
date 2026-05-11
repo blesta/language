@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = '想知道如何配置 Blesta 
 $lang['AdminSystemHelp.index.heading_user_manual'] = '用户手册';
 $lang['AdminSystemHelp.boxtitle_help'] = '资源';
 $lang['AdminSystemHelp.index.page_title'] = '设置 > 系统 > 帮助 > 资源';
+$lang['AdminSystemHelp.credits.page_title'] = '设置 &gt; 系统 &gt; 帮助 &gt; 关于 Blesta';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = '关于布莱斯塔';
 

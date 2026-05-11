@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.module_row_plural'] = '서버';
 $lang['Whmsonic.module_row'] = '서버';
 $lang['Whmsonic.description'] = '전용 서버 또는 VPS 서버에서 샤우트캐스트, 아이캐스트, 스트리밍 미디어 호스팅, AutoDJ, 라디오 리셀러를 제공할 수 있습니다.';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = '뒤로';
+$lang['Whmsonic.manage.tab_rows'] = '서버';
+$lang['Whmsonic.manage.tab_groups'] = '서버 그룹';
 

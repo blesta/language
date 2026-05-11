@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Настройки';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Автоматично изпращайте напомняния на клиентите да оставят обратна връзка за билети, които са били затворени след определен период от време.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Изпращане на напомняния за обратна връзка';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Обработка на билети с AI';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Анализира билетите с помощта на изкуствен интелект, за да генерира предложения за отговор и автоматично да изпълнява употребите на инструмента (затваряне на спам, назначаване на персонал, промяна на приоритета).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Настройки на AI';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Забележка: Този отговор е генериран от AI и трябва да бъде проверен за точност.*';
 

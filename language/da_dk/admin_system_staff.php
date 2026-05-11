@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['AdminSystemStaff.manage.category_inactive'] = 'Inaktiv';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Tilføj personale';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Navn';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Valgmuligheder';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Handlinger';
 $lang['AdminSystemStaff.manage.no_results'] = 'Der er ingen medarbejdere med denne status.';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Deaktiverer du virkelig denne medarbejder?';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Genaktiverer du virkelig denne medarbejder?';
@@ -66,14 +66,14 @@ $lang['AdminSystemStaff.edit.field_twofactorkey'] = 'To-faktor-nøgle';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'To-faktor pin';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Medlemsgrupper';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Tilgængelige grupper';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Rediger personale';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Opdater personalet';
 $lang['AdminSystemStaff.groups.page_title'] = 'Indstillinger > System > Medarbejdere > Medarbejdergrupper';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Medarbejdergrupper';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Opret gruppe';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Navn';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Virksomhedens navn';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Antal medarbejdere';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Valgmuligheder';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Handlinger';
 $lang['AdminSystemStaff.groups.no_results'] = 'Der er ingen personalegrupper.';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Rediger';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Er du sikker på, at du vil slette denne personalegruppe?';
@@ -97,7 +97,7 @@ $lang['AdminSystemStaff.editgroup.boxtitle_editgroup'] = 'Rediger gruppe';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Navn';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Virksomhed';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Log ud ved ændring af IP-adresse';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Rediger gruppe';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Opdateringsgruppe';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Generelt';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Adgangskontrol-liste';
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'E-mail BCC-meddelelser';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Meddel
 $lang['AdminSystemStaff.editgroup.dialog_confirm_edit_assigned'] = 'Du er i øjeblikket tildelt denne personalegruppe. Alle ændringer, du foretager, træder i kraft med det samme, og du kan muligvis ikke få adgang til dette område igen. Er du sikker på, at du vil foretage disse ændringer?';
 $lang['AdminSystemStaff.add.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
 $lang['AdminSystemStaff.edit.field_recovery_email'] = 'E-mail til gendannelse (valgfri)';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Meddelelser';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Meddelelser';
 

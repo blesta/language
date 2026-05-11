@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.!error.ispconfig_username.test'] = 'Brugernavnet må ikke begyn
 $lang['Ispconfig.!error.ispconfig_username.length'] = 'Brugernavnet skal være mellem 1 og 16 tegn langt.';
 $lang['Ispconfig.!error.ispconfig_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Ispconfig.!error.ispconfig_password.matches'] = 'Password og Confirm Password stemmer ikke overens.';
+$lang['Ispconfig.back_to_manage'] = 'Tilbage';
+$lang['Ispconfig.manage.tab_rows'] = 'Servere';
+$lang['Ispconfig.manage.tab_groups'] = 'Servergrupper';
 

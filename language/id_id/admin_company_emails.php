@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Batal';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Lampiran';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Menghapus';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Apakah Anda yakin ingin menghapus lampiran ini?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Pilihan';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Tindakan';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nama File';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Lampiran Tambahan';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Templat Email';
@@ -149,7 +149,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Pemberitahuan 
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Pembayaran Ditolak (Kartu Kredit)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Pemberitahuan dikirim setelah pembayaran kartu kredit berhasil disetujui.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Pembayaran Disetujui (Kartu Kredit)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Memperbarui';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Menerapkan';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Tidak ada templat jenis ini.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Sunting';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Pilihan';
@@ -189,11 +189,11 @@ $lang['AdminCompanyEmails.!success.editsignature_updated'] = 'Tanda tangan email
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = 'Pengaturan templat email berhasil diperbarui!';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Tidak ada';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Perbarui Template HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Edit Template';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Perbarui Templat';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nama';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Edit Template HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Tambahkan Templat';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Buat Templat';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nama';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Tambahkan Template HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Pemberitahu
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Pembatalan Layanan';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Pemberitahuan dikirim ketika saldo kredit klien berada di bawah ambang batas yang dikonfigurasi.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Pemberitahuan Saldo Rendah';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Subjek yang Disarankan';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Versi teks';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Versi HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Baris subjek';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Menerapkan konten ke:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Kesalahan:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Terlalu banyak permintaan. Mohon tunggu beberapa saat sebelum mencoba lagi.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Pembuatan konten gagal. Silakan coba lagi.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Prompt melebihi panjang maksimum.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Diperlukan prompt untuk menghasilkan konten.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Pembuatan templat email AI tidak diaktifkan.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Fitur AI saat ini dinonaktifkan.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Pratinjau Teks';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Pratinjau HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Klik Buat untuk membuat konten email berdasarkan jenis templat dan tag yang tersedia.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Konten yang Dihasilkan';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Panduan opsional bagi AI untuk menyesuaikan konten yang dihasilkan.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Menambahkan persyaratan khusus atau preferensi nada...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Petunjuk Tambahan';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Memuat permintaan...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Konteks Permintaan';
+$lang['AdminCompanyEmails.ai.generating'] = 'Menghasilkan...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Batal';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Gunakan Konten Ini';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenerasi';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Tulis ulang';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Menghasilkan';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Menulis Ulang Konten Email';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Hasilkan Konten Email';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Asisten Konten AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Dimengerti!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Salin';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 Pengalihan URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Apakah Anda yakin ingin memulihkan snapshot ini? Setiap perubahan yang tidak disimpan akan hilang.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Tidak ada foto yang tersedia untuk templat email ini.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Riwayat Templat';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Kembalikan Snapshot';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Mengembalikan';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Jelajahi File';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Letakkan file di sini atau klik telusuri untuk mengunggah lampiran';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Gunakan tag ini di templat email Anda untuk menyertakan konten dinamis.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Tag yang Tersedia';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Memasukkan versi teks biasa dari email';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Masukkan subjek email';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Masuk dari alamat email';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Masukkan dari nama';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'item yang dipilih';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Salin URL ini dan tambahkan sebagai URI pengalihan resmi di pengaturan aplikasi penyedia OAuth Anda (misalnya, Google Cloud Console, Microsoft Azure Portal). Hal ini diperlukan agar autentikasi OAuth dapat berfungsi.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Templat email telah berhasil dipulihkan dari snapshot!';
 

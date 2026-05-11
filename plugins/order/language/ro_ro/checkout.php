@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Plata nu a putut fi autorizată pe
 $lang['Checkout.!error.not_client_owner'] = 'Trebuie să vă conectați ca proprietar al clientului pentru a continua.';
 $lang['Checkout.!error.no_payment_info'] = 'Trebuie să selectați o metodă de plată pentru a continua.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Trebuie să confirmați că sunteți de acord cu termenii și condițiile.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Trebuie să fiți de acord cu facturarea recurentă pentru a continua.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Autorizez %1$s să stocheze metoda mea de plată și să factureze %2$s începând de astăzi, până la anulare. Pot anula oricând online prin intermediul contului meu.';
+$lang['Checkout.index.recurring_every'] = 'fiecare %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'fiecare %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'și';
 

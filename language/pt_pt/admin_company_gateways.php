@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Atualização';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Definir o gateway de comerciante predefinido para cada moeda.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Gateways de comerciante predefinidos';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Os gateways de comerciante predefinidos foram actualizados com sucesso.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Não foram encontrados gateways correspondentes.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Filtrar gateways...';
 

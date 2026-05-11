@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,5 @@ $lang['MulticraftModule.!error.panel_api_url.empty'] = 'Bitte geben Sie die URL 
 $lang['MulticraftModule.!error.panel_url.empty'] = 'Bitte geben Sie die URL zu Ihrem Multicraft-Bedienfeld ein.';
 $lang['MulticraftModule.!error.server_name.empty'] = 'Bitte geben Sie eine Bezeichnung für diesen Server ein.';
 $lang['MulticraftModule.!error.json.unavailable'] = 'Die JSON-Erweiterung wird von diesem Modul benötigt.';
+$lang['Multicraft.back_to_manage'] = 'Zurück';
 

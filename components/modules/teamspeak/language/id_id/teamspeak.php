@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Server';
 $lang['Teamspeak.module_row'] = 'Server';
 $lang['Teamspeak.description'] = 'TeamSpeak adalah aplikasi Protokol Internet melalui suara untuk komunikasi audio antara pengguna di saluran obrolan.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Kembali';
+$lang['Teamspeak.manage.tab_rows'] = 'Server';
+$lang['Teamspeak.manage.tab_groups'] = 'Grup Server';
 

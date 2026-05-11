@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'VMID التالي (لا تغيره إلا عن
 $lang['Proxmox.row_meta.port'] = 'رقم منفذ SSL';
 $lang['Proxmox.row_meta.host'] = 'اسم المضيف';
 $lang['Proxmox.row_meta.password'] = 'كلمة المرور';
-$lang['Proxmox.row_meta.user'] = 'المستخدم';
+$lang['Proxmox.row_meta.user'] = 'المستخدم (مع تضمين @pam أو @pve بعد اسم المستخدم)';
 $lang['Proxmox.row_meta.server_name'] = 'تسمية الخادم';
 $lang['Proxmox.order_options.first'] = 'أول خادم غير ممتلئ';
 $lang['Proxmox.manage.module_groups_no_results'] = 'لا توجد مجموعات خوادم.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'خادم Proxmox الرئيسي';
 $lang['Proxmox.description'] = 'بيئة بروكسموكس الافتراضية هي بيئة افتراضية مفتوحة المصدر للخوادم. وهو عبارة عن توزيع لينكس مستند إلى دبيان مع نواة Ubuntu LTS معدلة ويتيح نشر وإدارة الأجهزة الافتراضية والحاويات.';
 $lang['Proxmox.!actions.password'] = 'تغيير كلمة المرور';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s أيام، %2$s ساعة، %1$s دقيقة دقيقة';
+$lang['Proxmox.!uptime.value'] = '%1$s أيام، %2$s ساعة، %3$s دقيقة دقيقة';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- يرجى اختيار --';
 $lang['Proxmox.!error.module_row.missing'] = 'حدث خطأ داخلي. صف الوحدة النمطية غير متوفر.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'إلغاء تحميل ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'جبل إيزو';
 $lang['Proxmox.!actions.shutdown'] = 'إيقاف التشغيل';
 $lang['Proxmox.!actions.boot'] = 'الحذاء';
+$lang['Proxmox.back_to_manage'] = 'رجوع';
+$lang['Proxmox.manage.tab_rows'] = 'الخوادم';
+$lang['Proxmox.manage.tab_groups'] = 'مجموعات الخوادم';
+$lang['Proxmox.tab_isomanager'] = 'مدير الأيزو';
+$lang['Proxmox.tab_lxcreinstall'] = 'إعادة التثبيت';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'إعادة التثبيت';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'كلمة المرور الجذرية';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'القالب';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'إعادة التثبيت';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'مدير الأيزو';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'الصورة';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'جبل';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'إلغاء تحميل ISO';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_poor'] = 'Съществуват сериозни 
 $lang['AdminMain.index.health_fair'] = 'Съществуват някои проблеми, които влияят на нормалната работа на системата.';
 $lang['AdminMain.index.health_good'] = 'Като цяло системата е в добро състояние, но има някои елементи, които може да изискват вашето внимание.';
 $lang['AdminMain.index.health_excellent'] = 'Системата е в добро състояние и изглежда функционира нормално.';
+$lang['AdminMain.index.text_info'] = 'Информация';
+$lang['AdminMain.index.text_warning'] = 'Предупреждение';
+$lang['AdminMain.index.text_error'] = 'Грешка';
+$lang['AdminMain.index.text_success'] = 'Успех';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Система';
+$lang['AdminMain.index.category_database'] = 'База данни';
+$lang['AdminMain.index.category_security'] = 'Защита';
 

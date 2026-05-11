@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,36 +27,51 @@ $lang['AdminLogin.setup.heading_create_account'] = 'Skapa ditt personalkonto';
 $lang['AdminLogin.setup.field_newsletter'] = 'Registrera dig för vårt nyhetsbrev. Du kan när som helst avregistrera dig.';
 $lang['AdminLogin.setup.trial_newsletter'] = 'Genom att registrera dig för en testperiod samtycker du till att ta emot e-post från oss under testperioden. Du kan när som helst välja bort detta.';
 $lang['AdminLogin.setup.field_license_key'] = 'Licensnyckel';
-$lang['AdminLogin.setup.title_adminarea'] = 'Inledande inställning';
+$lang['AdminLogin.setup.title_adminarea'] = 'Kom igång med Blesta';
 $lang['AdminLogin.setup.page_title'] = 'Inledande inställning';
 $lang['AdminLogin.confirmreset.link_login'] = 'Avbryt, Logga in';
 $lang['AdminLogin.confirmreset.field_resetsubmit'] = 'Ange lösenord';
 $lang['AdminLogin.confirmreset.field_confirm_password'] = 'Bekräfta nytt lösenord';
 $lang['AdminLogin.confirmreset.field_new_password'] = 'Nytt lösenord';
-$lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Bekräfta Återställ lösenord';
+$lang['AdminLogin.confirmreset.title_adminarea'] = 'Bekräfta lösenord Återställ';
 $lang['AdminLogin.confirmreset.page_title'] = 'Bekräfta Lösenord Återställ';
 $lang['AdminLogin.reset.link_login'] = 'Avbryt, Logga in';
 $lang['AdminLogin.reset.field_resetsubmit'] = 'Återställ lösenord';
 $lang['AdminLogin.reset.field_username'] = 'Användarnamn';
-$lang['AdminLogin.reset.title_adminarea'] = '%1$s | Återställ lösenord';
+$lang['AdminLogin.reset.title_adminarea'] = 'Återställ lösenord';
 $lang['AdminLogin.reset.page_title'] = 'Återställ lösenord';
 $lang['AdminLogin.otp.link_login'] = 'Avbryt, Logga in';
 $lang['AdminLogin.otp.field_loginsubmit'] = 'Logga in';
 $lang['AdminLogin.otp.field_password'] = 'Engångslösenord';
-$lang['AdminLogin.otp.title_adminarea'] = '%1$s | Personalområde';
-$lang['AdminLogin.otp.page_title'] = 'OTP-inloggning';
+$lang['AdminLogin.otp.title_adminarea'] = 'Tvåfaktorsautentisering';
+$lang['AdminLogin.otp.page_title'] = 'Tvåfaktorsautentisering';
 $lang['AdminLogin.index.link_resetpassword'] = 'Återställ mitt lösenord';
 $lang['AdminLogin.index.field_loginsubmit'] = 'Logga in';
 $lang['AdminLogin.index.field_rememberme'] = 'Kom ihåg mig på den här datorn.';
 $lang['AdminLogin.index.field_password'] = 'Lösenord';
 $lang['AdminLogin.index.field_username'] = 'Användarnamn';
-$lang['AdminLogin.index.title_adminarea'] = '%1$s | Personalområde';
+$lang['AdminLogin.index.title_adminarea'] = 'Personalområde';
 $lang['AdminLogin.index.page_title'] = 'Logga in';
 $lang['AdminLogin.!info.step_up_otp'] = 'För att kunna fortsätta måste du verifiera din åtkomst igen genom att ange ditt OTP (engångslösenord) nedan.';
 $lang['AdminLogin.!info.step_up'] = 'För att kunna fortsätta måste du verifiera din åtkomst igen genom att ange ditt lösenord nedan.';
 $lang['AdminLogin.up.link_cancel'] = 'Avbryt';
 $lang['AdminLogin.up.field_loginsubmit'] = 'Verifiera åtkomst';
 $lang['AdminLogin.up.field_password'] = 'Lösenord';
-$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verifiering av åtkomst';
+$lang['AdminLogin.up.title_adminarea'] = 'Verifiering av åtkomst';
 $lang['AdminLogin.up.page_title'] = 'Verifiering av åtkomst';
+$lang['AdminLogin.index.page_subtitle'] = 'Välkommen tillbaka! Om du inte har någon inloggning, kontakta din administratör.';
+$lang['AdminLogin.index.subtitle_adminarea'] = 'Ange dina autentiseringsuppgifter för att få åtkomst till adminpanelen.';
+$lang['AdminLogin.otp.page_subtitle'] = 'Ange ditt engångslösenord för att slutföra inloggningsprocessen.';
+$lang['AdminLogin.otp.subtitle_adminarea'] = 'Ange ditt engångslösenord för att verifiera din identitet.';
+$lang['AdminLogin.up.page_subtitle'] = 'Välkommen tillbaka! Om du inte har någon inloggning, kontakta din administratör.';
+$lang['AdminLogin.up.subtitle_adminarea'] = 'Verifiera din åtkomst för att fortsätta.';
+$lang['AdminLogin.up.field_password_otp'] = 'Engångslösenord';
+$lang['AdminLogin.reset.page_subtitle'] = 'Har du glömt ditt lösenord? Ange ditt användarnamn för att påbörja återställningsprocessen.';
+$lang['AdminLogin.reset.subtitle_adminarea'] = 'Ange ditt användarnamn för att påbörja återställningsprocessen.';
+$lang['AdminLogin.confirmreset.page_subtitle'] = 'Skapa ett nytt lösenord för ditt konto.';
+$lang['AdminLogin.confirmreset.subtitle_adminarea'] = 'Ange ditt nya lösenord nedan.';
+$lang['AdminLogin.setup.page_subtitle'] = 'Konfigurera din Blesta-installation och skapa ditt administratörskonto.';
+$lang['AdminLogin.setup.subtitle_adminarea'] = 'Slutför den inledande konfigurationen för att börja hantera ditt faktureringssystem. Detta tar bara några ögonblick.';
+$lang['AdminLogin.!error.step_up_expired'] = 'Step up-sessionen har löpt ut.';
+$lang['AdminLogin.!success.step_up_extended'] = 'Step up-sessionen har förlängts.';
 

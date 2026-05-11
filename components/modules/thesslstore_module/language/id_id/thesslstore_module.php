@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Silakan masukka
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Silakan masukkan Nama Reseller';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Kredensial sudah ada';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Ada yang salah dalam Panggilan API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Tidak ada produk yang dikembalikan dari API. Periksa kredensial API Anda dan coba lagi.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% Margin akan berlaku untuk harga semua produk. Anda dapat mengubahnya nanti dari menu pengaturan harga.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Ubah Email Pemberi Persetujuan';
 

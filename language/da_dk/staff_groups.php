@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elek
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Info om mulighed for hentning af kuponpakke';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Indstillinger for Fetch-kuponpakken';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Liste over citater';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Gendan snapshot af e-mail-skabelon';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Kontrol af systemintegritet';
 

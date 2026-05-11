@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminReportsCustomize.edit.field_submit'] = 'Speichern Sie';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'entfernen';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Benutzerdefinierte Regex';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Werte (durch Komma getrennt)';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Optionen';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Aktionen';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Erforderlich';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Etikett';
@@ -27,7 +27,7 @@ $lang['AdminReportsCustomize.add.field_submit'] = 'Speichern Sie';
 $lang['AdminReportsCustomize.add.text_remove'] = 'entfernen';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Benutzerdefinierte Regex';
 $lang['AdminReportsCustomize.add.field_values'] = 'Werte (durch Komma getrennt)';
-$lang['AdminReportsCustomize.add.table_options'] = 'Optionen';
+$lang['AdminReportsCustomize.add.table_options'] = 'Aktionen';
 $lang['AdminReportsCustomize.add.table_required'] = 'Erforderlich';
 $lang['AdminReportsCustomize.add.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.add.table_label'] = 'Etikett';
@@ -42,7 +42,7 @@ $lang['AdminReportsCustomize.index.btn_add_report'] = 'Bericht hinzufügen';
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = 'Sind Sie sicher, dass Sie diesen Bericht löschen möchten?';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Löschen';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'bearbeiten';
-$lang['AdminReportsCustomize.index.table_options'] = 'Optionen';
+$lang['AdminReportsCustomize.index.table_options'] = 'Aktionen';
 $lang['AdminReportsCustomize.index.table_created'] = 'Datum der Erstellung';
 $lang['AdminReportsCustomize.index.table_name'] = 'Name';
 $lang['AdminReportsCustomize.index.page_title'] = 'Berichte zur Rechnungsstellung';

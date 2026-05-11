@@ -18,6 +18,7 @@ To install these languages, follow the steps:
 | Deutsch, DE | de_de |
 | Español, ES  | es_es  |
 | Français, FR  | fr_fr  |
+| עברית, IL  | he_il  |
 | Ελληνικά, GR  | el_gr  |
 | Korean, KR  | ko_kr  |
 | Română, RO | ro_ro |

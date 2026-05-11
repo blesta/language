@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Επεξεργασία τύπου πληρωμής';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Ενημέρωση τύπου πληρωμής';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Χρήση Ορισμός γλώσσας';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Τύπος';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Όνομα';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ναι';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Η διαγραφή αυτού του τύπου πληρωμής θα έχει ως αποτέλεσμα όλες οι συναλλαγές που χρησιμοποιούν αυτόν τον τύπο πληρωμής να οριστούν σε "άλλο". Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον τύπο πληρωμής;';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Διαγραφή';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Επεξεργασία';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Επιλογές';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Δράσεις';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Χρήσεις Ορισμός γλώσσας';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Τύπος';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Όνομα';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Οι ρυθμίσεις Ge
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Οι ρυθμίσεις Basic Setup ενημερώθηκαν με επιτυχία!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Ο κατάλογος μεταφόρτωσης πρέπει να υπάρχει και να βρίσκεται εκτός του ριζικού καταλόγου ιστού.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'Το PHP open_basedir είναι ενεργοποιημένο. Η πρόσβαση στα αρχεία περιορίζεται σε: %1$s. Δεν είναι δυνατή η πρόσβαση σε καταλόγους εκτός αυτών των διαδρομών.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Κατάλογος κρυφής μνήμης';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Αυτή η τιμή αντιπροσωπεύει την πλήρη διαδρομή του διακομιστή όπου το Blesta θα πρέπει να γράφει τα αποθηκευμένα αρχεία. Αυτός ο κατάλογος πρέπει να είναι εγγράψιμος από τον χρήστη web και τον χρήστη cron του διακομιστή. Για λόγους ασφαλείας, αυτή η διαδρομή θα πρέπει να βρίσκεται έξω από τη ρίζα του ιστού. αν πρέπει να βρίσκεται μέσα στη ρίζα του ιστού, το Blesta θα γράψει ένα αρχείο .htaccess ως μερικό μετριασμό, αλλά οι διαμορφώσεις διακομιστή που αγνοούν τη .htaccess (όπως ο Nginx) δεν παρέχουν τέτοια προστασία.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Η αλλαγή του καταλόγου cache δεν μπορεί να εφαρμοστεί επειδή το αρχείο marker στο config/cache.dir.php δεν μπορεί να εγγραφεί ή να αφαιρεθεί. Χορηγήστε δικαιώματα εγγραφής στον κατάλογο config (και στο αρχείο marker, αν υπάρχει) και δοκιμάστε ξανά.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Ο κατάλογος cache πρέπει να είναι ένας υπάρχων κατάλογος με δυνατότητα εγγραφής.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.features.type'] = 'Jenis';
 $lang['AdminPlugin.features.confirm'] = 'Berikutnya - Konfirmasi';
 $lang['AdminPlugin.features.text_remove'] = 'Menghapus';
-$lang['AdminPlugin.features.text_options'] = 'Pilihan';
+$lang['AdminPlugin.features.text_options'] = 'Tindakan';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Tambahkan Tugas Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Tambahkan Tab Manajemen Layanan';
 $lang['AdminPlugin.features.placeholder_time'] = 'misalnya 14:25 atau 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Tindakan untuk URI yang digu
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Pengontrol untuk URI yang digunakan untuk menarik konten untuk tindakan (misalnya admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Lokasi di antarmuka untuk menampilkan tindakan';
 $lang['AdminPlugin.integrations.text_remove'] = 'Menghapus';
-$lang['AdminPlugin.integrations.text_options'] = 'Pilihan';
+$lang['AdminPlugin.integrations.text_options'] = 'Tindakan';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Kartu klien adalah kotak kecil yang ditampilkan pada profil klien (di area klien atau admin) dan terutama digunakan untuk menampilkan berbagai statistik (misalnya jumlah layanan, tiket, atau pesanan). Kartu ini terdiri dari nilai, label, latar belakang, dan tautan.  Label ditampilkan di bawah nilai yang diambil dari fungsi callback.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Ini adalah sistem pengait di Blesta.  Event didaftarkan oleh core atau oleh plugin, kemudian plugin mendengarkan event tersebut dan mendefinisikan metode handler untuk event tersebut.  Karena setiap plugin dapat mendaftarkan event, maka jumlah event bisa berapa saja, namun daftar event inti yang didefinisikan oleh blesta dapat ditemukan di sini https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Actions" mewakili halaman-halaman plugin yang dapat diakses melalui antarmuka inti. Ini termasuk tautan navigasi di area admin dan klien, widget di area admin, dan tautan di bilah sisi profil klien. Pengontrol dan tindakan yang dimasukkan di sini akan digunakan untuk menghasilkan file pengontrol sederhana. Selain itu, file tampilan sampel akan dibuat untuk setiap tindakan.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Tambahkan Tindakan';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Integrasi Inti';
 $lang['AdminPlugin.database.integrations'] = 'Berikutnya - Integrasi Inti';
 $lang['AdminPlugin.database.text_remove'] = 'Menghapus';
-$lang['AdminPlugin.database.text_options'] = 'Pilihan';
+$lang['AdminPlugin.database.text_options'] = 'Tindakan';
 $lang['AdminPlugin.database.text_more_info'] = 'Halaman ini digunakan untuk membuat skema untuk tabel basis data yang dihasilkan dan dikelola oleh plugin ini. Kode akan dibuat untuk menambah dan menghapus tabel-tabel ini pada saat instalasi dan penghapusan. Selain itu, file model akan dibuat untuk tabel-tabel ini dengan beberapa fungsi dasar.';
 $lang['AdminPlugin.database.placeholder_length'] = 'misalnya 64 atau \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'contoh: nama_kolom';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Logo yang ditampilkan dalam daftar pl
 $lang['AdminPlugin.basic.tooltip_description'] = 'Deskripsi yang ditampilkan dalam daftar plugin';
 $lang['AdminPlugin.basic.text_remove'] = 'Menghapus';
 $lang['AdminPlugin.basic.author_row_add'] = 'Tambahkan Penulis';
-$lang['AdminPlugin.basic.text_options'] = 'Pilihan';
+$lang['AdminPlugin.basic.text_options'] = 'Tindakan';
 $lang['AdminPlugin.basic.author_url'] = 'URL Penulis';
 $lang['AdminPlugin.basic.author_name'] = 'Nama Penulis';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

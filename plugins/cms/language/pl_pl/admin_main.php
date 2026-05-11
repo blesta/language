@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['AdminMain.index.heading.title'] = 'Tytuł';
 $lang['AdminMain.index.heading.uri'] = 'URI';
 $lang['AdminMain.index.boxtitle'] = 'Strony CMS';
 $lang['AdminMain.index.page_title'] = 'Strony CMS';
+$lang['AdminMain.index.heading.options'] = 'Działania';
+$lang['AdminMain.manage.back'] = 'Powrót do stron';
 

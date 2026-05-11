@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'В этом разделе нет стати�
 $lang['AdminMain.urls.latest_file'] = 'Последний файл из <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Удалить';
 $lang['AdminMain.urls.edit'] = 'Редактировать';
-$lang['AdminMain.urls.heading_options'] = 'Опции';
+$lang['AdminMain.urls.heading_options'] = 'Действия';
 $lang['AdminMain.urls.heading_link'] = 'Ссылка';
 $lang['AdminMain.urls.heading_file'] = 'Файл';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Менеджер загрузки > Упр
 $lang['AdminMain.files.no_downloads'] = 'В этом разделе нет загрузок.';
 $lang['AdminMain.files.delete'] = 'Удалить';
 $lang['AdminMain.files.edit'] = 'Редактировать';
-$lang['AdminMain.files.go_back'] = 'Поднимитесь на уровень выше';
-$lang['AdminMain.files.add_category'] = 'Добавить категорию здесь';
+$lang['AdminMain.files.go_back'] = 'Назад';
+$lang['AdminMain.files.add_category'] = 'Добавить категорию';
 $lang['AdminMain.files.add_download'] = 'Добавить загрузку здесь';
 $lang['AdminMain.files.tab_urls'] = 'Статические URL-адреса';
 $lang['AdminMain.files.tab_files'] = 'Файлы';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Файл успешно добавле
 $lang['AdminMain.!success.category_deleted'] = 'Категория была успешно удалена.';
 $lang['AdminMain.!success.category_updated'] = 'Категория была успешно обновлена.';
 $lang['AdminMain.!success.category_added'] = 'Категория была успешно создана.';
-$lang['AdminMain.edit.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Файлы';
+$lang['AdminMain.sidebar.urls'] = 'Статические URL-адреса';
+$lang['AdminMain.!performance.xsendfile'] = 'В Apache включен mod_http2, но не включен mod_xsendfile. Мы рекомендуем включить или установить mod_xsendfile для повышения производительности и ускорения загрузки.';
+$lang['AdminMain.modal.confirm_delete'] = 'Подтвердить удаление';
+$lang['AdminMain.modal.delete'] = 'Удалить';
+$lang['AdminMain.modal.cancel'] = 'Отмена';
+$lang['AdminMain.modal.save'] = 'Сохранить';
+$lang['AdminMain.add.public'] = 'Общедоступно';
+$lang['AdminMain.add.logged_in'] = 'Необходимо войти в систему';
+$lang['AdminMain.add.text_fileinfo'] = 'ПРИМЕЧАНИЕ: Файлы должны быть расположены в каталоге uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Источник файла';
+$lang['AdminMain.add.upload'] = 'Загрузить файл';
+$lang['AdminMain.add.path'] = 'Укажите путь к файлу';
 

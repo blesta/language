@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = 'Inserire una password di almeno %1$
 $lang['Users.!error.current_password.matches'] = 'Password non valida.';
 $lang['Users.!error.username.unique'] = 'Quel nome utente è già stato preso.';
 $lang['Users.!error.username.empty'] = 'Inserire un nome utente.';
+$lang['Users.!error.password_requirement.length_min'] = 'almeno %1$s caratteri';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'deve corrispondere al modello: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'deve contenere %1$s';
+$lang['Users.!error.password_requirement.length_exact'] = 'esattamente %1$s caratteri';
+$lang['Users.!error.password_requirement.length_between'] = 'tra %1$s e %2$s caratteri';
+$lang['Users.!error.password_requirement.special_char'] = 'carattere speciale';
+$lang['Users.!error.password_requirement.digit'] = 'cifra';
+$lang['Users.!error.password_requirement.uppercase'] = 'lettera maiuscola';
+$lang['Users.!error.password_requirement.lowercase'] = 'lettera minuscola';
+$lang['Users.!error.new_password.format_custom'] = 'La password non soddisfa i requisiti: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'La password deve essere composta da almeno %1$s caratteri e contenere solo numeri.';
+$lang['Users.!error.new_password.format_alpha'] = 'La password deve essere composta da almeno %1$s caratteri e contenere solo lettere.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'La password deve essere composta da almeno %1$s caratteri e contenere solo lettere e numeri.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'La password deve essere composta da almeno %1$s caratteri e non può contenere spazi.';
+$lang['Users.!error.new_password.format_any'] = 'La password deve essere composta da almeno %1$s caratteri.';
 

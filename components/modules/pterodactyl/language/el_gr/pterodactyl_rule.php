@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Το πεδίο %1$s πρέπει ν�
 $lang['PterodactylRule.!error.numeric'] = 'Το πεδίο %1$s πρέπει να περιέχει έναν αριθμό.';
 $lang['PterodactylRule.!error.regex'] = 'Το πεδίο %1$s πρέπει να ταιριάζει με το regex %2$s.';
 $lang['PterodactylRule.!error.required'] = 'Το πεδίο %1$s είναι υποχρεωτικό.';
+$lang['Pterodactyl.back_to_manage'] = 'Πίσω';
 

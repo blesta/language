@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Přid�
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Výchozí hodnota textu';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Výchozí hodnota Zkontrolováno';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Hodnota';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Upravit vlastní pole';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Aktualizace vlastního pole';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Šifrování hodnot';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Vlastní regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Požadované';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Vyža
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Výchozí hodnota textu';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Výchozí hodnota Zkontrolováno';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Hodnota';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Přidání vlastního pole';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Vytvoření vlastního pole';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Šifrování hodnot';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Vlastní regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Požadované';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Název';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Vytvořit pole';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Procházení vlastních polí klienta';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Nastavení > Společnost > Možnosti klienta > Vlastní pole klienta > Procházet';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Odeslat';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Aktualizace nastavení';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Zabránění platbám od neověřených klientů';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'ID klienta Hodnota přírůstku';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID klienta Počáteční hodnota';

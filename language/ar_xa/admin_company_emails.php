@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'إلغاء';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'المرفقات';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'حذف';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'هل أنت متأكد من رغبتك في حذف هذا المرفق؟';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'الخيارات';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'الإجراءات';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'اسم الملف';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'المرفقات الإضافية';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'قالب البريد الإلكتروني';
@@ -170,7 +170,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'الإشعار
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'تم رفض الدفع (بطاقة ائتمان)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'الإشعار المرسل بعد الموافقة على الدفع بالبطاقة الائتمانية بنجاح.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'تمت الموافقة على الدفع (بطاقة ائتمان)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'تحديث';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'قدم طلبك';
 $lang['AdminCompanyEmails.templates.no_results'] = 'لا توجد قوالب من هذا النوع.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'تحرير';
 $lang['AdminCompanyEmails.templates.text_options'] = 'الخيارات';
@@ -203,11 +203,11 @@ $lang['AdminCompanyEmails.htmltemplates.no_results'] = 'لا توجد قوالب
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'إضافة قالب HTML';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'الاسم';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'الكلمات الدلالية';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'إضافة قالب';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'إنشاء قالب';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'تحرير قالب HTML';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'الاسم';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'الوسوم';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'تحرير القالب';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'نموذج التحديث';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'تحديث قالب HTML';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'لا يوجد';
 $lang['AdminCompanyEmails.getoauth2providers.microsoft'] = 'مايكروسوفت';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'إشعار 
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'إلغاء الخدمة';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'يتم إرسال إشعار عندما ينخفض رصيد العميل الائتماني عن الحد الذي تم تكوينه.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'إشعار بانخفاض الرصيد';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'الموضوع المقترح';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'نسخة نصية';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'إصدار HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'سطر الموضوع';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'تطبيق المحتوى على:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'خطأ:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'طلبات كثيرة جداً. يرجى الانتظار لحظة قبل المحاولة مرة أخرى.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'فشل إنشاء المحتوى. يرجى المحاولة مرة أخرى.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'الموجه يتجاوز الحد الأقصى للطول.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'مطلوب موجه لإنشاء المحتوى.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'لم يتم تمكين إنشاء قالب البريد الإلكتروني للذكاء الاصطناعي.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'ميزات الذكاء الاصطناعي معطلة حالياً.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'معاينة النص';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'معاينة HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'انقر فوق إنشاء لإنشاء محتوى البريد الإلكتروني بناءً على نوع القالب والعلامات المتاحة.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'المحتوى الذي تم إنشاؤه';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'إرشادات اختيارية للذكاء الاصطناعي لتخصيص المحتوى الذي تم إنشاؤه.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'أضف متطلبات محددة أو تفضيلات النغمة...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'إرشادات إضافية';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'تحميل المطالبة...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'السياق الموجه';
+$lang['AdminCompanyEmails.ai.generating'] = 'توليد...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'إلغاء';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'استخدام هذا المحتوى';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'توليد';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'تجديد';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'إعادة الكتابة';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'إعادة كتابة محتوى البريد الإلكتروني';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'إنشاء محتوى البريد الإلكتروني';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'مساعد محتوى الذكاء الاصطناعي';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'تم النسخ';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'نسخ';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 إعادة توجيه URI OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'هل أنت متأكد من أنك تريد استعادة هذه اللقطة؟ ستفقد أي تغييرات غير محفوظة.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'لا توجد لقطات متاحة لقالب البريد الإلكتروني هذا.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'تاريخ القالب';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'استعادة اللقطة';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'الاستعادة';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'تصفح الملفات';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'قم بإسقاط الملفات هنا أو انقر فوق تصفح لتحميل المرفقات';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'استخدم هذه العلامات في قالب بريدك الإلكتروني لتضمين محتوى ديناميكي.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'العلامات المتوفرة';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'أدخل نسخة نصية عادية من البريد الإلكتروني';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'أدخل موضوع البريد الإلكتروني';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'أدخل من عنوان البريد الإلكتروني';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'أدخل من الاسم';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'العناصر المختارة';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'انسخ عنوان URL هذا وأضفه كمعرّف URI معتمد لإعادة التوجيه في إعدادات تطبيق موفر OAuth (على سبيل المثال، Google Cloud Console، و Microsoft Azure Portal). هذا مطلوب لكي تعمل مصادقة OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'تمت استعادة قالب البريد الإلكتروني بنجاح من اللقطة!';
 

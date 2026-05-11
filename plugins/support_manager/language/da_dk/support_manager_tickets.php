@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,8 +47,8 @@ $lang['SupportManagerTickets.priority.critical'] = 'Kritisk';
 $lang['SupportManagerTickets.priority.high'] = 'Høj';
 $lang['SupportManagerTickets.priority.medium'] = 'Medium';
 $lang['SupportManagerTickets.priority.low'] = 'Lav';
-$lang['SupportManagerTickets.status.open'] = 'Afventer svar fra personalet';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Afventer svar fra kunden';
+$lang['SupportManagerTickets.status.open'] = 'Venter på personale';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Afventer klient';
 $lang['SupportManagerTickets.status.in_progress'] = 'I gang';
 $lang['SupportManagerTickets.status.on_hold'] = 'I venteposition';
 $lang['SupportManagerTickets.status.closed'] = 'Lukket';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindst én af billetmo
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindst én af billetmodtagerne er dubleret.';
 $lang['SupportManagerTickets.log.service_id'] = 'Den relaterede tjeneste er blevet ændret til internt ID: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" er påkrævet og må ikke være tomt.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Billet nr.%1$s Opdateret';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Ny billet #.%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s svarede på billet nr.%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s åbnede ticket #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Billet nr.%1$s Tildelt';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Billet nr.%1$s tildelt dig: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Billedet kunne ikke uploades. Prøv venligst igen.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Billedet overskrider den maksimalt tilladte størrelse på %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Ugyldig billedtype. Kun JPEG-, PNG-, GIF- og WebP-billeder er tilladt.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Upload-biblioteket kunne ikke oprettes.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Billedet kunne ikke gemmes. Prøv venligst igen.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Inline base64-billeder er ikke tilladt. Indsæt eller træk billeder ind i editoren for at uploade dem.';
 

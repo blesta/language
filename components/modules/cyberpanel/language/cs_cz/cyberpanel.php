@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = 'Servery';
 $lang['Cyberpanel.module_row'] = 'Server';
 $lang['Cyberpanel.description'] = 'CyberPanel je ovládací panel hostingu nové generace založený na technologii OpenLiteSpeed. Vytvořen pro rychlost, bezpečnost a spolehlivost.';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = 'Zpět';
+$lang['Cyberpanel.manage.tab_rows'] = 'Servery';
+$lang['Cyberpanel.manage.tab_groups'] = 'Skupiny serverů';
 

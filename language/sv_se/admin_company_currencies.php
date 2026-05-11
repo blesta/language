@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Är du säker på att du vill uppdatera denna valuta? Den här valutans växelkurs kommer att skrivas över när växelkurserna uppdateras automatiskt i systemet. Du kan inaktivera automatiska uppdateringar under [Inställningar] > [Företag] > [Valutor] > [Valutainställning].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Redigera valuta';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Uppdatera valuta';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Växelkurs';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Symbol för suffix';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Prefixsymbol';

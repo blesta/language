@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.description'] = 'Namecheap, Inc. ist eine von der ICANN akkredi
 $lang['Namecheap.name'] = 'Namecheap';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Aktualisiert automatisch die TLD-Liste und die Preise von Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'TLD-Daten-Synchronisierung';
+$lang['Namecheap.back_to_manage'] = 'Zurück';
 

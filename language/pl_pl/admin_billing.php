@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Drukuj';
 $lang['AdminBilling.printqueue.page_title'] = 'Kolejka wydruku rozliczeń';
 $lang['AdminBilling.invoices.text_edit'] = 'Edytuj';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Do tej faktury nie zastosowano żadnych transakcji.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Opcje';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Działania';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Zastosowano na';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Stosowany';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Kwota';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Błąd';
 $lang['AdminBilling.transactions.category_voided'] = 'Unieważniony';
 $lang['AdminBilling.transactions.category_declined'] = 'Odrzucono';
 $lang['AdminBilling.transactions.category_approved'] = 'Zatwierdzony';
-$lang['AdminBilling.transactions.heading_options'] = 'Opcje';
+$lang['AdminBilling.transactions.heading_options'] = 'Działania';
 $lang['AdminBilling.transactions.heading_date'] = 'Data';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Odniesienie #';
 $lang['AdminBilling.transactions.heading_number'] = 'Liczba';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transakcje';
 $lang['AdminBilling.transactions.page_title'] = 'Transakcje rozliczeniowe';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Powód anulowania: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Ta usługa nie zawiera żadnych szczegółów.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Prześlij';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Zastosuj';
 $lang['AdminBilling.services.action.field_client'] = 'Klient:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push to Client';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Nie anuluj';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Aktywny';
 $lang['AdminBilling.services.confirm_delete'] = 'Czy na pewno chcesz usunąć tę usługę?';
 $lang['AdminBilling.services.option_delete'] = 'Usuń';
 $lang['AdminBilling.services.option_manage'] = 'Zarządzanie';
-$lang['AdminBilling.services.heading_options'] = 'Opcje';
+$lang['AdminBilling.services.heading_options'] = 'Działania';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Data anulowania';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Data zawieszenia';
 $lang['AdminBilling.services.heading_daterenews'] = 'Data odnowienia';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Usługi';
 $lang['AdminBilling.services.page_title'] = 'Usługi rozliczeniowe';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Z tą ofertą nie są powiązane żadne faktury.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Widok';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Opcje';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Działania';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Data naliczenia';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Płatne';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Kwota';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Zatwierdzić';
 $lang['AdminBilling.quotations.option_invoice'] = 'Utwórz fakturę';
 $lang['AdminBilling.quotations.option_view'] = 'Widok';
 $lang['AdminBilling.quotations.option_edit'] = 'Edytuj';
-$lang['AdminBilling.quotations.heading_options'] = 'Opcje';
+$lang['AdminBilling.quotations.heading_options'] = 'Działania';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Data wygaśnięcia';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Data utworzenia';
 $lang['AdminBilling.quotations.heading_total'] = 'Kwota';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Otwarty';
 $lang['AdminBilling.invoices.heading_count'] = 'Liczyć';
 $lang['AdminBilling.invoices.heading_duration'] = 'Czas trwania';
 $lang['AdminBilling.invoices.heading_term'] = 'Termin';
-$lang['AdminBilling.invoices.heading_options'] = 'Opcje';
+$lang['AdminBilling.invoices.heading_options'] = 'Działania';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Data wymagalności';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Data naliczenia';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Data zamknięcia';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Wybrane usługi zostały 
 $lang['AdminBilling.!success.services_suspended'] = 'Wybrane usługi zostały pomyślnie zawieszone.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Ta usługa oczekuje na zmiany.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Data płatności: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'wybrane elementy';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'wybrany element';
+$lang['AdminBilling.transactions.option_view'] = 'Widok';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Działania';
+$lang['AdminBilling.services.text_items_selected'] = 'wybrane elementy';
+$lang['AdminBilling.services.text_item_selected'] = 'wybrany element';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Zastosuj filtry';
+$lang['AdminBilling.services.field_filterclear'] = 'Wyczyść';
+$lang['AdminBilling.services.filter_toggle'] = 'Przełączanie filtrów';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Zastosuj filtry';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Wyczyść';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Przełączanie filtrów';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Kliknij widżety, aby wyświetlić lub ukryć je na pulpicie nawigacyjnym.';
 

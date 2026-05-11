@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s الدقائق';
 $lang['ClientMain.index.any'] = 'أي';
 $lang['ClientMain.index.option_reply'] = 'الرد';
 $lang['ClientMain.index.option_close'] = 'إغلاق';
-$lang['ClientMain.index.heading_options'] = 'الخيارات';
+$lang['ClientMain.index.heading_options'] = 'الإجراءات';
 $lang['ClientMain.index.heading_status'] = 'الحالة';
 $lang['ClientMain.index.heading_last_reply_date'] = 'آخر رد';
 $lang['ClientMain.index.heading_summary'] = 'الملخص';

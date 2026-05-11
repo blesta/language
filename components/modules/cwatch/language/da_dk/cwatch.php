@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -125,4 +125,5 @@ $lang['CWatch.getsitestatuses.ssl_inprogress'] = 'SSL-installation i gang';
 $lang['CWatch.getsitestatuses.ssl_retry'] = 'Forsøger SSL-installation igen';
 $lang['CWatch.getsitestatuses.ssl_completed'] = 'SSL-certifikat tilføjet';
 $lang['CWatch.getsitestatuses.ssl_fail'] = 'Websted tilføjet, SSL-installation mislykkedes';
+$lang['Cwatch.back_to_manage'] = 'Tilbage';
 

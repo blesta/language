@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = 'الخوادم';
 $lang['VirtfusionDirectProvisioning.module_row'] = 'الخادم';
 $lang['VirtfusionDirectProvisioning.description'] = 'إن وحدة VirtFusion Blesta Direct Provisioning هي وحدة نمطية بسيطة يمكنها إنشاء خوادم وإنهائها وتعليقها وإلغاء تعليقها مع جسر تسجيل دخول مباشر بين Blesta و VirtFusion.';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = 'رجوع';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'القمامة';
 $lang['AdminTickets.index.category_closed'] = 'مغلق';
 $lang['AdminTickets.index.category_on_hold'] = 'قيد الانتظار';
 $lang['AdminTickets.index.category_in_progress'] = 'قيد التنفيذ';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'في انتظار رد العميل';
-$lang['AdminTickets.index.category_open'] = 'في انتظار رد الموظفين';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'في انتظار العميل';
+$lang['AdminTickets.index.category_open'] = 'في انتظار الموظفين';
 $lang['AdminTickets.text.unassigned'] = 'غير معيّن';
 $lang['AdminTickets.search.page_title'] = 'نتائج البحث عن "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'مدير الدعم &gt; رقم التذكرة%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'لا توجد جهات اتصال 
 $lang['AdminTickets.!tooltip.recipients'] = 'عنوان البريد الإلكتروني ليتم إعلامك عند تحديث التذكرة.';
 $lang['AdminTickets.!tooltip.contacts'] = 'جهات الاتصال التي سيتم إعلامها عند تحديث التذكرة. ستتم إضافة الأشخاص الذين لم يتم تحديدهم تلقائياً إلى التذكرة إذا استجابوا لها.';
 $lang['AdminTickets.reply.text_domain'] = 'المجال';
-$lang['AdminTickets.reply.heading_rating'] = 'التقييم';
+$lang['AdminTickets.reply.heading_rating'] = 'تقييم العميل';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'تعليق على التقييم';
 $lang['AdminTickets.index.heading_rating'] = 'التقييم';
+$lang['AdminTickets.index.text_fullscreen'] = 'تبديل ملء الشاشة الكاملة';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'الخروج من ملء الشاشة الكاملة';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'أدخل رقم التذكرة';
+$lang['AdminTickets.index.placeholder_summary'] = 'ملخص البحث';
+$lang['AdminTickets.index.heading_filters'] = 'الفلاتر';
+$lang['AdminTickets.index.field_apply_filters'] = 'تطبيق الفلاتر';
+$lang['AdminTickets.index.field_clear_filters'] = 'مسح الفلاتر';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'جهات الاتصال والمستلمون';
+$lang['AdminTickets.add.search_responses'] = 'استجابات البحث...';
+$lang['AdminTickets.add.no_results'] = 'لم يتم العثور على ردود مطابقة';
+$lang['AdminTickets.add.searching'] = 'البحث...';
+$lang['AdminTickets.add.search_min_chars'] = 'أدخل حرفين على الأقل للبحث';
+$lang['AdminTickets.add.heading_ticket_details'] = 'تفاصيل التذكرة';
+$lang['AdminTickets.add.login_as_client'] = 'تسجيل الدخول كعميل';
+$lang['AdminTickets.add.markdown_supported'] = 'دعم تخفيض السعر';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'قم بإسقاط الملفات هنا للتحميل أو انقر لتحديد الملفات';
+$lang['AdminTickets.add.browse_files'] = 'تصفح الملفات';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'مخصص';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'جهات الاتصال والمستلمون';
+$lang['AdminTickets.reply.text_date_rated'] = 'مصنفة: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'على %1$s %2$s %3$s إضافة ملاحظة ';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'تفاصيل التذكرة';
+$lang['AdminTickets.reply.login_as_client'] = 'تسجيل الدخول كعميل';
+$lang['AdminTickets.reply.search_responses'] = 'استجابات البحث...';
+$lang['AdminTickets.reply.no_results'] = 'لم يتم العثور على ردود مطابقة';
+$lang['AdminTickets.reply.searching'] = 'البحث...';
+$lang['AdminTickets.reply.search_min_chars'] = 'أدخل حرفين على الأقل للبحث';
+$lang['AdminTickets.reply.markdown_supported'] = 'دعم تخفيض السعر';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'الملاحظات الداخلية مرئية للموظفين فقط';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'قم بإسقاط الملفات هنا للتحميل أو انقر لتحديد الملفات';
+$lang['AdminTickets.reply.browse_files'] = 'تصفح الملفات';
+$lang['AdminTickets.reply.btn_cancel'] = 'إلغاء';
+$lang['AdminTickets.reply.client_title'] = 'العميل';
+$lang['AdminTickets.reply.note_label'] = 'مذكرة الموظفين';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'توليد استجابة الذكاء الاصطناعي';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'جاهز للاستجابة للذكاء الاصطناعي';
+$lang['AdminTickets.reply.button_regenerate'] = 'تجديد';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'إعادة توليد استجابة الذكاء الاصطناعي';
+$lang['AdminTickets.reply.text_generating'] = 'توليد...';
+$lang['AdminTickets.reply.text_regenerating'] = 'تجديد...';
+$lang['AdminTickets.reply.text_just_now'] = 'الآن فقط';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sمنذ م';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sمنذ ح';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sد منذ';
+$lang['AdminTickets.reply.modal_title'] = 'الاستجابة الناتجة عن الذكاء الاصطناعي';
+$lang['AdminTickets.reply.label_confidence'] = 'الثقة';
+$lang['AdminTickets.reply.label_generated'] = 'تم إنشاؤه';
+$lang['AdminTickets.reply.label_model'] = 'الطراز';
+$lang['AdminTickets.reply.alert_review_required'] = 'المراجعة مطلوبة';
+$lang['AdminTickets.reply.alert_review_text'] = 'تم إنشاء هذا الرد تلقائياً بواسطة الذكاء الاصطناعي. يرجى مراجعته بعناية قبل إرساله لضمان الدقة والنبرة المناسبة.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'الملاحظات الداخلية';
+$lang['AdminTickets.reply.label_suggested_response'] = 'الاستجابة المقترحة';
+$lang['AdminTickets.reply.label_concerns'] = 'الشواغل';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'لم يُقترح أي رد. انظر الملاحظات الداخلية للتعرف على الأسباب.';
+$lang['AdminTickets.reply.button_cancel'] = 'إلغاء';
+$lang['AdminTickets.reply.button_use_response'] = 'استخدم هذا الرد';
+$lang['AdminTickets.reply.button_reject'] = 'رفض';
+$lang['AdminTickets.reply.button_summarize'] = 'تلخيص';
+$lang['AdminTickets.reply.text_ai_summary'] = 'ملخص الذكاء الاصطناعي';
+$lang['AdminTickets.!error.ticket_invalid'] = 'معرف التذكرة غير صالح';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'لم يتم تمكين ميزات الذكاء الاصطناعي لمدير الدعم';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'فشل في توليد استجابة الذكاء الاصطناعي';
+$lang['AdminTickets.!error.analysis_invalid'] = 'معرف التحليل غير صالح';
+$lang['AdminTickets.!error.reply_not_found'] = 'تعذر العثور على الرد المحدد.';
+$lang['AdminTickets.!error.summary_failed'] = 'فشل في إنشاء ملخص.';
 

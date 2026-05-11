@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,5 @@ $lang['MulticraftModule.!error.log_all.format'] = 'Om alle API-anmodninger skal 
 $lang['MulticraftModule.!error.ips.match'] = 'Angiv en IP-adresse for hvert Daemon-sæt.';
 $lang['MulticraftModule.!error.daemons.match'] = 'Angiv et dæmon-ID for hvert IP-adressesæt.';
 $lang['MulticraftModule.!error.ips_in_use.match'] = 'Indstil, om IP-adressen er i brug i øjeblikket, til 1 eller 0.';
+$lang['Multicraft.back_to_manage'] = 'Tilbage';
 

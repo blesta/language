@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = '编辑付款类型';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = '更新付款类型';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = '使用语言定义';
 $lang['AdminSystemGeneral.edittype.field_type'] = '类型';
 $lang['AdminSystemGeneral.edittype.field_name'] = '名称';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = '是';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = '删除此付款类型将导致使用此付款类型的所有交易设置为 "其他"。您确定要删除此付款类型吗？';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = '删除';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = '编辑';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = '选项';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = '行动';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = '用途 语言定义';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = '类型';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = '名称';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP 设置已成功更�
 $lang['AdminSystemGeneral.!success.basic_updated'] = '基本设置设置已成功更新！';
 $lang['AdminSystemGeneral.!error.upload_dir'] = '上传目录必须存在，且位于网络根目录之外。';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir 已启用。文件访问仅限于：%1$s.无法访问这些路径之外的目录。';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = '缓存目录';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = '该值代表 Blesta 应写入缓存文件的完整服务器路径。服务器的网络用户和 cron 用户必须能写入该目录。为安全起见，该路径应位于网站根目录之外；如果必须位于网站根目录之内，Blesta 会写入 .htaccess 文件作为部分缓存，但忽略 .htaccess 的服务器配置（如 Nginx）不提供此类保护。';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = '由于无法写入或删除 config/cache.dir.php 中的标记文件，因此无法应用缓存目录更改。授予配置目录（以及标记文件（如果存在））的写入权限，然后再试一次。';
+$lang['AdminSystemGeneral.!error.cache_dir'] = '缓存目录必须是现有的可写目录。';
 

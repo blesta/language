@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'توقيع البريد ال
 $lang['Emails.!error.text.parse'] = 'خطأ في تحليل القالب: %1$s';
 $lang['Emails.!error.html.parse'] = 'خطأ في تحليل القالب: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'لا تنتمي اللقطة إلى البريد الإلكتروني المحدد.';
+$lang['Emails.!error.snapshot_id.exists'] = 'معرف اللقطة غير صالح.';
 

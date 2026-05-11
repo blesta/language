@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'هذا هو نو�
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'هذا هو اسم حقل النموذج المخفي. استخدم الكمية لإنشاء حقل الكمية.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'هذا هو النص الذي يظهر مباشرة فوق حقل النموذج.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = 'رجوع';
 

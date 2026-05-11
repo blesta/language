@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Будь ласка, введіть
 $lang['Actions.!error.url.empty'] = 'Будь ласка, введіть URL-адресу.';
 $lang['Actions.!error.location.unique'] = 'Місцезнаходження та URL-адреса повинні бути унікальними для цієї компанії.';
 $lang['Actions.!error.location.valid'] = 'Неправильне дійсне місцезнаходження.';
+$lang['Actions.!error.icon.length'] = 'Клас іконки не повинен перевищувати 255 символів.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = '스마트 검�
 $lang['AdminCompanyGeneral.marketing.field_submit'] = '설정 업데이트';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = '고객에게 이메일 마케팅 옵트인/옵트아웃 옵션 제공';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = '마케팅';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = '연락처 유형 편집';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = '연락처 유형 업데이트';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = '언어 정의 사용';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = '이름';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = '연락처 유형 편집';
@@ -55,7 +55,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = '삭제';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = '편집';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = '아니요';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = '예';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = '옵션';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = '작업';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = '언어 정의 사용';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = '이름';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = '연락처 유형';

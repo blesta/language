@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'Účty';
 $lang['Enom.module_row'] = 'Účet';
 $lang['Enom.description'] = 'Společnost Enom, Inc. je registrátor doménových jmen a webhostingová společnost, která prodává také další produkty úzce spojené s doménovými jmény, jako jsou certifikáty SSL, e-mailové služby a software pro tvorbu webových stránek.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Zpět';
 

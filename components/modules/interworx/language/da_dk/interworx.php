@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.!error.api.create_reseller.no_array'] = 'createReseller kræver
 $lang['Interworx.!error.api.create_reseller.missing_fields'] = 'createReseller kræver et brugernavn, en e-mail og en adgangskode';
 $lang['Interworx.!error.api.no_reseller_id'] = 'Dette API-kald kræver reseller_id';
 $lang['Interworx.!error.api.no_accounts'] = 'Ingen konti fundet.';
+$lang['Interworx.back_to_manage'] = 'Tilbage';
+$lang['Interworx.manage.tab_rows'] = 'Servere';
+$lang['Interworx.manage.tab_groups'] = 'Servergrupper';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Tilgængelig)';
 

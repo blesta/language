@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = '您还没有联系人。要添加第
 $lang['ClientContacts.index.confirm_delete'] = '您确定要删除此联系人吗？';
 $lang['ClientContacts.index.option_delete'] = '删除';
 $lang['ClientContacts.index.option_edit'] = '编辑';
-$lang['ClientContacts.index.heading_options'] = '选项';
+$lang['ClientContacts.index.heading_options'] = '行动';
 $lang['ClientContacts.index.heading_type'] = '类型';
 $lang['ClientContacts.index.heading_email'] = '电子邮件';
 $lang['ClientContacts.index.heading_name'] = '名称';

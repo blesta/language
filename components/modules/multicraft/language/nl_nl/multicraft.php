@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'Servers';
 $lang['Multicraft.module_row.name'] = 'Server';
 $lang['Multicraft.name'] = 'Multicraft';
 $lang['Multicraft.!error.module_row.missing'] = 'Er is een interne fout opgetreden. De rij van de module is niet beschikbaar.';
+$lang['Multicraft.back_to_manage'] = 'Terug';
 

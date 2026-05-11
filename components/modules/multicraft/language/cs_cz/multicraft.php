@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'Servery';
 $lang['Multicraft.module_row.name'] = 'Server';
 $lang['Multicraft.name'] = 'Multicraft';
 $lang['Multicraft.!error.module_row.missing'] = 'Došlo k interní chybě. Řádek modulu není k dispozici.';
+$lang['Multicraft.back_to_manage'] = 'Zpět';
 

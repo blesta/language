@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Konfigurační sou
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'Je vyžadováno rozšíření \'%1$s\'. Vaše verze: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'Je vyžadováno rozšíření \'%1$s\'.';
 $lang['SystemRequirements.!error.php.minimum'] = 'Je vyžadována verze PHP %1$s nebo vyšší. Vaše verze: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'Je vyžadována verze MySQL 5.7.7 nebo MariaDB 10.2.2 nebo vyšší. Vaše verze: %1$s.';
 

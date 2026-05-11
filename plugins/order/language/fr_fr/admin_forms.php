@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,7 +32,7 @@ $lang['AdminForms.index.heading_status'] = 'Statut';
 $lang['AdminForms.index.heading_options'] = 'Options';
 $lang['AdminForms.index.option_edit'] = 'Editer';
 $lang['AdminForms.index.option_delete'] = 'Supprimer';
-$lang['AdminForms.index.text_confirm_delete'] = 'Supprimer vraiment ce bon de commande ?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Êtes-vous sûr de vouloir supprimer ce formulaire de commande ?';
 $lang['AdminForms.index.field_status_active'] = 'Actif';
 $lang['AdminForms.index.field_status_inactive'] = 'Inactif';
 $lang['AdminForms.add.tab_basic'] = 'De base';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Lors de la sélection d\'u
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Ventilation des prix mensuels de l\'affichage';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Lors de la sélection d\'un forfait, indiquez le coût mensuel de chaque option tarifaire ainsi que les économies réalisées par mois par rapport au prix mensuel (le cas échéant).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Ventilation des prix mensuels de l\'affichage';
+$lang['AdminForms.index.heading_actions'] = 'Actions';
+$lang['AdminForms.index.back_to_forms'] = 'Retour aux formulaires de commande';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Exiger le consentement pour les abonnements récurrents';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Lorsque cette option est activée, les clients doivent explicitement consentir à la facturation récurrente avant de terminer une commande comportant des éléments récurrents. Cette option remplace la case à cocher Enregistrer les détails du paiement.';
+$lang['AdminForms.add.field_cancel'] = 'Annuler';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Exiger le consentement pour les abonnements récurrents';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Lorsque cette option est activée, les clients doivent explicitement consentir à la facturation récurrente avant de terminer une commande comportant des éléments récurrents. Cette option remplace la case à cocher Enregistrer les détails du paiement.';
+$lang['AdminForms.edit.field_cancel'] = 'Annuler';
+$lang['AdminForms.embed_codes.heading'] = 'Code d\'intégration pour la recherche de domaine';
+$lang['AdminForms.embed_codes.description'] = 'Copiez l\'un des extraits ci-dessous pour intégrer un formulaire de recherche de domaine sur un site externe. Les soumissions ouvriront la caisse de ce formulaire de commande avec le domaine saisi préchargé.';
+$lang['AdminForms.embed_codes.label_first'] = 'Entrez un libellé d\'URL pour ce formulaire de commande afin de générer des codes d\'intégration.';
+$lang['AdminForms.embed_codes.html_plain'] = 'HTML simple';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Avant-première';
+$lang['AdminForms.embed_codes.copy'] = 'Copie';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Le contournement du CSRF est nécessaire pour que la recherche de domaine intégrée fonctionne.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'Les POST provenant d\'un site externe seront rejetés jusqu\'à ce que vous ajoutiez config::preconfig au tableau Blesta.csrf_bypass dans config/blesta.php :';
 

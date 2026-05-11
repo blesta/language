@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Nächste - Bestätigung';
 $lang['AdminPlugin.features.text_remove'] = 'entfernen';
-$lang['AdminPlugin.features.text_options'] = 'Optionen';
+$lang['AdminPlugin.features.text_options'] = 'Aktionen';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Cron-Aufgabe hinzufügen';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Registerkarte Service Management hinzufügen';
 $lang['AdminPlugin.features.placeholder_time'] = 'z.B. 14:25 oder 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Die Aktion für den URI, aus
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Der Controller für den URI, von dem der Inhalt für die Aktion bezogen werden soll (z. B. admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Die Stelle in der Benutzeroberfläche, an der die Aktion angezeigt werden soll';
 $lang['AdminPlugin.integrations.text_remove'] = 'entfernen';
-$lang['AdminPlugin.integrations.text_options'] = 'Optionen';
+$lang['AdminPlugin.integrations.text_options'] = 'Aktionen';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Kundenkarten sind kleine Kästchen, die auf dem Kundenprofil (im Kunden- oder Verwaltungsbereich) angezeigt werden und in erster Linie für die Anzeige verschiedener Statistiken (z. B. Anzahl der Dienstleistungen, Tickets oder Bestellungen) verwendet werden. Sie bestehen aus einem Wert, einem Label, einem Hintergrund und einem Link.  Die Beschriftung wird unterhalb des Wertes angezeigt, der über eine Callback-Funktion abgerufen wird.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Dies ist das Hook-System in Blesta.  Ereignisse werden entweder vom Kern oder von einem Plugin registriert, dann hören Plugins auf diese Ereignisse und definieren Handler-Methoden für das Ereignis.  Da jedes Plugin Ereignisse registrieren kann, kann es eine beliebige Anzahl von ihnen geben. Die Liste der von Blesta definierten Core-Ereignisse finden Sie hier https://docs.blesta.com/display/dev/Event+Handler.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Aktionen" sind Plugin-Seiten, auf die über die Hauptschnittstelle zugegriffen werden kann. Dazu gehören Navigationslinks im Admin- und Kundenbereich, Widgets im Adminbereich und Links in der Seitenleiste des Kundenprofils. Die hier eingegebenen Controller und Aktionen werden verwendet, um einfache Controller-Dateien zu generieren. Darüber hinaus werden für jede Aktion Beispiel-View-Dateien erstellt.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Aktion hinzufügen';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Kern-Integrationen';
 $lang['AdminPlugin.database.integrations'] = 'Nächste - Kernintegrationen';
 $lang['AdminPlugin.database.text_remove'] = 'entfernen';
-$lang['AdminPlugin.database.text_options'] = 'Optionen';
+$lang['AdminPlugin.database.text_options'] = 'Aktionen';
 $lang['AdminPlugin.database.text_more_info'] = 'Diese Seite wird verwendet, um ein Schema für die Datenbanktabellen zu erstellen, die von diesem Plugin erzeugt und verwaltet werden. Es wird Code für das Hinzufügen und Entfernen dieser Tabellen bei der Installation und Deinstallation erzeugt. Darüber hinaus werden für diese Tabellen Modelldateien mit einigen grundlegenden Funktionen erstellt.';
 $lang['AdminPlugin.database.placeholder_length'] = 'z.B. 64 oder \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'z.B. spalte_name';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Das Logo wird in der Plugin-Liste ang
 $lang['AdminPlugin.basic.tooltip_description'] = 'Die in der Plugin-Liste angezeigte Beschreibung';
 $lang['AdminPlugin.basic.text_remove'] = 'entfernen';
 $lang['AdminPlugin.basic.author_row_add'] = 'Autor hinzufügen';
-$lang['AdminPlugin.basic.text_options'] = 'Optionen';
+$lang['AdminPlugin.basic.text_options'] = 'Aktionen';
 $lang['AdminPlugin.basic.author_url'] = 'Autor URL';
 $lang['AdminPlugin.basic.author_name'] = 'Name des Autors';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

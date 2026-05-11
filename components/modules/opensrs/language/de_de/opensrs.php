@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Konten';
 $lang['Opensrs.module_row'] = 'Konto';
 $lang['Opensrs.description'] = 'OpenSRS ist ein Großhandels-Domain-Registrar, der eine erstklassige White-Label-Plattform anbietet, die Reseller-Partner mit den von ihnen benötigten Lösungen verbindet.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Zurück';
 

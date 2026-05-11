@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['ClientAccounts.index.boxtitle_accounts'] = 'Betalingskonti';
 $lang['ClientAccounts.index.heading_name'] = 'Navn';
 $lang['ClientAccounts.index.heading_type'] = 'Type';
 $lang['ClientAccounts.index.heading_last4'] = 'De sidste 4';
-$lang['ClientAccounts.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientAccounts.index.heading_options'] = 'Handlinger';
 $lang['ClientAccounts.index.option_edit'] = 'Rediger';
 $lang['ClientAccounts.index.option_verify'] = 'Bekræft';
 $lang['ClientAccounts.index.option_delete'] = 'Slet';

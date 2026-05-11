@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = '搜索顶级域名';
 $lang['Main.steps.step_1_description'] = '选择域名';
-$lang['OrderTypeDomain.settings.heading_options'] = '选项';
+$lang['OrderTypeDomain.settings.heading_options'] = '行动';
 $lang['OrderTypeDomain.settings.heading_period'] = '期间';
 $lang['OrderTypeDomain.settings.heading_term'] = '学期';
 $lang['OrderTypeDomain.settings.text_term'] = '最短任期和期限';

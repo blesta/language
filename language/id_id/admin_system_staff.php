@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Pember
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Pemberitahuan BCC melalui email';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Daftar Kontrol Akses';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Umum';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Edit Grup';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Perbarui Grup';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Keluar Saat Perubahan Alamat IP';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Perusahaan';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Nama';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Apakah Anda yakin ingin menghapus grup staf ini?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Sunting';
 $lang['AdminSystemStaff.groups.no_results'] = 'Tidak ada kelompok staf.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Pilihan';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Tindakan';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Jumlah Staf';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Nama Perusahaan';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Nama';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Membuat Grup';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Kelompok Staf';
 $lang['AdminSystemStaff.groups.page_title'] = 'Pengaturan > Sistem > Staf > Grup Staf';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Edit Staf';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Perbarui Staf';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Grup yang Tersedia';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Kelompok Anggota';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Pin Dua Faktor';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Sunting';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Benar-benar mengaktifkan kembali anggota staf ini?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Benarkah menonaktifkan anggota staf ini?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Tidak ada anggota staf dengan status ini.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Pilihan';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Tindakan';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Nama';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Tambah Staf';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'Grup staf, "%1$s", telah ber
 $lang['AdminSystemStaff.!success.group_added'] = 'Grup staf, "%1$s", telah berhasil dibuat!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Anggota staf tersebut telah berhasil diperbarui!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Anggota staf tersebut telah berhasil ditambahkan!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Pemberitahuan';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Pemberitahuan';
 

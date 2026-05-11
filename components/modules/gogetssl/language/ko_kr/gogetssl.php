@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.api_password.empty'] = 'API 비밀번호를 입력하세�
 $lang['GoGetSSL.!error.api_username.valid'] = '서버에 연결할 수 없습니다. API 자격 증명이 올바른지 확인하세요.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'API 사용자 아이디를 입력하세요.';
 $lang['GoGetSSL.name'] = 'GoGetSSL';
+$lang['Gogetssl.back_to_manage'] = '뒤로';
 

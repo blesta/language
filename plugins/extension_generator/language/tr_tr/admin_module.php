@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Sonraki - Onaylama';
 $lang['AdminModule.features.text_remove'] = 'Kaldırmak';
-$lang['AdminModule.features.text_options'] = 'Seçenekler';
+$lang['AdminModule.features.text_options'] = 'Eylemler';
 $lang['AdminModule.features.cron_task_row_add'] = 'Cron Görevi Ekleme';
 $lang['AdminModule.features.service_tab_row_add'] = 'Hizmet Yönetimi Sekmesi Ekleme';
 $lang['AdminModule.features.placeholder_time'] = 'örn. 14:25 veya 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Kullanıcıların
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP Kodu';
 $lang['AdminModule.fields.features'] = 'Sonraki - Ek Özellikler';
 $lang['AdminModule.fields.text_remove'] = 'Kaldırmak';
-$lang['AdminModule.fields.text_options'] = 'Seçenekler';
+$lang['AdminModule.fields.text_options'] = 'Eylemler';
 $lang['AdminModule.fields.service_row_add'] = 'Hizmet Alanı Ekle';
 $lang['AdminModule.fields.package_row_add'] = 'Paket Alanı Ekle';
 $lang['AdminModule.fields.module_row_add'] = 'Modül Satır Alanı Ekleme';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD\'ler';
 $lang['AdminModule.basic.static_tlds'] = 'TLD\'leri Statik Olarak Tanımlama';
 $lang['AdminModule.basic.text_remove'] = 'Kaldırmak';
 $lang['AdminModule.basic.author_row_add'] = 'Yazar Ekle';
-$lang['AdminModule.basic.text_options'] = 'Seçenekler';
+$lang['AdminModule.basic.text_options'] = 'Eylemler';
 $lang['AdminModule.basic.author_url'] = 'Yazar URL\'si';
 $lang['AdminModule.basic.author_name'] = 'Yazar Adı';
 $lang['AdminModule.basic.module_type_registrar'] = 'Kayıt Memuru';

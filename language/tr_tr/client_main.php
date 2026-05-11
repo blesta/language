@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!info.service_name'] = '%1$s - %2$s';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'İki Faktörlü Kimlik Doğrulamayı etkinleştirmek veya parolayı güncellemek için gereklidir.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'İki Faktörlü Kimlik Doğrulama';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Kredi Ekle';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Kaldırmak';
 

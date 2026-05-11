@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Messenger-
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Messenger har avinstallerats framgångsrikt.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Messenger har installerats framgångsrikt.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Budbäraren uppgraderades framgångsrikt.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtrera budbärare...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Inga matchande budbärare hittades.';
 

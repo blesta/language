@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = '유효한 JAR 디렉터
 $lang['MulticraftPackage.!error.meta[memory].format'] = '최대 메모리 용량을 MB 단위 정수로 설정하세요.';
 $lang['MulticraftPackage.!error.meta[players].format'] = '허용할 최대 플레이어 슬롯 수를 설정하세요.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = '서버의 이름을 설정하세요.';
+$lang['Multicraft.back_to_manage'] = '뒤로';
 

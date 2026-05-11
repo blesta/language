@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -148,4 +148,7 @@ $lang['Plesk.tab_client_login.field_plesk_password'] = '비밀번호';
 $lang['Plesk.tab_client_login.field_plesk_username'] = '사용자 이름';
 $lang['Plesk.tab_client_login.logintoplesk'] = 'Plesk에 로그인';
 $lang['Plesk.tab_client_login'] = 'Plesk에 로그인';
+$lang['Plesk.back_to_manage'] = '뒤로';
+$lang['Plesk.manage.tab_rows'] = '서버';
+$lang['Plesk.manage.tab_groups'] = '서버 그룹';
 

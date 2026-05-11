@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Je beheert momenteel geen gastena
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Weet je zeker dat je je toegang tot deze account wilt opgeven?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Toegang opgeven';
 $lang['ClientManagers.accounts.option_manage'] = 'Beheer';
-$lang['ClientManagers.accounts.heading_options'] = 'Opties';
+$lang['ClientManagers.accounts.heading_options'] = 'Acties';
 $lang['ClientManagers.accounts.heading_company'] = 'Bedrijf';
 $lang['ClientManagers.accounts.heading_name'] = 'Volledige naam';
 $lang['ClientManagers.accounts.heading_email'] = 'E-mail';
@@ -47,7 +47,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Intrekken';
 $lang['ClientManagers.index.option_edit'] = 'Bewerk';
 $lang['ClientManagers.index.text_status_pending'] = 'In afwachting van';
 $lang['ClientManagers.index.text_status_accepted'] = 'Geaccepteerd';
-$lang['ClientManagers.index.heading_options'] = 'Opties';
+$lang['ClientManagers.index.heading_options'] = 'Acties';
 $lang['ClientManagers.index.heading_status'] = 'Status';
 $lang['ClientManagers.index.heading_company'] = 'Bedrijf';
 $lang['ClientManagers.index.heading_name'] = 'Volledige naam';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['AdminSystemApi.index.heading_user'] = 'Bruger';
 $lang['AdminSystemApi.index.heading_key'] = 'Nøgle';
 $lang['AdminSystemApi.index.heading_company'] = 'Virksomhed';
 $lang['AdminSystemApi.index.heading_date'] = 'Oprettet dato';
-$lang['AdminSystemApi.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminSystemApi.index.heading_options'] = 'Handlinger';
 $lang['AdminSystemApi.index.option_edit'] = 'Rediger';
 $lang['AdminSystemApi.index.option_delete'] = 'Slet';
 $lang['AdminSystemApi.index.no_results'] = 'Der er ingen API-brugere.';
@@ -29,7 +29,7 @@ $lang['AdminSystemApi.add.boxtitle_add'] = 'Tilføj API-bruger';
 $lang['AdminSystemApi.add.field_company'] = 'Virksomhed';
 $lang['AdminSystemApi.add.field_user'] = 'Bruger';
 $lang['AdminSystemApi.add.field_notes'] = 'Noter';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Tilføj bruger';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Opret bruger';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Rediger API-bruger';
 $lang['AdminSystemApi.edit.field_company'] = 'Virksomhed';
 $lang['AdminSystemApi.edit.field_user'] = 'Bruger';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.sql_mariadb_version_serious'] = 'La version de MariaDB ne
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Voir les exigences minimales';
 $lang['AdminMain.index.upload_dir_configure'] = 'Configurer ?';
 $lang['AdminMain.index.upload_dir'] = 'Le chemin du répertoire de téléchargement dans vos paramètres se trouve dans le répertoire web racine.  Il doit être placé au-dessus du répertoire web racine afin de garantir qu\'il ne sera jamais accessible au public.';
+$lang['AdminMain.index.text_info'] = 'Informations';
+$lang['AdminMain.index.text_warning'] = 'Avertissement';
+$lang['AdminMain.index.text_error'] = 'Erreur';
+$lang['AdminMain.index.text_success'] = 'Succès';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Système';
+$lang['AdminMain.index.category_database'] = 'Base de données';
+$lang['AdminMain.index.category_security'] = 'Sécurité';
 

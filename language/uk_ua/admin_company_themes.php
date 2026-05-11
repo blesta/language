@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Таких тем не існу�
 $lang['AdminCompanyThemes.index.option_export'] = 'Експорт';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Видалити';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Редагувати';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Параметри';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Дії';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Ім\'я';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Кольорова гама';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ІДЕНТИФІКАТОР';

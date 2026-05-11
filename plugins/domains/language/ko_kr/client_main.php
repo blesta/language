@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientMain.serviceinfo.parent_service'] = '이 도메인은 <a href="%1$s
 $lang['ClientMain.serviceinfo.no_results'] = '이 도메인에는 세부 정보가 없습니다.';
 $lang['ClientMain.index.text_never'] = '절대로';
 $lang['ClientMain.index.option_manage'] = '관리';
-$lang['ClientMain.index.heading_options'] = '옵션';
+$lang['ClientMain.index.heading_options'] = '작업';
 $lang['ClientMain.index.heading_deletion_date'] = '삭제 날짜';
 $lang['ClientMain.index.heading_suspension_date'] = '일시 중단 날짜';
 $lang['ClientMain.index.heading_expiration_date'] = '만료 날짜';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '{1$s}는 기본 그룹이며
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s가 성공적으로 삭제되었습니다!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s를 성공적으로 편집했습니다!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s가 성공적으로 생성되었습니다!';
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = '그룹 편집';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = '그룹 업데이트';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = '이메일 주소를 사용자 이름으로 적용';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = '회사 설정 사용(아래에서 지정하려면 선택 취소)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = '송장 전달 방법';

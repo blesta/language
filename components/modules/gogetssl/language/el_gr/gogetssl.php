@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = 'Παρακαλώ εισάγετ�
 $lang['GoGetSSL.!error.api_password.empty'] = 'Παρακαλούμε εισάγετε έναν κωδικό πρόσβασης API.';
 $lang['GoGetSSL.!error.api_username.valid'] = 'Δεν κατέστη δυνατή η σύνδεση με τον διακομιστή. Ελέγξτε αν τα διαπιστευτήρια API είναι σωστά.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Παρακαλώ εισάγετε ένα όνομα χρήστη API.';
+$lang['Gogetssl.back_to_manage'] = 'Πίσω';
 

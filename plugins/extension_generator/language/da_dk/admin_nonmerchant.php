@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminNonmerchant.basic.signup_url'] = 'Tilmeldings-URL';
 $lang['AdminNonmerchant.basic.currencies'] = 'Valutaer';
 $lang['AdminNonmerchant.basic.author_name'] = 'Forfatterens navn';
 $lang['AdminNonmerchant.basic.author_url'] = 'Forfatter-URL';
-$lang['AdminNonmerchant.basic.text_options'] = 'Valgmuligheder';
+$lang['AdminNonmerchant.basic.text_options'] = 'Handlinger';
 $lang['AdminNonmerchant.basic.author_row_add'] = 'Tilføj forfatter';
 $lang['AdminNonmerchant.basic.text_remove'] = 'Fjern';
 $lang['AdminNonmerchant.basic.tooltip_description'] = 'Den beskrivelse, der vises i plugin-listen';
@@ -46,7 +46,7 @@ $lang['AdminNonmerchant.fields.tooltip_encryptable'] = 'Om dette felt skal krypt
 $lang['AdminNonmerchant.fields.placeholder_name'] = 'f.eks. konfiguration_felt';
 $lang['AdminNonmerchant.fields.placeholder_label'] = 'f.eks. konfigurationsfelt';
 $lang['AdminNonmerchant.fields.field_row_add'] = 'Tilføj konfigurationsfelt';
-$lang['AdminNonmerchant.fields.text_options'] = 'Valgmuligheder';
+$lang['AdminNonmerchant.fields.text_options'] = 'Handlinger';
 $lang['AdminNonmerchant.fields.text_remove'] = 'Fjern';
 $lang['AdminNonmerchant.fields.features'] = 'Næste - Yderligere funktioner';
 $lang['AdminNonmerchant.features.heading_optional_functions'] = 'Valgfrie funktioner';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Server';
 $lang['Enhance.module_row'] = 'Server';
 $lang['Enhance.description'] = 'Enhance ist ein Shared Hosting Control Panel der nächsten Generation.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Zurück';
+$lang['Enhance.manage.tab_rows'] = 'Server';
+$lang['Enhance.manage.tab_groups'] = 'Server-Gruppen';
+$lang['Enhance.package_fields.package_tooltip'] = 'Geben Sie die Plan-ID aus Ihrem Enhance-Kontrollzentrum ein. Die Pläne konnten nicht automatisch geladen werden.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Penagihan';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Jelajahi Klien';
 $lang['Navigation.getprimary.nav_clients'] = 'Klien';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Dasbor';
-$lang['Navigation.getprimary.nav_home'] = 'Beranda';
+$lang['Navigation.getprimary.nav_home'] = 'Dasbor';
 $lang['Navigation.!error.parent_id.valid'] = 'ID item navigasi induk tidak valid';
 $lang['Navigation.!error.order.valid'] = 'Indeks pesanan harus berupa nilai numerik';
 $lang['Navigation.!error.action_id.valid'] = 'ID tindakan tidak valid';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Antrian Layanan';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Perubahan Layanan';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Faktur Elektronik';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Penanganan Kredit';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

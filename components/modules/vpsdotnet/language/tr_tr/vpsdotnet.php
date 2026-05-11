@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,4 +130,7 @@ $lang['Vpsdotnet.module_row_plural'] = 'Sunucular';
 $lang['Vpsdotnet.module_row'] = 'VPS.NET Ana Sunucu';
 $lang['Vpsdotnet.description'] = 'VPS.NET sanallaştırılmış sunucu barındırma sağlar.';
 $lang['Vpsdotnet.name'] = 'VPS.NET';
+$lang['Vpsdotnet.back_to_manage'] = 'Geri';
+$lang['Vpsdotnet.manage.tab_rows'] = 'Sunucular';
+$lang['Vpsdotnet.manage.tab_groups'] = 'Sunucu Grupları';
 

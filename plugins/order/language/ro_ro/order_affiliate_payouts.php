@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Vă rugăm să selectați 
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'ID-ul metodei de plată invalid.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'ID afiliat invalid.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'ID de plată invalid.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Plată solicitată';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s a solicitat o plată de %2$s';
 

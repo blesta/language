@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Gå tillbaka ti
 $lang['AppController.client_structure.default_title'] = 'Mitt konto';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Återgå till personalportalen';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Underhållsläge är för närvarande aktiverat och kunder kan inte logga in. Klicka här för att ändra.';
+$lang['AppController.structure.text_maintenance'] = 'Underhållsläget är för närvarande aktiverat och klienter kan inte logga in.';
 $lang['AppController.structure.text_logout'] = 'Logga ut';
 $lang['AppController.structure.text_settings'] = 'Inställningar';
 $lang['AppController.structure.text_myinfo'] = 'Min information';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Du är inte behörig att ko
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Släpp filer här för att ladda upp eller klicka för att välja filer';
 $lang['AppController.!error.client_unauthorized_access'] = 'Du har inte behörighet att komma åt den resursen, vänligen kontakta den primära kontoinnehavaren för att begära åtkomst';
-$lang['AppController.structure.text_step_up_access'] = 'Du har för närvarande en step up-session öppen med åtkomst till admininställningar. Klicka här för att släppa åtkomst.';
+$lang['AppController.structure.text_step_up_access'] = 'Du har för närvarande en step up-session öppen med åtkomst till admininställningar.';
+$lang['AppController.structure.text_mark_all_read'] = 'Markera alla som lästa';
+$lang['AppController.structure.text_open'] = 'Öppna';
+$lang['AppController.structure.no_notifications'] = 'Inga nya meddelanden';
+$lang['AppController.structure.text_notifications'] = 'Meddelanden';
+$lang['AppController.structure.text_licensed_to'] = 'Licensierad till %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Förläng sessionen';
+$lang['AppController.structure.text_step_up_access_button'] = 'Avsluta sessionen nu';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Återstående tid:';
+$lang['AppController.structure.text_step_up_access_header'] = 'Steg upp autentisering Aktiv';
+$lang['AppController.structure.text_maintenance_button'] = 'Redigera underhållsläge';
+$lang['AppController.structure.text_maintenance_header'] = 'Underhållsläge aktiverat';
+$lang['AppController.structure.text_iconbar'] = 'Ikonfält';
+$lang['AppController.structure.text_notices'] = 'Meddelanden';
+$lang['AppController.text_loading'] = 'Laddar...';
+$lang['AppController.modal.btn_delete'] = 'Radera';
+$lang['AppController.modal.btn_cancel'] = 'Avbryt';
+$lang['AppController.modal.confirm_delete'] = 'Bekräfta Radera';
 

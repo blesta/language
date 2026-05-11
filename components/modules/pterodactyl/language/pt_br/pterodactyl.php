@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.module_row_plural'] = 'Servidores';
 $lang['Pterodactyl.module_row'] = 'Servidor';
 $lang['Pterodactyl.description'] = 'Disponibiliza e gerencia servidores de jogos por meio do painel Pterodactyl.';
 $lang['Pterodactyl.name'] = 'Pterodactyl';
+$lang['Pterodactyl.back_to_manage'] = 'Voltar';
+$lang['Pterodactyl.manage.tab_rows'] = 'Servidores';
+$lang['Pterodactyl.manage.tab_groups'] = 'Grupos de servidores';
 

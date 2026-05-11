@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.from_email'] = 'من البريد الإلكترو�
 $lang['GenericDomains.manage.to_emails'] = 'إلى رسائل البريد الإلكتروني';
 $lang['GenericDomains.manage.notification_settings_title'] = 'إعدادات الإشعارات';
 $lang['GenericDomains.!tooltip.to_emails'] = 'جميع رسائل البريد الإلكتروني للمستلم، مفصولة بفاصلة.';
+$lang['Generic_domains.back_to_manage'] = 'رجوع';
+$lang['GenericDomains.manage.text_available_tags'] = 'العلامات المتوفرة';
 

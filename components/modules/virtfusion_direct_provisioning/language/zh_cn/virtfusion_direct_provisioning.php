@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = '服务器';
 $lang['VirtfusionDirectProvisioning.module_row'] = '服务器';
 $lang['VirtfusionDirectProvisioning.description'] = 'VirtFusion Blesta Direct Provisioning 模块是一个简单的模块，可通过 Blesta 和 VirtFusion 之间的直接登录桥接创建、终止、暂停和取消暂停服务器。';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = '返回';
 

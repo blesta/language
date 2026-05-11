@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.module_row_plural'] = '服务器';
 $lang['Whmsonic.module_row'] = '服务器';
 $lang['Whmsonic.description'] = '允许您在专用服务器或 VPS 服务器上提供 shoutcast、icecast、流媒体托管、AutoDJ、广播转售。';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = '返回';
+$lang['Whmsonic.manage.tab_rows'] = '服务器';
+$lang['Whmsonic.manage.tab_groups'] = '服务器组';
 

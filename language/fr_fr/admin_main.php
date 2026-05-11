@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminMain.!success.event_edited'] = 'L\'événement a été mis à jour a
 $lang['AdminMain.!success.event_deleted'] = 'L\'événement a été supprimé avec succès !';
 $lang['AdminMain.index.page_title'] = 'Tableau de bord';
 $lang['AdminMain.index.heading_quicklinks'] = 'Liens rapides';
-$lang['AdminMain.index.no_quicklinks'] = 'Aucun lien rapide n\'a été défini.';
+$lang['AdminMain.index.no_quicklinks'] = 'Il n\'y a pas encore de liens rapides. Cliquez sur l\'icône en forme d\'étoile sur n\'importe quelle page pour l\'ajouter ici.';
 $lang['AdminMain.index.manage_widgets'] = 'Gérer les widgets';
 $lang['AdminMain.index.customize_dashboard'] = 'Personnaliser le tableau de bord';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Faites glisser les widgets de la droite vers la gauche pour les ajouter à votre tableau de bord, ou de la gauche vers la droite pour les supprimer.';
@@ -46,4 +46,13 @@ $lang['AdminMain.editevent.field_all_day'] = 'Toute la journée';
 $lang['AdminMain.editevent.field_editeventsubmit'] = 'Événement de mise à jour';
 $lang['AdminMain.editevent.field_deleteeventsubmit'] = 'Supprimer un événement';
 $lang['AdminMain.editevent.confirm_delete'] = 'Supprimer vraiment cet événement ?';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gérer les widgets du tableau de bord';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Fermer';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Supprimer le lien rapide';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Êtes-vous sûr de vouloir supprimer "%1$s" des liens rapides ?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Retirer';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuler';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Cliquez sur les widgets pour les afficher ou les masquer dans votre tableau de bord.';
+$lang['AdminMain.calendar.category_list'] = 'Liste';
+$lang['AdminMain.calendar.category_today'] = 'Aujourd\'hui';
 

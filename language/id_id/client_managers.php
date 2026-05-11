@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Anda saat ini tidak sedang mengel
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Apakah Anda yakin ingin melepaskan akses Anda ke akun ini?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Menyerahkan Akses';
 $lang['ClientManagers.accounts.option_manage'] = 'Mengelola';
-$lang['ClientManagers.accounts.heading_options'] = 'Pilihan';
+$lang['ClientManagers.accounts.heading_options'] = 'Tindakan';
 $lang['ClientManagers.accounts.heading_company'] = 'Perusahaan';
 $lang['ClientManagers.accounts.heading_name'] = 'Nama Lengkap';
 $lang['ClientManagers.accounts.heading_email'] = 'Email';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Mencabut';
 $lang['ClientManagers.index.option_edit'] = 'Sunting';
 $lang['ClientManagers.index.text_status_pending'] = 'Tertunda';
 $lang['ClientManagers.index.text_status_accepted'] = 'Diterima';
-$lang['ClientManagers.index.heading_options'] = 'Pilihan';
+$lang['ClientManagers.index.heading_options'] = 'Tindakan';
 $lang['ClientManagers.index.heading_status'] = 'Status';
 $lang['ClientManagers.index.heading_company'] = 'Perusahaan';
 $lang['ClientManagers.index.heading_name'] = 'Nama Lengkap';

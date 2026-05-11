@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = 'An E-Mails';
 $lang['GenericDomains.manage.from_email'] = 'Von E-Mail';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Einstellungen für Benachrichtigungen';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Alle Empfänger-E-Mails, getrennt durch ein Komma.';
+$lang['Generic_domains.back_to_manage'] = 'Zurück';
+$lang['GenericDomains.manage.text_available_tags'] = 'Verfügbare Tags';
 

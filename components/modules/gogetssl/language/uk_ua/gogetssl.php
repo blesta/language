@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.api_password.empty'] = 'Будь ласка, введіт
 $lang['GoGetSSL.!error.api_username.valid'] = 'Не вдалося встановити з\'єднання з сервером. Будь ласка, перевірте правильність облікових даних API.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Будь ласка, введіть ім\'я користувача API.';
 $lang['GoGetSSL.name'] = 'GoGetSSL';
+$lang['Gogetssl.back_to_manage'] = 'Назад';
 

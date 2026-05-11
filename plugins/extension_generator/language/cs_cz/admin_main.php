@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = 'V tuto chvíli nejsou k dispoz
 $lang['AdminMain.index.text_confirm_delete'] = 'Opravdu chcete toto rozšíření odstranit?';
 $lang['AdminMain.index.option_delete'] = 'Odstranit';
 $lang['AdminMain.index.option_edit'] = 'Upravit';
-$lang['AdminMain.index.heading_options'] = 'Možnosti';
+$lang['AdminMain.index.heading_options'] = 'Akce';
 $lang['AdminMain.index.heading_date_updated'] = 'Datum aktualizace';
 $lang['AdminMain.index.heading_code_examples'] = 'Příklady kódů';
 $lang['AdminMain.index.heading_form_type'] = 'Typ formuláře';

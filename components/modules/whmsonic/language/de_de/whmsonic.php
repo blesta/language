@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.module_row_plural'] = 'Server';
 $lang['Whmsonic.module_row'] = 'Server';
 $lang['Whmsonic.description'] = 'Ermöglicht es Ihnen, Shoutcast, Icecast, Streaming Media Hosting, AutoDJ, Radio Reseller von Ihrem Dedicated oder VPS Server anzubieten.';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = 'Zurück';
+$lang['Whmsonic.manage.tab_rows'] = 'Server';
+$lang['Whmsonic.manage.tab_groups'] = 'Server-Gruppen';
 

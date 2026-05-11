@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Sunteți sigur că doriți să ap
 $lang['AdminPayouts.index.option_decline'] = 'Declin';
 $lang['AdminPayouts.index.option_approve'] = 'Aprobarea';
 $lang['AdminPayouts.index.option_edit'] = 'Editați';
-$lang['AdminPayouts.index.heading_options'] = 'Opțiuni';
+$lang['AdminPayouts.index.heading_options'] = 'Acțiuni';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Data solicitată';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Moneda plătită';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Suma plătită';

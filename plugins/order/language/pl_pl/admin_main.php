@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Powiadomienia o zamówienia
 $lang['AdminMain.orderinfo.services_no_results'] = 'W tej kolejności nie ma żadnych usług.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Nigdy';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Zarządzanie';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Opcje';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Działania';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Data odnowienia';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Data dodania';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Termin';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Pakiet';
 $lang['AdminMain.orderinfo.services_heading'] = 'Usługi';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Do tego zamówienia nie zastosowano żadnych transakcji.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Edytuj';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Opcje';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Działania';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Zastosowano na';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Stosowany';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Kwota';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Zamówienia';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Ustawienia afiliacyjne zostały zaktualizowane.';
 $lang['AdminMain.!success.settings_updated'] = 'Ustawienia zamówienia zostały pomyślnie zaktualizowane.';
 $lang['AdminMain.!success.status_updated'] = 'Wybrane zamówienia zostały pomyślnie zaktualizowane.';
+$lang['AdminMain.index.paid'] = 'Płatne';
+$lang['AdminMain.index.unpaid'] = 'Nieopłacony';
+$lang['AdminMain.index.loading'] = 'Ładowanie...';
+$lang['AdminMain.index.text_items_selected'] = 'wybrane elementy';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Identyfikator transakcji';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Data';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Usługa';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'W toku';
+$lang['AdminMain.settings.text_notifications'] = 'Skonfiguruj sposób otrzymywania powiadomień o nowych zamówieniach.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Skonfiguruj sposób otrzymywania powiadomień o wypłatach dla partnerów.';
 

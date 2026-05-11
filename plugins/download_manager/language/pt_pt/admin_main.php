@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.edit.text_full_path'] = 'NOTA: Os ficheiros devem estar localizados algures no seu diretório de uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'NOTA: Os ficheiros devem estar localizados algures no seu diretório de uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'NOTA: Os ficheiros devem estar localizados algures no seu diretório de uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOTA: Os ficheiros devem estar localizados algures no seu diretório de uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Cancelar';
 $lang['AdminMain.editcategory.submit_edit'] = 'Categoria de atualização';
@@ -78,7 +78,7 @@ $lang['AdminMain.urls.no_urls'] = 'Não existem URLs estáticos nesta secção.'
 $lang['AdminMain.urls.latest_file'] = 'Último ficheiro de <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Eliminar';
 $lang['AdminMain.urls.edit'] = 'Editar';
-$lang['AdminMain.urls.heading_options'] = 'Opções';
+$lang['AdminMain.urls.heading_options'] = 'Acções';
 $lang['AdminMain.urls.heading_link'] = 'Ligação';
 $lang['AdminMain.urls.heading_file'] = 'Ficheiro';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -90,8 +90,8 @@ $lang['AdminMain.urls.page_title'] = 'Gestor de transferências &gt; Gerir';
 $lang['AdminMain.files.no_downloads'] = 'Não existem transferências nesta secção.';
 $lang['AdminMain.files.delete'] = 'Eliminar';
 $lang['AdminMain.files.edit'] = 'Editar';
-$lang['AdminMain.files.go_back'] = 'Subir um nível';
-$lang['AdminMain.files.add_category'] = 'Adicionar categoria aqui';
+$lang['AdminMain.files.go_back'] = 'Voltar';
+$lang['AdminMain.files.add_category'] = 'Adicionar categoria';
 $lang['AdminMain.files.add_download'] = 'Adicionar transferência aqui';
 $lang['AdminMain.files.tab_urls'] = 'URLs estáticos';
 $lang['AdminMain.files.tab_files'] = 'Ficheiros';
@@ -115,4 +115,17 @@ $lang['AdminMain.!success.file_added'] = 'O ficheiro foi adicionado com sucesso.
 $lang['AdminMain.!success.category_deleted'] = 'A categoria foi eliminada com êxito.';
 $lang['AdminMain.!success.category_updated'] = 'A categoria foi actualizada com sucesso.';
 $lang['AdminMain.!success.category_added'] = 'A categoria foi criada com sucesso.';
+$lang['AdminMain.sidebar.files'] = 'Ficheiros';
+$lang['AdminMain.sidebar.urls'] = 'URLs estáticos';
+$lang['AdminMain.!performance.xsendfile'] = 'O mod_http2 do Apache está ativado, mas o mod_xsendfile não está. Recomendamos ativar ou instalar o mod_xsendfile para um melhor desempenho e transferências mais rápidas.';
+$lang['AdminMain.modal.confirm_delete'] = 'Confirmar Apagar';
+$lang['AdminMain.modal.delete'] = 'Eliminar';
+$lang['AdminMain.modal.cancel'] = 'Cancelar';
+$lang['AdminMain.modal.save'] = 'Guardar';
+$lang['AdminMain.add.public'] = 'Disponível publicamente';
+$lang['AdminMain.add.logged_in'] = 'Tem de ter sessão iniciada';
+$lang['AdminMain.add.text_fileinfo'] = 'NOTA: Os ficheiros devem estar localizados algures no seu diretório de uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Fonte do ficheiro';
+$lang['AdminMain.add.upload'] = 'Carregar ficheiro';
+$lang['AdminMain.add.path'] = 'Especificar o caminho para o ficheiro';
 

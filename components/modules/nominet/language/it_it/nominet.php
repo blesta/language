@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = 'Conti';
 $lang['Nominet.module_row'] = 'Conto';
 $lang['Nominet.description'] = 'Nominet è il registro dei nomi di dominio che gestisce il dominio di primo livello .UK.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = 'Indietro';
+$lang['Nominet.manage.tab_rows'] = 'Server';
+$lang['Nominet.manage.tab_groups'] = 'Gruppi di server';
 

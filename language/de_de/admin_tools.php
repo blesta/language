@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Regel hinzufügen';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Regel erstellen';
 $lang['AdminTools.blacklistadd.field_note'] = 'Hinweis';
 $lang['AdminTools.blacklistadd.field_type'] = 'Typ';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regel';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Löschen';
 $lang['AdminTools.blacklist.text_system'] = 'System';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-Mail Adresse';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP-Adresse';
-$lang['AdminTools.blacklist.heading_options'] = 'Optionen';
+$lang['AdminTools.blacklist.heading_options'] = 'Aktionen';
 $lang['AdminTools.blacklist.heading_note'] = 'Hinweis';
 $lang['AdminTools.blacklist.heading_list'] = 'Liste';
 $lang['AdminTools.blacklist.heading_type'] = 'Typ';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Änderung Maximum';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Rechnung ansehen';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Sind Sie sicher, dass Sie diesen Dienst aus der Erneuerungswarteschlange entfernen möchten?';
-$lang['AdminTools.renewals.heading_options'] = 'Optionen';
+$lang['AdminTools.renewals.heading_options'] = 'Aktionen';
 $lang['AdminTools.renewals.heading_invoice'] = 'Rechnung';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maximale Versuche';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Fehlgeschlagene Versuche';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Bitte aktua
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Aktualisieren Sie den Zeichensatz und die Sortierung Ihrer Datenbank, Tabellen und Spalten auf utf8mb4, um 4-Byte-Zeichen wie Emojis zu unterstützen.  Dies kann einige Minuten dauern.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Aktualisierung auf utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Datenbankzusammenstellung aktualisieren';
-$lang['AdminTools.utilities.heading_options'] = 'Optionen';
+$lang['AdminTools.utilities.heading_options'] = 'Aktionen';
 $lang['AdminTools.utilities.heading_description'] = 'Beschreibung';
 $lang['AdminTools.utilities.heading_utility'] = 'Dienstprogramm';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Versorgungsunternehmen';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Es gibt derzeit keine Dienste
 $lang['AdminTools.renewals.no_results_provision'] = 'Derzeit stehen keine Dienste in der Warteschlange für die Bereitstellung.';
 $lang['AdminTools.!notice.conditions_met'] = 'Die Sendungen erscheinen erst dann in der vorgesehenen Warteschlange, wenn alle Bedingungen erfüllt sind und sie zum Versuch bereit sind.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Die Dienständerungen wurden erfolgreich storniert.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Ausgehende Nachrichten blockieren';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Ausgehende E-Mails an diese Adresse blockieren';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Ausgehende Nachrichten blockieren';
 $lang['AdminTools.renewals.no_results_changes'] = 'Derzeit stehen keine Dienständerungen zur Bereitstellung an.';
 $lang['AdminTools.renewals.option_retry'] = 'Wiederholung';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Status';
 $lang['AdminTools.renewals.category_changes'] = 'Änderungen im Dienst';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Unbezahlte Erneuerung';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Die Dienständerungen wurden erfolgreich geplant.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Überprüfte %1$s Dateien: %2$s OK, %3$s geändert, %4$s fehlt.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Die Manifestdatei (manifest.json) wurde nicht gefunden. Diese Datei ist in offiziellen Versionen enthalten und wird benötigt, um eine Integritätsprüfung durchzuführen.';
+$lang['AdminTools.integritycheck.text_error'] = 'Beim Prüfen von Dateien ist ein Fehler aufgetreten.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Alle Dateien stimmen mit dem Manifest überein. Keine Änderungen oder fehlende Dateien festgestellt.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Dateien insgesamt';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Anbieter';
+$lang['AdminTools.integritycheck.category_core'] = 'Kern';
+$lang['AdminTools.integritycheck.status_missing'] = 'Fehlt';
+$lang['AdminTools.integritycheck.status_modified'] = 'Geändert';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategorie';
+$lang['AdminTools.integritycheck.heading_file'] = 'Datei';
+$lang['AdminTools.integritycheck.heading_status'] = 'Status';
+$lang['AdminTools.integritycheck.text_checking'] = 'Dateien werden überprüft, bitte warten. Dies kann einen Moment dauern...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Wieder laufen';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Bericht herunterladen';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Integritätsprüfung durchführen';
+$lang['AdminTools.integritycheck.text_description'] = 'Überprüfen Sie die installierten Dateien anhand des mit dieser Version gelieferten Manifests. Dies prüft die Dateiintegrität durch den Vergleich von SHA256-Hashes und kann helfen, geänderte Dateien zu identifizieren, was bei der Fehlersuche und vor der Durchführung von Upgrades nützlich ist.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Prüfung der Systemintegrität';
+$lang['AdminTools.integritycheck.page_title'] = 'Prüfung der Systemintegrität';
+$lang['AdminTools.!success.cache_cleared'] = 'Der Dateicache wurde erfolgreich geleert.';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Überprüfen Sie die Kerndateien anhand des ausgelieferten Manifests, um geänderte oder fehlende Dateien zu identifizieren.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Kontrolle durchführen';
+$lang['AdminTools.utilities.integrity_check'] = 'Prüfung der Systemintegrität';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Löschen Sie zwischengespeicherte Dateien, einschließlich Navigation, Ansichten und Plugin-Caches. Dies kann dazu führen, dass die Seite etwas langsamer geladen wird, bis die Caches wiederhergestellt sind.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Cache löschen';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Dateicache löschen';
+$lang['AdminTools.getlognames.text_system'] = 'System';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifest-Version: %1$s (erstellt %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Derzeit stehen keine Dienste zur Erneuerung nach Zahlung an.';
+$lang['AdminTools.logsystem.page_title'] = 'Tools Protokolle';
+$lang['AdminTools.logsystem.text_date'] = 'Datum';
+$lang['AdminTools.logsystem.text_level'] = 'Ebene';
+$lang['AdminTools.logsystem.text_message'] = 'Nachricht';
+$lang['AdminTools.logsystem.no_results'] = 'Es gibt keine Systemprotokolleinträge.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Das Protokollverzeichnis ist nicht konfiguriert oder kann nicht gelesen werden. Konfigurieren Sie es unter Einstellungen &gt; System &gt; Allgemein.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Notfall';
+$lang['AdminTools.logsystem.level_alert'] = 'Alarmierung';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritisch';
+$lang['AdminTools.logsystem.level_error'] = 'Fehler';
+$lang['AdminTools.logsystem.level_warning'] = 'Warnung';
+$lang['AdminTools.logsystem.level_notice'] = 'Hinweis';
+$lang['AdminTools.logsystem.level_info'] = 'Infos';
+$lang['AdminTools.logsystem.level_debug'] = 'Debuggen';
 

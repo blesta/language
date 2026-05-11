@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Здесь нет тем так�
 $lang['AdminCompanyThemes.index.option_export'] = 'Экспорт';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Удалить';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Редактировать';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Опции';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Действия';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Имя';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Цветовая гамма';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.edittemplate.field.tags'] = 'Tilgængelige tags';
 $lang['AdminCompanyMessengers.edittemplate.field.status'] = 'Aktiveret';
 $lang['AdminCompanyMessengers.edittemplate.field.cancel'] = 'Annuller';
 $lang['AdminCompanyMessengers.edittemplate.field.edittemplatesubmit'] = 'Opdater skabelon';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtrer budbringere...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Ingen matchende budbringere fundet.';
 

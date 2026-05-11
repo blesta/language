@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = 'الحسابات';
 $lang['Vultr.module_row'] = 'الحساب';
 $lang['Vultr.description'] = 'لوحة تحكم Vultr تجعل إدارة الخوادم بسيطة وبديهية. فالمهام الشائعة مثل طلب الخوادم، وإدارة النسخ الاحتياطية، وضبط التحكم بالوصول على بعد بضع نقرات فقط.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = 'رجوع';
 

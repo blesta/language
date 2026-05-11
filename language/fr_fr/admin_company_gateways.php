@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Mise à jour';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Définir la passerelle marchande par défaut pour chaque devise.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Passerelles marchandes par défaut';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Les passerelles marchandes par défaut ont été mises à jour avec succès.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Aucune passerelle correspondante n\'a été trouvée.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Passerelles de filtrage ...';
 

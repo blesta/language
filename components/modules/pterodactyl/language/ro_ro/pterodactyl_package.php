@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Intervalul de port
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Dacă se utilizează un IP dedicat trebuie să fie setat la 1 sau 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'ID-ul locației nu se potrivește cu niciunul din Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'ID-ul locației trebuie să fie numeric.';
+$lang['Pterodactyl.back_to_manage'] = 'Înapoi';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -342,4 +342,5 @@ $lang['Logicboxes.tab_forwarder.meta_tags'] = '메타 태그';
 $lang['Logicboxes.tab_forwarder.url_masking'] = 'URL 마스킹';
 $lang['Logicboxes.tab_forwarder.forward_to'] = '전달 대상';
 $lang['Logicboxes.tab_forwarder.title'] = '도메인 포워딩';
+$lang['Logicboxes.back_to_manage'] = '관리로 돌아가기';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Dodaj 
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Domyślna wartość tekstowa';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Sprawdzona wartość domyślna';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Wartość';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Edytuj pole niestandardowe';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Zaktualizuj pole niestandardowe';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Szyfrowanie wartości';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex niestandardowy';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Wymagane';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Wymag
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Domyślna wartość tekstowa';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Sprawdzona wartość domyślna';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Wartość';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Dodaj pole niestandardowe';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Utwórz pole niestandardowe';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Szyfrowanie wartości';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex niestandardowy';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Wymagane';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nazwa';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Utwórz pole';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Przeglądaj pola niestandardowe klienta';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Ustawienia > Firma > Opcje klienta > Pola niestandardowe klienta > Przeglądaj';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Prześlij';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Ustawienia aktualizacji';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Zapobieganie płatnościom od niezweryfikowanych klientów';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Wartość przyrostu identyfikatora klienta';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID klienta Wartość początkowa';

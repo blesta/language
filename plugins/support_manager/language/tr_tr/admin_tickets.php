@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,7 +56,7 @@ $lang['AdminTickets.reply.heading_summary'] = 'Özet';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Bilet #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Dosyayı Kaldır';
 $lang['AdminTickets.add.dropzone_drop_files_here'] = 'Yüklemek için dosyaları buraya bırakın veya dosyaları seçmek için tıklayın';
-$lang['AdminTickets.add.text_add_response'] = 'Önceden Tanımlanmış Yanıt Ekleme';
+$lang['AdminTickets.add.text_add_response'] = 'Önceden Tanımlanmış Yanıt Ekle';
 $lang['Admintickets.add.client_placeholder'] = 'Müşteri Kimliği veya Adı';
 $lang['AdminTickets.add.field_addsubmit'] = 'Açık Bilet';
 $lang['AdminTickets.add.text_add_attachment'] = 'Eklenti Ekle';
@@ -104,8 +104,8 @@ $lang['AdminTickets.index.category_trash'] = 'Çöp';
 $lang['AdminTickets.index.category_closed'] = 'Kapalı';
 $lang['AdminTickets.index.category_on_hold'] = 'Beklemede';
 $lang['AdminTickets.index.category_in_progress'] = 'Devam Ediyor';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Müşteri Yanıtı Bekleniyor';
-$lang['AdminTickets.index.category_open'] = 'Personel Cevabı Bekleniyor';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Müşteri Bekleniyor';
+$lang['AdminTickets.index.category_open'] = 'Bekleyen Personel';
 $lang['AdminTickets.text.unassigned'] = 'Atanmamış';
 $lang['AdminTickets.search.page_title'] = '"%1$s" için Arama Sonuçları';
 $lang['AdminTickets.reply.page_title'] = 'Destek Yöneticisi > Bilet #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Seçilen müşteri için ek kişi 
 $lang['AdminTickets.!tooltip.recipients'] = 'Bir bilet güncellendiğinde bilgilendirilmek için e-posta adresi.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Bir destek talebi güncellendiğinde bilgilendirilecek kişiler. Seçili olmayanlar, yanıt vermeleri halinde bilete otomatik olarak eklenecektir.';
 $lang['AdminTickets.reply.text_domain'] = 'Etki Alanı';
-$lang['AdminTickets.reply.heading_rating'] = 'Değerlendirme';
+$lang['AdminTickets.reply.heading_rating'] = 'Müşteri Değerlendirmesi';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Değerlendirme Yorum';
 $lang['AdminTickets.index.heading_rating'] = 'Değerlendirme';
+$lang['AdminTickets.index.text_fullscreen'] = 'Tam Ekranı Aç / Kapat';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Tam Ekrandan Çık';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Bilet numarasını girin';
+$lang['AdminTickets.index.placeholder_summary'] = 'Arama özeti';
+$lang['AdminTickets.index.heading_filters'] = 'Filtreler';
+$lang['AdminTickets.index.field_apply_filters'] = 'Filtreleri Uygula';
+$lang['AdminTickets.index.field_clear_filters'] = 'Filtreleri Temizle';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Kişiler ve Alıcılar';
+$lang['AdminTickets.add.search_responses'] = 'Arama yanıtları...';
+$lang['AdminTickets.add.no_results'] = 'Eşleşen yanıt bulunamadı';
+$lang['AdminTickets.add.searching'] = 'Aranıyor.';
+$lang['AdminTickets.add.search_min_chars'] = 'Arama yapmak için en az 2 karakter girin';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Bilet Detayları';
+$lang['AdminTickets.add.login_as_client'] = 'Müşteri Olarak Giriş Yapın';
+$lang['AdminTickets.add.markdown_supported'] = 'Markdown desteklenir';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Yüklemek için dosyaları buraya bırakın veya dosyaları seçmek için tıklayın';
+$lang['AdminTickets.add.browse_files'] = 'Dosyalara Gözat';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Özel';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Kişiler ve Alıcılar';
+$lang['AdminTickets.reply.text_date_rated'] = 'Oylandı: %1$s';
+$lang['AdminTickets.reply.note_date'] = '%1$s adresinde %2$s %3$s bir not ekledi';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Bilet Detayları';
+$lang['AdminTickets.reply.login_as_client'] = 'Müşteri Olarak Giriş Yapın';
+$lang['AdminTickets.reply.search_responses'] = 'Arama yanıtları...';
+$lang['AdminTickets.reply.no_results'] = 'Eşleşen yanıt bulunamadı';
+$lang['AdminTickets.reply.searching'] = 'Aranıyor.';
+$lang['AdminTickets.reply.search_min_chars'] = 'Arama yapmak için en az 2 karakter girin';
+$lang['AdminTickets.reply.markdown_supported'] = 'Markdown desteklenir';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Dahili notlar yalnızca personel tarafından görülebilir';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Yüklemek için dosyaları buraya bırakın veya dosyaları seçmek için tıklayın';
+$lang['AdminTickets.reply.browse_files'] = 'Dosyalara Gözat';
+$lang['AdminTickets.reply.btn_cancel'] = 'İptal';
+$lang['AdminTickets.reply.client_title'] = 'Müşteri';
+$lang['AdminTickets.reply.note_label'] = 'Personel Notu';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Yapay Zeka Yanıtı Oluşturun';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Yapay Zeka Yanıt Vermeye Hazır';
+$lang['AdminTickets.reply.button_regenerate'] = 'Yenilenme';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Yapay Zeka Yanıtını Yeniden Oluştur';
+$lang['AdminTickets.reply.text_generating'] = 'Üretmek...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Yenileniyor...';
+$lang['AdminTickets.reply.text_just_now'] = 'Hemen şimdi';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sM önce';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh önce';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd önce';
+$lang['AdminTickets.reply.modal_title'] = 'Yapay Zeka Tarafından Oluşturulan Yanıt';
+$lang['AdminTickets.reply.label_confidence'] = 'Güven';
+$lang['AdminTickets.reply.label_generated'] = 'Oluşturuldu';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'İnceleme Gerekli';
+$lang['AdminTickets.reply.alert_review_text'] = 'Bu yanıt yapay zeka tarafından otomatik olarak oluşturulmuştur. Lütfen göndermeden önce doğruluğundan ve uygun tondan emin olmak için dikkatlice gözden geçirin.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Dahili Notlar';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Önerilen Yanıt';
+$lang['AdminTickets.reply.label_concerns'] = 'Endişeler';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Yanıt önerilmemiştir. Gerekçe için dahili notlara bakınız.';
+$lang['AdminTickets.reply.button_cancel'] = 'İptal';
+$lang['AdminTickets.reply.button_use_response'] = 'Bu Yanıtı Kullanın';
+$lang['AdminTickets.reply.button_reject'] = 'Reddet';
+$lang['AdminTickets.reply.button_summarize'] = 'Özetleyin';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Yapay Zeka Özeti';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Geçersiz bilet kimliği';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Destek Yöneticisi için yapay zeka özellikleri etkinleştirilmemiştir';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Yapay zeka yanıtı oluşturulamadı';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Geçersiz analiz kimliği';
+$lang['AdminTickets.!error.reply_not_found'] = 'Belirtilen yanıt bulunamadı.';
+$lang['AdminTickets.!error.summary_failed'] = 'Özet oluşturulamadı.';
 

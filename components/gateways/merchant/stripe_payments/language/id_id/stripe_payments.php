@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Jangan hapus instalasi gatew
 $lang['StripePayments.text_migrate_accounts'] = 'Anda dapat secara otomatis memigrasikan akun pembayaran yang disimpan di luar lokasi oleh gateway Stripe yang lama ke gateway Pembayaran Stripe ini. Akun yang tidak disimpan di luar lokasi harus dimigrasi dengan membuat akun pembayaran baru secara manual. Untuk mencegah timeout, migrasi akan dilakukan dalam batch %1$s. Jalankan proses ini sebanyak yang diperlukan untuk memigrasi semua akun pembayaran.';
 $lang['StripePayments.text_accounts_remaining'] = 'Sisa Rekening: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrasi Akun Pembayaran Lama';
-$lang['StripePayments.webhook_note'] = 'Disarankan untuk mengonfigurasi url berikut ini sebagai Webhook untuk peristiwa "payment_intent" di akun Stripe Anda.';
+$lang['StripePayments.webhook_note'] = 'Disarankan untuk mengonfigurasi url berikut ini sebagai Webhook untuk peristiwa "payment_intent" dan "charge" di akun Stripe Anda.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Kunci Rahasia API Anda khusus untuk mode live atau uji coba. Pastikan Anda menggunakan kunci yang benar.';
 $lang['StripePayments.tooltip_publishable_key'] = 'API Publishable Key Anda dikhususkan untuk mode live atau uji coba. Pastikan Anda menggunakan kunci yang benar.';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.name'] = 'Interworx';
 $lang['Interworx.tab_stats.disk_value'] = '%1$s MB';
 $lang['Interworx.tab_stats.bandwidth_value'] = '%1$s GB';
 $lang['Interworx.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Interworx.back_to_manage'] = 'Geri';
+$lang['Interworx.manage.tab_rows'] = 'Sunucular';
+$lang['Interworx.manage.tab_groups'] = 'Sunucu Grupları';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Mevcut)';
 

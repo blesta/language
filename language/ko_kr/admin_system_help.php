@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = 'Blesta를 구성하는 방법
 $lang['AdminSystemHelp.index.heading_user_manual'] = '사용자 설명서';
 $lang['AdminSystemHelp.boxtitle_help'] = '리소스';
 $lang['AdminSystemHelp.index.page_title'] = '설정 > 시스템 > 도움말 > 리소스';
+$lang['AdminSystemHelp.credits.page_title'] = '설정 &gt; 시스템 &gt; 도움말 &gt; Blesta 정보';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'Blesta 소개';
 

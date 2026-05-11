@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Yükleme dizini mevcut olmalı ve kök web dizininin dışında olmalıdır.';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Ödeme Türünü Düzenle';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Ödeme Türünü Güncelle';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Dil Tanımını Kullanın';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Tip';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'İsim';
@@ -30,7 +30,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Evet';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Bu ödeme türünün silinmesi, bu ödeme türünü kullanan tüm işlemlerin "diğer" olarak ayarlanmasına neden olacaktır. Bu ödeme türünü silmek istediğinizden emin misiniz?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Silme';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Düzenle';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Seçenekler';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Eylemler';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Dil Tanımını Kullanır';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Tip';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'İsim';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.basic_updated'] = 'Temel Kurulum ayarları ba
 $lang['AdminSystemGeneral.geoip.text_database_not_exists'] = '%1$s mevcut değil.';
 $lang['AdminSystemGeneral.geoip.text_database_exists'] = '%1$s var.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir etkinleştirildi. Dosya erişimi şu şekilde sınırlandırılmıştır: %1$s. Bu yolların dışındaki dizinlere erişilemez.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Önbellek Dizini';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Bu değer, Blesta\'nın önbelleğe alınmış dosyaları yazması gereken tam sunucu yolunu temsil eder. Bu dizin sunucunun web kullanıcısı ve cron kullanıcısı tarafından yazılabilir olmalıdır. Güvenlik için, bu yol web kökünün dışında olmalıdır; web kökünün içinde olması gerekiyorsa, Blesta kısmi bir hafifletme olarak bir .htaccess dosyası yazacaktır, ancak .htaccess\'i yok sayan sunucu yapılandırmaları (Nginx gibi) böyle bir koruma sağlamaz.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'config/cache.dir.php adresindeki işaretleyici dosyası yazılamadığı veya kaldırılamadığı için önbellek dizini değişikliği uygulanamıyor. Config dizinine (ve varsa işaretleyici dosyasına) yazma izni verin ve tekrar deneyin.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Önbellek dizini mevcut yazılabilir bir dizin olmalıdır.';
 

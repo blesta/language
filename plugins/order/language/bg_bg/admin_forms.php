@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Изоставена поръчк�
 $lang['AdminForms.add.tab_basic'] = 'Основен';
 $lang['AdminForms.index.field_status_inactive'] = 'Неактивен';
 $lang['AdminForms.index.field_status_active'] = 'Активен';
-$lang['AdminForms.index.text_confirm_delete'] = 'Наистина ли изтривате този формуляр за поръчка?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Сигурни ли сте, че искате да изтриете този формуляр за поръчка?';
 $lang['AdminForms.index.option_delete'] = 'Изтриване на';
 $lang['AdminForms.index.option_edit'] = 'Редактиране на';
 $lang['AdminForms.index.heading_options'] = 'Опции';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'При избора на �
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Разбивка на месечните цени на дисплея';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'При избора на пакет покажете месечните разходи за всеки вариант на ценообразуване, както и икономиите на месец в сравнение с месечната цена (ако е приложимо).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Разбивка на месечните цени на дисплея';
+$lang['AdminForms.index.heading_actions'] = 'Действия';
+$lang['AdminForms.index.back_to_forms'] = 'Обратно към Формуляри за поръчка';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Изискване на съгласие за повтарящи се абонаменти';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Когато е разрешено, клиентите трябва изрично да се съгласят с периодичното фактуриране, преди да завършат поръчка с повтарящи се елементи. Това замества квадратчето за отметка Запазване на данните за плащането.';
+$lang['AdminForms.add.field_cancel'] = 'Отмяна на';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Изискване на съгласие за повтарящи се абонаменти';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Когато е разрешено, клиентите трябва изрично да се съгласят с периодичното фактуриране, преди да завършат поръчка с повтарящи се елементи. Това замества квадратчето за отметка Запазване на данните за плащането.';
+$lang['AdminForms.edit.field_cancel'] = 'Отмяна на';
+$lang['AdminForms.embed_codes.heading'] = 'Вграждане на код за търсене на домейни';
+$lang['AdminForms.embed_codes.description'] = 'Копирайте един от фрагментите по-долу, за да вградите формуляр за търсене на домейн във външен сайт. Подадените данни ще отворят касата на този формуляр за поръчка с предварително заредения въведен домейн.';
+$lang['AdminForms.embed_codes.label_first'] = 'Въведете URL етикет за този формуляр за поръчка, за да генерирате кодове за вграждане.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Обикновен HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Преглед';
+$lang['AdminForms.embed_codes.copy'] = 'Копие';
+$lang['AdminForms.embed_codes.csrf_required'] = 'CSRF байпасът е необходим, за да работи вграденото търсене в домейна.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POST-ите от външен сайт ще бъдат отхвърляни, докато не добавите config::preconfig към масива Blesta.csrf_bypass в config/blesta.php:';
 

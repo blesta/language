@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'Додати п�
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Ви впевнені, що хочете видалити цей спосіб оплати?';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Видалити';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Редагувати';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Параметри';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Дії';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Ім\'я';
 $lang['AdminPaymentMethods.index.no_results'] = 'Наразі способів оплати немає.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Додати партнерський спосіб оплати';

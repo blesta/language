@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.manage.module_rows.count'] = '%1$s / %2$s';
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP 주소';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP 주소가 유효하지 않은 것 같습니다.';
 $lang['DirectAdmin.row_meta.http_version'] = 'HTTP 버전';
+$lang['DirectAdmin.back_to_manage'] = '뒤로';
+$lang['DirectAdmin.manage.tab_rows'] = '서버';
+$lang['DirectAdmin.manage.tab_groups'] = '서버 그룹';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.settings.actions_description'] = 'Las acciones define
 $lang['AdminCompanyPlugins.settings.actions_uri'] = 'URI: %1$s';
 $lang['AdminCompanyPlugins.settings.actions_heading_sub'] = 'Opciones secundarias';
 $lang['AdminCompanyPlugins.settings.actions_heading_secondary'] = 'Opciones secundarias';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtrar plugins...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'No se han encontrado plugins coincidentes.';
 

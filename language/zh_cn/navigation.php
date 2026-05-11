@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = '账单';
 $lang['Navigation.getprimary.nav_clients_browse'] = '浏览客户';
 $lang['Navigation.getprimary.nav_clients'] = '客户';
 $lang['Navigation.getprimary.nav_home_dashboard'] = '仪表板';
-$lang['Navigation.getprimary.nav_home'] = '首页';
+$lang['Navigation.getprimary.nav_home'] = '仪表板';
 $lang['Navigation.!error.parent_id.valid'] = '父导航项 ID 无效';
 $lang['Navigation.!error.order.valid'] = '订单索引必须是数值';
 $lang['Navigation.!error.action_id.valid'] = '无效的操作 ID';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = '服务队列';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = '服务变化';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = '电子发票';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = '信用处理';
+$lang['Navigation.getsystem.nav_ai'] = '人工智能';
 

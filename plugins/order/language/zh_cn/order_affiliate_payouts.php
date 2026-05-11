@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = '请选择有效的付款�
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = '付款方式 ID 无效。';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = '联盟 ID 无效。';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = '无效支付 ID。';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = '要求的付款';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s 要求支付%2$s';
 

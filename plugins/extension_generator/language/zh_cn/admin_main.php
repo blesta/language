@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = '目前没有延期。';
 $lang['AdminMain.index.text_confirm_delete'] = '您确定要删除此扩展名吗？';
 $lang['AdminMain.index.option_delete'] = '删除';
 $lang['AdminMain.index.option_edit'] = '编辑';
-$lang['AdminMain.index.heading_options'] = '选项';
+$lang['AdminMain.index.heading_options'] = '行动';
 $lang['AdminMain.index.heading_date_updated'] = '更新日期';
 $lang['AdminMain.index.heading_code_examples'] = '代码示例';
 $lang['AdminMain.index.heading_form_type'] = '表格类型';

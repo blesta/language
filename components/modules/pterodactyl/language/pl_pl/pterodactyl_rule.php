@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Pole %1$s musi zawierać liczbę cał
 $lang['PterodactylRule.!error.numeric'] = 'Pole %1$s musi zawierać liczbę.';
 $lang['PterodactylRule.!error.regex'] = 'Pole %1$s musi być zgodne z wyrażeniem regularnym %2$s.';
 $lang['PterodactylRule.!error.required'] = 'Pole %1$s jest wymagane.';
+$lang['Pterodactyl.back_to_manage'] = 'Powrót';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.tooltip.server_description'] = 'La desc
 $lang['PterodactylService.service_fields.server_id'] = 'ID de servidor (opcional)';
 $lang['PterodactylService.service_fields.tooltip.server_id'] = 'El ID del servidor en el panel Pterodáctilo. Esto sólo debe utilizarse cuando se está vinculando este servicio a un servidor preexistente.';
 $lang['PterodactylService.service_fields.optional'] = '%1$s (Opcional)';
+$lang['Pterodactyl.back_to_manage'] = 'Volver';
 

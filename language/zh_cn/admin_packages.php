@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = '家长小组';
 $lang['AdminPackages.groups.confirm_delete'] = '您确定要删除此软件包组吗？分配给该组的任何软件包将不再分配给该组，并且可能无法使用。';
 $lang['AdminPackages.groups.option_delete'] = '删除';
 $lang['AdminPackages.groups.option_edit'] = '编辑';
-$lang['AdminPackages.groups.heading_options'] = '选项';
+$lang['AdminPackages.groups.heading_options'] = '行动';
 $lang['AdminPackages.groups.heading_type'] = '类型';
 $lang['AdminPackages.groups.heading_name'] = '名称';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = '包组';
@@ -198,12 +198,12 @@ $lang['AdminPackages.index.no_results'] = '没有具有这种状态的软件包�
 $lang['AdminPackages.index.option_delete'] = '删除';
 $lang['AdminPackages.index.option_copy'] = '复制';
 $lang['AdminPackages.index.option_edit'] = '编辑';
-$lang['AdminPackages.index.field_actionsubmit'] = '提交';
+$lang['AdminPackages.index.field_actionsubmit'] = '申请';
 $lang['AdminPackages.index.action.delete'] = '删除软件包';
 $lang['AdminPackages.index.category_inactive'] = '不活动';
 $lang['AdminPackages.index.category_restricted'] = '受限制';
 $lang['AdminPackages.index.category_active'] = '活跃';
-$lang['AdminPackages.index.heading_options'] = '选项';
+$lang['AdminPackages.index.heading_options'] = '行动';
 $lang['AdminPackages.index.heading_qty'] = '数量';
 $lang['AdminPackages.index.heading_module'] = '模块';
 $lang['AdminPackages.index.heading_name'] = '名称';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_added'] = '软件包已成功创建。';
 $lang['AdminPackages.add.text_default'] = '默认值';
 $lang['AdminPackages.edit.text_default'] = '默认值';
 $lang['AdminPackages.!tooltip.single_term'] = '如果选中此选项，使用此套餐的新服务将不会续订，而是在初始期限结束时自动取消。';
+$lang['AdminPackages.ai.email_preview_text'] = '生成的电子邮件文本：';
+$lang['AdminPackages.ai.email_preview_html'] = '生成电子邮件 HTML：';
+$lang['AdminPackages.ai.email_use_button'] = '使用此电子邮件';
+$lang['AdminPackages.ai.email_generating'] = '生成电子邮件...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = '说明欢迎电子邮件的内容（例如，"欢迎新客户，说明服务设置）';
+$lang['AdminPackages.ai.email_modal_title'] = '生成欢迎电子邮件';
+$lang['AdminPackages.ai.generate_email_button'] = '利用人工智能生成电子邮件';
+$lang['AdminPackages.ai.prompt_context_info'] = '背景信息：';
+$lang['AdminPackages.ai.prompt_description_prefix'] = '为该产品/服务包生成专业描述。';
+$lang['AdminPackages.ai.prompt_email_prefix'] = '为该产品/服务包生成一封专业的欢迎电子邮件，欢迎客户并提供有关新服务的有用信息。';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = '重写并改进这些内容，同时保持相同的一般信息：';
+$lang['AdminPackages.ai.initial_instructions'] = '查看上述提示，添加任何其他说明，然后单击 "生成 "创建内容。';
+$lang['AdminPackages.ai.prompt_loading'] = '加载提示...';
+$lang['AdminPackages.ai.prompt_context_label'] = '提示语境';
+$lang['AdminPackages.ai.additional_instructions_help'] = '提供任何具体细节或要求，供人工智能在描述中包含。';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = '例如，提供 24/7 全天候支持信息，提及 30 天退款保证......';
+$lang['AdminPackages.ai.additional_instructions_label'] = '附加说明（可选）';
+$lang['AdminPackages.ai.error_prefix'] = '错误：';
+$lang['AdminPackages.ai.error_generation_failed'] = '生成描述失败';
+$lang['AdminPackages.ai.error_prompt_required'] = '请输入提示';
+$lang['AdminPackages.ai.apply_text'] = '文本版本';
+$lang['AdminPackages.ai.apply_html'] = 'HTML 版本';
+$lang['AdminPackages.ai.apply_content_label'] = '将内容应用于';
+$lang['AdminPackages.ai.error_feature_disabled'] = '软件包描述 AI 功能未启用';
+$lang['AdminPackages.ai.error_disabled'] = '未启用人工智能功能';
+$lang['AdminPackages.ai.regenerating'] = '再生...';
+$lang['AdminPackages.ai.generating'] = '生成...';
+$lang['AdminPackages.ai.btn_cancel'] = '取消';
+$lang['AdminPackages.ai.btn_regenerate'] = '再生';
+$lang['AdminPackages.ai.btn_use'] = '使用说明';
+$lang['AdminPackages.ai.btn_generate'] = '生成';
+$lang['AdminPackages.ai.preview_text'] = '生成文本：';
+$lang['AdminPackages.ai.preview_html'] = '生成 HTML：';
+$lang['AdminPackages.ai.tone_technical'] = '技术';
+$lang['AdminPackages.ai.tone_casual'] = '休闲';
+$lang['AdminPackages.ai.tone_professional'] = '专业人员';
+$lang['AdminPackages.ai.tone'] = '音调';
+$lang['AdminPackages.ai.generate_text'] = '生成文本（Markdown）';
+$lang['AdminPackages.ai.generate_html'] = '生成 HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = '描述软件包的功能、目标受众等...';
+$lang['AdminPackages.ai.use_content_button'] = '使用本内容';
+$lang['AdminPackages.ai.regenerate_button'] = '再生';
+$lang['AdminPackages.ai.no_context'] = '无背景资料';
+$lang['AdminPackages.ai.context_type_email'] = '欢迎电子邮件';
+$lang['AdminPackages.ai.context_type_description'] = '包装说明';
+$lang['AdminPackages.ai.context_type'] = '类型';
+$lang['AdminPackages.ai.context_module'] = '模块';
+$lang['AdminPackages.ai.context_package'] = '包装';
+$lang['AdminPackages.ai.generated_content_label'] = '生成内容：';
+$lang['AdminPackages.ai.context_label'] = '背景：';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI 重写说明';
+$lang['AdminPackages.ai.modal_title_generate'] = '人工智能生成的说明';
+$lang['AdminPackages.ai.modal_title'] = '人工智能生成的内容';
+$lang['AdminPackages.ai.rewrite_button'] = '重写';
+$lang['AdminPackages.ai.generate_button'] = '生成';
+$lang['AdminPackages.index.field_filtersubmit'] = '应用过滤器';
+$lang['AdminPackages.index.field_filterclear'] = '清晰';
+$lang['AdminPackages.index.filter_toggle'] = '切换过滤器';
+$lang['AdminPackages.index.items_selected'] = '所选项目';
 

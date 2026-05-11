@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'O plug-in foi ativado com êxit
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'O plug-in foi atualizado com sucesso.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'O plug-in foi desinstalado com sucesso.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'O plug-in foi instalado com êxito. Ele pode ter registrado permissões ACL para vários recursos. Talvez seja necessário conceder ao seu grupo de funcionários acesso a essas permissões para que possam acessar esses recursos.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtrar plug-ins...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Não foram encontrados plug-ins correspondentes.';
 

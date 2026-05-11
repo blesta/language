@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'يُرجى تحديد حا
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'معرف طريقة الدفع غير صالح.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'معرّف العميل غير صالح.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'معرف الدفع غير صالح.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'المبلغ المطلوب دفعه';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s طلب دفع تعويضات بقيمة %2$s';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = '付款类型';
 $lang['ClientInvoices.index.no_results'] = '您没有 %1$s 发票。';
 $lang['ClientInvoices.index.option_pay'] = '薪酬';
 $lang['ClientInvoices.index.option_view'] = '查看';
-$lang['ClientInvoices.index.heading_options'] = '选项';
+$lang['ClientInvoices.index.heading_options'] = '行动';
 $lang['ClientInvoices.index.heading_datedue'] = '到期日期';
 $lang['ClientInvoices.index.heading_datebilled'] = '账单日期';
 $lang['ClientInvoices.index.heading_dateclosed'] = '关闭日期';

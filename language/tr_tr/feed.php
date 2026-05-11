@@ -4,11 +4,11 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.disabled'] = 'Bu veri akışı devre dışıdır, etkinleştirmek için personel alanındaki Ayarlar > Şirket > Akışlar bölümünü ziyaret edin.';
 $lang['Feed.!error.invalid'] = 'İstenen kaynak mevcut değil veya geçersiz.';
+$lang['Feed.!error.disabled'] = 'Bu veri akışı devre dışıdır, etkinleştirmek için personel alanındaki Ayarlar > Şirket > Akışlar bölümünü ziyaret edin.';
 

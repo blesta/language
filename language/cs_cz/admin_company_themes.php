@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = 'Neexistují žádná témata toh
 $lang['AdminCompanyThemes.index.option_export'] = 'Export';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Odstranit';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Upravit';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Možnosti';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Akce';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Název';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Barevné schéma';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';

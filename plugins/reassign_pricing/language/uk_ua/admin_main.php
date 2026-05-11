@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Перепризначити ціно
 $lang['AdminMain.index.no_results'] = 'Немає доступних сервісів, з яких можна було б перепризначити ціни.';
 $lang['AdminMain.index.text_never'] = 'Ніколи.';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Параметри';
+$lang['AdminMain.index.heading_options'] = 'Дії';
 $lang['AdminMain.index.heading_date_renews'] = 'Поновлення дати';
 $lang['AdminMain.index.heading_date_created'] = 'Дата створення';
 $lang['AdminMain.index.heading_term'] = 'Термін';

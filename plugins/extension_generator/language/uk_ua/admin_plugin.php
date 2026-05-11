@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.features'] = 'Далі - Додаткові функції';
 $lang['AdminPlugin.features.confirm'] = 'Далі - Підтвердження';
 $lang['AdminPlugin.features.text_remove'] = 'Видалити';
-$lang['AdminPlugin.features.text_options'] = 'Параметри';
+$lang['AdminPlugin.features.text_options'] = 'Дії';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Додати завдання Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Додати вкладку "Керування послугами';
 $lang['AdminPlugin.features.placeholder_time'] = 'наприклад, 14:25 або 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Дія для URI, з яко
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Контролер для URI, з якого потрібно отримати вміст для дії (наприклад, admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Місце в інтерфейсі для відображення дії';
 $lang['AdminPlugin.integrations.text_remove'] = 'Видалити';
-$lang['AdminPlugin.integrations.text_options'] = 'Параметри';
+$lang['AdminPlugin.integrations.text_options'] = 'Дії';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Картки клієнта - це невеликі блоки, що відображаються в профілі клієнта (в кабінеті клієнта або адміністратора) і використовуються в основному для відображення різної статистики (наприклад, кількість послуг, квитків або замовлень). Вони складаються зі значення, підпису, фону та посилання.  Мітка відображається під значенням, яке витягується з функції зворотного виклику.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Це система хуків у Blesta.  Події реєструються або ядром, або плагіном, потім плагіни прослуховують ці події і визначають для них методи обробки.  Оскільки будь-який плагін може реєструвати події, їх може бути будь-яка кількість, однак список основних подій, визначених ядром Blesta, можна знайти тут https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Дії" - це сторінки плагіна, доступні через основний інтерфейс. Сюди входять навігаційні посилання в області адміністратора і клієнта, віджети в області адміністратора і посилання на бічній панелі профілю клієнта. Внесені тут контролери і дії будуть використані для створення простих файлів контролерів. Крім того, для кожної дії будуть створені зразки файлів подання.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Додати дію';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Основні інтеграції';
 $lang['AdminPlugin.database.integrations'] = 'Далі - Основні інтеграції';
 $lang['AdminPlugin.database.text_remove'] = 'Видалити';
-$lang['AdminPlugin.database.text_options'] = 'Параметри';
+$lang['AdminPlugin.database.text_options'] = 'Дії';
 $lang['AdminPlugin.database.text_more_info'] = 'Ця сторінка використовується для створення схеми для таблиць бази даних, що генеруються і управляються цим плагіном. Буде згенеровано код для додавання та видалення цих таблиць під час встановлення та видалення плагіна. Крім того, для цих таблиць будуть створені файли моделей з деякими основними функціями.';
 $lang['AdminPlugin.database.placeholder_length'] = 'наприклад, 64 або \'a\', \'b\', \'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'наприклад, ім\'я_стовпця';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Логотип відображаєт
 $lang['AdminPlugin.basic.tooltip_description'] = 'Опис, показаний у списку плагінів';
 $lang['AdminPlugin.basic.text_remove'] = 'Видалити';
 $lang['AdminPlugin.basic.author_row_add'] = 'Додати автора';
-$lang['AdminPlugin.basic.text_options'] = 'Параметри';
+$lang['AdminPlugin.basic.text_options'] = 'Дії';
 $lang['AdminPlugin.basic.author_url'] = 'URL-адреса автора';
 $lang['AdminPlugin.basic.author_name'] = 'Ім\'я автора Ім\'я автора';
 $lang['AdminPlugin.basic.logo'] = 'Логотип';

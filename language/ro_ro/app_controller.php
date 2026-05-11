@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Întoarcerea la
 $lang['AppController.client_structure.default_title'] = 'Contul meu';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Întoarceți-vă la Portalul personalului';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Modul de întreținere este activat în prezent, iar clienții nu se pot conecta. Faceți clic aici pentru a schimba.';
+$lang['AppController.structure.text_maintenance'] = 'Modul de întreținere este activat în prezent, iar clienții nu se pot conecta.';
 $lang['AppController.structure.text_logout'] = 'Deconectați-vă';
 $lang['AppController.structure.text_settings'] = 'Setări';
 $lang['AppController.structure.text_myinfo'] = 'Informațiile mele';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Nu sunteți autorizat să a
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Aruncați fișierele aici pentru a le încărca sau faceți clic pentru a selecta fișiere';
 $lang['AppController.!error.client_unauthorized_access'] = 'Nu aveți permisiunea de a accesa această resursă, vă rugăm să contactați titularul principal al contului pentru a solicita accesul';
-$lang['AppController.structure.text_step_up_access'] = 'Aveți în prezent o sesiune Step Up deschisă cu acces la setările de administrare. Faceți clic aici pentru a renunța la acces.';
+$lang['AppController.structure.text_step_up_access'] = 'În prezent, aveți o sesiune Step Up deschisă cu acces la setările de administrare.';
+$lang['AppController.structure.text_mark_all_read'] = 'Marcați toate ca citite';
+$lang['AppController.structure.text_open'] = 'Deschis';
+$lang['AppController.structure.no_notifications'] = 'Nu există notificări noi';
+$lang['AppController.structure.text_notifications'] = 'Notificări';
+$lang['AppController.structure.text_licensed_to'] = 'Licențiat la %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Extindeți sesiunea';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Timp rămas:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Încheiați sesiunea acum';
+$lang['AppController.structure.text_step_up_access_header'] = 'Step Up Autentificare activă';
+$lang['AppController.structure.text_maintenance_button'] = 'Editare Mod întreținere';
+$lang['AppController.structure.text_maintenance_header'] = 'Modul de întreținere activat';
+$lang['AppController.structure.text_iconbar'] = 'Bară de pictograme';
+$lang['AppController.structure.text_notices'] = 'Anunțuri';
+$lang['AppController.text_loading'] = 'Încărcare...';
+$lang['AppController.modal.btn_delete'] = 'Ștergeți';
+$lang['AppController.modal.btn_cancel'] = 'Anulează';
+$lang['AppController.modal.confirm_delete'] = 'Confirmare Ștergere';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Wprowadź nazwę akcji.';
 $lang['Actions.!error.url.empty'] = 'Wprowadź adres URL.';
 $lang['Actions.!error.location.unique'] = 'Lokalizacja i adres URL muszą być unikalne dla tej firmy.';
 $lang['Actions.!error.location.valid'] = 'Nieprawidłowa lokalizacja.';
+$lang['Actions.!error.icon.length'] = 'Klasa ikony nie może przekraczać 255 znaków.';
 

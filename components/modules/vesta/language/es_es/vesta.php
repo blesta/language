@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.!error.domain.test'] = 'El nombre de dominio no puede empezar por \
 $lang['Vesta.!error.user_name.empty'] = 'El nombre de usuario no puede estar vacío.';
 $lang['Vesta.!error.password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Vesta.!error.actions_password.valid'] = 'Los campos Contraseña y Confirmar contraseña no pueden estar vacíos.';
+$lang['Vesta.back_to_manage'] = 'Volver';
+$lang['Vesta.manage.tab_rows'] = 'Servidores';
+$lang['Vesta.manage.tab_groups'] = 'Grupos de servidores';
 

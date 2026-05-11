@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.module_row_plural'] = 'الخوادم';
 $lang['Pterodactyl.module_row'] = 'الخادم';
 $lang['Pterodactyl.description'] = 'يوفر خوادم الألعاب ويديرها عبر لوحة Pterodactyl.';
 $lang['Pterodactyl.name'] = 'Pterodactyl';
+$lang['Pterodactyl.back_to_manage'] = 'رجوع';
+$lang['Pterodactyl.manage.tab_rows'] = 'الخوادم';
+$lang['Pterodactyl.manage.tab_groups'] = 'مجموعات الخوادم';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = 'Na e-maily';
 $lang['GenericDomains.manage.from_email'] = 'Z e-mailu';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Nastavení oznámení';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Všechny e-maily příjemců oddělené čárkou.';
+$lang['Generic_domains.back_to_manage'] = 'Zpět';
+$lang['GenericDomains.manage.text_available_tags'] = 'Dostupné štítky';
 

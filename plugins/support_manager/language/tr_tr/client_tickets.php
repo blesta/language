@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -52,7 +52,7 @@ $lang['ClientTickets.index.hour'] = '1 saat';
 $lang['ClientTickets.index.any'] = 'Herhangi bir';
 $lang['ClientTickets.index.option_reply'] = 'Yanıtla';
 $lang['ClientTickets.index.option_close'] = 'Kapat';
-$lang['ClientTickets.index.heading_options'] = 'Seçenekler';
+$lang['ClientTickets.index.heading_options'] = 'Eylemler';
 $lang['ClientTickets.index.heading_status'] = 'Durum';
 $lang['ClientTickets.index.heading_last_reply_date'] = 'Son Yanıt';
 $lang['ClientTickets.index.heading_summary'] = 'Özet';

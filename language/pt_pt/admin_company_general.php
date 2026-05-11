@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = 'Pesquisa inteli
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'Atualizar definições';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'Apresentar aos clientes uma opção de inclusão/exclusão do marketing por correio eletrónico';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'Marketing';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Editar tipo de contacto';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Atualizar o tipo de contacto';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'Definição da língua de utilização';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'Nome';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'Editar tipo de contacto';
@@ -52,7 +52,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = 'Eliminar';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'Editar';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'Não';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'Sim';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Opções';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Acções';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'Usos Definição da língua';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'Nome';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'Tipos de contacto';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Papierkorb';
 $lang['SupportManagerTickets.status.closed'] = 'Geschlossen';
 $lang['SupportManagerTickets.status.on_hold'] = 'In der Warteschleife';
 $lang['SupportManagerTickets.status.in_progress'] = 'In Arbeit';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Erwartete Antwort des Kunden';
-$lang['SupportManagerTickets.status.open'] = 'Antwort der Dienststellen abwarten';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Wartender Kunde';
+$lang['SupportManagerTickets.status.open'] = 'Personal in Erwartung';
 $lang['SupportManagerTickets.priority.low'] = 'Niedrig';
 $lang['SupportManagerTickets.priority.medium'] = 'Mittel';
 $lang['SupportManagerTickets.priority.high'] = 'Hoch';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Mindestens einer der T
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Mindestens einer der Ticketempfänger ist doppelt vorhanden.';
 $lang['SupportManagerTickets.log.service_id'] = 'Der zugehörige Dienst wurde auf die interne ID geändert: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" ist erforderlich und darf nicht leer sein.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Ticket #%1$s Aktualisiert';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Neues Ticket #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s auf das Ticket #%2$s geantwortet: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s geöffnetes Ticket #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Ticket #%1$s Zugewiesen';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Das Ihnen zugewiesene Ticket #%1$s: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Das Bild konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Das Bild überschreitet die maximal zulässige Größe von %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Ungültiger Bildtyp. Nur JPEG-, PNG-, GIF- und WebP-Bilder sind zulässig.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Das Upload-Verzeichnis konnte nicht erstellt werden.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Das Bild konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Inline base64 Bilder sind nicht erlaubt. Bitte fügen Sie Bilder ein oder ziehen Sie sie in den Editor, um sie hochzuladen.';
 

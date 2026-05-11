@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s хвилин';
 $lang['ClientMain.index.any'] = 'Будь-який';
 $lang['ClientMain.index.option_reply'] = 'Відповісти';
 $lang['ClientMain.index.option_close'] = 'Закрити';
-$lang['ClientMain.index.heading_options'] = 'Параметри';
+$lang['ClientMain.index.heading_options'] = 'Дії';
 $lang['ClientMain.index.heading_status'] = 'Статус';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Остання відповідь';
 $lang['ClientMain.index.heading_summary'] = 'Підсумок';

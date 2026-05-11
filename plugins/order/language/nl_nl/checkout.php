@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'De betaling kon niet worden geauto
 $lang['Checkout.!error.not_client_owner'] = 'Je moet ingelogd zijn als de eigenaar van de klant om verder te kunnen gaan.';
 $lang['Checkout.!error.no_payment_info'] = 'Je moet een betalingsmethode selecteren om verder te kunnen gaan.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'U moet bevestigen dat u akkoord gaat met de algemene voorwaarden.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'U moet toestemming geven voor terugkerende facturering om door te gaan.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Ik machtig %1$s om mijn betalingsmethode op te slaan en vanaf vandaag %2$s in rekening te brengen, totdat ik opzeg. Ik kan op elk moment online opzeggen via mijn account.';
+$lang['Checkout.index.recurring_every'] = 'elke %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'elke %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'en';
 

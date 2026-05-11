@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Sampah';
 $lang['SupportManagerTickets.status.closed'] = 'Ditutup';
 $lang['SupportManagerTickets.status.on_hold'] = 'Ditunda';
 $lang['SupportManagerTickets.status.in_progress'] = 'Sedang Berlangsung';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Menunggu Balasan Klien';
-$lang['SupportManagerTickets.status.open'] = 'Menunggu Balasan Staf';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Klien yang Menunggu';
+$lang['SupportManagerTickets.status.open'] = 'Staf yang Menunggu';
 $lang['SupportManagerTickets.priority.low'] = 'Rendah';
 $lang['SupportManagerTickets.priority.medium'] = 'Sedang';
 $lang['SupportManagerTickets.priority.high'] = 'Tinggi';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Setidaknya salah satu 
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Setidaknya salah satu penerima tiket diduplikasi.';
 $lang['SupportManagerTickets.log.service_id'] = 'Layanan terkait telah diubah menjadi ID internal: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" wajib diisi dan tidak boleh kosong.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Tiket #%1$s Diperbarui';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Tiket Baru #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s membalas tiket #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s tiket terbuka #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Tiket #%1$s Ditugaskan';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Tiket #%1$s diberikan kepada Anda: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Gambar tidak dapat diunggah. Silakan coba lagi.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Gambar melebihi ukuran maksimum yang diizinkan, yaitu %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Jenis gambar tidak valid. Hanya gambar JPEG, PNG, GIF, dan WebP yang diperbolehkan.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Direktori unggahan tidak dapat dibuat.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Gambar tidak dapat disimpan. Silakan coba lagi.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Gambar base64 sebaris tidak diperbolehkan. Silakan tempel atau seret gambar ke dalam editor untuk mengunggahnya.';
 

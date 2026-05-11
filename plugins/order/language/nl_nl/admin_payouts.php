@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Weet je zeker dat je deze uitbeta
 $lang['AdminPayouts.index.option_decline'] = 'Daling';
 $lang['AdminPayouts.index.option_approve'] = 'Goedkeuren';
 $lang['AdminPayouts.index.option_edit'] = 'Bewerk';
-$lang['AdminPayouts.index.heading_options'] = 'Opties';
+$lang['AdminPayouts.index.heading_options'] = 'Acties';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Datum aangevraagd';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Betaalde valuta';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Betaald Bedrag';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Meddelande som
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Betalning nekad (kreditkort)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Meddelande som skickas efter att en framgångsrik kreditkortsbetalning har godkänts.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Godkänd betalning (kreditkort)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Uppdatering';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Tillämpa';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Det finns inga mallar av denna typ.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Redigera';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Alternativ';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Avbryt';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Anslutning';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Radera';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Är du säker på att du vill ta bort den här bilagan?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Alternativ';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Åtgärder';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Filnamn';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Ytterligare bilagor';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Mall för e-post';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Ingen';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Uppdatera HTML-mall';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Redigera mall';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Uppdatera mall';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Etiketter';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Namn';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Redigera HTML-mall';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Lägg till mall';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Skapa mall';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Etiketter';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Namn';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Lägg till HTML-mall';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Meddelande 
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Avbeställning av tjänst';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Meddelande skickas när kundens tillgodohavande sjunker under det konfigurerade tröskelvärdet.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Meddelande om låg balans';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Föreslaget ämne';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Textversion';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML-version';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Ämne';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Applicera innehåll på:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Fel:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'För många förfrågningar. Vänligen vänta en stund innan du försöker igen.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Generering av innehåll misslyckades. Vänligen försök igen.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Frågeställningen överskrider den maximala längden.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'En prompt krävs för att generera innehåll.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Generering av AI-mallar för e-post är inte aktiverad.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'AI-funktioner är för närvarande inaktiverade.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Förhandsgranskning av text';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML-förhandsgranskning';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Klicka på Generera för att skapa e-postinnehåll baserat på malltypen och tillgängliga taggar.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Genererat innehåll';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Valfri vägledning för AI för att anpassa det genererade innehållet.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Lägg till specifika krav eller tonpreferenser...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Ytterligare instruktioner';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Laddar prompt...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Uppmaningskontext';
+$lang['AdminCompanyEmails.ai.generating'] = 'Genererar...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Avbryt';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Använd detta innehåll';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenerera';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Skriv om';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Generera';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Skriv om innehållet i e-postmeddelanden';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generera innehåll för e-post';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'AI innehållsassistent';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Kopierat!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Kopia';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 Omdirigering URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Är du säker på att du vill återställa den här ögonblicksbilden? Alla ändringar som inte sparats kommer att gå förlorade.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Det finns inga ögonblicksbilder tillgängliga för den här e-postmallen.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Mallens historia';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Återställ ögonblicksbild';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Återställ';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Bläddra bland filer';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Släpp filer här eller klicka på bläddra för att ladda upp bilagor';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Använd dessa taggar i din e-postmall för att inkludera dynamiskt innehåll.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Tillgängliga taggar';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Ange ren textversion av e-postmeddelandet';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Ange ämne för e-post';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Ange från e-postadressen';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Ange från namn';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'valda objekt';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Kopiera den här URL:en och lägg till den som en auktoriserad redirect URI i din OAuth-leverantörs programinställningar (t.ex. Google Cloud Console, Microsoft Azure Portal). Detta krävs för att OAuth-autentiseringen ska fungera.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'E-postmallen har framgångsrikt återställts från ögonblicksbilden!';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.!error.user_name.empty'] = 'Le nom d\'utilisateur ne peut pas êt
 $lang['Tcadmin.!error.user_password.valid'] = 'Le mot de passe doit comporter au moins 8 caractères.';
 $lang['Tcadmin.!error.rcon_password.valid'] = 'RCON Le mot de passe doit comporter au moins 8 caractères.';
 $lang['Tcadmin.!error.private_password.valid'] = 'Le mot de passe privé doit comporter au moins 8 caractères.';
+$lang['Tcadmin.back_to_manage'] = 'Retour';
+$lang['Tcadmin.manage.tab_rows'] = 'Serveurs';
+$lang['Tcadmin.manage.tab_groups'] = 'Groupes de serveurs';
 

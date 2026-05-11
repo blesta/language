@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Ustawienia > Firma > Automat
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Zadanie cron zostało wyczyszczone.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Ustawienia automatyzacji zostały pomyślnie zaktualizowane!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Istnieją zadania automatyzacji ustawione na uruchamianie co minutę, ale cron nie wydaje się być uruchamiany co minutę. Zaktualizuj crona, aby uruchamiał się co minutę, aby skorzystać z tych krótszych interwałów.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'W ciągu ostatnich 24 godzin nie zarejestrowano żadnych uruchomień zadań automatyzacji.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Jeszcze nie ukończone';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Bieganie';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Zakończono';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Wykonanie';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Odświeżanie';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Oś czasu wykonania zadania - ostatnie 24 godziny';
 

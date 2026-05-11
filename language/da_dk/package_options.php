@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s opsætning
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s opsætning (fornyes ved %3$s)';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Om den skal skjules på fakturaen, skal sættes til 0 eller 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Om prissætning skal deaktiveres, skal indstilles til 0 eller 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Typen kan ikke ændres, fordi en eller flere optionsværdier, der ikke er inkluderet i indsendelsen, er i brug af en tjeneste.';
 

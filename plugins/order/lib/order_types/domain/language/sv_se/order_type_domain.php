@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Sök toppdomän';
 $lang['Main.steps.step_1_description'] = 'Välj en domän';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Alternativ';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Åtgärder';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Period';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Term';
 $lang['OrderTypeDomain.settings.text_term'] = 'Minsta löptid och period';

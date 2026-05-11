@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Η ενότητα ενη
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Η ενότητα απεγκαταστάθηκε επιτυχώς.';
 $lang['AdminCompanyModules.!success.installed'] = 'Η ενότητα εγκαταστάθηκε με επιτυχία.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Η μονάδα αναβαθμίστηκε με επιτυχία.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Μονάδες φίλτρου...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Δεν βρέθηκαν ταιριαστές ενότητες.';
 

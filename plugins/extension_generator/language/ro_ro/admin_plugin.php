@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.heading_more_info'] = 'Mai multe informații';
 $lang['AdminPlugin.features.confirm'] = 'Următorul - Confirmare';
 $lang['AdminPlugin.features.text_remove'] = 'Eliminați';
-$lang['AdminPlugin.features.text_options'] = 'Opțiuni';
+$lang['AdminPlugin.features.text_options'] = 'Acțiuni';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Adăugați o sarcină Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Adăugați fila Managementul serviciilor';
 $lang['AdminPlugin.features.placeholder_time'] = 'de exemplu, 14:25 sau 60';
@@ -59,7 +59,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Acțiunea pentru URI din car
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Controlerul pentru URI-ul din care se extrage conținutul pentru acțiune (de exemplu, admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Locația din interfață în care se afișează acțiunea';
 $lang['AdminPlugin.integrations.text_remove'] = 'Eliminați';
-$lang['AdminPlugin.integrations.text_options'] = 'Opțiuni';
+$lang['AdminPlugin.integrations.text_options'] = 'Acțiuni';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Fișele de client sunt mici casete afișate pe profilul clientului (în zona de client sau în zona de administrare) și sunt utilizate în principal pentru a afișa diverse statistici (de exemplu, numărul de servicii, bilete sau comenzi). Ele sunt compuse dintr-o valoare, o etichetă, un fundal și un link.  Eticheta este afișată sub valoarea care este extrasă dintr-o funcție de callback.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Acesta este sistemul de cârlige din Blesta.  Evenimentele sunt înregistrate fie de către nucleu, fie de către un plugin, apoi pluginurile ascultă aceste evenimente și definesc metode de gestionare pentru eveniment.  Deoarece orice plugin poate înregistra evenimente, poate exista un număr nelimitat de evenimente, însă lista evenimentelor de bază definite de Blesta poate fi găsită aici https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Acțiunile" reprezintă pagini de plugin care sunt accesibile prin interfața principală. Aceasta include linkuri de navigare în zonele de administrare și client, widgeturi în zona de administrare și linkuri în bara laterală a profilului clientului. Controlorii și acțiunile introduse aici vor fi utilizate pentru a genera fișiere de control simplu. În plus, vor fi create fișiere de vizualizare de probă pentru fiecare acțiune.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Adăugați acțiune';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Integrări de bază';
 $lang['AdminPlugin.database.integrations'] = 'Următorul - Integrări de bază';
 $lang['AdminPlugin.database.text_remove'] = 'Eliminați';
-$lang['AdminPlugin.database.text_options'] = 'Opțiuni';
+$lang['AdminPlugin.database.text_options'] = 'Acțiuni';
 $lang['AdminPlugin.database.text_more_info'] = 'Această pagină este utilizată pentru a crea o schemă pentru tabelele din baza de date generate și gestionate de acest plugin. Codul va fi generat pentru adăugarea și eliminarea acestor tabele la instalare și dezinstalare. În plus, vor fi create fișiere model pentru aceste tabele cu câteva funcții de bază.';
 $lang['AdminPlugin.database.placeholder_length'] = 'de exemplu, 64 sau "a", "b", "c".';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'de exemplu, nume_coloană';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Logo-ul afișat în lista de plugin-u
 $lang['AdminPlugin.basic.tooltip_description'] = 'Descrierea afișată în lista de plugin-uri';
 $lang['AdminPlugin.basic.text_remove'] = 'Eliminați';
 $lang['AdminPlugin.basic.author_row_add'] = 'Adaugă autor';
-$lang['AdminPlugin.basic.text_options'] = 'Opțiuni';
+$lang['AdminPlugin.basic.text_options'] = 'Acțiuni';
 $lang['AdminPlugin.basic.author_url'] = 'Autor URL';
 $lang['AdminPlugin.basic.author_name'] = 'Numele autorului';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

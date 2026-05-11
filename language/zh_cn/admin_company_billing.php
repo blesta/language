@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,11 +45,11 @@ $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = '指定包件';
 $lang['AdminCompanyBilling.!tooltip.inv_proforma_start'] = '发票号码将从该起始值开始（并递增）。';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = '全部';
 $lang['AdminCompanyBilling.!tooltip.inv_start'] = '发票号码将从该起始值开始（并递增）。';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = '编辑优惠券';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = '更新优惠券';
 $lang['AdminCompanyBilling.!tooltip.inv_proforma_format'] = '可用标记包括{num}--发票号码（必填）； {year} --四位数字的年； {month} --两位数字的月； {day} --两位数字的月日。';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = '包装组过滤器';
 $lang['AdminCompanyBilling.!tooltip.inv_draft_format'] = '可用标记包括{num}--发票号码（必填）； {year} --四位数字的年； {month} --两位数字的月； {day} --两位数字的月日。';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = '套餐';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = '软件包限制';
 $lang['AdminCompanyBilling.!tooltip.inv_format'] = '可用标记包括{num}--发票号码（必填）； {year} --四位数字的年； {month} --两位数字的月； {day} --两位数字的月日。';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = '移除';
 $lang['AdminCompanyBilling.!tooltip.inv_type'] = '默认创建的发票类型。形式发票在付款和关闭后会更改为标准发票。';
@@ -63,7 +63,7 @@ $lang['AdminCompanyBilling.editcoupon.text_enabled'] = '已启用';
 $lang['AdminCompanyBilling.!tooltip.first_notice'] = '在发票到期之前或之后发送第一封逾期通知电子邮件的天数。';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = '此优惠券仅适用于在所选条款/期限内订购的服务。如果都未启用，则在评估优惠券限制时将忽略服务期限。';
 $lang['AdminCompanyBilling.!tooltip.send_cancellation_notice'] = '该选项设置是否可以向客户发送服务取消通知。';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = '条款';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = '任期限制';
 $lang['AdminCompanyBilling.!tooltip.send_payment_notices'] = '该选项设置是否可以向客户发送任何可用的付款通知。';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = '价值';
 $lang['AdminCompanyBilling.addcoupon.text_available_packages'] = '可用套餐';
@@ -87,7 +87,7 @@ $lang['AdminCompanyBilling.editcoupon.field_end_date'] = '结束日期';
 $lang['AdminCompanyBilling.!tooltip.client_change_service_package'] = '勾选允许客户更改定期服务套餐。';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = '开始日期';
 $lang['AdminCompanyBilling.!tooltip.client_change_service_term'] = '勾选允许客户更改定期服务的期限。';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = '局限性';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = '限制与约束';
 $lang['AdminCompanyBilling.!tooltip.client_create_addons'] = '勾选允许客户为其支持的任何服务订购附加组件。';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = '生成代码';
 $lang['AdminCompanyBilling.!tooltip.synchronize_addons'] = '选中此选项后，新创建的附加服务如果与父节点的月度或年度条款一致，则将按比例计算到父节点的续订日期。';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = '创建优惠券';
 $lang['AdminCompanyBilling.!tooltip.service_renewal_attempts'] = '在禁用服务自动续订之前，尝试和失败处理服务续订的次数。';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = '包装组过滤器';
 $lang['AdminCompanyBilling.!tooltip.autodebit_attempts'] = '在付款账户被禁止自动扣款之前，处理该付款账户的尝试次数和失败次数。';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = '套餐';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = '软件包限制';
 $lang['AdminCompanyBilling.!tooltip.suspend_services_days_after_due'] = '服务发票逾期后暂停服务的等待天数。';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = '移除';
 $lang['AdminCompanyBilling.!tooltip.autodebit_days_before_due'] = '自动从客户默认付款账户扣款的发票到期前天数（如果客户已配置为自动扣款）。';
@@ -153,7 +153,7 @@ $lang['AdminCompanyBilling.addcoupon.field_end_date'] = '结束日期';
 $lang['AdminCompanyBilling.!success.latefees_updated'] = '逾期费用设置已成功更新！';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = '开始日期';
 $lang['AdminCompanyBilling.!success.deliverymethods_updated'] = '发票交付设置已成功更新！';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = '局限性';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = '限制与约束';
 $lang['AdminCompanyBilling.!success.acceptedtypes_updated'] = '接受的付款类型设置已成功更新！';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = '生成代码';
 $lang['AdminCompanyBilling.!success.coupon_deleted'] = '优惠券已成功删除！';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = '要求';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = '选项';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = '选项组';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = '此优惠券只有在所选可配置选项匹配时才能使用。留空表示忽略可配置选项的限制。';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = '可配置选项';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = '可配置选项限制';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = '添加';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = '在发票关闭后重新安排交付时间';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = '当客户的积分余额低于此金额时，客户将收到每日通知。留空表示禁用该货币的通知。';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!tooltip.payment_credit_enabled'] = '勾选允许客�
 $lang['AdminCompanyBilling.!error.max_amount'] = '%1$s 的最大金额必须大于 0。';
 $lang['AdminCompanyBilling.!error.min_amount'] = '%1$s 的最小金额必须大于 0。';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = '贷记处理设置已成功更新！';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = '请输入回邮地址名称。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = '请输入退货地址公司。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = '请输入退货地址。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = '请输入返回地址城市。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = '请选择回邮地址州/省。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = '请输入回邮地址邮编/邮政编码。';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = '请选择退货地址所在国家。';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = '可用的标记包括{num}--引号（必填）； {year} --四位数的年； {month} --两位数的月； {day} --两位数的月日。';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = '引号将从该起始值开始（并递增）。';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = '随后的引号将按此值递增。';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = '使用限制';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = '使用限制';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = '回邮信封';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = '返回地址';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = '名称';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = '公司名称';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = '地址 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = '地址 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = '城市';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = '州/省';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = '邮政编码';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = '国家';
 

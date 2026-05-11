@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = '메신저 
 $lang['AdminCompanyMessengers.!success.uninstalled'] = '메신저가 성공적으로 제거되었습니다.';
 $lang['AdminCompanyMessengers.!success.installed'] = '메신저가 성공적으로 설치되었습니다.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = '메신저가 성공적으로 업그레이드되었습니다.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = '메신저 필터링...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = '일치하는 메신저를 찾을 수 없습니다.';
 

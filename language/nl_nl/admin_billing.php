@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Afdrukken';
 $lang['AdminBilling.printqueue.page_title'] = 'Afdrukwachtrij facturering';
 $lang['AdminBilling.invoices.text_edit'] = 'Bewerk';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Op deze factuur zijn geen transacties toegepast.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Opties';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Acties';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Toegepast op';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Toegepast';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Bedrag';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Fout';
 $lang['AdminBilling.transactions.category_voided'] = 'Ongeldig';
 $lang['AdminBilling.transactions.category_declined'] = 'Afgewezen';
 $lang['AdminBilling.transactions.category_approved'] = 'Goedgekeurd';
-$lang['AdminBilling.transactions.heading_options'] = 'Opties';
+$lang['AdminBilling.transactions.heading_options'] = 'Acties';
 $lang['AdminBilling.transactions.heading_date'] = 'Datum';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referentie #';
 $lang['AdminBilling.transactions.heading_number'] = 'Aantal';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transacties';
 $lang['AdminBilling.transactions.page_title'] = 'Factureringstransacties';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Reden voor annulering: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Deze service heeft geen details.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Stuur  in';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Toepassen';
 $lang['AdminBilling.services.action.field_client'] = 'Klant:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push naar klant';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Niet annuleren';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Actief';
 $lang['AdminBilling.services.confirm_delete'] = 'Weet je zeker dat je deze service wilt verwijderen?';
 $lang['AdminBilling.services.option_delete'] = 'Verwijder';
 $lang['AdminBilling.services.option_manage'] = 'Beheer';
-$lang['AdminBilling.services.heading_options'] = 'Opties';
+$lang['AdminBilling.services.heading_options'] = 'Acties';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Datum Geannuleerd';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Datum Geschorst';
 $lang['AdminBilling.services.heading_daterenews'] = 'Datum Verlenging';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Diensten';
 $lang['AdminBilling.services.page_title'] = 'Factureringsdiensten';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Er zijn geen facturen gekoppeld aan deze offerte.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Bekijk';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Opties';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Acties';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Datum gefactureerd';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Betaald';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Bedrag';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Goedkeuren';
 $lang['AdminBilling.quotations.option_invoice'] = 'Factuur maken';
 $lang['AdminBilling.quotations.option_view'] = 'Bekijk';
 $lang['AdminBilling.quotations.option_edit'] = 'Bewerk';
-$lang['AdminBilling.quotations.heading_options'] = 'Opties';
+$lang['AdminBilling.quotations.heading_options'] = 'Acties';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Vervaldatum';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Aanmaakdatum';
 $lang['AdminBilling.quotations.heading_total'] = 'Bedrag';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Open';
 $lang['AdminBilling.invoices.heading_count'] = 'Graaf';
 $lang['AdminBilling.invoices.heading_duration'] = 'Duur';
 $lang['AdminBilling.invoices.heading_term'] = 'Term';
-$lang['AdminBilling.invoices.heading_options'] = 'Opties';
+$lang['AdminBilling.invoices.heading_options'] = 'Acties';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Datum';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Datum gefactureerd';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Datum Gesloten';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'De geselecteerde services
 $lang['AdminBilling.!success.services_suspended'] = 'De geselecteerde services zijn met succes opgeschort.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Deze service heeft hangende wijzigingen.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum betaald door: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'geselecteerde items';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'item geselecteerd';
+$lang['AdminBilling.transactions.option_view'] = 'Bekijk';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Acties';
+$lang['AdminBilling.services.text_items_selected'] = 'geselecteerde items';
+$lang['AdminBilling.services.text_item_selected'] = 'item geselecteerd';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Filters toepassen';
+$lang['AdminBilling.services.field_filterclear'] = 'Duidelijk';
+$lang['AdminBilling.services.filter_toggle'] = 'Filters schakelen';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Filters toepassen';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Duidelijk';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Filters schakelen';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik op widgets om ze te tonen of te verbergen op je dashboard.';
 

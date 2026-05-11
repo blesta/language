@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'API-Schlüssel';
 $lang['Blockonomics.!error.api_key.valid'] = 'Der API-Schlüssel ist ungültig.';
 $lang['Blockonomics.description'] = 'Akzeptieren Sie Bitcoin-Zahlungen, jeder Online-Verkauf wird direkt in Ihre Brieftasche eingezahlt. Keine KYC-Dokumentation erforderlich.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'Wählen Sie unten Währungen aus, um die UIDs der übergeordneten Produkte zu konfigurieren.';
 

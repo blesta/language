@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = 'Paket-ID';
 $lang['AdminSearch.packages.heading'] = 'Paket';
 $lang['AdminSearch.transactions.no_results'] = 'Det finns inga transaktioner som matchar sökkriterierna.';
 $lang['AdminSearch.transactions.option_edit'] = 'Redigera';
-$lang['AdminSearch.transactions.heading_options'] = 'Alternativ';
+$lang['AdminSearch.transactions.heading_options'] = 'Åtgärder';
 $lang['AdminSearch.transactions.heading_date'] = 'Datum';
 $lang['AdminSearch.transactions.heading_status'] = 'Status';
 $lang['AdminSearch.transactions.heading_number'] = 'Antal';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = 'Datum för fakturering';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Datum för stängning';
 $lang['AdminSearch.invoice.heading_due'] = 'På grund av';
 $lang['AdminSearch.invoice.heading_paid'] = 'Betald';
-$lang['AdminSearch.invoice.heading_amount'] = 'Alternativ';
+$lang['AdminSearch.invoice.heading_amount'] = 'Belopp';
 $lang['AdminSearch.invoice.heading_client_id'] = 'Kund-ID';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Faktura #';
 $lang['AdminSearch.invoices.heading'] = 'Fakturor';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = 'Kunder';
 $lang['AdminSearch.index.boxtitle_search'] = 'Sökresultat för "%1$s"';
 $lang['AdminSearch.index.page_title'] = 'Sökresultat för "%1$s"';
 $lang['AdminSearch.!notice.results_truncated'] = 'Antalet resultat har förkortats. Du kanske vill förfina din sökning.';
+$lang['AdminSearch.invoice.heading_options'] = 'Åtgärder';
 

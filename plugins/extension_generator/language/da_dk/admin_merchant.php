@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,7 +29,7 @@ $lang['AdminMerchant.basic.signup_url'] = 'Tilmeldings-URL';
 $lang['AdminMerchant.basic.currencies'] = 'Valutaer';
 $lang['AdminMerchant.basic.author_name'] = 'Forfatterens navn';
 $lang['AdminMerchant.basic.author_url'] = 'Forfatter-URL';
-$lang['AdminMerchant.basic.text_options'] = 'Valgmuligheder';
+$lang['AdminMerchant.basic.text_options'] = 'Handlinger';
 $lang['AdminMerchant.basic.author_row_add'] = 'Tilføj forfatter';
 $lang['AdminMerchant.basic.text_remove'] = 'Fjern';
 $lang['AdminMerchant.basic.tooltip_description'] = 'Den beskrivelse, der vises i plugin-listen';
@@ -56,7 +56,7 @@ $lang['AdminMerchant.fields.tooltip_encryptable'] = 'Om dette felt skal kryptere
 $lang['AdminMerchant.fields.placeholder_name'] = 'f.eks. konfiguration_felt';
 $lang['AdminMerchant.fields.placeholder_label'] = 'f.eks. konfigurationsfelt';
 $lang['AdminMerchant.fields.field_row_add'] = 'Tilføj konfigurationsfelt';
-$lang['AdminMerchant.fields.text_options'] = 'Valgmuligheder';
+$lang['AdminMerchant.fields.text_options'] = 'Handlinger';
 $lang['AdminMerchant.fields.text_remove'] = 'Fjern';
 $lang['AdminMerchant.fields.features'] = 'Næste - Understøttede funktioner';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Understøttede funktioner';

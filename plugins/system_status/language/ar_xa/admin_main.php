@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'بشكل عام النظام في حال
 $lang['AdminMain.index.health_excellent'] = 'النظام في حالة جيدة ويبدو أنه يعمل بشكل طبيعي.';
 $lang['AdminMain.index.upload_dir'] = 'يكون مسار دليل التحميل في إعداداتك داخل دليل الويب الجذر.  يجب وضعه فوق دليل الويب الجذر لضمان عدم وجود مشكلة في الوصول إليه بشكل عام.';
 $lang['AdminMain.index.upload_dir_configure'] = 'تهيئة؟';
+$lang['AdminMain.index.text_info'] = 'المعلومات';
+$lang['AdminMain.index.text_warning'] = 'تحذير';
+$lang['AdminMain.index.text_error'] = 'خطأ';
+$lang['AdminMain.index.text_success'] = 'النجاح';
+$lang['AdminMain.index.category_cron'] = 'كرون';
+$lang['AdminMain.index.category_system'] = 'النظام';
+$lang['AdminMain.index.category_database'] = 'قاعدة البيانات';
+$lang['AdminMain.index.category_security'] = 'الأمن';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminCompanyCurrencies.!tooltip.exchange_rates_processor_key'] = '从所选处理器检索货币汇率需要 API 密钥。';
 $lang['AdminCompanyCurrencies.!tooltip.exchange_rates_processor'] = '设置用于更新货币汇率的处理器。可用货币因处理器而异。';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = '您确定要更新此货币吗？当系统自动更新汇率时，该货币的汇率将被覆盖。您可以在 [Settings] > [Company] > [Currencies] > [Currency Setup] 下禁用自动更新。';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = '编辑货币';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = '更新货币';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = '汇率';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = '后缀符号';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = '前缀符号';

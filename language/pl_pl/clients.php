@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Nieprawidłowy identyfikator g
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Maksymalna kwota kredytu dla %1$s musi być wyższa niż kwota minimalna.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Maksymalna kwota kredytu dla %1$s musi być większa niż 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Minimalna kwota kredytu dla %1$s musi być większa niż 0.';
+$lang['Clients.!error.action[].exists'] = 'Nieprawidłowe działanie powiadomienia.';
+$lang['Clients.!error.action.exists'] = 'Nieprawidłowe działanie powiadomienia "%1$s".';
 

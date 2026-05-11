@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.!error.domain.not_exist'] = 'Αυτός ο τομέας δε
 $lang['OpenProvider.!error.domain.contact_support'] = 'Επικοινωνήστε με την υποστήριξη για λεπτομέρειες σχετικά με τον τομέα.';
 $lang['OpenProvider.!error.domain.name_undefined'] = 'Όνομα τομέα απροσδιόριστο.';
 $lang['OpenProvider.!error.service.domain.status_not_active_in_blesta'] = 'Το τμήμα αυτό δεν είναι προσβάσιμο όσο η υπηρεσία δεν βρίσκεται σε κατάσταση Ενεργή.';
+$lang['Openprovider.back_to_manage'] = 'Πίσω';
 

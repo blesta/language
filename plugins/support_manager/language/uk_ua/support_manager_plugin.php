@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Налаштування';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Автоматично надсилати клієнтам нагадування про необхідність залишити відгук для квитків, які були закриті через певний проміжок часу.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Надіслати нагадування про зворотній зв\'язок';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Обробляйте тікети за допомогою ШІ';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Аналізує тікети за допомогою ШІ, щоб генерувати пропозиції щодо реагування та автоматично виконувати використання інструментів (закривати спам, призначати співробітників, змінювати пріоритет).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Налаштування ШІ';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Примітка: Ця відповідь була згенерована штучним інтелектом і має бути перевірена на точність.*';
 

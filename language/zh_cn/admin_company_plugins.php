@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = '插件已成功启用。';
 $lang['AdminCompanyPlugins.!success.upgraded'] = '插件已成功升级。';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = '插件已成功卸载。';
 $lang['AdminCompanyPlugins.!success.installed'] = '插件已成功安装。它可能为各种资源注册了 ACL 权限。您可能需要授予员工组访问这些资源的权限。';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = '过滤插件...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = '未找到匹配插件。';
 

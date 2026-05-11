@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.package_fields.domains_list'] = 'Lista över tillgängliga dom
 $lang['Virtualmin.package_fields.sub_domains_disable'] = 'Avaktivera';
 $lang['Virtualmin.package_fields.sub_domains_enable'] = 'Aktivera';
 $lang['Virtualmin.package_fields.sub_domains'] = 'Aktivera försäljning av underdomäner';
+$lang['Virtualmin.back_to_manage'] = 'Tillbaka';
+$lang['Virtualmin.manage.tab_rows'] = 'Servrar';
+$lang['Virtualmin.manage.tab_groups'] = 'Servergrupper';
 

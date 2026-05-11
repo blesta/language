@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['Main.steps.step_1_description'] = 'Kies een domein';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Opties';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Acties';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Periode';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Term';
 $lang['OrderTypeDomain.settings.text_term'] = 'Minimale looptijd en periode';

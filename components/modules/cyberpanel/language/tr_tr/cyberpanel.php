@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = 'Sunucular';
 $lang['Cyberpanel.module_row'] = 'Sunucu';
 $lang['Cyberpanel.description'] = 'CyberPanel, OpenLiteSpeed tarafından desteklenen yeni nesil bir hosting kontrol panelidir. Hız, güvenlik ve güvenilirlik için üretilmiştir.';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = 'Geri';
+$lang['Cyberpanel.manage.tab_rows'] = 'Sunucular';
+$lang['Cyberpanel.manage.tab_groups'] = 'Sunucu Grupları';
 

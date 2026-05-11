@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -107,7 +107,7 @@ $lang['ClientServices.serviceinfo.cancellation_reason'] = 'İptal Nedeni: %1$s';
 $lang['ClientServices.serviceinfo.no_results'] = 'Bu hizmetin ayrıntıları yoktur.';
 $lang['ClientServices.index.text_never'] = 'Asla';
 $lang['ClientServices.index.option_manage'] = 'Yönetmek';
-$lang['ClientServices.index.heading_options'] = 'Seçenekler';
+$lang['ClientServices.index.heading_options'] = 'Eylemler';
 $lang['ClientServices.index.heading_datecanceled'] = 'İptal Edilen Tarih';
 $lang['ClientServices.index.heading_datesuspended'] = 'Askıya Alındığı Tarih';
 $lang['ClientServices.index.heading_daterenews'] = 'Tarih Yenilemeleri';

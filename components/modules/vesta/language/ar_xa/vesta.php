@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.module_row_plural'] = 'الخوادم';
 $lang['Vesta.module_row'] = 'الخادم';
 $lang['Vesta.description'] = 'Vesta، أو VestaCP، هي لوحة تحكم ويب مفتوحة المصدر تعتبر بديلاً رائعاً لـ cPanel. لا تتطابق جودتها الأمنية وتحديثاتها المتكررة مع جودة cPanel فحسب، بل إنها مجانية تماماً.';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.back_to_manage'] = 'رجوع';
+$lang['Vesta.manage.tab_rows'] = 'الخوادم';
+$lang['Vesta.manage.tab_groups'] = 'مجموعات الخوادم';
 

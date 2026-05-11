@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.sql_mariadb_version_serious'] = 'MariaDB-versionen opfyld
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Se minimumskrav';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurere?';
 $lang['AdminMain.index.upload_dir'] = 'Stien til upload-biblioteket i dine indstillinger ligger i rodwebbiblioteket.  Den bør placeres over rodwebmappen for at sikre, at der aldrig opstår problemer med, at den er offentligt tilgængelig.';
+$lang['AdminMain.index.text_info'] = 'Information';
+$lang['AdminMain.index.text_warning'] = 'Advarsel';
+$lang['AdminMain.index.text_error'] = 'Fejl';
+$lang['AdminMain.index.text_success'] = 'Succes';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'System';
+$lang['AdminMain.index.category_database'] = 'Database';
+$lang['AdminMain.index.category_security'] = 'Sikkerhed';
 

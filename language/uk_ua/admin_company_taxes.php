@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Правило редагування';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Правило оновлення';
 $lang['AdminCompanyTaxes.edit.field.state'] = 'Штат/провінція';
 $lang['AdminCompanyTaxes.edit.field.country'] = 'Країна';
 $lang['AdminCompanyTaxes.edit.field.amount'] = 'Сума';

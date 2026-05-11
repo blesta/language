@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Manažer podpory';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Nastavení';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Automatické rozesílání připomínek klientům, aby zanechali zpětnou vazbu u tiketů, které byly po určité době uzavřeny.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Odesílání připomenutí zpětné vazby';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Zpracování letenek pomocí umělé inteligence';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analyzuje tikety pomocí umělé inteligence a generuje návrhy odpovědí a automaticky provádí použití nástroje (uzavření spamu, přiřazení pracovníků, změna priority).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Nastavení umělé inteligence';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Poznámka: Tato odpověď byla vytvořena společností AI a měla by být zkontrolována z hlediska správnosti.*';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,7 +153,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Стойност';
 $lang['Namesilo.dnsrecord.host'] = 'Домакин';
 $lang['Namesilo.dnsrecord.record_type'] = 'Тип';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'На тази страница можете да добавяте или изтривате A, AAAA, CNAME, MX и TXT DNS записи. Моля, имайте предвид, че разпространяването на DNS записите може да отнеме няколко минути.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'На тази страница можете да добавяте или изтривате A, AAAA, CNAME, MX и TXT DNS записи. Моля, имайте предвид, че разпространяването на DNS записите може да отнеме няколко минути. <br/> За да се отразят тези промени в името на вашия домейн, трябва да настроите сървърите за имена на:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Добавяне на запис';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Изтриване на запис(и)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Добавяне на DNS запис';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Изтегля контак
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Изтеглете контактите на Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Тази функция изисква домейнът да използва следните сървъри за имена: ns1.dnsowl.com, ns2.dnsowl.com и ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Домейнът не е наличен за регистрация.';
+$lang['Namesilo.back_to_manage'] = 'Обратно';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Действия';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Едно или повече полета съдържат специални символи (например букви с ударение). NameSilo може да не поддържа тези символи в полетата за контакт.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Препращане на домейни';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Пренасочването на домейна се премахва автоматично, когато дадете на домейна нещо друго за правене, например промяна на сървърите за имена или промяна на първичните записи A за @ и www. <br/> За да се отразят тези промени в името на домейна, трябва да настроите сървърите за имена на:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Домейн';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Напред към';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Метод на препращане';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Постоянно напредване (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Временна предна позиция (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Маскиран';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Активен';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Изтриване на';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Актуализиране на спедитори';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'URL адресът за препращане е невалиден. Моля, уверете се, че използвате HTTPS или HTTP.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'طباعة';
 $lang['AdminBilling.printqueue.page_title'] = 'قائمة انتظار طباعة الفواتير';
 $lang['AdminBilling.invoices.text_edit'] = 'تحرير';
 $lang['AdminBilling.invoices.applied_no_results'] = 'لا تحتوي هذه الفاتورة على أي معاملات مطبقة عليها.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'الخيارات';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'الإجراءات';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'تطبيق على';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'تطبيقي';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'المبلغ';
@@ -52,7 +52,7 @@ $lang['AdminBilling.transactions.category_error'] = 'خطأ';
 $lang['AdminBilling.transactions.category_voided'] = 'ملغاة';
 $lang['AdminBilling.transactions.category_declined'] = 'مرفوض';
 $lang['AdminBilling.transactions.category_approved'] = 'معتمد';
-$lang['AdminBilling.transactions.heading_options'] = 'الخيارات';
+$lang['AdminBilling.transactions.heading_options'] = 'الإجراءات';
 $lang['AdminBilling.transactions.heading_date'] = 'التاريخ';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'الرقم المرجعي';
 $lang['AdminBilling.transactions.heading_number'] = 'العدد';
@@ -65,7 +65,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'المعاملات';
 $lang['AdminBilling.transactions.page_title'] = 'معاملات الفواتير';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'سبب الإلغاء: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'لا تحتوي هذه الخدمة على تفاصيل.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'إرسال';
+$lang['AdminBilling.services.field_actionsubmit'] = 'قدم طلبك';
 $lang['AdminBilling.services.action.field_client'] = 'العميل:';
 $lang['AdminBilling.services.action.push_to_client'] = 'الدفع للعميل';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'لا تلغي';
@@ -84,7 +84,7 @@ $lang['AdminBilling.services.category_active'] = 'نشط';
 $lang['AdminBilling.services.confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف هذه الخدمة؟';
 $lang['AdminBilling.services.option_delete'] = 'حذف';
 $lang['AdminBilling.services.option_manage'] = 'الإدارة';
-$lang['AdminBilling.services.heading_options'] = 'الخيارات';
+$lang['AdminBilling.services.heading_options'] = 'الإجراءات';
 $lang['AdminBilling.services.heading_datecanceled'] = 'تاريخ الإلغاء';
 $lang['AdminBilling.services.heading_datesuspended'] = 'تاريخ الإيقاف';
 $lang['AdminBilling.services.heading_daterenews'] = 'تاريخ التجديدات';
@@ -97,7 +97,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'الخدمات';
 $lang['AdminBilling.services.page_title'] = 'خدمات الفواتير';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'لا توجد فواتير مرتبطة بهذا الاقتباس.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'عرض';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'الخيارات';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'الإجراءات';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'تاريخ الفاتورة';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'مدفوعة الأجر';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'المبلغ';
@@ -108,7 +108,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'الموافقة';
 $lang['AdminBilling.quotations.option_invoice'] = 'إنشاء الفاتورة';
 $lang['AdminBilling.quotations.option_view'] = 'عرض';
 $lang['AdminBilling.quotations.option_edit'] = 'تحرير';
-$lang['AdminBilling.quotations.heading_options'] = 'الخيارات';
+$lang['AdminBilling.quotations.heading_options'] = 'الإجراءات';
 $lang['AdminBilling.quotations.heading_date_created'] = 'تاريخ الإنشاء';
 $lang['AdminBilling.quotations.heading_total'] = 'المبلغ';
 $lang['AdminBilling.quotations.heading_subtotal'] = 'المجموع الفرعي';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'مفتوح';
 $lang['AdminBilling.invoices.heading_count'] = 'العد';
 $lang['AdminBilling.invoices.heading_duration'] = 'المدة';
 $lang['AdminBilling.invoices.heading_term'] = 'المدة';
-$lang['AdminBilling.invoices.heading_options'] = 'الخيارات';
+$lang['AdminBilling.invoices.heading_options'] = 'الإجراءات';
 $lang['AdminBilling.invoices.heading_datedue'] = 'تاريخ الاستحقاق';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'تاريخ الفاتورة';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'تاريخ الإغلاق';
@@ -182,4 +182,17 @@ $lang['AdminBilling.services.action.unsuspend'] = 'إلغاء التعليق';
 $lang['AdminBilling.services.action.field_suspension_reason'] = 'سبب الإيقاف:';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'هذه الخدمة لها تغييرات معلقة.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'تاريخ الدفع من خلال: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'العناصر المختارة';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'العنصر المحدد';
+$lang['AdminBilling.transactions.option_view'] = 'عرض';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'الإجراءات';
+$lang['AdminBilling.services.text_items_selected'] = 'العناصر المختارة';
+$lang['AdminBilling.services.text_item_selected'] = 'العنصر المحدد';
+$lang['AdminBilling.services.field_filtersubmit'] = 'تطبيق الفلاتر';
+$lang['AdminBilling.services.field_filterclear'] = 'واضح';
+$lang['AdminBilling.services.filter_toggle'] = 'تبديل الفلاتر';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'تطبيق الفلاتر';
+$lang['AdminBilling.quotations.field_filterclear'] = 'واضح';
+$lang['AdminBilling.quotations.filter_toggle'] = 'تبديل الفلاتر';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'انقر على الأدوات لإظهارها أو إخفائها من لوحة التحكم.';
 

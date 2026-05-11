@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'Atualmente, não há pessoal afetado ao 
 $lang['AdminStaff.index.confirm_delete'] = 'A eliminação deste membro da equipa anulará a atribuição de todos os bilhetes atualmente atribuídos a este membro da equipa. Tem a certeza de que pretende apagar este membro da equipa?';
 $lang['AdminStaff.index.option_delete'] = 'Eliminar';
 $lang['AdminStaff.index.option_edit'] = 'Editar';
-$lang['AdminStaff.index.heading_options'] = 'Opções';
+$lang['AdminStaff.index.heading_options'] = 'Acções';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Receber notificações do Ticket Messenger';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Receber e-mails de bilhetes móveis';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Receber e-mails de bilhetes';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -15,7 +15,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Bu geçiş aracını kullanm
 $lang['StripePayments.text_migrate_accounts'] = 'Eski Stripe ağ geçidi tarafından site dışında depolanan ödeme hesaplarını otomatik olarak bu Stripe Payments ağ geçidine taşıyabilirsiniz. Site dışında saklanmayan hesaplar, manuel olarak yeni ödeme hesapları oluşturularak taşınmalıdır. Zaman aşımlarını önlemek için geçişler %1$s\'lik gruplar halinde yapılacaktır. Tüm ödeme hesaplarını geçirmek için bunu gerektiği kadar çalıştırın.';
 $lang['StripePayments.text_accounts_remaining'] = 'Kalan Hesaplar: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Eski Ödeme Hesaplarını Taşıma';
-$lang['StripePayments.webhook_note'] = 'Stripe hesabınızdaki "payment_intent" olayları için aşağıdaki url\'yi Webhook olarak yapılandırmanız önerilir.';
+$lang['StripePayments.webhook_note'] = 'Stripe hesabınızdaki "payment_intent" ve "charge" olayları için aşağıdaki url\'yi Webhook olarak yapılandırmanız önerilir.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'API Gizli Anahtarınız canlı veya test moduna özeldir. Doğru anahtarı kullandığınızdan emin olun.';
 $lang['StripePayments.tooltip_publishable_key'] = 'API Yayınlanabilir Anahtarınız canlı veya test moduna özeldir. Doğru anahtarı kullandığınızdan emin olun.';

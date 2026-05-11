@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'هل أنت متأكد من رغبتك في تحديث هذه العملة؟ ستتم الكتابة فوق سعر صرف هذه العملة عندما يتم تحديث أسعار الصرف تلقائيًا في النظام. يمكنك تعطيل التحديثات التلقائية من ضمن [الإعدادات] &gt; [الشركة] &gt; [العملات] &gt; [إعداد العملة].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'تحرير العملة';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'تحديث العملة';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'سعر الصرف';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'رمز اللاحقة';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'رمز البادئة';

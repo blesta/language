@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Сървъри';
 $lang['Teamspeak.module_row'] = 'Сървър';
 $lang['Teamspeak.description'] = 'TeamSpeak е приложение за гласова комуникация чрез интернет протокол за аудио комуникация между потребители в чат канал.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Обратно';
+$lang['Teamspeak.manage.tab_rows'] = 'Сървъри';
+$lang['Teamspeak.manage.tab_groups'] = 'Групи сървъри';
 

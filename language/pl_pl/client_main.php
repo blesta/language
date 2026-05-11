@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = 'Informacje o koncie zostały pomy
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Wymagane do włączenia uwierzytelniania dwuskładnikowego lub aktualizacji hasła.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Uwierzytelnianie dwuskładnikowe';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Dodaj kredyty';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Usunąć';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['ClientAccounts.index.confirm_delete'] = '이 결제 계정을 삭제하�
 $lang['ClientAccounts.index.option_delete'] = '삭제';
 $lang['ClientAccounts.index.option_verify'] = '확인';
 $lang['ClientAccounts.index.option_edit'] = '편집';
-$lang['ClientAccounts.index.heading_options'] = '옵션';
+$lang['ClientAccounts.index.heading_options'] = '작업';
 $lang['ClientAccounts.index.heading_last4'] = '마지막 4';
 $lang['ClientAccounts.index.heading_type'] = '유형';
 $lang['ClientAccounts.index.heading_name'] = '이름';

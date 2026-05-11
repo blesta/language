@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = '플러그인이 성공적으로
 $lang['AdminCompanyPlugins.!success.upgraded'] = '플러그인이 성공적으로 업그레이드되었습니다.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = '플러그인이 성공적으로 제거되었습니다.';
 $lang['AdminCompanyPlugins.!success.installed'] = '플러그인이 성공적으로 설치되었습니다. 다양한 리소스에 대한 ACL 권한을 등록했을 수 있습니다. 이러한 리소스에 액세스하려면 직원 그룹에 이러한 권한에 대한 액세스 권한을 부여해야 할 수 있습니다.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = '필터 플러그인...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = '일치하는 플러그인을 찾을 수 없습니다.';
 

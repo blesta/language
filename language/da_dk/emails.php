@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.attachments.exist'] = 'Mindst én af de vedhæftede filer f
 $lang['Emails.!error.email.failed_to_send'] = 'E-mailen kunne ikke sendes på grund af et konfigurationsproblem.';
 $lang['Emails.getStatusTypes.active'] = 'Nej, det er det ikke';
 $lang['Emails.getStatusTypes.inactive'] = 'Ja';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Snapshotet hører ikke til den angivne e-mail.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Ugyldigt snapshot-id.';
 

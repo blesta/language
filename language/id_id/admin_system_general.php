@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Direktori unggahan harus ada dan berada di luar direktori web root.';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Edit Jenis Pembayaran';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Perbarui Jenis Pembayaran';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Gunakan Definisi Bahasa';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Jenis';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Nama';
@@ -30,7 +30,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ya.';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Menghapus jenis pembayaran ini akan menyebabkan semua transaksi yang menggunakan jenis pembayaran ini akan diubah menjadi "lainnya". Apakah Anda yakin ingin menghapus jenis pembayaran ini?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Menghapus';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Sunting';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Pilihan';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Tindakan';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Menggunakan Definisi Bahasa';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Jenis';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Nama';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = 'Pengaturan Pemelihar
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Pengaturan GeoIP berhasil diperbarui!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Pengaturan Basic Setup (Pengaturan Dasar) berhasil diperbarui!';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir diaktifkan. Akses file dibatasi untuk: %1$s. Direktori di luar jalur ini tidak dapat diakses.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Direktori Cache';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Nilai ini mewakili jalur server penuh ke tempat Blesta harus menulis berkas yang di-cache. Direktori ini harus dapat ditulis oleh pengguna web server dan pengguna cron. Untuk keamanan, jalur ini harus berada di luar root web; jika harus berada di dalam root web, Blesta akan menulis berkas .htaccess sebagai mitigasi parsial, tetapi konfigurasi server yang mengabaikan .htaccess (seperti Nginx) tidak memberikan perlindungan seperti itu.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Perubahan direktori cache tidak dapat diterapkan karena berkas penanda pada config/cache.dir.php tidak dapat ditulis atau dihapus. Berikan izin tulis pada direktori konfigurasi (dan pada berkas penanda, jika ada) dan coba lagi.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Direktori cache haruslah direktori yang dapat ditulis.';
 

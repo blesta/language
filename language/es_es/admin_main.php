@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminMain.!success.event_edited'] = '¡El evento se ha actualizado correc
 $lang['AdminMain.!success.event_deleted'] = 'El evento se ha eliminado correctamente.';
 $lang['AdminMain.index.page_title'] = 'Cuadro de mandos';
 $lang['AdminMain.index.heading_quicklinks'] = 'Enlaces rápidos';
-$lang['AdminMain.index.no_quicklinks'] = 'No se han establecido enlaces rápidos.';
+$lang['AdminMain.index.no_quicklinks'] = 'Aún no hay enlaces rápidos. Haga clic en el icono de la estrella en cualquier página para añadirla aquí.';
 $lang['AdminMain.index.manage_widgets'] = 'Gestionar widgets';
 $lang['AdminMain.index.customize_dashboard'] = 'Personalizar el panel de control';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Arrastra los widgets de derecha a izquierda para añadirlos a tu panel de control, o de izquierda a derecha para eliminarlos.';
@@ -46,4 +46,13 @@ $lang['AdminMain.editevent.field_all_day'] = 'Todo el día';
 $lang['AdminMain.editevent.field_editeventsubmit'] = 'Evento de actualización';
 $lang['AdminMain.editevent.field_deleteeventsubmit'] = 'Suprimir evento';
 $lang['AdminMain.editevent.confirm_delete'] = '¿Realmente borrar este evento?';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gestión de widgets del panel de control';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Cerrar';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Eliminar enlace rápido';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = '¿Está seguro de que desea eliminar "%1$s" de los enlaces rápidos?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Eliminar';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Cancelar';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Haz clic en los widgets para mostrarlos u ocultarlos de tu panel de control.';
+$lang['AdminMain.calendar.category_list'] = 'Lista';
+$lang['AdminMain.calendar.category_today'] = 'Hoy';
 

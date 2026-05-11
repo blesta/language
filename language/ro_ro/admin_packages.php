@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Grupuri de părinți';
 $lang['AdminPackages.groups.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest grup de pachete? Toate pachetele atribuite acestui grup nu vor mai fi atribuite acestui grup și pot deveni inutilizabile.';
 $lang['AdminPackages.groups.option_delete'] = 'Ștergeți';
 $lang['AdminPackages.groups.option_edit'] = 'Editați';
-$lang['AdminPackages.groups.heading_options'] = 'Opțiuni';
+$lang['AdminPackages.groups.heading_options'] = 'Acțiuni';
 $lang['AdminPackages.groups.heading_type'] = 'Tip';
 $lang['AdminPackages.groups.heading_name'] = 'Nume';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Grupuri de pachete';
@@ -198,12 +198,12 @@ $lang['AdminPackages.index.no_results'] = 'Nu există pachete cu acest statut.';
 $lang['AdminPackages.index.option_delete'] = 'Ștergeți';
 $lang['AdminPackages.index.option_copy'] = 'Copiați';
 $lang['AdminPackages.index.option_edit'] = 'Editați';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Trimiteți';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Aplicați';
 $lang['AdminPackages.index.action.delete'] = 'Ștergerea pachetelor';
 $lang['AdminPackages.index.category_inactive'] = 'Inactiv';
 $lang['AdminPackages.index.category_restricted'] = 'Restricționat';
 $lang['AdminPackages.index.category_active'] = 'Activ';
-$lang['AdminPackages.index.heading_options'] = 'Opțiuni';
+$lang['AdminPackages.index.heading_options'] = 'Acțiuni';
 $lang['AdminPackages.index.heading_qty'] = 'Cantitate';
 $lang['AdminPackages.index.heading_module'] = 'Modul';
 $lang['AdminPackages.index.heading_name'] = 'Nume';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_added'] = 'Pachetul a fost creat cu succes
 $lang['AdminPackages.edit.text_default'] = 'Implicit';
 $lang['AdminPackages.add.text_default'] = 'Implicit';
 $lang['AdminPackages.!tooltip.single_term'] = 'Dacă această opțiune este bifată, serviciile noi care utilizează acest pachet nu se vor reînnoi, ci vor fi anulate automat la sfârșitul perioadei lor inițiale.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Text e-mail generat:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Email HTML generat:';
+$lang['AdminPackages.ai.email_use_button'] = 'Utilizați acest e-mail';
+$lang['AdminPackages.ai.email_generating'] = 'Generarea de e-mailuri...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Descrieți ce ar trebui să conțină e-mailul de bun venit (de exemplu, "Bun venit noului client, explicați configurarea serviciului")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Generați e-mailul de bun venit';
+$lang['AdminPackages.ai.generate_email_button'] = 'Generați e-mailuri cu AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Informații contextuale:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Creați o descriere profesională pentru acest pachet de produse/servicii.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Generați un e-mail de bun venit profesional pentru acest pachet de produse/servicii care să ureze bun venit clientului și să ofere informații utile despre noul serviciu.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Rescrieți și îmbunătățiți acest conținut, păstrând aceleași informații generale:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Revedeți solicitarea de mai sus, adăugați orice instrucțiuni suplimentare, apoi faceți clic pe Generare pentru a crea conținut.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Încărcare prompt...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Contextul solicitării';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Furnizați orice detalii sau cerințe specifice pentru ca AI să le includă în descriere.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'de exemplu, Includeți informații despre asistența 24/7, menționați garanția de 30 de zile pentru returnarea banilor...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Instrucțiuni suplimentare (opțional)';
+$lang['AdminPackages.ai.error_prefix'] = 'Eroare:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Nu a reușit să genereze descrierea';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Vă rugăm să introduceți un prompt';
+$lang['AdminPackages.ai.apply_text'] = 'Versiune text';
+$lang['AdminPackages.ai.apply_html'] = 'Versiunea HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'Aplicați conținutul la:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Descrierea pachetului Caracteristica AI nu este activată';
+$lang['AdminPackages.ai.error_disabled'] = 'Funcțiile AI nu sunt activate';
+$lang['AdminPackages.ai.regenerating'] = 'Regenerarea...';
+$lang['AdminPackages.ai.generating'] = 'Generarea...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Anulează';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenerare';
+$lang['AdminPackages.ai.btn_use'] = 'Utilizați această descriere';
+$lang['AdminPackages.ai.btn_generate'] = 'Generați';
+$lang['AdminPackages.ai.preview_text'] = 'Text generat:';
+$lang['AdminPackages.ai.preview_html'] = 'HTML generat:';
+$lang['AdminPackages.ai.tone_technical'] = 'Tehnic';
+$lang['AdminPackages.ai.tone_casual'] = 'Casual';
+$lang['AdminPackages.ai.tone_professional'] = 'Profesionale';
+$lang['AdminPackages.ai.tone'] = 'Tone';
+$lang['AdminPackages.ai.generate_text'] = 'Generarea textului (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Generați HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Descrieți caracteristicile pachetului, publicul țintă, etc...';
+$lang['AdminPackages.ai.use_content_button'] = 'Utilizați acest conținut';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenerare';
+$lang['AdminPackages.ai.no_context'] = 'Niciun context disponibil';
+$lang['AdminPackages.ai.context_type_email'] = 'E-mail de bun venit';
+$lang['AdminPackages.ai.context_type_description'] = 'Descrierea pachetului';
+$lang['AdminPackages.ai.context_type'] = 'Tip:';
+$lang['AdminPackages.ai.context_module'] = 'Modul:';
+$lang['AdminPackages.ai.context_package'] = 'Pachet:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Conținut generat:';
+$lang['AdminPackages.ai.context_label'] = 'Context:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'Descriere AI rescrisă';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Descriere generată de AI';
+$lang['AdminPackages.ai.modal_title'] = 'Conținut generat de inteligența artificială';
+$lang['AdminPackages.ai.rewrite_button'] = 'Rescriere';
+$lang['AdminPackages.ai.generate_button'] = 'Generați';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Aplicați filtre';
+$lang['AdminPackages.index.field_filterclear'] = 'Clar';
+$lang['AdminPackages.index.filter_toggle'] = 'Modificarea filtrelor';
+$lang['AdminPackages.index.items_selected'] = 'elemente selectate';
 

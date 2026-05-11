@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.!error.meta[autodj].valid'] = 'Vælg venligst en gyldig AutoDJ A
 $lang['Whmsonic.!error.user_name.empty'] = 'Brugernavnet kan ikke være tomt.';
 $lang['Whmsonic.!error.user_password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = 'Tilbage';
+$lang['Whmsonic.manage.tab_rows'] = 'Servere';
+$lang['Whmsonic.manage.tab_groups'] = 'Servergrupper';
 

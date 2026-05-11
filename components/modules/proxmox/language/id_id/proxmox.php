@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'VMID berikutnya (jangan ubah kecuali jika dipe
 $lang['Proxmox.row_meta.port'] = 'Nomor Port SSL';
 $lang['Proxmox.row_meta.host'] = 'Nama host';
 $lang['Proxmox.row_meta.password'] = 'Kata sandi';
-$lang['Proxmox.row_meta.user'] = 'Pengguna';
+$lang['Proxmox.row_meta.user'] = 'Pengguna (dengan @pam atau @pve setelah nama pengguna)';
 $lang['Proxmox.row_meta.server_name'] = 'Label Server';
 $lang['Proxmox.order_options.first'] = 'Server pertama yang tidak penuh';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Tidak ada grup server.';
@@ -131,7 +131,7 @@ $lang['Proxmox.module_row_plural'] = 'Server';
 $lang['Proxmox.module_row'] = 'Server Master Proxmox';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment adalah sebuah lingkungan virtualisasi server sumber terbuka. Ini adalah distribusi Linux berbasis Debian dengan kernel Ubuntu LTS yang dimodifikasi dan memungkinkan penyebaran dan pengelolaan mesin virtual dan kontainer.';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3 hari, %2 jam, %1 menit';
+$lang['Proxmox.!uptime.value'] = '%1$s hari, %2$s jam, %3$s menit';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Silakan Pilih --';
 $lang['Proxmox.!error.module_row.missing'] = 'Terjadi kesalahan internal. Baris modul tidak tersedia.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Lepaskan ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Pasang ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Matikan';
 $lang['Proxmox.!actions.boot'] = 'Boot';
+$lang['Proxmox.back_to_manage'] = 'Kembali';
+$lang['Proxmox.manage.tab_rows'] = 'Server';
+$lang['Proxmox.manage.tab_groups'] = 'Grup Server';
+$lang['Proxmox.tab_isomanager'] = 'Manajer ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Instal ulang';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Instal ulang';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Kata sandi root';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Templat';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Instal ulang';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Manajer ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Gambar';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Gunung';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Lepaskan ISO';
 

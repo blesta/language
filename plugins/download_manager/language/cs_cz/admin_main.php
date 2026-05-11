@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'V této části nejsou žádné statické adr
 $lang['AdminMain.urls.latest_file'] = 'Nejnovější soubor z <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Odstranit';
 $lang['AdminMain.urls.edit'] = 'Upravit';
-$lang['AdminMain.urls.heading_options'] = 'Možnosti';
+$lang['AdminMain.urls.heading_options'] = 'Akce';
 $lang['AdminMain.urls.heading_link'] = 'Odkaz';
 $lang['AdminMain.urls.heading_file'] = 'Soubor';
 $lang['AdminMain.urls.heading_url'] = 'ADRESA URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Správce stahování > Správa';
 $lang['AdminMain.files.no_downloads'] = 'V této sekci nejsou žádné soubory ke stažení.';
 $lang['AdminMain.files.delete'] = 'Odstranit';
 $lang['AdminMain.files.edit'] = 'Upravit';
-$lang['AdminMain.files.go_back'] = 'Přejděte o úroveň výš';
-$lang['AdminMain.files.add_category'] = 'Přidat kategorii zde';
+$lang['AdminMain.files.go_back'] = 'Zpět';
+$lang['AdminMain.files.add_category'] = 'Přidat kategorii';
 $lang['AdminMain.files.add_download'] = 'Přidat ke stažení zde';
 $lang['AdminMain.files.tab_urls'] = 'Statické adresy URL';
 $lang['AdminMain.files.tab_files'] = 'Soubory';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Soubor byl úspěšně přidán.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorie byla úspěšně odstraněna.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorie byla úspěšně aktualizována.';
 $lang['AdminMain.!success.category_added'] = 'Kategorie byla úspěšně vytvořena.';
-$lang['AdminMain.edit.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Soubory';
+$lang['AdminMain.sidebar.urls'] = 'Statické adresy URL';
+$lang['AdminMain.!performance.xsendfile'] = 'Mod_http2 je povolen, ale mod_xsendfile ne. Doporučujeme povolit nebo nainstalovat mod_xsendfile pro lepší výkon a rychlejší stahování.';
+$lang['AdminMain.modal.confirm_delete'] = 'Potvrzení Odstranit';
+$lang['AdminMain.modal.delete'] = 'Odstranit';
+$lang['AdminMain.modal.cancel'] = 'Zrušit';
+$lang['AdminMain.modal.save'] = 'Uložit';
+$lang['AdminMain.add.public'] = 'Veřejně dostupné';
+$lang['AdminMain.add.logged_in'] = 'Musí být přihlášen';
+$lang['AdminMain.add.text_fileinfo'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Zdroj souborů';
+$lang['AdminMain.add.upload'] = 'Nahrát soubor';
+$lang['AdminMain.add.path'] = 'Zadejte cestu k souboru';
 

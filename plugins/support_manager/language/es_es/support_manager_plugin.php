@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Recordatorios';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ajustes';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Envíe automáticamente recordatorios a los clientes para que dejen sus comentarios sobre los tickets que se han cerrado después de un determinado periodo de tiempo.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Enviar recordatorios';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Procesar tickets con IA';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analiza los tickets con IA para generar sugerencias de respuesta y ejecutar automáticamente los usos de la herramienta (cerrar spam, asignar personal, cambiar prioridad).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Ajustes AI';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\Nota: Esta respuesta ha sido generada por AI y debe ser revisada para comprobar su exactitud.';
 

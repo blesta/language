@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Плъзнете уиджетите отдясно наляво, за да ги добавите към таблото за управление, или отляво надясно, за да ги премахнете.';
 $lang['AdminMain.index.customize_dashboard'] = 'Персонализиране на информационното табло';
 $lang['AdminMain.index.manage_widgets'] = 'Управление на уиджети';
-$lang['AdminMain.index.no_quicklinks'] = 'Не са зададени бързи връзки.';
+$lang['AdminMain.index.no_quicklinks'] = 'Все още няма бързи връзки. Кликнете върху иконата на звездата на всяка страница, за да я добавите тук.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Бързи връзки';
 $lang['AdminMain.index.page_title'] = 'Информационно табло';
 $lang['AdminMain.!success.event_deleted'] = 'Събитието е успешно изтрито!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Събитието е успешно
 $lang['AdminMain.!success.event_added'] = 'Събитието е добавено успешно!';
 $lang['AdminMain.!error.event_editable'] = 'Само създателят на събитието може да го изтрие.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Само създателят на събитието може да изтрие това събитие.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Управление на уиджетите на таблото за управление';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Затвори';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Премахване на бърза връзка';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Сигурни ли сте, че искате да премахнете "%1$s" от бързите връзки?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Премахване на';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Отмяна на';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Щракнете върху уиджетите, за да ги покажете или скриете от таблото за управление.';
+$lang['AdminMain.calendar.category_list'] = 'Списък';
+$lang['AdminMain.calendar.category_today'] = 'Днес';
 

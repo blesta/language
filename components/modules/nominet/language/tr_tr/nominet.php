@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = 'Hesaplar';
 $lang['Nominet.module_row'] = 'Hesap';
 $lang['Nominet.description'] = 'Nominet, .UK üst düzey alan adını işleten alan adı kayıt kuruluşudur.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = 'Geri';
+$lang['Nominet.manage.tab_rows'] = 'Sunucular';
+$lang['Nominet.manage.tab_groups'] = 'Sunucu Grupları';
 

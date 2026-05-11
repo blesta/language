@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientContacts.index.boxtitle_contacts'] = 'Kontaktpersoner';
 $lang['ClientContacts.index.heading_name'] = 'Navn';
 $lang['ClientContacts.index.heading_email'] = 'E-mail';
 $lang['ClientContacts.index.heading_type'] = 'Type';
-$lang['ClientContacts.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientContacts.index.heading_options'] = 'Handlinger';
 $lang['ClientContacts.index.option_edit'] = 'Rediger';
 $lang['ClientContacts.index.option_delete'] = 'Slet';
 $lang['ClientContacts.index.confirm_delete'] = 'Er du sikker på, at du vil slette denne kontakt?';

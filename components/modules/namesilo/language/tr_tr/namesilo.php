@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -142,7 +142,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Değer';
 $lang['Namesilo.dnsrecord.host'] = 'Ev sahibi';
 $lang['Namesilo.dnsrecord.record_type'] = 'Tip';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Bu sayfada A, AAAA, CNAME, MX ve TXT DNS kayıtlarını ekleyebilir veya silebilirsiniz. DNS kayıtlarının yayılmasının birkaç dakika sürebileceğini lütfen unutmayın.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Bu sayfada A, AAAA, CNAME, MX ve TXT DNS kayıtlarını ekleyebilir veya silebilirsiniz. DNS kayıtlarının yayılmasının birkaç dakika sürebileceğini lütfen unutmayın. <br/> Bu değişikliklerden herhangi birinin alan adınıza yansıması için ad sunucularını şu şekilde ayarlamanız gerekir:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Kayıt Ekle';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Kayıt(lar)ı Sil';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'DNS Kaydı Ekleme';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Kişileri namesilo\'dan çe
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Namesilo Kişilerini Çekin';
 $lang['Namesilo.notice.default_nameservers'] = 'Bu özellik, etki alanının aşağıdaki ad sunucularını kullanmasını gerektirir: ns1.dnsowl.com, ns2.dnsowl.com ve ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Alan adı kayıt için uygun değildir.';
+$lang['Namesilo.back_to_manage'] = 'Geri';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Eylemler';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Bir veya daha fazla alan özel karakterler (örn. aksanlı harfler) içeriyor. NameSilo kişi alanlarında bu karakterleri desteklemeyebilir.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Alan Adı Yönlendirme';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Alan adına, ad sunucularını değiştirmek veya @ ve www için birincil A kayıtlarını değiştirmek gibi yapacak başka bir şey verdiğinizde alan adı yönlendirme otomatik olarak kaldırılır. <br/> Bu değişikliklerden herhangi birinin alan adınıza yansıması için ad sunucularını şu şekilde ayarlamanız gerekir:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Etki Alanı';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'İletmek İçin';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Yönlendirme Yöntemi';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Permanent Forward (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Geçici İleri (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Gizlenmiş';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktif';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Silme';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Yönlendiricileri Güncelle';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'Yönlendirme URL\'si geçersiz. Lütfen HTTPS veya HTTP kullandığınızdan emin olun.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.!error.apnscp_username.test'] = 'El nombre de usuario no puede emp
 $lang['Apnscp.!error.apnscp_username.length'] = 'El nombre de usuario debe tener entre 1 y 16 caracteres.';
 $lang['Apnscp.!error.apnscp_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Apnscp.!error.apnscp_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
+$lang['Apnscp.back_to_manage'] = 'Volver';
+$lang['Apnscp.manage.tab_rows'] = 'Servidores';
+$lang['Apnscp.manage.tab_groups'] = 'Grupos de servidores';
 

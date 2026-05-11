@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.min'] = 'Le champ %1$s doit contenir au minimum %2
 $lang['PterodactylRule.!error.max'] = 'Le champ %1$s a un maximum de %2$s.';
 $lang['PterodactylRule.!error.between'] = 'Le champ %1$s doit contenir une valeur comprise entre %2$s et %3$s.';
 $lang['PterodactylRule.!error.digitsBetween'] = 'Le champ %1$s doit contenir une valeur comprise entre %2$s et %3$s chiffres.';
+$lang['Pterodactyl.back_to_manage'] = 'Retour';
 

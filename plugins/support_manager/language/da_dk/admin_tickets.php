@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,8 +22,8 @@ $lang['AdminTickets.add.page_title'] = 'Support Manager > Åbn billet';
 $lang['AdminTickets.reply.page_title'] = 'Support Manager > Billet #%1$s';
 $lang['AdminTickets.search.page_title'] = 'Søgeresultater for "%1$s"';
 $lang['AdminTickets.text.unassigned'] = 'Ikke tildelt';
-$lang['AdminTickets.index.category_open'] = 'Afventer svar fra personalet';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Afventer svar fra kunden';
+$lang['AdminTickets.index.category_open'] = 'Venter på personale';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Afventer klient';
 $lang['AdminTickets.index.category_in_progress'] = 'I gang';
 $lang['AdminTickets.index.category_on_hold'] = 'I venteposition';
 $lang['AdminTickets.index.category_closed'] = 'Lukket';
@@ -73,8 +73,8 @@ $lang['AdminTickets.add.field_details'] = 'Detaljer';
 $lang['AdminTickets.add.text_add_attachment'] = 'Tilføj vedhæftet fil';
 $lang['AdminTickets.add.field_addsubmit'] = 'Åben billet';
 $lang['Admintickets.add.client_placeholder'] = 'Kunde-ID eller navn';
-$lang['AdminTickets.add.text_add_response'] = 'Indsæt et foruddefineret svar';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Læg filer her for at uploade eller klik for at vælge filer';
+$lang['AdminTickets.add.text_add_response'] = 'Indsæt foruddefineret svar';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = 'Læg filer her for at uploade, eller klik for at vælge filer';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Fjern fil';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Billet #%1$s';
 $lang['AdminTickets.reply.heading_summary'] = 'Resumé';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Der er ingen yderligere kontakter 
 $lang['AdminTickets.!tooltip.recipients'] = 'E-mailadresse til at få besked, når en billet opdateres.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakter, der skal have besked, når en ticket opdateres. Dem, der ikke er valgt, tilføjes automatisk til sagen, hvis de svarer på den.';
 $lang['AdminTickets.reply.text_domain'] = 'Domæne';
-$lang['AdminTickets.reply.heading_rating'] = 'Bedømmelse';
+$lang['AdminTickets.reply.heading_rating'] = 'Kundernes vurdering';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Bedømmelse Kommentar';
 $lang['AdminTickets.index.heading_rating'] = 'Bedømmelse';
+$lang['AdminTickets.index.text_fullscreen'] = 'Skift til fuld skærm';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Afslut fuld skærm';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Indtast billetnummer';
+$lang['AdminTickets.index.placeholder_summary'] = 'Oversigt over søgning';
+$lang['AdminTickets.index.heading_filters'] = 'Filtre';
+$lang['AdminTickets.index.field_apply_filters'] = 'Anvend filtre';
+$lang['AdminTickets.index.field_clear_filters'] = 'Ryd filtre';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Kontakter og modtagere';
+$lang['AdminTickets.add.search_responses'] = 'Søg efter svar...';
+$lang['AdminTickets.add.no_results'] = 'Ingen matchende svar fundet';
+$lang['AdminTickets.add.searching'] = 'Søger...';
+$lang['AdminTickets.add.search_min_chars'] = 'Indtast mindst 2 tegn for at søge';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Detaljer om billetter';
+$lang['AdminTickets.add.login_as_client'] = 'Log ind som klient';
+$lang['AdminTickets.add.markdown_supported'] = 'Markdown understøttes';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Læg filer her for at uploade, eller klik for at vælge filer';
+$lang['AdminTickets.add.browse_files'] = 'Gennemse filer';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Brugerdefineret';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Kontakter og modtagere';
+$lang['AdminTickets.reply.text_date_rated'] = 'Vurderet: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'På %1$s %2$s %3$s tilføjede en note';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Detaljer om billetter';
+$lang['AdminTickets.reply.login_as_client'] = 'Log ind som klient';
+$lang['AdminTickets.reply.search_responses'] = 'Søg efter svar...';
+$lang['AdminTickets.reply.no_results'] = 'Ingen matchende svar fundet';
+$lang['AdminTickets.reply.searching'] = 'Søger...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Indtast mindst 2 tegn for at søge';
+$lang['AdminTickets.reply.markdown_supported'] = 'Markdown understøttes';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Interne noter er kun synlige for medarbejdere';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Læg filer her for at uploade, eller klik for at vælge filer';
+$lang['AdminTickets.reply.browse_files'] = 'Gennemse filer';
+$lang['AdminTickets.reply.btn_cancel'] = 'Annuller';
+$lang['AdminTickets.reply.client_title'] = 'Kunde';
+$lang['AdminTickets.reply.note_label'] = 'Notat fra personalet';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Generer AI-svar';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'Klar til AI-respons';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenerere';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Genskab AI-reaktion';
+$lang['AdminTickets.reply.text_generating'] = 'Genererer...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenererende...';
+$lang['AdminTickets.reply.text_just_now'] = 'Lige nu';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm siden';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh siden';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd siden';
+$lang['AdminTickets.reply.modal_title'] = 'AI-genereret respons';
+$lang['AdminTickets.reply.label_confidence'] = 'Tillid';
+$lang['AdminTickets.reply.label_generated'] = 'Genereret';
+$lang['AdminTickets.reply.label_model'] = 'Model';
+$lang['AdminTickets.reply.alert_review_required'] = 'Anmeldelse påkrævet';
+$lang['AdminTickets.reply.alert_review_text'] = 'Dette svar blev automatisk genereret af AI. Læs det omhyggeligt igennem, før du sender det, for at sikre, at det er korrekt og har en passende tone.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Interne noter';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Foreslået svar';
+$lang['AdminTickets.reply.label_concerns'] = 'Bekymringer';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Intet svar foreslået. Se interne noter for begrundelse.';
+$lang['AdminTickets.reply.button_cancel'] = 'Annuller';
+$lang['AdminTickets.reply.button_use_response'] = 'Brug dette svar';
+$lang['AdminTickets.reply.button_reject'] = 'Afvis';
+$lang['AdminTickets.reply.button_summarize'] = 'Opsummering';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Sammenfatning af AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Ugyldigt billet-id';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'AI-funktioner er ikke aktiveret for Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Kunne ikke generere AI-svar';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Ugyldigt analyse-ID';
+$lang['AdminTickets.!error.reply_not_found'] = 'Det angivne svar kunne ikke findes.';
+$lang['AdminTickets.!error.summary_failed'] = 'Kunne ikke generere et resumé.';
 

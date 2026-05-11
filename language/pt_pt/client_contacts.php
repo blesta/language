@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'Não tem contactos. Para adicionar o
 $lang['ClientContacts.index.confirm_delete'] = 'Tem a certeza de que pretende apagar este contacto?';
 $lang['ClientContacts.index.option_delete'] = 'Eliminar';
 $lang['ClientContacts.index.option_edit'] = 'Editar';
-$lang['ClientContacts.index.heading_options'] = 'Opções';
+$lang['ClientContacts.index.heading_options'] = 'Acções';
 $lang['ClientContacts.index.heading_type'] = 'Tipo';
 $lang['ClientContacts.index.heading_email'] = 'Correio eletrónico';
 $lang['ClientContacts.index.heading_name'] = 'Nome';

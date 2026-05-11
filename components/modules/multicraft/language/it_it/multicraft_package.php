@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'Selezionare una directo
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'Impostare la quantità massima di memoria come numero intero in MB.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'Impostare il numero massimo di slot per i giocatori da consentire.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'Impostare un nome per il server.';
+$lang['Multicraft.back_to_manage'] = 'Indietro';
 

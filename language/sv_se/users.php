@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = 'Ange ett lösenord som innehåller 
 $lang['Users.!error.current_password.matches'] = 'Lösenordet är ogiltigt.';
 $lang['Users.!error.username.unique'] = 'Det användarnamnet har redan tagits.';
 $lang['Users.!error.username.empty'] = 'Vänligen ange ett användarnamn.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'måste matcha mönstret: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'måste innehålla %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'minst %1$s tecken';
+$lang['Users.!error.password_requirement.length_exact'] = 'exakt %1$s tecken';
+$lang['Users.!error.password_requirement.length_between'] = 'mellan %1$s och %2$s tecken';
+$lang['Users.!error.password_requirement.special_char'] = 'specialtecken';
+$lang['Users.!error.password_requirement.digit'] = 'siffra';
+$lang['Users.!error.password_requirement.uppercase'] = 'versal bokstav';
+$lang['Users.!error.password_requirement.lowercase'] = 'gemen bokstav';
+$lang['Users.!error.new_password.format_custom'] = 'Lösenordet uppfyller inte kraven: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'Lösenordet måste bestå av minst %1$s tecken och får endast innehålla siffror.';
+$lang['Users.!error.new_password.format_alpha'] = 'Lösenordet måste bestå av minst %1$s tecken och får endast innehålla bokstäver.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'Lösenordet måste bestå av minst %1$s tecken och får endast innehålla bokstäver och siffror.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'Lösenordet måste bestå av minst %1$s tecken och får inte innehålla mellanslag.';
+$lang['Users.!error.new_password.format_any'] = 'Lösenordet måste innehålla minst %1$s tecken.';
 

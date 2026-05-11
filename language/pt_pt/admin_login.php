@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,36 +27,51 @@ $lang['AdminLogin.setup.heading_create_account'] = 'Criar a sua conta Pessoal';
 $lang['AdminLogin.setup.field_newsletter'] = 'Subscrever a nossa newsletter. Pode cancelar a subscrição em qualquer altura.';
 $lang['AdminLogin.setup.trial_newsletter'] = 'Ao inscrever-se para um período experimental, o utilizador aceita receber mensagens de correio eletrónico da nossa parte durante o período experimental. Pode optar por não receber mensagens em qualquer altura.';
 $lang['AdminLogin.setup.field_license_key'] = 'Chave de licença';
-$lang['AdminLogin.setup.title_adminarea'] = 'Configuração inicial';
+$lang['AdminLogin.setup.title_adminarea'] = 'Começar a utilizar a Blesta';
 $lang['AdminLogin.setup.page_title'] = 'Configuração inicial';
 $lang['AdminLogin.confirmreset.link_login'] = 'Cancelar, Iniciar sessão';
 $lang['AdminLogin.confirmreset.field_resetsubmit'] = 'Definir palavra-passe';
 $lang['AdminLogin.confirmreset.field_confirm_password'] = 'Confirmar a nova palavra-passe';
 $lang['AdminLogin.confirmreset.field_new_password'] = 'Nova palavra-passe';
-$lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Confirmar a reposição da palavra-passe';
+$lang['AdminLogin.confirmreset.title_adminarea'] = 'Confirmar a reposição da palavra-passe';
 $lang['AdminLogin.confirmreset.page_title'] = 'Confirmar a reposição da palavra-passe';
 $lang['AdminLogin.reset.link_login'] = 'Cancelar, Iniciar sessão';
 $lang['AdminLogin.reset.field_resetsubmit'] = 'Redefinir a palavra-passe';
 $lang['AdminLogin.reset.field_username'] = 'Nome de utilizador';
-$lang['AdminLogin.reset.title_adminarea'] = '%1$s | Redefinir senha';
+$lang['AdminLogin.reset.title_adminarea'] = 'Repor a palavra-passe';
 $lang['AdminLogin.reset.page_title'] = 'Repor a palavra-passe';
 $lang['AdminLogin.otp.link_login'] = 'Cancelar, Iniciar sessão';
 $lang['AdminLogin.otp.field_loginsubmit'] = 'Iniciar sessão';
 $lang['AdminLogin.otp.field_password'] = 'Palavra-passe única';
-$lang['AdminLogin.otp.title_adminarea'] = '%1$s | Área do pessoal';
-$lang['AdminLogin.otp.page_title'] = 'Login OTP';
+$lang['AdminLogin.otp.title_adminarea'] = 'Autenticação de dois factores';
+$lang['AdminLogin.otp.page_title'] = 'Autenticação de dois factores';
 $lang['AdminLogin.index.link_resetpassword'] = 'Redefinir a minha palavra-passe';
 $lang['AdminLogin.index.field_loginsubmit'] = 'Iniciar sessão';
 $lang['AdminLogin.index.field_rememberme'] = 'Lembra-te de mim neste computador.';
 $lang['AdminLogin.index.field_password'] = 'Palavra-passe';
 $lang['AdminLogin.index.field_username'] = 'Nome de utilizador';
-$lang['AdminLogin.index.title_adminarea'] = '%1$s | Área do pessoal';
+$lang['AdminLogin.index.title_adminarea'] = 'Área do pessoal';
 $lang['AdminLogin.index.page_title'] = 'Iniciar sessão';
 $lang['AdminLogin.!info.step_up_otp'] = 'Para continuar, é necessário verificar novamente o seu acesso, introduzindo a sua OTP (One-time Password) abaixo.';
 $lang['AdminLogin.!info.step_up'] = 'Para continuar, é necessário verificar novamente o seu acesso, introduzindo a sua palavra-passe abaixo.';
 $lang['AdminLogin.up.link_cancel'] = 'Cancelar';
 $lang['AdminLogin.up.field_loginsubmit'] = 'Verificar o acesso';
 $lang['AdminLogin.up.field_password'] = 'Palavra-passe';
-$lang['AdminLogin.up.title_adminarea'] = '%1$s | Verificação de acesso';
+$lang['AdminLogin.up.title_adminarea'] = 'Verificação de acesso';
 $lang['AdminLogin.up.page_title'] = 'Verificação de acesso';
+$lang['AdminLogin.index.page_subtitle'] = 'Bem-vindo de volta! Se não tiver um login, contacte o seu administrador.';
+$lang['AdminLogin.index.subtitle_adminarea'] = 'Introduza as suas credenciais para aceder ao painel de administração.';
+$lang['AdminLogin.otp.page_subtitle'] = 'Introduza a sua palavra-passe de uso único para concluir o processo de início de sessão.';
+$lang['AdminLogin.otp.subtitle_adminarea'] = 'Introduza a sua palavra-passe de uso único para verificar a sua identidade.';
+$lang['AdminLogin.up.page_subtitle'] = 'Bem-vindo de volta! Se não tiver um login, contacte o seu administrador.';
+$lang['AdminLogin.up.subtitle_adminarea'] = 'Verifique o seu acesso para continuar.';
+$lang['AdminLogin.up.field_password_otp'] = 'Palavra-passe única';
+$lang['AdminLogin.reset.page_subtitle'] = 'Esqueceu-se da sua palavra-passe? Introduza o seu nome de utilizador para iniciar o processo de reposição.';
+$lang['AdminLogin.reset.subtitle_adminarea'] = 'Introduza o seu nome de utilizador para iniciar o processo de reposição.';
+$lang['AdminLogin.confirmreset.page_subtitle'] = 'Crie uma nova palavra-passe para a sua conta.';
+$lang['AdminLogin.confirmreset.subtitle_adminarea'] = 'Introduza a sua nova palavra-passe abaixo.';
+$lang['AdminLogin.setup.page_subtitle'] = 'Configure a sua instalação Blesta e crie a sua conta de administrador.';
+$lang['AdminLogin.setup.subtitle_adminarea'] = 'Conclua a configuração inicial para começar a gerir o seu sistema de faturação. Isto demora apenas alguns instantes.';
+$lang['AdminLogin.!error.step_up_expired'] = 'A sessão de subida de escalão expirou.';
+$lang['AdminLogin.!success.step_up_extended'] = 'A sessão de aceleração foi alargada.';
 

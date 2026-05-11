@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientQuotations.approve.field_password'] = 'Onaylamak için Giriş Şifr
 $lang['ClientQuotations.approve.heading_approve'] = 'Onaylamak';
 $lang['ClientQuotations.index.option_approve'] = 'Onaylamak';
 $lang['ClientQuotations.index.option_view'] = 'Görünüm';
-$lang['ClientQuotations.index.heading_options'] = 'Seçenekler';
+$lang['ClientQuotations.index.heading_options'] = 'Eylemler';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Tarih Sonu';
 $lang['ClientQuotations.index.heading_date_created'] = 'Tarih Oluşturuldu';
 $lang['ClientQuotations.index.heading_total'] = 'Miktar';

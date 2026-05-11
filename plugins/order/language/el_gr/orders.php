@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['Orders.index.heading_invoice_number'] = 'Τιμολόγιο #';
 $lang['Orders.index.heading_total'] = 'Σύνολο';
 $lang['Orders.index.heading_paid'] = 'Πληρωμένο';
 $lang['Orders.index.heading_date_ordered'] = 'Ημερομηνία παραγγελίας';
-$lang['Orders.index.heading_options'] = 'Επιλογές';
+$lang['Orders.index.heading_options'] = 'Δράσεις';
 $lang['Orders.index.option_view'] = 'Προβολή';
 $lang['Orders.index.option_cancel'] = 'Ακύρωση';
 $lang['Orders.index.no_results'] = 'Δεν έχετε καμία παραγγελία.';
@@ -34,7 +34,7 @@ $lang['Orders.view.heading_label'] = 'Ετικέτα';
 $lang['Orders.view.heading_term'] = 'Όρος';
 $lang['Orders.view.heading_date_created'] = 'Ημερομηνία δημιουργίας';
 $lang['Orders.view.heading_date_renews'] = 'Ημερομηνία Ανανεώνει';
-$lang['Orders.view.heading_options'] = 'Επιλογές';
+$lang['Orders.view.heading_options'] = 'Δράσεις';
 $lang['Orders.view.heading_type'] = 'Τύπος';
 $lang['Orders.view.heading_applied'] = 'Εφαρμοσμένο';
 $lang['Orders.view.heading_status'] = 'Κατάσταση';

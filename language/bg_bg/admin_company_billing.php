@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,16 +108,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(използван %1$
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Налични пакети';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Присвоени пакети';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Всички';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Редактиране на купон';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Актуализиране на купона';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Филтър за група пакети';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Пакети';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Ограничения на пакета';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Премахване на';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Условия';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Период';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Разрешено';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Този купон може да се прилага само за услуги, поръчани за един от избраните срокове/периоди. Ако не са активирани никакви, тогава срокът за услугата ще бъде пренебрегнат при оценката на ограниченията на купона.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Условия';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Ограничения на срока';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Стойност';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Тип';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Валута';
@@ -128,7 +128,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Ограни
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Количество';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Крайна дата';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Начална дата';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Ограничения';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Ограничения и рестрикции';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Генериране на код';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Код на купона';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Само за вътрешна употреба';
@@ -143,7 +143,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Присвое�
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Всички';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Създаване на купон';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Филтър за група пакети';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Пакети';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Ограничения на пакета';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Премахване на';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Условия';
@@ -161,7 +161,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Ограни�
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Количество';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Крайна дата';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Начална дата';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Ограничения';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Ограничения и рестрикции';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Генериране на код';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Код на купона';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Само за вътрешна употреба';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Изисквани
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Опция';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Група опции';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Този купон може да бъде приложен само ако избраните конфигурируеми опции съвпадат. Оставете празно, за да игнорирате ограниченията на конфигурируемите опции.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Конфигурируеми опции';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Ограничения на конфигурируемите опции';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Добавяне на';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Пренареждане на фактурите за доставка след приключването им';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Клиентът ще получава ежедневно известие, когато кредитният му баланс падне под тази сума. Оставете празно, за да деактивирате известията за тази валута.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Максималнат�
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Максималната сума за %1$s трябва да е по-голяма от 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Минималната сума за %1$s трябва да е по-голяма от 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Настройките за обработка на кредити бяха успешно актуализирани!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Моля, въведете име на обратния адрес.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Моля, въведете фирма за обратен адрес.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Моля, въведете обратен адрес.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Моля, въведете обратен адрес на града.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Моля, изберете държава/провинция за обратен адрес.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Моля, въведете пощенски код на обратния адрес.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Моля, изберете държава с адрес за връщане.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Наличните етикети включват: {num} - номерът на цитата (задължително); {year} - четирицифрената година; {month} - двуцифрената цифра на месеца; {day} - двуцифрената цифра на деня от месеца.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Номерата на котировките започват (и се увеличават) от тази начална стойност.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Следващите номера на котировките се увеличават с тази стойност.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Ограничения на използването';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Ограничения на използването';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Плик за отговор';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Адрес за връщане';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Име';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Компания';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Адрес 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Адрес 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Град';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Държава/провинция';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Пощенски код';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Държава';
 

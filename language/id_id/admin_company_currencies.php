@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Apakah Anda yakin ingin memperbarui mata uang ini? Nilai tukar mata uang ini akan ditimpa ketika nilai tukar diperbarui secara otomatis dalam sistem. Anda dapat menonaktifkan pembaruan otomatis di [Pengaturan] > [Perusahaan] > [Mata Uang] > [Pengaturan Mata Uang].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Edit Mata Uang';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Perbarui Mata Uang';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Nilai Tukar';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Simbol Akhiran';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Simbol Awalan';

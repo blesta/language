@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Volgende VMID (niet wijzigen tenzij noodzakeli
 $lang['Proxmox.row_meta.port'] = 'SSL poortnummer';
 $lang['Proxmox.row_meta.host'] = 'Hostnaam';
 $lang['Proxmox.row_meta.password'] = 'Wachtwoord';
-$lang['Proxmox.row_meta.user'] = 'Gebruiker';
+$lang['Proxmox.row_meta.user'] = 'Gebruiker (met @pam of @pve achter de gebruikersnaam)';
 $lang['Proxmox.row_meta.server_name'] = 'Serverlabel';
 $lang['Proxmox.order_options.first'] = 'Eerste niet-volledige server';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Er zijn geen servergroepen.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Proxmox Hoofdserver';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment is een open-source servervirtualisatieomgeving. Het is een op Debian gebaseerde Linux-distributie met een aangepaste Ubuntu LTS-kernel en maakt de inzet en het beheer van virtuele machines en containers mogelijk.';
 $lang['Proxmox.name'] = 'Proxmox';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s dagen, %2$s uren, %1$s minuten';
+$lang['Proxmox.!uptime.value'] = '%1$s dagen, %2$s uren, %3$s minuten';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Selecteer a.u.b.';
 $lang['Proxmox.!error.module_row.missing'] = 'Er is een interne fout opgetreden. De rij van de module is niet beschikbaar.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'ISO ontkoppelen';
 $lang['Proxmox.!actions.mount_iso'] = 'ISO monteren';
 $lang['Proxmox.!actions.shutdown'] = 'Afsluiten';
 $lang['Proxmox.!actions.boot'] = 'Laars';
+$lang['Proxmox.back_to_manage'] = 'Terug';
+$lang['Proxmox.manage.tab_rows'] = 'Servers';
+$lang['Proxmox.manage.tab_groups'] = 'Servergroepen';
+$lang['Proxmox.tab_isomanager'] = 'ISO-manager';
+$lang['Proxmox.tab_lxcreinstall'] = 'Installeer  opnieuw';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Installeer  opnieuw';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Wachtwoord root';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Sjabloon';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Installeer  opnieuw';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO-manager';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Afbeelding';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Mount';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'ISO ontkoppelen';
 

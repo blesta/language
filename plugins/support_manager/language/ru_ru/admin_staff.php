@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'В настоящее время в си
 $lang['AdminStaff.index.confirm_delete'] = 'При удалении этого сотрудника все билеты, назначенные на него, будут отменены. Вы уверены, что хотите удалить этого сотрудника?';
 $lang['AdminStaff.index.option_delete'] = 'Удалить';
 $lang['AdminStaff.index.option_edit'] = 'Редактировать';
-$lang['AdminStaff.index.heading_options'] = 'Опции';
+$lang['AdminStaff.index.heading_options'] = 'Действия';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Получайте уведомления в Ticket Messenger';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Получайте электронные письма с билетами на мобильный телефон';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Получать электронные сообщения о билетах';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminTools.accountaccess.type_ach'] = '%1$s - %2$s';
 $lang['AdminTools.accountaccess.type_cc'] = '%1$s - %2$s';
 $lang['AdminTools.!success.currency_converted'] = '%1$s = %2$s';
-$lang['AdminTools.blacklistadd.field_submit'] = '규칙 추가';
+$lang['AdminTools.blacklistadd.field_submit'] = '규칙 만들기';
 $lang['AdminTools.blacklistadd.field_note'] = '참고';
 $lang['AdminTools.blacklistadd.field_type'] = '유형';
 $lang['AdminTools.blacklistadd.field_rule'] = '규칙';
@@ -23,7 +23,7 @@ $lang['AdminTools.blacklist.option_delete'] = '삭제';
 $lang['AdminTools.blacklist.text_system'] = '시스템';
 $lang['AdminTools.blacklist.text_type_email'] = '이메일 주소';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP 주소';
-$lang['AdminTools.blacklist.heading_options'] = '옵션';
+$lang['AdminTools.blacklist.heading_options'] = '작업';
 $lang['AdminTools.blacklist.heading_note'] = '참고';
 $lang['AdminTools.blacklist.heading_list'] = '목록';
 $lang['AdminTools.blacklist.heading_type'] = '유형';
@@ -159,7 +159,7 @@ $lang['AdminTools.renewals.option_change_max'] = '최대 변경';
 $lang['AdminTools.renewals.option_dequeue'] = '대기열';
 $lang['AdminTools.renewals.option_view'] = '송장 보기';
 $lang['AdminTools.renewals.confirm_dequeue'] = '이 서비스를 갱신 대기열에서 제거하시겠습니까?';
-$lang['AdminTools.renewals.heading_options'] = '옵션';
+$lang['AdminTools.renewals.heading_options'] = '작업';
 $lang['AdminTools.renewals.heading_invoice'] = '인보이스';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = '최대 시도 횟수';
 $lang['AdminTools.renewals.heading_failed_attempts'] = '실패한 시도';
@@ -175,7 +175,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = '이모티�
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = '이모티콘과 같은 4바이트 문자를 지원하도록 데이터베이스, 테이블 및 열의 문자 집합과 데이터 정렬을 utf8mb4로 업데이트합니다.  이 작업에는 몇 분이 걸릴 수 있습니다.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'utf8mb4로 업데이트';
 $lang['AdminTools.utilities.update_collation'] = '데이터베이스 데이터 정렬 업데이트';
-$lang['AdminTools.utilities.heading_options'] = '옵션';
+$lang['AdminTools.utilities.heading_options'] = '작업';
 $lang['AdminTools.utilities.heading_description'] = '설명';
 $lang['AdminTools.utilities.heading_utility'] = '유틸리티';
 $lang['AdminTools.utilities.boxtitle_utilities'] = '유틸리티';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = '현재 갱신을 위해 대�
 $lang['AdminTools.renewals.no_results_provision'] = '현재 프로비저닝을 위해 대기 중인 서비스가 없습니다.';
 $lang['AdminTools.!notice.conditions_met'] = '항목은 모든 조건이 충족되어 시도할 준비가 된 경우에만 지정된 대기열에 표시됩니다.';
 $lang['AdminTools.!success.service_changes_canceled'] = '서비스 변경이 성공적으로 취소되었습니다.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = '발신 차단';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = '이 주소로 발신 이메일 차단';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = '발신 차단';
 $lang['AdminTools.renewals.no_results_changes'] = '현재 프로비저닝을 위해 대기 중인 서비스 변경 사항이 없습니다.';
 $lang['AdminTools.renewals.option_retry'] = '다시 시도';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = '상태';
 $lang['AdminTools.renewals.category_changes'] = '서비스 변경 사항';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = '미지급 갱신';
 $lang['AdminTools.!success.service_changes_scheduled'] = '서비스 변경이 성공적으로 예약되었습니다.';
+$lang['AdminTools.integritycheck.text_summary'] = '%1$s 파일을 확인했습니다: %2$s 확인, %3$s 수정됨, %4$s 누락됨.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = '매니페스트 파일(manifest.json)을 찾을 수 없습니다. 이 파일은 공식 릴리스에 포함되어 있으며 무결성 검사를 수행하는 데 필요합니다.';
+$lang['AdminTools.integritycheck.text_error'] = '파일을 확인하는 동안 오류가 발생했습니다.';
+$lang['AdminTools.integritycheck.text_no_issues'] = '모든 파일이 매니페스트와 일치합니다. 수정되거나 누락된 파일이 감지되지 않았습니다.';
+$lang['AdminTools.integritycheck.text_ok'] = '확인';
+$lang['AdminTools.integritycheck.text_total_files'] = '총 파일 수';
+$lang['AdminTools.integritycheck.category_vendor'] = '공급업체';
+$lang['AdminTools.integritycheck.category_core'] = '핵심';
+$lang['AdminTools.integritycheck.status_missing'] = '누락';
+$lang['AdminTools.integritycheck.status_modified'] = '수정됨';
+$lang['AdminTools.integritycheck.heading_category'] = '카테고리';
+$lang['AdminTools.integritycheck.heading_file'] = '파일';
+$lang['AdminTools.integritycheck.heading_status'] = '상태';
+$lang['AdminTools.integritycheck.text_checking'] = '파일을 확인하는 중입니다. 잠시만 기다려주세요. 잠시 시간이 걸릴 수 있습니다...';
+$lang['AdminTools.integritycheck.field_run_again'] = '다시 실행';
+$lang['AdminTools.integritycheck.field_download_report'] = '보고서 다운로드';
+$lang['AdminTools.integritycheck.field_run_check'] = '무결성 검사 실행';
+$lang['AdminTools.integritycheck.text_description'] = '이 릴리스와 함께 제공된 매니페스트와 비교하여 설치된 파일을 확인합니다. 이렇게 하면 SHA256 해시를 비교하여 파일 무결성을 확인하고 수정된 파일을 식별할 수 있어 문제 해결 및 업그레이드를 수행하기 전에 유용하게 사용할 수 있습니다.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = '시스템 무결성 검사';
+$lang['AdminTools.integritycheck.page_title'] = '시스템 무결성 검사';
+$lang['AdminTools.!success.cache_cleared'] = '파일 캐시가 성공적으로 지워졌습니다.';
+$lang['AdminTools.utilities.field_integrity_check'] = '실행 확인';
+$lang['AdminTools.utilities.text_integrity_check'] = '배송된 매니페스트와 비교하여 핵심 파일을 확인하여 수정되었거나 누락된 파일을 식별합니다.';
+$lang['AdminTools.utilities.integrity_check'] = '시스템 무결성 검사';
+$lang['AdminTools.utilities.text_clear_file_cache'] = '탐색, 보기, 플러그인 캐시 등 캐시된 파일을 지웁니다. 캐시가 다시 빌드될 때까지 페이지 로딩 속도가 약간 느려질 수 있습니다.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = '캐시 지우기';
+$lang['AdminTools.utilities.clear_file_cache'] = '파일 캐시 지우기';
+$lang['AdminTools.getlognames.text_system'] = '시스템';
+$lang['AdminTools.integritycheck.text_manifest_version'] = '매니페스트 버전: %1$s (생성됨 %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = '결제 후 현재 갱신 대기 중인 서비스가 없습니다.';
+$lang['AdminTools.logsystem.page_title'] = '도구 로그';
+$lang['AdminTools.logsystem.text_date'] = '날짜';
+$lang['AdminTools.logsystem.text_level'] = '레벨';
+$lang['AdminTools.logsystem.text_message'] = '메시지';
+$lang['AdminTools.logsystem.no_results'] = '시스템 로그 항목이 없습니다.';
+$lang['AdminTools.logsystem.no_log_dir'] = '로그 디렉터리가 구성되어 있지 않거나 읽을 수 없습니다. 설정 &gt; 시스템 &gt; 일반에서 구성하세요.';
+$lang['AdminTools.logsystem.level_emergency'] = '긴급 상황';
+$lang['AdminTools.logsystem.level_alert'] = '알림';
+$lang['AdminTools.logsystem.level_critical'] = '중요';
+$lang['AdminTools.logsystem.level_error'] = '오류';
+$lang['AdminTools.logsystem.level_warning'] = '경고';
+$lang['AdminTools.logsystem.level_notice'] = '공지 사항';
+$lang['AdminTools.logsystem.level_info'] = '정보';
+$lang['AdminTools.logsystem.level_debug'] = 'Debug';
 

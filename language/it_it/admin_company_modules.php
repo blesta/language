@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Il modulo è stato aggio
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Il modulo è stato disinstallato con successo.';
 $lang['AdminCompanyModules.!success.installed'] = 'Il modulo è stato installato con successo.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Il modulo è stato aggiornato con successo.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Moduli di filtraggio...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Non sono stati trovati moduli corrispondenti.';
 

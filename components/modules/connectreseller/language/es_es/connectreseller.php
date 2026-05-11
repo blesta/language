@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.order_options.first'] = 'Primer servidor no lleno';
 $lang['Connectreseller.order_options.roundrobin'] = 'Distribución uniforme entre servidores';
 $lang['Connectreseller.tab_client_nameservers.title_list'] = 'Servidores de nombres';
 $lang['Connectreseller.tab_nameservers.title_list'] = 'Servidores de nombres';
+$lang['Connectreseller.back_to_manage'] = 'Volver';
+$lang['Connectreseller.manage.tab_rows'] = 'Servidores';
+$lang['Connectreseller.manage.tab_groups'] = 'Grupos de servidores';
 

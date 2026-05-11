@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.domain.qli_jurisdiction_country'] = 'Akkreditering Land';
 $lang['Opensrs.domain.qli_jurisdiction_state'] = 'Akkreditering Stat';
 $lang['Opensrs.domain.qli_accreditation_year'] = 'Akkrediteringsår';
 $lang['Opensrs.domain.icm_membership_id'] = 'ICM medlemskab ID';
+$lang['Opensrs.back_to_manage'] = 'Tilbage';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,7 +88,7 @@ $lang['AdminMain.add.term_days'] = '%1$s Zile';
 $lang['AdminMain.add.term_day'] = 'Ziua %1$s';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Indisponibil';
 $lang['AdminMain.add.text_domain_available'] = 'Disponibil';
-$lang['AdminMain.add.heading_options'] = 'Opțiuni';
+$lang['AdminMain.add.heading_options'] = 'Acțiuni';
 $lang['AdminMain.add.heading_status'] = 'Stare';
 $lang['AdminMain.add.heading_domain'] = 'Domeniu';
 $lang['AdminMain.add.title_registrar_options'] = 'Opțiuni de înregistrare';
@@ -109,7 +109,7 @@ $lang['AdminMain.add.field_add'] = 'Adăugați un domeniu';
 $lang['AdminMain.add.field_register'] = 'Înregistrare';
 $lang['AdminMain.add.field_transfer'] = 'Transfer';
 $lang['AdminMain.add.link_viewclient'] = 'Vezi clientul';
-$lang['AdminMain.add.boxtitle_add'] = 'Adăugați domeniu: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Adăugare domeniu %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Client #%1$s';
 $lang['AdminMain.index.unparent'] = 'Unparent și Reset Preț';
 $lang['AdminMain.!error.unsupported_domain'] = 'Numele de domeniu nu este acceptat.';
@@ -143,7 +143,7 @@ $lang['AdminMain.index.category_canceled'] = 'Anulat';
 $lang['AdminMain.index.category_suspended'] = 'Suspendat';
 $lang['AdminMain.index.category_pending'] = 'În așteptare';
 $lang['AdminMain.index.category_active'] = 'Activ';
-$lang['AdminMain.index.heading_options'] = 'Opțiuni';
+$lang['AdminMain.index.heading_options'] = 'Acțiuni';
 $lang['AdminMain.index.heading_datecanceled'] = 'Data anulării';
 $lang['AdminMain.index.heading_datesuspended'] = 'Data suspendării';
 $lang['AdminMain.index.heading_dateexpires'] = 'Data expirării';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Reîmprospătare';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domeniul a fost transferat de la registrator.';
 $lang['AdminMain.!success.remove_price_override'] = 'Prețul de depășire a domeniului a fost eliminat!';
 $lang['AdminMain.!success.set_price_override'] = 'Prețul de depășire a domeniului a fost actualizat!';
+$lang['AdminMain.add.heading_search'] = 'Căutare domeniu';
+$lang['AdminMain.add.field_domain'] = 'Domeniu';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Spotlight TLD-uri';
+$lang['AdminMain.add.link_more_tlds'] = 'Mai multe TLD-uri';
+$lang['AdminMain.add.button_cancel'] = 'Anulează';
+$lang['AdminMain.add.button_previous'] = 'Articolul precedent';
+$lang['AdminMain.add.button_continue'] = 'Continuați';
+$lang['AdminMain.add_confirmation.total'] = 'Total:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Posturi';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Cod cupon';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Total comandă';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Introduceți codul cuponului';
+$lang['AdminMain.edit.text_select_action'] = 'Faceți clic pe un buton de mai sus pentru a afișa formularul pentru a efectua o acțiune.';
+$lang['AdminMain.edit.text_no_fields'] = 'Această acțiune nu necesită opțiuni suplimentare. Faceți clic pe Submit (Trimitere) pentru a continua.';
 

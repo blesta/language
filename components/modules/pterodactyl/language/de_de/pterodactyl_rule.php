@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Das Feld %1$s muss eine ganze Zahl en
 $lang['PterodactylRule.!error.numeric'] = 'Das Feld %1$s muss eine Zahl enthalten.';
 $lang['PterodactylRule.!error.regex'] = 'Das Feld %1$s muss mit dem Regex %2$s übereinstimmen.';
 $lang['PterodactylRule.!error.required'] = 'Das Feld %1$s ist erforderlich.';
+$lang['Pterodactyl.back_to_manage'] = 'Zurück';
 

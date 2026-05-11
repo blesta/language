@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -15,7 +15,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = '信用卡付�
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = '拒绝付款（信用卡）';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = '信用卡付款成功获批后发出的通知。';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = '批准付款（信用卡）';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = '更新';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = '申请';
 $lang['AdminCompanyEmails.templates.no_results'] = '没有此类模板。';
 $lang['AdminCompanyEmails.templates.option_edit'] = '编辑';
 $lang['AdminCompanyEmails.templates.text_options'] = '选项';
@@ -181,7 +181,7 @@ $lang['AdminCompanyEmails.templates.payment_ach_declined_name'] = '拒绝付款�
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = '电子邮件模板';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = '附加附件';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = '文件名称';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = '选项';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = '行动';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = '您确定要删除此附件吗？';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = '删除';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = '附件';
@@ -189,11 +189,11 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = '取消';
 $lang['AdminCompanyEmails.edittemplate.field_continue'] = '继续';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = '无';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = '更新 HTML 模板';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = '编辑模板';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = '更新模板';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = '标签';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = '名称';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = '编辑 HTML 模板';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = '添加模板';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = '创建模板';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = '标签';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = '名称';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = '添加 HTML 模板';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = '服务取�
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = '取消服务';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = '当客户积分余额低于配置阈值时发送通知。';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = '余额不足通知';
+$lang['AdminCompanyEmails.ai.preview_subject'] = '建议主题';
+$lang['AdminCompanyEmails.ai.apply_text'] = '文本版本';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML 版本';
+$lang['AdminCompanyEmails.ai.apply_subject'] = '主题词';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = '将内容应用于';
+$lang['AdminCompanyEmails.ai.error_prefix'] = '错误：';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = '请求过多。请稍候再试。';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = '内容生成失败。请重试。';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = '提示超过最大长度。';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = '生成内容需要提示。';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = '未启用人工智能电子邮件模板生成。';
+$lang['AdminCompanyEmails.ai.error_disabled'] = '人工智能功能目前处于禁用状态。';
+$lang['AdminCompanyEmails.ai.preview_text'] = '文本预览';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML 预览';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = '单击生成，根据模板类型和可用标记创建电子邮件内容。';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = '生成内容';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = '人工智能自定义生成内容的可选指导。';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = '添加具体要求或音调偏好...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = '附加说明';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = '加载提示...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = '提示语境';
+$lang['AdminCompanyEmails.ai.generating'] = '生成...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = '取消';
+$lang['AdminCompanyEmails.ai.use_content_button'] = '使用本内容';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = '再生';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = '重写';
+$lang['AdminCompanyEmails.ai.generate_button'] = '生成';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = '重写电子邮件内容';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = '生成电子邮件内容';
+$lang['AdminCompanyEmails.ai.modal_title'] = '人工智能内容助理';
+$lang['AdminCompanyEmails.mail.text_copied'] = '已复制！';
+$lang['AdminCompanyEmails.mail.text_copy'] = '复制';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 重定向 URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = '您确定要恢复此快照吗？任何未保存的更改都将丢失。';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = '此电子邮件模板没有可用快照。';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = '模板历史';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = '恢复快照';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = '恢复';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = '浏览文件';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = '在此处投放文件或点击浏览上传附件';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = '在电子邮件模板中使用这些标签来包含动态内容。';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = '可用标签';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = '输入电子邮件的纯文本版本';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = '输入电子邮件主题';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = '输入电子邮件地址';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = '输入来自名称';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = '所选项目';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = '复制此 URL 并将其作为授权重定向 URI 添加到 OAuth 提供商的应用程序设置中（如 Google Cloud Console、Microsoft Azure Portal）。这是使 OAuth 身份验证生效的必要条件。';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = '已成功从快照中恢复电子邮件模板！';
 

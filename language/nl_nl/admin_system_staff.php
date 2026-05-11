@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Berich
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'BCC-berichten per e-mail';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Toegangscontrolelijst';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Algemeen';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Groep bewerken';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Update Groep';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Afmelden bij wijziging IP-adres';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Bedrijf';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Naam';
@@ -38,14 +38,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Weet je zeker dat je deze personeelsgroep wilt verwijderen?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Bewerk';
 $lang['AdminSystemStaff.groups.no_results'] = 'Er zijn geen personeelsgroepen.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Opties';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Acties';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Aantal medewerkers';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Bedrijfsnaam';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Naam';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Groep maken';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Personeelsgroepen';
 $lang['AdminSystemStaff.groups.page_title'] = 'Instellingen > Systeem > Personeel > Personeelsgroepen';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Personeel bewerken';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Update personeel';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Beschikbare groepen';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Ledengroepen';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Twee Factor Pin';
@@ -90,7 +90,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Bewerk';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Dit personeelslid echt reactiveren?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Dit personeelslid echt deactiveren?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Er zijn geen medewerkers met deze status.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Opties';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Acties';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Naam';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Personeel toevoegen';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.staff_updated'] = 'Dat personeelslid is succesv
 $lang['AdminSystemStaff.!success.staff_added'] = 'Dat personeelslid is succesvol toegevoegd!';
 $lang['AdminSystemStaff.edit.field_recovery_email'] = 'Herstelmail (optioneel)';
 $lang['AdminSystemStaff.add.field_recovery_email'] = 'Herstelmail (optioneel)';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Meldingen';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Meldingen';
 

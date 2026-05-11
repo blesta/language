@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = '重新分配定价';
 $lang['AdminMain.index.no_results'] = '没有可用于重新分配定价的服务。';
 $lang['AdminMain.index.text_never'] = '从不';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = '选项';
+$lang['AdminMain.index.heading_options'] = '行动';
 $lang['AdminMain.index.heading_date_renews'] = '续订日期';
 $lang['AdminMain.index.heading_date_created'] = '创建日期';
 $lang['AdminMain.index.heading_term'] = '学期';

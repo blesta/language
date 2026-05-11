@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Lütfen bir eylem adı girin.';
 $lang['Actions.!error.url.empty'] = 'Lütfen bir URL girin.';
 $lang['Actions.!error.location.unique'] = 'Konum ve URL bu şirket için benzersiz olmalıdır.';
 $lang['Actions.!error.location.valid'] = 'Geçersiz geçerli konum.';
+$lang['Actions.!error.icon.length'] = 'Simge sınıfı 255 karakteri geçmemelidir.';
 

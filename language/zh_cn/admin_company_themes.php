@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -151,7 +151,7 @@ $lang['AdminCompanyThemes.index.no_results'] = '没有此类主题。';
 $lang['AdminCompanyThemes.index.option_export'] = '出口';
 $lang['AdminCompanyThemes.index.option_delete'] = '删除';
 $lang['AdminCompanyThemes.index.option_edit'] = '编辑';
-$lang['AdminCompanyThemes.index.heading_options'] = '选项';
+$lang['AdminCompanyThemes.index.heading_options'] = '行动';
 $lang['AdminCompanyThemes.index.heading_name'] = '名称';
 $lang['AdminCompanyThemes.index.heading_color'] = '色彩方案';
 $lang['AdminCompanyThemes.index.heading_id'] = '身份证';

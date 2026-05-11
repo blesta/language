@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!warning.simplexml.recommended'] = 'Simplexml-udvidels
 $lang['SystemRequirements.!warning.zlib.recommended'] = 'Vi anbefaler zlib-udvidelsen for bedre ydeevne.';
 $lang['SystemRequirements.!warning.soap.recommended'] = 'Sæbeudvidelsen er nødvendig for automatisk momshåndtering.';
 $lang['SystemRequirements.!warning.cache_writable.recommended'] = 'For bedre ydeevne skal du sikre dig, at %1$s kan skrives af webserveren.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL version 5.7.7 eller MariaDB version 10.2.2 eller nyere er påkrævet. Din version: %1$s.';
 

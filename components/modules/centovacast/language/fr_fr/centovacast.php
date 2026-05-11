@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -160,4 +160,7 @@ $lang['Centovacast.!error.api.internal'] = 'Une erreur interne s\'est produite o
 $lang['Centovacast.!error.module_row.missing'] = 'Une erreur interne s\'est produite. La ligne du module n\'est pas disponible.';
 $lang['Centovacast.!error.centovacast_hostname.format'] = 'Veuillez saisir un nom d\'hôte valide, par exemple domain.com.';
 $lang['Centovacast.!error.centovacast_adminpassword.valid'] = 'Le mot de passe doit comporter au moins 5 caractères.';
+$lang['Centovacast.back_to_manage'] = 'Retour';
+$lang['Centovacast.manage.tab_rows'] = 'Serveurs';
+$lang['Centovacast.manage.tab_groups'] = 'Groupes de serveurs';
 

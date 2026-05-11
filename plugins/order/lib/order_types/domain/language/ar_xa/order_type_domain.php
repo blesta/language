@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'بحث TLD';
 $lang['Main.steps.step_1_description'] = 'اختر نطاقاً';
-$lang['OrderTypeDomain.settings.heading_options'] = 'الخيارات';
+$lang['OrderTypeDomain.settings.heading_options'] = 'الإجراءات';
 $lang['OrderTypeDomain.settings.heading_period'] = 'الفترة';
 $lang['OrderTypeDomain.settings.heading_term'] = 'المدة';
 $lang['OrderTypeDomain.settings.text_term'] = 'الحد الأدنى للفترة والمدة';

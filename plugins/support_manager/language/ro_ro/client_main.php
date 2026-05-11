@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s minute';
 $lang['ClientMain.index.any'] = 'Orice';
 $lang['ClientMain.index.option_reply'] = 'Răspuns';
 $lang['ClientMain.index.option_close'] = 'Închideți';
-$lang['ClientMain.index.heading_options'] = 'Opțiuni';
+$lang['ClientMain.index.heading_options'] = 'Acțiuni';
 $lang['ClientMain.index.heading_status'] = 'Stare';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Ultimul răspuns';
 $lang['ClientMain.index.heading_summary'] = 'Rezumat';

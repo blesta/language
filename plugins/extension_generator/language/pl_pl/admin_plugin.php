@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Następny - Potwierdzenie';
 $lang['AdminPlugin.features.text_remove'] = 'Usunąć';
-$lang['AdminPlugin.features.text_options'] = 'Opcje';
+$lang['AdminPlugin.features.text_options'] = 'Działania';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Dodaj zadanie Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Dodaj kartę Zarządzanie usługami';
 $lang['AdminPlugin.features.placeholder_time'] = 'np. 14:25 lub 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Akcja dla URI, z którego ma
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Kontroler URI, z którego ma być pobierana zawartość dla akcji (np. admin_main).';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Lokalizacja w interfejsie do wyświetlenia akcji';
 $lang['AdminPlugin.integrations.text_remove'] = 'Usunąć';
-$lang['AdminPlugin.integrations.text_options'] = 'Opcje';
+$lang['AdminPlugin.integrations.text_options'] = 'Działania';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Karty klienta to małe pola wyświetlane na profilu klienta (w obszarze klienta lub administratora) i są używane głównie do wyświetlania różnych statystyk (np. liczby usług, biletów lub zamówień). Składają się one z wartości, etykiety, tła i linku.  Etykieta jest wyświetlana poniżej wartości, która jest pobierana z funkcji zwrotnej.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Jest to system haków w Blesta.  Zdarzenia są rejestrowane przez rdzeń lub przez wtyczkę, a następnie wtyczki nasłuchują tych zdarzeń i definiują metody obsługi dla zdarzenia.  Ponieważ każda wtyczka może rejestrować zdarzenia, może być ich dowolna liczba, jednak listę podstawowych zdarzeń zdefiniowanych przez blesta można znaleźć tutaj https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Akcje" reprezentują strony wtyczek, które są dostępne za pośrednictwem głównego interfejsu. Obejmuje to łącza nawigacyjne w obszarze administratora i klienta, widżety w obszarze administratora i łącza na pasku bocznym profilu klienta. Wprowadzone tutaj kontrolery i akcje zostaną wykorzystane do wygenerowania prostych plików kontrolerów. Ponadto dla każdej akcji zostaną utworzone przykładowe pliki widoków.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Dodaj działanie';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Podstawowe integracje';
 $lang['AdminPlugin.database.integrations'] = 'Dalej - Podstawowe integracje';
 $lang['AdminPlugin.database.text_remove'] = 'Usunąć';
-$lang['AdminPlugin.database.text_options'] = 'Opcje';
+$lang['AdminPlugin.database.text_options'] = 'Działania';
 $lang['AdminPlugin.database.text_more_info'] = 'Ta strona służy do tworzenia schematu tabel bazy danych generowanych i zarządzanych przez tę wtyczkę. Zostanie wygenerowany kod do dodawania i usuwania tych tabel podczas instalacji i deinstalacji. Ponadto zostaną utworzone pliki modeli dla tych tabel z kilkoma podstawowymi funkcjami.';
 $lang['AdminPlugin.database.placeholder_length'] = 'np. 64 lub \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'np. column_name';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Logo wyświetlane na liście wtyczek.
 $lang['AdminPlugin.basic.tooltip_description'] = 'Opis wyświetlany na liście wtyczek';
 $lang['AdminPlugin.basic.text_remove'] = 'Usunąć';
 $lang['AdminPlugin.basic.author_row_add'] = 'Dodaj autora';
-$lang['AdminPlugin.basic.text_options'] = 'Opcje';
+$lang['AdminPlugin.basic.text_options'] = 'Działania';
 $lang['AdminPlugin.basic.author_url'] = 'Autor URL';
 $lang['AdminPlugin.basic.author_name'] = 'Nazwa autora';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

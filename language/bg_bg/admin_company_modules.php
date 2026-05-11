@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Модулът беше 
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Модулът беше успешно деинсталиран.';
 $lang['AdminCompanyModules.!success.installed'] = 'Модулът е инсталиран успешно.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Модулът беше успешно надграден.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Филтърни модули...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Не са намерени подходящи модули.';
 

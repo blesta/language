@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'الخوادم';
 $lang['Teamspeak.module_row'] = 'الخادم';
 $lang['Teamspeak.description'] = 'TeamSpeak هو تطبيق بروتوكول إنترنت صوتي للاتصال الصوتي بين المستخدمين على قناة دردشة.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'رجوع';
+$lang['Teamspeak.manage.tab_rows'] = 'الخوادم';
+$lang['Teamspeak.manage.tab_groups'] = 'مجموعات الخوادم';
 

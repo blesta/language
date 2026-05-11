@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'القمامة';
 $lang['SupportManagerTickets.status.closed'] = 'مغلق';
 $lang['SupportManagerTickets.status.on_hold'] = 'قيد الانتظار';
 $lang['SupportManagerTickets.status.in_progress'] = 'قيد التنفيذ';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'في انتظار رد العميل';
-$lang['SupportManagerTickets.status.open'] = 'في انتظار رد الموظفين';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'في انتظار العميل';
+$lang['SupportManagerTickets.status.open'] = 'في انتظار الموظفين';
 $lang['SupportManagerTickets.priority.low'] = 'منخفضة';
 $lang['SupportManagerTickets.priority.medium'] = 'متوسط';
 $lang['SupportManagerTickets.priority.high'] = 'عالية';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.contacts.valid'] = 'واحدة على الأ
 $lang['SupportManagerTickets.!error.priority.valid'] = 'يرجى تحديد أولوية صالحة لهذا القسم.';
 $lang['SupportManagerTickets.log.service_id'] = 'تم تغيير الخدمة ذات الصلة إلى المعرف الداخلي: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" مطلوب ولا يمكن أن يكون فارغًا.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'تم تحديث التذكرة رقم%1$s ';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'التذكرة الجديدة #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s تم الرد على التذكرة رقم%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s فتح التذكرة رقم%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'التذكرة رقم%1$s المخصصة';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'التذكرة رقم%1$s المخصصة لك: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'تعذر تحميل الصورة. يرجى المحاولة مرة أخرى.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'تتجاوز الصورة الحد الأقصى للحجم المسموح به وهو %1$sميغابايت.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'نوع الصورة غير صالح. يُسمح فقط بصور JPEG و PNG و GIF و WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'تعذر إنشاء دليل التحميل.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'تعذر حفظ الصورة. يرجى المحاولة مرة أخرى.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'الصور المضمنة base64 غير مسموح بها. يرجى لصق الصور أو سحبها إلى المحرر لرفعها.';
 

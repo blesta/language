@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,7 +129,7 @@ $lang['ClientServices.index.no_results'] = 'ليس لديك %1$s خدمات ';
 $lang['ClientServices.index.text_never'] = 'أبداً';
 $lang['ClientServices.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientServices.index.option_manage'] = 'الإدارة';
-$lang['ClientServices.index.heading_options'] = 'الخيارات';
+$lang['ClientServices.index.heading_options'] = 'الإجراءات';
 $lang['ClientServices.index.heading_datecanceled'] = 'تاريخ الإلغاء';
 $lang['ClientServices.index.heading_datesuspended'] = 'تاريخ الإيقاف';
 $lang['ClientServices.index.heading_daterenews'] = 'تاريخ التجديدات';

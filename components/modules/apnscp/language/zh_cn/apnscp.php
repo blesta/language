@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.module_row_plural.name'] = '服务器';
 $lang['Apnscp.module_row.name'] = '服务器';
 $lang['Apnscp.description'] = '前称 APNSCP。';
 $lang['Apnscp.name'] = 'ApisCP';
+$lang['Apnscp.back_to_manage'] = '返回';
+$lang['Apnscp.manage.tab_rows'] = '服务器';
+$lang['Apnscp.manage.tab_groups'] = '服务器组';
 

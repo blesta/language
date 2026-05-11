@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = '放弃订单';
 $lang['AdminForms.add.tab_basic'] = '基本';
 $lang['AdminForms.index.field_status_inactive'] = '不活动';
 $lang['AdminForms.index.field_status_active'] = '活跃';
-$lang['AdminForms.index.text_confirm_delete'] = '真的要删除这张订购单吗？';
+$lang['AdminForms.index.text_confirm_delete'] = '您确定要删除此订单吗？';
 $lang['AdminForms.index.option_delete'] = '删除';
 $lang['AdminForms.index.option_edit'] = '编辑';
 $lang['AdminForms.index.heading_options'] = '选项';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = '选择套餐时，请显�
 $lang['AdminForms.edit.field_monthly_breakdown'] = '显示屏月度定价细目';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = '选择套餐时，请显示每个定价选项的每月费用，以及与每月价格相比每月节省的费用（如适用）。';
 $lang['AdminForms.add.field_monthly_breakdown'] = '显示屏月度定价细目';
+$lang['AdminForms.index.heading_actions'] = '行动';
+$lang['AdminForms.index.back_to_forms'] = '返回订购表格';
+$lang['AdminForms.add.field_require_recurring_consent'] = '要求同意重复订阅';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = '启用后，客户在完成包含重复项目的订单前必须明确同意重复计费。这将取代保存付款详细信息复选框。';
+$lang['AdminForms.add.field_cancel'] = '取消';
+$lang['AdminForms.edit.field_require_recurring_consent'] = '要求同意重复订阅';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = '启用后，客户在完成包含重复项目的订单前必须明确同意重复计费。这将取代保存付款详细信息复选框。';
+$lang['AdminForms.edit.field_cancel'] = '取消';
+$lang['AdminForms.embed_codes.heading'] = '域名搜索嵌入代码';
+$lang['AdminForms.embed_codes.description'] = '复制以下片段之一，在外部网站上嵌入域名搜索表单。提交后将打开该订单上的结账页面，并预载输入的域名。';
+$lang['AdminForms.embed_codes.label_first'] = '输入该订单的 URL 标签，以生成嵌入代码。';
+$lang['AdminForms.embed_codes.html_plain'] = '纯 HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = '预览';
+$lang['AdminForms.embed_codes.copy'] = '复制';
+$lang['AdminForms.embed_codes.csrf_required'] = '嵌入式域搜索需要使用 CSRF 旁路。';
+$lang['AdminForms.embed_codes.csrf_instructions'] = '如果不在 config/blesta.php 中的 Blesta.csrf_bypass 数组中添加 config::preconfig 配置，来自外部网站的 POST 将被拒绝：';
 

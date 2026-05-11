@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'Следваща - Потвържда
 $lang['AdminMerchant.features.heading_supported_features'] = 'Поддържани функции';
 $lang['AdminMerchant.fields.features'] = 'Следващия - Поддържани функции';
 $lang['AdminMerchant.fields.text_remove'] = 'Премахване на';
-$lang['AdminMerchant.fields.text_options'] = 'Опции';
+$lang['AdminMerchant.fields.text_options'] = 'Действия';
 $lang['AdminMerchant.fields.field_row_add'] = 'Добавяне на поле за конфигурация';
 $lang['AdminMerchant.fields.placeholder_label'] = 'напр. поле за конфигуриране';
 $lang['AdminMerchant.fields.placeholder_name'] = 'напр. configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'Логото, което се по�
 $lang['AdminMerchant.basic.tooltip_description'] = 'Описанието, показано в списъка с плъгини';
 $lang['AdminMerchant.basic.text_remove'] = 'Премахване на';
 $lang['AdminMerchant.basic.author_row_add'] = 'Добавяне на автор';
-$lang['AdminMerchant.basic.text_options'] = 'Опции';
+$lang['AdminMerchant.basic.text_options'] = 'Действия';
 $lang['AdminMerchant.basic.author_url'] = 'Адрес на автора';
 $lang['AdminMerchant.basic.author_name'] = 'Име на автора';
 $lang['AdminMerchant.basic.currencies'] = 'Валути';

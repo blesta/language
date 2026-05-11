@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.myinfo.setting_autodebit_disabled'] = 'لم يتم إعداد 
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'مطلوب لتمكين المصادقة الثنائية أو تحديث كلمة المرور.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'المصادقة الثنائية';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'إضافة اعتمادات';
+$lang['ClientMain.edit.link_remove_avatar'] = 'إزالة';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Завантажити докум
 $lang['AdminMain.modal.delete_document'] = 'Дійсно видалити цей документ?';
 $lang['AdminMain.index.option_download'] = 'Завантажити';
 $lang['AdminMain.index.option_delete'] = 'Видалити';
-$lang['AdminMain.index.heading_date_options'] = 'Параметри';
+$lang['AdminMain.index.heading_date_options'] = 'Дії';
 $lang['AdminMain.index.heading_date_added'] = 'Дата додавання';
 $lang['AdminMain.index.heading_description'] = 'Опис';
 $lang['AdminMain.index.heading_name'] = 'Ім\'я';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Документи > Додати';
 $lang['AdminMain.index.page_title'] = 'Документи';
 $lang['AdminMain.!success.document_deleted'] = 'Документ було видалено.';
 $lang['AdminMain.!success.document_uploaded'] = 'Документ завантажено.';
+$lang['AdminMain.index.link_client'] = 'Повернутися до Клієнта ##.%1$s';
+$lang['AdminMain.add.link_back'] = 'Повернутися до документів';
 

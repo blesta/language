@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Server';
 $lang['Tcadmin.module_row'] = 'Server';
 $lang['Tcadmin.description'] = 'TCAdmin, das Spiele-Hosting-Control-Panel, wurde von Grund auf so konzipiert, dass es den heutigen Game Service Providern hilft, Zeit und Geld zu sparen, und gleichzeitig den Endbenutzern die vollständige Kontrolle über ihre Server ermöglicht.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Zurück';
+$lang['Tcadmin.manage.tab_rows'] = 'Server';
+$lang['Tcadmin.manage.tab_groups'] = 'Server-Gruppen';
 

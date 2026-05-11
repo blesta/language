@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminModule.basic.module_type_generic'] = 'Générique';
 $lang['AdminModule.basic.module_type_registrar'] = 'Greffier';
 $lang['AdminModule.basic.author_name'] = 'Nom de l\'auteur';
 $lang['AdminModule.basic.author_url'] = 'URL de l\'auteur';
-$lang['AdminModule.basic.text_options'] = 'Options';
+$lang['AdminModule.basic.text_options'] = 'Actions';
 $lang['AdminModule.basic.author_row_add'] = 'Ajouter un auteur';
 $lang['AdminModule.basic.text_remove'] = 'Retirer';
 $lang['AdminModule.basic.static_tlds'] = 'Définition statique des TLD';
@@ -101,7 +101,7 @@ $lang['AdminModule.fields.placeholder_service_label'] = 'par exemple, domaine de
 $lang['AdminModule.fields.module_row_add'] = 'Ajouter un champ de ligne de module';
 $lang['AdminModule.fields.package_row_add'] = 'Ajouter un champ de paquet';
 $lang['AdminModule.fields.service_row_add'] = 'Ajouter un champ de service';
-$lang['AdminModule.fields.text_options'] = 'Options';
+$lang['AdminModule.fields.text_options'] = 'Actions';
 $lang['AdminModule.fields.text_remove'] = 'Retirer';
 $lang['AdminModule.fields.features'] = 'Suivant - Caractéristiques supplémentaires';
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Code EPP';
@@ -133,7 +133,7 @@ $lang['AdminModule.features.placeholder_cron_label'] = 'Par exemple, My Cron Tas
 $lang['AdminModule.features.placeholder_time'] = 'par exemple 14:25 ou 60';
 $lang['AdminModule.features.service_tab_row_add'] = 'Ajouter l\'onglet Gestion des services';
 $lang['AdminModule.features.cron_task_row_add'] = 'Ajouter une tâche Cron';
-$lang['AdminModule.features.text_options'] = 'Options';
+$lang['AdminModule.features.text_options'] = 'Actions';
 $lang['AdminModule.features.text_remove'] = 'Retirer';
 $lang['AdminModule.features.confirm'] = 'Suivant - Confirmation';
 

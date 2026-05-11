@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Ειδοποί
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Απόρριψη πληρωμής (πιστωτική κάρτα)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Ειδοποίηση που αποστέλλεται μετά την έγκριση μιας επιτυχημένης πληρωμής με πιστωτική κάρτα.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Εγκεκριμένη πληρωμή (Πιστωτική κάρτα)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Ενημέρωση';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Εφαρμογή';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Δεν υπάρχουν πρότυπα αυτού του τύπου.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Επεξεργασία';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Επιλογές';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Ακύρωση';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Συνημμένο';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Διαγραφή';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Σίγουρα θέλετε να διαγράψετε αυτό το συνημμένο αρχείο;';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Επιλογές';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Δράσεις';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Όνομα αρχείου';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Πρόσθετα συνημμένα';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Πρότυπο email';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Κανένα';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Ενημέρωση προτύπου HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Επεξεργασία προτύπου';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Πρότυπο ενημέρωσης';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Ετικέτες';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Όνομα';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Επεξεργασία προτύπου HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Προσθήκη προτύπου';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Δημιουργία προτύπου';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Ετικέτες';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Όνομα';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Προσθήκη προτύπου HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Ειδοπ�
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Ακύρωση υπηρεσίας';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Ειδοποίηση που αποστέλλεται όταν το πιστωτικό υπόλοιπο του πελάτη πέσει κάτω από το ρυθμισμένο όριο.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Ειδοποίηση χαμηλού υπολοίπου';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Προτεινόμενο θέμα';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Έκδοση κειμένου';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Έκδοση HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Γραμμή θέματος';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Εφαρμόστε το περιεχόμενο σε:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Σφάλμα:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Πάρα πολλά αιτήματα. Περιμένετε λίγο πριν προσπαθήσετε ξανά.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Η δημιουργία περιεχομένου απέτυχε. Προσπαθήστε ξανά.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Η προτροπή υπερβαίνει το μέγιστο μήκος.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Για τη δημιουργία περιεχομένου απαιτείται μια προτροπή.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Η δημιουργία προτύπων ηλεκτρονικού ταχυδρομείου AI δεν είναι ενεργοποιημένη.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Τα χαρακτηριστικά AI είναι προς το παρόν απενεργοποιημένα.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Προεπισκόπηση κειμένου';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Προεπισκόπηση HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Κάντε κλικ στην επιλογή Δημιουργία για να δημιουργήσετε περιεχόμενο ηλεκτρονικού ταχυδρομείου με βάση τον τύπο προτύπου και τις διαθέσιμες ετικέτες.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Παραγόμενο περιεχόμενο';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Προαιρετική καθοδήγηση για την τεχνητή νοημοσύνη για την προσαρμογή του παραγόμενου περιεχομένου.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Προσθέστε ειδικές απαιτήσεις ή προτιμήσεις τόνου...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Πρόσθετες οδηγίες';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Φόρτωση προτροπής...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Πλαίσιο προτροπής';
+$lang['AdminCompanyEmails.ai.generating'] = 'Δημιουργία...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Ακύρωση';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Χρησιμοποιήστε αυτό το περιεχόμενο';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Αναγεννήστε το';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Ξαναγράψτε το';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Δημιουργία';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Επανεγγραφή περιεχομένου email';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Δημιουργία περιεχομένου email';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Βοηθός περιεχομένου AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Αντιγραφή!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Αντιγραφή';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI ανακατεύθυνσης OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Είστε σίγουροι ότι θέλετε να επαναφέρετε αυτό το στιγμιότυπο; Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Δεν υπάρχουν διαθέσιμα στιγμιότυπα για αυτό το πρότυπο email.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Πρότυπο Ιστορία';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Επαναφορά στιγμιότυπου';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Επαναφορά';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Αναζήτηση αρχείων';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Αφήστε αρχεία εδώ ή κάντε κλικ στο κουμπί περιήγησης για να ανεβάσετε συνημμένα αρχεία';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Χρησιμοποιήστε αυτές τις ετικέτες στο πρότυπο email σας για να συμπεριλάβετε δυναμικό περιεχόμενο.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Διαθέσιμες ετικέτες';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Εισάγετε την έκδοση απλού κειμένου του email';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Εισάγετε το θέμα του email';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Εισάγετε από τη διεύθυνση ηλεκτρονικού ταχυδρομείου';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Εισάγετε το όνομα';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Αντιγράψτε αυτό το URL και προσθέστε το ως εξουσιοδοτημένο URI ανακατεύθυνσης στις ρυθμίσεις εφαρμογής του παρόχου σας OAuth (π.χ. Google Cloud Console, Microsoft Azure Portal). Αυτό απαιτείται για να λειτουργήσει ο έλεγχος ταυτότητας OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Το πρότυπο email έχει αποκατασταθεί επιτυχώς από το στιγμιότυπο!';
 

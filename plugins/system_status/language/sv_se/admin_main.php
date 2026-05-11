@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Överlag är systemet i gott skick, men 
 $lang['AdminMain.index.health_excellent'] = 'Systemet är i gott skick och verkar fungera normalt.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurera?';
 $lang['AdminMain.index.upload_dir'] = 'Sökvägen till uppladdningskatalogen i dina inställningar finns i rotwebbkatalogen.  Den bör placeras ovanför rotwebbkatalogen för att säkerställa att det aldrig finns något problem med att den är allmänt tillgänglig.';
+$lang['AdminMain.index.text_info'] = 'Information om';
+$lang['AdminMain.index.text_warning'] = 'Varning';
+$lang['AdminMain.index.text_error'] = 'Fel';
+$lang['AdminMain.index.text_success'] = 'Framgång';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'System';
+$lang['AdminMain.index.category_database'] = 'Databas';
+$lang['AdminMain.index.category_security'] = 'Säkerhet';
 

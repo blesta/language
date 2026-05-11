@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Adăug
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Valoarea textului implicit';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Valoare implicită Verificat';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Valoare';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Editare câmp personalizat';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Actualizarea câmpului personalizat';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Criptarea valorilor';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex personalizat';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Necesar';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Cerâ
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Valoarea textului implicit';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Valoare implicită Verificat';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Valoare';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Adăugați un câmp personalizat';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Crearea unui câmp personalizat';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Criptarea valorilor';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Regex personalizat';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Necesar';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nume';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Creați un câmp';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Răsfoiți câmpurile personalizate ale clientului';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Setări > Companie > Opțiuni client > Câmpuri personalizate client > Răsfoiește';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Trimiteți';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Actualizarea setărilor';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Împiedicați plățile de la clienți neverificați';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'ID client Valoare de creștere';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID client Valoare de pornire';

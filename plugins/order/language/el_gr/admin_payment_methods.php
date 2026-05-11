@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminPaymentMethods.index.boxtitle_payment_methods'] = 'Μέθοδοι π
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Προσθήκη μεθόδου πληρωμής θυγατρικών';
 $lang['AdminPaymentMethods.index.no_results'] = 'Δεν υπάρχουν μέθοδοι πληρωμής αυτή τη στιγμή.';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Όνομα';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Επιλογές';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Δράσεις';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Διαγραφή';
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη μέθοδο πληρωμής;';

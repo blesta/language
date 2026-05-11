@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['ClientAccounts.index.boxtitle_accounts'] = 'Comptes de paiement';
 $lang['ClientAccounts.index.heading_name'] = 'Nom';
 $lang['ClientAccounts.index.heading_type'] = 'Type';
 $lang['ClientAccounts.index.heading_last4'] = 'Les 4 derniers';
-$lang['ClientAccounts.index.heading_options'] = 'Options';
+$lang['ClientAccounts.index.heading_options'] = 'Actions';
 $lang['ClientAccounts.index.option_edit'] = 'Editer';
 $lang['ClientAccounts.index.option_verify'] = 'Vérifier';
 $lang['ClientAccounts.index.option_delete'] = 'Supprimer';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,5 @@ $lang['MulticraftModule.!error.panel_api_url.empty'] = 'Zadejte prosím adresu U
 $lang['MulticraftModule.!error.panel_url.empty'] = 'Zadejte prosím adresu URL svého panelu Multicraft.';
 $lang['MulticraftModule.!error.server_name.empty'] = 'Zadejte prosím označení tohoto serveru.';
 $lang['MulticraftModule.!error.json.unavailable'] = 'Tento modul vyžaduje rozšíření JSON.';
+$lang['Multicraft.back_to_manage'] = 'Zpět';
 

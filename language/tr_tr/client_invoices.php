@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['ClientInvoices.applied.heading_amount'] = 'Miktar';
 $lang['ClientInvoices.applied.heading_paymenttype'] = 'Ödeme Tipi';
 $lang['ClientInvoices.index.option_pay'] = 'Ödeme';
 $lang['ClientInvoices.index.option_view'] = 'Görünüm';
-$lang['ClientInvoices.index.heading_options'] = 'Seçenekler';
+$lang['ClientInvoices.index.heading_options'] = 'Eylemler';
 $lang['ClientInvoices.index.heading_datedue'] = 'Son Tarih';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Fatura Tarihi';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Tarih Kapalı';

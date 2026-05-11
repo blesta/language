@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = 'Vă întrebați cum să confi
 $lang['AdminSystemHelp.index.heading_user_manual'] = 'Manual de utilizare';
 $lang['AdminSystemHelp.boxtitle_help'] = 'Resurse';
 $lang['AdminSystemHelp.index.page_title'] = 'Setări > Sistem > Ajutor > Resurse';
+$lang['AdminSystemHelp.credits.page_title'] = 'Setări &gt; Sistem &gt; Ajutor &gt; Despre Blesta';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'Despre Blesta';
 

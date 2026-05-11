@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'مفتاح واجهة برمجة التطبيق
 $lang['Blockonomics.!error.api_key.valid'] = 'مفتاح API غير صالح.';
 $lang['Blockonomics.description'] = 'اقبل مدفوعات البيتكوين، يتم إيداع كل عملية بيع عبر الإنترنت مباشرةً في محفظتك. لا يلزم تقديم وثائق "اعرف عميلك".';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'حدد العملات أدناه لتهيئة معرّفات المنتجات الأصلية الخاصة بها.';
 

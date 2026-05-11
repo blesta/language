@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'ID grup klien tidak valid.';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari jumlah minimum.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Jumlah kredit maksimum untuk %1$s harus lebih besar dari 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Jumlah kredit minimum untuk %1$s harus lebih besar dari 0.';
+$lang['Clients.!error.action[].exists'] = 'Tindakan pemberitahuan tidak valid.';
+$lang['Clients.!error.action.exists'] = 'Tindakan pemberitahuan tidak valid "%1$s".';
 

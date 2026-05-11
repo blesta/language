@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Fișierul de confi
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'Este necesară extensia "%1$s". Versiunea dumneavoastră: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'Este necesară extensia "%1$s".';
 $lang['SystemRequirements.!error.php.minimum'] = 'Este necesară versiunea PHP %1$s sau mai mare. Versiunea dvs.: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'Este necesară versiunea MySQL 5.7.7 sau versiunea MariaDB 10.2.2 sau mai mare. Versiunea dvs.: %1$s.';
 

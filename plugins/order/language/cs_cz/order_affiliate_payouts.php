@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Vyberte platný stav výpl
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Neplatné ID platební metody.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Neplatné ID pobočky.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Neplatné ID výplaty.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Požadovaná výplata';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s požádal o výplatu ve výši %2$s';
 

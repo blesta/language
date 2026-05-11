@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.addcategory.page_title'] = 'Support Manager > Categorie to
 $lang['AdminResponses.edit.page_title'] = 'Support Manager > Voorgedefinieerde reactie bewerken';
 $lang['AdminResponses.add.page_title'] = 'Support Manager > Vooraf gedefinieerde reactie toevoegen';
 $lang['AdminResponses.index.page_title'] = 'Support Manager > Voorgedefinieerde reacties';
+$lang['AdminResponses.index.btn_back'] = 'Terug';
+$lang['AdminResponses.index.btn_add_category'] = 'Categorie toevoegen';
+$lang['AdminResponses.index.btn_add_response'] = 'Reactie toevoegen';
 

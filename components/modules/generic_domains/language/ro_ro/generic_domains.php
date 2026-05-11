@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = 'Către e-mailuri';
 $lang['GenericDomains.manage.from_email'] = 'De la e-mail';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Setări de notificare';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Toate e-mailurile destinatarilor, separate prin virgulă.';
+$lang['Generic_domains.back_to_manage'] = 'Înapoi';
+$lang['GenericDomains.manage.text_available_tags'] = 'Etichete disponibile';
 

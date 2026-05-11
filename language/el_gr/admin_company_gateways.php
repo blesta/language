@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Ενημέρωση';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Ορίστε την προεπιλεγμένη εμπορική πύλη για κάθε νόμισμα.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Προεπιλεγμένες πύλες εμπόρων';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Οι προεπιλεγμένες εμπορικές πύλες ενημερώθηκαν επιτυχώς.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Δεν βρέθηκαν αντίστοιχες πύλες.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Πύλες φίλτρου...';
 

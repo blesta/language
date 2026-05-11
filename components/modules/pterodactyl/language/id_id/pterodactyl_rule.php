@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Kolom %1$s harus berisi sebuah bilang
 $lang['PterodactylRule.!error.numeric'] = 'Bidang %1$s harus berisi angka.';
 $lang['PterodactylRule.!error.regex'] = 'Bidang %1$s harus sesuai dengan regex %2$s.';
 $lang['PterodactylRule.!error.required'] = 'Bidang %1$s wajib diisi.';
+$lang['Pterodactyl.back_to_manage'] = 'Kembali';
 

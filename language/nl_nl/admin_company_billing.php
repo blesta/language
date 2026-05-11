@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,16 +88,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(gebruikt %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Beschikbare pakketten';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Toegewezen pakketten';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Alle';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Coupon bewerken';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Coupon bijwerken';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Filter pakketgroep';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Pakketten';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Pakketbeperkingen';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Verwijder';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N.V.T.';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Voorwaarden';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Periode';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Ingeschakeld';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Deze coupon kan alleen worden toegepast op diensten die zijn besteld voor een van de geselecteerde termijnen/perioden. Als er geen zijn ingeschakeld, dan wordt de termijn voor de service genegeerd bij het evalueren van couponbeperkingen.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Voorwaarden';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Termijnbeperkingen';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Waarde';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Type';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Valuta';
@@ -123,7 +123,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Toegewezen pakk
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Alle';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Coupon maken';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Filter pakketgroep';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Pakketten';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Pakketbeperkingen';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Verwijder';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N.V.T.';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Voorwaarden';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Vereisten';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Optie';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Optiegroep';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Deze coupon kan alleen worden toegepast als de geselecteerde configureerbare opties overeenkomen. Laat leeg om configureerbare optiebeperkingen te negeren.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Configureerbare opties';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Configureerbare optiebeperkingen';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Voeg  toe';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Facturen opnieuw inleveren nadat ze zijn gesloten';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'De klant ontvangt dagelijks een melding wanneer zijn tegoed onder dit bedrag daalt. Laat leeg om meldingen voor deze valuta uit te schakelen.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Het maximumbedrag voor 
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Het maximumbedrag voor %1$s moet groter zijn dan 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Het minimumbedrag voor %1$s moet groter zijn dan 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'De instellingen voor Credit Handling zijn succesvol bijgewerkt!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Voer een retouradresnaam in.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Voer een retouradres bedrijf in.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Voer een retouradres in.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Voer een stad in voor het retouradres.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Selecteer een retouradres staat/provincie.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Voer een retouradres postcode in.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Selecteer een land voor het retouradres.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Beschikbare tags zijn onder andere: {num} - het noteringsnummer (verplicht); {year} - het viercijferige jaar; {month} - de tweecijferige maand; {day} - de tweecijferige dag van de maand.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Quoteringsnummers beginnen (en stijgen) vanaf deze beginwaarde.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Volgende noteringsnummers worden met deze waarde verhoogd.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Gebruiksbeperkingen';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Gebruiksbeperkingen';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Antwoord-envelop';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Retouradres';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Naam';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Bedrijf';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Adres 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Adres 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Stad';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Staat/provincie';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Postcode';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Land';
 

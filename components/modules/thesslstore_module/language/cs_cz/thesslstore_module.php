@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Zadejte prosím
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Zadejte prosím název prodejce';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Pověření již existují';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Ve volání API se něco pokazilo';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Z rozhraní API nebyly vráceny žádné produkty. Zkontrolujte prosím své pověření API a zkuste to znovu.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% Marže se vztahuje na cenu všech produktů. Později ji můžete změnit v nabídce nastavení cen.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'E-mail schvalovatele změn';
 

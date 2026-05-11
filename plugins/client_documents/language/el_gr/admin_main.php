@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Ανέβασμα εγγράφου
 $lang['AdminMain.modal.delete_document'] = 'Πραγματικά διαγράφετε αυτό το έγγραφο;';
 $lang['AdminMain.index.option_download'] = 'Λήψη';
 $lang['AdminMain.index.option_delete'] = 'Διαγραφή';
-$lang['AdminMain.index.heading_date_options'] = 'Επιλογές';
+$lang['AdminMain.index.heading_date_options'] = 'Δράσεις';
 $lang['AdminMain.index.heading_date_added'] = 'Ημερομηνία προσθήκης';
 $lang['AdminMain.index.heading_description'] = 'Περιγραφή';
 $lang['AdminMain.index.heading_name'] = 'Όνομα';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Έγγραφα > Προσθήκη';
 $lang['AdminMain.index.page_title'] = 'Έγγραφα';
 $lang['AdminMain.!success.document_deleted'] = 'Το έγγραφο έχει διαγραφεί.';
 $lang['AdminMain.!success.document_uploaded'] = 'Το έγγραφο έχει μεταφορτωθεί.';
+$lang['AdminMain.index.link_client'] = 'Πίσω στον πελάτη #%1$s';
+$lang['AdminMain.add.link_back'] = 'Επιστροφή στα Έγγραφα';
 

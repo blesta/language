@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Ungültige Kundengruppen-ID.';
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Der maximale Kreditbetrag für %1$s muss größer sein als der Mindestbetrag.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Der maximale Kreditbetrag für %1$s muss größer als 0 sein.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Der Mindestkreditbetrag für %1$s muss größer als 0 sein.';
+$lang['Clients.!error.action[].exists'] = 'Ungültige Benachrichtigungsaktion.';
+$lang['Clients.!error.action.exists'] = 'Ungültige Benachrichtigungsaktion "%1$s".';
 

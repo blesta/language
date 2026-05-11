@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.name'] = 'Vultr';
 $lang['Vultr.get_baremetal_plans.plan_name'] = '%1$s %2$s %3$sc %4$s %5$sx%6$sGB RAM %7$sMB';
 $lang['Vultr.get_server_plans.plan_name'] = '%1$s 디스크 %2$sGB RAM %3$sMB vCore %4$s';
 $lang['Vultr.get_templates.paid_template_name'] = '%1$s(추가 요금 적용)';
+$lang['Vultr.back_to_manage'] = '뒤로';
 

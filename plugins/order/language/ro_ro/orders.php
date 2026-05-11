@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = 'Număr';
 $lang['Orders.view.heading_status'] = 'Stare';
 $lang['Orders.view.heading_applied'] = 'Aplicată';
 $lang['Orders.view.heading_type'] = 'Tip';
-$lang['Orders.view.heading_options'] = 'Opțiuni';
+$lang['Orders.view.heading_options'] = 'Acțiuni';
 $lang['Orders.view.heading_date_renews'] = 'Data reînnoiește';
 $lang['Orders.view.heading_date_created'] = 'Data creării';
 $lang['Orders.view.heading_term'] = 'Termen';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Vezi comanda';
 $lang['Orders.index.no_results'] = 'Nu aveți nicio comandă.';
 $lang['Orders.index.option_cancel'] = 'Anulează';
 $lang['Orders.index.option_view'] = 'Vezi';
-$lang['Orders.index.heading_options'] = 'Opțiuni';
+$lang['Orders.index.heading_options'] = 'Acțiuni';
 $lang['Orders.index.heading_date_ordered'] = 'Data comenzii';
 $lang['Orders.index.heading_paid'] = 'Plătită';
 $lang['Orders.index.heading_total'] = 'Total';

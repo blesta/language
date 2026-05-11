@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.module_row_plural'] = '服务器';
 $lang['Vesta.module_row'] = '服务器';
 $lang['Vesta.description'] = 'Vesta 或 VestaCP 是一个开源网站控制面板，被认为是 cPanel 的最佳替代品。它不仅在安全性和频繁更新方面与 cPanel 不相上下，而且完全免费。';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.back_to_manage'] = '返回';
+$lang['Vesta.manage.tab_rows'] = '服务器';
+$lang['Vesta.manage.tab_groups'] = '服务器组';
 

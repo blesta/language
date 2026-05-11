@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = 'Bu üyeliği devre dışı 
 $lang['AdminAffiliates.index.option_activate'] = 'Etkinleştir';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Devre dışı bırak';
 $lang['AdminAffiliates.index.option_manage'] = 'Yönetmek';
-$lang['AdminAffiliates.index.heading_options'] = 'Seçenekler';
+$lang['AdminAffiliates.index.heading_options'] = 'Eylemler';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Tarih Güncelleme';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Tarih Eklendi';
 $lang['AdminAffiliates.index.heading_sales'] = 'Satış';

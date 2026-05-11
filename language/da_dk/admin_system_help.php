@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.heading_forums'] = 'Fællesskabets fora';
 $lang['AdminSystemHelp.index.text_forums'] = 'Blesta-forummet er et community-drevet supportcenter, hvor brugerne indsender spørgsmål og svar, der spænder fra enkle til komplekse.';
 $lang['AdminSystemHelp.index.heading_discord'] = 'Discord Chat';
 $lang['AdminSystemHelp.index.text_discord'] = 'Vær med på Discord for at diskutere og hænge ud med andre medlemmer af fællesskabet.';
+$lang['AdminSystemHelp.credits.page_title'] = 'Indstillinger &gt; System &gt; Hjælp &gt; Om Blesta';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'Om Blesta';
 

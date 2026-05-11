@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = '휴지통';
 $lang['SupportManagerTickets.status.closed'] = '닫힘';
 $lang['SupportManagerTickets.status.on_hold'] = '보류 중';
 $lang['SupportManagerTickets.status.in_progress'] = '진행 중';
-$lang['SupportManagerTickets.status.awaiting_reply'] = '고객 응답 대기 중';
-$lang['SupportManagerTickets.status.open'] = '직원 답변 대기 중';
+$lang['SupportManagerTickets.status.awaiting_reply'] = '대기 중인 클라이언트';
+$lang['SupportManagerTickets.status.open'] = '대기 중인 직원';
 $lang['SupportManagerTickets.priority.low'] = '낮음';
 $lang['SupportManagerTickets.priority.medium'] = 'Medium';
 $lang['SupportManagerTickets.priority.high'] = '높음';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = '티켓 수신자 중 �
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = '티켓 수신자 중 한 명 이상이 중복되어 있습니다.';
 $lang['SupportManagerTickets.log.service_id'] = '관련 서비스가 내부 ID로 변경되었습니다: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s"는 필수이며 비워 둘 수 없습니다.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = '티켓 번호%1$s 업데이트됨';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = '새 티켓 번호%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s 티켓 #%2$s 에 답변했습니다: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s 티켓을 열었습니다 #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = '티켓 번호%1$s 할당됨';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = '티켓 번호%1$s 가 할당되었습니다: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = '이미지를 업로드할 수 없습니다. 다시 시도해 주세요.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = '이미지가 허용된 최대 크기인 %1$sMB를 초과합니다.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = '이미지 유형이 잘못되었습니다. JPEG, PNG, GIF 및 WebP 이미지만 허용됩니다.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = '업로드 디렉터리를 만들 수 없습니다.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = '이미지를 저장할 수 없습니다. 다시 시도해 주세요.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = '인라인 base64 이미지는 허용되지 않습니다. 이미지를 업로드하려면 편집기에 이미지를 붙여넣거나 드래그하세요.';
 

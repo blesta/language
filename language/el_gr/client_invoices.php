@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Τύπος πληρωμή
 $lang['ClientInvoices.index.no_results'] = 'Δεν έχετε τιμολόγια %1$s.';
 $lang['ClientInvoices.index.option_pay'] = 'Πληρωμή';
 $lang['ClientInvoices.index.option_view'] = 'Προβολή';
-$lang['ClientInvoices.index.heading_options'] = 'Επιλογές';
+$lang['ClientInvoices.index.heading_options'] = 'Δράσεις';
 $lang['ClientInvoices.index.heading_datedue'] = 'Ημερομηνία λήξης';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Ημερομηνία χρέωσης';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Ημερομηνία κλεισίματος';

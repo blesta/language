@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.!error.api.create_reseller.no_array'] = 'createReseller a besoi
 $lang['Interworx.!error.api.create_reseller.missing_fields'] = 'createReseller nécessite un nom d\'utilisateur, un email et un mot de passe';
 $lang['Interworx.!error.api.no_reseller_id'] = 'cet appel API nécessite l\'identifiant du revendeur (reseller_id)';
 $lang['Interworx.!error.api.no_accounts'] = 'Aucun compte n\'a été trouvé.';
+$lang['Interworx.back_to_manage'] = 'Retour';
+$lang['Interworx.manage.tab_rows'] = 'Serveurs';
+$lang['Interworx.manage.tab_groups'] = 'Groupes de serveurs';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Disponible)';
 

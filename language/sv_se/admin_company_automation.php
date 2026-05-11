@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Inställningar > Företag > 
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Cron-uppgiften har rensats.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Automationsinställningarna har uppdaterats framgångsrikt!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Det finns automatiseringsuppgifter som är inställda på att köras varje minut, men din cron verkar inte köras varje minut. Uppdatera din cron så att den körs varje minut för att dra nytta av dessa kortare intervall.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Inga körningar av automationsuppgifter har loggats under de senaste 24 timmarna.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Inte klart ännu';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Löpning';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Färdigställd';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Verkställighet';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Uppdatera';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Tidslinje för utförande av uppgifter - senaste 24 timmarna';
 

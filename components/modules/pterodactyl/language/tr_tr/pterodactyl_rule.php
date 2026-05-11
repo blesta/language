@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.string'] = '%1$s alanı bir dize içermelidir.';
 $lang['PterodactylRule.!error.required'] = '%1$s alanı zorunludur.';
 $lang['PterodactylRule.!error.numeric'] = '%1$s alanı bir sayı içermelidir.';
 $lang['PterodactylRule.!error.regex'] = '%1$s alanı %2$s regex\'i ile eşleşmelidir.';
+$lang['Pterodactyl.back_to_manage'] = 'Geri';
 

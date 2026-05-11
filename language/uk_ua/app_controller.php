@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Поверну�
 $lang['AppController.client_structure.default_title'] = 'Мій обліковий запис';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Повернутися до Порталу персоналу';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Наразі увімкнено режим обслуговування, і клієнти не можуть увійти в систему. Натисніть тут, щоб змінити.';
+$lang['AppController.structure.text_maintenance'] = 'Наразі увімкнено режим технічного обслуговування, і клієнти не можуть увійти в систему.';
 $lang['AppController.structure.text_logout'] = 'Вийти з системи';
 $lang['AppController.structure.text_settings'] = 'Налаштування';
 $lang['AppController.structure.text_myinfo'] = 'Моя інформація';
@@ -83,5 +83,23 @@ $lang['AppController.!error.invalid_csrf'] = 'Токен форми недійс
 $lang['AppController.!error.unauthorized_access'] = 'Ви не маєте права доступу до цього ресурсу';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Якщо у вас немає дозволу на доступ до цього ресурсу, зверніться до основного власника облікового запису, щоб отримати доступ';
-$lang['AppController.structure.text_step_up_access'] = 'Наразі у вас відкритий сеанс з доступом до налаштувань адміністратора. Натисніть тут, щоб закрити доступ.';
+$lang['AppController.structure.text_step_up_access'] = 'Наразі у вас відкритий сеанс з доступом до налаштувань адміністратора.';
+$lang['AppController.structure.text_mark_all_read'] = 'Позначте все як прочитане';
+$lang['AppController.structure.text_open'] = 'Відкрито';
+$lang['AppController.structure.no_notifications'] = 'Немає нових сповіщень';
+$lang['AppController.structure.text_notifications'] = 'Сповіщення';
+$lang['AppController.structure.text_licensed_to'] = 'Має ліцензію на %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Продовжити сесію';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Час, що залишився:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Завершити сесію зараз';
+$lang['AppController.structure.text_step_up_access_header'] = 'Підвищити рівень автентифікації Активно';
+$lang['AppController.structure.text_maintenance_button'] = 'Редагувати режим обслуговування';
+$lang['AppController.structure.text_maintenance_header'] = 'Увімкнено режим технічного обслуговування';
+$lang['AppController.structure.text_iconbar'] = 'Панель іконок';
+$lang['AppController.structure.text_notices'] = 'Повідомлення';
+$lang['AppController.text_loading'] = 'Завантаження...';
+$lang['AppController.modal.btn_delete'] = 'Видалити';
+$lang['AppController.modal.btn_cancel'] = 'Скасувати';
+$lang['AppController.modal.confirm_delete'] = 'Підтвердити Видалити';
 

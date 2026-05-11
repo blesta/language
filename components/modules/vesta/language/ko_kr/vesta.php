@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.module_row'] = '서버';
 $lang['Vesta.description'] = 'Vesta 또는 VestaCP는 오픈 소스 웹 제어판으로, cPanel의 훌륭한 대안으로 꼽히는 서비스입니다. 보안과 빈번한 업데이트는 cPanel과 품질이 비슷할 뿐만 아니라 완전 무료입니다.';
 $lang['Vesta.name'] = 'Vesta';
 $lang['Vesta.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Vesta.back_to_manage'] = '뒤로';
+$lang['Vesta.manage.tab_rows'] = '서버';
+$lang['Vesta.manage.tab_groups'] = '서버 그룹';
 

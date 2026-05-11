@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'يجب أن يحتوي الحقل %1$
 $lang['PterodactylRule.!error.numeric'] = 'يجب أن يحتوي الحقل %1$s على رقم.';
 $lang['PterodactylRule.!error.regex'] = 'يجب أن يتطابق الحقل %1$s مع الحقل مع الرجع %2$s.';
 $lang['PterodactylRule.!error.required'] = 'الحقل %1$s مطلوب.';
+$lang['Pterodactyl.back_to_manage'] = 'رجوع';
 

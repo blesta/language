@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Porzucone zamówienie';
 $lang['AdminForms.add.tab_basic'] = 'Podstawowy';
 $lang['AdminForms.index.field_status_inactive'] = 'Nieaktywny';
 $lang['AdminForms.index.field_status_active'] = 'Aktywny';
-$lang['AdminForms.index.text_confirm_delete'] = 'Naprawdę usunąć ten formularz zamówienia?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Czy na pewno chcesz usunąć ten formularz zamówienia?';
 $lang['AdminForms.index.option_delete'] = 'Usuń';
 $lang['AdminForms.index.option_edit'] = 'Edytuj';
 $lang['AdminForms.index.heading_options'] = 'Opcje';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Wybierając pakiet, pokaż
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Wyświetlanie miesięcznego podziału cen';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Wybierając pakiet, pokaż miesięczny koszt dla każdej opcji cenowej, a także oszczędności miesięcznie w porównaniu z ceną miesięczną (jeśli dotyczy).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Miesięczny podział cen za wyświetlanie';
+$lang['AdminForms.index.heading_actions'] = 'Działania';
+$lang['AdminForms.index.back_to_forms'] = 'Powrót do formularzy zamówień';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Wymagaj zgody na subskrypcje cykliczne';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Po włączeniu tej opcji klienci muszą wyraźnie wyrazić zgodę na cykliczne rozliczenia przed sfinalizowaniem zamówienia z powtarzającymi się pozycjami. Zastępuje to pole wyboru Zapisz szczegóły płatności.';
+$lang['AdminForms.add.field_cancel'] = 'Anuluj';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Wymagaj zgody na subskrypcje cykliczne';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Po włączeniu tej opcji klienci muszą wyraźnie wyrazić zgodę na cykliczne rozliczenia przed sfinalizowaniem zamówienia z powtarzającymi się pozycjami. Zastępuje to pole wyboru Zapisz szczegóły płatności.';
+$lang['AdminForms.edit.field_cancel'] = 'Anuluj';
+$lang['AdminForms.embed_codes.heading'] = 'Embed Code dla wyszukiwania domen';
+$lang['AdminForms.embed_codes.description'] = 'Skopiuj jeden z poniższych fragmentów, aby osadzić formularz wyszukiwania domeny na zewnętrznej stronie. Przesłane zgłoszenia otworzą kasę w tym formularzu zamówienia z wstępnie załadowaną wprowadzoną domeną.';
+$lang['AdminForms.embed_codes.label_first'] = 'Wprowadź etykietę URL dla tego formularza zamówienia, aby wygenerować kody osadzania.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Zwykły HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Podgląd';
+$lang['AdminForms.embed_codes.copy'] = 'Kopia';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Obejście CSRF jest wymagane do działania wbudowanego wyszukiwania domen.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'Wpisy POST z zewnętrznych stron będą odrzucane do momentu dodania config::preconfig do tablicy Blesta.csrf_bypass w config/blesta.php:';
 

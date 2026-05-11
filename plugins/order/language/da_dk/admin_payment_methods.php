@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminPaymentMethods.index.boxtitle_payment_methods'] = 'Affiliate betalin
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Tilføj affiliate-betalingsmetode';
 $lang['AdminPaymentMethods.index.no_results'] = 'Der er ingen betalingsmetoder på nuværende tidspunkt.';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Navn';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Handlinger';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Rediger';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Slet';
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Er du sikker på, at du vil slette denne betalingsmetode?';

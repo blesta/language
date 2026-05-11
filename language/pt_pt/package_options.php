@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Introduzir uma etiqueta.';
 $lang['PackageOptions.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'A opção de ocultar na fatura deve ser definida como 0 ou 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'A desativação da fixação de preços deve ser definida como 0 ou 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'O tipo não pode ser alterado porque um ou mais valores de opção não incluídos na apresentação estão a ser utilizados por um serviço.';
 

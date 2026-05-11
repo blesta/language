@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'Nu există URL-uri statice în această secț
 $lang['AdminMain.urls.latest_file'] = 'Cel mai recent fișier de la <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Ștergeți';
 $lang['AdminMain.urls.edit'] = 'Editați';
-$lang['AdminMain.urls.heading_options'] = 'Opțiuni';
+$lang['AdminMain.urls.heading_options'] = 'Acțiuni';
 $lang['AdminMain.urls.heading_link'] = 'Link';
 $lang['AdminMain.urls.heading_file'] = 'Fișier';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Manager de descărcări > Gestionați';
 $lang['AdminMain.files.no_downloads'] = 'Nu există descărcări în această secțiune.';
 $lang['AdminMain.files.delete'] = 'Ștergeți';
 $lang['AdminMain.files.edit'] = 'Editați';
-$lang['AdminMain.files.go_back'] = 'Urcă un nivel';
-$lang['AdminMain.files.add_category'] = 'Adăugați categoria aici';
+$lang['AdminMain.files.go_back'] = 'Înapoi';
+$lang['AdminMain.files.add_category'] = 'Adaugă o categorie';
 $lang['AdminMain.files.add_download'] = 'Adăugați descărcare aici';
 $lang['AdminMain.files.tab_urls'] = 'URL-uri statice';
 $lang['AdminMain.files.tab_files'] = 'Fișiere';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Fișierul a fost adăugat cu succes.';
 $lang['AdminMain.!success.category_deleted'] = 'Categoria a fost ștearsă cu succes.';
 $lang['AdminMain.!success.category_updated'] = 'Categoria a fost actualizată cu succes.';
 $lang['AdminMain.!success.category_added'] = 'Categoria a fost creată cu succes.';
-$lang['AdminMain.edit.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Fișiere';
+$lang['AdminMain.sidebar.urls'] = 'URL-uri statice';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache mod_http2 este activat, dar mod_xsendfile nu este activat. Vă recomandăm să activați sau să instalați mod_xsendfile pentru performanțe mai bune și descărcări mai rapide.';
+$lang['AdminMain.modal.confirm_delete'] = 'Confirmare Ștergere';
+$lang['AdminMain.modal.delete'] = 'Ștergeți';
+$lang['AdminMain.modal.cancel'] = 'Anulează';
+$lang['AdminMain.modal.save'] = 'Salvați';
+$lang['AdminMain.add.public'] = 'Disponibil publicului';
+$lang['AdminMain.add.logged_in'] = 'Trebuie să fiți conectat';
+$lang['AdminMain.add.text_fileinfo'] = 'NOTĂ: Fișierele trebuie să fie localizate undeva în directorul uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Sursă fișier';
+$lang['AdminMain.add.upload'] = 'Încărcare fișier';
+$lang['AdminMain.add.path'] = 'Specificați calea către fișier';
 

@@ -1,0 +1,16 @@
+<?php
+/**
+ * Support Manager Ai Tool Uses
+ *
+ * @package blesta
+ * @subpackage blesta.language.pt_br
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['SupportManagerAiToolUses.!error.ticket_id.exists'] = 'ID de tíquete inválida.';
+$lang['SupportManagerAiToolUses.!error.tool_name.empty'] = 'O nome da ferramenta não pode estar vazio.';
+$lang['SupportManagerAiToolUses.!error.tool_name.length'] = 'O nome da ferramenta não pode exceder 50 caracteres.';
+$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'A pontuação de confiança deve ser um número válido.';
+

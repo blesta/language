@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Modifica del tipo di pagamento';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Aggiornare il tipo di pagamento';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Definizione della lingua d\'uso';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Tipo';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Nome';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Sì';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'L\'eliminazione di questo tipo di pagamento farà sì che tutte le transazioni che utilizzano questo tipo di pagamento siano impostate su "altro". Siete sicuri di voler eliminare questo tipo di pagamento?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Cancellare';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Modifica';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Opzioni';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Azioni';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Usi Linguistici Definizione';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Tipo';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Nome';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Le impostazioni GeoIP sono
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Le impostazioni del Basic Setup sono state aggiornate con successo!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'La directory di upload deve esistere ed essere esterna alla directory web principale.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir è abilitato. L\'accesso ai file è limitato a: %1$s. Non è possibile accedere alle directory al di fuori di questi percorsi.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Elenco della cache';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Questo valore rappresenta il percorso completo del server in cui Blesta deve scrivere i file della cache. Questa directory deve essere scrivibile dall\'utente web e dall\'utente cron del server. Per sicurezza, questo percorso dovrebbe essere situato al di fuori della radice web; se deve essere all\'interno della radice web, Blesta scriverà un file .htaccess come parziale attenuazione, ma le configurazioni di server che ignorano .htaccess (come Nginx) non forniscono tale protezione.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'La modifica della cartella della cache non può essere applicata perché il file marker in config/cache.dir.php non può essere scritto o rimosso. Si conceda il permesso di scrittura alla cartella config (e al file marker, se esiste) e si riprovi.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'La directory della cache deve essere una directory esistente scrivibile.';
 

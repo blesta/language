@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.whois.billing.country'] = 'País';
 $lang['Opensrs.whois.billing.postal_code'] = 'Código Postal';
 $lang['Opensrs.whois.billing.state'] = 'Estado/Província';
 $lang['Opensrs.whois.billing.city'] = 'Cidade';
+$lang['Opensrs.back_to_manage'] = 'Voltar';
 

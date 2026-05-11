@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.getLocationDescriptions.widget_staff_home'] = 'Muestra un widget 
 $lang['Actions.getLocationDescriptions.widget_staff_client'] = 'Muestra un widget en la página de perfil del cliente.';
 $lang['Actions.getLocationDescriptions.widget_staff_billing'] = 'Muestra un widget en la página de facturación del personal.';
 $lang['Actions.getLocationDescriptions.action_staff_client'] = 'Crea un enlace en la sección "Acciones de la cuenta" de la página de perfil del cliente del personal.';
+$lang['Actions.!error.icon.length'] = 'La clase de icono no debe superar los 255 caracteres.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.callback'] = 'Обратна връзка на Blockonomics'
 $lang['Blockonomics.callback_note'] = 'Преди да започнете да използвате този шлюз, трябва да конфигурирате следния url адрес като обратна връзка в профила си в Blockonomics.';
 $lang['Blockonomics.buildprocess.submit'] = 'Изпращане на плащане';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'Изберете валутите по-долу, за да конфигурирате техните UID на родителския продукт.';
 

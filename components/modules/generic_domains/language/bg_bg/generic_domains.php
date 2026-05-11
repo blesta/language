@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.registration_email'] = 'Имейл за регис�
 $lang['GenericDomains.manage.to_emails'] = 'Към имейли';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Настройки на известията';
 $lang['GenericDomains.!tooltip.to_emails'] = 'Всички имейли на получателите, разделени със запетая.';
+$lang['Generic_domains.back_to_manage'] = 'Обратно';
+$lang['GenericDomains.manage.text_available_tags'] = 'Налични етикети';
 

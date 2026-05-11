@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = 'Zajímá vás, jak Blestu nak
 $lang['AdminSystemHelp.index.heading_user_manual'] = 'Uživatelská příručka';
 $lang['AdminSystemHelp.boxtitle_help'] = 'Zdroje';
 $lang['AdminSystemHelp.index.page_title'] = 'Nastavení > Systém > Nápověda > Zdroje';
+$lang['AdminSystemHelp.credits.page_title'] = 'Nastavení &gt; Systém &gt; Nápověda &gt; O systému Blesta';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'O společnosti Blesta';
 

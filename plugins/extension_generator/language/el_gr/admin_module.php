@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminModule.basic.module_type_generic'] = 'Γενικό';
 $lang['AdminModule.basic.module_type_registrar'] = 'Καταχωρητής';
 $lang['AdminModule.basic.author_name'] = 'Όνομα συγγραφέα';
 $lang['AdminModule.basic.author_url'] = 'Συγγραφέας URL';
-$lang['AdminModule.basic.text_options'] = 'Επιλογές';
+$lang['AdminModule.basic.text_options'] = 'Δράσεις';
 $lang['AdminModule.basic.author_row_add'] = 'Προσθήκη συγγραφέα';
 $lang['AdminModule.basic.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminModule.basic.static_tlds'] = 'Στατικός ορισμός TLDs';
@@ -101,7 +101,7 @@ $lang['AdminModule.fields.placeholder_service_label'] = 'π.χ. Πεδίο εξ�
 $lang['AdminModule.fields.module_row_add'] = 'Προσθήκη πεδίου γραμμής ενότητας';
 $lang['AdminModule.fields.package_row_add'] = 'Προσθήκη πεδίου πακέτου';
 $lang['AdminModule.fields.service_row_add'] = 'Προσθήκη πεδίου υπηρεσίας';
-$lang['AdminModule.fields.text_options'] = 'Επιλογές';
+$lang['AdminModule.fields.text_options'] = 'Δράσεις';
 $lang['AdminModule.fields.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminModule.fields.features'] = 'Επόμενο - Πρόσθετες λειτουργίες';
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Κωδικός EPP';
@@ -133,7 +133,7 @@ $lang['AdminModule.features.placeholder_cron_label'] = 'π.χ. My Cron Task';
 $lang['AdminModule.features.placeholder_time'] = 'π.χ. 14:25 ή 60';
 $lang['AdminModule.features.service_tab_row_add'] = 'Προσθήκη καρτέλας Service Management';
 $lang['AdminModule.features.cron_task_row_add'] = 'Προσθήκη εργασίας Cron';
-$lang['AdminModule.features.text_options'] = 'Επιλογές';
+$lang['AdminModule.features.text_options'] = 'Δράσεις';
 $lang['AdminModule.features.text_remove'] = 'Αφαιρέστε το';
 $lang['AdminModule.features.confirm'] = 'Επόμενο - Επιβεβαίωση';
 

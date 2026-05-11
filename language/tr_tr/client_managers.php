@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Şu anda herhangi bir misafir hes
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Bu hesaba erişiminizden vazgeçmek istediğinizden emin misiniz?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Erişimden Vazgeçin';
 $lang['ClientManagers.accounts.option_manage'] = 'Yönetmek';
-$lang['ClientManagers.accounts.heading_options'] = 'Seçenekler';
+$lang['ClientManagers.accounts.heading_options'] = 'Eylemler';
 $lang['ClientManagers.accounts.heading_company'] = 'Şirket';
 $lang['ClientManagers.accounts.heading_name'] = 'Ad Soyad';
 $lang['ClientManagers.accounts.heading_email'] = 'E-posta';
@@ -47,7 +47,7 @@ $lang['ClientManagers.index.option_revoke'] = 'İptal';
 $lang['ClientManagers.index.option_edit'] = 'Düzenle';
 $lang['ClientManagers.index.text_status_pending'] = 'Beklemede';
 $lang['ClientManagers.index.text_status_accepted'] = 'Kabul Edildi';
-$lang['ClientManagers.index.heading_options'] = 'Seçenekler';
+$lang['ClientManagers.index.heading_options'] = 'Eylemler';
 $lang['ClientManagers.index.heading_status'] = 'Durum';
 $lang['ClientManagers.index.heading_company'] = 'Şirket';
 $lang['ClientManagers.index.heading_name'] = 'Ad Soyad';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Plugin-ul a fost activat cu suc
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Plugin-ul a fost actualizat cu succes.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Plugin-ul a fost dezinstalat cu succes.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Plugin-ul a fost instalat cu succes. Este posibil ca acesta să fi înregistrat permisiuni ACL pentru diverse resurse. Este posibil să fie necesar să acordați grupului dvs. de personal acces la aceste permisiuni pentru a accesa aceste resurse.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtrează pluginurile...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Nu s-au găsit pluginuri potrivite.';
 

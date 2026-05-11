@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = 'تم تحديث الف�
 $lang['AdminKnowledgebase.!success.category_added'] = 'تم إنشاء الفئة بنجاح.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'تحديث جميع الفئات الفرعية ومقالاتها أيضًا';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'قم بتحديث جميع المقالات في هذه الفئة لتكون لها نفس إمكانية الوصول';
+$lang['AdminKnowledgebase.index.view'] = 'عرض';
 

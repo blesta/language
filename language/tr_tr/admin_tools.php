@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Kural Ekle';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Kural Oluştur';
 $lang['AdminTools.blacklistadd.field_note'] = 'Not';
 $lang['AdminTools.blacklistadd.field_type'] = 'Tip';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Kural';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Silme';
 $lang['AdminTools.blacklist.text_system'] = 'Sistem';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-posta Adresi';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP Adresi';
-$lang['AdminTools.blacklist.heading_options'] = 'Seçenekler';
+$lang['AdminTools.blacklist.heading_options'] = 'Eylemler';
 $lang['AdminTools.blacklist.heading_note'] = 'Not';
 $lang['AdminTools.blacklist.heading_list'] = 'Liste';
 $lang['AdminTools.blacklist.heading_type'] = 'Tip';
@@ -156,7 +156,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Değişim Maksimum';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Fatura Görüntüle';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Bu hizmeti yenileme kuyruğundan çıkarmak istediğinizden emin misiniz?';
-$lang['AdminTools.renewals.heading_options'] = 'Seçenekler';
+$lang['AdminTools.renewals.heading_options'] = 'Eylemler';
 $lang['AdminTools.renewals.heading_invoice'] = 'Fatura';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maksimum Denemeler';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Başarısız Girişimler';
@@ -172,7 +172,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Emoji gibi 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Emojiler gibi 4 baytlık karakterleri desteklemek için veritabanınızın, tablolarınızın ve sütunlarınızın karakter kümesini ve harmanlamasını utf8mb4 olarak güncelleyin.  Bu işlem birkaç dakika sürebilir.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'utf8mb4 için güncelleme';
 $lang['AdminTools.utilities.update_collation'] = 'Veritabanı Harmanlamasını Güncelleme';
-$lang['AdminTools.utilities.heading_options'] = 'Seçenekler';
+$lang['AdminTools.utilities.heading_options'] = 'Eylemler';
 $lang['AdminTools.utilities.heading_description'] = 'Açıklama';
 $lang['AdminTools.utilities.heading_utility'] = 'Yardımcı Program';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Yardımcı Programlar';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Şu anda yenilenmek üzere s�
 $lang['AdminTools.renewals.no_results_provision'] = 'Şu anda hazırlanmak üzere sıraya alınmış hiçbir hizmet yok.';
 $lang['AdminTools.!notice.conditions_met'] = 'Öğeler yalnızca tüm koşullar karşılandığında ve denenmeye hazır olduklarında belirlenen kuyrukta görünür.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Hizmet değişiklikleri başarıyla iptal edildi.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Gidenleri Engelle';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bu adrese giden e-postaları engelleyin';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Gidenleri Engelle';
 $lang['AdminTools.renewals.no_results_changes'] = 'Şu anda hazırlanmak üzere sıraya alınmış herhangi bir hizmet değişikliği bulunmamaktadır.';
 $lang['AdminTools.renewals.option_retry'] = 'Yeniden Dene';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Durum';
 $lang['AdminTools.renewals.category_changes'] = 'Hizmet Değişiklikleri';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Ödenmemiş Yenileme';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Hizmet değişiklikleri başarıyla planlandı.';
+$lang['AdminTools.integritycheck.text_summary'] = '%1$s dosyaları kontrol edildi: %2$s Tamam, %3$s değiştirildi, %4$s eksik.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Bildirim dosyası (manifest.json) bulunamadı. Bu dosya resmi sürümlere dahildir ve bütünlük kontrolü yapmak için gereklidir.';
+$lang['AdminTools.integritycheck.text_error'] = 'Dosyalar kontrol edilirken bir hata oluştu.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Tüm dosyalar bildirimle eşleşiyor. Hiçbir değişiklik veya eksik dosya tespit edilmedi.';
+$lang['AdminTools.integritycheck.text_ok'] = 'TAMAM.';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Toplam Dosya';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Satıcı';
+$lang['AdminTools.integritycheck.category_core'] = 'Çekirdek';
+$lang['AdminTools.integritycheck.status_missing'] = 'Kayıp';
+$lang['AdminTools.integritycheck.status_modified'] = 'Değiştirilmiş';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategori';
+$lang['AdminTools.integritycheck.heading_file'] = 'Dosya';
+$lang['AdminTools.integritycheck.heading_status'] = 'Durum';
+$lang['AdminTools.integritycheck.text_checking'] = 'Dosyalar kontrol ediliyor, lütfen bekleyin. Bu biraz zaman alabilir...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Tekrar Koş';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Raporu İndirin';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Bütünlük Kontrolünü Çalıştır';
+$lang['AdminTools.integritycheck.text_description'] = 'Yüklü dosyaları bu sürümle birlikte gönderilen bildirime göre doğrulayın. Bu, SHA256 karmalarını karşılaştırarak dosya bütünlüğünü kontrol eder ve sorun giderme için ve yükseltmeleri gerçekleştirmeden önce yararlı olan değiştirilmiş dosyaların belirlenmesine yardımcı olabilir.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Sistem Bütünlüğü Kontrolü';
+$lang['AdminTools.integritycheck.page_title'] = 'Sistem Bütünlüğü Kontrolü';
+$lang['AdminTools.!success.cache_cleared'] = 'Dosya önbelleği başarıyla temizlendi.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Kontrol Çalıştır';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Değiştirilmiş veya eksik dosyaları belirlemek için çekirdek dosyaları gönderilen manifesto ile doğrulayın.';
+$lang['AdminTools.utilities.integrity_check'] = 'Sistem Bütünlüğü Kontrolü';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Gezinme, görünümler ve eklenti önbellekleri dahil olmak üzere önbelleğe alınmış dosyaları temizleyin. Bu, önbellekler yeniden oluşturulana kadar sayfa yüklemelerinin biraz daha yavaş olmasına neden olabilir.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Önbelleği Temizle';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Dosya Önbelleğini Temizle';
+$lang['AdminTools.getlognames.text_system'] = 'Sistem';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifesto sürümü: %1$s (oluşturulan %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Şu anda ödeme yapıldıktan sonra yenilenmek üzere sıraya alınan herhangi bir hizmet bulunmamaktadır.';
+$lang['AdminTools.logsystem.page_title'] = 'Araçlar Günlükleri';
+$lang['AdminTools.logsystem.text_date'] = 'Tarih';
+$lang['AdminTools.logsystem.text_level'] = 'Seviye';
+$lang['AdminTools.logsystem.text_message'] = 'Mesaj';
+$lang['AdminTools.logsystem.no_results'] = 'Sistem günlüğü girdisi yok.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Günlük dizini yapılandırılmamış veya okunabilir değil. Ayarlar &gt; Sistem &gt; Genel altında yapılandırın.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Acil Durum';
+$lang['AdminTools.logsystem.level_alert'] = 'Uyarı';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritik';
+$lang['AdminTools.logsystem.level_error'] = 'Hata';
+$lang['AdminTools.logsystem.level_warning'] = 'Uyarı';
+$lang['AdminTools.logsystem.level_notice'] = 'Uyarı';
+$lang['AdminTools.logsystem.level_info'] = 'Bilgi';
+$lang['AdminTools.logsystem.level_debug'] = 'Hata Ayıklama';
 

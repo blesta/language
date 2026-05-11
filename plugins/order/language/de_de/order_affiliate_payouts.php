@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Bitte w채hlen Sie einen g�
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Ung체ltige ID der Zahlungsmethode.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Ung체ltige Partner-ID.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Ung체ltige Auszahlungs-ID.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Gew체nschte Auszahlung';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s beantragte eine Auszahlung von %2$s';
 

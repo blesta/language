@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'Webový ovládací panel InterWorx je ovládac
 $lang['Interworx.name'] = 'Interworx';
 $lang['Interworx.!error.soap_required'] = 'Pro tento modul je vyžadováno rozšíření SOAP.';
 $lang['Interworx.!error.libxml_required'] = 'Pro tento modul je vyžadováno rozšíření libxml.';
+$lang['Interworx.back_to_manage'] = 'Zpět';
+$lang['Interworx.manage.tab_rows'] = 'Servery';
+$lang['Interworx.manage.tab_groups'] = 'Skupiny serverů';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s K dispozici)';
 

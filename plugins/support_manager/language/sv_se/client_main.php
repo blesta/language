@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientMain.index.minutes'] = '%1$s minuter';
 $lang['ClientMain.index.any'] = 'Någon';
 $lang['ClientMain.index.option_reply'] = 'Svar';
 $lang['ClientMain.index.option_close'] = 'Nära';
-$lang['ClientMain.index.heading_options'] = 'Alternativ';
+$lang['ClientMain.index.heading_options'] = 'Åtgärder';
 $lang['ClientMain.index.heading_status'] = 'Status';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Senaste svar';
 $lang['ClientMain.index.heading_summary'] = 'Sammanfattning';

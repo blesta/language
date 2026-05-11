@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.editcategory.boxtitle_root'] = 'Rediger kategori';
 $lang['AdminResponses.editcategory.boxtitle_editcategory'] = 'Opdater kategori';
 $lang['AdminResponses.editcategory.field_name'] = 'Navn';
 $lang['AdminResponses.editcategory.field_submit'] = 'Opdater kategori';
+$lang['AdminResponses.index.btn_back'] = 'Tilbage';
+$lang['AdminResponses.index.btn_add_category'] = 'Tilføj kategori';
+$lang['AdminResponses.index.btn_add_response'] = 'Tilføj svar';
 

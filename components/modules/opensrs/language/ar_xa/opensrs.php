@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'الحسابات';
 $lang['Opensrs.module_row'] = 'الحساب';
 $lang['Opensrs.description'] = 'OpenSRS هي شركة لتسجيل النطاقات بالجملة تقدم منصة متميزة ذات علامة بيضاء تربط شركاء إعادة البيع بالحلول التي يحتاجون إليها.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'رجوع';
 

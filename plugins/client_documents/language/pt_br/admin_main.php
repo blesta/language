@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Carregar documento';
 $lang['AdminMain.modal.delete_document'] = 'Realmente excluir esse documento?';
 $lang['AdminMain.index.option_download'] = 'Baixar';
 $lang['AdminMain.index.option_delete'] = 'Excluir';
-$lang['AdminMain.index.heading_date_options'] = 'Opções';
+$lang['AdminMain.index.heading_date_options'] = 'Ações';
 $lang['AdminMain.index.heading_date_added'] = 'Data de adição';
 $lang['AdminMain.index.heading_description'] = 'Descrição';
 $lang['AdminMain.index.heading_name'] = 'Nome';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Documentos > Adicionar';
 $lang['AdminMain.index.page_title'] = 'Documentos';
 $lang['AdminMain.!success.document_deleted'] = 'O documento foi excluído.';
 $lang['AdminMain.!success.document_uploaded'] = 'O documento foi carregado.';
+$lang['AdminMain.index.link_client'] = 'Voltar ao cliente%1$s';
+$lang['AdminMain.add.link_back'] = 'Voltar para Documentos';
 

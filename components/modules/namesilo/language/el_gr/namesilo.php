@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -141,7 +141,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Αξία';
 $lang['Namesilo.dnsrecord.host'] = 'Υποδοχής';
 $lang['Namesilo.dnsrecord.record_type'] = 'Τύπος';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Σε αυτή τη σελίδα μπορείτε να προσθέσετε ή να διαγράψετε εγγραφές DNS A, AAAA, CNAME, MX και TXT. Παρακαλούμε να έχετε υπόψη σας ότι μπορεί να χρειαστούν μερικά λεπτά για να διαδοθούν οι εγγραφές DNS.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Σε αυτή τη σελίδα μπορείτε να προσθέσετε ή να διαγράψετε εγγραφές DNS A, AAAA, CNAME, MX και TXT. Παρακαλούμε να έχετε υπόψη σας ότι μπορεί να χρειαστούν μερικά λεπτά για να διαδοθούν οι εγγραφές DNS. <br/> Για να αντικατοπτριστεί οποιαδήποτε από αυτές τις αλλαγές στο όνομα τομέα σας, πρέπει να ορίσετε τους διακομιστές ονομάτων σε:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Προσθήκη εγγραφής';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Διαγραφή εγγραφής(ων)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Προσθέστε μια εγγραφή DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Εισάγει επαφές
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Τραβήξτε τις επαφές Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Αυτή η λειτουργία απαιτεί ο τομέας να χρησιμοποιεί τους ακόλουθους διακομιστές ονομάτων: ns1.dnsowl.com, ns2.dnsowl.com και ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Ο τομέας δεν είναι διαθέσιμος για εγγραφή.';
+$lang['Namesilo.back_to_manage'] = 'Πίσω';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Δράσεις';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Ένα ή περισσότερα πεδία περιέχουν ειδικούς χαρακτήρες (π.χ. έντονα γράμματα). Το NameSilo ενδέχεται να μην υποστηρίζει αυτούς τους χαρακτήρες στα πεδία επαφών.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Προώθηση τομέα';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Η προώθηση του τομέα αφαιρείται αυτόματα όταν δίνετε στον τομέα κάτι άλλο να κάνει, όπως η αλλαγή διακομιστών ονομάτων ή η αλλαγή των πρωτογενών εγγραφών A για @ και www. <br/> Για να αντικατοπτριστεί οποιαδήποτε από αυτές τις αλλαγές στο όνομα τομέα σας, πρέπει να ορίσετε τους διακομιστές ονομάτων σε:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Τομέας';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Εμπρός προς';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Μέθοδος προώθησης';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Μόνιμη προώθηση (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Προσωρινό Forward (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Cloaked';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Ενεργό';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Διαγραφή';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Ενημέρωση αποστολέων';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'Η διεύθυνση URL προώθησης είναι άκυρη. Βεβαιωθείτε ότι χρησιμοποιείτε HTTPS ή HTTP.';
 

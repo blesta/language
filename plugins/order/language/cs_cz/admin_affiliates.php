@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = 'Opravdu chcete tuto pobočk
 $lang['AdminAffiliates.index.option_activate'] = 'Aktivace';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Deaktivace';
 $lang['AdminAffiliates.index.option_manage'] = 'Správa';
-$lang['AdminAffiliates.index.heading_options'] = 'Možnosti';
+$lang['AdminAffiliates.index.heading_options'] = 'Akce';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Datum aktualizace';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Datum přidání';
 $lang['AdminAffiliates.index.heading_sales'] = 'Prodej';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.editgroup.text_name'] = 'Nombre del grupo';
 $lang['AdminCompanyModules.editgroup.text_order'] = 'Añadir pedido';
 $lang['AdminCompanyModules.addrow.page_title'] = 'Configuración > Empresa > Módulos > Añadir %1$s %2$s';
 $lang['AdminCompanyModules.editrow.page_title'] = 'Configuración > Empresa > Módulos > Editar %1$s %2$s';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Módulos de filtrado...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'No se han encontrado módulos coincidentes.';
 

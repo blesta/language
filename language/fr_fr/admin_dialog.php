@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.btn_generate'] = 'Générer';
 $lang['AdminDialog.password.btn_modal_password'] = 'Mot de passe';
 $lang['AdminDialog.password.btn_cancel'] = 'Annuler';
 $lang['AdminDialog.password.btn_use_password'] = 'Utiliser le mot de passe';
+$lang['AdminDialog.password.title'] = 'Générer un mot de passe';
+$lang['AdminDialog.password.text_click_generate'] = 'Cliquez sur Générer pour créer un mot de passe sécurisé.';
 

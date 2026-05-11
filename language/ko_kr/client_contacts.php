@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = '연락처가 없습니다. 첫 번�
 $lang['ClientContacts.index.confirm_delete'] = '이 연락처를 삭제하시겠습니까?';
 $lang['ClientContacts.index.option_delete'] = '삭제';
 $lang['ClientContacts.index.option_edit'] = '편집';
-$lang['ClientContacts.index.heading_options'] = '옵션';
+$lang['ClientContacts.index.heading_options'] = '작업';
 $lang['ClientContacts.index.heading_type'] = '유형';
 $lang['ClientContacts.index.heading_email'] = '이메일';
 $lang['ClientContacts.index.heading_name'] = '이름';

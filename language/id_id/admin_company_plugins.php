@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Plugin berhasil diaktifkan.';
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Plugin berhasil ditingkatkan.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Plugin telah berhasil dihapus instalasinya.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Plugin berhasil diinstal. Plugin ini mungkin telah mendaftarkan izin ACL untuk berbagai sumber daya. Anda mungkin perlu memberikan akses grup staf Anda ke izin ini untuk mengakses sumber daya ini.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Plugin filter...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Tidak ditemukan plugin yang cocok.';
 

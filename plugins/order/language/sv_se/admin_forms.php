@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Övergiven order';
 $lang['AdminForms.add.tab_basic'] = 'Grundläggande';
 $lang['AdminForms.index.field_status_inactive'] = 'Inaktiv';
 $lang['AdminForms.index.field_status_active'] = 'Aktiv';
-$lang['AdminForms.index.text_confirm_delete'] = 'Ska vi verkligen radera denna orderblankett?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Är du säker på att du vill radera denna orderblankett?';
 $lang['AdminForms.index.option_delete'] = 'Radera';
 $lang['AdminForms.index.option_edit'] = 'Redigera';
 $lang['AdminForms.index.heading_options'] = 'Alternativ';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'När du väljer ett paket 
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Prisuppdelning för visning per månad';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'När du väljer ett paket ska du visa månadskostnaden för varje prisalternativ samt besparingen per månad jämfört med månadspriset (om tillämpligt).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Prisuppdelning för visning per månad';
+$lang['AdminForms.index.heading_actions'] = 'Åtgärder';
+$lang['AdminForms.index.back_to_forms'] = 'Tillbaka till Beställningsformulär';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Kräv samtycke till återkommande prenumerationer';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'När denna funktion är aktiverad måste kunden uttryckligen samtycka till återkommande fakturering innan en order med återkommande artiklar kan slutföras. Detta ersätter kryssrutan Spara betalningsinformation.';
+$lang['AdminForms.add.field_cancel'] = 'Avbryt';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Kräv samtycke till återkommande prenumerationer';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'När denna funktion är aktiverad måste kunden uttryckligen samtycka till återkommande fakturering innan en order med återkommande artiklar kan slutföras. Detta ersätter kryssrutan Spara betalningsinformation.';
+$lang['AdminForms.edit.field_cancel'] = 'Avbryt';
+$lang['AdminForms.embed_codes.heading'] = 'Inbäddningskod för domänsökning';
+$lang['AdminForms.embed_codes.description'] = 'Kopiera ett av utdragen nedan för att bädda in ett formulär för domänsökning på en extern webbplats. Inlämningar kommer att öppna kassan på detta beställningsformulär med den angivna domänen förinstallerad.';
+$lang['AdminForms.embed_codes.label_first'] = 'Ange en URL-etikett för detta orderformulär för att generera inbäddningskoder.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Vanlig HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Förhandsgranskning';
+$lang['AdminForms.embed_codes.copy'] = 'Kopia';
+$lang['AdminForms.embed_codes.csrf_required'] = 'CSRF-bypass krävs för att inbäddad domänsökning ska fungera.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POSTs från en extern webbplats kommer att avvisas tills du lägger till config::preconfig i arrayen Blesta.csrf_bypass i config/blesta.php:';
 

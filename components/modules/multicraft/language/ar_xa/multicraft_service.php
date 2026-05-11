@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'يجب أن يكون معر�
 $lang['MulticraftService.!error.server_id.format'] = 'يجب أن يكون معرّف الخادم عددًا صحيحًا، أو أن يُترك فارغًا.';
 $lang['MulticraftService.!error.client'] = 'لم يتم العثور على أي عميل يمكن من خلاله إنشاء مستخدم متعدد الحرف.';
 $lang['MulticraftService.!error.internal'] = 'حدث خطأ داخلي، أو لم يستجب الخادم للطلب.';
+$lang['Multicraft.back_to_manage'] = 'رجوع';
 

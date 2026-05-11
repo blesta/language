@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = '请输入经销商名称。';
 $lang['GoGetSSL.!error.api_password.empty'] = '请输入 API 密码。';
 $lang['GoGetSSL.!error.api_username.valid'] = '无法建立与服务器的连接。请检查 API 凭据是否正确。';
 $lang['GoGetSSL.!error.api_username.empty'] = '请输入 API 用户名。';
+$lang['Gogetssl.back_to_manage'] = '返回';
 

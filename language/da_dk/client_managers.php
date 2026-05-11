@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,7 +25,7 @@ $lang['ClientManagers.index.heading_email'] = 'E-mail';
 $lang['ClientManagers.index.heading_name'] = 'Fuldt navn';
 $lang['ClientManagers.index.heading_company'] = 'Virksomhed';
 $lang['ClientManagers.index.heading_status'] = 'Status';
-$lang['ClientManagers.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientManagers.index.heading_options'] = 'Handlinger';
 $lang['ClientManagers.index.text_status_accepted'] = 'Accepteret';
 $lang['ClientManagers.index.text_status_pending'] = 'Afventer';
 $lang['ClientManagers.index.option_edit'] = 'Rediger';
@@ -55,7 +55,7 @@ $lang['ClientManagers.accounts.heading_client_id'] = 'Kunde #';
 $lang['ClientManagers.accounts.heading_email'] = 'E-mail';
 $lang['ClientManagers.accounts.heading_name'] = 'Fuldt navn';
 $lang['ClientManagers.accounts.heading_company'] = 'Virksomhed';
-$lang['ClientManagers.accounts.heading_options'] = 'Valgmuligheder';
+$lang['ClientManagers.accounts.heading_options'] = 'Handlinger';
 $lang['ClientManagers.accounts.option_manage'] = 'Administrer';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Giv afkald på adgang';
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Er du sikker på, at du vil opgive din adgang til denne konto?';

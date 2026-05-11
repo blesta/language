@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'تعذر التصريح بالدف
 $lang['Checkout.!error.not_client_owner'] = 'يجب عليك تسجيل الدخول بصفتك مالك العميل من أجل المتابعة.';
 $lang['Checkout.!error.no_payment_info'] = 'يجب عليك تحديد طريقة الدفع من أجل المتابعة.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'يجب عليك الإقرار بموافقتك على الشروط والأحكام.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'يجب عليك الموافقة على الفوترة المتكررة للمتابعة.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'أنا أفوض %1$s بتخزين طريقة الدفع الخاصة بي وتخزين الرسوم %2$s ابتداءً من اليوم، إلى أن أقوم بالإلغاء. يمكنني الإلغاء في أي وقت عبر الإنترنت من خلال حسابي.';
+$lang['Checkout.index.recurring_every'] = 'كل %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'كل %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'و';
 

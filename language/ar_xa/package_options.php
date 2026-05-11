@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'الرجاء إدخال التسم
 $lang['PackageOptions.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'يجب تعيين ما إذا كان الإخفاء في الفاتورة على 0 أو 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'يجب تعيين ما إذا كان يجب تعطيل التسعير إلى 0 أو 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'لا يمكن تغيير النوع بسبب وجود قيمة خيار أو أكثر من قيم الخيارات غير المضمنة في الواجبات المرسلة قيد الاستخدام من قبل الخدمة.';
 

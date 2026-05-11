@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -125,4 +125,5 @@ $lang['CWatch.module_row_plural.name'] = 'Акаунти на API';
 $lang['CWatch.module_row.name'] = 'API акаунт';
 $lang['CWatch.description'] = 'Инструмент за защита на вашия уебсайт, уеб сървъри и уеб приложения срещу все по-сложните хакерски заплахи.';
 $lang['CWatch.name'] = 'CWatch';
+$lang['Cwatch.back_to_manage'] = 'Обратно';
 

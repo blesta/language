@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -34,7 +34,7 @@ $lang['AdminTools.utilities.page_title'] = 'Outils Utilitaires';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Utilitaires';
 $lang['AdminTools.utilities.heading_utility'] = 'Utilité';
 $lang['AdminTools.utilities.heading_description'] = 'Description';
-$lang['AdminTools.utilities.heading_options'] = 'Options';
+$lang['AdminTools.utilities.heading_options'] = 'Actions';
 $lang['AdminTools.utilities.update_collation'] = 'Mise à jour de la collation de la base de données';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Mise à jour vers utf8mb4';
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Mettez à jour le jeu de caractères et la collation de votre base de données, de vos tables et de vos colonnes avec la valeur utf8mb4 afin de prendre en charge les caractères de 4 octets tels que les emojis.  Cette opération peut prendre plusieurs minutes.';
@@ -50,7 +50,7 @@ $lang['AdminTools.renewals.heading_service_id'] = 'ID du service';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Tentatives infructueuses';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Tentatives maximales';
 $lang['AdminTools.renewals.heading_invoice'] = 'Facture';
-$lang['AdminTools.renewals.heading_options'] = 'Options';
+$lang['AdminTools.renewals.heading_options'] = 'Actions';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Êtes-vous sûr de vouloir retirer ce service de la file d\'attente de renouvellement ?';
 $lang['AdminTools.renewals.option_view'] = 'Voir la facture';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
@@ -188,7 +188,7 @@ $lang['AdminTools.blacklist.heading_rule'] = 'Règle';
 $lang['AdminTools.blacklist.heading_type'] = 'Type';
 $lang['AdminTools.blacklist.heading_list'] = 'Liste';
 $lang['AdminTools.blacklist.heading_note'] = 'Note';
-$lang['AdminTools.blacklist.heading_options'] = 'Options';
+$lang['AdminTools.blacklist.heading_options'] = 'Actions';
 $lang['AdminTools.blacklist.text_type_ip'] = 'Adresse IP';
 $lang['AdminTools.blacklist.text_type_email'] = 'Adresse électronique';
 $lang['AdminTools.blacklist.text_system'] = 'Système';
@@ -199,7 +199,7 @@ $lang['AdminTools.blacklistadd.boxtitle_addrule'] = 'Ajouter une règle';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Règle';
 $lang['AdminTools.blacklistadd.field_type'] = 'Type';
 $lang['AdminTools.blacklistadd.field_note'] = 'Note';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Ajouter une règle';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Créer une règle';
 $lang['AdminTools.logservicechanges.text_type'] = 'Type';
 $lang['AdminTools.logservicechanges.text_gateway'] = 'Passerelle';
 $lang['AdminTools.logservicechanges.text_transaction_id'] = 'ID de la transaction';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Aucun service n\'est actuelle
 $lang['AdminTools.renewals.no_results_provision'] = 'Il n\'y a pas de services actuellement en file d\'attente pour le provisionnement.';
 $lang['AdminTools.!notice.conditions_met'] = 'Les articles n\'apparaissent dans la file d\'attente désignée que lorsque toutes les conditions ont été remplies et qu\'ils sont prêts à être tentés.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Les modifications de service ont été annulées avec succès.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blocage des communications sortantes';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bloquer les courriels sortants à cette adresse';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Blocage des communications sortantes';
 $lang['AdminTools.renewals.no_results_changes'] = 'Aucune modification de service n\'est actuellement en file d\'attente pour le provisionnement.';
 $lang['AdminTools.renewals.option_retry'] = 'Réessayer';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Statut';
 $lang['AdminTools.renewals.category_changes'] = 'Changements dans les services';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Renouvellement non payé';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Les changements de service ont été programmés avec succès.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Vérification des fichiers %1$s: %2$s OK, %3$s modifié, %4$s manquant.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Le fichier manifeste (manifest.json) n\'a pas été trouvé. Ce fichier est inclus dans les versions officielles et est nécessaire pour effectuer un contrôle d\'intégrité.';
+$lang['AdminTools.integritycheck.text_error'] = 'Une erreur s\'est produite lors de la vérification des fichiers.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Tous les fichiers correspondent au manifeste. Aucune modification ou fichier manquant n\'a été détecté.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Total des dossiers';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Vendeur';
+$lang['AdminTools.integritycheck.category_core'] = 'Cœur de métier';
+$lang['AdminTools.integritycheck.status_missing'] = 'Disparu';
+$lang['AdminTools.integritycheck.status_modified'] = 'Modifié';
+$lang['AdminTools.integritycheck.heading_category'] = 'Catégorie';
+$lang['AdminTools.integritycheck.heading_file'] = 'Fichier';
+$lang['AdminTools.integritycheck.heading_status'] = 'Statut';
+$lang['AdminTools.integritycheck.text_checking'] = 'Vérification des fichiers, veuillez patienter. Cela peut prendre un moment...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Recommencer à courir';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Télécharger le rapport';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Exécuter le contrôle d\'intégrité';
+$lang['AdminTools.integritycheck.text_description'] = 'Vérifier les fichiers installés par rapport au manifeste fourni avec cette version. Cela permet de vérifier l\'intégrité des fichiers en comparant les hachages SHA256 et d\'identifier les fichiers qui ont été modifiés, ce qui est utile pour le dépannage et avant d\'effectuer des mises à niveau.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Contrôle de l\'intégrité du système';
+$lang['AdminTools.integritycheck.page_title'] = 'Contrôle de l\'intégrité du système';
+$lang['AdminTools.!success.cache_cleared'] = 'Le cache des fichiers a été effacé avec succès.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Vérification de l\'exécution';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Vérifier les fichiers de base par rapport au manifeste expédié afin d\'identifier les fichiers modifiés ou manquants.';
+$lang['AdminTools.utilities.integrity_check'] = 'Contrôle de l\'intégrité du système';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Effacez les fichiers mis en cache, y compris les caches de navigation, de vues et de plugins. Cette opération peut ralentir légèrement le chargement des pages jusqu\'à ce que les caches soient reconstruits.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Effacer le cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Effacer le cache des fichiers';
+$lang['AdminTools.getlognames.text_system'] = 'Système';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Version du manifeste : %1$s (généré %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Aucun service n\'est actuellement en file d\'attente pour un renouvellement après paiement.';
+$lang['AdminTools.logsystem.page_title'] = 'Outils Logs';
+$lang['AdminTools.logsystem.text_date'] = 'Date';
+$lang['AdminTools.logsystem.text_level'] = 'Niveau';
+$lang['AdminTools.logsystem.text_message'] = 'Message';
+$lang['AdminTools.logsystem.no_results'] = 'Il n\'y a pas d\'entrées dans le journal du système.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Le répertoire du journal n\'est pas configuré ou n\'est pas lisible. Configurez-le sous Paramètres &gt; Système &gt; Général.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Urgence';
+$lang['AdminTools.logsystem.level_alert'] = 'Alerte';
+$lang['AdminTools.logsystem.level_critical'] = 'Critique';
+$lang['AdminTools.logsystem.level_error'] = 'Erreur';
+$lang['AdminTools.logsystem.level_warning'] = 'Avertissement';
+$lang['AdminTools.logsystem.level_notice'] = 'Avis';
+$lang['AdminTools.logsystem.level_info'] = 'Info';
+$lang['AdminTools.logsystem.level_debug'] = 'Débogage';
 

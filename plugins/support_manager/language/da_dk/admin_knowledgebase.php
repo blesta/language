@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Offentlige artikler er ti
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Offentlige kategorier er tilgængelige for alle. Private kategorier er kun tilgængelige for brugere, der er logget ind. Skjulte kategorier er utilgængelige. Personalekategorier er kun synlige for personalemedlemmer.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Opdater også alle underkategorier og deres artikler';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Opdater alle artikler i denne kategori, så de har samme tilgængelighed';
+$lang['AdminKnowledgebase.index.view'] = 'Udsigt';
 

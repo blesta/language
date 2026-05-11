@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Nästa VMID (ändra inte om det inte är nödv
 $lang['Proxmox.row_meta.port'] = 'SSL-portnummer';
 $lang['Proxmox.row_meta.host'] = 'Värdnamn';
 $lang['Proxmox.row_meta.password'] = 'Lösenord';
-$lang['Proxmox.row_meta.user'] = 'Användare';
+$lang['Proxmox.row_meta.user'] = 'Användare (med @pam eller @pve efter användarnamnet)';
 $lang['Proxmox.row_meta.server_name'] = 'Server Etikett';
 $lang['Proxmox.order_options.first'] = 'Första icke-fullständiga servern';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Det finns inga servergrupper.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Proxmox huvudserver';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment är en virtualiseringsmiljö för servrar med öppen källkod. Det är en Debian-baserad Linux-distribution med en modifierad Ubuntu LTS-kärna och gör det möjligt att distribuera och hantera virtuella maskiner och containrar.';
 $lang['Proxmox.name'] = 'Proxmox';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s dagar, %2$s timmar, %1$s minuter';
+$lang['Proxmox.!uptime.value'] = '%1$s dagar, %2$s timmar, %3$s minuter';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Vänligen välj --';
 $lang['Proxmox.!error.module_row.missing'] = 'Ett internt fel har inträffat. Modulraden är inte tillgänglig.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Avmontera ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Montering ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Avstängning';
 $lang['Proxmox.!actions.boot'] = 'Boot';
+$lang['Proxmox.back_to_manage'] = 'Tillbaka';
+$lang['Proxmox.manage.tab_rows'] = 'Servrar';
+$lang['Proxmox.manage.tab_groups'] = 'Servergrupper';
+$lang['Proxmox.tab_isomanager'] = 'ISO-chef';
+$lang['Proxmox.tab_lxcreinstall'] = 'Installera om';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Installera om';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Lösenord för rot';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Mall';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Installera om';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO-chef';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Bild';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Berg';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Montera av ISO';
 

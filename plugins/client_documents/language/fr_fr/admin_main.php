@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['AdminMain.index.no_results'] = 'Aucun document n\'a été défini pour ce
 $lang['AdminMain.index.heading_name'] = 'Nom';
 $lang['AdminMain.index.heading_description'] = 'Description';
 $lang['AdminMain.index.heading_date_added'] = 'Date d\'ajout';
-$lang['AdminMain.index.heading_date_options'] = 'Options';
+$lang['AdminMain.index.heading_date_options'] = 'Actions';
 $lang['AdminMain.index.option_delete'] = 'Supprimer';
 $lang['AdminMain.index.option_download'] = 'Télécharger';
 $lang['AdminMain.modal.delete_document'] = 'Vous supprimez vraiment ce document ?';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.field_name'] = 'Nom';
 $lang['AdminMain.add.field_document'] = 'Document';
 $lang['AdminMain.add.field_description'] = 'Description';
 $lang['AdminMain.add.field_submit'] = 'Télécharger le document';
+$lang['AdminMain.index.link_client'] = 'Retour à Client #%1$s';
+$lang['AdminMain.add.link_back'] = 'Retour aux documents';
 

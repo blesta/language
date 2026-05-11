@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'Ortaklık Ödeme
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Bu ödeme yöntemini silmek istediğinizden emin misiniz?';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Silme';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Düzenle';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Seçenekler';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Eylemler';
 $lang['AdminPaymentMethods.index.heading_name'] = 'İsim';
 $lang['AdminPaymentMethods.index.no_results'] = 'Şu anda herhangi bir ödeme yöntemi bulunmamaktadır.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Ortaklık Ödeme Yöntemi Ekleme';

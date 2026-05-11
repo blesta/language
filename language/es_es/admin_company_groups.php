@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -58,7 +58,7 @@ $lang['AdminCompanyGroups.edit.field_description'] = 'Descripción';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Métodos de entrega de facturas';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Utilizar configuración de la empresa (desmarcar para especificar más abajo)';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Aplicar direcciones de correo electrónico como nombres de usuario';
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Editar Grupo';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Grupo de actualización';
 $lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Pasarelas permitidas';
 $lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Pasarelas permitidas';
 $lang['AdminCompanyGroups.edit.field_requeue_invoice_delivery_on_closed'] = 'Volver a poner en cola las facturas para su entrega una vez cerradas';

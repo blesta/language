@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = '업데이트';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = '각 통화에 대한 기본 판매자 게이트웨이를 설정합니다.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = '기본 판매자 게이트웨이';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = '기본 판매자 게이트웨이가 성공적으로 업데이트되었습니다.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = '일치하는 게이트웨이를 찾을 수 없습니다.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = '필터 게이트웨이...';
 

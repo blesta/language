@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -75,7 +75,7 @@ $lang['AdminMain.urls.no_urls'] = '이 섹션에는 정적 URL이 없습니다.'
 $lang['AdminMain.urls.latest_file'] = '<strong>%1$s</strong>의 최신 파일';
 $lang['AdminMain.urls.delete'] = '삭제';
 $lang['AdminMain.urls.edit'] = '편집';
-$lang['AdminMain.urls.heading_options'] = '옵션';
+$lang['AdminMain.urls.heading_options'] = '작업';
 $lang['AdminMain.urls.heading_link'] = '링크';
 $lang['AdminMain.urls.heading_file'] = '파일';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -87,8 +87,8 @@ $lang['AdminMain.urls.page_title'] = '다운로드 관리자 > 관리';
 $lang['AdminMain.files.no_downloads'] = '이 섹션에는 다운로드할 항목이 없습니다.';
 $lang['AdminMain.files.delete'] = '삭제';
 $lang['AdminMain.files.edit'] = '편집';
-$lang['AdminMain.files.go_back'] = '레벨 업';
-$lang['AdminMain.files.add_category'] = '여기에 카테고리 추가';
+$lang['AdminMain.files.go_back'] = '뒤로';
+$lang['AdminMain.files.add_category'] = '카테고리 추가';
 $lang['AdminMain.files.add_download'] = '여기에서 다운로드 추가';
 $lang['AdminMain.files.tab_urls'] = '정적 URL';
 $lang['AdminMain.files.tab_files'] = '파일';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.category_deleted'] = '카테고리가 성공적으로 
 $lang['AdminMain.!success.category_updated'] = '카테고리가 성공적으로 업데이트되었습니다.';
 $lang['AdminMain.!success.category_added'] = '카테고리가 성공적으로 생성되었습니다.';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
-$lang['AdminMain.edit.text_full_path'] = '참고: 파일은 업로드 디렉터리 내 어딘가에 있어야 합니다: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = '참고: 파일은 업로드 디렉터리 내 어딘가에 있어야 합니다: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = '참고: 파일은 업로드 디렉터리 내 어딘가에 위치해야 합니다: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = '참고: 파일은 업로드 디렉터리 내 어딘가에 위치해야 합니다: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = '파일';
+$lang['AdminMain.sidebar.urls'] = '정적 URL';
+$lang['AdminMain.!performance.xsendfile'] = 'Apache의 mod_http2는 활성화되어 있지만 mod_xsendfile은 활성화되어 있지 않습니다. 더 나은 성능과 빠른 다운로드를 위해 mod_xsendfile을 활성화하거나 설치하는 것이 좋습니다.';
+$lang['AdminMain.modal.confirm_delete'] = '삭제 확인';
+$lang['AdminMain.modal.delete'] = '삭제';
+$lang['AdminMain.modal.cancel'] = '취소';
+$lang['AdminMain.modal.save'] = '저장';
+$lang['AdminMain.add.public'] = '공개적으로 사용 가능';
+$lang['AdminMain.add.logged_in'] = '로그인해야 합니다.';
+$lang['AdminMain.add.text_fileinfo'] = '참고: 파일은 업로드 디렉터리 내 어딘가에 위치해야 합니다.';
+$lang['AdminMain.add.field_file_type'] = '파일 소스';
+$lang['AdminMain.add.upload'] = '파일 업로드';
+$lang['AdminMain.add.path'] = '파일 경로 지정';
 

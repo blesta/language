@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['AdminSystemStaff.manage.category_inactive'] = 'Inactif';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Ajouter du personnel';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Nom';
 $lang['AdminSystemStaff.manage.heading_email'] = 'Courrier électronique';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Options';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Actions';
 $lang['AdminSystemStaff.manage.no_results'] = 'Aucun membre du personnel n\'a ce statut.';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Désactiver réellement ce membre du personnel ?';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Réactiver vraiment ce membre du personnel ?';
@@ -66,14 +66,14 @@ $lang['AdminSystemStaff.edit.field_twofactorkey'] = 'Clé à deux facteurs';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Pin à deux facteurs';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Groupes de membres';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Groupes disponibles';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Editer le personnel';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Mise à jour du personnel';
 $lang['AdminSystemStaff.groups.page_title'] = 'Paramètres > Système > Personnel > Groupes de personnel';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Groupes du personnel';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Créer un groupe';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Nom';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Nom de l\'entreprise';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Nombre d\'employés';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Options';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Actions';
 $lang['AdminSystemStaff.groups.no_results'] = 'Il n\'y a pas de groupe de personnel.';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Editer';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Êtes-vous sûr de vouloir supprimer ce groupe de personnel ?';
@@ -97,7 +97,7 @@ $lang['AdminSystemStaff.editgroup.boxtitle_editgroup'] = 'Groupe d\'édition';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Nom';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Entreprise';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Déconnexion en cas de changement d\'adresse IP';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Groupe d\'édition';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Groupe de mise à jour';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Général';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Liste de contrôle d\'accès';
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Avis de la BCC par courriel';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Avis d
 $lang['AdminSystemStaff.editgroup.dialog_confirm_edit_assigned'] = 'Vous êtes actuellement affecté à ce groupe de personnel. Toute modification apportée prendra effet immédiatement et il se peut que vous ne puissiez plus accéder à cette zone. Êtes-vous sûr de vouloir effectuer ces changements ?';
 $lang['AdminSystemStaff.add.field_recovery_email'] = 'Courriel de récupération (facultatif)';
 $lang['AdminSystemStaff.edit.field_recovery_email'] = 'Courriel de récupération (facultatif)';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Notifications';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Notifications';
 

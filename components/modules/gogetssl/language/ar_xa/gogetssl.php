@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.api_password.empty'] = 'الرجاء إدخال كلمة 
 $lang['GoGetSSL.!error.api_username.valid'] = 'تعذر إنشاء اتصال بالخادم. يرجى التحقق للتأكد من صحة بيانات اعتماد واجهة برمجة التطبيقات.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'يُرجى إدخال اسم مستخدم API.';
 $lang['GoGetSSL.name'] = 'GoGetSSL';
+$lang['Gogetssl.back_to_manage'] = 'رجوع';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.module_row_plural.name'] = 'Серверы';
 $lang['Apnscp.module_row.name'] = 'Сервер';
 $lang['Apnscp.description'] = 'Ранее назывался APNSCP.';
 $lang['Apnscp.name'] = 'ApisCP';
+$lang['Apnscp.back_to_manage'] = 'Назад';
+$lang['Apnscp.manage.tab_rows'] = 'Серверы';
+$lang['Apnscp.manage.tab_groups'] = 'Группы серверов';
 

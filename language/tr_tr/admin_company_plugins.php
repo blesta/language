@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.upgraded'] = 'Eklenti başarıyla yükseltil
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Eklenti başarıyla kaldırıldı.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Eklenti başarıyla yüklendi. Çeşitli kaynaklar için ACL izinleri kaydetmiş olabilir. Bu kaynaklara erişmek için personel grubunuza bu izinlere erişim izni vermeniz gerekebilir.';
 $lang['AdminCompanyPlugins.settings.page_title'] = '%1$s Ayarlar';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtre eklentileri...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Eşleşen eklenti bulunamadı.';
 

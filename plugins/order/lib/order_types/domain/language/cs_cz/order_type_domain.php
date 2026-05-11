@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Vyhledávání TLD';
 $lang['Main.steps.step_1_description'] = 'Výběr domény';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Možnosti';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Akce';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Období';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Termín';
 $lang['OrderTypeDomain.settings.text_term'] = 'Minimální doba a období';

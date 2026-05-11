@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -342,4 +342,5 @@ $lang['Logicboxes.tab_forwarder.meta_tags'] = 'Métabalises';
 $lang['Logicboxes.tab_forwarder.url_masking'] = 'Masquage d\'URL';
 $lang['Logicboxes.tab_forwarder.forward_to'] = 'Vers l\'avant';
 $lang['Logicboxes.tab_forwarder.title'] = 'Transfert de domaine';
+$lang['Logicboxes.back_to_manage'] = 'Retour à Gérer';
 

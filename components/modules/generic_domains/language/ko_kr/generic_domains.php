@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = '이메일 수신';
 $lang['GenericDomains.manage.from_email'] = '이메일 보내기';
 $lang['GenericDomains.manage.notification_settings_title'] = '알림 설정';
 $lang['GenericDomains.!tooltip.to_emails'] = '모든 수신자 이메일을 쉼표로 구분합니다.';
+$lang['Generic_domains.back_to_manage'] = '뒤로';
+$lang['GenericDomains.manage.text_available_tags'] = '사용 가능한 태그';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.module_row_plural'] = 'Konten';
 $lang['Vultr.module_row'] = 'Konto';
 $lang['Vultr.description'] = 'Das Vultr Control Panel macht die Serververwaltung einfach und intuitiv. Übliche Aufgaben wie die Bestellung von Servern, die Verwaltung von Backups und die Anpassung der Zugriffskontrolle sind nur wenige Klicks entfernt.';
 $lang['Vultr.name'] = 'Vultr';
+$lang['Vultr.back_to_manage'] = 'Zurück';
 

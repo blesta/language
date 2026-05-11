@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminCompanyGeneral.smartsearch.boxtitle_smartsearch'] = 'Căutare inteli
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'Actualizarea setărilor';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'Prezentați clienților opțiunea de a opta pentru a se înscrie sau a renunța la marketingul prin e-mail.';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'Marketing';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Editați tipul de contact';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Actualizați tipul de contact';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'Utilizați definiția limbii';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'Nume';
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'Editați tipul de contact';
@@ -52,7 +52,7 @@ $lang['AdminCompanyGeneral.contacttypes.option_delete'] = 'Ștergeți';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'Editați';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'Nu';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'Da';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Opțiuni';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Acțiuni';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'Utilizări Limbajul Definiție';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'Nume';
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'Tipuri de contact';

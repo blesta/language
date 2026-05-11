@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'فير %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'اسحب الأدوات من اليمين إلى اليسار لإضافتها إلى لوحة التحكم، أو من اليسار إلى اليمين لإزالتها.';
 $lang['AdminMain.index.customize_dashboard'] = 'تخصيص لوحة التحكم';
 $lang['AdminMain.index.manage_widgets'] = 'إدارة الأدوات';
-$lang['AdminMain.index.no_quicklinks'] = 'لم يتم تعيين أي روابط سريعة.';
+$lang['AdminMain.index.no_quicklinks'] = 'لا توجد روابط سريعة حتى الآن. انقر على أيقونة النجمة في أي صفحة لإضافتها هنا.';
 $lang['AdminMain.index.heading_quicklinks'] = 'روابط سريعة';
 $lang['AdminMain.index.page_title'] = 'لوحة التحكم';
 $lang['AdminMain.!success.event_deleted'] = 'تم حذف الحدث بنجاح!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'تم تحديث الحدث بنجا�
 $lang['AdminMain.!success.event_added'] = 'تمت إضافة الحدث بنجاح!';
 $lang['AdminMain.!error.event_editable'] = 'يحق لمنشئ الحدث فقط حذف هذا الحدث.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'يحق لمنشئ الحدث فقط حذف هذا الحدث.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'إدارة أدوات إدارة لوحة التحكم';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'إغلاق';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'إزالة الرابط السريع';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'هل تريد بالتأكيد إزالة "%1$s" من الروابط السريعة؟';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'إزالة';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'إلغاء';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'انقر على الأدوات لإظهارها أو إخفائها من لوحة التحكم.';
+$lang['AdminMain.calendar.category_list'] = 'القائمة';
+$lang['AdminMain.calendar.category_today'] = 'اليوم';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.configoptions[players].format'] = 'Veuillez indi
 $lang['MulticraftService.!error.configoptions[memory].format'] = 'Veuillez définir une quantité de mémoire valide.';
 $lang['MulticraftService.!error.configoptions[daemon_id].format'] = 'Veuillez définir un démon valide.';
 $lang['MulticraftService.!error.configoptions[dedicated_ip].format'] = 'L\'utilisation d\'une adresse IP dédiée doit être réglée sur 1 ou 0.';
+$lang['Multicraft.back_to_manage'] = 'Retour';
 

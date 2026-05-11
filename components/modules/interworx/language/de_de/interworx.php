@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'Das InterWorx Web Control Panel ist ein Linux-
 $lang['Interworx.name'] = 'Interworx';
 $lang['Interworx.!error.soap_required'] = 'Die SOAP-Erweiterung ist für dieses Modul erforderlich.';
 $lang['Interworx.!error.libxml_required'] = 'Die libxml-Erweiterung ist für dieses Modul erforderlich.';
+$lang['Interworx.back_to_manage'] = 'Zurück';
+$lang['Interworx.manage.tab_rows'] = 'Server';
+$lang['Interworx.manage.tab_groups'] = 'Server-Gruppen';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Verfügbar)';
 

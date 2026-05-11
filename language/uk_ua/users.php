@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = 'Будь ласка, введіть
 $lang['Users.!error.current_password.matches'] = 'Неправильний пароль.';
 $lang['Users.!error.username.unique'] = 'Це ім\'я користувача вже зайнято.';
 $lang['Users.!error.username.empty'] = 'Будь ласка, введіть ім\'я користувача.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'повинні відповідати зразку: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'повинен містити %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'щонайменше %1$s символів';
+$lang['Users.!error.password_requirement.length_exact'] = 'рівно %1$s символів';
+$lang['Users.!error.password_requirement.length_between'] = 'між символами %1$s та %2$s ';
+$lang['Users.!error.password_requirement.special_char'] = 'спеціальний символ';
+$lang['Users.!error.password_requirement.digit'] = 'цифра';
+$lang['Users.!error.password_requirement.uppercase'] = 'велика літера';
+$lang['Users.!error.password_requirement.lowercase'] = 'мала літера';
+$lang['Users.!error.new_password.format_custom'] = 'Пароль не відповідає вимогам: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'Пароль повинен бути не менше %1$s символів і містити тільки цифри.';
+$lang['Users.!error.new_password.format_alpha'] = 'Пароль повинен бути не менше %1$s символів і містити лише літери.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'Пароль повинен бути не менше %1$s символів і містити лише літери та цифри.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'Пароль повинен містити щонайменше %1$s символів і не може містити пробілів.';
+$lang['Users.!error.new_password.format_any'] = 'Пароль повинен містити щонайменше %1$s символів.';
 

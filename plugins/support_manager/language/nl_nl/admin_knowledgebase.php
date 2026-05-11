@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = 'De categorie is succesv
 $lang['AdminKnowledgebase.!success.category_added'] = 'De categorie is succesvol aangemaakt.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Werk alle subcategorieën en hun artikelen bij';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Werk alle artikelen in deze categorie bij zodat ze dezelfde toegankelijkheid hebben';
+$lang['AdminKnowledgebase.index.view'] = 'Bekijk';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Bu e-posta imzası şu anda 
 $lang['Emails.!error.text.parse'] = 'Şablon ayrıştırma hatası: %1$s';
 $lang['Emails.!error.html.parse'] = 'Şablon ayrıştırma hatası: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Anlık görüntü belirtilen e-postaya ait değil.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Geçersiz anlık görüntü kimliği.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.edit_row.service_client_info'] = 'Πληροφορίες 
 $lang['UniversalModule.edit_row.tags'] = 'Ετικέτες';
 $lang['UniversalModule.!error.package_fields[name][].unique'] = 'Το όνομα του πεδίου του πακέτου πρέπει να είναι μοναδικό.';
 $lang['UniversalModule.!error.service_fields[name][].unique'] = 'Το όνομα του πεδίου υπηρεσίας πρέπει να είναι μοναδικό.';
+$lang['UniversalModule.back_to_manage'] = 'Πίσω';
 

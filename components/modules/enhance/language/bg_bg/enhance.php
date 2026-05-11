@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Сървъри';
 $lang['Enhance.module_row'] = 'Сървър';
 $lang['Enhance.description'] = 'Enhance е контролен панел за споделен хостинг от следващо поколение.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Обратно';
+$lang['Enhance.manage.tab_rows'] = 'Сървъри';
+$lang['Enhance.manage.tab_groups'] = 'Групи сървъри';
+$lang['Enhance.package_fields.package_tooltip'] = 'Въведете идентификатора на плана от контролния панел Enhance. Плановете не могат да бъдат заредени автоматично.';
 

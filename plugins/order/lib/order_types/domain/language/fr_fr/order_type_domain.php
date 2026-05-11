@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,7 +29,7 @@ $lang['OrderTypeDomain.settings.text_available_package_groups'] = 'Groupes de fo
 $lang['OrderTypeDomain.settings.text_term'] = 'Durée minimale et période';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Durée';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Période';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Options';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Actions';
 $lang['Main.steps.step_1_description'] = 'Choisir un domaine';
 $lang['OrderTypeDomain.settings.field_search'] = 'Recherche TLD';
 

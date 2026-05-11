@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = 'Răspunsul %1$s a fost adăug
 $lang['AdminResponses.!success.category_deleted'] = 'Categoria %1$s a fost ștearsă cu succes.';
 $lang['AdminResponses.!success.category_updated'] = 'Categoria %1$s a fost actualizată cu succes.';
 $lang['AdminResponses.!success.category_added'] = 'Categoria %1$s a fost adăugată cu succes.';
+$lang['AdminResponses.index.btn_back'] = 'Înapoi';
+$lang['AdminResponses.index.btn_add_category'] = 'Adaugă o categorie';
+$lang['AdminResponses.index.btn_add_response'] = 'Adaugă răspuns';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Secara keseluruhan sistem dalam keadaan 
 $lang['AdminMain.index.health_excellent'] = 'Sistem dalam keadaan sehat dan tampak beroperasi secara normal.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Konfigurasi?';
 $lang['AdminMain.index.upload_dir'] = 'Jalur direktori unggahan dalam pengaturan Anda berada di dalam direktori web root.  Direktori ini harus ditempatkan di atas direktori web root untuk memastikan tidak akan ada masalah jika diakses oleh publik.';
+$lang['AdminMain.index.text_info'] = 'Informasi';
+$lang['AdminMain.index.text_warning'] = 'Peringatan';
+$lang['AdminMain.index.text_error'] = 'Kesalahan';
+$lang['AdminMain.index.text_success'] = 'Sukses';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistem';
+$lang['AdminMain.index.category_database'] = 'Basis data';
+$lang['AdminMain.index.category_security'] = 'Keamanan';
 

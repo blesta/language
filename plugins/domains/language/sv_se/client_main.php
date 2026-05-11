@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'Du har inga %1$s-domäner.';
 $lang['ClientMain.index.text_never'] = 'Aldrig';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Hantera';
-$lang['ClientMain.index.heading_options'] = 'Alternativ';
+$lang['ClientMain.index.heading_options'] = 'Åtgärder';
 $lang['ClientMain.index.heading_deletion_date'] = 'Datum för radering';
 $lang['ClientMain.index.heading_suspension_date'] = 'Datum för upphävande';
 $lang['ClientMain.index.heading_expiration_date'] = 'Utgångsdatum';

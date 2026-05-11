@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Ομάδες γονέων
 $lang['AdminPackages.groups.confirm_delete'] = 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ομάδα πακέτων; Όλα τα πακέτα που έχουν εκχωρηθεί σε αυτήν την ομάδα δεν θα εκχωρούνται πλέον σε αυτήν την ομάδα και ενδέχεται να καταστούν άχρηστα.';
 $lang['AdminPackages.groups.option_delete'] = 'Διαγραφή';
 $lang['AdminPackages.groups.option_edit'] = 'Επεξεργασία';
-$lang['AdminPackages.groups.heading_options'] = 'Επιλογές';
+$lang['AdminPackages.groups.heading_options'] = 'Δράσεις';
 $lang['AdminPackages.groups.heading_type'] = 'Τύπος';
 $lang['AdminPackages.groups.heading_name'] = 'Όνομα';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Ομάδες πακέτων';
@@ -193,12 +193,12 @@ $lang['AdminPackages.index.no_results'] = 'Δεν υπάρχουν πακέτα 
 $lang['AdminPackages.index.option_delete'] = 'Διαγραφή';
 $lang['AdminPackages.index.option_copy'] = 'Αντιγραφή';
 $lang['AdminPackages.index.option_edit'] = 'Επεξεργασία';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Υποβολή';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Εφαρμογή';
 $lang['AdminPackages.index.action.delete'] = 'Διαγραφή πακέτων';
 $lang['AdminPackages.index.category_inactive'] = 'Ανενεργό';
 $lang['AdminPackages.index.category_restricted'] = 'Περιορισμένο';
 $lang['AdminPackages.index.category_active'] = 'Ενεργό';
-$lang['AdminPackages.index.heading_options'] = 'Επιλογές';
+$lang['AdminPackages.index.heading_options'] = 'Δράσεις';
 $lang['AdminPackages.index.heading_qty'] = 'Ποσότητα';
 $lang['AdminPackages.index.heading_module'] = 'Ενότητα';
 $lang['AdminPackages.index.heading_name'] = 'Όνομα';
@@ -221,4 +221,63 @@ $lang['AdminPackages.edit.field_manual_activation'] = 'Κράτηση πληρω
 $lang['AdminPackages.edit.text_default'] = 'Προεπιλογή';
 $lang['AdminPackages.add.text_default'] = 'Προεπιλογή';
 $lang['AdminPackages.!tooltip.single_term'] = 'Εάν αυτή η επιλογή είναι επιλεγμένη, οι νέες υπηρεσίες που χρησιμοποιούν αυτό το Πακέτο δεν θα ανανεώνονται αλλά θα ακυρώνονται αυτόματα στο τέλος της αρχικής τους διάρκειας.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Παραγόμενο κείμενο ηλεκτρονικού ταχυδρομείου:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Παραγόμενη HTML email:';
+$lang['AdminPackages.ai.email_use_button'] = 'Χρησιμοποιήστε αυτό το email';
+$lang['AdminPackages.ai.email_generating'] = 'Δημιουργία email...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Περιγράψτε τι θα πρέπει να αναφέρει το μήνυμα ηλεκτρονικού ταχυδρομείου καλωσορίσματος (π.χ. "Καλωσορίζουμε τον νέο πελάτη, εξηγούμε τη ρύθμιση της υπηρεσίας").';
+$lang['AdminPackages.ai.email_modal_title'] = 'Δημιουργία email καλωσορίσματος';
+$lang['AdminPackages.ai.generate_email_button'] = 'Δημιουργία email με AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Πληροφορίες πλαισίου:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Δημιουργήστε μια επαγγελματική περιγραφή για αυτό το πακέτο προϊόντων/υπηρεσιών.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Δημιουργήστε ένα επαγγελματικό μήνυμα ηλεκτρονικού ταχυδρομείου καλωσορίσματος για αυτό το πακέτο προϊόντων/υπηρεσιών που καλωσορίζει τον πελάτη και παρέχει χρήσιμες πληροφορίες σχετικά με τη νέα του υπηρεσία.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Ξαναγράψτε και βελτιώστε αυτό το περιεχόμενο διατηρώντας τις ίδιες γενικές πληροφορίες:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Ελέγξτε την παραπάνω προτροπή, προσθέστε τυχόν πρόσθετες οδηγίες και, στη συνέχεια, κάντε κλικ στο κουμπί Δημιουργία για να δημιουργήσετε περιεχόμενο.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Φόρτωση προτροπής...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Πλαίσιο προτροπής';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Δώστε τυχόν ειδικές λεπτομέρειες ή απαιτήσεις που πρέπει να συμπεριλάβει η ΤΕ στην περιγραφή.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'π.χ., Συμπεριλάβετε πληροφορίες σχετικά με την υποστήριξη 24/7, αναφέρετε την εγγύηση επιστροφής χρημάτων 30 ημερών...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Πρόσθετες οδηγίες (προαιρετικά)';
+$lang['AdminPackages.ai.error_prefix'] = 'Σφάλμα:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Αποτυχία δημιουργίας περιγραφής';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Παρακαλώ εισάγετε μια προτροπή';
+$lang['AdminPackages.ai.apply_text'] = 'Έκδοση κειμένου';
+$lang['AdminPackages.ai.apply_html'] = 'Έκδοση HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'Εφαρμόστε το περιεχόμενο σε:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Η λειτουργία AI δεν είναι ενεργοποιημένη';
+$lang['AdminPackages.ai.error_disabled'] = 'Οι λειτουργίες AI δεν είναι ενεργοποιημένες';
+$lang['AdminPackages.ai.regenerating'] = 'Αναζωογόνηση...';
+$lang['AdminPackages.ai.generating'] = 'Δημιουργία...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Ακύρωση';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Αναγεννήστε το';
+$lang['AdminPackages.ai.btn_use'] = 'Χρήση αυτής της περιγραφής';
+$lang['AdminPackages.ai.btn_generate'] = 'Δημιουργία';
+$lang['AdminPackages.ai.preview_text'] = 'Παραγόμενο κείμενο:';
+$lang['AdminPackages.ai.preview_html'] = 'Παραγόμενη HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Τεχνικό';
+$lang['AdminPackages.ai.tone_casual'] = 'Casual';
+$lang['AdminPackages.ai.tone_professional'] = 'Επαγγελματικό';
+$lang['AdminPackages.ai.tone'] = 'Τόνος';
+$lang['AdminPackages.ai.generate_text'] = 'Δημιουργία κειμένου (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Δημιουργία HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Περιγράψτε τα χαρακτηριστικά του πακέτου, το κοινό-στόχο, κ.λπ...';
+$lang['AdminPackages.ai.use_content_button'] = 'Χρησιμοποιήστε αυτό το περιεχόμενο';
+$lang['AdminPackages.ai.regenerate_button'] = 'Αναγέννηση';
+$lang['AdminPackages.ai.no_context'] = 'Δεν υπάρχει διαθέσιμο πλαίσιο';
+$lang['AdminPackages.ai.context_type_email'] = 'Email καλωσορίσματος';
+$lang['AdminPackages.ai.context_type_description'] = 'Περιγραφή συσκευασίας';
+$lang['AdminPackages.ai.context_type'] = 'Τύπος:';
+$lang['AdminPackages.ai.context_module'] = 'Ενότητα:';
+$lang['AdminPackages.ai.context_package'] = 'Συσκευασία:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Παραγόμενο περιεχόμενο:';
+$lang['AdminPackages.ai.context_label'] = 'Πλαίσιο:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'Επαναγραφημένη περιγραφή AI';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Περιγραφή παραγόμενη από AI';
+$lang['AdminPackages.ai.modal_title'] = 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη';
+$lang['AdminPackages.ai.rewrite_button'] = 'Ξαναγράψτε το';
+$lang['AdminPackages.ai.generate_button'] = 'Δημιουργία';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Εφαρμόστε φίλτρα';
+$lang['AdminPackages.index.field_filterclear'] = 'Σαφής';
+$lang['AdminPackages.index.filter_toggle'] = 'Εναλλαγή φίλτρων';
+$lang['AdminPackages.index.items_selected'] = 'επιλεγμένα στοιχεία';
 

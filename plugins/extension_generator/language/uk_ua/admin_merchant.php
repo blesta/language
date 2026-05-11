@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'Далі - Підтвердження
 $lang['AdminMerchant.features.heading_supported_features'] = 'Підтримувані функції';
 $lang['AdminMerchant.fields.features'] = 'Далі - Підтримувані функції';
 $lang['AdminMerchant.fields.text_remove'] = 'Видалити';
-$lang['AdminMerchant.fields.text_options'] = 'Параметри';
+$lang['AdminMerchant.fields.text_options'] = 'Дії';
 $lang['AdminMerchant.fields.field_row_add'] = 'Додати поле конфігурації';
 $lang['AdminMerchant.fields.placeholder_label'] = 'наприклад, Поле конфігурації';
 $lang['AdminMerchant.fields.placeholder_name'] = 'наприклад, поле_конфігурації';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'Логотип відображає
 $lang['AdminMerchant.basic.tooltip_description'] = 'Опис, показаний у списку плагінів';
 $lang['AdminMerchant.basic.text_remove'] = 'Видалити';
 $lang['AdminMerchant.basic.author_row_add'] = 'Додати автора';
-$lang['AdminMerchant.basic.text_options'] = 'Параметри';
+$lang['AdminMerchant.basic.text_options'] = 'Дії';
 $lang['AdminMerchant.basic.author_url'] = 'URL-адреса автора';
 $lang['AdminMerchant.basic.author_name'] = 'Ім\'я автора Ім\'я автора';
 $lang['AdminMerchant.basic.currencies'] = 'Валюти';

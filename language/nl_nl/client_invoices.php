@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Type betaling';
 $lang['ClientInvoices.index.no_results'] = 'U hebt geen %1$s Facturen.';
 $lang['ClientInvoices.index.option_pay'] = 'Betaal';
 $lang['ClientInvoices.index.option_view'] = 'Bekijk';
-$lang['ClientInvoices.index.heading_options'] = 'Opties';
+$lang['ClientInvoices.index.heading_options'] = 'Acties';
 $lang['ClientInvoices.index.heading_datedue'] = 'Datum';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Datum gefactureerd';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Datum Gesloten';

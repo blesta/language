@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,7 +42,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = '인쇄';
 $lang['AdminBilling.printqueue.page_title'] = '청구 인쇄 대기열';
 $lang['AdminBilling.invoices.text_edit'] = '편집';
 $lang['AdminBilling.invoices.applied_no_results'] = '이 인보이스에는 적용된 거래가 없습니다.';
-$lang['AdminBilling.invoices.headingexpand_options'] = '옵션';
+$lang['AdminBilling.invoices.headingexpand_options'] = '작업';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = '적용됨';
 $lang['AdminBilling.invoices.headingexpand_applied'] = '적용됨';
 $lang['AdminBilling.invoices.headingexpand_amount'] = '금액';
@@ -60,7 +60,7 @@ $lang['AdminBilling.transactions.category_error'] = '오류';
 $lang['AdminBilling.transactions.category_voided'] = '무효';
 $lang['AdminBilling.transactions.category_declined'] = '거부됨';
 $lang['AdminBilling.transactions.category_approved'] = '승인됨';
-$lang['AdminBilling.transactions.heading_options'] = '옵션';
+$lang['AdminBilling.transactions.heading_options'] = '작업';
 $lang['AdminBilling.transactions.heading_date'] = '날짜';
 $lang['AdminBilling.transactions.heading_reference_id'] = '참조 번호';
 $lang['AdminBilling.transactions.heading_number'] = '번호';
@@ -73,7 +73,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = '거래';
 $lang['AdminBilling.transactions.page_title'] = '청구 거래';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = '취소 사유: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = '이 서비스에는 세부 정보가 없습니다.';
-$lang['AdminBilling.services.field_actionsubmit'] = '제출하기';
+$lang['AdminBilling.services.field_actionsubmit'] = '신청하기';
 $lang['AdminBilling.services.action.field_client'] = 'Client:';
 $lang['AdminBilling.services.action.push_to_client'] = '클라이언트로 푸시';
 $lang['AdminBilling.services.action.field_action_type_none'] = '취소하지 않기';
@@ -91,7 +91,7 @@ $lang['AdminBilling.services.category_active'] = '활성';
 $lang['AdminBilling.services.confirm_delete'] = '이 서비스를 삭제하시겠습니까?';
 $lang['AdminBilling.services.option_delete'] = '삭제';
 $lang['AdminBilling.services.option_manage'] = '관리';
-$lang['AdminBilling.services.heading_options'] = '옵션';
+$lang['AdminBilling.services.heading_options'] = '작업';
 $lang['AdminBilling.services.heading_datecanceled'] = '날짜 취소됨';
 $lang['AdminBilling.services.heading_datesuspended'] = '일시 중단된 날짜';
 $lang['AdminBilling.services.heading_daterenews'] = '날짜 갱신';
@@ -104,7 +104,7 @@ $lang['AdminBilling.services.boxtitle_services'] = '서비스';
 $lang['AdminBilling.services.page_title'] = '청구 서비스';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = '이 견적과 관련된 인보이스가 없습니다.';
 $lang['AdminBilling.quotationinvoices.option_view'] = '보기';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = '옵션';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = '작업';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = '청구 날짜';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = '유료';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = '금액';
@@ -115,7 +115,7 @@ $lang['AdminBilling.quotations.option_approve'] = '승인';
 $lang['AdminBilling.quotations.option_invoice'] = '송장 생성';
 $lang['AdminBilling.quotations.option_view'] = '보기';
 $lang['AdminBilling.quotations.option_edit'] = '편집';
-$lang['AdminBilling.quotations.heading_options'] = '옵션';
+$lang['AdminBilling.quotations.heading_options'] = '작업';
 $lang['AdminBilling.quotations.heading_date_expires'] = '만료 날짜';
 $lang['AdminBilling.quotations.heading_date_created'] = '생성 날짜';
 $lang['AdminBilling.quotations.heading_total'] = '금액';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = '열기';
 $lang['AdminBilling.invoices.heading_count'] = 'Count';
 $lang['AdminBilling.invoices.heading_duration'] = '기간';
 $lang['AdminBilling.invoices.heading_term'] = '기간';
-$lang['AdminBilling.invoices.heading_options'] = '옵션';
+$lang['AdminBilling.invoices.heading_options'] = '작업';
 $lang['AdminBilling.invoices.heading_datedue'] = '마감일';
 $lang['AdminBilling.invoices.heading_datebilled'] = '청구 날짜';
 $lang['AdminBilling.invoices.heading_dateclosed'] = '마감일';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = '선택한 서비스가 �
 $lang['AdminBilling.!success.services_suspended'] = '선택한 서비스가 성공적으로 일시 중단되었습니다.';
 $lang['AdminBilling.services.text_pending_service_changes'] = '이 서비스는 변경이 보류 중입니다.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = '결제 완료 날짜: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = '선택한 항목';
+$lang['AdminBilling.printqueue.text_item_selected'] = '선택한 항목';
+$lang['AdminBilling.transactions.option_view'] = '보기';
+$lang['AdminBilling.transactions.headingexpand_options'] = '작업';
+$lang['AdminBilling.services.text_items_selected'] = '선택한 항목';
+$lang['AdminBilling.services.text_item_selected'] = '선택한 항목';
+$lang['AdminBilling.services.field_filtersubmit'] = '필터 적용';
+$lang['AdminBilling.services.field_filterclear'] = '지우기';
+$lang['AdminBilling.services.filter_toggle'] = '필터 토글';
+$lang['AdminBilling.quotations.field_filtersubmit'] = '필터 적용';
+$lang['AdminBilling.quotations.field_filterclear'] = '지우기';
+$lang['AdminBilling.quotations.filter_toggle'] = '필터 토글';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = '위젯을 클릭하여 대시보드에서 위젯을 표시하거나 숨깁니다.';
 

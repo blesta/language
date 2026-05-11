@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Ziehen Sie Widgets von rechts nach links, um sie zu Ihrem Dashboard hinzuzufügen, oder von links nach rechts, um sie zu entfernen.';
 $lang['AdminMain.index.customize_dashboard'] = 'Dashboard anpassen';
 $lang['AdminMain.index.manage_widgets'] = 'Widgets verwalten';
-$lang['AdminMain.index.no_quicklinks'] = 'Es wurden keine Quick Links gesetzt.';
+$lang['AdminMain.index.no_quicklinks'] = 'Noch keine Quick Links. Klicken Sie auf das Sternsymbol auf einer beliebigen Seite, um sie hier hinzuzufügen.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Schnelle Links';
 $lang['AdminMain.index.page_title'] = 'Dashboard';
 $lang['AdminMain.!success.event_deleted'] = 'Das Ereignis wurde erfolgreich gelöscht!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Die Veranstaltung wurde erfolgreich 
 $lang['AdminMain.!success.event_added'] = 'Das Ereignis wurde erfolgreich hinzugefügt!';
 $lang['AdminMain.!error.event_editable'] = 'Nur der Ersteller des Ereignisses kann dieses Ereignis löschen.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Nur der Ersteller des Ereignisses kann dieses Ereignis löschen.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Widgets für das Dashboard verwalten';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Schließen Sie';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Quick Link entfernen';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Sind Sie sicher, dass Sie "%1$s" aus den Quick Links entfernen möchten?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'entfernen';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Abbrechen';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klicken Sie auf Widgets, um sie auf Ihrem Dashboard ein- oder auszublenden.';
+$lang['AdminMain.calendar.category_list'] = 'Liste';
+$lang['AdminMain.calendar.category_today'] = 'Heute';
 

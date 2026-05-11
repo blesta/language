@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = '信使配�
 $lang['AdminCompanyMessengers.!success.uninstalled'] = '信使已成功卸载。';
 $lang['AdminCompanyMessengers.!success.installed'] = '信使已成功安装。';
 $lang['AdminCompanyMessengers.!success.upgraded'] = '信使已成功升级。';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = '过滤信使...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = '未找到匹配的信使。';
 

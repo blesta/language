@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Terk Edilmiş Sipariş';
 $lang['AdminForms.add.tab_basic'] = 'Temel';
 $lang['AdminForms.index.field_status_inactive'] = 'Aktif değil';
 $lang['AdminForms.index.field_status_active'] = 'Aktif';
-$lang['AdminForms.index.text_confirm_delete'] = 'Bu sipariş formunu gerçekten silecek misiniz?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Bu sipariş formunu silmek istediğinizden emin misiniz?';
 $lang['AdminForms.index.option_delete'] = 'Silme';
 $lang['AdminForms.index.option_edit'] = 'Düzenle';
 $lang['AdminForms.index.heading_options'] = 'Seçenekler';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Bir paket seçerken, her f
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Aylık Fiyat Dağılımını Göster';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Bir paket seçerken, her fiyatlandırma seçeneği için aylık maliyeti ve aylık fiyatla karşılaştırıldığında aylık tasarrufu (varsa) gösterin.';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Aylık Fiyat Dağılımını Göster';
+$lang['AdminForms.index.heading_actions'] = 'Eylemler';
+$lang['AdminForms.index.back_to_forms'] = 'Sipariş Formlarına Geri Dön';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Yinelenen Abonelikler için Onay Gerektirin';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Etkinleştirildiğinde, müşteriler yinelenen ürünler içeren bir siparişi tamamlamadan önce yinelenen faturalandırmaya açıkça onay vermelidir. Bu, Ödeme Ayrıntılarını Kaydet onay kutusunun yerini alır.';
+$lang['AdminForms.add.field_cancel'] = 'İptal';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Yinelenen Abonelikler için Onay Gerektirin';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Etkinleştirildiğinde, müşteriler yinelenen ürünler içeren bir siparişi tamamlamadan önce yinelenen faturalandırmaya açıkça onay vermelidir. Bu, Ödeme Ayrıntılarını Kaydet onay kutusunun yerini alır.';
+$lang['AdminForms.edit.field_cancel'] = 'İptal';
+$lang['AdminForms.embed_codes.heading'] = 'Alan Adı Arama için Embed Kodu';
+$lang['AdminForms.embed_codes.description'] = 'Harici bir siteye alan adı arama formu yerleştirmek için aşağıdaki parçacıklardan birini kopyalayın. Gönderimler, girilen alan adı önceden yüklenmiş olarak bu sipariş formunda ödeme işlemini açacaktır.';
+$lang['AdminForms.embed_codes.label_first'] = 'Yerleştirme kodları oluşturmak için bu sipariş formu için bir URL etiketi girin.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Düz HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Önizleme';
+$lang['AdminForms.embed_codes.copy'] = 'Anlaşıldı';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Gömülü etki alanı aramasının çalışması için CSRF baypası gereklidir.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'config/blesta.php içindeki Blesta.csrf_bypass dizisine config::preconfig ekleyene kadar harici bir siteden gelen POST\'lar reddedilecektir:';
 

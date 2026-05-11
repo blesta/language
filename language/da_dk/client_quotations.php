@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['ClientQuotations.index.heading_subtotal'] = 'Subtotal';
 $lang['ClientQuotations.index.heading_total'] = 'Beløb';
 $lang['ClientQuotations.index.heading_date_created'] = 'Oprettet dato';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Dato udløber';
-$lang['ClientQuotations.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientQuotations.index.heading_options'] = 'Handlinger';
 $lang['ClientQuotations.index.option_view'] = 'Se';
 $lang['ClientQuotations.index.option_approve'] = 'Godkend';
 $lang['ClientQuotations.index.no_results'] = 'Du har ingen %1$s citater.';

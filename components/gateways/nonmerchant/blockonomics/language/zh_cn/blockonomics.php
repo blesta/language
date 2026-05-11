@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'API 密钥';
 $lang['Blockonomics.!error.api_key.valid'] = 'API 密钥无效。';
 $lang['Blockonomics.description'] = '接受比特币支付，每笔在线销售都会直接存入您的钱包。无需 KYC 文件。';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = '选择下面的货币，配置它们的父产品 UID。';
 

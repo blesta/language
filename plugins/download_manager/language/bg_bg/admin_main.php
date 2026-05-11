@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.edit.text_full_path'] = 'ЗАБЕЛЕЖКА: Файловете трябва да се намират някъде в директорията за качване: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'ЗАБЕЛЕЖКА: Файловете трябва да се намират някъде в директорията за качване: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'ЗАБЕЛЕЖКА: Файловете трябва да се намират някъде в директорията за качване: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ЗАБЕЛЕЖКА: Файловете трябва да се намират някъде в директорията за качване: <strong class="d-inline-block m-0">%1$s</strong>.';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Отмяна на';
 $lang['AdminMain.editcategory.submit_edit'] = 'Актуализиране на категорията';
@@ -78,7 +78,7 @@ $lang['AdminMain.urls.no_urls'] = 'В този раздел няма стати�
 $lang['AdminMain.urls.latest_file'] = 'Последен файл от <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Изтриване на';
 $lang['AdminMain.urls.edit'] = 'Редактиране на';
-$lang['AdminMain.urls.heading_options'] = 'Опции';
+$lang['AdminMain.urls.heading_options'] = 'Действия';
 $lang['AdminMain.urls.heading_link'] = 'Връзка';
 $lang['AdminMain.urls.heading_file'] = 'Файл';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -90,8 +90,8 @@ $lang['AdminMain.urls.page_title'] = 'Мениджър на изтеглянет
 $lang['AdminMain.files.no_downloads'] = 'В този раздел няма изтегляния.';
 $lang['AdminMain.files.delete'] = 'Изтриване на';
 $lang['AdminMain.files.edit'] = 'Редактиране на';
-$lang['AdminMain.files.go_back'] = 'Преминаване на по-високо ниво';
-$lang['AdminMain.files.add_category'] = 'Добавете категория тук';
+$lang['AdminMain.files.go_back'] = 'Обратно';
+$lang['AdminMain.files.add_category'] = 'Добавяне на категория';
 $lang['AdminMain.files.add_download'] = 'Добавете изтегляне тук';
 $lang['AdminMain.files.tab_urls'] = 'Статични URL адреси';
 $lang['AdminMain.files.tab_files'] = 'Файлове';
@@ -115,4 +115,17 @@ $lang['AdminMain.!success.file_added'] = 'Файлът е добавен усп�
 $lang['AdminMain.!success.category_deleted'] = 'Категорията е успешно изтрита.';
 $lang['AdminMain.!success.category_updated'] = 'Категорията е успешно актуализирана.';
 $lang['AdminMain.!success.category_added'] = 'Категорията е създадена успешно.';
+$lang['AdminMain.sidebar.files'] = 'Файлове';
+$lang['AdminMain.sidebar.urls'] = 'Статични URL адреси';
+$lang['AdminMain.!performance.xsendfile'] = 'Модулът mod_http2 на Apache е активиран, но модулът mod_xsendfile не е. Препоръчваме да включите или инсталирате mod_xsendfile за по-добра производителност и по-бързо изтегляне.';
+$lang['AdminMain.modal.confirm_delete'] = 'Потвърдете Изтриване';
+$lang['AdminMain.modal.delete'] = 'Изтриване на';
+$lang['AdminMain.modal.cancel'] = 'Отмяна на';
+$lang['AdminMain.modal.save'] = 'Запазете';
+$lang['AdminMain.add.public'] = 'Публично достъпни';
+$lang['AdminMain.add.logged_in'] = 'Трябва да сте влезли в системата';
+$lang['AdminMain.add.text_fileinfo'] = 'ЗАБЕЛЕЖКА: Файловете трябва да се намират някъде в директорията за качване.';
+$lang['AdminMain.add.field_file_type'] = 'Източник на файлове';
+$lang['AdminMain.add.upload'] = 'Качване на файл';
+$lang['AdminMain.add.path'] = 'Посочете пътя към файла';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Silakan masukkan label.';
 $lang['PackageOptions.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Apakah akan menyembunyikan faktur harus diatur ke 0 atau 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Apakah akan menonaktifkan harga harus ditetapkan ke 0 atau 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Jenis tidak dapat diubah karena satu atau beberapa nilai opsi yang tidak disertakan dalam pengajuan sedang digunakan oleh layanan.';
 

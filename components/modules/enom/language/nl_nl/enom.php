@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.module_row_plural'] = 'Rekeningen';
 $lang['Enom.module_row'] = 'Account';
 $lang['Enom.description'] = 'Enom, Inc. is een registrar van domeinnamen en een webhostingbedrijf dat ook andere producten verkoopt die nauw verbonden zijn met domeinnamen, zoals SSL-certificaten, e-mailservices en software voor het bouwen van websites.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Terug';
 

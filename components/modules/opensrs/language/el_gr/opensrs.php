@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = 'Λογαριασμοί';
 $lang['Opensrs.module_row'] = 'Λογαριασμός';
 $lang['Opensrs.description'] = 'Η OpenSRS είναι ένας καταχωρητής domain χονδρικής που προσφέρει μια premium, white-label πλατφόρμα που συνδέει τους συνεργάτες μεταπωλητές με τις λύσεις που χρειάζονται.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = 'Πίσω';
 

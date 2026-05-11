@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = '账户';
 $lang['Nominet.module_row'] = '账户';
 $lang['Nominet.description'] = 'Nominet 是运行 .UK 顶级域的域名注册机构。';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = '返回';
+$lang['Nominet.manage.tab_rows'] = '服务器';
+$lang['Nominet.manage.tab_groups'] = '服务器组';
 

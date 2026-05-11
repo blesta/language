@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = '클라이언트 그룹 ID가 �
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = '%1$s 의 최대 크레딧 금액은 최소 금액보다 커야 합니다.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = '%1$s 의 최대 크레딧 금액은 0보다 커야 합니다.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = '%1$s 의 최소 크레딧 금액은 0보다 커야 합니다.';
+$lang['Clients.!error.action[].exists'] = '잘못된 알림 작업입니다.';
+$lang['Clients.!error.action.exists'] = '잘못된 알림 작업 "%1$s".';
 

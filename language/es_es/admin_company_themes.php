@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminCompanyThemes.index.field_themessubmit'] = 'Seleccionar tema';
 $lang['AdminCompanyThemes.index.heading_id'] = 'ID';
 $lang['AdminCompanyThemes.index.heading_color'] = 'Combinación de colores';
 $lang['AdminCompanyThemes.index.heading_name'] = 'Nombre';
-$lang['AdminCompanyThemes.index.heading_options'] = 'Opciones';
+$lang['AdminCompanyThemes.index.heading_options'] = 'Acciones';
 $lang['AdminCompanyThemes.index.option_edit'] = 'Editar';
 $lang['AdminCompanyThemes.index.option_delete'] = 'Borrar';
 $lang['AdminCompanyThemes.index.option_export'] = 'Exportar';

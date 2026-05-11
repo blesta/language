@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.setup.field.show_currency_code'] = 'Покажи кода на валутата';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Сигурни ли сте, че искате да актуализирате тази валута? Обменният курс на тази валута ще бъде презаписан при автоматичното актуализиране на обменните курсове в системата. Можете да деактивирате автоматичните актуализации в менюто [Настройки] &gt; [Фирма] &gt; [Валути] &gt; [Настройки на валути].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Редактиране на валутата';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Актуализиране на валутата';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Валутен курс';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Символ на суфикс';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Префикс Символ';

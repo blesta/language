@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Notificări de comandă';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Nu există servicii în această ordine.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Niciodată';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Gestionați';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Opțiuni';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Acțiuni';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Data reînnoiește';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Data adăugării';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Termen';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Pachet';
 $lang['AdminMain.orderinfo.services_heading'] = 'Servicii';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Nu există tranzacții aplicate la această comandă.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Editați';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Opțiuni';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Acțiuni';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Aplicat pe';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Aplicată';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Suma';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Comenzi';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Setările de afiliere au fost actualizate.';
 $lang['AdminMain.!success.settings_updated'] = 'Setările comenzii dvs. au fost actualizate cu succes.';
 $lang['AdminMain.!success.status_updated'] = 'Comenzile selectate au fost actualizate cu succes.';
+$lang['AdminMain.index.paid'] = 'Plătite';
+$lang['AdminMain.index.unpaid'] = 'Neplătite';
+$lang['AdminMain.index.loading'] = 'Încărcare...';
+$lang['AdminMain.index.text_items_selected'] = 'elemente selectate';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'ID-ul tranzacției';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Statut';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Data';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Service';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Statut';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'În așteptare';
+$lang['AdminMain.settings.text_notifications'] = 'Configurați modul în care doriți să primiți notificări pentru comenzile noi.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Configurați modul în care doriți să primiți notificări pentru plățile afiliaților.';
 

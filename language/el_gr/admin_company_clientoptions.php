@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Προ
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Προεπιλεγμένη τιμή κειμένου';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Προεπιλεγμένη τιμή Ελέγχεται';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Αξία';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Επεξεργασία προσαρμοσμένου πεδίου';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Ενημέρωση προσαρμοσμένου πεδίου';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Κρυπτογράφηση τιμών';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Προσαρμοσμένη Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Απαιτούμενο';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Η α
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Προεπιλεγμένη τιμή κειμένου';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Προεπιλεγμένη τιμή Ελέγχεται';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Αξία';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Προσθήκη προσαρμοσμένου πεδίου';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Δημιουργία προσαρμοσμένου πεδίου';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Κρυπτογράφηση τιμών';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Προσαρμοσμένη Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Απαιτούμενο';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Όνομα';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Δημιουργία πεδίου';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Αναζήτηση προσαρμοσμένων πεδίων πελάτη';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Ρυθμίσεις > Εταιρεία > Επιλογές πελάτη > Προσαρμοσμένα πεδία πελάτη > Αναζήτηση';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Υποβολή';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Ενημέρωση ρυθμίσεων';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Αποτροπή πληρωμών από μη επαληθευμένους πελάτες';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Αύξηση τιμής ID πελάτη';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Αναγνωριστικό πελάτη Αξία έναρξης';

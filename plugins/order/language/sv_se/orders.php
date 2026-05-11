@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = 'Antal';
 $lang['Orders.view.heading_status'] = 'Status';
 $lang['Orders.view.heading_applied'] = 'Tillämpad';
 $lang['Orders.view.heading_type'] = 'Typ';
-$lang['Orders.view.heading_options'] = 'Alternativ';
+$lang['Orders.view.heading_options'] = 'Åtgärder';
 $lang['Orders.view.heading_date_renews'] = 'Datum Förnyas';
 $lang['Orders.view.heading_date_created'] = 'Skapat datum';
 $lang['Orders.view.heading_term'] = 'Term';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Visa order';
 $lang['Orders.index.no_results'] = 'Du har inga order.';
 $lang['Orders.index.option_cancel'] = 'Avbryt';
 $lang['Orders.index.option_view'] = 'Utsikt';
-$lang['Orders.index.heading_options'] = 'Alternativ';
+$lang['Orders.index.heading_options'] = 'Åtgärder';
 $lang['Orders.index.heading_date_ordered'] = 'Beställningsdatum';
 $lang['Orders.index.heading_paid'] = 'Betald';
 $lang['Orders.index.heading_total'] = 'Totalt';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Oznámení o objednávkách
 $lang['AdminMain.orderinfo.services_no_results'] = 'V tomto pořadí nejsou žádné služby.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Nikdy';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Správa';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Možnosti';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Akce';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Datum obnovení';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Datum přidání';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Termín';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Balíček';
 $lang['AdminMain.orderinfo.services_heading'] = 'Služby';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Na tuto objednávku se nevztahují žádné transakce.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Upravit';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Možnosti';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Akce';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Applied On';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Aplikované';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Částka';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Objednávky';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Nastavení poboček bylo aktualizováno.';
 $lang['AdminMain.!success.settings_updated'] = 'Nastavení vaší objednávky bylo úspěšně aktualizováno.';
 $lang['AdminMain.!success.status_updated'] = 'Vybrané objednávky byly úspěšně aktualizovány.';
+$lang['AdminMain.index.paid'] = 'Placené';
+$lang['AdminMain.index.unpaid'] = 'Neplacené';
+$lang['AdminMain.index.loading'] = 'Načítání...';
+$lang['AdminMain.index.text_items_selected'] = 'vybrané položky';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'ID transakce';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Stav';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Datum';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Služba';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Stav';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Čeká se na';
+$lang['AdminMain.settings.text_notifications'] = 'Nakonfigurujte, jak chcete dostávat oznámení o nových objednávkách.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Nakonfigurujte, jak chcete dostávat oznámení o výplatách partnerských účtů.';
 

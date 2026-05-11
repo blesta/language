@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'Non hai domini %1$s.';
 $lang['ClientMain.index.text_never'] = 'Mai';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Gestire';
-$lang['ClientMain.index.heading_options'] = 'Opzioni';
+$lang['ClientMain.index.heading_options'] = 'Azioni';
 $lang['ClientMain.index.heading_deletion_date'] = 'Data di cancellazione';
 $lang['ClientMain.index.heading_suspension_date'] = 'Data di sospensione';
 $lang['ClientMain.index.heading_expiration_date'] = 'Data di scadenza';

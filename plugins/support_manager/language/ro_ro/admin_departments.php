@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Ștergeți';
 $lang['AdminDepartments.edit.heading_default'] = 'Implicit';
 $lang['AdminDepartments.edit.heading_value'] = 'Valoare';
 $lang['AdminDepartments.edit.heading_name'] = 'Nume';
-$lang['AdminDepartments.edit.heading_options'] = 'Opțiuni';
+$lang['AdminDepartments.edit.heading_options'] = 'Acțiuni';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Ștergere automată';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Criptat';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Clientul poate adăuga';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Ștergeți';
 $lang['AdminDepartments.add.heading_default'] = 'Implicit';
 $lang['AdminDepartments.add.heading_value'] = 'Valoare';
 $lang['AdminDepartments.add.heading_name'] = 'Nume';
-$lang['AdminDepartments.add.heading_options'] = 'Opțiuni';
+$lang['AdminDepartments.add.heading_options'] = 'Acțiuni';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Ștergere automată';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Criptat';
 $lang['AdminDepartments.add.heading_client_add'] = 'Clientul poate adăuga';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Nu există departamente.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Departamentele cărora li s-au atribuit tichete nu pot fi șterse până când toate tichetele nu au fost reatribuite unui alt departament. Sunteți sigur că doriți să ștergeți acest departament?';
 $lang['AdminDepartments.index.option_delete'] = 'Ștergeți';
 $lang['AdminDepartments.index.option_edit'] = 'Editați';
-$lang['AdminDepartments.index.heading_options'] = 'Opțiuni';
+$lang['AdminDepartments.index.heading_options'] = 'Acțiuni';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Prioritate implicită';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Personal desemnat';
 $lang['AdminDepartments.index.heading_email'] = 'Email';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Client / ID ap
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Utilizator OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Furnizor OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Pentru toate tichetele cu starea închis, clientului i se va trimite un memento pentru a-și lăsa feedback-ul dacă tichetul a fost închis pentru perioada de timp selectată.';
+$lang['AdminDepartments.!text.description_hint'] = 'Această descriere va fi vizibilă pentru clienți atunci când selectează un departament';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Țineți apăsat Ctrl (Windows) sau Cmd (Mac) pentru a selecta mai multe priorități';
+$lang['AdminDepartments.!text.search_responses'] = 'Căutați răspunsuri...';
+$lang['AdminDepartments.!text.searching'] = 'Căutarea...';
+$lang['AdminDepartments.add.heading_actions'] = 'Acțiuni';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Sunteți sigur că doriți să eliminați acest câmp personalizat?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Acțiuni';
 

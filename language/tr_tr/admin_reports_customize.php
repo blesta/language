@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminReportsCustomize.edit.field_submit'] = 'Kaydet';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Kaldırmak';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Özel Regex';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Değerler (virgülle ayrılmış)';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Seçenekler';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Eylemler';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Gerekli';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Tip';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Etiket';
@@ -27,7 +27,7 @@ $lang['AdminReportsCustomize.add.field_submit'] = 'Kaydet';
 $lang['AdminReportsCustomize.add.text_remove'] = 'Kaldırmak';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Özel Regex';
 $lang['AdminReportsCustomize.add.field_values'] = 'Değerler (virgülle ayrılmış)';
-$lang['AdminReportsCustomize.add.table_options'] = 'Seçenekler';
+$lang['AdminReportsCustomize.add.table_options'] = 'Eylemler';
 $lang['AdminReportsCustomize.add.table_required'] = 'Gerekli';
 $lang['AdminReportsCustomize.add.table_type'] = 'Tip';
 $lang['AdminReportsCustomize.add.table_label'] = 'Etiket';
@@ -42,7 +42,7 @@ $lang['AdminReportsCustomize.index.btn_add_report'] = 'Rapor Ekle';
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = 'Bu raporu silmek istediğinizden emin misiniz?';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Silme';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'Düzenle';
-$lang['AdminReportsCustomize.index.table_options'] = 'Seçenekler';
+$lang['AdminReportsCustomize.index.table_options'] = 'Eylemler';
 $lang['AdminReportsCustomize.index.table_created'] = 'Tarih Oluşturuldu';
 $lang['AdminReportsCustomize.index.table_name'] = 'İsim';
 $lang['AdminReportsCustomize.index.page_title'] = 'Faturalama Raporları';

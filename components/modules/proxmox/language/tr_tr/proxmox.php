@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -104,7 +104,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Sonraki VMID (gerekli olmadıkça değiştirme
 $lang['Proxmox.row_meta.port'] = 'SSL Bağlantı Noktası Numarası';
 $lang['Proxmox.row_meta.host'] = 'Ana bilgisayar adı';
 $lang['Proxmox.row_meta.password'] = 'Şifre';
-$lang['Proxmox.row_meta.user'] = 'Kullanıcı';
+$lang['Proxmox.row_meta.user'] = 'Kullanıcı (kullanıcı adından sonra @pam veya @pve ile)';
 $lang['Proxmox.row_meta.server_name'] = 'Sunucu Etiketi';
 $lang['Proxmox.order_options.first'] = 'İlk dolu olmayan sunucu';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Sunucu grubu yoktur.';
@@ -131,7 +131,7 @@ $lang['Proxmox.module_row'] = 'Proxmox Ana Sunucu';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment açık kaynaklı bir sunucu sanallaştırma ortamıdır. Değiştirilmiş bir Ubuntu LTS çekirdeğine sahip Debian tabanlı bir Linux dağıtımıdır ve sanal makinelerin ve kapsayıcıların dağıtımına ve yönetimine izin verir.';
 $lang['Proxmox.!actions.hostname'] = 'Ana Bilgisayar Adını Değiştir';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '3$s gün, %2$s saat, %1$s dakika';
+$lang['Proxmox.!uptime.value'] = '%1$s günler, %2$s saatler, %3$s dakikalar';
 $lang['Proxmox.please_select'] = '-- Lütfen Seçiniz --';
 $lang['Proxmox.!error.module_row.missing'] = 'Dahili bir hata oluştu. Modül satırı kullanılamıyor.';
 $lang['Proxmox.!error.proxmox_root_password.matches'] = 'Kök parolalar eşleşmiyor.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.shutdown'] = 'Kapatma';
 $lang['Proxmox.!actions.boot'] = 'Çizme';
 $lang['Proxmox.tab_stats.memory_stats'] = '%1$s / %2$s';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
+$lang['Proxmox.back_to_manage'] = 'Geri';
+$lang['Proxmox.manage.tab_rows'] = 'Sunucular';
+$lang['Proxmox.manage.tab_groups'] = 'Sunucu Grupları';
+$lang['Proxmox.tab_isomanager'] = 'ISO Yöneticisi';
+$lang['Proxmox.tab_lxcreinstall'] = 'Yeniden Yükle';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Yeniden Yükle';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Kök şifre';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Şablon';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Yeniden Yükle';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO Yöneticisi';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Resim';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Montaj';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'ISO\'nun bağlantısını kaldırın';
 

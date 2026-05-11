@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,4 +94,7 @@ $lang['Vesta.!error.user_name.empty'] = 'Brugernavnet kan ikke være tomt.';
 $lang['Vesta.!error.password.valid'] = 'Adgangskoden skal være på mindst 8 tegn.';
 $lang['Vesta.!error.actions_password.valid'] = 'Felterne Password & Confirm Password kan ikke være tomme.';
 $lang['Vesta.name'] = 'Vesta';
+$lang['Vesta.back_to_manage'] = 'Tilbage';
+$lang['Vesta.manage.tab_rows'] = 'Servere';
+$lang['Vesta.manage.tab_groups'] = 'Servergrupper';
 

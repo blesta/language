@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.module_row_plural'] = 'Сървъри';
 $lang['Virtualmin.module_row'] = 'Сървър';
 $lang['Virtualmin.description'] = 'Virtualmin е контролен панел за хостинг на домейни и уебсайтове, който дава възможност за създаване и управление на много домейни и се предлага както във версии с отворен код, така и в търговски версии. Той е базиран на Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.back_to_manage'] = 'Обратно';
+$lang['Virtualmin.manage.tab_rows'] = 'Сървъри';
+$lang['Virtualmin.manage.tab_groups'] = 'Групи сървъри';
 

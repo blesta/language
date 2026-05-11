@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.tooltip.server_name'] = '서버의 이�
 $lang['PterodactylService.service_fields.server_name'] = '서버 이름';
 $lang['PterodactylService.!error.server_name.empty'] = '서버의 이름을 설정하세요.';
 $lang['PterodactylService.service_fields.optional'] = '%1$s (선택 사항)';
+$lang['Pterodactyl.back_to_manage'] = '뒤로';
 

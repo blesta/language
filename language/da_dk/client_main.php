@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.edit.field_recovery_email'] = 'E-mail til gendannelse (valgfri
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Påkrævet for at aktivere tofaktorautentificering eller opdatere adgangskoden.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'To-faktor-autentificering';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Tilføj kreditter';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Fjerne';
 

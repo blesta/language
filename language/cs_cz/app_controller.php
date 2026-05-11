@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Návrat na port
 $lang['AppController.client_structure.default_title'] = 'Můj účet';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Zpět na portál pro zaměstnance';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'V současné době je povolen režim údržby a klienti se nemohou přihlásit. Pro změnu klikněte zde.';
+$lang['AppController.structure.text_maintenance'] = 'V současné době je povolen režim údržby a klienti se nemohou přihlásit.';
 $lang['AppController.structure.text_logout'] = 'Odhlášení';
 $lang['AppController.structure.text_settings'] = 'Nastavení';
 $lang['AppController.structure.text_myinfo'] = 'Moje informace';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Nejste oprávněni k přís
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
 $lang['AppController.!error.client_unauthorized_access'] = 'Nemáte oprávnění k přístupu k tomuto zdroji, obraťte se prosím na držitele primárního účtu a požádejte o přístup.';
-$lang['AppController.structure.text_step_up_access'] = 'V současné době máte otevřenou relaci step up s přístupem k nastavení správce. Kliknutím sem přístup zrušíte.';
+$lang['AppController.structure.text_step_up_access'] = 'V současné době máte otevřenou relaci step up s přístupem k nastavení správce.';
+$lang['AppController.structure.text_mark_all_read'] = 'Označit vše jako přečtené';
+$lang['AppController.structure.text_open'] = 'Otevřít';
+$lang['AppController.structure.no_notifications'] = 'Žádná nová oznámení';
+$lang['AppController.structure.text_notifications'] = 'Oznámení';
+$lang['AppController.structure.text_licensed_to'] = 'Licence na %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Prodloužení relace';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Zbývající čas:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Ukončit relaci';
+$lang['AppController.structure.text_step_up_access_header'] = 'Ověřování Step Up Active';
+$lang['AppController.structure.text_maintenance_button'] = 'Režim údržby úprav';
+$lang['AppController.structure.text_maintenance_header'] = 'Režim údržby povolen';
+$lang['AppController.structure.text_iconbar'] = 'Panel ikon';
+$lang['AppController.structure.text_notices'] = 'Oznámení';
+$lang['AppController.text_loading'] = 'Načítání...';
+$lang['AppController.modal.btn_delete'] = 'Odstranit';
+$lang['AppController.modal.btn_cancel'] = 'Zrušit';
+$lang['AppController.modal.confirm_delete'] = 'Potvrzení Odstranit';
 

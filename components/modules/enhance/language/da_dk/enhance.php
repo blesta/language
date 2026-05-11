@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Servere';
 $lang['Enhance.module_row'] = 'Server';
 $lang['Enhance.description'] = 'Enhance er et næste generations kontrolpanel til delt hosting.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Tilbage';
+$lang['Enhance.manage.tab_rows'] = 'Servere';
+$lang['Enhance.manage.tab_groups'] = 'Servergrupper';
+$lang['Enhance.package_fields.package_tooltip'] = 'Indtast plan-id\'et fra dit Enhance-kontrolpanel. Planerne kunne ikke indlæses automatisk.';
 

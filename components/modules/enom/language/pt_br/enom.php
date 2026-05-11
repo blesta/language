@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.nameserver.ns3'] = 'Name Server 3';
 $lang['Enom.nameserver.ns1'] = 'Name Server 1';
 $lang['Enom.description'] = 'A Enom, Inc. é uma empresa de registro de nomes de domínios e hospedagem na Web que também vende outros produtos intimamente ligados a nomes de domínios, como certificados SSL, serviços de e-mail e software de criação de sites.';
 $lang['Enom.name'] = 'Enom';
+$lang['Enom.back_to_manage'] = 'Voltar';
 

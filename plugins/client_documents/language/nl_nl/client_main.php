@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['ClientMain.index.option_download'] = 'Downloaden';
-$lang['ClientMain.index.heading_options'] = 'Opties';
+$lang['ClientMain.index.heading_options'] = 'Acties';
 $lang['ClientMain.index.heading_date_added'] = 'Datum toegevoegd';
 $lang['ClientMain.index.heading_description'] = 'Beschrijving';
 $lang['ClientMain.index.heading_name'] = 'Naam';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.read_only.length'] = 'Só de leitura não pode exceder 1 c
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'O montante máximo do crédito para %1$s deve ser superior ao montante mínimo.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'O montante máximo de crédito para %1$s deve ser superior a 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'O montante mínimo de crédito para %1$s deve ser superior a 0.';
+$lang['Clients.!error.action[].exists'] = 'Ação de notificação inválida.';
+$lang['Clients.!error.action.exists'] = 'Ação de notificação inválida "%1$s".';
 

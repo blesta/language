@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'Σημειώσεις';
 $lang['AdminSystemApi.edit.field_user'] = 'Χρήστης';
 $lang['AdminSystemApi.edit.field_company'] = 'Εταιρεία';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Επεξεργασία χρήστη API';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Προσθήκη χρήστη';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Δημιουργία χρήστη';
 $lang['AdminSystemApi.add.field_notes'] = 'Σημειώσεις';
 $lang['AdminSystemApi.add.field_user'] = 'Χρήστης';
 $lang['AdminSystemApi.add.field_company'] = 'Εταιρεία';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'Πραγματικά διαγρ�
 $lang['AdminSystemApi.index.no_results'] = 'Δεν υπάρχουν χρήστες API.';
 $lang['AdminSystemApi.index.option_delete'] = 'Διαγραφή';
 $lang['AdminSystemApi.index.option_edit'] = 'Επεξεργασία';
-$lang['AdminSystemApi.index.heading_options'] = 'Επιλογές';
+$lang['AdminSystemApi.index.heading_options'] = 'Δράσεις';
 $lang['AdminSystemApi.index.heading_date'] = 'Ημερομηνία δημιουργίας';
 $lang['AdminSystemApi.index.heading_company'] = 'Εταιρεία';
 $lang['AdminSystemApi.index.heading_key'] = 'Βασικό';

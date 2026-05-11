@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.paid_currency.length'] = 'Den betalte valuta
 $lang['OrderAffiliatePayouts.getStatuses.pending'] = 'Afventer';
 $lang['OrderAffiliatePayouts.getStatuses.approved'] = 'Godkendt';
 $lang['OrderAffiliatePayouts.getStatuses.declined'] = 'Afvist';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Anmodning om udbetaling';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s anmodede om en udbetaling på %2$s';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -58,7 +58,7 @@ $lang['AdminTickets.reply.heading_summary'] = 'Sammanfattning';
 $lang['AdminTickets.reply.boxtitle_reply'] = 'Biljett #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = 'Ta bort fil';
 $lang['AdminTickets.add.dropzone_drop_files_here'] = 'Släpp filer här för att ladda upp eller klicka för att välja filer';
-$lang['AdminTickets.add.text_add_response'] = 'Infoga ett fördefinierat svar';
+$lang['AdminTickets.add.text_add_response'] = 'Infoga fördefinierat svar';
 $lang['Admintickets.add.client_placeholder'] = 'Kundens ID eller namn';
 $lang['AdminTickets.add.field_addsubmit'] = 'Öppen biljett';
 $lang['AdminTickets.add.text_add_attachment'] = 'Lägg till bilaga';
@@ -108,8 +108,8 @@ $lang['AdminTickets.index.category_trash'] = 'Skräp';
 $lang['AdminTickets.index.category_closed'] = 'Stängt';
 $lang['AdminTickets.index.category_on_hold'] = 'På vänt';
 $lang['AdminTickets.index.category_in_progress'] = 'Pågående';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Inväntar svar från kunden';
-$lang['AdminTickets.index.category_open'] = 'Inväntar svar från personalen';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Väntar på klient';
+$lang['AdminTickets.index.category_open'] = 'Väntar på personal';
 $lang['AdminTickets.text.unassigned'] = 'Ej tilldelad';
 $lang['AdminTickets.search.page_title'] = 'Sökresultat för "%1$s"';
 $lang['AdminTickets.reply.page_title'] = 'Support Manager > Ärende #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Inga ytterligare kontakter tillgä
 $lang['AdminTickets.!tooltip.recipients'] = 'E-postadress för att bli meddelad när en biljett uppdateras.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Kontakter som ska meddelas när ett ärende uppdateras. De som inte har valts läggs automatiskt till i ärendet om de svarar på det.';
 $lang['AdminTickets.reply.text_domain'] = 'Domän';
-$lang['AdminTickets.reply.heading_rating'] = 'Betyg';
+$lang['AdminTickets.reply.heading_rating'] = 'Kundbetyg';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Betyg Kommentar';
 $lang['AdminTickets.index.heading_rating'] = 'Betyg';
+$lang['AdminTickets.index.text_fullscreen'] = 'Växla till helskärm';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Avsluta helskärm';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Ange biljettnummer';
+$lang['AdminTickets.index.placeholder_summary'] = 'Sammanfattning av sökningen';
+$lang['AdminTickets.index.heading_filters'] = 'Filter';
+$lang['AdminTickets.index.field_apply_filters'] = 'Tillämpa filter';
+$lang['AdminTickets.index.field_clear_filters'] = 'Rensa filter';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Kontakter och mottagare';
+$lang['AdminTickets.add.search_responses'] = 'Sök svar...';
+$lang['AdminTickets.add.no_results'] = 'Inga matchande svar hittades';
+$lang['AdminTickets.add.searching'] = 'Söker...';
+$lang['AdminTickets.add.search_min_chars'] = 'Ange minst 2 tecken för att söka';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Biljettinformation';
+$lang['AdminTickets.add.login_as_client'] = 'Logga in som klient';
+$lang['AdminTickets.add.markdown_supported'] = 'Stöd för Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Släpp filer här för att ladda upp eller klicka för att välja filer';
+$lang['AdminTickets.add.browse_files'] = 'Bläddra bland filer';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Anpassad';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Kontakter och mottagare';
+$lang['AdminTickets.reply.text_date_rated'] = 'Klassad: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'På %1$s %2$s %3$s lade till en anteckning';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Biljettinformation';
+$lang['AdminTickets.reply.login_as_client'] = 'Logga in som klient';
+$lang['AdminTickets.reply.search_responses'] = 'Sök svar...';
+$lang['AdminTickets.reply.no_results'] = 'Inga matchande svar hittades';
+$lang['AdminTickets.reply.searching'] = 'Söker...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Ange minst 2 tecken för att söka';
+$lang['AdminTickets.reply.markdown_supported'] = 'Stöd för Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Interna anteckningar är endast synliga för anställda';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Släpp filer här för att ladda upp eller klicka för att välja filer';
+$lang['AdminTickets.reply.browse_files'] = 'Bläddra bland filer';
+$lang['AdminTickets.reply.btn_cancel'] = 'Avbryt';
+$lang['AdminTickets.reply.client_title'] = 'Klient';
+$lang['AdminTickets.reply.note_label'] = 'Personalens anmärkning';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Generera AI-svar';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'AI-respons redo';
+$lang['AdminTickets.reply.button_regenerate'] = 'Regenerera';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Återskapa AI-svar';
+$lang['AdminTickets.reply.text_generating'] = 'Genererar...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Regenererande...';
+$lang['AdminTickets.reply.text_just_now'] = 'Just nu';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm sedan';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh sedan';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd sedan';
+$lang['AdminTickets.reply.modal_title'] = 'AI-genererat svar';
+$lang['AdminTickets.reply.label_confidence'] = 'Förtroende';
+$lang['AdminTickets.reply.label_generated'] = 'Genererad';
+$lang['AdminTickets.reply.label_model'] = 'Modell';
+$lang['AdminTickets.reply.alert_review_required'] = 'Granskning krävs';
+$lang['AdminTickets.reply.alert_review_text'] = 'Detta svar har genererats automatiskt av AI. Läs igenom det noggrant innan du skickar det för att säkerställa att det är korrekt och har en lämplig ton.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Interna anmärkningar';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Föreslaget svar';
+$lang['AdminTickets.reply.label_concerns'] = 'Bekymmer';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Inget svar föreslås. Se interna noter för resonemang.';
+$lang['AdminTickets.reply.button_cancel'] = 'Avbryt';
+$lang['AdminTickets.reply.button_use_response'] = 'Använd detta svar';
+$lang['AdminTickets.reply.button_reject'] = 'Avvisa';
+$lang['AdminTickets.reply.button_summarize'] = 'Sammanfatta';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Sammanfattning av AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Ogiltigt biljett-ID';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'AI-funktioner är inte aktiverade för Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Misslyckades med att generera AI-svar';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Ogiltigt analys-ID';
+$lang['AdminTickets.!error.reply_not_found'] = 'Det angivna svaret kunde inte hittas.';
+$lang['AdminTickets.!error.summary_failed'] = 'Misslyckades med att generera sammanfattning.';
 

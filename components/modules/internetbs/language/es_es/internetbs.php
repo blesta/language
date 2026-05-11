@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.whois.Billing_Street2'] = 'Dirección 2';
 $lang['Internetbs.whois.Billing_City'] = 'Ciudad';
 $lang['Internetbs.whois.Billing_CountryCode'] = 'Código del país';
 $lang['Internetbs.whois.Billing_PostalCode'] = 'Código postal';
+$lang['Internetbs.back_to_manage'] = 'Volver';
+$lang['Internetbs.manage.tab_rows'] = 'Servidores';
+$lang['Internetbs.manage.tab_groups'] = 'Grupos de servidores';
 

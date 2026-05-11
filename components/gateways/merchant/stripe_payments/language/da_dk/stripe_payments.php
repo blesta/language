@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,7 +32,7 @@ $lang['StripePayments.secret_key'] = 'Hemmelig API-nøgle';
 $lang['StripePayments.tooltip_publishable_key'] = 'Din API Publishable Key er specifik for enten live- eller testtilstand. Vær sikker på, at du bruger den rigtige nøgle.';
 $lang['StripePayments.tooltip_secret_key'] = 'Din hemmelige API-nøgle er specifik for enten live- eller testtilstand. Vær sikker på, at du bruger den rigtige nøgle.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
-$lang['StripePayments.webhook_note'] = 'Det anbefales at konfigurere følgende url som et webhook til "payment_intent"-hændelser på din Stripe-konto.';
+$lang['StripePayments.webhook_note'] = 'Det anbefales at konfigurere følgende url som webhook for "payment_intent"- og "charge"-hændelser på din Stripe-konto.';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrer gamle betalingskonti';
 $lang['StripePayments.text_accounts_remaining'] = 'Resterende konti: %1$s';
 $lang['StripePayments.text_migrate_accounts'] = 'Du kan automatisk migrere betalingskonti, der er gemt offsite af den gamle Stripe-gateway, over til denne Stripe Payments-gateway. Konti, der ikke er gemt offsite, skal migreres ved manuelt at oprette nye betalingskonti. For at forhindre timeouts vil migreringer blive udført i batches på %1$s. Kør dette så mange gange som nødvendigt for at migrere alle betalingskonti.';

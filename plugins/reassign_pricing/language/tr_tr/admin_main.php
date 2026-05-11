@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,7 +29,7 @@ $lang['AdminMain.service.term_onetime'] = 'Onetime - %3$s';
 $lang['AdminMain.index.option_service'] = 'Fiyatlandırmayı Yeniden Atayın';
 $lang['AdminMain.index.no_results'] = 'Fiyatlandırmanın yeniden atanabileceği herhangi bir hizmet mevcut değildir.';
 $lang['AdminMain.index.text_never'] = 'Asla';
-$lang['AdminMain.index.heading_options'] = 'Seçenekler';
+$lang['AdminMain.index.heading_options'] = 'Eylemler';
 $lang['AdminMain.index.heading_date_renews'] = 'Tarih Yenilemeleri';
 $lang['AdminMain.index.heading_date_created'] = 'Tarih Oluşturuldu';
 $lang['AdminMain.index.heading_term'] = 'Dönem';

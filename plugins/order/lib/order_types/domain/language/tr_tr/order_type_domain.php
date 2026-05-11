@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Arama TLD';
 $lang['Main.steps.step_1_description'] = 'Bir alan adı seçin';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Seçenekler';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Eylemler';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Dönem';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Dönem';
 $lang['OrderTypeDomain.settings.text_term'] = 'Asgari Süre ve Dönem';

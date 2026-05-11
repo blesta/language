@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Notifi
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Notificări BCC prin e-mail';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Lista de control al accesului';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'General';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Editare grup';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Grup de actualizare';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Deconectare la schimbarea adresei IP';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Compania';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Nume';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Sunteți sigur că doriți să ștergeți acest grup de personal?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Editați';
 $lang['AdminSystemStaff.groups.no_results'] = 'Nu există grupuri de personal.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Opțiuni';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Acțiuni';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Numărul de personal';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Numele companiei';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Nume';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Creați un grup';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Grupuri de personal';
 $lang['AdminSystemStaff.groups.page_title'] = 'Setări > Sistem > Personal > Grupuri de personal';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Editați personalul';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Actualizarea personalului';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Grupuri disponibile';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Grupuri de membri';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Pin cu doi factori';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Editați';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Chiar reactivați acest membru al personalului?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Chiar dezactivați acest membru al personalului?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Nu există niciun membru al personalului cu acest statut.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Opțiuni';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Acțiuni';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Nume';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Adăugați personal';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'Grupul de personal, "%1$s", 
 $lang['AdminSystemStaff.!success.group_added'] = 'Grupul de personal, "%1$s", a fost creat cu succes!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Acest membru al personalului a fost actualizat cu succes!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Acest membru al personalului a fost adăugat cu succes!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Notificări';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Notificări';
 

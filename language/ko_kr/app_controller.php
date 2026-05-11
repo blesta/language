@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = '포털로 돌�
 $lang['AppController.client_structure.default_title'] = '내 계정';
 $lang['AppController.client_structure.staff_as_client_note'] = '직원 포털로 돌아가기';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = '현재 유지 관리 모드가 활성화되어 있어 클라이언트가 로그인할 수 없습니다. 변경하려면 여기를 클릭하세요.';
+$lang['AppController.structure.text_maintenance'] = '현재 유지 관리 모드가 활성화되어 있으며 클라이언트가 로그인할 수 없습니다.';
 $lang['AppController.structure.text_logout'] = '로그아웃';
 $lang['AppController.structure.text_settings'] = '설정';
 $lang['AppController.structure.text_myinfo'] = '내 정보';
@@ -83,5 +83,23 @@ $lang['AppController.!error.invalid_csrf'] = '양식 토큰이 유효하지 않�
 $lang['AppController.!error.unauthorized_access'] = '해당 리소스에 액세스할 수 있는 권한이 없습니다.';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = '해당 리소스에 액세스할 수 있는 권한이 없는 경우 기본 계정 소유자에게 연락하여 액세스 권한을 요청하세요.';
-$lang['AppController.structure.text_step_up_access'] = '현재 관리자 설정에 액세스할 수 있는 스텝업 세션이 열려 있습니다. 액세스 권한을 삭제하려면 여기를 클릭하세요.';
+$lang['AppController.structure.text_step_up_access'] = '현재 관리자 설정에 액세스할 수 있는 스텝업 세션이 열려 있습니다.';
+$lang['AppController.structure.text_mark_all_read'] = '모두 읽음으로 표시';
+$lang['AppController.structure.text_open'] = '열기';
+$lang['AppController.structure.no_notifications'] = '새 알림 없음';
+$lang['AppController.structure.text_notifications'] = '알림';
+$lang['AppController.structure.text_licensed_to'] = '라이선스 대상 %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = '세션 연장';
+$lang['AppController.structure.text_step_up_time_remaining'] = '남은 시간:';
+$lang['AppController.structure.text_step_up_access_button'] = '지금 세션 종료';
+$lang['AppController.structure.text_step_up_access_header'] = '스텝업 인증 활성화';
+$lang['AppController.structure.text_maintenance_button'] = '유지 관리 모드 편집';
+$lang['AppController.structure.text_maintenance_header'] = '유지 관리 모드 사용';
+$lang['AppController.structure.text_iconbar'] = '아이콘 바';
+$lang['AppController.structure.text_notices'] = '공지사항';
+$lang['AppController.text_loading'] = '로드 중...';
+$lang['AppController.modal.btn_delete'] = '삭제';
+$lang['AppController.modal.btn_cancel'] = '취소';
+$lang['AppController.modal.confirm_delete'] = '삭제 확인';
 

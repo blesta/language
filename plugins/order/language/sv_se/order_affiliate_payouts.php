@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Välj en giltig utbetalnin
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Ogiltigt ID för betalningsmetod.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Ogiltigt affiliate-ID.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Ogiltigt utbetalnings-ID.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Begärd utbetalning';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s begärde en utbetalning på %2$s';
 

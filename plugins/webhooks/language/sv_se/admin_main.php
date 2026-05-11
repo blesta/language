@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Återkoppling';
 $lang['AdminMain.edit.field_event'] = 'Händelse';
 $lang['AdminMain.edit.field_callback'] = 'Återkoppling';
 $lang['AdminMain.edit.option_delete'] = 'Radera';
-$lang['AdminMain.edit.heading_options'] = 'Alternativ';
+$lang['AdminMain.edit.heading_options'] = 'Åtgärder';
 $lang['AdminMain.edit.heading_parameter'] = 'Nytt fält';
 $lang['AdminMain.edit.heading_field'] = 'Ursprungligt fält';
 $lang['AdminMain.edit.heading_fields_map'] = 'Karta över fält';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Återkoppling';
 $lang['AdminMain.add.field_event'] = 'Händelse';
 $lang['AdminMain.add.field_callback'] = 'Återkoppling';
 $lang['AdminMain.add.option_delete'] = 'Radera';
-$lang['AdminMain.add.heading_options'] = 'Alternativ';
+$lang['AdminMain.add.heading_options'] = 'Åtgärder';
 $lang['AdminMain.add.heading_parameter'] = 'Nytt fält';
 $lang['AdminMain.add.heading_field'] = 'Ursprungligt fält';
 $lang['AdminMain.add.heading_fields_map'] = 'Karta över fält';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Tar emot en HTTP-begäran 
 $lang['AdminMain.index.text_description_outgoing'] = 'Skickar en HTTP-begäran till en URL när en händelse utlöses. Begäran kan skickas med GET, POST, PUT eller JSON.';
 $lang['AdminMain.index.option_delete'] = 'Radera';
 $lang['AdminMain.index.option_edit'] = 'Redigera';
-$lang['AdminMain.index.heading_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_method'] = 'Metod';
 $lang['AdminMain.index.heading_event'] = 'Händelse';
 $lang['AdminMain.index.heading_callback'] = 'Återkoppling';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'HTTP-status';
 $lang['AdminMain.logs.field_filterevent'] = 'Händelse';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Alla webbhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Alternativ';
+$lang['AdminMain.logs.heading_options'] = 'Åtgärder';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Senaste försök';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Datum Utlöst';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP-svar';

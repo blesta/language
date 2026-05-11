@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.integer'] = 'Поле %1$s має містити �
 $lang['PterodactylRule.!error.numeric'] = 'Поле %1$s повинно містити число.';
 $lang['PterodactylRule.!error.regex'] = 'Поле %1$s має відповідати регексу %2$s.';
 $lang['PterodactylRule.!error.required'] = 'Поле %1$s є обов\'язковим.';
+$lang['Pterodactyl.back_to_manage'] = 'Назад';
 

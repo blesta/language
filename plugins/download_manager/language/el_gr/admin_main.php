@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,8 +32,8 @@ $lang['AdminMain.files.boxtitle_downloadmanager'] = 'Διαχείριση λήψ
 $lang['AdminMain.files.tab_files'] = 'Αρχεία';
 $lang['AdminMain.files.tab_urls'] = 'Στατικές διευθύνσεις URL';
 $lang['AdminMain.files.add_download'] = 'Προσθέστε λήψη εδώ';
-$lang['AdminMain.files.add_category'] = 'Προσθέστε κατηγορία εδώ';
-$lang['AdminMain.files.go_back'] = 'Ανεβείτε ένα επίπεδο';
+$lang['AdminMain.files.add_category'] = 'Προσθήκη κατηγορίας';
+$lang['AdminMain.files.go_back'] = 'Πίσω';
 $lang['AdminMain.files.edit'] = 'Επεξεργασία';
 $lang['AdminMain.files.delete'] = 'Διαγραφή';
 $lang['AdminMain.files.no_downloads'] = 'Δεν υπάρχουν λήψεις σε αυτό το τμήμα.';
@@ -45,7 +45,7 @@ $lang['AdminMain.urls.tab_urls'] = 'Στατικές διευθύνσεις URL'
 $lang['AdminMain.urls.heading_url'] = 'URL';
 $lang['AdminMain.urls.heading_file'] = 'Αρχείο';
 $lang['AdminMain.urls.heading_link'] = 'Σύνδεσμος';
-$lang['AdminMain.urls.heading_options'] = 'Επιλογές';
+$lang['AdminMain.urls.heading_options'] = 'Δράσεις';
 $lang['AdminMain.urls.edit'] = 'Επεξεργασία';
 $lang['AdminMain.urls.delete'] = 'Διαγραφή';
 $lang['AdminMain.urls.latest_file'] = 'Τελευταίο αρχείο από <strong>%1$s</strong>';
@@ -113,6 +113,19 @@ $lang['AdminMain.editcategory.field_description'] = 'Περιγραφή';
 $lang['AdminMain.editcategory.submit_edit'] = 'Κατηγορία ενημέρωσης';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Ακύρωση';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
-$lang['AdminMain.edit.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Αρχεία';
+$lang['AdminMain.sidebar.urls'] = 'Στατικές διευθύνσεις URL';
+$lang['AdminMain.!performance.xsendfile'] = 'Το mod_http2 του Apache είναι ενεργοποιημένο, αλλά το mod_xsendfile δεν είναι. Συνιστούμε να ενεργοποιήσετε ή να εγκαταστήσετε το mod_xsendfile για καλύτερες επιδόσεις και ταχύτερες λήψεις.';
+$lang['AdminMain.modal.confirm_delete'] = 'Επιβεβαίωση Διαγραφή';
+$lang['AdminMain.modal.delete'] = 'Διαγραφή';
+$lang['AdminMain.modal.cancel'] = 'Ακύρωση';
+$lang['AdminMain.modal.save'] = 'Αποθήκευση';
+$lang['AdminMain.add.public'] = 'Δημόσια Διαθέσιμο';
+$lang['AdminMain.add.logged_in'] = 'Πρέπει να είστε συνδεδεμένοι';
+$lang['AdminMain.add.text_fileinfo'] = 'ΣΗΜΕΙΩΣΗ: Τα αρχεία πρέπει να βρίσκονται κάπου μέσα στον κατάλογο uploads.';
+$lang['AdminMain.add.field_file_type'] = 'Πηγή αρχείου';
+$lang['AdminMain.add.upload'] = 'Ανέβασμα αρχείου';
+$lang['AdminMain.add.path'] = 'Καθορίστε τη διαδρομή προς το αρχείο';
 

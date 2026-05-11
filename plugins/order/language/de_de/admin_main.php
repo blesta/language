@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Benachrichtigungen zur Best
 $lang['AdminMain.orderinfo.services_no_results'] = 'Es gibt keine Dienstleistungen in dieser Reihenfolge.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Niemals';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Verwalten Sie';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Optionen';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Aktionen';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Datum Erneuert';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Datum hinzugefügt';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Begriff';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Paket';
 $lang['AdminMain.orderinfo.services_heading'] = 'Dienstleistungen';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Es gibt keine Transaktionen, die auf diese Bestellung angewendet werden.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'bearbeiten';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Optionen';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Aktionen';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Angewandt auf';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Angewandt';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Betrag';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Bestellungen';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Die Einstellungen der Partner wurden aktualisiert.';
 $lang['AdminMain.!success.settings_updated'] = 'Ihre Bestellungseinstellungen wurden erfolgreich aktualisiert.';
 $lang['AdminMain.!success.status_updated'] = 'Die ausgewählten Aufträge wurden erfolgreich aktualisiert.';
+$lang['AdminMain.index.paid'] = 'Bezahlt';
+$lang['AdminMain.index.unpaid'] = 'Unbezahlt';
+$lang['AdminMain.index.loading'] = 'Laden...';
+$lang['AdminMain.index.text_items_selected'] = 'ausgewählte Artikel';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Transaktions-ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Datum';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Dienst';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Anhängig';
+$lang['AdminMain.settings.text_notifications'] = 'Legen Sie fest, wie Sie Benachrichtigungen über neue Bestellungen erhalten möchten.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Legen Sie fest, wie Sie Benachrichtigungen über Partnerauszahlungen erhalten möchten.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.module_row_plural'] = 'Servidores';
 $lang['Virtualmin.module_row'] = 'Servidor';
 $lang['Virtualmin.description'] = 'O Virtualmin é um painel de controlo para alojamento de domínios e sítios Web, que permite criar e gerir muitos domínios e está disponível em versões de código aberto e comercial. É baseado no Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.back_to_manage'] = 'Voltar';
+$lang['Virtualmin.manage.tab_rows'] = 'Servidores';
+$lang['Virtualmin.manage.tab_groups'] = 'Grupos de servidores';
 

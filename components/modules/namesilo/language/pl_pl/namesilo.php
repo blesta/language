@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Wartość';
 $lang['Namesilo.dnsrecord.host'] = 'Gospodarz';
 $lang['Namesilo.dnsrecord.record_type'] = 'Typ';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Na tej stronie można dodawać lub usuwać rekordy DNS A, AAAA, CNAME, MX i TXT. Należy pamiętać, że propagacja rekordów DNS może potrwać kilka minut.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Na tej stronie można dodawać lub usuwać rekordy DNS A, AAAA, CNAME, MX i TXT. Należy pamiętać, że propagacja rekordów DNS może potrwać kilka minut. <br/> Aby którakolwiek z tych zmian została odzwierciedlona w nazwie domeny, należy ustawić serwery nazw na:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Dodaj rekord';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Usuń rekord(y)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Dodaj rekord DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Pobiera kontakty z namesilo
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Pull Namesilo Contacts';
 $lang['Namesilo.notice.default_nameservers'] = 'Ta funkcja wymaga, aby domena korzystała z następujących serwerów nazw: ns1.dnsowl.com, ns2.dnsowl.com i ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Domena nie jest dostępna do rejestracji.';
+$lang['Namesilo.back_to_manage'] = 'Powrót';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Działania';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Jedno lub więcej pól zawiera znaki specjalne (np. litery akcentowane). NameSilo może nie obsługiwać tych znaków w polach kontaktowych.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Przekierowanie domeny';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Przekierowanie domeny jest usuwane automatycznie po nadaniu domenie innego zadania, takiego jak zmiana serwerów nazw lub zmiana podstawowych rekordów A dla @ i www. <br/> Aby którakolwiek z tych zmian została odzwierciedlona w nazwie domeny, należy ustawić serwery nazw na:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domena';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Forward To';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metoda przekazywania';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Permanent Forward (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Temporary Forward (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Zamaskowany';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktywny';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Usuń';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Aktualizacja spedytorów';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'Przekazywany adres URL jest nieprawidłowy. Upewnij się, że używasz protokołu HTTPS lub HTTP.';
 

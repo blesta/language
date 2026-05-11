@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'Контролният панел InterWorx We
 $lang['Interworx.!error.soap_required'] = 'За този модул е необходимо разширението SOAP.';
 $lang['Interworx.!error.libxml_required'] = 'За този модул е необходимо разширението libxml.';
 $lang['Interworx.name'] = 'Interworx';
+$lang['Interworx.back_to_manage'] = 'Обратно';
+$lang['Interworx.manage.tab_rows'] = 'Сървъри';
+$lang['Interworx.manage.tab_groups'] = 'Групи сървъри';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Available)';
 

@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Gruppo di modifica';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Gruppo di aggiornamento';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Applicare gli indirizzi e-mail come nomi utente';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Usa le impostazioni aziendali (deselezionare per specificare sotto)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Metodi di consegna delle fatture';

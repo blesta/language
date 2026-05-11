@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Tambahkan Aturan';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Buat Aturan';
 $lang['AdminTools.blacklistadd.field_note'] = 'Catatan';
 $lang['AdminTools.blacklistadd.field_type'] = 'Jenis';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Aturan';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Menghapus';
 $lang['AdminTools.blacklist.text_system'] = 'Sistem';
 $lang['AdminTools.blacklist.text_type_email'] = 'Alamat email';
 $lang['AdminTools.blacklist.text_type_ip'] = 'Alamat IP';
-$lang['AdminTools.blacklist.heading_options'] = 'Pilihan';
+$lang['AdminTools.blacklist.heading_options'] = 'Tindakan';
 $lang['AdminTools.blacklist.heading_note'] = 'Catatan';
 $lang['AdminTools.blacklist.heading_list'] = 'Daftar';
 $lang['AdminTools.blacklist.heading_type'] = 'Jenis';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Ubah Maksimum';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Lihat Faktur';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Apakah Anda yakin ingin menghapus layanan ini dari antrean perpanjangan?';
-$lang['AdminTools.renewals.heading_options'] = 'Pilihan';
+$lang['AdminTools.renewals.heading_options'] = 'Tindakan';
 $lang['AdminTools.renewals.heading_invoice'] = 'Faktur';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Upaya Maksimum';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Upaya yang Gagal';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Tingkatkan 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Perbarui set karakter dan susunan basis data, tabel, dan kolom Anda ke utf8mb4 untuk mendukung karakter 4 byte seperti emoji.  Ini mungkin memerlukan waktu beberapa menit.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Perbarui ke utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Perbarui Pengumpulan Basis Data';
-$lang['AdminTools.utilities.heading_options'] = 'Pilihan';
+$lang['AdminTools.utilities.heading_options'] = 'Tindakan';
 $lang['AdminTools.utilities.heading_description'] = 'Deskripsi';
 $lang['AdminTools.utilities.heading_utility'] = 'Utilitas';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Utilitas';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Saat ini tidak ada layanan ya
 $lang['AdminTools.renewals.no_results_provision'] = 'Saat ini tidak ada layanan yang sedang mengantri untuk penyediaan.';
 $lang['AdminTools.!notice.conditions_met'] = 'Item akan muncul dalam antrean yang ditentukan hanya jika semua persyaratan telah dipenuhi dan siap untuk dicoba.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Perubahan layanan telah berhasil dibatalkan.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blokir Keluar';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blokir email keluar ke alamat ini';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Blokir Keluar';
 $lang['AdminTools.renewals.no_results_changes'] = 'Tidak ada perubahan layanan yang saat ini sedang dalam antrian untuk penyediaan.';
 $lang['AdminTools.renewals.option_retry'] = 'Coba lagi.';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Status';
 $lang['AdminTools.renewals.category_changes'] = 'Perubahan Layanan';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Perpanjangan yang Belum Dibayar';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Perubahan layanan telah berhasil dijadwalkan.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Memeriksa file %1$s: %2$s OK, %3$s dimodifikasi, %4$s hilang.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'File manifes (manifest.json) tidak ditemukan. File ini disertakan dengan rilis resmi dan diperlukan untuk melakukan pemeriksaan integritas.';
+$lang['AdminTools.integritycheck.text_error'] = 'Terjadi kesalahan saat memeriksa file.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Semua file cocok dengan manifes. Tidak ada modifikasi atau file yang hilang terdeteksi.';
+$lang['AdminTools.integritycheck.text_ok'] = 'BAIKLAH.';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Total File';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Vendor';
+$lang['AdminTools.integritycheck.category_core'] = 'Inti';
+$lang['AdminTools.integritycheck.status_missing'] = 'Hilang';
+$lang['AdminTools.integritycheck.status_modified'] = 'Dimodifikasi';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategori';
+$lang['AdminTools.integritycheck.heading_file'] = 'Mengajukan';
+$lang['AdminTools.integritycheck.heading_status'] = 'Status';
+$lang['AdminTools.integritycheck.text_checking'] = 'Memeriksa file, harap tunggu. Ini mungkin memerlukan waktu beberapa saat...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Jalankan Lagi';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Unduh Laporan';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Jalankan Pemeriksaan Integritas';
+$lang['AdminTools.integritycheck.text_description'] = 'Verifikasi file yang terinstal terhadap manifes yang dikirimkan bersama rilis ini. Hal ini akan memeriksa integritas file dengan membandingkan hash SHA256 dan dapat membantu mengidentifikasi file yang telah dimodifikasi, yang berguna untuk pemecahan masalah dan sebelum melakukan peningkatan.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Pemeriksaan Integritas Sistem';
+$lang['AdminTools.integritycheck.page_title'] = 'Pemeriksaan Integritas Sistem';
+$lang['AdminTools.!success.cache_cleared'] = 'Cache file telah berhasil dihapus.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Jalankan Periksa';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Verifikasi file inti dengan manifes yang dikirimkan untuk mengidentifikasi file yang dimodifikasi atau hilang.';
+$lang['AdminTools.utilities.integrity_check'] = 'Pemeriksaan Integritas Sistem';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Menghapus file cache termasuk cache navigasi, tampilan, dan plugin. Hal ini dapat menyebabkan pemuatan halaman sedikit lebih lambat hingga cache dibangun ulang.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Hapus Cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Menghapus Cache File';
+$lang['AdminTools.getlognames.text_system'] = 'Sistem';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Versi manifes: %1$s (dibuat %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Saat ini tidak ada layanan yang sedang dalam antrean untuk pembaruan setelah pembayaran.';
+$lang['AdminTools.logsystem.page_title'] = 'Log Alat';
+$lang['AdminTools.logsystem.text_date'] = 'Tanggal';
+$lang['AdminTools.logsystem.text_level'] = 'Tingkat';
+$lang['AdminTools.logsystem.text_message'] = 'Pesan';
+$lang['AdminTools.logsystem.no_results'] = 'Tidak ada entri log sistem.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Direktori log tidak dikonfigurasi atau tidak dapat dibaca. Konfigurasikan di Pengaturan &gt; Sistem &gt; Umum.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Keadaan darurat';
+$lang['AdminTools.logsystem.level_alert'] = 'Waspada';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritis';
+$lang['AdminTools.logsystem.level_error'] = 'Kesalahan';
+$lang['AdminTools.logsystem.level_warning'] = 'Peringatan';
+$lang['AdminTools.logsystem.level_notice'] = 'Pemberitahuan';
+$lang['AdminTools.logsystem.level_info'] = 'Info';
+$lang['AdminTools.logsystem.level_debug'] = 'Debug';
 

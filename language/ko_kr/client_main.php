@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = '계정 정보가 성공적으로 
 $lang['ClientMain.edit.tooltip_confirm_password'] = '2단계 인증을 사용하거나 비밀번호를 업데이트하는 데 필요합니다.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = '2단계 인증';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = '크레딧 추가';
+$lang['ClientMain.edit.link_remove_avatar'] = '제거';
 

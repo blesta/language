@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'الخوادم';
 $lang['Multicraft.module_row.name'] = 'الخادم';
 $lang['Multicraft.!error.module_row.missing'] = 'حدث خطأ داخلي. صف الوحدة النمطية غير متوفر.';
 $lang['Multicraft.name'] = 'Multicraft';
+$lang['Multicraft.back_to_manage'] = 'رجوع';
 

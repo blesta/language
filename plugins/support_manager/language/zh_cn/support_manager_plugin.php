@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = '设置';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = '对于在一定时间后关闭的票单，自动向客户发送提醒，请他们留下反馈意见。';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = '发送反馈提醒';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = '利用人工智能处理票单';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = '利用人工智能分析票单，生成回复建议并自动执行工具使用（关闭垃圾邮件、分配员工、更改优先级）。';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = '人工智能设置';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '--/n*注：本答复由人工智能生成，应审查其准确性。';
 

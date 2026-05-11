@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Ispmanager.module_row'] = 'Sunucu';
 $lang['Ispmanager.description'] = 'ispmanager, web sitelerini yönetmek, kullanıcılar oluşturmak, alan adlarını, e-postaları, veritabanlarını vb. işlemek için zengin özellikler sunar.';
 $lang['Ispmanager.name'] = 'ispmanager';
 $lang['Ispmanager.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispmanager.back_to_manage'] = 'Geri';
+$lang['Ispmanager.manage.tab_rows'] = 'Sunucular';
+$lang['Ispmanager.manage.tab_groups'] = 'Sunucu Grupları';
 

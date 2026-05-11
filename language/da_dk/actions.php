@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.getLocationDescriptions.widget_staff_home'] = 'Gengiver en widget
 $lang['Actions.getLocationDescriptions.widget_staff_client'] = 'Gengiver en widget på personaleklientens profilside.';
 $lang['Actions.getLocationDescriptions.widget_staff_billing'] = 'Gengiver en widget på personalefaktureringssiden.';
 $lang['Actions.getLocationDescriptions.action_staff_client'] = 'Gengiver et link i afsnittet "Kontohandlinger" på personaleklientens profilside.';
+$lang['Actions.!error.icon.length'] = 'Ikonklassen må ikke overstige 255 tegn.';
 

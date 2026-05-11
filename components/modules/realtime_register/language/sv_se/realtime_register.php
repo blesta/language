@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -340,4 +340,5 @@ $lang['RealtimeRegister.description'] = 'Vi erbjuder mer än 2 000 toppdomäner 
 $lang['RealtimeRegister.name'] = 'Realtime Register';
 $lang['RealtimeRegister.tab_client_settings.field_status'] = 'Domänstatus';
 $lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Du har inte rätt att hantera den här domänen.';
+$lang['RealtimeRegister.back_to_manage'] = 'Tillbaka';
 

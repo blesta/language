@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'حذف';
 $lang['AdminDepartments.edit.heading_default'] = 'افتراضي';
 $lang['AdminDepartments.edit.heading_value'] = 'القيمة';
 $lang['AdminDepartments.edit.heading_name'] = 'الاسم';
-$lang['AdminDepartments.edit.heading_options'] = 'الخيارات';
+$lang['AdminDepartments.edit.heading_options'] = 'الإجراءات';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'الحذف التلقائي';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'مشفر';
 $lang['AdminDepartments.edit.heading_client_add'] = 'يمكن للعميل إضافة';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'حذف';
 $lang['AdminDepartments.add.heading_default'] = 'افتراضي';
 $lang['AdminDepartments.add.heading_value'] = 'القيمة';
 $lang['AdminDepartments.add.heading_name'] = 'الاسم';
-$lang['AdminDepartments.add.heading_options'] = 'الخيارات';
+$lang['AdminDepartments.add.heading_options'] = 'الإجراءات';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'الحذف التلقائي';
 $lang['AdminDepartments.add.heading_encrypted'] = 'مشفر';
 $lang['AdminDepartments.add.heading_client_add'] = 'يمكن للعميل إضافة';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'لا توجد أقسام.';
 $lang['AdminDepartments.index.confirm_delete'] = 'لا يجوز حذف الأقسام التي تم تعيين تذاكر لها حتى يتم إعادة تعيين جميع التذاكر إلى قسم بديل. هل أنت متأكد من رغبتك في حذف هذا القسم؟';
 $lang['AdminDepartments.index.option_delete'] = 'حذف';
 $lang['AdminDepartments.index.option_edit'] = 'تحرير';
-$lang['AdminDepartments.index.heading_options'] = 'الخيارات';
+$lang['AdminDepartments.index.heading_options'] = 'الإجراءات';
 $lang['AdminDepartments.index.heading_default_priority'] = 'الأولوية الافتراضية';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'الموظفون المعينون';
 $lang['AdminDepartments.index.heading_email'] = 'البريد الإلكتروني';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'معرّف العميل/
 $lang['AdminDepartments.add.field_oauth2_user'] = 'مستخدم OAuth 2.0 OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'موفر OAuth 2.0 مزود OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'بالنسبة لجميع التذاكر التي تحمل حالة مغلقة، سيتم إرسال تذكير بترك ملاحظاتهم إلى العميل إذا كانت التذكرة مغلقة للفترة الزمنية المحددة.';
+$lang['AdminDepartments.!text.description_hint'] = 'سيكون هذا الوصف مرئيًا للعملاء عند اختيار قسم ما';
+$lang['AdminDepartments.!text.priorities_hint'] = 'اضغط مع الاستمرار على Ctrl (ويندوز) أو Cmd (ماك) لتحديد أولويات متعددة';
+$lang['AdminDepartments.!text.search_responses'] = 'استجابات البحث...';
+$lang['AdminDepartments.!text.searching'] = 'البحث...';
+$lang['AdminDepartments.add.heading_actions'] = 'الإجراءات';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'هل أنت متأكد من رغبتك في إزالة هذا الحقل المخصص؟';
+$lang['AdminDepartments.edit.heading_actions'] = 'الإجراءات';
 

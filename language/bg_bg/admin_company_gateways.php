@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Актуализация';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Задайте шлюза по подразбиране на търговеца за всяка валута.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Шлюзове за търговци по подразбиране';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Шлюзовете за търговци по подразбиране са успешно актуализирани.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Не са открити съвпадащи шлюзове.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Филтриране на шлюзове...';
 

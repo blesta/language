@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'Modul berhasil diperbaru
 $lang['AdminCompanyModules.!success.uninstalled'] = 'Modul telah berhasil di-uninstall.';
 $lang['AdminCompanyModules.!success.installed'] = 'Modul berhasil dipasang.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'Modul berhasil ditingkatkan.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Modul filter...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Tidak ditemukan modul yang cocok.';
 

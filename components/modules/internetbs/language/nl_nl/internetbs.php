@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'Rekeningen';
 $lang['Internetbs.module_row'] = 'Account';
 $lang['Internetbs.description'] = 'Internet.bs biedt domeinnaamregistratie en transfers voor ccTLD\'s en gTLD\'s.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'Terug';
+$lang['Internetbs.manage.tab_rows'] = 'Servers';
+$lang['Internetbs.manage.tab_groups'] = 'Servergroepen';
 

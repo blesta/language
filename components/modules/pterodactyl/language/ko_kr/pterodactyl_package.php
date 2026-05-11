@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = '전용 IP 사용
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = '위치 ID가 익룡의 어떤 것과도 일치하지 않습니다.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = '위치 ID는 숫자여야 합니다.';
 $lang['PterodactylPackage.package_fields.optional'] = '%1$s (선택 사항)';
+$lang['Pterodactyl.back_to_manage'] = '뒤로';
 

@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Editați tipul de plată';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Actualizarea tipului de plată';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Utilizați definiția limbii';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Tip';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Nume';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Da';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Eliminarea acestui tip de plată va face ca toate tranzacțiile care utilizează acest tip de plată să fie setate la "altele". Sunteți sigur că doriți să ștergeți acest tip de plată?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Ștergeți';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Editați';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Opțiuni';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Acțiuni';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Utilizări Limbajul Definiție';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Tip';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Nume';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Setările GeoIP au fost ac
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Setările Basic Setup au fost actualizate cu succes!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Directorul de încărcare trebuie să existe și să fie în afara directorului web rădăcină.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir este activat. Accesul la fișiere este restricționat la: %1$s. Directoarele din afara acestor căi nu pot fi accesate.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Director Cache';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Această valoare reprezintă calea completă a serverului către locul în care Blesta ar trebui să scrie fișierele în cache. Acest director trebuie să poată fi scris de către utilizatorul web și utilizatorul cron al serverului. Pentru securitate, această cale ar trebui să fie localizată în afara rădăcinii web; dacă trebuie să fie în interiorul rădăcinii web, Blesta va scrie un fișier .htaccess ca o atenuare parțială, dar configurațiile serverului care ignoră .htaccess (cum ar fi Nginx) nu oferă o astfel de protecție.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Modificarea directorului cache nu poate fi aplicată deoarece fișierul marker de la config/cache.dir.php nu poate fi scris sau eliminat. Acordați permisiunea de scriere în directorul config (și în fișierul marker, dacă există) și încercați din nou.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Directorul cache trebuie să fie un director existent care poate fi scris.';
 

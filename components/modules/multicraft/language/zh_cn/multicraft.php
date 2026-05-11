@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = '服务器';
 $lang['Multicraft.module_row.name'] = '服务器';
 $lang['Multicraft.!error.module_row.missing'] = '发生内部错误。模块行不可用。';
 $lang['Multicraft.name'] = 'Multicraft';
+$lang['Multicraft.back_to_manage'] = '返回';
 

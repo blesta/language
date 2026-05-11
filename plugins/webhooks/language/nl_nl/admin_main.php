@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Terugbellen';
 $lang['AdminMain.edit.field_event'] = 'Evenement';
 $lang['AdminMain.edit.field_callback'] = 'Terugbellen';
 $lang['AdminMain.edit.option_delete'] = 'Verwijder';
-$lang['AdminMain.edit.heading_options'] = 'Opties';
+$lang['AdminMain.edit.heading_options'] = 'Acties';
 $lang['AdminMain.edit.heading_parameter'] = 'Nieuw veld';
 $lang['AdminMain.edit.heading_field'] = 'Oorspronkelijk veld';
 $lang['AdminMain.edit.heading_fields_map'] = 'Velden Kaart';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Terugbellen';
 $lang['AdminMain.add.field_event'] = 'Evenement';
 $lang['AdminMain.add.field_callback'] = 'Terugbellen';
 $lang['AdminMain.add.option_delete'] = 'Verwijder';
-$lang['AdminMain.add.heading_options'] = 'Opties';
+$lang['AdminMain.add.heading_options'] = 'Acties';
 $lang['AdminMain.add.heading_parameter'] = 'Nieuw veld';
 $lang['AdminMain.add.heading_field'] = 'Oorspronkelijk veld';
 $lang['AdminMain.add.heading_fields_map'] = 'Velden Kaart';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Ontvangt een HTTP-verzoek 
 $lang['AdminMain.index.text_description_outgoing'] = 'Stuurt een HTTP-verzoek naar een URL wanneer een gebeurtenis wordt geactiveerd. Het verzoek kan worden verzonden met GET, POST, PUT of JSON.';
 $lang['AdminMain.index.option_delete'] = 'Verwijder';
 $lang['AdminMain.index.option_edit'] = 'Bewerk';
-$lang['AdminMain.index.heading_options'] = 'Opties';
+$lang['AdminMain.index.heading_options'] = 'Acties';
 $lang['AdminMain.index.heading_method'] = 'Methode';
 $lang['AdminMain.index.heading_event'] = 'Evenement';
 $lang['AdminMain.index.heading_callback'] = 'Terugbellen';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'HTTP-status';
 $lang['AdminMain.logs.field_filterevent'] = 'Evenement';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Alle webhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Opties';
+$lang['AdminMain.logs.heading_options'] = 'Acties';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Laatste poging';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Datum geactiveerd';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP antwoord';

@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Další - Potvrzení';
 $lang['AdminPlugin.features.text_remove'] = 'Odstranění adresy';
-$lang['AdminPlugin.features.text_options'] = 'Možnosti';
+$lang['AdminPlugin.features.text_options'] = 'Akce';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Přidání úlohy Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Přidání karty Správa služeb';
 $lang['AdminPlugin.features.placeholder_time'] = 'např. 14:25 nebo 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Akce pro URI, ze kterého se
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Kontrolér pro URI, ze kterého se má stáhnout obsah pro akci (např. admin_main).';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Místo v rozhraní, kde se akce zobrazí';
 $lang['AdminPlugin.integrations.text_remove'] = 'Odstranění stránky';
-$lang['AdminPlugin.integrations.text_options'] = 'Možnosti';
+$lang['AdminPlugin.integrations.text_options'] = 'Akce';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Karty klientů jsou malá pole zobrazená v profilu klienta (v klientské nebo administrátorské oblasti) a slouží především k zobrazení různých statistik (např. počtu služeb, vstupenek nebo objednávek). Skládají se z hodnoty, popisku, pozadí a odkazu.  Štítek se zobrazuje pod hodnotou, která je přebírána z funkce zpětného volání.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Toto je systém háčků v systému Blesta.  Události jsou registrovány buď jádrem, nebo zásuvným modulem, zásuvné moduly pak naslouchají těmto událostem a definují pro ně obslužné metody.  Vzhledem k tomu, že události může registrovat libovolný zásuvný modul, může jich být libovolný počet, nicméně seznam událostí definovaných jádrem blesty naleznete zde: https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Akce" představují stránky zásuvných modulů, které jsou přístupné přes základní rozhraní. Patří sem navigační odkazy ve správcovské a klientské oblasti, widgety ve správcovské oblasti a odkazy na postranním panelu klientského profilu. Zde zadané kontroléry a akce budou použity pro generování jednoduchých souborů kontrolérů. Kromě toho budou pro každou akci vytvořeny ukázkové soubory zobrazení.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Přidat akci';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Základní integrace';
 $lang['AdminPlugin.database.integrations'] = 'Další - Základní integrace';
 $lang['AdminPlugin.database.text_remove'] = 'Odstranění stránky';
-$lang['AdminPlugin.database.text_options'] = 'Možnosti';
+$lang['AdminPlugin.database.text_options'] = 'Akce';
 $lang['AdminPlugin.database.text_more_info'] = 'Tato stránka slouží k vytvoření schématu pro tabulky databáze generované a spravované tímto zásuvným modulem. Při instalaci a odinstalaci bude vygenerován kód pro přidávání a odebírání těchto tabulek. Kromě toho budou pro tyto tabulky vytvořeny modelové soubory s některými základními funkcemi.';
 $lang['AdminPlugin.database.placeholder_length'] = 'např. 64 nebo "a", "b", "c".';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'např. column_name';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Logo zobrazené ve výpisu zásuvnýc
 $lang['AdminPlugin.basic.tooltip_description'] = 'Popis uvedený ve výpisu zásuvných modulů';
 $lang['AdminPlugin.basic.text_remove'] = 'Odstranění stránky';
 $lang['AdminPlugin.basic.author_row_add'] = 'Přidat autora';
-$lang['AdminPlugin.basic.text_options'] = 'Možnosti';
+$lang['AdminPlugin.basic.text_options'] = 'Akce';
 $lang['AdminPlugin.basic.author_url'] = 'Adresa URL autora';
 $lang['AdminPlugin.basic.author_name'] = 'Jméno autora';
 $lang['AdminPlugin.basic.logo'] = 'Logo';

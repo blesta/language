@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'Пошук TLD';
 $lang['Main.steps.step_1_description'] = 'Виберіть домен';
-$lang['OrderTypeDomain.settings.heading_options'] = 'Параметри';
+$lang['OrderTypeDomain.settings.heading_options'] = 'Дії';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Крапка';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Термін';
 $lang['OrderTypeDomain.settings.text_term'] = 'Мінімальний термін та період';

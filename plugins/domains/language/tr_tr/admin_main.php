@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -75,7 +75,7 @@ $lang['AdminMain.add.edit_package_pricing'] = 'Fiyatlandırmayı Düzenle';
 $lang['AdminMain.add.order_btn'] = 'Sipariş Seçildi';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Kullanılamıyor';
 $lang['AdminMain.add.text_domain_available'] = 'Mevcut';
-$lang['AdminMain.add.heading_options'] = 'Seçenekler';
+$lang['AdminMain.add.heading_options'] = 'Eylemler';
 $lang['AdminMain.add.heading_status'] = 'Durum';
 $lang['AdminMain.add.heading_domain'] = 'Etki Alanı';
 $lang['AdminMain.add.title_registrar_options'] = 'Kayıt Kuruluşu Seçenekleri';
@@ -96,7 +96,7 @@ $lang['AdminMain.add.field_add'] = 'Alan Adı Ekle';
 $lang['AdminMain.add.field_register'] = 'Kayıt Olun';
 $lang['AdminMain.add.field_transfer'] = 'Transfer';
 $lang['AdminMain.add.link_viewclient'] = 'Müşteriyi Görüntüle';
-$lang['AdminMain.add.boxtitle_add'] = 'Etki Alanı Ekle: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Alan Adı Ekle %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Müşteri #%1$s';
 $lang['AdminMain.index.unparent'] = 'Ebeveynsiz ve Sıfırlama Fiyatı';
 $lang['AdminMain.!error.unsupported_domain'] = 'Alan adı desteklenmiyor.';
@@ -147,7 +147,7 @@ $lang['AdminMain.index.category_canceled'] = 'İptal edildi';
 $lang['AdminMain.index.category_suspended'] = 'Askıya alındı';
 $lang['AdminMain.index.category_pending'] = 'Beklemede';
 $lang['AdminMain.index.category_active'] = 'Aktif';
-$lang['AdminMain.index.heading_options'] = 'Seçenekler';
+$lang['AdminMain.index.heading_options'] = 'Eylemler';
 $lang['AdminMain.index.heading_datecanceled'] = 'İptal Edilen Tarih';
 $lang['AdminMain.index.heading_datesuspended'] = 'Askıya Alındığı Tarih';
 $lang['AdminMain.index.heading_dateexpires'] = 'Tarih Sonu';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Yenile';
 $lang['AdminMain.index.tooltip_transferred'] = 'Alan adı, kayıt kuruluşundan transfer edilmiştir.';
 $lang['AdminMain.!success.remove_price_override'] = 'Alan adı geçersiz kılma fiyatı kaldırıldı!';
 $lang['AdminMain.!success.set_price_override'] = 'Alan adı geçersiz kılma fiyatı güncellendi!';
+$lang['AdminMain.add.heading_search'] = 'Alan Adı Arama';
+$lang['AdminMain.add.field_domain'] = 'Etki Alanı';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Spot TLD\'ler';
+$lang['AdminMain.add.link_more_tlds'] = 'Daha fazla TLD';
+$lang['AdminMain.add.button_cancel'] = 'İptal';
+$lang['AdminMain.add.button_previous'] = 'Önceki';
+$lang['AdminMain.add.button_continue'] = 'Devam et';
+$lang['AdminMain.add_confirmation.total'] = 'Toplam:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Satır Öğeleri';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kupon Kodu';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Sipariş Toplamı';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Kupon kodunu girin';
+$lang['AdminMain.edit.text_select_action'] = 'Bir eylemi gerçekleştirmek üzere formu görüntülemek için yukarıdaki bir düğmeye tıklayın.';
+$lang['AdminMain.edit.text_no_fields'] = 'Bu eylem herhangi bir ek seçenek gerektirmez. Devam etmek için Gönder\'e tıklayın.';
 

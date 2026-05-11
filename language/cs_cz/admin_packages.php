@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Skupiny rodičů';
 $lang['AdminPackages.groups.confirm_delete'] = 'Opravdu chcete tuto skupinu balíčků odstranit? Všechny balíčky přiřazené k této skupině již nebudou k této skupině přiřazeny a mohou se stát nepoužitelnými.';
 $lang['AdminPackages.groups.option_delete'] = 'Odstranit';
 $lang['AdminPackages.groups.option_edit'] = 'Upravit';
-$lang['AdminPackages.groups.heading_options'] = 'Možnosti';
+$lang['AdminPackages.groups.heading_options'] = 'Akce';
 $lang['AdminPackages.groups.heading_type'] = 'Typ';
 $lang['AdminPackages.groups.heading_name'] = 'Název';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Skupiny balíčků';
@@ -193,12 +193,12 @@ $lang['AdminPackages.index.no_results'] = 'Neexistují žádné balíčky s tím
 $lang['AdminPackages.index.option_delete'] = 'Odstranit';
 $lang['AdminPackages.index.option_copy'] = 'Kopírovat';
 $lang['AdminPackages.index.option_edit'] = 'Upravit';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Odeslat';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Použít';
 $lang['AdminPackages.index.action.delete'] = 'Odstranění balíčků';
 $lang['AdminPackages.index.category_inactive'] = 'Neaktivní';
 $lang['AdminPackages.index.category_restricted'] = 'Omezené';
 $lang['AdminPackages.index.category_active'] = 'Aktivní';
-$lang['AdminPackages.index.heading_options'] = 'Možnosti';
+$lang['AdminPackages.index.heading_options'] = 'Akce';
 $lang['AdminPackages.index.heading_qty'] = 'Množství';
 $lang['AdminPackages.index.heading_module'] = 'Modul';
 $lang['AdminPackages.index.heading_name'] = 'Název';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!tooltip.manual_activation'] = 'Pokud je tato možnost zaš
 $lang['AdminPackages.edit.text_default'] = 'Výchozí';
 $lang['AdminPackages.add.text_default'] = 'Výchozí';
 $lang['AdminPackages.!tooltip.single_term'] = 'Pokud je tato možnost zaškrtnuta, nové služby využívající tento balíček nebudou obnoveny, ale budou automaticky zrušeny na konci počátečního období.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Vygenerovaný text e-mailu:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Vygenerovaný e-mail HTML:';
+$lang['AdminPackages.ai.email_use_button'] = 'Použijte tento e-mail';
+$lang['AdminPackages.ai.email_generating'] = 'Generování e-mailů...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Popište, co by měl uvítací e-mail obsahovat (např. "Vítejte u nového zákazníka, vysvětlete nastavení služby").';
+$lang['AdminPackages.ai.email_modal_title'] = 'Generování uvítacího e-mailu';
+$lang['AdminPackages.ai.generate_email_button'] = 'Generování e-mailů pomocí AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Kontextové informace:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Vytvořte profesionální popis tohoto balíčku produktů/služeb.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Vytvořte profesionální uvítací e-mail pro tento balíček produktů/služeb, který zákazníka přivítá a poskytne mu užitečné informace o jeho nové službě.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Přepište a vylepšete tento obsah při zachování stejných obecných informací:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Zkontrolujte výše uvedenou výzvu, přidejte případné další pokyny a kliknutím na tlačítko Generovat vytvořte obsah.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Načítání výzvy...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Kontext výzvy';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Uveďte veškeré konkrétní údaje nebo požadavky, které má UI zahrnout do popisu.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Např. uveďte informace o nepřetržité podpoře, zmiňte 30denní záruku vrácení peněz...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Další pokyny (volitelné)';
+$lang['AdminPackages.ai.error_prefix'] = 'Chyba:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Nepodařilo se vygenerovat popis';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Zadejte prosím výzvu';
+$lang['AdminPackages.ai.apply_text'] = 'Textová verze';
+$lang['AdminPackages.ai.apply_html'] = 'Verze HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'Použijte obsah na:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Popis balíčku Funkce AI není povolena';
+$lang['AdminPackages.ai.error_disabled'] = 'Funkce AI nejsou povoleny';
+$lang['AdminPackages.ai.regenerating'] = 'Regenerace...';
+$lang['AdminPackages.ai.generating'] = 'Generování...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Zrušit';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Regenerujte';
+$lang['AdminPackages.ai.btn_use'] = 'Použijte tento popis';
+$lang['AdminPackages.ai.btn_generate'] = 'Generovat';
+$lang['AdminPackages.ai.preview_text'] = 'Vygenerovaný text:';
+$lang['AdminPackages.ai.preview_html'] = 'Generované HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Technická stránka';
+$lang['AdminPackages.ai.tone_casual'] = 'Příležitostné';
+$lang['AdminPackages.ai.tone_professional'] = 'Profesionální';
+$lang['AdminPackages.ai.tone'] = 'Tón';
+$lang['AdminPackages.ai.generate_text'] = 'Generování textu (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Generování HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Popište vlastnosti balíčku, cílovou skupinu atd...';
+$lang['AdminPackages.ai.use_content_button'] = 'Použití tohoto obsahu';
+$lang['AdminPackages.ai.regenerate_button'] = 'Regenerujte';
+$lang['AdminPackages.ai.no_context'] = 'Žádný kontext není k dispozici';
+$lang['AdminPackages.ai.context_type_email'] = 'Uvítací e-mail';
+$lang['AdminPackages.ai.context_type_description'] = 'Popis balení';
+$lang['AdminPackages.ai.context_type'] = 'Typ:';
+$lang['AdminPackages.ai.context_module'] = 'Modul:';
+$lang['AdminPackages.ai.context_package'] = 'Balení:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Generovaný obsah:';
+$lang['AdminPackages.ai.context_label'] = 'Kontext:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'Přepsaný popis AI';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Popis generovaný umělou inteligencí';
+$lang['AdminPackages.ai.modal_title'] = 'Obsah generovaný umělou inteligencí';
+$lang['AdminPackages.ai.rewrite_button'] = 'Přepsat';
+$lang['AdminPackages.ai.generate_button'] = 'Generovat';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Použít filtry';
+$lang['AdminPackages.index.field_filterclear'] = 'Přehledně';
+$lang['AdminPackages.index.filter_toggle'] = 'Přepínání filtrů';
+$lang['AdminPackages.index.items_selected'] = 'vybrané položky';
 

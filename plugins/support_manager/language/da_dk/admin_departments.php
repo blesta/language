@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminDepartments.index.heading_description'] = 'Beskrivelse';
 $lang['AdminDepartments.index.heading_email'] = 'E-mail';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Tildelt personale';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Standardprioritet';
-$lang['AdminDepartments.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminDepartments.index.heading_options'] = 'Handlinger';
 $lang['AdminDepartments.index.option_edit'] = 'Rediger';
 $lang['AdminDepartments.index.option_delete'] = 'Slet';
 $lang['AdminDepartments.index.confirm_delete'] = 'Afdelinger, der har fået tildelt billetter, kan ikke slettes, før alle billetter er blevet tildelt en anden afdeling. Er du sikker på, at du vil slette denne afdeling?';
@@ -87,7 +87,7 @@ $lang['AdminDepartments.add.heading_step'] = 'Trin';
 $lang['AdminDepartments.add.heading_client_add'] = 'Kunden kan tilføje';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Krypteret';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Automatisk sletning';
-$lang['AdminDepartments.add.heading_options'] = 'Valgmuligheder';
+$lang['AdminDepartments.add.heading_options'] = 'Handlinger';
 $lang['AdminDepartments.add.heading_name'] = 'Navn';
 $lang['AdminDepartments.add.heading_value'] = 'Værdi';
 $lang['AdminDepartments.add.heading_default'] = 'Standard';
@@ -138,7 +138,7 @@ $lang['AdminDepartments.edit.heading_step'] = 'Trin';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Kunden kan tilføje';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Krypteret';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Automatisk sletning';
-$lang['AdminDepartments.edit.heading_options'] = 'Valgmuligheder';
+$lang['AdminDepartments.edit.heading_options'] = 'Handlinger';
 $lang['AdminDepartments.edit.heading_name'] = 'Navn';
 $lang['AdminDepartments.edit.heading_value'] = 'Værdi';
 $lang['AdminDepartments.edit.heading_default'] = 'Standard';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 klient/applika
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0-bruger';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0-udbyder';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'For alle sager med status som lukket vil der blive sendt en påmindelse til kunden om at give feedback, hvis sagen har været lukket i det valgte tidsrum.';
+$lang['AdminDepartments.!text.description_hint'] = 'Denne beskrivelse vil være synlig for kunderne, når de vælger en afdeling.';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Hold Ctrl (Windows) eller Cmd (Mac) nede for at vælge flere prioriteter';
+$lang['AdminDepartments.!text.search_responses'] = 'Søg efter svar...';
+$lang['AdminDepartments.!text.searching'] = 'Søger...';
+$lang['AdminDepartments.add.heading_actions'] = 'Handlinger';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Er du sikker på, at du vil fjerne dette brugerdefinerede felt?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Handlinger';
 

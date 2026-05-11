@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_excellent'] = '시스템의 상태는 양호하며
 $lang['AdminMain.index.updates_minor'] = '지원 및 업데이트는 %1$s를 통해 잘 이루어지고 있습니다.';
 $lang['AdminMain.index.upload_dir_configure'] = '구성?';
 $lang['AdminMain.index.upload_dir'] = '설정의 업로드 디렉토리 경로는 루트 웹 디렉터리 내에 있습니다.  공개적으로 액세스할 수 있는 데 문제가 없도록 루트 웹 디렉터리 위에 위치해야 합니다.';
+$lang['AdminMain.index.text_info'] = '정보';
+$lang['AdminMain.index.text_warning'] = '경고';
+$lang['AdminMain.index.text_error'] = '오류';
+$lang['AdminMain.index.text_success'] = '성공';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = '시스템';
+$lang['AdminMain.index.category_database'] = '데이터베이스';
+$lang['AdminMain.index.category_security'] = '보안';
 

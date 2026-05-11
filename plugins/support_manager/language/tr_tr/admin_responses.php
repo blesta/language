@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = 'Yanıt %1$s başarıyla eklen
 $lang['AdminResponses.!success.category_deleted'] = 'Kategori %1$s başarıyla silindi.';
 $lang['AdminResponses.!success.category_updated'] = 'Kategori %1$s başarıyla güncellendi.';
 $lang['AdminResponses.!success.category_added'] = 'Kategori %1$s başarıyla eklendi.';
+$lang['AdminResponses.index.btn_back'] = 'Geri';
+$lang['AdminResponses.index.btn_add_category'] = 'Kategori Ekle';
+$lang['AdminResponses.index.btn_add_response'] = 'Yanıt Ekle';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.orderinfo.applied_heading_paymenttype'] = 'Τύπος πληρ�
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Ποσό';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Εφαρμοσμένο';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Εφαρμόζεται στο';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Επιλογές';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Δράσεις';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Επεξεργασία';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Δεν υπάρχουν συναλλαγές σε αυτή την παραγγελία.';
 $lang['AdminMain.orderinfo.services_heading'] = 'Υπηρεσίες';
@@ -47,7 +47,7 @@ $lang['AdminMain.orderinfo.services_heading_label'] = 'Ετικέτα';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Όρος';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Ημερομηνία προσθήκης';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Ημερομηνία Ανανεώνει';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Επιλογές';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Δράσεις';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Διαχείριση';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Ποτέ';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Δεν υπάρχουν υπηρεσίες σε αυτή τη σειρά.';
@@ -112,4 +112,16 @@ $lang['AdminMain.affiliates.graph_visits'] = 'Επισκέψεις';
 $lang['AdminMain.affiliates.graph_sales'] = 'Πωλήσεις';
 $lang['AdminMain.affiliates.submit_settings'] = 'Αποθήκευση ρυθμίσεων';
 $lang['AdminMain.affiliates.submit_cancel'] = 'Ακύρωση';
+$lang['AdminMain.index.paid'] = 'Πληρωμένο';
+$lang['AdminMain.index.unpaid'] = 'Απλήρωτη';
+$lang['AdminMain.index.loading'] = 'Φόρτωση...';
+$lang['AdminMain.index.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Αναγνωριστικό συναλλαγής';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Κατάσταση';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Ημερομηνία';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Υπηρεσία';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Κατάσταση';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Εκκρεμεί';
+$lang['AdminMain.settings.text_notifications'] = 'Ρυθμίστε τον τρόπο με τον οποίο θέλετε να λαμβάνετε ειδοποιήσεις για νέες παραγγελίες.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Ρυθμίστε τον τρόπο με τον οποίο θέλετε να λαμβάνετε ειδοποιήσεις για πληρωμές θυγατρικών.';
 

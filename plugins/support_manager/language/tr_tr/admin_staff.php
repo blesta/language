@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -58,7 +58,7 @@ $lang['AdminStaff.index.no_results'] = 'Şu anda destek sistemi için görevlend
 $lang['AdminStaff.index.confirm_delete'] = 'Bu personel üyesinin silinmesi, bu personele atanmış olan tüm biletlerin atamasını kaldıracaktır. Bu personel üyesini silmek istediğinizden emin misiniz?';
 $lang['AdminStaff.index.option_delete'] = 'Silme';
 $lang['AdminStaff.index.option_edit'] = 'Düzenle';
-$lang['AdminStaff.index.heading_options'] = 'Seçenekler';
+$lang['AdminStaff.index.heading_options'] = 'Eylemler';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Bilet Habercisi Bildirimlerini Alın';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Mobil Bilet E-postaları Alın';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Bilet E-postaları Alın';

@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Próximo - Confirmação';
 $lang['AdminPlugin.features.text_remove'] = 'Remover';
-$lang['AdminPlugin.features.text_options'] = 'Opções';
+$lang['AdminPlugin.features.text_options'] = 'Ações';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Adicionar tarefa Cron';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Adicionar guia Gerenciamento de serviços';
 $lang['AdminPlugin.features.placeholder_time'] = 'Por exemplo, 14:25 ou 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'A ação para o URI do qual 
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'O controlador para o URI do qual será extraído o conteúdo para a ação (por exemplo, admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'O local na interface para exibir a ação';
 $lang['AdminPlugin.integrations.text_remove'] = 'Remover';
-$lang['AdminPlugin.integrations.text_options'] = 'Opções';
+$lang['AdminPlugin.integrations.text_options'] = 'Ações';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Os cartões de cliente são pequenas caixas exibidas no perfil do cliente (na área do cliente ou do administrador) e são usados principalmente para exibir várias estatísticas (por exemplo, número de serviços, tíquetes ou pedidos). Eles consistem em um valor, um rótulo, um plano de fundo e um link.  O rótulo é exibido abaixo do valor que é extraído de uma função de retorno de chamada.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Esse é o sistema de ganchos do Blesta.  Os eventos são registrados pelo núcleo ou por um plug-in, e os plug-ins ouvem esses eventos e definem métodos de manipulação para o evento.  Como qualquer plug-in pode registrar eventos, pode haver qualquer número deles; no entanto, a lista de eventos principais definidos pelo Blesta pode ser encontrada aqui https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Ações" representam as páginas do plug-in que podem ser acessadas por meio da interface principal. Isso inclui links de navegação nas áreas de administração e do cliente, widgets na área de administração e links na barra lateral do perfil do cliente. Os controladores e as ações inseridos aqui serão usados para gerar arquivos de controlador simples. Além disso, serão criados arquivos de visualização de amostra para cada ação.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Adicionar ação';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Integrações essenciais';
 $lang['AdminPlugin.database.integrations'] = 'Próximo - Integrações principais';
 $lang['AdminPlugin.database.text_remove'] = 'Remover';
-$lang['AdminPlugin.database.text_options'] = 'Opções';
+$lang['AdminPlugin.database.text_options'] = 'Ações';
 $lang['AdminPlugin.database.text_more_info'] = 'Essa página é usada para criar um esquema para as tabelas de banco de dados geradas e gerenciadas por esse plug-in. O código será gerado para adicionar e remover essas tabelas na instalação e desinstalação. Além disso, serão criados arquivos de modelo para essas tabelas com algumas funções básicas.';
 $lang['AdminPlugin.database.placeholder_length'] = 'Por exemplo, 64 ou \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.placeholder_column_name'] = 'Por exemplo, nome_da_coluna';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'O logotipo exibido na listagem do plu
 $lang['AdminPlugin.basic.tooltip_description'] = 'A descrição mostrada na listagem do plug-in';
 $lang['AdminPlugin.basic.text_remove'] = 'Remover';
 $lang['AdminPlugin.basic.author_row_add'] = 'Adicionar autor';
-$lang['AdminPlugin.basic.text_options'] = 'Opções';
+$lang['AdminPlugin.basic.text_options'] = 'Ações';
 $lang['AdminPlugin.basic.author_url'] = 'URL do autor';
 $lang['AdminPlugin.basic.author_name'] = 'Nome do autor';
 $lang['AdminPlugin.basic.logo'] = 'Logotipo';

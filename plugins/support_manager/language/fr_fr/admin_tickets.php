@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,8 +22,8 @@ $lang['AdminTickets.add.page_title'] = 'Support Manager > Ouvrir un ticket';
 $lang['AdminTickets.reply.page_title'] = 'Support Manager > Ticket #%1$s';
 $lang['AdminTickets.search.page_title'] = 'Résultats de la recherche pour "%1$s"';
 $lang['AdminTickets.text.unassigned'] = 'Non attribué';
-$lang['AdminTickets.index.category_open'] = 'En attente de la réponse du personnel';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'En attente de la réponse du client';
+$lang['AdminTickets.index.category_open'] = 'En attente de personnel';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'En attente d\'un client';
 $lang['AdminTickets.index.category_in_progress'] = 'En cours';
 $lang['AdminTickets.index.category_on_hold'] = 'En attente';
 $lang['AdminTickets.index.category_closed'] = 'Fermé';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Aucun contact supplémentaire n\'e
 $lang['AdminTickets.!tooltip.recipients'] = 'Adresse électronique pour être informé de la mise à jour d\'un ticket.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Contacts à notifier lors de la mise à jour d\'un ticket. Ceux qui n\'ont pas été sélectionnés seront automatiquement ajoutés au ticket s\'ils y répondent.';
 $lang['AdminTickets.reply.text_domain'] = 'Domaine';
-$lang['AdminTickets.reply.heading_rating'] = 'Evaluation';
+$lang['AdminTickets.reply.heading_rating'] = 'Évaluation des clients';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Note Commentaire';
 $lang['AdminTickets.index.heading_rating'] = 'Evaluation';
+$lang['AdminTickets.index.text_fullscreen'] = 'Basculer en plein écran';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Quitter le plein écran';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Saisir le numéro du billet';
+$lang['AdminTickets.index.placeholder_summary'] = 'Résumé de la recherche';
+$lang['AdminTickets.index.heading_filters'] = 'Filtres';
+$lang['AdminTickets.index.field_apply_filters'] = 'Appliquer les filtres';
+$lang['AdminTickets.index.field_clear_filters'] = 'Effacer les filtres';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Contacts et destinataires';
+$lang['AdminTickets.add.search_responses'] = 'Recherche de réponses...';
+$lang['AdminTickets.add.no_results'] = 'Aucune réponse correspondante n\'a été trouvée';
+$lang['AdminTickets.add.searching'] = 'Recherche...';
+$lang['AdminTickets.add.search_min_chars'] = 'Saisissez au moins 2 caractères pour effectuer une recherche';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Détails du billet';
+$lang['AdminTickets.add.login_as_client'] = 'Se connecter en tant que client';
+$lang['AdminTickets.add.markdown_supported'] = 'Prise en charge de Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Déposez les fichiers ici pour les télécharger ou cliquez pour sélectionner les fichiers.';
+$lang['AdminTickets.add.browse_files'] = 'Parcourir les fichiers';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Sur mesure';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Contacts et destinataires';
+$lang['AdminTickets.reply.text_date_rated'] = 'Classé : %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Le site %1$s %2$s %3$s a ajouté une note';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Détails du billet';
+$lang['AdminTickets.reply.login_as_client'] = 'Se connecter en tant que client';
+$lang['AdminTickets.reply.search_responses'] = 'Recherche de réponses...';
+$lang['AdminTickets.reply.no_results'] = 'Aucune réponse correspondante n\'a été trouvée';
+$lang['AdminTickets.reply.searching'] = 'Recherche...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Saisissez au moins 2 caractères pour effectuer une recherche';
+$lang['AdminTickets.reply.markdown_supported'] = 'Prise en charge de Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Les notes internes ne sont visibles que par les membres du personnel';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Déposez les fichiers ici pour les télécharger ou cliquez pour sélectionner les fichiers.';
+$lang['AdminTickets.reply.browse_files'] = 'Parcourir les fichiers';
+$lang['AdminTickets.reply.btn_cancel'] = 'Annuler';
+$lang['AdminTickets.reply.client_title'] = 'Client';
+$lang['AdminTickets.reply.note_label'] = 'Note au personnel';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Générer une réponse de l\'IA';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'L\'IA est prête à répondre';
+$lang['AdminTickets.reply.button_regenerate'] = 'Régénérer';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Régénérer la réponse de l\'IA';
+$lang['AdminTickets.reply.text_generating'] = 'Générer...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Régénérer...';
+$lang['AdminTickets.reply.text_just_now'] = 'A l\'instant';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sil y a un mois';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sil y a h';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sil y a d';
+$lang['AdminTickets.reply.modal_title'] = 'Réponse générée par l\'IA';
+$lang['AdminTickets.reply.label_confidence'] = 'Confiance';
+$lang['AdminTickets.reply.label_generated'] = 'Généré';
+$lang['AdminTickets.reply.label_model'] = 'Modèle';
+$lang['AdminTickets.reply.alert_review_required'] = 'Examen requis';
+$lang['AdminTickets.reply.alert_review_text'] = 'Cette réponse a été générée automatiquement par l\'IA. Veuillez la relire attentivement avant de l\'envoyer afin de vous assurer qu\'elle est exacte et que le ton est approprié.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Notes internes';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Réponse proposée';
+$lang['AdminTickets.reply.label_concerns'] = 'Préoccupations';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Aucune réponse n\'est suggérée. Voir les notes internes pour le raisonnement.';
+$lang['AdminTickets.reply.button_cancel'] = 'Annuler';
+$lang['AdminTickets.reply.button_use_response'] = 'Utiliser cette réponse';
+$lang['AdminTickets.reply.button_reject'] = 'Rejeter';
+$lang['AdminTickets.reply.button_summarize'] = 'Résumer';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Résumé de l\'IA';
+$lang['AdminTickets.!error.ticket_invalid'] = 'ID du ticket non valide';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Les fonctions d\'intelligence artificielle ne sont pas activées pour le gestionnaire de support';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'La réponse de l\'IA n\'a pas été générée';
+$lang['AdminTickets.!error.analysis_invalid'] = 'ID d\'analyse non valide';
+$lang['AdminTickets.!error.reply_not_found'] = 'La réponse spécifiée n\'a pas pu être trouvée.';
+$lang['AdminTickets.!error.summary_failed'] = 'Échec de la génération du résumé.';
 

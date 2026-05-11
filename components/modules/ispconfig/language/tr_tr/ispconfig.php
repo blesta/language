@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row'] = 'Sunucu';
 $lang['Ispconfig.description'] = 'ISPConfig 3, tek bir kontrol panelinden birden fazla sunucuyu yönetebilen Linux için açık kaynaklı bir paneldir.';
 $lang['Ispconfig.name'] = 'ISPConfig';
 $lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.back_to_manage'] = 'Geri';
+$lang['Ispconfig.manage.tab_rows'] = 'Sunucular';
+$lang['Ispconfig.manage.tab_groups'] = 'Sunucu Grupları';
 

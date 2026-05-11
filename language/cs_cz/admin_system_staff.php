@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Oznám
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Oznámení BCC e-mailem';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Seznam řízení přístupu';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Obecné';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Upravit skupinu';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Skupina pro aktualizaci';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Odhlášení při změně IP adresy';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Společnost';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Název';
@@ -38,14 +38,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Opravdu chcete tuto skupinu zaměstnanců odstranit?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Upravit';
 $lang['AdminSystemStaff.groups.no_results'] = 'Neexistují žádné skupiny zaměstnanců.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Možnosti';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Akce';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Počet zaměstnanců';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Název společnosti';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Název';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Vytvořit skupinu';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Skupiny zaměstnanců';
 $lang['AdminSystemStaff.groups.page_title'] = 'Nastavení > Systém > Zaměstnanci > Skupiny zaměstnanců';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Upravit personál';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Aktualizace zaměstnanců';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Dostupné skupiny';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Členské skupiny';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Dvoufaktorový kolík';
@@ -90,7 +90,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Upravit';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Opravdu reaktivovat tohoto zaměstnance?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Opravdu deaktivovat tohoto zaměstnance?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Tento status nemá žádný zaměstnanec.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Možnosti';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Akce';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Název';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Přidat zaměstnance';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.staff_updated'] = 'Tento zaměstnanec byl úsp�
 $lang['AdminSystemStaff.!success.staff_added'] = 'Tento zaměstnanec byl úspěšně přidán!';
 $lang['AdminSystemStaff.edit.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
 $lang['AdminSystemStaff.add.field_recovery_email'] = 'E-mail pro obnovení (volitelný)';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Oznámení';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Oznámení';
 

@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Siete sicuri di voler aggiornare questa valuta? Il tasso di cambio di questa valuta verrà sovrascritto quando i tassi di cambio vengono aggiornati automaticamente nel sistema. È possibile disattivare gli aggiornamenti automatici in [Impostazioni] > [Azienda] > [Valute] > [Impostazione valuta].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Modifica della valuta';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Aggiornamento della valuta';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Tasso di cambio';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Simbolo del suffisso';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Simbolo del prefisso';

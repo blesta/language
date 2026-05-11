@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminStaff.index.heading_email'] = 'E-mail';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Modtag billet-e-mails';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'Modtag e-mail om mobilbilletter';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Modtag meddelelser fra Ticket Messenger';
-$lang['AdminStaff.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminStaff.index.heading_options'] = 'Handlinger';
 $lang['AdminStaff.index.option_edit'] = 'Rediger';
 $lang['AdminStaff.index.option_delete'] = 'Slet';
 $lang['AdminStaff.index.confirm_delete'] = 'Hvis du sletter dette personalemedlem, fjernes alle billetter, der er tildelt dette personalemedlem. Er du sikker på, at du vil slette denne medarbejder?';

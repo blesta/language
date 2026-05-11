@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.module_rows.name'] = 'Server';
 $lang['Multicraft.module_row.name'] = 'Server';
 $lang['Multicraft.!error.module_row.missing'] = 'Terjadi kesalahan internal. Baris modul tidak tersedia.';
 $lang['Multicraft.name'] = 'Multicraft';
+$lang['Multicraft.back_to_manage'] = 'Kembali';
 

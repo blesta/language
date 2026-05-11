@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.sql_mariadb_version_serious'] = 'La versión de MariaDB n
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Ver requisitos mínimos';
 $lang['AdminMain.index.upload_dir_configure'] = '¿Configurar?';
 $lang['AdminMain.index.upload_dir'] = 'La ruta del directorio de carga en su configuración está dentro del directorio raíz de la web.  Debe colocarse por encima del directorio web raíz para asegurarse de que nunca haya un problema con que sea accesible públicamente.';
+$lang['AdminMain.index.text_info'] = 'Información';
+$lang['AdminMain.index.text_warning'] = 'Advertencia';
+$lang['AdminMain.index.text_error'] = 'Error';
+$lang['AdminMain.index.text_success'] = 'Éxito';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistema';
+$lang['AdminMain.index.category_database'] = 'Base de datos';
+$lang['AdminMain.index.category_security'] = 'Seguridad';
 

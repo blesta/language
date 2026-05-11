@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.config.module.rows'] = 'Счета регистраторо�
 $lang['OpenProvider.config.module.row'] = 'Учетная запись регистратора';
 $lang['OpenProvider.config.description'] = 'Модуль Openprovider для Blesta.';
 $lang['OpenProvider.config.name'] = 'Openprovider';
+$lang['Openprovider.back_to_manage'] = 'Назад';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'L\'intervallo di p
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'La scelta di utilizzare un IP dedicato deve essere impostata su 1 o 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'L\'ID del luogo non corrisponde a nessuno in Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'L\'ID della località deve essere numerico.';
+$lang['Pterodactyl.back_to_manage'] = 'Indietro';
 

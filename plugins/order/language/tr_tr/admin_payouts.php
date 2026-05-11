@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Bu ödemeyi onaylamak istediğini
 $lang['AdminPayouts.index.option_decline'] = 'Düşüş';
 $lang['AdminPayouts.index.option_approve'] = 'Onaylamak';
 $lang['AdminPayouts.index.option_edit'] = 'Düzenle';
-$lang['AdminPayouts.index.heading_options'] = 'Seçenekler';
+$lang['AdminPayouts.index.heading_options'] = 'Eylemler';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Talep Edilen Tarih';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Ödenen Para Birimi';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Ödenen Tutar';

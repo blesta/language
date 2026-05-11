@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Redigera grupp';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Uppdatera gruppen';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Använd e-postadresser som användarnamn';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Använd företagsinställningar (avmarkera för att ange nedan)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Metoder för leverans av fakturor';

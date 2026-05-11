@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'InterWorx Web Control Panel este un panou de c
 $lang['Interworx.!error.soap_required'] = 'Extensia SOAP este necesară pentru acest modul.';
 $lang['Interworx.!error.libxml_required'] = 'Extensia libxml este necesară pentru acest modul.';
 $lang['Interworx.name'] = 'Interworx';
+$lang['Interworx.back_to_manage'] = 'Înapoi';
+$lang['Interworx.manage.tab_rows'] = 'Servere';
+$lang['Interworx.manage.tab_groups'] = 'Grupuri de servere';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Disponibil)';
 

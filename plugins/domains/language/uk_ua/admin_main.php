@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -93,7 +93,7 @@ $lang['AdminMain.add.term_days'] = '%1$s днів';
 $lang['AdminMain.add.term_day'] = '%1$s Day';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Недоступно';
 $lang['AdminMain.add.text_domain_available'] = 'Доступно';
-$lang['AdminMain.add.heading_options'] = 'Параметри';
+$lang['AdminMain.add.heading_options'] = 'Дії';
 $lang['AdminMain.add.heading_status'] = 'Статус';
 $lang['AdminMain.add.heading_domain'] = 'Домен';
 $lang['AdminMain.add.title_registrar_options'] = 'Параметри реєстратора';
@@ -114,7 +114,7 @@ $lang['AdminMain.add.field_add'] = 'Додати домен';
 $lang['AdminMain.add.field_register'] = 'Зареєструватися';
 $lang['AdminMain.add.field_transfer'] = 'Переказ';
 $lang['AdminMain.add.link_viewclient'] = 'Переглянути клієнта';
-$lang['AdminMain.add.boxtitle_add'] = 'Додати домен: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Додати домен %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Клієнт #%1$s';
 $lang['AdminMain.index.unparent'] = 'Непрозора та обнулена ціна';
 $lang['AdminMain.!error.unsupported_domain'] = 'Доменне ім\'я не підтримується.';
@@ -148,7 +148,7 @@ $lang['AdminMain.index.category_canceled'] = 'Скасовано';
 $lang['AdminMain.index.category_suspended'] = 'Призупинено';
 $lang['AdminMain.index.category_pending'] = 'На розгляді';
 $lang['AdminMain.index.category_active'] = 'Активний';
-$lang['AdminMain.index.heading_options'] = 'Параметри';
+$lang['AdminMain.index.heading_options'] = 'Дії';
 $lang['AdminMain.index.heading_datecanceled'] = 'Дата скасована';
 $lang['AdminMain.index.heading_datesuspended'] = 'Дата призупинена';
 $lang['AdminMain.index.heading_dateexpires'] = 'Дата закінчення терміну дії';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Оновити';
 $lang['AdminMain.index.tooltip_transferred'] = 'Домен передано від реєстратора.';
 $lang['AdminMain.!success.remove_price_override'] = 'Ціна перевизначення домену була видалена!';
 $lang['AdminMain.!success.set_price_override'] = 'Оновлена ціна перевизначення домену!';
+$lang['AdminMain.add.heading_search'] = 'Пошук домену';
+$lang['AdminMain.add.field_domain'] = 'Домен';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Домени верхнього рівня в центрі уваги';
+$lang['AdminMain.add.link_more_tlds'] = 'Більше доменів верхнього рівня';
+$lang['AdminMain.add.button_cancel'] = 'Скасувати';
+$lang['AdminMain.add.button_previous'] = 'Попередні';
+$lang['AdminMain.add.button_continue'] = 'Продовжуйте';
+$lang['AdminMain.add_confirmation.total'] = 'Усього:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Рядкові позиції';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Код купона';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Сума замовлення';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Введіть код купона';
+$lang['AdminMain.edit.text_select_action'] = 'Натисніть кнопку вище, щоб відобразити форму для виконання дії.';
+$lang['AdminMain.edit.text_no_fields'] = 'Ця дія не потребує жодних додаткових опцій. Натисніть кнопку Надіслати, щоб продовжити.';
 

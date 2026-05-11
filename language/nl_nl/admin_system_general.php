@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Betalingstype bewerken';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Betalingstype bijwerken';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Taalgebruik Definitie';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Type';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Naam';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ja';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Als je deze betaalsoort verwijdert, worden alle transacties die deze betaalsoort gebruiken ingesteld op "overig". Weet je zeker dat je deze betaalsoort wilt verwijderen?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Verwijder';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Bewerk';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Opties';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Acties';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Taalgebruik Definitie';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Type';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Naam';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'De GeoIP-instellingen zijn
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'De basisinstellingen zijn bijgewerkt!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'De uploaddirectory moet bestaan en buiten de root webdirectory liggen.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir is ingeschakeld. Bestandstoegang is beperkt tot: %1$s. Directories buiten deze paden zijn niet toegankelijk.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Cache Directory';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Deze waarde geeft het volledige serverpad aan naar waar Blesta bestanden in de cache moet wegschrijven. Deze directory moet beschrijfbaar zijn door de webgebruiker en cron-gebruiker van de server. Voor de veiligheid moet dit pad zich buiten de web root bevinden; als het zich binnen de web root moet bevinden, zal Blesta een .htaccess bestand schrijven als gedeeltelijke beperking, maar serverconfiguraties die .htaccess negeren (zoals Nginx) bieden deze bescherming niet.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'De cache directory verandering kan niet worden toegepast omdat het marker bestand in config/cache.dir.php niet kan worden geschreven of verwijderd. Geef schrijfrechten op de config directory (en op het marker bestand, als het bestaat) en probeer het opnieuw.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'De cache directory moet een bestaande schrijfbare directory zijn.';
 

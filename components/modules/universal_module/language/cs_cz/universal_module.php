@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.edit_row.service_admin_info'] = 'Informace o službách p
 $lang['UniversalModule.add_row.tags'] = 'Štítky';
 $lang['UniversalModule.add_row.service_client_info'] = 'Informace o klientském servisu';
 $lang['UniversalModule.add_row.service_admin_info'] = 'Informace o službách pro správce';
+$lang['UniversalModule.back_to_manage'] = 'Zpět';
 

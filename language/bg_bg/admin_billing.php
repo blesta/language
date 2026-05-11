@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Избраните усл
 $lang['AdminBilling.!success.services_suspended'] = 'Избраните услуги бяха успешно спрени.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Избраните услуги бяха успешно планирани да бъдат отменени.';
 $lang['AdminBilling.invoices.heading_count'] = 'Граф';
-$lang['AdminBilling.quotations.heading_options'] = 'Опции';
+$lang['AdminBilling.quotations.heading_options'] = 'Действия';
 $lang['AdminBilling.services.category_scheduled_cancellation'] = 'Планирано';
 $lang['AdminBilling.transactions.headingexpand_invoice'] = 'Фактура';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Избраните фактури са маркирани като отпечатани.';
@@ -25,7 +25,7 @@ $lang['AdminBilling.quotations.heading_date_expires'] = 'Дата на изти�
 $lang['AdminBilling.services.category_in_review'] = 'В преглед';
 $lang['AdminBilling.transactions.no_results'] = 'Няма транзакции с този статус.';
 $lang['AdminBilling.batch.text_batchsubmit'] = 'Партиден процес';
-$lang['AdminBilling.invoices.heading_options'] = 'Опции';
+$lang['AdminBilling.invoices.heading_options'] = 'Действия';
 $lang['AdminBilling.quotations.heading_total'] = 'Сума';
 $lang['AdminBilling.services.category_suspended'] = 'Суспендиран';
 $lang['AdminBilling.transactions.category_returned'] = 'Върнати';
@@ -57,13 +57,13 @@ $lang['AdminBilling.transactions.category_declined'] = 'Отказан';
 $lang['AdminBilling.printqueue.text_printsubmit'] = 'Отпечатване';
 $lang['AdminBilling.invoices.heading_amount'] = 'Сума';
 $lang['AdminBilling.quotations.boxtitle_quotations'] = 'Цитати';
-$lang['AdminBilling.services.heading_options'] = 'Опции';
+$lang['AdminBilling.services.heading_options'] = 'Действия';
 $lang['AdminBilling.transactions.category_approved'] = 'Одобрен';
 $lang['AdminBilling.printqueue.heading_deliverydatesent'] = 'Дата на изпращане';
 $lang['AdminBilling.invoices.heading_client'] = 'Клиент #';
 $lang['AdminBilling.quotations.page_title'] = 'Цитати за фактуриране';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Дата на отмяна';
-$lang['AdminBilling.transactions.heading_options'] = 'Опции';
+$lang['AdminBilling.transactions.heading_options'] = 'Действия';
 $lang['AdminBilling.printqueue.heading_datedue'] = 'Дата на плащане';
 $lang['AdminBilling.invoices.heading_recurinvoice'] = 'Повтарящ се #';
 $lang['AdminBilling.invoices.no_results'] = 'Няма фактури с този статус.';
@@ -122,13 +122,13 @@ $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Причина за о�
 $lang['AdminBilling.printqueue.category_to_print'] = 'Отпечатване';
 $lang['AdminBilling.index.heading_actions'] = 'Въпроси за действие';
 $lang['AdminBilling.invoices.subtotal_w_tax'] = '%1$s + данък';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Опции';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Действия';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Тази услуга няма подробности.';
 $lang['AdminBilling.printqueue.page_title'] = 'Опашка за печат на фактуриране';
 $lang['AdminBilling.index.customize_dashboard'] = 'Преглед на персонализирането';
 $lang['AdminBilling.invoices.option_pay'] = 'Заплащане';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Дата на фактуриране';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Подаване на';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Направете заявка на';
 $lang['AdminBilling.invoices.text_edit'] = 'Редактиране на';
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Избраните услуги вече не са планирани за отмяна.';
 $lang['AdminBilling.invoices.category_open'] = 'Отворете';
@@ -144,7 +144,7 @@ $lang['AdminBilling.index.page_title'] = 'Преглед на фактурира
 $lang['AdminBilling.invoices.option_edit'] = 'Редактиране на';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Сума';
 $lang['AdminBilling.services.action.push_to_client'] = 'Избутване към клиент';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Опции';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Действия';
 $lang['AdminBilling.index.closed_parethesis'] = ')';
 $lang['AdminBilling.invoices.category_recurring'] = 'Повтарящи се';
 $lang['AdminBilling.quotationinvoices.headingexpand_invoice'] = 'Фактура #';
@@ -182,4 +182,17 @@ $lang['AdminBilling.transactions.option_edit'] = 'Редактиране на';
 $lang['AdminBilling.batch.field_passphrase'] = 'Фраза за достъп';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Тази услуга е в процес на промяна.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Дата на плащане чрез: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'избрани елементи';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'избран елемент';
+$lang['AdminBilling.transactions.option_view'] = 'Вижте';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Действия';
+$lang['AdminBilling.services.text_items_selected'] = 'избрани елементи';
+$lang['AdminBilling.services.text_item_selected'] = 'избран елемент';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Прилагане на филтри';
+$lang['AdminBilling.services.field_filterclear'] = 'Clear';
+$lang['AdminBilling.services.filter_toggle'] = 'Превключване на филтрите';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Прилагане на филтри';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Clear';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Превключване на филтрите';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Щракнете върху уиджетите, за да ги покажете или скриете от таблото за управление.';
 

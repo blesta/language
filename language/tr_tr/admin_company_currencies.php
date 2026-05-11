@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Bu para birimini güncellemek istediğinizden emin misiniz? Döviz kurları sistemde otomatik olarak güncellendiğinde bu para biriminin döviz kurunun üzerine yazılacaktır. Otomatik güncellemeleri [Ayarlar] > [Şirket] > [Para Birimleri] > [Para Birimi Kurulumu] altından devre dışı bırakabilirsiniz.';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Para Birimini Düzenle';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Para Birimi Güncellemesi';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Döviz Kuru';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Sonek Sembolü';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Önek Sembolü';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!tooltip.access_article'] = 'Les articles publics sont
 $lang['AdminKnowledgebase.!tooltip.access_category'] = 'Les catégories publiques sont accessibles à tous. Les catégories privées sont accessibles uniquement aux utilisateurs connectés. Les catégories cachées sont inaccessibles. Les catégories réservées au personnel ne sont visibles que par les membres du personnel.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = 'Mettre à jour toutes les sous-catégories et leurs articles également';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = 'Mettre à jour tous les articles de cette catégorie pour qu\'ils aient la même accessibilité';
+$lang['AdminKnowledgebase.index.view'] = 'Voir';
 

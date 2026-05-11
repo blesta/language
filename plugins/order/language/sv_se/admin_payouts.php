@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Är du säker på att du vill god
 $lang['AdminPayouts.index.option_decline'] = 'Nedgång';
 $lang['AdminPayouts.index.option_approve'] = 'Godkänna';
 $lang['AdminPayouts.index.option_edit'] = 'Redigera';
-$lang['AdminPayouts.index.heading_options'] = 'Alternativ';
+$lang['AdminPayouts.index.heading_options'] = 'Åtgärder';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Datum för begäran';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Betald valuta';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Utbetalt belopp';

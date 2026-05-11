@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['Orders.view.heading_number'] = 'Sayı';
 $lang['Orders.view.heading_status'] = 'Durum';
 $lang['Orders.view.heading_applied'] = 'Uygulamalı';
 $lang['Orders.view.heading_type'] = 'Tip';
-$lang['Orders.view.heading_options'] = 'Seçenekler';
+$lang['Orders.view.heading_options'] = 'Eylemler';
 $lang['Orders.view.heading_date_renews'] = 'Tarih Yenilemeleri';
 $lang['Orders.view.heading_date_created'] = 'Tarih Oluşturuldu';
 $lang['Orders.view.heading_term'] = 'Dönem';
@@ -37,7 +37,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Sipariş Görüntüle';
 $lang['Orders.index.no_results'] = 'Herhangi bir siparişiniz yok.';
 $lang['Orders.index.option_cancel'] = 'İptal';
 $lang['Orders.index.option_view'] = 'Görünüm';
-$lang['Orders.index.heading_options'] = 'Seçenekler';
+$lang['Orders.index.heading_options'] = 'Eylemler';
 $lang['Orders.index.heading_date_ordered'] = 'Sipariş Tarihi';
 $lang['Orders.index.heading_paid'] = 'Ücretli';
 $lang['Orders.index.heading_total'] = 'Toplam';

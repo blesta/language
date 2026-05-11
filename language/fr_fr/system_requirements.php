@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!warning.simplexml.recommended'] = 'L\'extension simpl
 $lang['SystemRequirements.!warning.zlib.recommended'] = 'L\'extension zlib est fortement recommandée pour de meilleures performances.';
 $lang['SystemRequirements.!warning.soap.recommended'] = 'L\'extension de savon est nécessaire pour le traitement automatique de la taxe sur la valeur ajoutée.';
 $lang['SystemRequirements.!warning.cache_writable.recommended'] = 'Pour de meilleures performances, assurez-vous que %1$s est accessible en écriture par le serveur web.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'La version 5.7.7 de MySQL ou la version 10.2.2 de MariaDB est requise. Votre version : %1$s.';
 

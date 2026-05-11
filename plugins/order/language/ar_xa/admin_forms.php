@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'طلبية مهجورة';
 $lang['AdminForms.add.tab_basic'] = 'الأساسيات';
 $lang['AdminForms.index.field_status_inactive'] = 'غير نشط';
 $lang['AdminForms.index.field_status_active'] = 'نشط';
-$lang['AdminForms.index.text_confirm_delete'] = 'حقاً حذف نموذج الطلب هذا؟';
+$lang['AdminForms.index.text_confirm_delete'] = 'هل أنت متأكد من رغبتك في حذف نموذج الطلب هذا؟';
 $lang['AdminForms.index.option_delete'] = 'حذف';
 $lang['AdminForms.index.option_edit'] = 'تحرير';
 $lang['AdminForms.index.heading_options'] = 'الخيارات';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'عند اختيار باق
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'عرض تفاصيل الأسعار الشهرية';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'عند اختيار باقة، اعرض التكلفة الشهرية لكل خيار تسعير بالإضافة إلى الوفورات الشهرية عند مقارنتها بالسعر الشهري (إن وجدت).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'عرض تفاصيل الأسعار الشهرية';
+$lang['AdminForms.index.heading_actions'] = 'الإجراءات';
+$lang['AdminForms.index.back_to_forms'] = 'العودة إلى نماذج الطلبات';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'طلب الموافقة على الاشتراكات المتكررة';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'عند التمكين، يجب أن يوافق العملاء صراحةً على الفوترة المتكررة قبل إكمال طلب بعناصر متكررة. يحل هذا محل خانة الاختيار حفظ تفاصيل الدفع.';
+$lang['AdminForms.add.field_cancel'] = 'إلغاء';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'طلب الموافقة على الاشتراكات المتكررة';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'عند التمكين، يجب أن يوافق العملاء صراحةً على الفوترة المتكررة قبل إكمال طلب بعناصر متكررة. يحل هذا محل خانة الاختيار حفظ تفاصيل الدفع.';
+$lang['AdminForms.edit.field_cancel'] = 'إلغاء';
+$lang['AdminForms.embed_codes.heading'] = 'تضمين رمز البحث عن النطاق';
+$lang['AdminForms.embed_codes.description'] = 'انسخ أحد المقتطفات أدناه لتضمين نموذج بحث عن النطاق على موقع خارجي. ستؤدي عمليات الإرسال إلى فتح عملية الدفع في نموذج الطلب هذا مع تحميل النطاق الذي تم إدخاله مسبقًا.';
+$lang['AdminForms.embed_codes.label_first'] = 'أدخل تسمية عنوان URL لنموذج الطلب هذا لإنشاء أكواد التضمين.';
+$lang['AdminForms.embed_codes.html_plain'] = 'HTML عادي';
+$lang['AdminForms.embed_codes.html_bs5'] = 'بوتستراب 5';
+$lang['AdminForms.embed_codes.preview'] = 'معاينة';
+$lang['AdminForms.embed_codes.copy'] = 'نسخ';
+$lang['AdminForms.embed_codes.csrf_required'] = 'تجاوز CSRF مطلوب لكي يعمل بحث المجال المضمن.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'سيتم رفض عمليات POST من موقع خارجي حتى تقوم بإضافة config::preconfig إلى مصفوفة Blesta.csrf_bypass في config/blesta.php:';
 

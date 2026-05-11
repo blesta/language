@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,7 +136,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Změnit maximum';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Zobrazit fakturu';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Opravdu chcete tuto službu odebrat z fronty obnovení?';
-$lang['AdminTools.renewals.heading_options'] = 'Možnosti';
+$lang['AdminTools.renewals.heading_options'] = 'Akce';
 $lang['AdminTools.renewals.heading_invoice'] = 'Faktura';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maximální počet pokusů';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Neúspěšné pokusy';
@@ -152,7 +152,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Upgradujte 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Aktualizujte znakovou sadu a collation databáze, tabulek a sloupců na utf8mb4, abyste mohli používat 4bajtové znaky, například emotikony.  To může trvat několik minut.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Aktualizace na utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Aktualizace databáze Collation';
-$lang['AdminTools.utilities.heading_options'] = 'Možnosti';
+$lang['AdminTools.utilities.heading_options'] = 'Akce';
 $lang['AdminTools.utilities.heading_description'] = 'Popis';
 $lang['AdminTools.utilities.heading_utility'] = 'Utility';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Komunální služby';
@@ -178,7 +178,7 @@ $lang['AdminTools.!success.dequeue'] = 'Služba byla úspěšně odstraněna z f
 $lang['AdminTools.!success.max_updated'] = 'Maximální počet pokusů o obnovení byl úspěšně aktualizován.';
 $lang['AdminTools.!success.collation_updated'] = 'Srovnání databáze bylo úspěšně aktualizováno.';
 $lang['AdminTools.!success.currency_converted'] = '%1$s = %2$s';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Přidat pravidlo';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Vytvořit pravidlo';
 $lang['AdminTools.blacklistadd.field_note'] = 'Poznámka';
 $lang['AdminTools.blacklistadd.field_type'] = 'Typ';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Pravidlo';
@@ -189,7 +189,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Odstranit';
 $lang['AdminTools.blacklist.text_system'] = 'Systém';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-mailová adresa';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP adresa';
-$lang['AdminTools.blacklist.heading_options'] = 'Možnosti';
+$lang['AdminTools.blacklist.heading_options'] = 'Akce';
 $lang['AdminTools.blacklist.heading_note'] = 'Poznámka';
 $lang['AdminTools.blacklist.heading_list'] = 'Seznam';
 $lang['AdminTools.blacklist.heading_type'] = 'Typ';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'V současné době nejsou ve 
 $lang['AdminTools.renewals.no_results_provision'] = 'V současné době nejsou ve frontě na poskytnutí žádné služby.';
 $lang['AdminTools.!notice.conditions_met'] = 'Položky se v určené frontě objeví, až když jsou splněny všechny podmínky a jsou připraveny k pokusu.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Změny služby byly úspěšně zrušeny.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blokovat odchozí';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blokování odchozích e-mailů na tuto adresu';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Blokovat odchozí';
 $lang['AdminTools.renewals.no_results_changes'] = 'V současné době nejsou ve frontě na poskytnutí žádné změny služeb.';
 $lang['AdminTools.renewals.option_retry'] = 'Opakování';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Stav';
 $lang['AdminTools.renewals.category_changes'] = 'Změny služeb';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Nezaplacené prodloužení';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Změny služby byly úspěšně naplánovány.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Zkontrolovány soubory %1$s: %2$s OK, %3$s upraveno, %4$s chybí.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Soubor manifest (manifest.json) nebyl nalezen. Tento soubor je součástí oficiálních verzí a je vyžadován k provedení kontroly integrity.';
+$lang['AdminTools.integritycheck.text_error'] = 'Při kontrole souborů došlo k chybě.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Všechny soubory odpovídají manifestu. Nebyly zjištěny žádné změny ani chybějící soubory.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Soubory celkem';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Prodejce';
+$lang['AdminTools.integritycheck.category_core'] = 'Jádro';
+$lang['AdminTools.integritycheck.status_missing'] = 'Chybějící';
+$lang['AdminTools.integritycheck.status_modified'] = 'Upraveno';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategorie';
+$lang['AdminTools.integritycheck.heading_file'] = 'Soubor';
+$lang['AdminTools.integritycheck.heading_status'] = 'Stav';
+$lang['AdminTools.integritycheck.text_checking'] = 'Kontrola souborů, počkejte prosím. Může to chvíli trvat...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Znovu běžet';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Stáhnout zprávu';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Spustit kontrolu integrity';
+$lang['AdminTools.integritycheck.text_description'] = 'Ověřte nainstalované soubory podle seznamu dodaného s touto verzí. Tato funkce kontroluje integritu souborů porovnáním hashů SHA256 a může pomoci identifikovat soubory, které byly změněny, což je užitečné při řešení problémů a před provedením aktualizace.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Kontrola integrity systému';
+$lang['AdminTools.integritycheck.page_title'] = 'Kontrola integrity systému';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Ověřte základní soubory podle dodaného seznamu a identifikujte změněné nebo chybějící soubory.';
+$lang['AdminTools.!success.cache_cleared'] = 'Souborová mezipaměť byla úspěšně vymazána.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Spustit kontrolu';
+$lang['AdminTools.utilities.integrity_check'] = 'Kontrola integrity systému';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Vymazání souborů v mezipaměti včetně navigace, zobrazení a mezipaměti zásuvných modulů. To může způsobit mírně pomalejší načítání stránek, dokud se mezipaměti znovu nevytvoří.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Vymazat mezipaměť';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Vymazání mezipaměti souborů';
+$lang['AdminTools.getlognames.text_system'] = 'Systém';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Verze manifestu: %1$s (vygenerováno %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'V současné době nejsou ve frontě na obnovení po zaplacení žádné služby.';
+$lang['AdminTools.logsystem.page_title'] = 'Nástroje Protokoly';
+$lang['AdminTools.logsystem.text_date'] = 'Datum';
+$lang['AdminTools.logsystem.text_level'] = 'Úroveň';
+$lang['AdminTools.logsystem.text_message'] = 'Zpráva';
+$lang['AdminTools.logsystem.no_results'] = 'Neexistují žádné záznamy v systémovém protokolu.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Adresář protokolu není nakonfigurován nebo není čitelný. Nakonfigurujte jej v části Nastavení &gt; Systém &gt; Obecné.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Pohotovostní služba';
+$lang['AdminTools.logsystem.level_alert'] = 'Upozornění';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritické';
+$lang['AdminTools.logsystem.level_error'] = 'Chyba';
+$lang['AdminTools.logsystem.level_warning'] = 'Varování';
+$lang['AdminTools.logsystem.level_notice'] = 'Oznámení';
+$lang['AdminTools.logsystem.level_info'] = 'Informace';
+$lang['AdminTools.logsystem.level_debug'] = 'Ladění';
 

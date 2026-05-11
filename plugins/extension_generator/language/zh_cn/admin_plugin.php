@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminPlugin.integrations.heading_more_info'] = '更多信息';
 $lang['AdminPlugin.features.confirm'] = '下一步 - 确认';
 $lang['AdminPlugin.features.text_remove'] = '移除';
-$lang['AdminPlugin.features.text_options'] = '选项';
+$lang['AdminPlugin.features.text_options'] = '行动';
 $lang['AdminPlugin.features.cron_task_row_add'] = '添加 Cron 任务';
 $lang['AdminPlugin.features.service_tab_row_add'] = '添加服务管理选项卡';
 $lang['AdminPlugin.features.placeholder_time'] = '例如：14:25 或 60';
@@ -59,7 +59,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = '从 URI 提取操作内容�
 $lang['AdminPlugin.integrations.tooltip_controller'] = '从 URI 提取操作内容的控制器（如 admin_main）';
 $lang['AdminPlugin.integrations.tooltip_location'] = '界面中显示操作的位置';
 $lang['AdminPlugin.integrations.text_remove'] = '移除';
-$lang['AdminPlugin.integrations.text_options'] = '选项';
+$lang['AdminPlugin.integrations.text_options'] = '行动';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = '客户卡片是显示在客户资料（客户或管理区）上的小方框，主要用于显示各种统计数据（如服务、票据或订单数量）。它们由数值、标签、背景和链接组成。  标签显示在从回调函数调入的数值下方。';
 $lang['AdminPlugin.integrations.text_events_more_info'] = '这就是 Blesta 的钩子系统。  事件由核心或插件注册，然后插件监听这些事件并为事件定义处理程序方法。  由于任何插件都可以注册事件，因此可以有任意数量的事件，不过 Blesta 定义的核心事件列表可以在这里找到 https://docs.blesta.com/display/dev/Event+Handlers。';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"操作 "代表可通过核心界面访问的插件页面。这包括管理区和客户区的导航链接、管理区的小部件以及客户配置文件侧边栏上的链接。此处输入的控制器和操作将用于生成简单的控制器文件。此外，还将为每个操作创建示例视图文件。';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = '添加行动';
 $lang['AdminPlugin.integrations.heading_integrations'] = '核心集成';
 $lang['AdminPlugin.database.integrations'] = '下一页 - 核心集成';
 $lang['AdminPlugin.database.text_remove'] = '移除';
-$lang['AdminPlugin.database.text_options'] = '选项';
+$lang['AdminPlugin.database.text_options'] = '行动';
 $lang['AdminPlugin.database.text_more_info'] = '此页面用于为本插件生成和管理的数据库表创建模式。将生成用于在安装和卸载时添加和删除这些表的代码。此外，还将为这些表创建具有一些基本功能的模型文件。';
 $lang['AdminPlugin.database.placeholder_length'] = '例如，64 或 "a"、"b"、"c';
 $lang['AdminPlugin.database.placeholder_column_name'] = '例如：列名';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = '插件列表中显示的徽标。图�
 $lang['AdminPlugin.basic.tooltip_description'] = '插件列表中显示的说明';
 $lang['AdminPlugin.basic.text_remove'] = '移除';
 $lang['AdminPlugin.basic.author_row_add'] = '添加作者';
-$lang['AdminPlugin.basic.text_options'] = '选项';
+$lang['AdminPlugin.basic.text_options'] = '行动';
 $lang['AdminPlugin.basic.author_url'] = '作者网址';
 $lang['AdminPlugin.basic.author_name'] = '作者姓名';
 $lang['AdminPlugin.basic.logo'] = '标志';

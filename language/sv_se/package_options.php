@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Vänligen ange en etikett.';
 $lang['PackageOptions.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Huruvida fakturan ska döljas måste anges till 0 eller 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Om prissättning ska inaktiveras måste ställas in på 0 eller 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Typen kan inte ändras eftersom ett eller flera alternativvärden som inte ingår i inlämningen används av en tjänst.';
 

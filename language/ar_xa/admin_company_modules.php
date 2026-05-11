@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.!success.module_updated'] = 'تم تحديث الوح
 $lang['AdminCompanyModules.!success.uninstalled'] = 'تم إلغاء تثبيت الوحدة النمطية بنجاح.';
 $lang['AdminCompanyModules.!success.installed'] = 'تم تثبيت الوحدة النمطية بنجاح.';
 $lang['AdminCompanyModules.!success.upgraded'] = 'تمت ترقية الوحدة بنجاح.';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'وحدات التصفية...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'لم يتم العثور على وحدات مطابقة.';
 

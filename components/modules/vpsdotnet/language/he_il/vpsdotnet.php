@@ -1,0 +1,136 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.he_il
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'אירעה שגיאה ולא ניתן היה להתקין מחדש את התבנית.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'אירעה שגיאה ולא ניתן היה לבטל את השירות.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'אירעה שגיאה ולא ניתן היה לבצע את הפעולה.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'אירעה שגיאה ולא ניתן היה לעדכן את המחשב הווירטואלי.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'לא ניתן להוסיף את הצמתים הנדרשים.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'לא ניתן היה ליצור חיבור לשרת. אנא ודא שכתובת הדוא"ל ומפתח ה-API נכונים.';
+$lang['Vpsdotnet.!error.key.empty'] = 'אנא הזן את מפתח ה-API שלך.';
+$lang['Vpsdotnet.!error.email.format'] = 'אנא הזן כתובת דוא"ל חוקית.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'אנא הזן שם לשרת זה.';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'סיסמה';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'קונסולה';
+$lang['Vpsdotnet.tab_console.root_password'] = 'סיסמה:';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'קונסולה';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'איפוס סיסמה';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'איפוס סיסמה';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'שינוי שם המארח';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'שם מארח';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'שינוי שם המארח';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'התקנה מחדש';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'אני מבין כי בעקבות ההתקנה מחדש, כל הנתונים בשרת יימחקו לצמיתות, ומערכת ההפעלה והתבנית שנבחרו יותקנו.';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'תבנית';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'מערכת הפעלה';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'התקנה מחדש';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'פעולות שרת';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'לא ידוע';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'בהמתנה';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'מחוץ לרשת';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'באינטרנט';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'סטטוס השרת';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'איפוס סיסמה';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'איפוס סיסמה';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'שינוי שם המארח';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'שם מארח';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'שינוי שם המארח';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'התקנה מחדש';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'אני מבין כי בעקבות ההתקנה מחדש, כל הנתונים בשרת יימחקו לצמיתות, ומערכת ההפעלה והתבנית שנבחרו יותקנו.';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'תבנית';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'מערכת הפעלה';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'התקנה מחדש';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'סטטוס השרת';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'פעולות';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'לא ידוע';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'בהמתנה';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'מחוץ לרשת';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'באינטרנט';
+$lang['Vpsdotnet.!actions.password'] = 'איפוס סיסמה';
+$lang['Vpsdotnet.!actions.hostname'] = 'שינוי שם המארח';
+$lang['Vpsdotnet.!actions.reinstall'] = 'התקן מחדש';
+$lang['Vpsdotnet.!actions.shutdown'] = 'כיבוי';
+$lang['Vpsdotnet.!actions.reboot'] = 'אתחול מחדש';
+$lang['Vpsdotnet.!actions.boot'] = 'אתחול';
+$lang['Vpsdotnet.tab_client_console'] = 'קונסולה';
+$lang['Vpsdotnet.tab_client_actions'] = 'פעולות שרת';
+$lang['Vpsdotnet.tab_console'] = 'קונסולה';
+$lang['Vpsdotnet.tab_actions'] = 'פעולות שרת';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'תבנית';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'מערכת הפעלה';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'ענן/אזור';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'תווית VPS';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'שם מארח';
+$lang['Vpsdotnet.package_fields.template'] = 'תבנית';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'בחר תבנית';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'אפשר ללקוח להגדיר תבנית';
+$lang['Vpsdotnet.package_fields.template_group'] = 'מערכת הפעלה';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'בחר מערכת הפעלה';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'אפשר ללקוח להגדיר את מערכת ההפעלה והתבנית';
+$lang['Vpsdotnet.package_fields.cloud'] = 'ענן/אזור';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'בחר ענן/אזור';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'לאפשר ללקוח להגדיר את הענן/האזור, מערכת ההפעלה והתבנית';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'מספר הצמתים';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'שרת עדכונים';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'הגדרות בסיסיות';
+$lang['Vpsdotnet.edit_row.box_title'] = 'ערוך שרת VPS.NET';
+$lang['Vpsdotnet.add_row.add_btn'] = 'הוסף שרת';
+$lang['Vpsdotnet.row_meta.key'] = 'מפתח API';
+$lang['Vpsdotnet.row_meta.email'] = 'דוא"ל';
+$lang['Vpsdotnet.row_meta.server_name'] = 'תווית שרת';
+$lang['Vpsdotnet.add_row.basic_title'] = 'הגדרות בסיסיות';
+$lang['Vpsdotnet.add_row.box_title'] = 'הוסף שרת VPS.NET';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'סיסמה';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'כתובת IP ראשית';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'אין קבוצות שרתים.';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'האם אתה בטוח שברצונך למחוק את קבוצת השרתים הזו?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'מחק';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'ערוך';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'אפשרויות';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'מספר השרתים';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'שם הקבוצה';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'קבוצות שרתים ראשיים של VPS.NET';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'אין שרתים.';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'האם אתה בטוח שברצונך למחוק את השרת הזה?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'מחק';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'ערוך';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'אפשרויות';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'דוא"ל';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'תווית שרת';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'שרתי ה-VPS.NET הראשיים';
+$lang['Vpsdotnet.add_module_group'] = 'הוסף קבוצת שרתים';
+$lang['Vpsdotnet.add_module_row'] = 'הוסף שרת';
+$lang['Vpsdotnet.please_wait'] = 'אנא המתן...';
+$lang['Vpsdotnet.order_options.first'] = 'השרת הראשון שאינו מלא';
+$lang['Vpsdotnet.module_group'] = 'קבוצת VPS.NET Master';
+$lang['Vpsdotnet.module_row_plural'] = 'שרתים';
+$lang['Vpsdotnet.module_row'] = 'שרת הראשי של VPS.NET';
+$lang['Vpsdotnet.description'] = 'VPS.NET מספקת שירותי אחסון שרתים וירטואליים.';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'אנא בחר תבנית תקפה.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'אנא בחר מערכת הפעלה תקינה.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'אנא בחר ענן תקין.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'התווית אינה רשאית להכיל תווים מיוחדים.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'אנא הזן תווית.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'נראה כי שם המארח אינו חוקי.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'אנא בחר תבנית תקפה.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'אנא בחר אם לאפשר ללקוח להגדיר את התבנית.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'אנא בחר מערכת הפעלה תקינה.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'אנא בחר אם לאפשר ללקוח להגדיר את מערכת ההפעלה.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'אנא בחר ענן תקין.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'אנא בחר אם לאפשר ללקוח להגדיר ענן.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'אנא הזן את מספר הצמתים שיש להקצות.';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'עליך לאשר כי אתה מבין את משמעות פעולת ההתקנה מחדש על מנת לבצע את התקנת התבנית מחדש.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'אנא בחר תבנית תקפה.';
+$lang['Vpsdotnet.back_to_manage'] = 'חזרה';
+$lang['Vpsdotnet.manage.tab_rows'] = 'שרתים';
+$lang['Vpsdotnet.manage.tab_groups'] = 'קבוצות שרתים';
+

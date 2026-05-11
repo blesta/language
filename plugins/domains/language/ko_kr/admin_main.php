@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -75,7 +75,7 @@ $lang['AdminMain.add.edit_package_pricing'] = '가격 편집';
 $lang['AdminMain.add.order_btn'] = '선택한 주문';
 $lang['AdminMain.add.text_domain_unavailable'] = '사용 불가';
 $lang['AdminMain.add.text_domain_available'] = '사용 가능';
-$lang['AdminMain.add.heading_options'] = '옵션';
+$lang['AdminMain.add.heading_options'] = '작업';
 $lang['AdminMain.add.heading_status'] = '상태';
 $lang['AdminMain.add.heading_domain'] = '도메인';
 $lang['AdminMain.add.title_registrar_options'] = '등록기관 옵션';
@@ -96,7 +96,7 @@ $lang['AdminMain.add.field_add'] = '도메인 추가';
 $lang['AdminMain.add.field_register'] = '등록하기';
 $lang['AdminMain.add.field_transfer'] = '전송';
 $lang['AdminMain.add.link_viewclient'] = '클라이언트 보기';
-$lang['AdminMain.add.boxtitle_add'] = '도메인 추가: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = '도메인 추가 %1$s';
 $lang['AdminMain.add.boxtitle_client'] = '클라이언트 #%1$s';
 $lang['AdminMain.index.unparent'] = '부모 해제 및 가격 초기화';
 $lang['AdminMain.!error.unsupported_domain'] = '도메인 이름이 지원되지 않습니다.';
@@ -129,7 +129,7 @@ $lang['AdminMain.index.category_canceled'] = '취소됨';
 $lang['AdminMain.index.category_suspended'] = '일시 중단됨';
 $lang['AdminMain.index.category_pending'] = '보류 중';
 $lang['AdminMain.index.category_active'] = '활성';
-$lang['AdminMain.index.heading_options'] = '옵션';
+$lang['AdminMain.index.heading_options'] = '작업';
 $lang['AdminMain.index.heading_datecanceled'] = '날짜 취소됨';
 $lang['AdminMain.index.heading_datesuspended'] = '일시 중단된 날짜';
 $lang['AdminMain.index.heading_dateexpires'] = '날짜 만료';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = '새로 고침';
 $lang['AdminMain.index.tooltip_transferred'] = '도메인이 등록기관에서 이전되었습니다.';
 $lang['AdminMain.!success.remove_price_override'] = '도메인 재정의 가격이 제거되었습니다!';
 $lang['AdminMain.!success.set_price_override'] = '도메인 재정의 가격이 업데이트되었습니다!';
+$lang['AdminMain.add.heading_search'] = '도메인 조회';
+$lang['AdminMain.add.field_domain'] = '도메인';
+$lang['AdminMain.add.label_spotlight_tlds'] = '스포트라이트 TLD';
+$lang['AdminMain.add.link_more_tlds'] = '더 많은 TLD';
+$lang['AdminMain.add.button_cancel'] = '취소';
+$lang['AdminMain.add.button_previous'] = '이전 게시물';
+$lang['AdminMain.add.button_continue'] = '계속하기';
+$lang['AdminMain.add_confirmation.total'] = '합계:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = '라인 항목';
+$lang['AdminMain.add_confirmation.heading_coupon'] = '쿠폰 코드';
+$lang['AdminMain.add_confirmation.heading_total'] = '주문 합계';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = '쿠폰 코드 입력';
+$lang['AdminMain.edit.text_select_action'] = '위의 버튼을 클릭하면 작업을 수행할 수 있는 양식이 표시됩니다.';
+$lang['AdminMain.edit.text_no_fields'] = '이 작업에는 추가 옵션이 필요하지 않습니다. 계속하려면 제출을 클릭합니다.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -340,4 +340,5 @@ $lang['RealtimeRegister.description'] = '150\'den fazla sicilden 2.000\'den fazl
 $lang['RealtimeRegister.name'] = 'Realtime Register';
 $lang['RealtimeRegister.tab_client_settings.field_status'] = 'Etki Alanı Durumu';
 $lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Bu etki alanını yönetme izniniz yok.';
+$lang['RealtimeRegister.back_to_manage'] = 'Geri';
 

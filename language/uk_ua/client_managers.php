@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Наразі ви не керує
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Ви впевнені, що хочете відмовитися від доступу до цього облікового запису?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Відмовтеся від доступу';
 $lang['ClientManagers.accounts.option_manage'] = 'Керувати';
-$lang['ClientManagers.accounts.heading_options'] = 'Параметри';
+$lang['ClientManagers.accounts.heading_options'] = 'Дії';
 $lang['ClientManagers.accounts.heading_company'] = 'Компанія';
 $lang['ClientManagers.accounts.heading_name'] = 'Повне ім\'я';
 $lang['ClientManagers.accounts.heading_email'] = 'Електронна пошта';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Відкликати';
 $lang['ClientManagers.index.option_edit'] = 'Редагувати';
 $lang['ClientManagers.index.text_status_pending'] = 'На розгляді';
 $lang['ClientManagers.index.text_status_accepted'] = 'Прийнято';
-$lang['ClientManagers.index.heading_options'] = 'Параметри';
+$lang['ClientManagers.index.heading_options'] = 'Дії';
 $lang['ClientManagers.index.heading_status'] = 'Статус';
 $lang['ClientManagers.index.heading_company'] = 'Компанія';
 $lang['ClientManagers.index.heading_name'] = 'Повне ім\'я';

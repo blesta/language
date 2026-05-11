@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'لا يوجد حالياً أي موظف
 $lang['AdminStaff.index.confirm_delete'] = 'سيؤدي حذف هذا الموظف إلى إلغاء تعيين جميع التذاكر المعينة حالياً لهذا الموظف. هل أنت متأكد من رغبتك في حذف هذا الموظف؟';
 $lang['AdminStaff.index.option_delete'] = 'حذف';
 $lang['AdminStaff.index.option_edit'] = 'تحرير';
-$lang['AdminStaff.index.heading_options'] = 'الخيارات';
+$lang['AdminStaff.index.heading_options'] = 'الإجراءات';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'استلام إشعارات تذكرة رسول التذاكر';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'تلقي رسائل البريد الإلكتروني للتذاكر عبر الهاتف المحمول';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'تلقي رسائل البريد الإلكتروني الخاصة بالتذاكر';

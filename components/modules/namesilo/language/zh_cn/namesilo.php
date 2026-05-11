@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = '价值';
 $lang['Namesilo.dnsrecord.host'] = '主持人';
 $lang['Namesilo.dnsrecord.record_type'] = '类型';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = '在此页面，您可以添加或删除 A、AAAA、CNAME、MX 和 TXT DNS 记录。请注意，DNS 记录的传播可能需要几分钟时间。';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = '在此页面，您可以添加或删除 A、AAAA、CNAME、MX 和 TXT DNS 记录。请注意，DNS 记录的传播可能需要几分钟时间。 <br/> 要将这些更改反映到您的域名上，您必须将名称服务器设置为：<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = '添加记录';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = '删除记录';
 $lang['Namesilo.tab_dnsrecord.title_add'] = '添加 DNS 记录';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = '从 namesilo 拉入联系�
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = '拉动 Namesilo 联系人';
 $lang['Namesilo.notice.default_nameservers'] = '此功能要求域使用以下名称服务器：ns1.dnsowl.com、ns2.dnsowl.com 和 ns3.dnsowl.com。';
 $lang['Namesilo.!error.domain_unavailable'] = '该域名不可注册。';
+$lang['Namesilo.back_to_manage'] = '返回';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = '行动';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = '一个或多个字段包含特殊字符（如重音符号字母）。NameSilo可能不支持联系人字段中的这些字符。';
+$lang['Namesilo.tab_domain_forwarding.title'] = '域名转发';
+$lang['Namesilo.tab_domain_forwarding.desc'] = '<br/> 要在您的域名上反映这些更改，您必须将名称服务器设置为：<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = '域名';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = '转发至';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = '转发方法';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = '永久前进 (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = '临时前移 (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = '隐身';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = '活跃';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = '删除';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = '更新转发器';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = '转发 URL 无效。请确保使用 HTTPS 或 HTTP。';
 

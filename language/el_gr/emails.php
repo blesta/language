@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Αυτή η υπογραφή
 $lang['Emails.!error.text.parse'] = 'Σφάλμα ανάλυσης προτύπου: %1$s';
 $lang['Emails.!error.html.parse'] = 'Σφάλμα ανάλυσης προτύπου: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Το στιγμιότυπο δεν ανήκει στο καθορισμένο email.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Μη έγκυρο αναγνωριστικό στιγμιότυπου.';
 

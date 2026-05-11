@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Платіж не може бут�
 $lang['Checkout.!error.not_client_owner'] = 'Щоб продовжити, ви повинні увійти в систему як власник клієнта.';
 $lang['Checkout.!error.no_payment_info'] = 'Щоб продовжити, ви повинні вибрати спосіб оплати.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Ви повинні підтвердити свою згоду з умовами та положеннями.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Ви повинні дати згоду на повторне виставлення рахунків для продовження.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Я дозволяю %1$s зберігати мій спосіб оплати і стягувати плату з %2$s, починаючи з сьогоднішнього дня, доки я не скасую замовлення. Я можу скасувати в будь-який час онлайн через свій обліковий запис.';
+$lang['Checkout.index.recurring_every'] = 'кожен %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'кожен %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'і';
 

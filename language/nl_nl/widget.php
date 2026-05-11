@@ -4,11 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['Widget.toggle_filters'] = 'Filters schakelen';
-$lang['Widget.submit'] = 'Stuur  in';
+$lang['Widget.submit'] = 'Filters toepassen';
+$lang['Widget.clear'] = 'Duidelijk';
+$lang['Widget.resize_widget'] = 'Widget vergroten of verkleinen';
 

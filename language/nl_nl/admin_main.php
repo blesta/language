@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Sleep widgets van rechts naar links om ze toe te voegen aan je dashboard of van links naar rechts om ze te verwijderen.';
 $lang['AdminMain.index.customize_dashboard'] = 'Dashboard aanpassen';
 $lang['AdminMain.index.manage_widgets'] = 'Widgets beheren';
-$lang['AdminMain.index.no_quicklinks'] = 'Er zijn geen snelkoppelingen ingesteld.';
+$lang['AdminMain.index.no_quicklinks'] = 'Er zijn nog geen snelkoppelingen. Klik op het sterpictogram op een pagina om deze hier toe te voegen.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Snelle links';
 $lang['AdminMain.index.page_title'] = 'Dashboard';
 $lang['AdminMain.!success.event_deleted'] = 'De gebeurtenis is succesvol verwijderd!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Het evenement is succesvol bijgewerk
 $lang['AdminMain.!success.event_added'] = 'Het evenement is succesvol toegevoegd!';
 $lang['AdminMain.!error.event_editable'] = 'Alleen de maker van de gebeurtenis kan die gebeurtenis verwijderen.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Alleen de maker van de gebeurtenis kan deze gebeurtenis verwijderen.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Dashboard-widgets beheren';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Sluit';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Snelkoppeling verwijderen';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Weet je zeker dat je "%1$s" uit Snelle links wilt verwijderen?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Verwijder';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuleren';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klik op widgets om ze te tonen of te verbergen op je dashboard.';
+$lang['AdminMain.calendar.category_list'] = 'Lijst';
+$lang['AdminMain.calendar.category_today'] = 'Vandaag';
 

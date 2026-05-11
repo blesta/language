@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -34,7 +34,7 @@ $lang['AdminMain.index.category_canceled'] = 'Geannuleerd';
 $lang['AdminMain.index.category_suspended'] = 'Geschorst';
 $lang['AdminMain.index.category_pending'] = 'In afwachting van';
 $lang['AdminMain.index.category_active'] = 'Actief';
-$lang['AdminMain.index.heading_options'] = 'Opties';
+$lang['AdminMain.index.heading_options'] = 'Acties';
 $lang['AdminMain.index.heading_datecanceled'] = 'Datum Geannuleerd';
 $lang['AdminMain.index.heading_datesuspended'] = 'Datum geschorst';
 $lang['AdminMain.index.heading_dateexpires'] = 'Datum verloopt';
@@ -129,7 +129,7 @@ $lang['AdminMain.add.term_days'] = '%1$s Dagen';
 $lang['AdminMain.add.term_day'] = '%1$s Dag';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Niet beschikbaar';
 $lang['AdminMain.add.text_domain_available'] = 'Beschikbaar';
-$lang['AdminMain.add.heading_options'] = 'Opties';
+$lang['AdminMain.add.heading_options'] = 'Acties';
 $lang['AdminMain.add.heading_status'] = 'Status';
 $lang['AdminMain.add.heading_domain'] = 'Domein';
 $lang['AdminMain.add.title_registrar_options'] = 'Opties voor registratiehouder';
@@ -150,7 +150,7 @@ $lang['AdminMain.add.field_add'] = 'Domein toevoegen';
 $lang['AdminMain.add.field_register'] = 'Registreer';
 $lang['AdminMain.add.field_transfer'] = 'Overdracht';
 $lang['AdminMain.add.link_viewclient'] = 'Bekijk klant';
-$lang['AdminMain.add.boxtitle_add'] = 'Domein toevoegen: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Domein toevoegen %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Klant #%1$s';
 $lang['AdminMain.index.unparent'] = 'Prijs loskoppelen en opnieuw instellen';
 $lang['AdminMain.!error.unsupported_domain'] = 'De domeinnaam wordt niet ondersteund.';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Vernieuw';
 $lang['AdminMain.index.tooltip_transferred'] = 'Het domein is verhuisd van de registrar.';
 $lang['AdminMain.!success.remove_price_override'] = 'De domein opheffingsprijs is verwijderd!';
 $lang['AdminMain.!success.set_price_override'] = 'De domein opheffingsprijs is bijgewerkt!';
+$lang['AdminMain.add.heading_search'] = 'Domein opzoeken';
+$lang['AdminMain.add.field_domain'] = 'Domein';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Spotlight TLD\'s';
+$lang['AdminMain.add.link_more_tlds'] = 'Meer TLD\'s';
+$lang['AdminMain.add.button_cancel'] = 'Annuleren';
+$lang['AdminMain.add.button_previous'] = 'Vorige';
+$lang['AdminMain.add.button_continue'] = 'Ga verder';
+$lang['AdminMain.add_confirmation.total'] = 'Totaal:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Artikelen';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'kortingscode';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Bestelling Totaal';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Couponcode invoeren';
+$lang['AdminMain.edit.text_select_action'] = 'Klik op een knop hierboven om het formulier weer te geven om een actie uit te voeren.';
+$lang['AdminMain.edit.text_no_fields'] = 'Voor deze actie zijn geen extra opties nodig. Klik op Submit om verder te gaan.';
 

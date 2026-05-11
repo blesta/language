@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminMerchant.features.confirm'] = 'Następny - Potwierdzenie';
 $lang['AdminMerchant.features.heading_supported_features'] = 'Obsługiwane funkcje';
 $lang['AdminMerchant.fields.features'] = 'Dalej - Obsługiwane funkcje';
 $lang['AdminMerchant.fields.text_remove'] = 'Usunąć';
-$lang['AdminMerchant.fields.text_options'] = 'Opcje';
+$lang['AdminMerchant.fields.text_options'] = 'Działania';
 $lang['AdminMerchant.fields.field_row_add'] = 'Dodaj pole konfiguracji';
 $lang['AdminMerchant.fields.placeholder_label'] = 'np. Pole konfiguracji';
 $lang['AdminMerchant.fields.placeholder_name'] = 'np. configuration_field';
@@ -40,7 +40,7 @@ $lang['AdminMerchant.basic.tooltip_logo'] = 'Logo wyświetlane na liście wtycze
 $lang['AdminMerchant.basic.tooltip_description'] = 'Opis wyświetlany na liście wtyczek';
 $lang['AdminMerchant.basic.text_remove'] = 'Usunąć';
 $lang['AdminMerchant.basic.author_row_add'] = 'Dodaj autora';
-$lang['AdminMerchant.basic.text_options'] = 'Opcje';
+$lang['AdminMerchant.basic.text_options'] = 'Działania';
 $lang['AdminMerchant.basic.author_url'] = 'Autor URL';
 $lang['AdminMerchant.basic.author_name'] = 'Nazwa autora';
 $lang['AdminMerchant.basic.currencies'] = 'Waluty';

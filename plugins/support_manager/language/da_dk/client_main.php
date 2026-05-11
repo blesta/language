@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.heading_department_name'] = 'Afdeling';
 $lang['ClientMain.index.heading_summary'] = 'Resumé';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Sidste svar';
 $lang['ClientMain.index.heading_status'] = 'Status';
-$lang['ClientMain.index.heading_options'] = 'Valgmuligheder';
+$lang['ClientMain.index.heading_options'] = 'Handlinger';
 $lang['ClientMain.index.option_close'] = 'Luk';
 $lang['ClientMain.index.option_reply'] = 'Svar';
 $lang['ClientMain.index.any'] = 'Enhver';

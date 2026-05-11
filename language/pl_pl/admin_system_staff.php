@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'Powiad
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'Powiadomienia BCC wysyłane pocztą elektroniczną';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Lista kontroli dostępu';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Ogólne';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Edytuj grupę';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Grupa aktualizacji';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'Wylogowanie przy zmianie adresu IP';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Firma';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'Nazwa';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Czy na pewno chcesz usunąć tę grupę pracowników?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Edytuj';
 $lang['AdminSystemStaff.groups.no_results'] = 'Nie ma grup pracowników.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Opcje';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Działania';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Liczba pracowników';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Nazwa firmy';
 $lang['AdminSystemStaff.groups.heading_name'] = 'Nazwa';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Utwórz grupę';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Grupy pracowników';
 $lang['AdminSystemStaff.groups.page_title'] = 'Ustawienia > System > Personel > Grupy personelu';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Edycja personelu';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Aktualizacja personelu';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Dostępne grupy';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Grupy członkowskie';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'Dwuczynnikowy pin';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Edytuj';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Naprawdę reaktywować tego pracownika?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Naprawdę dezaktywujesz tego pracownika?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Nie ma pracowników o tym statusie.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Opcje';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Działania';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-mail';
 $lang['AdminSystemStaff.manage.heading_name'] = 'Nazwa';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Dodaj personel';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'Grupa pracowników "%1$s" zo
 $lang['AdminSystemStaff.!success.group_added'] = 'Grupa pracowników "%1$s" została pomyślnie utworzona!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Ten pracownik został pomyślnie zaktualizowany!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Ten pracownik został pomyślnie dodany!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Powiadomienia';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Powiadomienia';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -35,7 +35,7 @@ $lang['AdminMain.index.heading_type'] = 'Τύπος';
 $lang['AdminMain.index.heading_form_type'] = 'Τύπος φόρμας';
 $lang['AdminMain.index.heading_code_examples'] = 'Παραδείγματα κώδικα';
 $lang['AdminMain.index.heading_date_updated'] = 'Ημερομηνία ενημέρωσης';
-$lang['AdminMain.index.heading_options'] = 'Επιλογές';
+$lang['AdminMain.index.heading_options'] = 'Δράσεις';
 $lang['AdminMain.index.option_edit'] = 'Επεξεργασία';
 $lang['AdminMain.index.option_delete'] = 'Διαγραφή';
 $lang['AdminMain.index.text_confirm_delete'] = 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την επέκταση;';

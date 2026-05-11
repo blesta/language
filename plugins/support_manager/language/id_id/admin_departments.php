@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Menghapus';
 $lang['AdminDepartments.edit.heading_default'] = 'Default';
 $lang['AdminDepartments.edit.heading_value'] = 'Nilai';
 $lang['AdminDepartments.edit.heading_name'] = 'Nama';
-$lang['AdminDepartments.edit.heading_options'] = 'Pilihan';
+$lang['AdminDepartments.edit.heading_options'] = 'Tindakan';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Hapus Otomatis';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Terenkripsi';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Klien dapat Menambahkan';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Menghapus';
 $lang['AdminDepartments.add.heading_default'] = 'Default';
 $lang['AdminDepartments.add.heading_value'] = 'Nilai';
 $lang['AdminDepartments.add.heading_name'] = 'Nama';
-$lang['AdminDepartments.add.heading_options'] = 'Pilihan';
+$lang['AdminDepartments.add.heading_options'] = 'Tindakan';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Hapus Otomatis';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Terenkripsi';
 $lang['AdminDepartments.add.heading_client_add'] = 'Klien dapat Menambahkan';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Tidak ada departemen.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Departemen dengan tiket yang ditugaskan padanya tidak dapat dihapus hingga semua tiket telah ditugaskan kembali ke departemen lain. Apakah Anda yakin ingin menghapus departemen ini?';
 $lang['AdminDepartments.index.option_delete'] = 'Menghapus';
 $lang['AdminDepartments.index.option_edit'] = 'Sunting';
-$lang['AdminDepartments.index.heading_options'] = 'Pilihan';
+$lang['AdminDepartments.index.heading_options'] = 'Tindakan';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Prioritas Default';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Staf yang Ditugaskan';
 $lang['AdminDepartments.index.heading_email'] = 'Email';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 ID Klien / Apl
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Pengguna OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Penyedia OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Untuk semua tiket dengan status ditutup, pengingat untuk meninggalkan umpan balik akan dikirimkan ke klien jika tiket telah ditutup untuk jangka waktu yang dipilih.';
+$lang['AdminDepartments.!text.description_hint'] = 'Deskripsi ini akan terlihat oleh klien saat memilih departemen';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Tahan Ctrl (Windows) atau Cmd (Mac) untuk memilih beberapa prioritas';
+$lang['AdminDepartments.!text.search_responses'] = 'Tanggapan pencarian...';
+$lang['AdminDepartments.!text.searching'] = 'Mencari...';
+$lang['AdminDepartments.add.heading_actions'] = 'Tindakan';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Apakah Anda yakin ingin menghapus bidang khusus ini?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Tindakan';
 

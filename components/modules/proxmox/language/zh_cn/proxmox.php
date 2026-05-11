@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = '下一个 VMID（如无必要，请勿更改�
 $lang['Proxmox.row_meta.port'] = 'SSL 端口号';
 $lang['Proxmox.row_meta.host'] = '主机名';
 $lang['Proxmox.row_meta.password'] = '密码';
-$lang['Proxmox.row_meta.user'] = '用户';
+$lang['Proxmox.row_meta.user'] = '用户（在用户名后面加上 @pam 或 @pve）';
 $lang['Proxmox.row_meta.server_name'] = '服务器标签';
 $lang['Proxmox.order_options.first'] = '第一个非满员服务器';
 $lang['Proxmox.manage.module_groups_no_results'] = '没有服务器组。';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Proxmox 主服务器';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment 是一个开源服务器虚拟化环境。它是一个基于 Debian 的 Linux 发行版，内核是经过修改的 Ubuntu LTS，允许部署和管理虚拟机和容器。';
 $lang['Proxmox.!actions.boot'] = '靴子';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s天，%2$s小时，%1$s分钟';
+$lang['Proxmox.!uptime.value'] = '%1$s 天，%2$s 小时，%3$s 分钟';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- 请选择';
 $lang['Proxmox.!error.module_row.missing'] = '发生内部错误。模块行不可用。';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = '卸载 ISO';
 $lang['Proxmox.!actions.mount_iso'] = '安装 ISO';
 $lang['Proxmox.!actions.shutdown'] = '关闭';
 $lang['Proxmox.name'] = 'Proxmox';
+$lang['Proxmox.back_to_manage'] = '返回';
+$lang['Proxmox.manage.tab_rows'] = '服务器';
+$lang['Proxmox.manage.tab_groups'] = '服务器组';
+$lang['Proxmox.tab_isomanager'] = 'ISO 管理员';
+$lang['Proxmox.tab_lxcreinstall'] = '重新安装';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = '重新安装';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = '根密码';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = '模板';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = '重新安装';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO 管理员';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = '图片';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = '安装';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = '卸载 ISO';
 

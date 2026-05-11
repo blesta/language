@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -125,4 +125,5 @@ $lang['CWatch.edit_row.field_password'] = 'Palavra-passe';
 $lang['CWatch.edit_row.field_username'] = 'Nome de utilizador';
 $lang['CWatch.edit_row.basic_title'] = 'Definições do utilizador';
 $lang['CWatch.edit_row.box_title'] = 'Editar conta API';
+$lang['Cwatch.back_to_manage'] = 'Voltar';
 

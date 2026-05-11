@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'Vă rugăm să selecta�
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'Vă rugăm să setați cantitatea maximă de memorie ca număr întreg în MB.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'Vă rugăm să setați numărul maxim de sloturi pentru jucători.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'Vă rugăm să setați un nume pentru server.';
+$lang['Multicraft.back_to_manage'] = 'Înapoi';
 

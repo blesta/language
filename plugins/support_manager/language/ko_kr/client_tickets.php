@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -53,7 +53,7 @@ $lang['ClientTickets.index.hour'] = '1시간';
 $lang['ClientTickets.index.any'] = '모든';
 $lang['ClientTickets.index.option_reply'] = '답글';
 $lang['ClientTickets.index.option_close'] = '닫기';
-$lang['ClientTickets.index.heading_options'] = '옵션';
+$lang['ClientTickets.index.heading_options'] = '작업';
 $lang['ClientTickets.index.heading_status'] = '상태';
 $lang['ClientTickets.index.heading_last_reply_date'] = '마지막 댓글';
 $lang['ClientTickets.index.heading_summary'] = '요약';

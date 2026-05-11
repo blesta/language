@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -148,4 +148,7 @@ $lang['Plesk.tab_client_login.field_plesk_password'] = 'Heslo';
 $lang['Plesk.tab_client_login.field_plesk_username'] = 'Uživatelské jméno';
 $lang['Plesk.tab_client_login.logintoplesk'] = 'Přihlášení do systému Plesk';
 $lang['Plesk.tab_client_login'] = 'Přihlášení do systému Plesk';
+$lang['Plesk.back_to_manage'] = 'Zpět';
+$lang['Plesk.manage.tab_rows'] = 'Servery';
+$lang['Plesk.manage.tab_groups'] = 'Skupiny serverů';
 

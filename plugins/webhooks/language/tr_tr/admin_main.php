@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.edit.field_type'] = 'Geri arama';
 $lang['AdminMain.edit.field_event'] = 'Etkinlik';
 $lang['AdminMain.edit.field_callback'] = 'Geri arama';
 $lang['AdminMain.edit.option_delete'] = 'Silme';
-$lang['AdminMain.edit.heading_options'] = 'Seçenekler';
+$lang['AdminMain.edit.heading_options'] = 'Eylemler';
 $lang['AdminMain.edit.heading_parameter'] = 'Yeni Saha';
 $lang['AdminMain.edit.heading_field'] = 'Orijinal Saha';
 $lang['AdminMain.edit.heading_fields_map'] = 'Alanlar Haritası';
@@ -32,7 +32,7 @@ $lang['AdminMain.add.field_type'] = 'Geri arama';
 $lang['AdminMain.add.field_event'] = 'Etkinlik';
 $lang['AdminMain.add.field_callback'] = 'Geri arama';
 $lang['AdminMain.add.option_delete'] = 'Silme';
-$lang['AdminMain.add.heading_options'] = 'Seçenekler';
+$lang['AdminMain.add.heading_options'] = 'Eylemler';
 $lang['AdminMain.add.heading_parameter'] = 'Yeni Saha';
 $lang['AdminMain.add.heading_field'] = 'Orijinal Saha';
 $lang['AdminMain.add.heading_fields_map'] = 'Alanlar Haritası';
@@ -43,7 +43,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Bir HTTP isteği alır ve 
 $lang['AdminMain.index.text_description_outgoing'] = 'Bir olay tetiklendiğinde bir URL\'ye HTTP isteği gönderir. İstek GET, POST, PUT veya JSON kullanılarak gönderilebilir.';
 $lang['AdminMain.index.option_delete'] = 'Silme';
 $lang['AdminMain.index.option_edit'] = 'Düzenle';
-$lang['AdminMain.index.heading_options'] = 'Seçenekler';
+$lang['AdminMain.index.heading_options'] = 'Eylemler';
 $lang['AdminMain.index.heading_method'] = 'Yöntem';
 $lang['AdminMain.index.heading_event'] = 'Etkinlik';
 $lang['AdminMain.index.heading_callback'] = 'Geri arama';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'HTTP Durumu';
 $lang['AdminMain.logs.field_filterevent'] = 'Etkinlik';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Tüm Web Kancaları';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Seçenekler';
+$lang['AdminMain.logs.heading_options'] = 'Eylemler';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Son Yeniden Deneme';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Tarih Tetiklendi';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP Yanıtı';

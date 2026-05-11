@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -34,7 +34,7 @@ $lang['AdminTools.utilities.page_title'] = 'Værktøjer Utilities';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Hjælpeprogrammer';
 $lang['AdminTools.utilities.heading_utility'] = 'Forsyning';
 $lang['AdminTools.utilities.heading_description'] = 'Beskrivelse';
-$lang['AdminTools.utilities.heading_options'] = 'Valgmuligheder';
+$lang['AdminTools.utilities.heading_options'] = 'Handlinger';
 $lang['AdminTools.utilities.update_collation'] = 'Opdater database-sortering';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Opdatering til utf8mb4';
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Opdater tegnsættet og sorteringen af din database, tabeller og kolonner til utf8mb4 for at understøtte 4 byte-tegn som emojis.  Det kan tage flere minutter.';
@@ -50,7 +50,7 @@ $lang['AdminTools.renewals.heading_service_id'] = 'Service-ID';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Mislykkede forsøg';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maksimale forsøg';
 $lang['AdminTools.renewals.heading_invoice'] = 'Faktura';
-$lang['AdminTools.renewals.heading_options'] = 'Valgmuligheder';
+$lang['AdminTools.renewals.heading_options'] = 'Handlinger';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Er du sikker på, at du vil fjerne denne service fra fornyelseskøen?';
 $lang['AdminTools.renewals.option_view'] = 'Se fakturaen';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
@@ -188,7 +188,7 @@ $lang['AdminTools.blacklist.heading_rule'] = 'Regel';
 $lang['AdminTools.blacklist.heading_type'] = 'Type';
 $lang['AdminTools.blacklist.heading_list'] = 'Liste';
 $lang['AdminTools.blacklist.heading_note'] = 'Bemærk';
-$lang['AdminTools.blacklist.heading_options'] = 'Valgmuligheder';
+$lang['AdminTools.blacklist.heading_options'] = 'Handlinger';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP-adresse';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-mail-adresse';
 $lang['AdminTools.blacklist.text_system'] = 'System';
@@ -199,7 +199,7 @@ $lang['AdminTools.blacklistadd.boxtitle_addrule'] = 'Tilføj regel';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regel';
 $lang['AdminTools.blacklistadd.field_type'] = 'Type';
 $lang['AdminTools.blacklistadd.field_note'] = 'Bemærk';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Tilføj regel';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Opret regel';
 $lang['AdminTools.logservicechanges.text_type'] = 'Type';
 $lang['AdminTools.logservicechanges.text_gateway'] = 'Gateway';
 $lang['AdminTools.logservicechanges.text_transaction_id'] = 'Transaktions-ID';
@@ -250,7 +250,7 @@ $lang['AdminTools.renewals.no_results_provision'] = 'Der er i øjeblikket ingen 
 $lang['AdminTools.!notice.conditions_met'] = 'Elementer vises kun i den udpegede kø, når alle betingelser er opfyldt, og de er klar til at blive forsøgt.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Serviceændringerne er blevet annulleret med succes.';
 $lang['AdminTools.renewals.modal_retry'] = 'Er du sikker på, at du vil prøve denne fejlbehæftede serviceændring igen?';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bloker udgående';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Bloker udgående e-mails til denne adresse';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Bloker udgående';
 $lang['AdminTools.renewals.no_results_changes'] = 'Der er i øjeblikket ingen serviceændringer i kø til klargøring.';
 $lang['AdminTools.renewals.option_retry'] = 'Prøv igen';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Status';
 $lang['AdminTools.renewals.category_changes'] = 'Ændringer i service';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Ubetalt fornyelse';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Serviceændringerne er blevet planlagt med succes.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Tjekkede %1$s filer: %2$s OK, %3$s ændret, %4$s mangler.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Manifestfilen (manifest.json) blev ikke fundet. Denne fil er inkluderet i officielle udgivelser og er nødvendig for at udføre en integritetskontrol.';
+$lang['AdminTools.integritycheck.text_error'] = 'Der opstod en fejl under kontrol af filer.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Alle filer matcher manifestet. Ingen ændringer eller manglende filer fundet.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Filer i alt';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Leverandør';
+$lang['AdminTools.integritycheck.category_core'] = 'Kerne';
+$lang['AdminTools.integritycheck.status_missing'] = 'Mangler';
+$lang['AdminTools.integritycheck.status_modified'] = 'Modificeret';
+$lang['AdminTools.integritycheck.heading_category'] = 'Kategori';
+$lang['AdminTools.integritycheck.heading_file'] = 'Fil';
+$lang['AdminTools.integritycheck.heading_status'] = 'Status';
+$lang['AdminTools.integritycheck.text_checking'] = 'Tjekker filer, vent venligst. Det kan tage et øjeblik...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Løb igen';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Download rapport';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Kør integritetstjek';
+$lang['AdminTools.integritycheck.text_description'] = 'Kontrollér installerede filer i forhold til det manifest, der følger med denne udgivelse. Dette kontrollerer filintegriteten ved at sammenligne SHA256-hashes og kan hjælpe med at identificere filer, der er blevet ændret, hvilket er nyttigt til fejlfinding og før opgraderinger.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Kontrol af systemintegritet';
+$lang['AdminTools.integritycheck.page_title'] = 'Kontrol af systemintegritet';
+$lang['AdminTools.!success.cache_cleared'] = 'Filcachen er blevet tømt med succes.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Kør kontrol';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Kontrollér kernefiler i forhold til det leverede manifest for at identificere ændrede eller manglende filer.';
+$lang['AdminTools.utilities.integrity_check'] = 'Kontrol af systemintegritet';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Ryd cachelagrede filer, herunder navigations-, visnings- og plugin-cacher. Dette kan medføre lidt langsommere sideindlæsninger, indtil cacherne er genopbygget.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Ryd cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Ryd fil-cache';
+$lang['AdminTools.getlognames.text_system'] = 'System';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifestversion: %1$s (genereret %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Der er i øjeblikket ingen tjenester, der står i kø til fornyelse efter betaling.';
+$lang['AdminTools.logsystem.page_title'] = 'Værktøjer Logs';
+$lang['AdminTools.logsystem.text_date'] = 'Dato';
+$lang['AdminTools.logsystem.text_level'] = 'Niveau';
+$lang['AdminTools.logsystem.text_message'] = 'Besked';
+$lang['AdminTools.logsystem.no_results'] = 'Der er ingen systemlogposter.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Log-biblioteket er ikke konfigureret eller kan ikke læses. Konfigurer det under Indstillinger &gt; System &gt; Generelt.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Nødsituation';
+$lang['AdminTools.logsystem.level_alert'] = 'Advarsel';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritisk';
+$lang['AdminTools.logsystem.level_error'] = 'Fejl';
+$lang['AdminTools.logsystem.level_warning'] = 'Advarsel';
+$lang['AdminTools.logsystem.level_notice'] = 'Opsigelse';
+$lang['AdminTools.logsystem.level_info'] = 'Info';
+$lang['AdminTools.logsystem.level_debug'] = 'Fejlfinding';
 

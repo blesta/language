@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminSearch.clients.no_results'] = 'No hay clientes que coincidan con los
 $lang['AdminSearch.invoices.heading'] = 'Facturas';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Factura #';
 $lang['AdminSearch.invoice.heading_client_id'] = 'ID de cliente';
-$lang['AdminSearch.invoice.heading_amount'] = 'Opciones';
+$lang['AdminSearch.invoice.heading_amount'] = 'Importe';
 $lang['AdminSearch.invoice.heading_paid'] = 'Pagado';
 $lang['AdminSearch.invoice.heading_due'] = 'Debido';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Fecha de cierre';
@@ -48,7 +48,7 @@ $lang['AdminSearch.transactions.heading_applied'] = 'Aplicada';
 $lang['AdminSearch.transactions.heading_number'] = 'Número';
 $lang['AdminSearch.transactions.heading_status'] = 'Estado';
 $lang['AdminSearch.transactions.heading_date'] = 'Fecha';
-$lang['AdminSearch.transactions.heading_options'] = 'Opciones';
+$lang['AdminSearch.transactions.heading_options'] = 'Acciones';
 $lang['AdminSearch.transactions.option_edit'] = 'Editar';
 $lang['AdminSearch.transactions.no_results'] = 'No hay transacciones que coincidan con los criterios de búsqueda.';
 $lang['AdminSearch.packages.heading'] = 'Paquetes';
@@ -68,4 +68,5 @@ $lang['AdminSearch.services.heading_date_renews'] = 'Fecha Renueva';
 $lang['AdminSearch.services.heading_status'] = 'Estado';
 $lang['AdminSearch.services.text_never'] = 'Nunca';
 $lang['AdminSearch.services.no_results'] = 'No hay servicios que coincidan con los criterios de búsqueda.';
+$lang['AdminSearch.invoice.heading_options'] = 'Acciones';
 

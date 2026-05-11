@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,6 @@ $lang['AdminDialog.password.field_modal_password_copied'] = 'Ik heb dit wachtwoo
 $lang['AdminDialog.password.field_modal_password'] = 'Wachtwoord';
 $lang['AdminDialog.confirm.text_no'] = 'Geen';
 $lang['AdminDialog.confirm.text_yes'] = 'Ja';
+$lang['AdminDialog.password.title'] = 'Wachtwoord genereren';
+$lang['AdminDialog.password.text_click_generate'] = 'Klik op Genereren om een veilig wachtwoord aan te maken.';
 

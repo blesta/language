@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminMain.edit.field_type'] = 'Обратно повикване';
 $lang['AdminMain.edit.field_event'] = 'Събитие';
 $lang['AdminMain.edit.field_callback'] = 'Обратно повикване';
 $lang['AdminMain.edit.option_delete'] = 'Изтриване на';
-$lang['AdminMain.edit.heading_options'] = 'Опции';
+$lang['AdminMain.edit.heading_options'] = 'Действия';
 $lang['AdminMain.edit.heading_parameter'] = 'Ново поле';
 $lang['AdminMain.edit.heading_field'] = 'Оригинално поле';
 $lang['AdminMain.edit.heading_fields_map'] = 'Карта на полетата';
@@ -33,7 +33,7 @@ $lang['AdminMain.add.field_type'] = 'Обратно повикване';
 $lang['AdminMain.add.field_event'] = 'Събитие';
 $lang['AdminMain.add.field_callback'] = 'Обратно повикване';
 $lang['AdminMain.add.option_delete'] = 'Изтриване на';
-$lang['AdminMain.add.heading_options'] = 'Опции';
+$lang['AdminMain.add.heading_options'] = 'Действия';
 $lang['AdminMain.add.heading_parameter'] = 'Ново поле';
 $lang['AdminMain.add.heading_field'] = 'Оригинално поле';
 $lang['AdminMain.add.heading_fields_map'] = 'Карта на полетата';
@@ -44,7 +44,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Получава HTTP за
 $lang['AdminMain.index.text_description_outgoing'] = 'Изпраща HTTP заявка към URL адрес, когато се задейства събитие. Заявката може да бъде изпратена чрез GET, POST, PUT или JSON.';
 $lang['AdminMain.index.option_delete'] = 'Изтриване на';
 $lang['AdminMain.index.option_edit'] = 'Редактиране на';
-$lang['AdminMain.index.heading_options'] = 'Опции';
+$lang['AdminMain.index.heading_options'] = 'Действия';
 $lang['AdminMain.index.heading_method'] = 'Метод';
 $lang['AdminMain.index.heading_event'] = 'Събитие';
 $lang['AdminMain.index.heading_callback'] = 'Обратно повикване';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Състояние на HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Събитие';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Всички Webhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Опции';
+$lang['AdminMain.logs.heading_options'] = 'Действия';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Последно повторение';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Дата на задействане';
 $lang['AdminMain.logs.heading_http_response'] = 'HTTP отговор';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.server_description'] = '服务器描述
 $lang['PterodactylService.service_fields.tooltip.server_name'] = '服务器名称。';
 $lang['PterodactylService.service_fields.server_name'] = '服务器名称';
 $lang['PterodactylService.!error.server_name.empty'] = '请设置服务器名称。';
+$lang['Pterodactyl.back_to_manage'] = '返回';
 

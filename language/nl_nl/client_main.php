@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.edit.field_recovery_email'] = 'Herstelmail (optioneel)';
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Vereist om Authenticatie met twee factoren in te schakelen of het wachtwoord bij te werken.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Authenticatie met twee factoren';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Credits toevoegen';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Verwijder';
 

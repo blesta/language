@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Edytuj typ płatności';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Aktualizacja typu płatności';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Definicja języka użytkowania';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Typ';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Nazwa';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Tak';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Usunięcie tego typu płatności spowoduje, że wszystkie transakcje korzystające z tego typu płatności zostaną ustawione jako "inne". Czy na pewno chcesz usunąć ten typ płatności?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Usuń';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Edytuj';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Opcje';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Działania';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Używa języka Definicja';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Typ';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Nazwa';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Ustawienia GeoIP zostały 
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Ustawienia konfiguracji podstawowej zostały pomyślnie zaktualizowane!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Katalog przesyłania musi istnieć i znajdować się poza głównym katalogiem internetowym.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir jest włączone. Dostęp do plików jest ograniczony do: %1$s. Dostęp do katalogów spoza tych ścieżek nie jest możliwy.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Katalog pamięci podręcznej';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Ta wartość reprezentuje pełną ścieżkę serwera do miejsca, w którym Blesta powinna zapisywać buforowane pliki. Katalog ten musi być zapisywalny przez użytkownika web serwera i użytkownika cron. Ze względów bezpieczeństwa ścieżka ta powinna znajdować się poza katalogiem głównym; jeśli musi znajdować się wewnątrz katalogu głównego, Blesta zapisze plik .htaccess jako częściowe ograniczenie, ale konfiguracje serwerów, które ignorują .htaccess (takie jak Nginx) nie zapewniają takiej ochrony.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Nie można zastosować zmiany katalogu pamięci podręcznej, ponieważ nie można zapisać ani usunąć pliku znacznika w config/cache.dir.php. Nadaj uprawnienia do zapisu w katalogu config (i w pliku znacznika, jeśli istnieje) i spróbuj ponownie.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Katalog pamięci podręcznej musi być istniejącym zapisywalnym katalogiem.';
 

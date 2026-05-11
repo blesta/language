@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'Lütfen geçerli bir JA
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'Lütfen maksimum bellek miktarını MB cinsinden bir tamsayı olarak ayarlayın.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'Lütfen izin verilecek maksimum oyuncu yuvası sayısını ayarlayın.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'Lütfen sunucu için bir isim belirleyin.';
+$lang['Multicraft.back_to_manage'] = 'Geri';
 

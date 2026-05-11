@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'De plugin is met succes ingesch
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'De plugin is succesvol geüpgraded.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'De plugin is succesvol verwijderd.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'De plugin is succesvol geïnstalleerd. Het kan ACL rechten hebben geregistreerd voor verschillende bronnen. Het kan zijn dat je je personeelsgroep toegang moet geven tot deze rechten om toegang te krijgen tot deze bronnen.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filterplugins...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Geen overeenkomende plugins gevonden.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,6 @@ $lang['OrderOrders.getstatuses.canceled'] = 'Anulat';
 $lang['OrderOrders.getstatuses.fraud'] = 'Fraudă';
 $lang['OrderOrders.getstatuses.accepted'] = 'Acceptat';
 $lang['OrderOrders.getstatuses.pending'] = 'În revistă';
+$lang['OrderOrders.bell.order_received.title'] = 'Comanda #%1$s Primită';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s comandă plasată #%2$s (%3$s)';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,7 +71,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'العودة إ
 $lang['AppController.client_structure.default_title'] = 'حسابي';
 $lang['AppController.client_structure.staff_as_client_note'] = 'العودة إلى بوابة الموظفين';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'تم تمكين وضع الصيانة حالياً ولا يجوز للعملاء تسجيل الدخول. انقر هنا للتغيير.';
+$lang['AppController.structure.text_maintenance'] = 'تم تمكين وضع الصيانة حالياً ولا يجوز للعملاء تسجيل الدخول.';
 $lang['AppController.structure.text_logout'] = 'تسجيل الخروج';
 $lang['AppController.structure.text_settings'] = 'الإعدادات';
 $lang['AppController.structure.text_myinfo'] = 'معلوماتي';
@@ -83,5 +83,23 @@ $lang['AppController.modal.text_confirm'] = 'يرجى التأكيد';
 $lang['AppController.modal.text_close'] = 'إغلاق';
 $lang['AppController.select.please'] = '-- يرجى اختيار --';
 $lang['AppController.!error.client_unauthorized_access'] = 'ليس لديك إذن للوصول إلى هذا المورد، يُرجى الاتصال بصاحب الحساب الأساسي لطلب الوصول إليه';
-$lang['AppController.structure.text_step_up_access'] = 'لديك حاليًا جلسة تصعيد مفتوحة مع إمكانية الوصول إلى إعدادات المسؤول. انقر هنا لإسقاط الوصول.';
-$lang['AppController.lang.dir'] = 'rtl';
+$lang['AppController.structure.text_step_up_access'] = 'لديك حاليًا جلسة تصعيد مفتوحة مع إمكانية الوصول إلى إعدادات المسؤول.';
+$lang['AppController.structure.text_mark_all_read'] = 'وضع علامة "مقروءة" على الكل';
+$lang['AppController.structure.text_open'] = 'مفتوح';
+$lang['AppController.structure.no_notifications'] = 'لا توجد إشعارات جديدة';
+$lang['AppController.structure.text_notifications'] = 'الإشعارات';
+$lang['AppController.structure.text_licensed_to'] = 'مرخصة ل %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'تمديد الجلسة';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'الوقت المتبقي';
+$lang['AppController.structure.text_step_up_access_button'] = 'إنهاء الجلسة الآن';
+$lang['AppController.structure.text_step_up_access_header'] = 'التوثيق المتدرج النشط';
+$lang['AppController.structure.text_maintenance_button'] = 'تحرير وضع الصيانة';
+$lang['AppController.structure.text_maintenance_header'] = 'تم تمكين وضع الصيانة';
+$lang['AppController.structure.text_iconbar'] = 'شريط الأيقونات';
+$lang['AppController.structure.text_notices'] = 'الإشعارات';
+$lang['AppController.text_loading'] = 'جاري التحميل...';
+$lang['AppController.modal.btn_delete'] = 'حذف';
+$lang['AppController.modal.btn_cancel'] = 'إلغاء';
+$lang['AppController.modal.confirm_delete'] = 'تأكيد الحذف';
+

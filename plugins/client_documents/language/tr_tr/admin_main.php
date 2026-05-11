@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Belge Yükle';
 $lang['AdminMain.modal.delete_document'] = 'Bu belgeyi gerçekten silecek misiniz?';
 $lang['AdminMain.index.option_download'] = 'İndir';
 $lang['AdminMain.index.option_delete'] = 'Silme';
-$lang['AdminMain.index.heading_date_options'] = 'Seçenekler';
+$lang['AdminMain.index.heading_date_options'] = 'Eylemler';
 $lang['AdminMain.index.heading_date_added'] = 'Tarih Eklendi';
 $lang['AdminMain.index.heading_description'] = 'Açıklama';
 $lang['AdminMain.index.heading_name'] = 'İsim';
@@ -29,4 +29,6 @@ $lang['AdminMain.index.boxtitle_client'] = 'Müşteri #%1$s - %2$s %3$s';
 $lang['AdminMain.index.categorylink_adddocument'] = 'Belge Ekle';
 $lang['AdminMain.add.page_title'] = 'Belgeler > Ekle';
 $lang['AdminMain.index.page_title'] = 'Belgeler';
+$lang['AdminMain.index.link_client'] = 'Müşteriye Geri Dön #%1$s';
+$lang['AdminMain.add.link_back'] = 'Belgelere Geri Dön';
 

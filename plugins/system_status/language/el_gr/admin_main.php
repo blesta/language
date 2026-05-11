@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.sql_mariadb_version_serious'] = 'Η έκδοση της M
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Δείτε τις ελάχιστες απαιτήσεις';
 $lang['AdminMain.index.upload_dir_configure'] = 'Διαμόρφωση;';
 $lang['AdminMain.index.upload_dir'] = 'Η διαδρομή του καταλόγου μεταφόρτωσης στις ρυθμίσεις σας βρίσκεται μέσα στον ριζικό κατάλογο ιστού.  Θα πρέπει να τοποθετηθεί πάνω από τον ριζικό κατάλογο ιστού για να διασφαλιστεί ότι δεν θα υπάρξει ποτέ πρόβλημα με το να είναι δημόσια προσβάσιμος.';
+$lang['AdminMain.index.text_info'] = 'Πληροφορίες';
+$lang['AdminMain.index.text_warning'] = 'Προειδοποίηση';
+$lang['AdminMain.index.text_error'] = 'Σφάλμα';
+$lang['AdminMain.index.text_success'] = 'Επιτυχία';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Σύστημα';
+$lang['AdminMain.index.category_database'] = 'Βάση δεδομένων';
+$lang['AdminMain.index.category_security'] = 'Ασφάλεια';
 

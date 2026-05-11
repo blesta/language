@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Конфи
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Мессенджер был успешно деинсталлирован.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Мессенджер был успешно установлен.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Мессенджер был успешно обновлен.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Фильтруйте посланников...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Не найдено ни одного подходящего мессенджера.';
 

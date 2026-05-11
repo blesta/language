@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,4 +130,7 @@ $lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Etiketten må ikke indeholde
 $lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Vælg venligst en gyldig sky.';
 $lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Vælg venligst et gyldigt operativsystem.';
 $lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Vælg venligst en gyldig skabelon.';
+$lang['Vpsdotnet.back_to_manage'] = 'Tilbage';
+$lang['Vpsdotnet.manage.tab_rows'] = 'Servere';
+$lang['Vpsdotnet.manage.tab_groups'] = 'Servergrupper';
 

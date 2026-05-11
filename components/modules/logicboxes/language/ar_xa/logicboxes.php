@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -342,4 +342,5 @@ $lang['Logicboxes.tab_forwarder.meta_tags'] = 'العلامات التعريفي
 $lang['Logicboxes.tab_forwarder.url_masking'] = 'إخفاء عنوان URL';
 $lang['Logicboxes.tab_forwarder.forward_to'] = 'إلى الأمام إلى';
 $lang['Logicboxes.tab_forwarder.title'] = 'إعادة توجيه النطاقات';
+$lang['Logicboxes.back_to_manage'] = 'العودة إلى الإدارة';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Não desinstale o gateway an
 $lang['StripePayments.text_migrate_accounts'] = 'Você pode migrar automaticamente as contas de pagamento armazenadas fora do local pelo gateway antigo do Stripe para esse gateway do Stripe Payments. As contas que não estão armazenadas fora do local devem ser migradas por meio da criação manual de novas contas de pagamento. Para evitar timeouts, as migrações serão feitas em lotes de %1$s. Execute isso quantas vezes forem necessárias para migrar todas as contas de pagamento.';
 $lang['StripePayments.text_accounts_remaining'] = 'Contas restantes: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrar contas de pagamento antigas';
-$lang['StripePayments.webhook_note'] = 'Recomenda-se configurar o seguinte URL como um Webhook para eventos "payment_intent" em sua conta do Stripe.';
+$lang['StripePayments.webhook_note'] = 'Recomenda-se configurar o seguinte URL como um Webhook para eventos "payment_intent" e "charge" em sua conta do Stripe.';
 $lang['StripePayments.webhook'] = 'Webhook do Stripe';
 $lang['StripePayments.tooltip_secret_key'] = 'Sua chave secreta de API é específica para o modo ao vivo ou de teste. Certifique-se de que esteja usando a chave correta.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Sua chave publicável de API é específica para o modo ao vivo ou de teste. Certifique-se de que esteja usando a chave correta.';

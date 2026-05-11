@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'Vyberte platný adresá
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'Nastavte maximální velikost paměti jako celé číslo v MB.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'Nastavte prosím maximální počet povolených slotů pro hráče.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'Nastavte prosím název serveru.';
+$lang['Multicraft.back_to_manage'] = 'Zpět';
 

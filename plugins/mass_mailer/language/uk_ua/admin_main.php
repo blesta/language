@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.index.email_to'] = 'До';
 $lang['AdminMain.index.type.export'] = 'Експорт';
 $lang['AdminMain.index.type.email'] = 'Електронна пошта';
 $lang['AdminMain.index.option_export'] = 'Експорт';
-$lang['AdminMain.index.heading_options'] = 'Параметри';
+$lang['AdminMain.index.heading_options'] = 'Дії';
 $lang['AdminMain.index.heading_complete'] = 'Завершено';
 $lang['AdminMain.index.heading_status'] = 'Статус';
 $lang['AdminMain.index.heading_type'] = 'Тип';

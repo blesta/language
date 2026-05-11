@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Эта подпись эле
 $lang['Emails.!error.text.parse'] = 'Ошибка разбора шаблона: %1$s';
 $lang['Emails.!error.html.parse'] = 'Ошибка разбора шаблона: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Неверный идентификатор компании.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Снимок не принадлежит указанному электронному письму.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Неверный идентификатор моментального снимка.';
 

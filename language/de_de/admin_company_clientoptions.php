@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Zusät
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standard Text Wert';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standardwert Geprüft';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Wert';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Benutzerdefiniertes Feld bearbeiten';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Benutzerdefiniertes Feld aktualisieren';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Werte verschlüsseln';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Benutzerdefinierte Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Erforderlich';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Wenn 
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standard Text Wert';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standardwert Geprüft';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Wert';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Benutzerdefiniertes Feld hinzufügen';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Benutzerdefiniertes Feld erstellen';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Werte verschlüsseln';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Benutzerdefinierte Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Erforderlich';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Name';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Feld erstellen';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Kundenspezifische Felder durchsuchen';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Einstellungen > Unternehmen > Kundenoptionen > Kundeneigene Felder > Durchsuchen';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Einreichen';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Einstellungen aktualisieren';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Verhindern Sie Zahlungen von nicht verifizierten Kunden';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Kunden-ID Inkrementwert';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Kunden-ID Startwert';

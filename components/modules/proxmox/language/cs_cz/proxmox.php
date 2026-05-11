@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -105,7 +105,7 @@ $lang['Proxmox.row_meta.vmid'] = 'Další VMID (neměňte, pokud to není nutné
 $lang['Proxmox.row_meta.port'] = 'Číslo portu SSL';
 $lang['Proxmox.row_meta.host'] = 'Hostitelské jméno';
 $lang['Proxmox.row_meta.password'] = 'Heslo';
-$lang['Proxmox.row_meta.user'] = 'Uživatel';
+$lang['Proxmox.row_meta.user'] = 'User (s @pam nebo @pve za uživatelským jménem)';
 $lang['Proxmox.row_meta.server_name'] = 'Označení serveru';
 $lang['Proxmox.order_options.first'] = 'První neplnohodnotný server';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Neexistují žádné skupiny serverů.';
@@ -132,7 +132,7 @@ $lang['Proxmox.module_row'] = 'Hlavní server Proxmox';
 $lang['Proxmox.description'] = 'Virtuální prostředí Proxmox je prostředí pro virtualizaci serverů s otevřeným zdrojovým kódem. Jedná se o linuxovou distribuci založenou na Debianu s upraveným jádrem Ubuntu LTS, která umožňuje nasazení a správu virtuálních počítačů a kontejnerů.';
 $lang['Proxmox.name'] = 'Proxmox';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '%3$s dnů, %2$s hodin, %1$s minut';
+$lang['Proxmox.!uptime.value'] = '%1$s dnů, %2$s hodin, %3$s minut';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.please_select'] = '-- Vyberte prosím --';
 $lang['Proxmox.!error.module_row.missing'] = 'Došlo k interní chybě. Řádek modulu není k dispozici.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.unmount_iso'] = 'Odpojení ISO';
 $lang['Proxmox.!actions.mount_iso'] = 'Montáž ISO';
 $lang['Proxmox.!actions.shutdown'] = 'Vypnutí';
 $lang['Proxmox.!actions.boot'] = 'Boty';
+$lang['Proxmox.back_to_manage'] = 'Zpět';
+$lang['Proxmox.manage.tab_rows'] = 'Servery';
+$lang['Proxmox.manage.tab_groups'] = 'Skupiny serverů';
+$lang['Proxmox.tab_isomanager'] = 'Manažer ISO';
+$lang['Proxmox.tab_lxcreinstall'] = 'Přeinstalujte stránky';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Přeinstalujte stránky';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Kořenové heslo';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Šablona';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Přeinstalujte stránky';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'Manažer ISO';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Obrázek';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Mount';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Odpojení ISO';
 

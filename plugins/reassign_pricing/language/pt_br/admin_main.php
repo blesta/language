@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Reatribuição de preços';
 $lang['AdminMain.index.no_results'] = 'Não há serviços disponíveis para reatribuir preços.';
 $lang['AdminMain.index.text_never'] = 'Nunca';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Opções';
+$lang['AdminMain.index.heading_options'] = 'Ações';
 $lang['AdminMain.index.heading_date_renews'] = 'Data de renovação';
 $lang['AdminMain.index.heading_date_created'] = 'Data de criação';
 $lang['AdminMain.index.heading_term'] = 'Prazo';

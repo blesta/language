@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = 'Παρακαλούμε 
 $lang['MulticraftPackage.!error.meta[memory].format'] = 'Ορίστε το μέγιστο ποσό μνήμης ως ακέραιο αριθμό σε MB.';
 $lang['MulticraftPackage.!error.meta[players].format'] = 'Παρακαλούμε ορίστε τον μέγιστο αριθμό θέσεων παίκτη που θέλετε να επιτρέψετε.';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = 'Ορίστε ένα όνομα για τον διακομιστή.';
+$lang['Multicraft.back_to_manage'] = 'Πίσω';
 

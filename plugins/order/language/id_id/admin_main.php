@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Pemberitahuan Pesanan';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Tidak ada layanan dalam urutan ini.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Tidak pernah';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Mengelola';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Pilihan';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Tindakan';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Pembaruan Tanggal';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Tanggal Ditambahkan';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Istilah';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Paket';
 $lang['AdminMain.orderinfo.services_heading'] = 'Layanan';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Tidak ada transaksi yang diterapkan pada pesanan ini.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Sunting';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Pilihan';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Tindakan';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Diterapkan pada';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Diterapkan';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Jumlah';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Pesanan';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Pengaturan afiliasi telah diperbarui.';
 $lang['AdminMain.!success.settings_updated'] = 'Pengaturan pesanan Anda berhasil diperbarui.';
 $lang['AdminMain.!success.status_updated'] = 'Pesanan yang dipilih telah berhasil diperbarui.';
+$lang['AdminMain.index.paid'] = 'Dibayar';
+$lang['AdminMain.index.unpaid'] = 'Belum dibayar';
+$lang['AdminMain.index.loading'] = 'Memuat...';
+$lang['AdminMain.index.text_items_selected'] = 'item yang dipilih';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'ID Transaksi';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Tanggal';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Layanan';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'Tertunda';
+$lang['AdminMain.settings.text_notifications'] = 'Konfigurasikan bagaimana Anda ingin menerima notifikasi untuk pesanan baru.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Konfigurasikan bagaimana Anda ingin menerima notifikasi untuk pembayaran afiliasi.';
 

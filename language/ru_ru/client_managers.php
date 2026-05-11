@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'В настоящее время 
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Вы уверены, что хотите отказаться от доступа к этой учетной записи?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Отказаться от доступа';
 $lang['ClientManagers.accounts.option_manage'] = 'Управление';
-$lang['ClientManagers.accounts.heading_options'] = 'Опции';
+$lang['ClientManagers.accounts.heading_options'] = 'Действия';
 $lang['ClientManagers.accounts.heading_company'] = 'Компания';
 $lang['ClientManagers.accounts.heading_name'] = 'Полное имя';
 $lang['ClientManagers.accounts.heading_email'] = 'Электронная почта';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Отменить';
 $lang['ClientManagers.index.option_edit'] = 'Редактировать';
 $lang['ClientManagers.index.text_status_pending'] = 'В ожидании';
 $lang['ClientManagers.index.text_status_accepted'] = 'Принято';
-$lang['ClientManagers.index.heading_options'] = 'Опции';
+$lang['ClientManagers.index.heading_options'] = 'Действия';
 $lang['ClientManagers.index.heading_status'] = 'Статус';
 $lang['ClientManagers.index.heading_company'] = 'Компания';
 $lang['ClientManagers.index.heading_name'] = 'Полное имя';

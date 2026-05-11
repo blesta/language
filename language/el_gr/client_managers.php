@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Προς το παρόν δεν �
 $lang['ClientManagers.accounts.confirm_give_up'] = 'Είστε σίγουρος ότι θέλετε να εγκαταλείψετε την πρόσβασή σας σε αυτόν τον λογαριασμό;';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Παραιτηθείτε από την πρόσβαση';
 $lang['ClientManagers.accounts.option_manage'] = 'Διαχείριση';
-$lang['ClientManagers.accounts.heading_options'] = 'Επιλογές';
+$lang['ClientManagers.accounts.heading_options'] = 'Δράσεις';
 $lang['ClientManagers.accounts.heading_company'] = 'Εταιρεία';
 $lang['ClientManagers.accounts.heading_name'] = 'Ονοματεπώνυμο';
 $lang['ClientManagers.accounts.heading_email'] = 'Ηλεκτρονικό ταχυδρομείο';
@@ -47,7 +47,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Ανάκληση';
 $lang['ClientManagers.index.option_edit'] = 'Επεξεργασία';
 $lang['ClientManagers.index.text_status_pending'] = 'Εκκρεμεί';
 $lang['ClientManagers.index.text_status_accepted'] = 'Αποδεκτή';
-$lang['ClientManagers.index.heading_options'] = 'Επιλογές';
+$lang['ClientManagers.index.heading_options'] = 'Δράσεις';
 $lang['ClientManagers.index.heading_status'] = 'Κατάσταση';
 $lang['ClientManagers.index.heading_company'] = 'Εταιρεία';
 $lang['ClientManagers.index.heading_name'] = 'Ονοματεπώνυμο';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,7 +56,7 @@ $lang['ClientTickets.index.minutes'] = '%1 $s menit';
 $lang['ClientTickets.index.any'] = 'Apa saja';
 $lang['ClientTickets.index.option_reply'] = 'Balas';
 $lang['ClientTickets.index.option_close'] = 'Tutup';
-$lang['ClientTickets.index.heading_options'] = 'Pilihan';
+$lang['ClientTickets.index.heading_options'] = 'Tindakan';
 $lang['ClientTickets.index.heading_status'] = 'Status';
 $lang['ClientTickets.index.heading_last_reply_date'] = 'Balasan terakhir';
 $lang['ClientTickets.index.heading_summary'] = 'Ringkasan';

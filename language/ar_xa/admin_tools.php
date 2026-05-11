@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'إضافة قاعدة';
+$lang['AdminTools.blacklistadd.field_submit'] = 'إنشاء قاعدة';
 $lang['AdminTools.blacklistadd.field_note'] = 'ملاحظة';
 $lang['AdminTools.blacklistadd.field_type'] = 'النوع';
 $lang['AdminTools.blacklistadd.field_rule'] = 'القاعدة';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'حذف';
 $lang['AdminTools.blacklist.text_system'] = 'النظام';
 $lang['AdminTools.blacklist.text_type_email'] = 'عنوان البريد الإلكتروني';
 $lang['AdminTools.blacklist.text_type_ip'] = 'عنوان IP';
-$lang['AdminTools.blacklist.heading_options'] = 'الخيارات';
+$lang['AdminTools.blacklist.heading_options'] = 'الإجراءات';
 $lang['AdminTools.blacklist.heading_note'] = 'ملاحظة';
 $lang['AdminTools.blacklist.heading_list'] = 'القائمة';
 $lang['AdminTools.blacklist.heading_type'] = 'النوع';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'الحد الأقصى للتغ
 $lang['AdminTools.renewals.option_dequeue'] = 'إلغاء الإرسال';
 $lang['AdminTools.renewals.option_view'] = 'عرض الفاتورة';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'هل تريد بالتأكيد إزالة هذه الخدمة من قائمة انتظار التجديد؟';
-$lang['AdminTools.renewals.heading_options'] = 'الخيارات';
+$lang['AdminTools.renewals.heading_options'] = 'الإجراءات';
 $lang['AdminTools.renewals.heading_invoice'] = 'الفاتورة';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'الحد الأقصى للمحاولات';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'المحاولات الفاشلة';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'يُرجى 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'قم بتحديث مجموعة الأحرف وترتيبها في قاعدة البيانات والجداول والأعمدة إلى utf8mb4 لدعم أحرف 4 بايت مثل الرموز التعبيرية.  قد يستغرق ذلك عدة دقائق.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'التحديث إلى utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'تحديث تجميع قاعدة البيانات';
-$lang['AdminTools.utilities.heading_options'] = 'الخيارات';
+$lang['AdminTools.utilities.heading_options'] = 'الإجراءات';
 $lang['AdminTools.utilities.heading_description'] = 'الوصف';
 $lang['AdminTools.utilities.heading_utility'] = 'المرافق';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'المرافق';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'لا توجد خدمات في
 $lang['AdminTools.renewals.no_results_provision'] = 'لا توجد خدمات في قائمة الانتظار حالياً للتزويد بالخدمات.';
 $lang['AdminTools.!notice.conditions_met'] = 'تظهر العناصر في قائمة الانتظار المخصصة فقط عندما يتم استيفاء جميع الشروط وتكون جاهزة للمحاولة.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'تم إلغاء تغيير الخدمة بنجاح.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'حظر الصادر';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'حظر رسائل البريد الإلكتروني الصادرة إلى هذا العنوان';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'حظر الصادر';
 $lang['AdminTools.renewals.no_results_changes'] = 'لا توجد أي تغييرات في الخدمة قيد الانتظار حالياً للتزويد.';
 $lang['AdminTools.renewals.option_retry'] = 'إعادة المحاولة';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'الحالة';
 $lang['AdminTools.renewals.category_changes'] = 'تغييرات الخدمة';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'التجديد غير المدفوع';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'تمت جدولة تغييرات الخدمة بنجاح.';
+$lang['AdminTools.integritycheck.text_summary'] = 'تم التحقق من %1$s الملفات: %2$s حسناً، %3$s تم التعديل، %4$s مفقود.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'لم يتم العثور على ملف البيان (manifest.json). يتم تضمين هذا الملف مع الإصدارات الرسمية وهو مطلوب لإجراء فحص التكامل.';
+$lang['AdminTools.integritycheck.text_error'] = 'حدث خطأ أثناء التحقق من الملفات.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'جميع الملفات تتطابق مع البيان. لم يتم اكتشاف أي تعديلات أو ملفات مفقودة.';
+$lang['AdminTools.integritycheck.text_ok'] = 'حسناً';
+$lang['AdminTools.integritycheck.status_modified'] = 'تعديل';
+$lang['AdminTools.integritycheck.text_total_files'] = 'إجمالي الملفات';
+$lang['AdminTools.integritycheck.category_vendor'] = 'البائع';
+$lang['AdminTools.integritycheck.category_core'] = 'الأساسيات';
+$lang['AdminTools.integritycheck.status_missing'] = 'مفقود';
+$lang['AdminTools.integritycheck.heading_category'] = 'الفئة';
+$lang['AdminTools.integritycheck.heading_file'] = 'ملف';
+$lang['AdminTools.integritycheck.heading_status'] = 'الحالة';
+$lang['AdminTools.integritycheck.text_checking'] = 'التحقق من الملفات، يرجى الانتظار. قد يستغرق هذا لحظة...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'اركض مرة أخرى';
+$lang['AdminTools.integritycheck.field_download_report'] = 'تنزيل التقرير';
+$lang['AdminTools.integritycheck.field_run_check'] = 'تشغيل فحص النزاهة';
+$lang['AdminTools.integritycheck.text_description'] = 'تحقق من الملفات المثبتة مقابل البيان الذي تم شحنه مع هذا الإصدار. يتحقق هذا من سلامة الملفات من خلال مقارنة تجزئة SHA256 ويمكن أن يساعد في تحديد الملفات التي تم تعديلها، وهو أمر مفيد لاستكشاف الأخطاء وإصلاحها وقبل إجراء الترقيات.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'التحقق من سلامة النظام';
+$lang['AdminTools.integritycheck.page_title'] = 'التحقق من سلامة النظام';
+$lang['AdminTools.!success.cache_cleared'] = 'تم مسح ذاكرة التخزين المؤقت للملف بنجاح.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'فحص التشغيل';
+$lang['AdminTools.utilities.text_integrity_check'] = 'تحقق من الملفات الأساسية مقابل البيان المشحون لتحديد الملفات المعدلة أو المفقودة.';
+$lang['AdminTools.utilities.integrity_check'] = 'التحقق من سلامة النظام';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'امسح الملفات المخزنة مؤقتًا بما في ذلك التنقل وطرق العرض وذاكرة التخزين المؤقت للملحقات. قد يتسبب ذلك في بطء تحميل الصفحات قليلاً حتى يتم إعادة بناء ذاكرات التخزين المؤقت.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'مسح ذاكرة التخزين المؤقت';
+$lang['AdminTools.utilities.clear_file_cache'] = 'مسح ذاكرة التخزين المؤقت للملفات';
+$lang['AdminTools.getlognames.text_system'] = 'النظام';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'إصدار البيان: %1$s (تم الإنشاء %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'لا توجد خدمات في قائمة الانتظار حالياً للتجديد بعد الدفع.';
+$lang['AdminTools.logsystem.page_title'] = 'سجلات الأدوات';
+$lang['AdminTools.logsystem.text_date'] = 'التاريخ';
+$lang['AdminTools.logsystem.text_level'] = 'المستوى';
+$lang['AdminTools.logsystem.text_message'] = 'الرسالة';
+$lang['AdminTools.logsystem.no_results'] = 'لا توجد إدخالات سجل النظام.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'دليل السجل غير مهيأ أو غير قابل للقراءة. قم بتكوينه ضمن الإعدادات &gt; النظام &gt; عام.';
+$lang['AdminTools.logsystem.level_emergency'] = 'الطوارئ';
+$lang['AdminTools.logsystem.level_alert'] = 'تنبيه';
+$lang['AdminTools.logsystem.level_critical'] = 'الحرجة';
+$lang['AdminTools.logsystem.level_error'] = 'خطأ';
+$lang['AdminTools.logsystem.level_warning'] = 'تحذير';
+$lang['AdminTools.logsystem.level_notice'] = 'إشعار';
+$lang['AdminTools.logsystem.level_info'] = 'المعلومات';
+$lang['AdminTools.logsystem.level_debug'] = 'التصحيح';
 

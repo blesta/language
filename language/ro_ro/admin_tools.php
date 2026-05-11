@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminTools.blacklistadd.field_submit'] = 'Adăugați o regulă';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Crearea regulii';
 $lang['AdminTools.blacklistadd.field_note'] = 'Notă';
 $lang['AdminTools.blacklistadd.field_type'] = 'Tip';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regula';
@@ -20,7 +20,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Ștergeți';
 $lang['AdminTools.blacklist.text_system'] = 'Sistem';
 $lang['AdminTools.blacklist.text_type_email'] = 'Adresa de e-mail';
 $lang['AdminTools.blacklist.text_type_ip'] = 'Adresa IP';
-$lang['AdminTools.blacklist.heading_options'] = 'Opțiuni';
+$lang['AdminTools.blacklist.heading_options'] = 'Acțiuni';
 $lang['AdminTools.blacklist.heading_note'] = 'Notă';
 $lang['AdminTools.blacklist.heading_list'] = 'Lista';
 $lang['AdminTools.blacklist.heading_type'] = 'Tip';
@@ -158,7 +158,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Schimbare Maxim';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Vezi factura';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Sunteți sigur că doriți să eliminați acest serviciu din coada de reînnoire?';
-$lang['AdminTools.renewals.heading_options'] = 'Opțiuni';
+$lang['AdminTools.renewals.heading_options'] = 'Acțiuni';
 $lang['AdminTools.renewals.heading_invoice'] = 'Factura';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Numărul maxim de încercări';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Încercări eșuate';
@@ -174,7 +174,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Vă rugăm 
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Actualizați setul de caractere și colaționarea bazei de date, a tabelelor și a coloanelor la utf8mb4 pentru a suporta caractere de 4 octeți, cum ar fi emoji.  Acest lucru poate dura câteva minute.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Actualizare la utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Actualizarea colaționării bazei de date';
-$lang['AdminTools.utilities.heading_options'] = 'Opțiuni';
+$lang['AdminTools.utilities.heading_options'] = 'Acțiuni';
 $lang['AdminTools.utilities.heading_description'] = 'Descriere';
 $lang['AdminTools.utilities.heading_utility'] = 'Utilitate';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Utilități';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'În prezent, nu există servi
 $lang['AdminTools.renewals.no_results_provision'] = 'În prezent nu există servicii în coada de așteptare pentru aprovizionare.';
 $lang['AdminTools.!notice.conditions_met'] = 'Articolele apar în coada desemnată numai atunci când toate condițiile au fost îndeplinite și sunt gata să fie încercate.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'Modificarea serviciului a fost anulată cu succes.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blocați ieșirea';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blocați e-mailurile trimise la această adresă';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Blocați ieșirea';
 $lang['AdminTools.renewals.no_results_changes'] = 'În prezent, nu există modificări de servicii în coada de așteptare pentru aprovizionare.';
 $lang['AdminTools.renewals.option_retry'] = 'Reîncercare';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Statut';
 $lang['AdminTools.renewals.category_changes'] = 'Modificări ale serviciilor';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Reînnoire neplătită';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'Modificarea serviciului a fost programată cu succes.';
+$lang['AdminTools.integritycheck.text_summary'] = 'Am verificat fișierele %1$s: %2$s OK, %3$s modificat, %4$s lipsă.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Fișierul manifest (manifest.json) nu a fost găsit. Acest fișier este inclus cu versiunile oficiale și este necesar pentru a efectua o verificare a integrității.';
+$lang['AdminTools.integritycheck.text_error'] = 'A apărut o eroare în timpul verificării fișierelor.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Toate fișierele corespund manifestului. Nu au fost detectate modificări sau fișiere lipsă.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Total fișiere';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Furnizor';
+$lang['AdminTools.integritycheck.category_core'] = 'Nucleu';
+$lang['AdminTools.integritycheck.status_missing'] = 'Lipsește';
+$lang['AdminTools.integritycheck.status_modified'] = 'Modificat';
+$lang['AdminTools.integritycheck.heading_category'] = 'Categorie';
+$lang['AdminTools.integritycheck.heading_file'] = 'Fișier';
+$lang['AdminTools.integritycheck.heading_status'] = 'Statut';
+$lang['AdminTools.integritycheck.text_checking'] = 'Verificarea fișierelor, vă rugăm să așteptați. Acest lucru poate dura un moment...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Aleargă din nou';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Descărcați raportul';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Rulați verificarea integrității';
+$lang['AdminTools.integritycheck.text_description'] = 'Verificați fișierele instalate față de manifestul livrat cu această versiune. Aceasta verifică integritatea fișierelor prin compararea hașurilor SHA256 și poate ajuta la identificarea fișierelor care au fost modificate, ceea ce este util pentru depanare și înainte de efectuarea actualizărilor.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Verificarea integrității sistemului';
+$lang['AdminTools.integritycheck.page_title'] = 'Verificarea integrității sistemului';
+$lang['AdminTools.!success.cache_cleared'] = 'Memoria cache a fișierelor a fost ștearsă cu succes.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Verificarea execuției';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Verificați fișierele de bază în raport cu manifestul livrat pentru a identifica fișierele modificate sau lipsă.';
+$lang['AdminTools.utilities.integrity_check'] = 'Verificarea integrității sistemului';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Curățați fișierele din memoria cache, inclusiv memoria cache pentru navigare, vizualizări și pluginuri. Acest lucru poate duce la încărcarea puțin mai lentă a paginilor până la refacerea memoriei cache.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Ștergeți memoria cache';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Ștergeți memoria cache a fișierelor';
+$lang['AdminTools.getlognames.text_system'] = 'Sistemul';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Versiunea manifestului: %1$s (generat %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'În prezent nu există servicii în coada de așteptare pentru reînnoire după plată.';
+$lang['AdminTools.logsystem.page_title'] = 'Instrumente Jurnale';
+$lang['AdminTools.logsystem.text_date'] = 'Data';
+$lang['AdminTools.logsystem.text_level'] = 'Nivel';
+$lang['AdminTools.logsystem.text_message'] = 'Mesaj';
+$lang['AdminTools.logsystem.no_results'] = 'Nu există intrări în jurnalul de sistem.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'Directorul de log nu este configurat sau nu poate fi citit. Configurați-l în Setări &gt; Sistem &gt; General.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Urgență';
+$lang['AdminTools.logsystem.level_alert'] = 'Alertă';
+$lang['AdminTools.logsystem.level_critical'] = 'Critice';
+$lang['AdminTools.logsystem.level_error'] = 'Eroare';
+$lang['AdminTools.logsystem.level_warning'] = 'Avertisment';
+$lang['AdminTools.logsystem.level_notice'] = 'Aviz';
+$lang['AdminTools.logsystem.level_info'] = 'Info';
+$lang['AdminTools.logsystem.level_debug'] = 'Depanare';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['Proxmox.!error.proxmox_root_password.matches'] = 'Rodadgangskoderne stemm
 $lang['Proxmox.!error.module_row.missing'] = 'Der opstod en intern fejl. Modulrækken er ikke tilgængelig.';
 $lang['Proxmox.please_select'] = '-- Vælg venligst --';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
-$lang['Proxmox.!uptime.value'] = '%3$s dage, %2$s timer, %1$s minutter';
+$lang['Proxmox.!uptime.value'] = '%1$s dage, %2$s timer, %3$s minutter';
 $lang['Proxmox.!percent.used'] = '%1$s%';
 $lang['Proxmox.description'] = 'Proxmox Virtual Environment er et open source servervirtualiseringsmiljø. Det er en Debian-baseret Linux-distribution med en modificeret Ubuntu LTS-kerne og giver mulighed for implementering og administration af virtuelle maskiner og containere.';
 $lang['Proxmox.module_row'] = 'Proxmox Master Server';
@@ -71,7 +71,7 @@ $lang['Proxmox.manage.module_rows_no_results'] = 'Der er ingen servere.';
 $lang['Proxmox.manage.module_groups_no_results'] = 'Der er ingen servergrupper.';
 $lang['Proxmox.order_options.first'] = 'Første ikke-fulde server';
 $lang['Proxmox.row_meta.server_name'] = 'Server-etiket';
-$lang['Proxmox.row_meta.user'] = 'Bruger';
+$lang['Proxmox.row_meta.user'] = 'Bruger (med @pam eller @pve efter brugernavnet)';
 $lang['Proxmox.row_meta.password'] = 'Adgangskode';
 $lang['Proxmox.row_meta.host'] = 'Værtsnavn';
 $lang['Proxmox.row_meta.port'] = 'SSL-portnummer';
@@ -169,4 +169,17 @@ $lang['Proxmox.tab_client_console.vnc_ip'] = 'VNC-vært';
 $lang['Proxmox.tab_client_console.vnc_port'] = 'VNC-port';
 $lang['Proxmox.tab_client_console.vnc_user'] = 'VNC brugernavn';
 $lang['Proxmox.tab_client_console.vnc_password'] = 'VNC adgangskode';
+$lang['Proxmox.back_to_manage'] = 'Tilbage';
+$lang['Proxmox.manage.tab_rows'] = 'Servere';
+$lang['Proxmox.manage.tab_groups'] = 'Servergrupper';
+$lang['Proxmox.tab_isomanager'] = 'ISO-chef';
+$lang['Proxmox.tab_lxcreinstall'] = 'Installer igen';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = 'Installer igen';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = 'Adgangskode til roden';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = 'Skabelon';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = 'Installer igen';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO-chef';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = 'Billede';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = 'Bjerg';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'Afmonter ISO';
 

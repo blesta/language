@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Известия за по�
 $lang['AdminMain.orderinfo.services_no_results'] = 'В този ред няма услуги.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Никога';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Управление на';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Опции';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Действия';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Дата на подновяване';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Дата на добавяне';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Срок';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Пакет';
 $lang['AdminMain.orderinfo.services_heading'] = 'Услуги';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Към тази поръчка не са приложени никакви операции.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Редактиране на';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Опции';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Действия';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Прилага се върху';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Приложен';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Сума';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Поръчки';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Настройките за партньорски услуги са актуализирани.';
 $lang['AdminMain.!success.settings_updated'] = 'Настройките на поръчката ви бяха успешно актуализирани.';
 $lang['AdminMain.!success.status_updated'] = 'Избраните поръчки са актуализирани успешно.';
+$lang['AdminMain.index.paid'] = 'Платено';
+$lang['AdminMain.index.unpaid'] = 'Неплатен';
+$lang['AdminMain.index.loading'] = 'Зареждане...';
+$lang['AdminMain.index.text_items_selected'] = 'избрани елементи';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Идентификатор на транзакцията';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Дата';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Услуга';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'В очакване';
+$lang['AdminMain.settings.text_notifications'] = 'Конфигурирайте начина, по който искате да получавате известия за нови поръчки.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Конфигуриране на начина, по който искате да получавате известия за изплащане на суми от филиали.';
 

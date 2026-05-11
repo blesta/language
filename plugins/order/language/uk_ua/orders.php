@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = 'Номер';
 $lang['Orders.view.heading_status'] = 'Статус';
 $lang['Orders.view.heading_applied'] = 'Застосовано';
 $lang['Orders.view.heading_type'] = 'Тип';
-$lang['Orders.view.heading_options'] = 'Параметри';
+$lang['Orders.view.heading_options'] = 'Дії';
 $lang['Orders.view.heading_date_renews'] = 'Поновлення дати';
 $lang['Orders.view.heading_date_created'] = 'Дата створення';
 $lang['Orders.view.heading_term'] = 'Термін';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Переглянути замовл�
 $lang['Orders.index.no_results'] = 'Ви не маєте жодних наказів.';
 $lang['Orders.index.option_cancel'] = 'Скасувати';
 $lang['Orders.index.option_view'] = 'Вигляд';
-$lang['Orders.index.heading_options'] = 'Параметри';
+$lang['Orders.index.heading_options'] = 'Дії';
 $lang['Orders.index.heading_date_ordered'] = 'Дата замовлення';
 $lang['Orders.index.heading_paid'] = 'Оплачено';
 $lang['Orders.index.heading_total'] = 'Всього';

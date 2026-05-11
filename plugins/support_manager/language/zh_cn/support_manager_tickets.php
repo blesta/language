@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = '垃圾';
 $lang['SupportManagerTickets.status.closed'] = '关闭';
 $lang['SupportManagerTickets.status.on_hold'] = '搁置';
 $lang['SupportManagerTickets.status.in_progress'] = '进行中';
-$lang['SupportManagerTickets.status.awaiting_reply'] = '等待客户回复';
-$lang['SupportManagerTickets.status.open'] = '等待工作人员答复';
+$lang['SupportManagerTickets.status.awaiting_reply'] = '等待客户';
+$lang['SupportManagerTickets.status.open'] = '等待工作人员';
 $lang['SupportManagerTickets.priority.low'] = '低';
 $lang['SupportManagerTickets.priority.medium'] = '中型';
 $lang['SupportManagerTickets.priority.high'] = '高';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = '至少有一个收票�
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = '至少有一个机票收件人是重复的。';
 $lang['SupportManagerTickets.log.service_id'] = '相关服务已更改为内部 ID：#%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" 是必填项，不能为空。';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = '票号%1$s 已更新';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = '新票 #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s 答复了票号%2$s ：%3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s 已开票号%2$s ：%3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = '票号%1$s 已分配';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = '分配给您的票号%1$s ：%2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = '图片无法上传。请重试。';
+$lang['SupportManagerTickets.!error.inline_image.size'] = '图像超出最大允许大小%1$sMB。';
+$lang['SupportManagerTickets.!error.inline_image.type'] = '图像类型无效。只允许 JPEG、PNG、GIF 和 WebP 图像。';
+$lang['SupportManagerTickets.!error.inline_image.path'] = '无法创建上传目录。';
+$lang['SupportManagerTickets.!error.inline_image.write'] = '图像无法保存。请重试。';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = '不允许内嵌 base64 图像。请将图片粘贴或拖动到编辑器中上传。';
 

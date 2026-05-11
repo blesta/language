@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'E-post
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'E-posta BCC Bildirimleri';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'Erişim Kontrol Listesi';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'Genel';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Grubu Düzenle';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'Güncelleme Grubu';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'IP Adresi Değişikliğinde Oturumu Kapatma';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'Şirket';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'İsim';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'Bu personel grubunu silmek istediğinizden emin misiniz?';
 $lang['AdminSystemStaff.groups.option_edit'] = 'Düzenle';
 $lang['AdminSystemStaff.groups.no_results'] = 'Personel grubu bulunmamaktadır.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'Seçenekler';
+$lang['AdminSystemStaff.groups.heading_options'] = 'Eylemler';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'Personel Sayısı';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'Şirket Adı';
 $lang['AdminSystemStaff.groups.heading_name'] = 'İsim';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'Grup Oluştur';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'Personel Grupları';
 $lang['AdminSystemStaff.groups.page_title'] = 'Ayarlar > Sistem > Personel > Personel Grupları';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Personeli Düzenle';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'Personel Güncellemesi';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'Mevcut Gruplar';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'Üye Grupları';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'İki Faktörlü Pin';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'Düzenle';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'Bu personeli gerçekten yeniden etkinleştirdiniz mi?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'Bu personeli gerçekten devre dışı bıraktınız mı?';
 $lang['AdminSystemStaff.manage.no_results'] = 'Bu statüye sahip personel bulunmamaktadır.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'Seçenekler';
+$lang['AdminSystemStaff.manage.heading_options'] = 'Eylemler';
 $lang['AdminSystemStaff.manage.heading_email'] = 'E-posta';
 $lang['AdminSystemStaff.manage.heading_name'] = 'İsim';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'Personel Ekleme';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = '"%1$s" personel grubu başar
 $lang['AdminSystemStaff.!success.group_added'] = '"%1$s" personel grubu başarıyla oluşturuldu!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'Bu personel başarıyla güncellendi!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'Bu personel üyesi başarıyla eklendi!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'Bildirimler';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'Bildirimler';
 

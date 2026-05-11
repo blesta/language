@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Odpadkový koš';
 $lang['SupportManagerTickets.status.closed'] = 'Uzavřeno';
 $lang['SupportManagerTickets.status.on_hold'] = 'Na počkání';
 $lang['SupportManagerTickets.status.in_progress'] = 'Probíhá';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Čekáme na odpověď klienta';
-$lang['SupportManagerTickets.status.open'] = 'Čekáme na odpověď zaměstnanců';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Čeká na klienta';
+$lang['SupportManagerTickets.status.open'] = 'Čekání na zaměstnance';
 $lang['SupportManagerTickets.priority.low'] = 'Nízká';
 $lang['SupportManagerTickets.priority.medium'] = 'Střední';
 $lang['SupportManagerTickets.priority.high'] = 'Vysoká';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Alespoň jeden z pří
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Alespoň jeden z příjemců tipu je duplicitní.';
 $lang['SupportManagerTickets.log.service_id'] = 'Související služba byla změněna na interní ID: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" je povinný a nesmí být prázdný.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Ticket #%1$s Aktualizováno';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Nový tip #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s odpověděl na dotaz #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s otevřený tip #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Přidělený tip č.%1$s ';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Přidělený tip č.%1$s: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Obrázek se nepodařilo nahrát. Zkuste to prosím znovu.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Obrázek přesahuje maximální povolenou velikost %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Nesprávný typ obrázku. Povoleny jsou pouze obrázky JPEG, PNG, GIF a WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Adresář pro nahrávání se nepodařilo vytvořit.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Obrázek se nepodařilo uložit. Zkuste to prosím znovu.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Inline obrázky base64 nejsou povoleny. Obrázky vložte nebo přetáhněte do editoru a nahrajte je.';
 

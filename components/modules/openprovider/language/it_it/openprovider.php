@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.config.module.rows'] = 'Conti del conservatore';
 $lang['OpenProvider.config.module.row'] = 'Account Registrar';
 $lang['OpenProvider.config.description'] = 'Modulo Openprovider per Blesta.';
 $lang['OpenProvider.config.name'] = 'Fornitore aperto';
+$lang['Openprovider.back_to_manage'] = 'Indietro';
 

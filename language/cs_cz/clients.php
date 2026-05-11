@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Neplatné ID skupiny klientů.
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Maximální výše úvěru na %1$s musí být vyšší než minimální výše.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Maximální výše kreditu pro %1$s musí být vyšší než 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Minimální výše kreditu pro %1$s musí být vyšší než 0.';
+$lang['Clients.!error.action[].exists'] = 'Neplatná akce oznámení.';
+$lang['Clients.!error.action.exists'] = 'Neplatná akce oznámení "%1$s".';
 

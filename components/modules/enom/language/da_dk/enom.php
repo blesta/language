@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,5 @@ $lang['Enom.domain.ASIAIdentForm.societyRegistry'] = 'Foreningsregister';
 $lang['Enom.domain.ASIAIdentForm.politicalPartyRegistry'] = 'Registrering af politiske partier';
 $lang['Enom.domain.ASIAIdentForm.passport'] = 'Pas/ Statsborgerskab ID';
 $lang['Enom.domain.ASIAIdentNumber'] = 'Identitetsnummer';
+$lang['Enom.back_to_manage'] = 'Tilbage';
 

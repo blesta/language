@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -97,16 +97,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(%1$s kullanıldı)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Mevcut Paketler';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Atanmış Paketler';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Tümü';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Kupon Düzenle';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Kupon Güncelleme';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Paket Grup Filtresi';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Paketler';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Paket Sınırlamaları';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Kaldırmak';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Şartlar';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Dönem';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Etkin';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Bu kupon yalnızca seçilen dönemlerden/dönemlerden biri için sipariş edilen hizmetlere uygulanabilir. Hiçbiri etkinleştirilmezse kupon sınırlamaları değerlendirilirken hizmetin süresi göz ardı edilir.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Şartlar';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Dönem Sınırlamaları';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Değer';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Tip';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Para Birimi';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Sınırlamal
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Miktar';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Bitiş Tarihi';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Başlangıç Tarihi';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Sınırlamalar';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Sınırlamalar ve Kısıtlamalar';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Kod oluşturun';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Kupon Kodu';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Sadece Dahili Kullanım';
@@ -132,7 +132,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Atanmış Paket
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Tümü';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Kupon Oluştur';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Paket Grup Filtresi';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Paketler';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Paket Sınırlamaları';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Kaldırmak';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Şartlar';
@@ -150,7 +150,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Sınırlamala
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Miktar';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Bitiş Tarihi';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Başlangıç Tarihi';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Sınırlamalar';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Sınırlamalar ve Kısıtlamalar';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Kod oluşturun';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Kupon Kodu';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Sadece Dahili Kullanım';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Gereksinimler';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Opsiyon';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Seçenek Grubu';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Bu kupon yalnızca seçilen yapılandırılabilir seçenekler eşleşirse uygulanabilir. Yapılandırılabilir seçenek sınırlamalarını yok saymak için boş bırakın.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Yapılandırılabilir Seçenekler';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Yapılandırılabilir Seçenek Sınırlamaları';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Ekle';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Faturalar kapatıldıktan sonra teslimat için yeniden talep edin';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Müşteri, kredi bakiyesi bu tutarın altına düştüğünde günlük bir bildirim alacaktır. Bu para birimi için bildirimleri devre dışı bırakmak için boş bırakın.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = '%1$s için maksimum tut
 $lang['AdminCompanyBilling.!error.max_amount'] = '%1$s için maksimum tutar 0\'dan büyük olmalıdır.';
 $lang['AdminCompanyBilling.!error.min_amount'] = '%1$s için minimum tutar 0\'dan büyük olmalıdır.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Kredi İşleme ayarları başarıyla güncellendi!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Lütfen bir iade adresi adı girin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Lütfen bir iade adresi şirketi girin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Lütfen bir iade adresi girin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Lütfen bir dönüş adresi şehri girin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Lütfen bir dönüş adresi eyaleti/il seçin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Lütfen bir iade adresi posta kodu girin.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Lütfen bir iade adresi ülkesi seçin.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Kullanılabilir etiketler şunlardır: {num} - tırnak numarası (gerekli); {year} - dört basamaklı yıl; {month} - iki basamaklı ay; {day} - ayın iki basamaklı günü.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Tırnak numaraları bu başlangıç değerinden başlayacaktır (ve artacaktır).';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Sonraki tırnak numaraları bu değer kadar artacaktır.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Kullanım Sınırlamaları';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Kullanım Sınırlamaları';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Cevap Zarfı';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'İade Adresi';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'İsim';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Şirket';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Adres 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Adres 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Şehir';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Eyalet/İl';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Posta Kodu';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Ülke';
 

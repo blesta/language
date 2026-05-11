@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Plugin aktiverades framgångsri
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Pluginet uppgraderades framgångsrikt.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Pluginet har avinstallerats framgångsrikt.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Plugin-programmet installerades framgångsrikt. Det kan ha registrerat ACL-behörigheter för olika resurser. Du kan behöva ge din personalgrupp tillgång till dessa behörigheter för att kunna komma åt dessa resurser.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Filtrera insticksprogram...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Inga matchande plugins hittades.';
 

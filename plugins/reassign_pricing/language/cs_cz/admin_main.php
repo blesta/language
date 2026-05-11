@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'Změna přiřazení cen';
 $lang['AdminMain.index.no_results'] = 'Nejsou k dispozici žádné služby, ze kterých by bylo možné ceny přeřadit.';
 $lang['AdminMain.index.text_never'] = 'Nikdy';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'Možnosti';
+$lang['AdminMain.index.heading_options'] = 'Akce';
 $lang['AdminMain.index.heading_date_renews'] = 'Datum obnovení';
 $lang['AdminMain.index.heading_date_created'] = 'Datum vytvoření';
 $lang['AdminMain.index.heading_term'] = 'Termín';

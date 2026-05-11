@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['GenericDomains.manage.to_emails'] = '至电子邮件';
 $lang['GenericDomains.manage.from_email'] = '发件人电子邮件';
 $lang['GenericDomains.manage.notification_settings_title'] = '通知设置';
 $lang['GenericDomains.!tooltip.to_emails'] = '所有收件人电子邮件，用逗号分隔。';
+$lang['Generic_domains.back_to_manage'] = '返回';
+$lang['GenericDomains.manage.text_available_tags'] = '可用标签';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.nameserver.ns1'] = 'Name Server 1';
 $lang['Namecheap.name'] = 'Namecheap';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Автоматическое обновление списка ДВУ и цен от Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'Синхронизация данных ДВУ';
+$lang['Namecheap.back_to_manage'] = 'Назад';
 

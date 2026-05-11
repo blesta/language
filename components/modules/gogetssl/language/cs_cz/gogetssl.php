@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = 'Zadejte název prodejce.';
 $lang['GoGetSSL.!error.api_password.empty'] = 'Zadejte prosím heslo API.';
 $lang['GoGetSSL.!error.api_username.valid'] = 'Připojení k serveru se nepodařilo navázat. Zkontrolujte, zda jsou pověření API správná.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Zadejte prosím uživatelské jméno API.';
+$lang['Gogetssl.back_to_manage'] = 'Zpět';
 

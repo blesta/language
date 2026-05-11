@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Ispmanager.module_row_plural'] = 'Servers';
 $lang['Ispmanager.module_row'] = 'Server';
 $lang['Ispmanager.description'] = 'ispmanager biedt een uitgebreide set functies voor het beheren van websites, het aanmaken van gebruikers, het beheren van domeinen, e-mails, databases, enz.';
 $lang['Ispmanager.name'] = 'ispmanager';
+$lang['Ispmanager.back_to_manage'] = 'Terug';
+$lang['Ispmanager.manage.tab_rows'] = 'Servers';
+$lang['Ispmanager.manage.tab_groups'] = 'Servergroepen';
 

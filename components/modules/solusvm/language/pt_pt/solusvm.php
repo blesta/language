@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,4 +186,7 @@ $lang['Solusvm.!actions.reinstall'] = 'Reinstalar';
 $lang['Solusvm.!actions.shutdown'] = 'Encerramento';
 $lang['Solusvm.!actions.reboot'] = 'Reiniciar';
 $lang['Solusvm.!actions.boot'] = 'Bota';
+$lang['Solusvm.back_to_manage'] = 'Voltar';
+$lang['Solusvm.manage.tab_rows'] = 'Servidores';
+$lang['Solusvm.manage.tab_groups'] = 'Grupos de servidores';
 

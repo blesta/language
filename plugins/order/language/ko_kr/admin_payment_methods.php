@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = '제휴 결제 �
 $lang['AdminPaymentMethods.index.confirm_delete'] = '이 결제 방법을 삭제하시겠습니까?';
 $lang['AdminPaymentMethods.index.option_delete'] = '삭제';
 $lang['AdminPaymentMethods.index.option_edit'] = '편집';
-$lang['AdminPaymentMethods.index.heading_options'] = '옵션';
+$lang['AdminPaymentMethods.index.heading_options'] = '작업';
 $lang['AdminPaymentMethods.index.heading_name'] = '이름';
 $lang['AdminPaymentMethods.index.no_results'] = '현재로서는 결제 수단이 없습니다.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = '제휴 결제 수단 추가';

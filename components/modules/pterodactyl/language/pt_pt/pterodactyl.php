@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.service_info.username'] = 'Nome de utilizador';
 $lang['Pterodactyl.manage.module_groups_no_results'] = 'Não existem grupos de servidores.';
 $lang['Pterodactyl.manage.module_rows_no_results'] = 'Não existem servidores.';
 $lang['Pterodactyl.manage.module_groups.confirm_delete'] = 'Tem a certeza de que pretende eliminar este grupo de servidores?';
+$lang['Pterodactyl.back_to_manage'] = 'Voltar';
+$lang['Pterodactyl.manage.tab_rows'] = 'Servidores';
+$lang['Pterodactyl.manage.tab_groups'] = 'Grupos de servidores';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientContacts.index.boxtitle_contacts'] = 'Contactos';
 $lang['ClientContacts.index.heading_name'] = 'Nombre';
 $lang['ClientContacts.index.heading_email'] = 'Correo electrónico';
 $lang['ClientContacts.index.heading_type'] = 'Tipo';
-$lang['ClientContacts.index.heading_options'] = 'Opciones';
+$lang['ClientContacts.index.heading_options'] = 'Acciones';
 $lang['ClientContacts.index.option_edit'] = 'Editar';
 $lang['ClientContacts.index.option_delete'] = 'Borrar';
 $lang['ClientContacts.index.confirm_delete'] = '¿Estás seguro de que quieres eliminar este contacto?';

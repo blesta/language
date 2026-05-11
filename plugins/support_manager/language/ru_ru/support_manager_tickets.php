@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Мусор';
 $lang['SupportManagerTickets.status.closed'] = 'Закрытый';
 $lang['SupportManagerTickets.status.on_hold'] = 'В режиме ожидания';
 $lang['SupportManagerTickets.status.in_progress'] = 'В процессе';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Ожидание ответа клиента';
-$lang['SupportManagerTickets.status.open'] = 'Ожидание ответа персонала';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Ожидание клиента';
+$lang['SupportManagerTickets.status.open'] = 'Ожидание персонала';
 $lang['SupportManagerTickets.priority.low'] = 'Низкий';
 $lang['SupportManagerTickets.priority.medium'] = 'Средний';
 $lang['SupportManagerTickets.priority.high'] = 'Высокий';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'По крайней м
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'По крайней мере один из получателей билета дублируется.';
 $lang['SupportManagerTickets.log.service_id'] = 'Соответствующий сервис был изменен на внутренний ID: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" является обязательным и не может быть пустым.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Билет #%1$s Обновлено';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Новый билет #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s Ответил на тикет #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s Открыт тикет #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Билет №%1$s Назначено';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Билет №%1$s закреплен за вами: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Изображение не удалось загрузить. Пожалуйста, попробуйте еще раз.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Изображение превышает максимально допустимый размер %1$sМБ.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Недопустимый тип изображения. Допускаются только изображения JPEG, PNG, GIF и WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Не удалось создать каталог загрузки.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Изображение не удалось сохранить. Пожалуйста, попробуйте еще раз.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Вставка изображений в формате base64 запрещена. Пожалуйста, вставляйте или перетаскивайте изображения в редактор для их загрузки.';
 

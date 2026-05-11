@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = 'Vă rugăm să introduceți un nume
 $lang['Actions.!error.url.empty'] = 'Vă rugăm să introduceți un URL.';
 $lang['Actions.!error.location.unique'] = 'Locația și URL-ul trebuie să fie unice pentru această companie.';
 $lang['Actions.!error.location.valid'] = 'Locație validă invalidă.';
+$lang['Actions.!error.icon.length'] = 'Clasa pictogramei nu trebuie să depășească 255 de caractere.';
 

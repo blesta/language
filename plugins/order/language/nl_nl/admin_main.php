@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Ordermeldingen';
 $lang['AdminMain.orderinfo.services_no_results'] = 'Er zijn geen diensten in deze volgorde.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Nooit';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Beheer';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Opties';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Acties';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Datum Verlenging';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Datum toegevoegd';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Term';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Pakket';
 $lang['AdminMain.orderinfo.services_heading'] = 'Diensten';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'Er zijn geen transacties toegepast op deze bestelling.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Bewerk';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Opties';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Acties';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Toegepast op';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Toegepast';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Bedrag';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Bestellingen';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'De affiliate-instellingen zijn bijgewerkt.';
 $lang['AdminMain.!success.settings_updated'] = 'Je bestelinstellingen zijn bijgewerkt.';
 $lang['AdminMain.!success.status_updated'] = 'De geselecteerde bestellingen zijn succesvol bijgewerkt.';
+$lang['AdminMain.index.paid'] = 'Betaald';
+$lang['AdminMain.index.unpaid'] = 'Onbetaald';
+$lang['AdminMain.index.loading'] = 'Aan het laden...';
+$lang['AdminMain.index.text_items_selected'] = 'geselecteerde items';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Transactie-ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Datum';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Service';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Status';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'In afwachting van';
+$lang['AdminMain.settings.text_notifications'] = 'Configureer hoe je meldingen voor nieuwe bestellingen wilt ontvangen.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Configureer hoe je meldingen voor uitbetalingen van affiliates wilt ontvangen.';
 

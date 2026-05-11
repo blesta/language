@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -129,7 +129,7 @@ $lang['ClientServices.index.no_results'] = 'Du har inga %1$s-tjänster.';
 $lang['ClientServices.index.text_never'] = 'Aldrig';
 $lang['ClientServices.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientServices.index.option_manage'] = 'Hantera';
-$lang['ClientServices.index.heading_options'] = 'Alternativ';
+$lang['ClientServices.index.heading_options'] = 'Åtgärder';
 $lang['ClientServices.index.heading_datecanceled'] = 'Datum Annullerat';
 $lang['ClientServices.index.heading_datesuspended'] = 'Datum uppskjutet';
 $lang['ClientServices.index.heading_daterenews'] = 'Datum Förnyas';

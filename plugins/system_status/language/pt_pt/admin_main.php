@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.cron_minor'] = 'O Cron não foi executado nas últimas 24
 $lang['AdminMain.index.health_fair'] = 'Existem alguns problemas que afectam a capacidade de funcionamento normal do sistema.';
 $lang['AdminMain.index.health_good'] = 'De um modo geral, o sistema está em bom estado, mas há alguns aspectos que podem exigir a sua atenção.';
 $lang['AdminMain.index.health_excellent'] = 'O sistema está em bom estado e parece estar a funcionar normalmente.';
+$lang['AdminMain.index.text_info'] = 'Informações';
+$lang['AdminMain.index.text_warning'] = 'Aviso';
+$lang['AdminMain.index.text_error'] = 'Erro';
+$lang['AdminMain.index.text_success'] = 'Sucesso';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistema';
+$lang['AdminMain.index.category_database'] = 'Base de dados';
+$lang['AdminMain.index.category_security'] = 'Segurança';
 

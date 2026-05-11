@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -97,16 +97,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(menggunakan %1 $s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Paket yang Tersedia';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Paket yang Ditugaskan';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Semua';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Edit Kupon';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Perbarui Kupon';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Filter Grup Paket';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Paket';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Batasan Paket';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Menghapus';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Ketentuan';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Periode';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Diaktifkan';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Kupon ini hanya dapat digunakan untuk layanan yang dipesan untuk salah satu jangka waktu/periode yang dipilih. Jika tidak ada yang diaktifkan, maka jangka waktu layanan akan diabaikan saat mengevaluasi batasan kupon.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Ketentuan';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Batasan Istilah';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Nilai';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Jenis';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Mata uang';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Batasan tida
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Kuantitas';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Tanggal Akhir';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Tanggal Mulai';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Keterbatasan';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Keterbatasan &amp; Pembatasan';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Hasilkan kode';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Kode Kupon';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Hanya untuk Penggunaan Internal';
@@ -132,7 +132,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Paket yang Ditu
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Semua';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Buat Kupon';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Filter Grup Paket';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Paket';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Batasan Paket';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Menghapus';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Ketentuan';
@@ -150,7 +150,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Batasan tidak
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Kuantitas';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Tanggal Akhir';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Tanggal Mulai';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Keterbatasan';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Keterbatasan &amp; Pembatasan';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Hasilkan kode';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Kode Kupon';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Hanya untuk Penggunaan Internal';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Persyaratan';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Opsi';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Kelompok Opsi';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Kupon ini hanya dapat diterapkan jika opsi yang dapat dikonfigurasi yang dipilih cocok. Biarkan kosong untuk mengabaikan batasan opsi yang dapat dikonfigurasi.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Opsi yang Dapat Dikonfigurasi';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Batasan Opsi yang Dapat Dikonfigurasi';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Menambahkan';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Minta faktur untuk pengiriman setelah faktur ditutup';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Klien akan menerima notifikasi harian ketika saldo kredit mereka turun di bawah jumlah ini. Biarkan kosong untuk menonaktifkan notifikasi untuk mata uang ini.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!tooltip.payment_credit_enabled'] = 'Cek untuk mengiz
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Jumlah maksimum untuk %1$s harus lebih besar dari 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Jumlah minimum untuk %1$s harus lebih besar dari 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Pengaturan Penanganan Kredit berhasil diperbarui!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Masukkan nama alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Silakan masukkan perusahaan alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Silakan masukkan alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Silakan masukkan kota alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Pilih negara bagian/provinsi alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Masukkan kode pos/kode pos alamat pengirim.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Pilih negara alamat pengirim.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Tag yang tersedia meliputi: {num} - nomor kutipan (wajib); {tahun} - empat digit tahun; {bulan} - dua digit bulan; {hari} - dua digit hari dalam satu bulan.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Angka kuotasi akan dimulai (dan bertambah) dari nilai awal ini.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Nomor kutipan berikutnya akan bertambah dengan nilai ini.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Batasan Penggunaan';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Batasan Penggunaan';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Amplop Balasan';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Alamat Pengembalian';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Nama';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Perusahaan';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Alamat 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Alamat 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Kota';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Negara Bagian/Provinsi';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Kode Pos/Kode Pos';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Negara';
 

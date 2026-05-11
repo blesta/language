@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = '您没有 %1$s 域名。';
 $lang['ClientMain.index.text_never'] = '从不';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = '管理';
-$lang['ClientMain.index.heading_options'] = '选项';
+$lang['ClientMain.index.heading_options'] = '行动';
 $lang['ClientMain.index.heading_deletion_date'] = '删除日期';
 $lang['ClientMain.index.heading_suspension_date'] = '暂停日期';
 $lang['ClientMain.index.heading_expiration_date'] = '有效期';

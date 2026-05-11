@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Extra 
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standaard tekstwaarde';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standaardwaarde Gecontroleerd';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Waarde';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Aangepast veld bewerken';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Aangepast veld bijwerken';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Waarden coderen';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Aangepaste Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Vereist';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Het v
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standaard tekstwaarde';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standaardwaarde Gecontroleerd';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Waarde';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Aangepast veld toevoegen';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Aangepast veld maken';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Waarden coderen';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Aangepaste Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Vereist';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Naam';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Maak veld';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Aangepaste velden van klanten doorbladeren';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Instellingen > Bedrijf > Klantopties > Aangepaste velden klant > Bladeren';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Stuur  in';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Instellingen bijwerken';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Voorkom betalingen van niet-geverifieerde klanten';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Klant-ID Verhoogingswaarde';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Klant-ID Beginwaarde';

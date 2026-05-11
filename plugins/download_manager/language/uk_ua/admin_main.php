@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'У цьому розділі немає ст�
 $lang['AdminMain.urls.latest_file'] = 'Останній файл від <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Видалити';
 $lang['AdminMain.urls.edit'] = 'Редагувати';
-$lang['AdminMain.urls.heading_options'] = 'Параметри';
+$lang['AdminMain.urls.heading_options'] = 'Дії';
 $lang['AdminMain.urls.heading_link'] = 'Посилання';
 $lang['AdminMain.urls.heading_file'] = 'Файл';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Диспетчер завантажень 
 $lang['AdminMain.files.no_downloads'] = 'У цьому розділі немає завантажень.';
 $lang['AdminMain.files.delete'] = 'Видалити';
 $lang['AdminMain.files.edit'] = 'Редагувати';
-$lang['AdminMain.files.go_back'] = 'Підніміться на рівень вище.';
-$lang['AdminMain.files.add_category'] = 'Додати категорію тут';
+$lang['AdminMain.files.go_back'] = 'Назад';
+$lang['AdminMain.files.add_category'] = 'Додати категорію';
 $lang['AdminMain.files.add_download'] = 'Додати завантаження тут';
 $lang['AdminMain.files.tab_urls'] = 'Статичні URL-адреси';
 $lang['AdminMain.files.tab_files'] = 'Файли';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Файл успішно додано.'
 $lang['AdminMain.!success.category_deleted'] = 'Категорію успішно видалено.';
 $lang['AdminMain.!success.category_updated'] = 'Категорію успішно оновлено.';
 $lang['AdminMain.!success.category_added'] = 'Категорія успішно створена.';
-$lang['AdminMain.edit.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Файли';
+$lang['AdminMain.sidebar.urls'] = 'Статичні URL-адреси';
+$lang['AdminMain.!performance.xsendfile'] = 'В Apache увімкнено mod_http2, але не увімкнено mod_xsendfile. Ми рекомендуємо увімкнути або встановити mod_xsendfile для кращої продуктивності і швидшого завантаження.';
+$lang['AdminMain.modal.confirm_delete'] = 'Підтвердити Видалити';
+$lang['AdminMain.modal.delete'] = 'Видалити';
+$lang['AdminMain.modal.cancel'] = 'Скасувати';
+$lang['AdminMain.modal.save'] = 'Зберегти';
+$lang['AdminMain.add.public'] = 'Загальнодоступний';
+$lang['AdminMain.add.logged_in'] = 'Ви повинні увійти в систему';
+$lang['AdminMain.add.text_fileinfo'] = 'ПРИМІТКА: Файли мають бути розміщені десь у вашому каталозі завантажень.';
+$lang['AdminMain.add.field_file_type'] = 'Джерело файлу';
+$lang['AdminMain.add.upload'] = 'Завантажити файл';
+$lang['AdminMain.add.path'] = 'Вкажіть шлях до файлу';
 

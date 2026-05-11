@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Уведомл
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Оплата отклонена (кредитная карта)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Уведомление, отправленное после одобрения успешного платежа по кредитной карте.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Оплата одобрена (кредитная карта)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Обновление';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Применить';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Шаблонов такого типа не существует.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Редактировать';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Опции';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Отмена';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Вложение';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Удалить';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Вы уверены, что хотите удалить это вложение?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Опции';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Действия';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Имя файла';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Дополнительные вложения';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Шаблон электронной почты';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Нет';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Обновление HTML-шаблона';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Редактировать шаблон';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Обновить шаблон';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Теги';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Имя';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Редактировать HTML-шаблон';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Добавить шаблон';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Создать шаблон';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Теги';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Имя';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Добавить HTML-шаблон';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Уведо�
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Отказ от услуг';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Уведомление отправляется, когда кредитный баланс клиента падает ниже настроенного порога.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Уведомление о низком балансе';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Предлагаемая тема';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Текстовая версия';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML-версия';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Тематическая линия';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Применить содержимое к:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Ошибка:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Слишком много запросов. Пожалуйста, подождите немного, прежде чем повторить попытку.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Не удалось создать содержимое. Пожалуйста, попробуйте еще раз.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Длина подсказки превышает максимальную.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Для создания контента требуется подсказка.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Функция создания шаблонов электронной почты AI не включена.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Функции искусственного интеллекта в настоящее время отключены.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Предварительный просмотр текста';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Предварительный просмотр HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Нажмите кнопку Генерировать, чтобы создать содержимое электронной почты на основе типа шаблона и доступных тегов.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Созданный контент';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Дополнительные указания для ИИ по настройке генерируемого контента.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Добавьте особые требования или предпочтения по тону...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Дополнительные инструкции';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Загрузка подсказки...';
+$lang['AdminCompanyEmails.ai.generating'] = 'Генерирование...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Контекст подсказки';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Отмена';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Используйте этот контент';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Регенерировать';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Переписать';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Создать';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Переработка содержимого электронной почты';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Создание контента для электронной почты';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Контент-ассистент с искусственным интеллектом';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Скопировано!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Копировать';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI перенаправления OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Вы уверены, что хотите восстановить этот снимок? Все несохраненные изменения будут потеряны.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Для этого шаблона электронной почты нет доступных снимков.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'История шаблонов';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Восстановление моментального снимка';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Восстановить';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Просмотр файлов';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Отправьте файлы сюда или нажмите кнопку "Обзор", чтобы загрузить вложения';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Используйте эти теги в шаблоне письма, чтобы включить в него динамический контент.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Доступные теги';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Введите текстовый вариант сообщения электронной почты';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Введите тему письма';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Введите адрес электронной почты';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Введите имя пользователя';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'выбранные элементы';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Скопируйте этот URL-адрес и добавьте его в качестве URI авторизованного перенаправления в настройках приложения вашего OAuth-провайдера (например, Google Cloud Console, Microsoft Azure Portal). Это необходимо для работы аутентификации OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Шаблон электронной почты был успешно восстановлен из моментального снимка!';
 

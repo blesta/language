@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['AdminMain.index.no_results'] = 'Der er ingen dokumenter indstillet til de
 $lang['AdminMain.index.heading_name'] = 'Navn';
 $lang['AdminMain.index.heading_description'] = 'Beskrivelse';
 $lang['AdminMain.index.heading_date_added'] = 'Dato tilføjet';
-$lang['AdminMain.index.heading_date_options'] = 'Valgmuligheder';
+$lang['AdminMain.index.heading_date_options'] = 'Handlinger';
 $lang['AdminMain.index.option_delete'] = 'Slet';
 $lang['AdminMain.index.option_download'] = 'Download';
 $lang['AdminMain.modal.delete_document'] = 'Vil du virkelig slette dette dokument?';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.field_name'] = 'Navn';
 $lang['AdminMain.add.field_document'] = 'Dokument';
 $lang['AdminMain.add.field_description'] = 'Beskrivelse';
 $lang['AdminMain.add.field_submit'] = 'Upload dokument';
+$lang['AdminMain.index.link_client'] = 'Tilbage til Client #.%1$s';
+$lang['AdminMain.add.link_back'] = 'Tilbage til dokumenter';
 

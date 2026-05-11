@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'Note';
 $lang['AdminSystemApi.edit.field_user'] = 'Utilizator';
 $lang['AdminSystemApi.edit.field_company'] = 'Compania';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Editare utilizator API';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Adăugați un utilizator';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Creează utilizator';
 $lang['AdminSystemApi.add.field_notes'] = 'Note';
 $lang['AdminSystemApi.add.field_user'] = 'Utilizator';
 $lang['AdminSystemApi.add.field_company'] = 'Compania';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'Chiar ștergeți acest utilizato
 $lang['AdminSystemApi.index.no_results'] = 'Nu există utilizatori API.';
 $lang['AdminSystemApi.index.option_delete'] = 'Ștergeți';
 $lang['AdminSystemApi.index.option_edit'] = 'Editați';
-$lang['AdminSystemApi.index.heading_options'] = 'Opțiuni';
+$lang['AdminSystemApi.index.heading_options'] = 'Acțiuni';
 $lang['AdminSystemApi.index.heading_date'] = 'Data creării';
 $lang['AdminSystemApi.index.heading_company'] = 'Compania';
 $lang['AdminSystemApi.index.heading_key'] = 'Cheie';

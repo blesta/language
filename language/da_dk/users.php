@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.username.attempts'] = 'For mange mislykkede login-forsøg re
 $lang['Users.!error.username.company'] = 'Du er ikke autoriseret til at logge ind på dette sted.';
 $lang['Users.!error.clients.exist'] = 'Brugeren kan ikke slettes, fordi der er tildelt mindst én klient til brugeren.';
 $lang['Users.!error.recovery_email.format'] = 'Ugyldig e-mailadresse til gendannelse.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'skal matche mønsteret: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'skal indeholde %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'mindst %1$s tegn';
+$lang['Users.!error.password_requirement.length_exact'] = 'præcis %1$s tegn';
+$lang['Users.!error.password_requirement.length_between'] = 'mellem %1$s og %2$s tegn';
+$lang['Users.!error.password_requirement.special_char'] = 'specialtegn';
+$lang['Users.!error.password_requirement.digit'] = 'ciffer';
+$lang['Users.!error.password_requirement.uppercase'] = 'stort bogstav';
+$lang['Users.!error.password_requirement.lowercase'] = 'lille bogstav';
+$lang['Users.!error.new_password.format_custom'] = 'Adgangskoden opfylder ikke kravene: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'Adgangskoden skal bestå af mindst %1$s tegn og må kun indeholde tal.';
+$lang['Users.!error.new_password.format_alpha'] = 'Adgangskoden skal bestå af mindst %1$s tegn og må kun indeholde bogstaver.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'Adgangskoden skal bestå af mindst %1$s tegn og må kun indeholde bogstaver og tal.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'Adgangskoden skal bestå af mindst %1$s tegn og må ikke indeholde mellemrum.';
+$lang['Users.!error.new_password.format_any'] = 'Adgangskoden skal bestå af mindst %1$s tegn.';
 

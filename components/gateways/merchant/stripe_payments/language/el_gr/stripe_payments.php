@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Μην απεγκαταστ�
 $lang['StripePayments.text_migrate_accounts'] = 'Μπορείτε να μεταφέρετε αυτόματα τους λογαριασμούς πληρωμών που ήταν αποθηκευμένοι offsite από την παλιά πύλη Stripe σε αυτή την πύλη Stripe Payments. Οι λογαριασμοί που δεν είναι αποθηκευμένοι εκτός τοποθεσίας πρέπει να μεταφερθούν δημιουργώντας χειροκίνητα νέους λογαριασμούς πληρωμών. Για να αποφευχθούν οι χρονικές καθυστερήσεις, οι μετακινήσεις θα γίνονται σε παρτίδες των %1$s. Εκτελέστε αυτό το πρόγραμμα όσες φορές χρειάζεται για να μεταφερθούν όλοι οι λογαριασμοί πληρωμών.';
 $lang['StripePayments.text_accounts_remaining'] = 'Υπολειπόμενοι λογαριασμοί: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Μετεγκατάσταση παλαιών λογαριασμών πληρωμών';
-$lang['StripePayments.webhook_note'] = 'Συνιστάται να ρυθμίσετε το ακόλουθο url ως Webhook για τα συμβάντα "payment_intent" στο λογαριασμό σας στο Stripe.';
+$lang['StripePayments.webhook_note'] = 'Συνιστάται να ρυθμίσετε το ακόλουθο url ως Webhook για τα συμβάντα "payment_intent" και "charge" στο λογαριασμό σας στο Stripe.';
 $lang['StripePayments.webhook'] = 'Webhook λωρίδας';
 $lang['StripePayments.tooltip_secret_key'] = 'Το μυστικό κλειδί API είναι συγκεκριμένο είτε για τη λειτουργία live είτε για τη δοκιμαστική λειτουργία. Βεβαιωθείτε ότι χρησιμοποιείτε το σωστό κλειδί.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Το Κλειδί δημοσίευσης API σας είναι συγκεκριμένο είτε για τη ζωντανή είτε για τη δοκιμαστική λειτουργία. Βεβαιωθείτε ότι χρησιμοποιείτε το σωστό κλειδί.';

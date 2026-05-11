@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Tisk';
 $lang['AdminBilling.printqueue.page_title'] = 'Fronta tisku vyúčtování';
 $lang['AdminBilling.invoices.text_edit'] = 'Upravit';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Na tuto fakturu nebyly uplatněny žádné transakce.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Možnosti';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Akce';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Applied On';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Aplikované';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Částka';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Chyba';
 $lang['AdminBilling.transactions.category_voided'] = 'Zrušená platnost';
 $lang['AdminBilling.transactions.category_declined'] = 'Odmítnuto';
 $lang['AdminBilling.transactions.category_approved'] = 'Schváleno';
-$lang['AdminBilling.transactions.heading_options'] = 'Možnosti';
+$lang['AdminBilling.transactions.heading_options'] = 'Akce';
 $lang['AdminBilling.transactions.heading_date'] = 'Datum';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Odkaz #';
 $lang['AdminBilling.transactions.heading_number'] = 'Číslo';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Transakce';
 $lang['AdminBilling.transactions.page_title'] = 'Fakturační transakce';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Důvod zrušení: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Tato služba neobsahuje žádné podrobnosti.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Odeslat';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Použít';
 $lang['AdminBilling.services.action.field_client'] = 'Klient:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push to Client';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Nezrušujte';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Aktivní';
 $lang['AdminBilling.services.confirm_delete'] = 'Opravdu chcete tuto službu odstranit?';
 $lang['AdminBilling.services.option_delete'] = 'Odstranit';
 $lang['AdminBilling.services.option_manage'] = 'Správa';
-$lang['AdminBilling.services.heading_options'] = 'Možnosti';
+$lang['AdminBilling.services.heading_options'] = 'Akce';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Datum zrušení';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Datum pozastavení';
 $lang['AdminBilling.services.heading_daterenews'] = 'Datum obnovení';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Služby';
 $lang['AdminBilling.services.page_title'] = 'Fakturační služby';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'K této nabídce nejsou přiřazeny žádné faktury.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Zobrazit';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Možnosti';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Akce';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Datum vyúčtování';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Placené';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Částka';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Schválit';
 $lang['AdminBilling.quotations.option_invoice'] = 'Vytvořit fakturu';
 $lang['AdminBilling.quotations.option_view'] = 'Zobrazit';
 $lang['AdminBilling.quotations.option_edit'] = 'Upravit';
-$lang['AdminBilling.quotations.heading_options'] = 'Možnosti';
+$lang['AdminBilling.quotations.heading_options'] = 'Akce';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Datum vypršení platnosti';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Datum vytvoření';
 $lang['AdminBilling.quotations.heading_total'] = 'Částka';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Otevřít';
 $lang['AdminBilling.invoices.heading_count'] = 'Hrabě';
 $lang['AdminBilling.invoices.heading_duration'] = 'Doba trvání';
 $lang['AdminBilling.invoices.heading_term'] = 'Termín';
-$lang['AdminBilling.invoices.heading_options'] = 'Možnosti';
+$lang['AdminBilling.invoices.heading_options'] = 'Akce';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Datum splatnosti';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Datum vyúčtování';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Datum uzavření';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Vybrané služby byly ús
 $lang['AdminBilling.!success.services_suspended'] = 'Vybrané služby byly úspěšně pozastaveny.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Tato služba čeká na změny.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Datum proplacení: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'vybrané položky';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'vybraná položka';
+$lang['AdminBilling.transactions.option_view'] = 'Zobrazit';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Akce';
+$lang['AdminBilling.services.text_items_selected'] = 'vybrané položky';
+$lang['AdminBilling.services.text_item_selected'] = 'vybraná položka';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Použít filtry';
+$lang['AdminBilling.services.field_filterclear'] = 'Přehledně';
+$lang['AdminBilling.services.filter_toggle'] = 'Přepínání filtrů';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Použít filtry';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Přehledně';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Přepínání filtrů';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Kliknutím na widgety je zobrazíte nebo skryjete z hlavního panelu.';
 

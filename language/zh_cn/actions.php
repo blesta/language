@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['Actions.!error.name.action_empty'] = '请输入操作名称。';
 $lang['Actions.!error.url.empty'] = '请输入 URL。';
 $lang['Actions.!error.location.unique'] = '该公司的位置和 URL 必须是唯一的。';
 $lang['Actions.!error.location.valid'] = '无效的有效位置。';
+$lang['Actions.!error.icon.length'] = '图标类别不得超过 255 个字符。';
 

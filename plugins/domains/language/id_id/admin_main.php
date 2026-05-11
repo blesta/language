@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -93,7 +93,7 @@ $lang['AdminMain.add.term_days'] = '%1 $ s Hari';
 $lang['AdminMain.add.term_day'] = '%1$s Day';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Tidak tersedia';
 $lang['AdminMain.add.text_domain_available'] = 'Tersedia';
-$lang['AdminMain.add.heading_options'] = 'Pilihan';
+$lang['AdminMain.add.heading_options'] = 'Tindakan';
 $lang['AdminMain.add.heading_status'] = 'Status';
 $lang['AdminMain.add.heading_domain'] = 'Domain';
 $lang['AdminMain.add.title_registrar_options'] = 'Opsi Pendaftar';
@@ -114,7 +114,7 @@ $lang['AdminMain.add.field_add'] = 'Tambahkan Domain';
 $lang['AdminMain.add.field_register'] = 'Daftar';
 $lang['AdminMain.add.field_transfer'] = 'Transfer';
 $lang['AdminMain.add.link_viewclient'] = 'Lihat Klien';
-$lang['AdminMain.add.boxtitle_add'] = 'Tambahkan Domain: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Tambahkan Domain %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Klien #%1$s';
 $lang['AdminMain.index.unparent'] = 'Harga Tidak Jelas dan Atur Ulang';
 $lang['AdminMain.!error.unsupported_domain'] = 'Nama domain tidak didukung.';
@@ -148,7 +148,7 @@ $lang['AdminMain.index.category_canceled'] = 'Dibatalkan';
 $lang['AdminMain.index.category_suspended'] = 'Ditangguhkan';
 $lang['AdminMain.index.category_pending'] = 'Tertunda';
 $lang['AdminMain.index.category_active'] = 'Aktif';
-$lang['AdminMain.index.heading_options'] = 'Pilihan';
+$lang['AdminMain.index.heading_options'] = 'Tindakan';
 $lang['AdminMain.index.heading_datecanceled'] = 'Tanggal Dibatalkan';
 $lang['AdminMain.index.heading_datesuspended'] = 'Tanggal Ditangguhkan';
 $lang['AdminMain.index.heading_dateexpires'] = 'Tanggal Berakhir';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Menyegarkan';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domain telah ditransfer dari pencatat.';
 $lang['AdminMain.!success.remove_price_override'] = 'Harga penggantian domain telah dihapus!';
 $lang['AdminMain.!success.set_price_override'] = 'Harga penggantian domain telah diperbarui!';
+$lang['AdminMain.add.heading_search'] = 'Pencarian Domain';
+$lang['AdminMain.add.field_domain'] = 'Domain';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'TLD Sorotan';
+$lang['AdminMain.add.link_more_tlds'] = 'Lebih banyak TLD';
+$lang['AdminMain.add.button_cancel'] = 'Batal';
+$lang['AdminMain.add.button_previous'] = 'Sebelumnya';
+$lang['AdminMain.add.button_continue'] = 'Lanjutkan';
+$lang['AdminMain.add_confirmation.total'] = 'Total:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Item Baris';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kode Kupon';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Total Pesanan';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Masukkan kode kupon';
+$lang['AdminMain.edit.text_select_action'] = 'Klik tombol di atas untuk menampilkan formulir untuk melakukan suatu tindakan.';
+$lang['AdminMain.edit.text_no_fields'] = 'Tindakan ini tidak memerlukan opsi tambahan apa pun. Klik Kirim untuk melanjutkan.';
 

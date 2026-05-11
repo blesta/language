@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -253,4 +253,5 @@ $lang['Namecheap.!error.FRRegistrantJoNumber.format'] = 'Angiv venligst journaln
 $lang['Namecheap.!error.FRRegistrantJoPage.format'] = 'Indstil venligst Journal Announcement Page Number.';
 $lang['Namecheap.getCronTasks.tld_sync_desc'] = 'Opdaterer automatisk TLD-listen og priserne fra Namecheap.';
 $lang['Namecheap.getCronTasks.tld_sync_name'] = 'Synkronisering af TLD-data';
+$lang['Namecheap.back_to_manage'] = 'Tilbage';
 

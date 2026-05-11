@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -70,7 +70,7 @@ $lang['ClientContacts.index.no_results'] = 'Nemáte žádné kontakty. Chcete-li
 $lang['ClientContacts.index.confirm_delete'] = 'Opravdu chcete tento kontakt odstranit?';
 $lang['ClientContacts.index.option_delete'] = 'Odstranit';
 $lang['ClientContacts.index.option_edit'] = 'Upravit';
-$lang['ClientContacts.index.heading_options'] = 'Možnosti';
+$lang['ClientContacts.index.heading_options'] = 'Akce';
 $lang['ClientContacts.index.heading_type'] = 'Typ';
 $lang['ClientContacts.index.heading_email'] = 'E-mail';
 $lang['ClientContacts.index.heading_name'] = 'Název';

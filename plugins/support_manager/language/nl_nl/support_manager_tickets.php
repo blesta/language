@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Vuilnis';
 $lang['SupportManagerTickets.status.closed'] = 'Gesloten';
 $lang['SupportManagerTickets.status.on_hold'] = 'In de wacht';
 $lang['SupportManagerTickets.status.in_progress'] = 'In uitvoering';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'In afwachting van antwoord van klant';
-$lang['SupportManagerTickets.status.open'] = 'In afwachting van antwoord';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'In afwachting van klant';
+$lang['SupportManagerTickets.status.open'] = 'In afwachting van personeel';
 $lang['SupportManagerTickets.priority.low'] = 'Laag';
 $lang['SupportManagerTickets.priority.medium'] = 'Medium';
 $lang['SupportManagerTickets.priority.high'] = 'Hoog';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Ten minste één van d
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Ten minste één van de ontvangers van het ticket is dubbel.';
 $lang['SupportManagerTickets.log.service_id'] = 'De gerelateerde service is gewijzigd in interne ID: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" is vereist en kan niet leeg zijn.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Ticket #%1$s bijgewerkt';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Nieuw ticket #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s beantwoord ticket #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s ticket #%2$s geopend: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Ticket #%1$s Toegewezen';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Ticket #%1$s aan jou toegewezen: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'De afbeelding kon niet worden geüpload. Probeer het opnieuw.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'De afbeelding overschrijdt de maximaal toegestane grootte van %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Ongeldig type afbeelding. Alleen JPEG-, PNG-, GIF- en WebP-afbeeldingen zijn toegestaan.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'De uploadmap kon niet worden aangemaakt.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'De afbeelding kon niet worden opgeslagen. Probeer het opnieuw.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Inline base64 afbeeldingen zijn niet toegestaan. Plak of sleep afbeeldingen naar de editor om ze te uploaden.';
 

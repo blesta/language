@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Υπενθυμίσε
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ρυθμίσεις';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Αυτόματη αποστολή υπενθυμίσεων στους πελάτες για να αφήσουν τα σχόλιά τους για τα εισιτήρια που έχουν κλείσει μετά από ένα συγκεκριμένο χρονικό διάστημα.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Αποστολή υπενθυμίσεων ανατροφοδότησης';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Διαδικασία εισιτηρίων με AI';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Αναλύει τα εισιτήρια με τεχνητή νοημοσύνη για τη δημιουργία προτάσεων απάντησης και την αυτόματη εκτέλεση των χρήσεων του εργαλείου (κλείσιμο ανεπιθύμητων μηνυμάτων, ανάθεση προσωπικού, αλλαγή προτεραιότητας).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Ρυθμίσεις AI';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Σημείωση: Αυτή η απάντηση δημιουργήθηκε από την AI και θα πρέπει να ελεγχθεί για την ακρίβειά της.*';
 

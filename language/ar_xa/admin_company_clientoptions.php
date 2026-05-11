@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'إضا
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'قيمة النص الافتراضي';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'تم التحقق من القيمة الافتراضية';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'القيمة';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'تحرير الحقل المخصص';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'تحديث الحقل المخصص';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'تشفير القيم';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'ريجكس مخصص';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'مطلوب';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'سي�
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'قيمة النص الافتراضي';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'تم التحقق من القيمة الافتراضية';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'القيمة';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'إضافة حقل مخصص';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'إنشاء حقل مخصص';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'تشفير القيم';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'ريجكس مخصص';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'مطلوب';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'الاسم';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'إنشاء حقل';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'استعراض الحقول المخصصة للعميل';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'الإعدادات &gt; الشركة &gt; خيارات العميل &gt; الحقول المخصصة للعميل &gt; استعراض';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'إرسال';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'تحديث الإعدادات';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'منع المدفوعات من عملاء لم يتم التحقق من هويتهم';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'قيمة زيادة معرف العميل';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'قيمة بدء معرف العميل';

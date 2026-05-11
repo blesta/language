@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = 'Účty';
 $lang['Nominet.module_row'] = 'Účet';
 $lang['Nominet.description'] = 'Nominet je registr doménových jmen, který provozuje doménu nejvyšší úrovně .UK.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = 'Zpět';
+$lang['Nominet.manage.tab_rows'] = 'Servery';
+$lang['Nominet.manage.tab_groups'] = 'Skupiny serverů';
 

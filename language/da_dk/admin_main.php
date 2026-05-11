@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminMain.!success.event_edited'] = 'Arrangementet er blevet opdateret me
 $lang['AdminMain.!success.event_deleted'] = 'Begivenheden er blevet slettet!';
 $lang['AdminMain.index.page_title'] = 'Dashboard';
 $lang['AdminMain.index.heading_quicklinks'] = 'Hurtige links';
-$lang['AdminMain.index.no_quicklinks'] = 'Der er ikke indstillet nogen Quick Links.';
+$lang['AdminMain.index.no_quicklinks'] = 'Ingen hurtige links endnu. Klik på stjerneikonet på en hvilken som helst side for at tilføje den her.';
 $lang['AdminMain.index.manage_widgets'] = 'Administrer widgets';
 $lang['AdminMain.index.customize_dashboard'] = 'Tilpas instrumentbrættet';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Træk widgets fra højre mod venstre for at tilføje dem til dit dashboard, eller fra venstre mod højre for at fjerne dem.';
@@ -46,4 +46,13 @@ $lang['AdminMain.editevent.field_all_day'] = 'Hele dagen';
 $lang['AdminMain.editevent.field_editeventsubmit'] = 'Opdatering af begivenhed';
 $lang['AdminMain.editevent.field_deleteeventsubmit'] = 'Slet begivenhed';
 $lang['AdminMain.editevent.confirm_delete'] = 'Vil du virkelig slette denne begivenhed?';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Administrer dashboard-widgets';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Luk';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Fjern hurtigt link';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Er du sikker på, at du vil fjerne "%1$s" fra Quick Links?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Fjerne';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuller';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klik på widgets for at vise eller skjule dem fra dit dashboard.';
+$lang['AdminMain.calendar.category_list'] = 'Liste';
+$lang['AdminMain.calendar.category_today'] = 'I dag';
 

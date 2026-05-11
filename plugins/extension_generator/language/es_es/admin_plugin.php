@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminPlugin.basic.description'] = 'Descripción';
 $lang['AdminPlugin.basic.logo'] = 'Logotipo';
 $lang['AdminPlugin.basic.author_name'] = 'Nombre del autor';
 $lang['AdminPlugin.basic.author_url'] = 'URL del autor';
-$lang['AdminPlugin.basic.text_options'] = 'Opciones';
+$lang['AdminPlugin.basic.text_options'] = 'Acciones';
 $lang['AdminPlugin.basic.author_row_add'] = 'Añadir autor';
 $lang['AdminPlugin.basic.text_remove'] = 'Eliminar';
 $lang['AdminPlugin.basic.tooltip_description'] = 'La descripción que aparece en el listado de plugins';
@@ -61,7 +61,7 @@ $lang['AdminPlugin.database.tooltip_primary'] = 'Marca esta columna como clave p
 $lang['AdminPlugin.database.placeholder_column_name'] = 'por ejemplo, nombre_columna';
 $lang['AdminPlugin.database.placeholder_length'] = 'p. ej. 64 o \'a\',\'b\',\'c\'';
 $lang['AdminPlugin.database.text_more_info'] = 'Esta página se utiliza para crear un esquema para las tablas de base de datos generadas y gestionadas por este plugin. Se generará código para añadir y eliminar estas tablas en la instalación y desinstalación. Además, se crearán archivos modelo para estas tablas con algunas funciones básicas.';
-$lang['AdminPlugin.database.text_options'] = 'Opciones';
+$lang['AdminPlugin.database.text_options'] = 'Acciones';
 $lang['AdminPlugin.database.text_remove'] = 'Eliminar';
 $lang['AdminPlugin.database.integrations'] = 'Siguiente - Integraciones básicas';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Integraciones básicas';
@@ -85,7 +85,7 @@ $lang['AdminPlugin.integrations.link'] = 'Enlace';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = 'Las "acciones" representan las páginas del plugin a las que se puede acceder a través de la interfaz principal. Esto incluye enlaces de navegación en las áreas de administración y cliente, widgets en el área de administración y enlaces en la barra lateral del perfil del cliente. Los controladores y acciones introducidos aquí se utilizarán para generar archivos de controlador simples. Además, se crearán archivos de vista de ejemplo para cada acción.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Este es el sistema hook de Blesta.  Los eventos son registrados por el núcleo o por un plugin, entonces los plugins escuchan estos eventos y definen métodos manejadores para el evento.  Dado que cualquier plugin puede registrar eventos, puede haber cualquier número de ellos, sin embargo la lista de eventos del núcleo definidos por blesta puede encontrarse aquí https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Las tarjetas de cliente son pequeños recuadros que se muestran en el perfil del cliente (en el área de cliente o de administración) y se utilizan principalmente para mostrar diversas estadísticas (por ejemplo, número de servicios, entradas o pedidos). Constan de un valor, una etiqueta, un fondo y un enlace.  La etiqueta se muestra debajo del valor que se extrae de una función de devolución de llamada.';
-$lang['AdminPlugin.integrations.text_options'] = 'Opciones';
+$lang['AdminPlugin.integrations.text_options'] = 'Acciones';
 $lang['AdminPlugin.integrations.text_remove'] = 'Eliminar';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'La ubicación en la interfaz para mostrar la acción';
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'El controlador para el URI desde el que extraer el contenido para la acción (por ejemplo, admin_main).';
@@ -132,7 +132,7 @@ $lang['AdminPlugin.features.placeholder_cron_label'] = 'Ejemplo de tarea Cron';
 $lang['AdminPlugin.features.placeholder_time'] = 'por ejemplo, 14:25 o 60';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Añadir pestaña de gestión de servicios';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Añadir tarea Cron';
-$lang['AdminPlugin.features.text_options'] = 'Opciones';
+$lang['AdminPlugin.features.text_options'] = 'Acciones';
 $lang['AdminPlugin.features.text_remove'] = 'Eliminar';
 $lang['AdminPlugin.features.confirm'] = 'Siguiente - Confirmación';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Faturalandırma';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Müşterilere Gözat';
 $lang['Navigation.getprimary.nav_clients'] = 'Müşteriler';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Gösterge Tablosu';
-$lang['Navigation.getprimary.nav_home'] = 'Ev';
+$lang['Navigation.getprimary.nav_home'] = 'Gösterge Tablosu';
 $lang['Navigation.!error.parent_id.valid'] = 'Geçersiz üst gezinti öğesi kimliği';
 $lang['Navigation.!error.order.valid'] = 'Sipariş indeksi sayısal bir değer olmalıdır';
 $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Servis Kuyruğu';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Hizmet Değişiklikleri';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronik Faturalar';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredi İşlemleri';
+$lang['Navigation.getsystem.nav_ai'] = 'YAPAY ZEKA';
 

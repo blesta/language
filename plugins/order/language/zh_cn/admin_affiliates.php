@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = '您确定要停用此联属
 $lang['AdminAffiliates.index.option_activate'] = '激活';
 $lang['AdminAffiliates.index.option_deactivate'] = '停用';
 $lang['AdminAffiliates.index.option_manage'] = '管理';
-$lang['AdminAffiliates.index.heading_options'] = '选项';
+$lang['AdminAffiliates.index.heading_options'] = '行动';
 $lang['AdminAffiliates.index.heading_date_updated'] = '更新日期';
 $lang['AdminAffiliates.index.heading_date_added'] = '添加日期';
 $lang['AdminAffiliates.index.heading_sales'] = '销售';

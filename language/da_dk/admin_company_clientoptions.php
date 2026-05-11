@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,7 +50,7 @@ $lang['AdminCompanyClientOptions.general.field_clients_format'] = 'Klient-ID-for
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Klient-ID Startværdi';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Klient-id-inkrementværdi';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Forhindre betalinger fra ubekræftede kunder';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Indsend';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Opdater indstillinger';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Indstillinger > Firma > Klientindstillinger > Klientdefinerede felter > Gennemse';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Gennemse klientens brugerdefinerede felter';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Opret felt';
@@ -76,7 +76,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.field.read_only'] = 'Kun læsnin
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Påkrævet';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Brugerdefineret Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Krypter værdier';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Tilføj brugerdefineret felt';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Opret brugerdefineret felt';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Værdi';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standardværdi Kontrolleret';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standard tekstværdi';
@@ -97,7 +97,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.field.read_only'] = 'Kun læsni
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Påkrævet';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Brugerdefineret Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Krypter værdier';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Rediger brugerdefineret felt';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Opdater brugerdefineret felt';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Værdi';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standardværdi Kontrolleret';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standard tekstværdi';

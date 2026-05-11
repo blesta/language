@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Jste si jisti, že chcete tuto v�
 $lang['AdminPayouts.index.option_decline'] = 'Pokles';
 $lang['AdminPayouts.index.option_approve'] = 'Schválit';
 $lang['AdminPayouts.index.option_edit'] = 'Upravit';
-$lang['AdminPayouts.index.heading_options'] = 'Možnosti';
+$lang['AdminPayouts.index.heading_options'] = 'Akce';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Požadované datum';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Placená měna';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Vyplacená částka';

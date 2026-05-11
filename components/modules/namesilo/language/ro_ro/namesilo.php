@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Valoare';
 $lang['Namesilo.dnsrecord.host'] = 'Gazda';
 $lang['Namesilo.dnsrecord.record_type'] = 'Tip';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'În această pagină puteți adăuga sau șterge înregistrări DNS A, AAAA, CNAME, MX și TXT. Vă rugăm să fiți atenți la faptul că este posibil să dureze câteva minute pentru ca înregistrările DNS să se propage.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Pe această pagină puteți adăuga sau șterge înregistrări DNS A, AAAA, CNAME, MX și TXT. Vă rugăm să fiți atenți la faptul că ar putea dura câteva minute pentru propagarea înregistrărilor DNS. <br/> Pentru ca oricare dintre aceste modificări să se reflecte asupra numelui dvs. de domeniu, trebuie să setați serverele de nume la:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Adăugați înregistrare';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Ștergeți înregistrarea (înregistrările)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Adăugați o înregistrare DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Extrage contactele din name
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Trageți contactele Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Această caracteristică necesită ca domeniul să utilizeze următoarele servere de nume: ns1.dnsowl.com, ns2.dnsowl.com și ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Domeniul nu este disponibil pentru înregistrare.';
+$lang['Namesilo.back_to_manage'] = 'Înapoi';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Acțiuni';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Unul sau mai multe câmpuri conțin caractere speciale (de exemplu, litere accentuate). Este posibil ca NameSilo să nu accepte aceste caractere în câmpurile de contact.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Transmiterea domeniului';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Redirecționarea domeniului este eliminată automat atunci când îi dați domeniului altceva de făcut, cum ar fi schimbarea serverelor de nume sau schimbarea înregistrărilor A primare pentru @ și www. <br/> Pentru ca oricare dintre aceste modificări să se reflecte asupra numelui dvs. de domeniu, trebuie să setați serverele de nume la:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domeniu';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Înainte către';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metoda de expediere';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Înainte permanent (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Avans temporar (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Camuflat';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Activ';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Ștergeți';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Update Forwarders';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'URL-ul de redirecționare este invalid. Vă rugăm să vă asigurați că utilizați HTTPS sau HTTP.';
 

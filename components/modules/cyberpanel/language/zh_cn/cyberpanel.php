@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = '服务器';
 $lang['Cyberpanel.module_row'] = '服务器';
 $lang['Cyberpanel.description'] = 'CyberPanel 是由 OpenLiteSpeed 支持的下一代主机控制面板。专为速度、安全性和可靠性而打造。';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = '返回';
+$lang['Cyberpanel.manage.tab_rows'] = '服务器';
+$lang['Cyberpanel.manage.tab_groups'] = '服务器组';
 

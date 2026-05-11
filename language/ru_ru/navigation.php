@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Выставление счето�
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Просмотреть клиентов';
 $lang['Navigation.getprimary.nav_clients'] = 'Клиенты';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Приборная панель';
-$lang['Navigation.getprimary.nav_home'] = 'Главная';
+$lang['Navigation.getprimary.nav_home'] = 'Приборная панель';
 $lang['Navigation.!error.parent_id.valid'] = 'Неверный идентификатор родительского элемента навигации';
 $lang['Navigation.!error.order.valid'] = 'Индекс заказа должен быть числовым значением';
 $lang['Navigation.!error.action_id.valid'] = 'Неверный идентификатор действия';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Очередь обсл
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Изменения в обслуживании';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Электронные счета-фактуры';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Работа с кредитами';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

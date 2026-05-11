@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = 'Czy na pewno chcesz dezakty
 $lang['AdminAffiliates.index.option_activate'] = 'Aktywuj';
 $lang['AdminAffiliates.index.option_deactivate'] = 'Dezaktywuj';
 $lang['AdminAffiliates.index.option_manage'] = 'Zarządzanie';
-$lang['AdminAffiliates.index.heading_options'] = 'Opcje';
+$lang['AdminAffiliates.index.heading_options'] = 'Działania';
 $lang['AdminAffiliates.index.heading_date_updated'] = 'Data aktualizacji';
 $lang['AdminAffiliates.index.heading_date_added'] = 'Data dodania';
 $lang['AdminAffiliates.index.heading_sales'] = 'Sprzedaż';

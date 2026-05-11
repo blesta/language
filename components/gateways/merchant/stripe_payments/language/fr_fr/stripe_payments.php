@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['StripePayments.secret_key'] = 'Clé secrète de l\'API';
 $lang['StripePayments.tooltip_publishable_key'] = 'Votre clé API publiable est spécifique au mode live ou au mode test. Assurez-vous que vous utilisez la bonne clé.';
 $lang['StripePayments.tooltip_secret_key'] = 'Votre clé secrète API est spécifique au mode live ou au mode test. Assurez-vous d\'utiliser la bonne clé.';
 $lang['StripePayments.webhook'] = 'Webhook de Stripe';
-$lang['StripePayments.webhook_note'] = 'Il est recommandé de configurer l\'url suivante en tant que Webhook pour les événements "payment_intent" dans votre compte Stripe.';
+$lang['StripePayments.webhook_note'] = 'Il est recommandé de configurer l\'url suivante en tant que Webhook pour les événements "payment_intent" et "charge" dans votre compte Stripe.';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrer les anciens comptes de paiement';
 $lang['StripePayments.text_accounts_remaining'] = 'Comptes restants : %1$s';
 $lang['StripePayments.text_migrate_accounts'] = 'Vous pouvez migrer automatiquement les comptes de paiement stockés hors site par l\'ancienne passerelle Stripe vers cette passerelle Stripe Payments. Les comptes qui ne sont pas stockés hors site doivent être migrés en créant manuellement de nouveaux comptes de paiement. Afin d\'éviter les dépassements de délais, les migrations seront effectuées par lots de %1$s. Exécutez cette commande autant de fois que nécessaire pour migrer tous les comptes de paiement.';

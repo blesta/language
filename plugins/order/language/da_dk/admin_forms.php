@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,7 +32,7 @@ $lang['AdminForms.index.heading_status'] = 'Status';
 $lang['AdminForms.index.heading_options'] = 'Valgmuligheder';
 $lang['AdminForms.index.option_edit'] = 'Rediger';
 $lang['AdminForms.index.option_delete'] = 'Slet';
-$lang['AdminForms.index.text_confirm_delete'] = 'Vil du virkelig slette denne bestillingsformular?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Er du sikker på, at du vil slette denne bestillingsformular?';
 $lang['AdminForms.index.field_status_active'] = 'Aktiv';
 $lang['AdminForms.index.field_status_inactive'] = 'Inaktiv';
 $lang['AdminForms.add.tab_basic'] = 'Grundlæggende';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Når du vælger en pakke, 
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Vis månedlig prisopdeling';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Når du vælger en pakke, skal du vise de månedlige omkostninger for hver prismulighed samt besparelsen pr. måned sammenlignet med den månedlige pris (hvis det er relevant).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Vis månedlig prisopdeling';
+$lang['AdminForms.index.heading_actions'] = 'Handlinger';
+$lang['AdminForms.index.back_to_forms'] = 'Tilbage til bestillingsformularer';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Kræv samtykke til tilbagevendende abonnementer';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Når det er aktiveret, skal kunderne udtrykkeligt give samtykke til tilbagevendende fakturering, før de gennemfører en ordre med tilbagevendende varer. Dette erstatter afkrydsningsfeltet Gem betalingsoplysninger.';
+$lang['AdminForms.add.field_cancel'] = 'Annuller';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Kræv samtykke til tilbagevendende abonnementer';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Når det er aktiveret, skal kunderne udtrykkeligt give samtykke til tilbagevendende fakturering, før de gennemfører en ordre med tilbagevendende varer. Dette erstatter afkrydsningsfeltet Gem betalingsoplysninger.';
+$lang['AdminForms.edit.field_cancel'] = 'Annuller';
+$lang['AdminForms.embed_codes.heading'] = 'Indlejringskode for domænesøgning';
+$lang['AdminForms.embed_codes.description'] = 'Kopier et af uddragene nedenfor for at integrere en domænesøgningsformular på et eksternt websted. Indsendelser vil åbne kassen på denne bestillingsformular med det indtastede domæne forudindlæst.';
+$lang['AdminForms.embed_codes.label_first'] = 'Indtast en URL-label for denne bestillingsformular for at generere indlejringskoder.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Almindelig HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Forhåndsvisning';
+$lang['AdminForms.embed_codes.copy'] = 'Kopi';
+$lang['AdminForms.embed_codes.csrf_required'] = 'CSRF-bypass er påkrævet for at få indlejret domænesøgning til at fungere.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POSTs fra et eksternt site vil blive afvist, indtil du tilføjer config::preconfig til arrayet Blesta.csrf_bypass i config/blesta.php:';
 

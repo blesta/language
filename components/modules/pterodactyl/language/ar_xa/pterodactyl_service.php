@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.server_description'] = 'وصف الخا
 $lang['PterodactylService.service_fields.tooltip.server_name'] = 'اسم الخادم.';
 $lang['PterodactylService.service_fields.server_name'] = 'اسم الخادم';
 $lang['PterodactylService.!error.server_name.empty'] = 'يرجى تعيين اسم للخادم.';
+$lang['Pterodactyl.back_to_manage'] = 'رجوع';
 

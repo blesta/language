@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.module_row_plural'] = 'Servery';
 $lang['Pterodactyl.module_row'] = 'Server';
 $lang['Pterodactyl.description'] = 'Zajišťuje a spravuje herní servery prostřednictvím panelu Pterodactyl.';
 $lang['Pterodactyl.name'] = 'Pterodaktyl';
+$lang['Pterodactyl.back_to_manage'] = 'Zpět';
+$lang['Pterodactyl.manage.tab_rows'] = 'Servery';
+$lang['Pterodactyl.manage.tab_groups'] = 'Skupiny serverů';
 

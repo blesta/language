@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = 'Din kontoinformation har uppdater
 $lang['ClientMain.edit.tooltip_confirm_password'] = 'Krävs för att aktivera tvåfaktorsautentisering eller uppdatera lösenord.';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = 'Tvåfaktorsautentisering';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = 'Lägg till krediter';
+$lang['ClientMain.edit.link_remove_avatar'] = 'Ta bort';
 

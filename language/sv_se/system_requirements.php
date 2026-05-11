@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Konfigurationsfile
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'Tillägget \'%1$s\' krävs. Din version: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'Tillägget \'%1$s\' krävs.';
 $lang['SystemRequirements.!error.php.minimum'] = 'PHP-version %1$s eller högre krävs. Din version: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL version 5.7.7 eller MariaDB version 10.2.2 eller senare krävs. Din version: %1$s.';
 

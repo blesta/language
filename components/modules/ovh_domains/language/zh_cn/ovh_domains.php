@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -120,4 +120,7 @@ $lang['OvhDomains.module_row_plural'] = '账户';
 $lang['OvhDomains.module_row'] = '账户';
 $lang['OvhDomains.description'] = '';
 $lang['OvhDomains.name'] = 'OVH Domains';
+$lang['OvhDomains.back_to_manage'] = '返回';
+$lang['OvhDomains.manage.tab_rows'] = '服务器';
+$lang['OvhDomains.manage.tab_groups'] = '服务器组';
 

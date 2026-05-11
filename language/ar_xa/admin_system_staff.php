@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = 'إشع
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = 'إرسال إشعارات BCC بالبريد الإلكتروني';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = 'قائمة التحكم في الوصول';
 $lang['AdminSystemStaff.editgroup.heading_general'] = 'جنرال لواء';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'تحرير المجموعة';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = 'مجموعة التحديثات';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'تسجيل الخروج عند تغيير عنوان IP';
 $lang['AdminSystemStaff.editgroup.field_company'] = 'الشركة';
 $lang['AdminSystemStaff.editgroup.field_name'] = 'الاسم';
@@ -41,14 +41,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = 'هل أنت متأكد أنك تريد حذف مجموعة الموظفين هذه؟';
 $lang['AdminSystemStaff.groups.option_edit'] = 'تحرير';
 $lang['AdminSystemStaff.groups.no_results'] = 'لا توجد مجموعات موظفين.';
-$lang['AdminSystemStaff.groups.heading_options'] = 'الخيارات';
+$lang['AdminSystemStaff.groups.heading_options'] = 'الإجراءات';
 $lang['AdminSystemStaff.groups.heading_staff'] = 'عدد الموظفين';
 $lang['AdminSystemStaff.groups.heading_company_name'] = 'اسم الشركة';
 $lang['AdminSystemStaff.groups.heading_name'] = 'الاسم';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = 'إنشاء مجموعة';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = 'مجموعات الموظفين';
 $lang['AdminSystemStaff.groups.page_title'] = 'الإعدادات &gt; النظام &gt; الموظفين &gt; مجموعات الموظفين &gt; مجموعات الموظفين';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = 'تحرير الموظفين';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = 'تحديث الموظفين';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = 'المجموعات المتاحة';
 $lang['AdminSystemStaff.edit.text_membergroups'] = 'مجموعات الأعضاء';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = 'دبوس ذو عاملين';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = 'تحرير';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = 'حقاً إعادة تنشيط هذا الموظف؟';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = 'هل قمت حقاً بإلغاء تنشيط هذا الموظف؟';
 $lang['AdminSystemStaff.manage.no_results'] = 'لا يوجد موظفون بهذه الصفة.';
-$lang['AdminSystemStaff.manage.heading_options'] = 'الخيارات';
+$lang['AdminSystemStaff.manage.heading_options'] = 'الإجراءات';
 $lang['AdminSystemStaff.manage.heading_email'] = 'البريد الإلكتروني';
 $lang['AdminSystemStaff.manage.heading_name'] = 'الاسم';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = 'إضافة موظفين';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = 'تم تحديث مجموعة
 $lang['AdminSystemStaff.!success.group_added'] = 'تم إنشاء مجموعة الموظفين، "%1$s"، بنجاح!';
 $lang['AdminSystemStaff.!success.staff_updated'] = 'تم تحديث هذا الموظف بنجاح!';
 $lang['AdminSystemStaff.!success.staff_added'] = 'تمت إضافة هذا الموظف بنجاح!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = 'الإشعارات';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = 'الإشعارات';
 

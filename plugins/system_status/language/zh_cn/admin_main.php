@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = '总体而言，系统健康状况良好�
 $lang['AdminMain.index.health_excellent'] = '系统健康状况良好，似乎运行正常。';
 $lang['AdminMain.index.upload_dir_configure'] = '配置？';
 $lang['AdminMain.index.upload_dir'] = '设置中的上传目录路径位于网络根目录内。  应将其置于网站根目录之上，以确保不会出现公开访问的问题。';
+$lang['AdminMain.index.text_info'] = '信息';
+$lang['AdminMain.index.text_warning'] = '警告';
+$lang['AdminMain.index.text_error'] = '错误';
+$lang['AdminMain.index.text_success'] = '成功';
+$lang['AdminMain.index.category_cron'] = '克朗';
+$lang['AdminMain.index.category_system'] = '系统';
+$lang['AdminMain.index.category_database'] = '数据库';
+$lang['AdminMain.index.category_security'] = '安全';
 

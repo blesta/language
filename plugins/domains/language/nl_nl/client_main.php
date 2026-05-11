@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'U hebt geen %1$s domeinen.';
 $lang['ClientMain.index.text_never'] = 'Nooit';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Beheer';
-$lang['ClientMain.index.heading_options'] = 'Opties';
+$lang['ClientMain.index.heading_options'] = 'Acties';
 $lang['ClientMain.index.heading_deletion_date'] = 'Verwijderingsdatum';
 $lang['ClientMain.index.heading_suspension_date'] = 'Schorsingsdatum';
 $lang['ClientMain.index.heading_expiration_date'] = 'Vervaldatum';

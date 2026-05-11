@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'الخوادم';
 $lang['Enhance.module_row'] = 'الخادم';
 $lang['Enhance.description'] = 'Enhance هي لوحة تحكم الاستضافة التشاركية من الجيل التالي.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'رجوع';
+$lang['Enhance.manage.tab_rows'] = 'الخوادم';
+$lang['Enhance.manage.tab_groups'] = 'مجموعات الخوادم';
+$lang['Enhance.package_fields.package_tooltip'] = 'أدخل معرّف الخطة من لوحة تحكم Enhance الخاصة بك. تعذر تحميل الخطط تلقائياً.';
 

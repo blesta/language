@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Selecteer een geldige uitb
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Ongeldige betaalmethode-ID.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Ongeldig affiliate-ID.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Ongeldig uitbetalings-ID.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Uitbetaling aangevraagd';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s verzocht om een uitbetaling van %2$s';
 

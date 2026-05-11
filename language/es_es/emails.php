@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.attachments.exist'] = 'Al menos uno de los archivos adjunto
 $lang['Emails.!error.email.failed_to_send'] = 'El correo electrónico no se ha podido enviar debido a un problema de configuración.';
 $lang['Emails.getStatusTypes.active'] = 'No';
 $lang['Emails.getStatusTypes.inactive'] = 'Sí';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'La instantánea no pertenece al correo electrónico especificado.';
+$lang['Emails.!error.snapshot_id.exists'] = 'ID de instantánea no válido.';
 

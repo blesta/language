@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,7 +67,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Връщане 
 $lang['AppController.client_structure.default_title'] = 'Моят акаунт';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Връщане към портала за персонала';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'В момента е активиран режим на поддръжка и клиентите не могат да влизат в системата. Щракнете тук, за да го промените.';
+$lang['AppController.structure.text_maintenance'] = 'В момента е активиран режим на поддръжка и клиентите не могат да влизат в системата.';
 $lang['AppController.structure.text_logout'] = 'Излизане от системата';
 $lang['AppController.structure.text_settings'] = 'Настройки';
 $lang['AppController.structure.text_myinfo'] = 'Моята информация';
@@ -83,5 +83,23 @@ $lang['AppController.!success.license_updated'] = 'Лицензът ви е ус
 $lang['AppController.!error.invalid_csrf'] = 'Токенът на формуляра е невалиден.';
 $lang['AppController.!error.unauthorized_access'] = 'Нямате право на достъп до този ресурс';
 $lang['AppController.lang.dir'] = 'ltr';
-$lang['AppController.structure.text_step_up_access'] = 'В момента имате отворена сесия за повишаване на нивото с достъп до настройките на администратора. Щракнете тук, за да прекратите достъпа.';
+$lang['AppController.structure.text_step_up_access'] = 'В момента имате отворена сесия за повишаване на нивото с достъп до настройките на администратора.';
+$lang['AppController.structure.text_mark_all_read'] = 'Маркирайте всички като прочетени';
+$lang['AppController.structure.text_open'] = 'Отворете';
+$lang['AppController.structure.no_notifications'] = 'Няма нови известия';
+$lang['AppController.structure.text_notifications'] = 'Известия';
+$lang['AppController.structure.text_licensed_to'] = 'Лицензиран за %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Удължаване на сесията';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Оставащото време:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Прекратяване на сесията сега';
+$lang['AppController.structure.text_step_up_access_header'] = 'Удостоверяване на стъпка нагоре Active';
+$lang['AppController.structure.text_maintenance_button'] = 'Режим на редактиране на поддръжката';
+$lang['AppController.structure.text_maintenance_header'] = 'Включен режим на поддръжка';
+$lang['AppController.structure.text_iconbar'] = 'Лента с икони';
+$lang['AppController.structure.text_notices'] = 'Известия';
+$lang['AppController.text_loading'] = 'Зареждане...';
+$lang['AppController.modal.btn_delete'] = 'Изтриване на';
+$lang['AppController.modal.btn_cancel'] = 'Отмяна на';
+$lang['AppController.modal.confirm_delete'] = 'Потвърдете Изтриване';
 

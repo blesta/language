@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Ви впевнені, що хочете оновити цю валюту? Курс цієї валюти буде замінено при автоматичному оновленні курсів валют в системі. Ви можете вимкнути автоматичне оновлення в розділі [Налаштування] > [Компанія] > [Валюти] > [Налаштування валют].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Редагувати валюту';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Оновити валюту';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Обмінний курс';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Суфікс Символ';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Префікс Символ';

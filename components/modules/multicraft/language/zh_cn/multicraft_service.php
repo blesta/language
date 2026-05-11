@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = '用户 ID 必须是整数，
 $lang['MulticraftService.!error.server_id.format'] = '服务器 ID 必须是整数，否则留空。';
 $lang['MulticraftService.!error.client'] = '未找到可创建 Multicraft 用户的客户端。';
 $lang['MulticraftService.!error.internal'] = '发生内部错误，或服务器未响应请求。';
+$lang['Multicraft.back_to_manage'] = '返回';
 

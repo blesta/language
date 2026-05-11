@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Группа редактирования';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Группа обновления';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Использование адресов электронной почты в качестве имен пользователей';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Использовать настройки компании (снимите флажок, чтобы указать ниже)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Способы доставки счетов-фактур';

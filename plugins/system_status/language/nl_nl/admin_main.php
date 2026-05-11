@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_good'] = 'Over het algemeen is het systeem in goed
 $lang['AdminMain.index.health_excellent'] = 'Het systeem is in goede gezondheid en lijkt normaal te werken.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Configureren?';
 $lang['AdminMain.index.upload_dir'] = 'Het pad van de uploadmap in uw instellingen bevindt zich in de hoofdmap van het web.  Het moet boven de root web directory worden geplaatst om er zeker van te zijn dat er nooit een probleem is met de publieke toegankelijkheid.';
+$lang['AdminMain.index.text_info'] = 'Informatie';
+$lang['AdminMain.index.text_warning'] = 'Waarschuwing';
+$lang['AdminMain.index.text_error'] = 'Fout';
+$lang['AdminMain.index.text_success'] = 'Succes';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Systeem';
+$lang['AdminMain.index.category_database'] = 'Database';
+$lang['AdminMain.index.category_security'] = 'Beveiliging';
 

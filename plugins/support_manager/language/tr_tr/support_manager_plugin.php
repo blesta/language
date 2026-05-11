@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Support Manager';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Ayarlar';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Belirli bir süre sonra kapatılan destek talepleri için müşterilere geri bildirimlerini bırakmaları için otomatik olarak hatırlatıcılar gönderin.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Geri Bildirim Hatırlatıcıları Gönderin';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Yapay Zeka ile Biletleri İşleyin';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Yanıt önerileri oluşturmak ve araç kullanımlarını otomatik olarak yürütmek için destek taleplerini yapay zeka ile analiz eder (spam kapatma, personel atama, önceliği değiştirme).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'AI Ayarları';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Not: Bu yanıt AI tarafından oluşturulmuştur ve doğruluk açısından gözden geçirilmelidir.*';
 

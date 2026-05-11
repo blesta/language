@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,7 +47,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Родителски гр
 $lang['AdminPackages.groups.confirm_delete'] = 'Сигурни ли сте, че искате да изтриете тази група пакети? Всички пакети, назначени в тази група, вече няма да бъдат назначени в тази група и може да станат неизползваеми.';
 $lang['AdminPackages.groups.option_delete'] = 'Изтриване на';
 $lang['AdminPackages.groups.option_edit'] = 'Редактиране на';
-$lang['AdminPackages.groups.heading_options'] = 'Опции';
+$lang['AdminPackages.groups.heading_options'] = 'Действия';
 $lang['AdminPackages.groups.heading_type'] = 'Тип';
 $lang['AdminPackages.groups.heading_name'] = 'Име';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Групи пакети';
@@ -200,12 +200,12 @@ $lang['AdminPackages.index.no_results'] = 'Няма пакети с този с�
 $lang['AdminPackages.index.option_delete'] = 'Изтриване на';
 $lang['AdminPackages.index.option_copy'] = 'Копие';
 $lang['AdminPackages.index.option_edit'] = 'Редактиране на';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Подаване на';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Направете заявка на';
 $lang['AdminPackages.index.action.delete'] = 'Изтриване на пакети';
 $lang['AdminPackages.index.category_inactive'] = 'Неактивен';
 $lang['AdminPackages.index.category_restricted'] = 'Ограничен';
 $lang['AdminPackages.index.category_active'] = 'Активен';
-$lang['AdminPackages.index.heading_options'] = 'Опции';
+$lang['AdminPackages.index.heading_options'] = 'Действия';
 $lang['AdminPackages.index.heading_qty'] = 'Количество';
 $lang['AdminPackages.index.heading_module'] = 'Модул';
 $lang['AdminPackages.index.heading_name'] = 'Име';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_deleted'] = 'Пакетът беше ус�
 $lang['AdminPackages.!success.package_updated'] = 'Пакетът беше успешно актуализиран.';
 $lang['AdminPackages.!success.package_added'] = 'Пакетът е създаден успешно.';
 $lang['AdminPackages.!tooltip.single_term'] = 'Ако тази опция е маркирана, новите услуги, използващи този пакет, няма да се подновяват, а ще бъдат автоматично анулирани в края на първоначалния им срок.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Генериран текст на имейл:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Генериран HTML код на имейл:';
+$lang['AdminPackages.ai.email_use_button'] = 'Използвайте този имейл';
+$lang['AdminPackages.ai.email_generating'] = 'Генериране на имейл...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Опишете какво трябва да съдържа имейлът за посрещане (напр. "Добре дошъл нов клиент, обяснете настройката на услугата")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Генериране на имейл за добре дошли';
+$lang['AdminPackages.ai.generate_email_button'] = 'Генериране на имейли с AI';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Контекстна информация:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Генерирайте професионално описание на този пакет от продукти/услуги.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Генерирайте професионален имейл за посрещане за този пакет от продукти/услуги, който приветства клиента и предоставя полезна информация за новата услуга.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Пренапишете и подобрете това съдържание, като запазите същата обща информация:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Прегледайте поканата по-горе, добавете всички допълнителни инструкции и щракнете върху Генериране, за да създадете съдържание.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Зареждане на подкана...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Контекст на подкана';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Предоставете всякакви специфични подробности или изисквания, които AI да включи в описанието.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'например, включете информация за 24/7 поддръжка, споменете 30-дневната гаранция за връщане на парите...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Допълнителни инструкции (по избор)';
+$lang['AdminPackages.ai.error_prefix'] = 'Грешка:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Неуспешно генериране на описание';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Моля, въведете подкана';
+$lang['AdminPackages.ai.apply_text'] = 'Текстова версия';
+$lang['AdminPackages.ai.apply_html'] = 'HTML версия';
+$lang['AdminPackages.ai.apply_content_label'] = 'Прилагайте съдържанието към:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Функцията AI за описание на пакета не е активирана';
+$lang['AdminPackages.ai.error_disabled'] = 'Функциите на AI не са активирани';
+$lang['AdminPackages.ai.regenerating'] = 'Регенерираща...';
+$lang['AdminPackages.ai.generating'] = 'Генериране на...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Отмяна на';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Регенерирайте';
+$lang['AdminPackages.ai.btn_use'] = 'Използвайте това описание';
+$lang['AdminPackages.ai.btn_generate'] = 'Генериране на';
+$lang['AdminPackages.ai.preview_text'] = 'Генериран текст:';
+$lang['AdminPackages.ai.tone_professional'] = 'Професионален';
+$lang['AdminPackages.ai.preview_html'] = 'Генериран HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Технически';
+$lang['AdminPackages.ai.tone_casual'] = 'Случайно';
+$lang['AdminPackages.ai.tone'] = 'Тон';
+$lang['AdminPackages.ai.generate_text'] = 'Генериране на текст (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Генериране на HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Опишете характеристиките на пакета, целевата аудитория и т.н.';
+$lang['AdminPackages.ai.use_content_button'] = 'Използване на това съдържание';
+$lang['AdminPackages.ai.regenerate_button'] = 'Регенерирайте';
+$lang['AdminPackages.ai.no_context'] = 'Няма наличен контекст';
+$lang['AdminPackages.ai.context_type_email'] = 'Имейл за добре дошли';
+$lang['AdminPackages.ai.context_type_description'] = 'Описание на пакета';
+$lang['AdminPackages.ai.context_type'] = 'Тип:';
+$lang['AdminPackages.ai.context_module'] = 'Модул:';
+$lang['AdminPackages.ai.context_package'] = 'Опаковка:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Генерирано съдържание:';
+$lang['AdminPackages.ai.context_label'] = 'Контекст:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI-пренаписано описание';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Генерирано от AI описание';
+$lang['AdminPackages.ai.modal_title'] = 'Съдържание, генерирано от изкуствен интелект';
+$lang['AdminPackages.ai.rewrite_button'] = 'Пренаписване на';
+$lang['AdminPackages.ai.generate_button'] = 'Генериране на';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Прилагане на филтри';
+$lang['AdminPackages.index.field_filterclear'] = 'Clear';
+$lang['AdminPackages.index.filter_toggle'] = 'Превключване на филтрите';
+$lang['AdminPackages.index.items_selected'] = 'избрани елементи';
 

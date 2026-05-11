@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Lägg 
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Standardvärde för text';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Standardvärde Kontrollerat';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Värde';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Redigera anpassat fält';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Uppdatera anpassat fält';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Kryptera värden';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Anpassad Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Obligatoriskt';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Att k
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Standardvärde för text';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Standardvärde Kontrollerat';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Värde';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Lägg till anpassat fält';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Skapa anpassat fält';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Kryptera värden';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Anpassad Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Obligatoriskt';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Namn';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Skapa fält';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Bläddra bland anpassade fält för klienter';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Inställningar > Företag > Kundalternativ > Kundanpassade fält > Bläddra';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Skicka in';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Uppdatera inställningar';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Förhindra betalningar från icke-verifierade kunder';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Klient-ID Inkrementvärde';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Kund-ID Startvärde';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.!error.ispconfig_username.test'] = 'El nombre de usuario no pue
 $lang['Ispconfig.!error.ispconfig_username.length'] = 'El nombre de usuario debe tener entre 1 y 16 caracteres.';
 $lang['Ispconfig.!error.ispconfig_password.valid'] = 'La contraseña debe tener al menos 8 caracteres.';
 $lang['Ispconfig.!error.ispconfig_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
+$lang['Ispconfig.back_to_manage'] = 'Volver';
+$lang['Ispconfig.manage.tab_rows'] = 'Servidores';
+$lang['Ispconfig.manage.tab_groups'] = 'Grupos de servidores';
 

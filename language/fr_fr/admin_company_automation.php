@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.getintervals.text_minute'] = 'minute';
 $lang['AdminCompanyAutomation.getintervals.text_minutes'] = 'minutes';
 $lang['AdminCompanyAutomation.getintervals.text_hour'] = 'heure';
 $lang['AdminCompanyAutomation.getintervals.text_hours'] = 'heures';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Aucune tâche d\'automatisation n\'a été enregistrée au cours des dernières 24 heures.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Pas encore terminé';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'La course à pied';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Terminé';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Exécution';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Rafraîchir';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Calendrier d\'exécution des tâches - 24 dernières heures';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['AdminMain.index.heading_label'] = 'Etiqueta';
 $lang['AdminMain.index.heading_term'] = 'Plazo';
 $lang['AdminMain.index.heading_date_created'] = 'Fecha de creación';
 $lang['AdminMain.index.heading_date_renews'] = 'Fecha Renueva';
-$lang['AdminMain.index.heading_options'] = 'Opciones';
+$lang['AdminMain.index.heading_options'] = 'Acciones';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['AdminMain.index.text_never'] = 'Nunca';
 $lang['AdminMain.index.no_results'] = 'No hay servicios disponibles desde los que reasignar precios.';

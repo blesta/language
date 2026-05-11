@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Servery';
 $lang['Tcadmin.module_row'] = 'Server';
 $lang['Tcadmin.description'] = 'Ovládací panel herního hostingu TCAdmin byl od základu navržen tak, aby dnešním poskytovatelům herních služeb pomohl ušetřit čas a peníze a zároveň umožnil koncovým uživatelům plnou kontrolu nad jejich servery.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Zpět';
+$lang['Tcadmin.manage.tab_rows'] = 'Servery';
+$lang['Tcadmin.manage.tab_groups'] = 'Skupiny serverů';
 

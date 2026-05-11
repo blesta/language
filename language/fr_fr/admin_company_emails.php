@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,7 +46,7 @@ $lang['AdminCompanyEmails.templates.text_description'] = 'Description';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Options';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Editer';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Il n\'y a pas de modèle de ce type.';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Mise à jour';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Appliquer';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Paiement approuvé (carte de crédit)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Avis envoyé après l\'approbation d\'un paiement par carte de crédit.';
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Paiement refusé (carte de crédit)';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Annuler';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Pièce jointe';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Supprimer';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Êtes-vous sûr de vouloir supprimer cette pièce jointe ?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Options';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Actions';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nom du fichier';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Pièces jointes supplémentaires';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Modèle de courrier électronique';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Aucun';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Mise à jour du modèle HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Modifier le modèle';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Mise à jour du modèle';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nom';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Modifier le modèle HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Ajouter un modèle';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Créer un modèle';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Tags';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nom';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Ajouter un modèle HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Avis de non
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Annulation du service';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Avis envoyé lorsque le solde créditeur du client passe en dessous du seuil configuré.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Notification de bas niveau d\'équilibre';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Sujet suggéré';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Version texte';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Version HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Objet';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Appliquer le contenu à :';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Erreur :';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Trop de demandes. Veuillez patienter un moment avant de réessayer.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'La génération de contenu a échoué. Veuillez réessayer.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'L\'invite dépasse la longueur maximale.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Une invite est nécessaire pour générer du contenu.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'La génération de modèles d\'e-mails AI n\'est pas activée.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Les fonctions d\'IA sont actuellement désactivées.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Aperçu du texte';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Aperçu HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Cliquez sur Générer pour créer le contenu de l\'e-mail en fonction du type de modèle et des balises disponibles.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Contenu généré';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Conseils facultatifs à l\'intention de l\'IA pour personnaliser le contenu généré.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Ajouter des exigences spécifiques ou des préférences de tonalité...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Instructions supplémentaires';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Chargement de l\'invite...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Contexte de l\'invitation';
+$lang['AdminCompanyEmails.ai.generating'] = 'Générer...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Annuler';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Utiliser ce contenu';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Régénérer';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Réécriture';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Générer';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Réécrire le contenu de l\'e-mail';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Générer du contenu pour les courriels';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Assistant de contenu AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Copié !';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Copie';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI de redirection OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Êtes-vous sûr de vouloir restaurer cet instantané ? Toutes les modifications non enregistrées seront perdues.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Il n\'y a pas d\'instantanés disponibles pour ce modèle d\'e-mail.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Historique du modèle';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Restauration d\'un cliché instantané';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Restaurer';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Parcourir les fichiers';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Déposez les fichiers ici ou cliquez sur "Parcourir" pour télécharger les pièces jointes.';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Utilisez ces balises dans votre modèle de courrier électronique pour inclure un contenu dynamique.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Tags disponibles';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Saisir la version texte de l\'e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Saisir l\'objet du courriel';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Saisir l\'adresse électronique';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Saisir le nom de l\'entreprise';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'éléments sélectionnés';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Copiez cette URL et ajoutez-la en tant qu\'URI de redirection autorisée dans les paramètres de l\'application de votre fournisseur OAuth (par exemple, Google Cloud Console, Microsoft Azure Portal). Cela est nécessaire pour que l\'authentification OAuth fonctionne.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Le modèle d\'e-mail a été restauré avec succès à partir de l\'instantané !';
 

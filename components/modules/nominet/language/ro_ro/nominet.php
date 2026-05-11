@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = 'Conturi';
 $lang['Nominet.module_row'] = 'Cont';
 $lang['Nominet.description'] = 'Nominet este registrul de nume de domeniu care administrează domeniul de nivel superior .UK.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = 'Înapoi';
+$lang['Nominet.manage.tab_rows'] = 'Servere';
+$lang['Nominet.manage.tab_groups'] = 'Grupuri de servere';
 

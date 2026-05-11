@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,6 @@ $lang['AdminCompanyModules.editgroup.text_name'] = 'Gruppens navn';
 $lang['AdminCompanyModules.editgroup.text_order'] = 'Tilføj ordre';
 $lang['AdminCompanyModules.addrow.page_title'] = 'Indstillinger > Virksomhed > Moduler > Tilføj %1$s %2$s';
 $lang['AdminCompanyModules.editrow.page_title'] = 'Indstillinger > Virksomhed > Moduler > Rediger %1$s %2$s';
+$lang['AdminCompanyModules.text_filter_placeholder'] = 'Filtermoduler...';
+$lang['AdminCompanyModules.text_filter_no_results'] = 'Ingen matchende moduler fundet.';
 

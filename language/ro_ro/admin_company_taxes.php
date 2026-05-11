@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Editați regula';
+$lang['AdminCompanyTaxes.edit.field.editsubmit'] = 'Actualizarea regulii';
 $lang['AdminCompanyTaxes.edit.field.state'] = 'Stat/Provincie';
 $lang['AdminCompanyTaxes.edit.field.country'] = 'Țara';
 $lang['AdminCompanyTaxes.edit.field.amount'] = 'Suma';

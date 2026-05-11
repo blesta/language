@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Конфи
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Месинджърът беше успешно деинсталиран.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Месинджърът беше успешно инсталиран.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Пратеникът беше успешно надграден.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Филтриране на пратеници...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Не са намерени подходящи пратеници.';
 

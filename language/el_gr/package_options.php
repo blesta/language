@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Παρακαλώ εισάγετε 
 $lang['PackageOptions.!error.company_id.exists'] = 'Μη έγκυρο αναγνωριστικό εταιρείας.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Το αν πρέπει να αποκρύπτεται στο τιμολόγιο πρέπει να οριστεί σε 0 ή 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Η απενεργοποίηση της τιμολόγησης πρέπει να οριστεί σε 0 ή 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Ο τύπος δεν μπορεί να αλλάξει επειδή μία ή περισσότερες τιμές επιλογής που δεν περιλαμβάνονται στην υποβολή χρησιμοποιούνται από μια υπηρεσία.';
 

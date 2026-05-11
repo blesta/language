@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,36 +27,51 @@ $lang['AdminLogin.setup.heading_create_account'] = 'Δημιουργήστε τ�
 $lang['AdminLogin.setup.field_newsletter'] = 'Εγγραφείτε για το ενημερωτικό μας δελτίο. Μπορείτε να αποχωρήσετε ανά πάσα στιγμή.';
 $lang['AdminLogin.setup.trial_newsletter'] = 'Με την εγγραφή σας σε μια δοκιμή, συμφωνείτε να λαμβάνετε μηνύματα ηλεκτρονικού ταχυδρομείου από εμάς κατά τη διάρκεια της δοκιμής σας. Μπορείτε να εξαιρεθείτε ανά πάσα στιγμή.';
 $lang['AdminLogin.setup.field_license_key'] = 'Κλειδί άδειας χρήσης';
-$lang['AdminLogin.setup.title_adminarea'] = 'Αρχική ρύθμιση';
+$lang['AdminLogin.setup.title_adminarea'] = 'Ξεκινήστε με Blesta';
 $lang['AdminLogin.setup.page_title'] = 'Αρχική ρύθμιση';
 $lang['AdminLogin.confirmreset.link_login'] = 'Ακύρωση, Είσοδος';
 $lang['AdminLogin.confirmreset.field_resetsubmit'] = 'Ορισμός κωδικού πρόσβασης';
 $lang['AdminLogin.confirmreset.field_confirm_password'] = 'Επιβεβαίωση νέου κωδικού πρόσβασης';
 $lang['AdminLogin.confirmreset.field_new_password'] = 'Νέος κωδικός πρόσβασης';
-$lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Επιβεβαίωση επαναφοράς κωδικού πρόσβασης';
+$lang['AdminLogin.confirmreset.title_adminarea'] = 'Επιβεβαίωση επαναφοράς κωδικού πρόσβασης';
 $lang['AdminLogin.confirmreset.page_title'] = 'Επιβεβαίωση επαναφοράς κωδικού πρόσβασης';
 $lang['AdminLogin.reset.link_login'] = 'Ακύρωση, Είσοδος';
 $lang['AdminLogin.reset.field_resetsubmit'] = 'Επαναφορά κωδικού πρόσβασης';
 $lang['AdminLogin.reset.field_username'] = 'Όνομα χρήστη';
-$lang['AdminLogin.reset.title_adminarea'] = '%1$s | Επαναφορά κωδικού πρόσβασης';
+$lang['AdminLogin.reset.title_adminarea'] = 'Επαναφορά κωδικού πρόσβασης';
 $lang['AdminLogin.reset.page_title'] = 'Επαναφορά κωδικού πρόσβασης';
 $lang['AdminLogin.otp.link_login'] = 'Ακύρωση, Είσοδος';
 $lang['AdminLogin.otp.field_loginsubmit'] = 'Σύνδεση';
 $lang['AdminLogin.otp.field_password'] = 'Κωδικός πρόσβασης μίας χρήσης';
-$lang['AdminLogin.otp.title_adminarea'] = '%1$s | Περιοχή προσωπικού';
-$lang['AdminLogin.otp.page_title'] = 'Σύνδεση OTP';
+$lang['AdminLogin.otp.title_adminarea'] = 'Αυθεντικοποίηση δύο παραγόντων';
+$lang['AdminLogin.otp.page_title'] = 'Αυθεντικοποίηση δύο παραγόντων';
 $lang['AdminLogin.index.link_resetpassword'] = 'Επαναφορά του κωδικού μου';
 $lang['AdminLogin.index.field_loginsubmit'] = 'Σύνδεση';
 $lang['AdminLogin.index.field_rememberme'] = 'Να με θυμάσαι σε αυτόν τον υπολογιστή.';
 $lang['AdminLogin.index.field_password'] = 'Κωδικός πρόσβασης';
 $lang['AdminLogin.index.field_username'] = 'Όνομα χρήστη';
-$lang['AdminLogin.index.title_adminarea'] = '%1$s | Περιοχή προσωπικού';
+$lang['AdminLogin.index.title_adminarea'] = 'Περιοχή προσωπικού';
 $lang['AdminLogin.index.page_title'] = 'Συνδεθείτε';
 $lang['AdminLogin.!info.step_up_otp'] = 'Για να συνεχίσετε, είναι απαραίτητο να επαληθεύσετε εκ νέου την πρόσβασή σας, εισάγοντας τον OTP (One-time Password) παρακάτω.';
 $lang['AdminLogin.!info.step_up'] = 'Για να συνεχίσετε, είναι απαραίτητο να επαληθεύσετε εκ νέου την πρόσβασή σας εισάγοντας τον κωδικό πρόσβασής σας παρακάτω.';
 $lang['AdminLogin.up.link_cancel'] = 'Ακύρωση';
 $lang['AdminLogin.up.field_loginsubmit'] = 'Επαλήθευση πρόσβασης';
 $lang['AdminLogin.up.field_password'] = 'Κωδικός πρόσβασης';
-$lang['AdminLogin.up.title_adminarea'] = '%1$s | Επαλήθευση πρόσβασης';
+$lang['AdminLogin.up.title_adminarea'] = 'Επαλήθευση πρόσβασης';
 $lang['AdminLogin.up.page_title'] = 'Επαλήθευση πρόσβασης';
+$lang['AdminLogin.index.page_subtitle'] = 'Καλώς ήρθατε πίσω! Εάν δεν έχετε σύνδεση, επικοινωνήστε με τον διαχειριστή σας.';
+$lang['AdminLogin.index.subtitle_adminarea'] = 'Εισάγετε τα διαπιστευτήριά σας για να αποκτήσετε πρόσβαση στον πίνακα διαχείρισης.';
+$lang['AdminLogin.otp.page_subtitle'] = 'Εισάγετε τον κωδικό πρόσβασης μιας χρήσης για να ολοκληρώσετε τη διαδικασία σύνδεσης.';
+$lang['AdminLogin.otp.subtitle_adminarea'] = 'Εισάγετε τον κωδικό πρόσβασης μιας χρήσης για να επαληθεύσετε την ταυτότητά σας.';
+$lang['AdminLogin.up.page_subtitle'] = 'Καλώς ήρθατε πίσω! Εάν δεν έχετε σύνδεση, επικοινωνήστε με τον διαχειριστή σας.';
+$lang['AdminLogin.up.subtitle_adminarea'] = 'Επαληθεύστε την πρόσβασή σας για να συνεχίσετε.';
+$lang['AdminLogin.up.field_password_otp'] = 'Κωδικός πρόσβασης μίας χρήσης';
+$lang['AdminLogin.reset.page_subtitle'] = 'Ξεχάσατε τον κωδικό πρόσβασής σας; Εισάγετε το όνομα χρήστη σας για να ξεκινήσει η διαδικασία επαναφοράς.';
+$lang['AdminLogin.reset.subtitle_adminarea'] = 'Εισάγετε το όνομα χρήστη σας για να ξεκινήσει η διαδικασία επαναφοράς.';
+$lang['AdminLogin.confirmreset.page_subtitle'] = 'Δημιουργήστε έναν νέο κωδικό πρόσβασης για το λογαριασμό σας.';
+$lang['AdminLogin.confirmreset.subtitle_adminarea'] = 'Πληκτρολογήστε τον νέο σας κωδικό πρόσβασης παρακάτω.';
+$lang['AdminLogin.setup.page_subtitle'] = 'Διαμορφώστε την εγκατάσταση Blesta και δημιουργήστε το λογαριασμό διαχειριστή.';
+$lang['AdminLogin.setup.subtitle_adminarea'] = 'Ολοκληρώστε την αρχική ρύθμιση για να ξεκινήσετε τη διαχείριση του συστήματος χρέωσης. Αυτό θα διαρκέσει μόνο λίγα λεπτά.';
+$lang['AdminLogin.!error.step_up_expired'] = 'Η συνεδρία Step up έχει λήξει.';
+$lang['AdminLogin.!success.step_up_extended'] = 'Η συνεδρία Step up έχει παραταθεί.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = '참고';
 $lang['AdminSystemApi.edit.field_user'] = '사용자';
 $lang['AdminSystemApi.edit.field_company'] = '회사';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'API 사용자 편집';
-$lang['AdminSystemApi.add.field_apisubmit'] = '사용자 추가';
+$lang['AdminSystemApi.add.field_apisubmit'] = '사용자 만들기';
 $lang['AdminSystemApi.add.field_notes'] = '참고';
 $lang['AdminSystemApi.add.field_user'] = '사용자';
 $lang['AdminSystemApi.add.field_company'] = '회사';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = '이 API 사용자를 정말 삭�
 $lang['AdminSystemApi.index.no_results'] = 'API 사용자가 없습니다.';
 $lang['AdminSystemApi.index.option_delete'] = '삭제';
 $lang['AdminSystemApi.index.option_edit'] = '편집';
-$lang['AdminSystemApi.index.heading_options'] = '옵션';
+$lang['AdminSystemApi.index.heading_options'] = '작업';
 $lang['AdminSystemApi.index.heading_date'] = '생성된 날짜';
 $lang['AdminSystemApi.index.heading_company'] = '회사';
 $lang['AdminSystemApi.index.heading_key'] = '키';

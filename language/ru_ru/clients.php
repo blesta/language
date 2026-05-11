@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Неверный иденти�
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Максимальная сумма кредита для %1$s должна быть больше минимальной.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Максимальная сумма кредита для %1$s должна быть больше 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Минимальная сумма кредита для %1$s должна быть больше 0.';
+$lang['Clients.!error.action[].exists'] = 'Недопустимое действие уведомления.';
+$lang['Clients.!error.action.exists'] = 'Недопустимое действие уведомления "%1$s".';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,4 +28,5 @@ $lang['SystemRequirements.!error.config_writable.minimum'] = 'Het config-bestand
 $lang['SystemRequirements.!error.extension_version.minimum'] = 'De extensie \'%1$s\' is vereist. Uw versie: %2$s.';
 $lang['SystemRequirements.!error.extension.minimum'] = 'De extensie \'%1$s\' is vereist.';
 $lang['SystemRequirements.!error.php.minimum'] = 'PHP versie %1$s of hoger is vereist. Uw versie: %2$s.';
+$lang['SystemRequirements.!error.db_version.minimum'] = 'MySQL versie 5.7.7 of MariaDB versie 10.2.2 of hoger is vereist. Uw versie: %1$s.';
 

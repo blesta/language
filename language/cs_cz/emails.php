@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Tento e-mailový podpis je v
 $lang['Emails.!error.text.parse'] = 'Chyba parsování šablony: %1$s';
 $lang['Emails.!error.html.parse'] = 'Chyba parsování šablony: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Neplatné ID společnosti.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Snímek nepatří k zadanému e-mailu.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Neplatné ID snímku.';
 

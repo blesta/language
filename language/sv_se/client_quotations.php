@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'Godkänna';
 $lang['ClientQuotations.index.no_results'] = 'Du har inga %1$s citat.';
 $lang['ClientQuotations.index.option_approve'] = 'Godkänna';
 $lang['ClientQuotations.index.option_view'] = 'Utsikt';
-$lang['ClientQuotations.index.heading_options'] = 'Alternativ';
+$lang['ClientQuotations.index.heading_options'] = 'Åtgärder';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Datum som löper ut';
 $lang['ClientQuotations.index.heading_date_created'] = 'Skapat datum';
 $lang['ClientQuotations.index.heading_total'] = 'Belopp';

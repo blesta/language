@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,7 +94,7 @@ $lang['Namesilo.tab_dnsrecord.title_list'] = 'Registros DNS actuales';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Añadir un registro DNS';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Borrar registro(s)';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Añadir registro';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'En esta página puede añadir o eliminar registros DNS A, AAAA, CNAME, MX y TXT. Tenga en cuenta que los registros DNS pueden tardar unos minutos en propagarse.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'En esta página puede añadir o eliminar registros DNS A, AAAA, CNAME, MX y TXT. Tenga en cuenta que los registros DNS pueden tardar unos minutos en propagarse. <br/> Para que cualquiera de estos cambios se refleje en su nombre de dominio, debe configurar los servidores de nombres en:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.dnsrecord.record_type'] = 'Tipo';
 $lang['Namesilo.dnsrecord.host'] = 'Anfitrión';
 $lang['Namesilo.dnsrecord.value'] = 'Valor';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Extrae contactos de namesil
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Pull Namesilo Contactos';
 $lang['Namesilo.notice.default_nameservers'] = 'Esta función requiere que el dominio utilice los siguientes servidores de nombres: ns1.dnsowl.com, ns2.dnsowl.com y ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'El dominio no está disponible para su registro.';
+$lang['Namesilo.back_to_manage'] = 'Volver';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Acciones';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Uno o más campos contienen caracteres especiales (por ejemplo, letras acentuadas). Es posible que NameSilo no admita estos caracteres en los campos de contacto.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Reenvío de dominios';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'El reenvío de dominios se elimina automáticamente cuando se le da al dominio algo más que hacer, como cambiar los servidores de nombres o cambiar los registros A primarios para @ y www. <br/> Para que cualquiera de estos cambios se refleje en su nombre de dominio, debe configurar los servidores de nombres en:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Dominio';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Adelante';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Método de reenvío';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Avance permanente (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Avance temporal (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Capa';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Activo';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Borrar';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Actualizar transitarios';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'La URL de reenvío no es válida. Asegúrese de utilizar HTTPS o HTTP.';
 

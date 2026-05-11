@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Servers';
 $lang['Tcadmin.module_row'] = 'Διακομιστής';
 $lang['Tcadmin.description'] = 'Το TCAdmin, ο πίνακας ελέγχου φιλοξενίας παιχνιδιών, σχεδιάστηκε από την αρχή για να βοηθήσει τους σημερινούς παρόχους υπηρεσιών παιχνιδιών να εξοικονομήσουν χρόνο και χρήμα, ενώ παράλληλα επιτρέπει στους τελικούς χρήστες να έχουν πλήρη έλεγχο των διακομιστών τους.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Πίσω';
+$lang['Tcadmin.manage.tab_rows'] = 'Servers';
+$lang['Tcadmin.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -125,4 +125,5 @@ $lang['CWatch.getsitestatuses.ssl_inprogress'] = 'Installation de SSL en cours';
 $lang['CWatch.getsitestatuses.ssl_retry'] = 'Réessayer l\'installation de SSL';
 $lang['CWatch.getsitestatuses.ssl_completed'] = 'Ajout d\'un certificat SSL';
 $lang['CWatch.getsitestatuses.ssl_fail'] = 'Site ajouté, échec de l\'installation de SSL';
+$lang['Cwatch.back_to_manage'] = 'Retour';
 

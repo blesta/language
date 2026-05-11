@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'Aprobați';
 $lang['ClientQuotations.index.no_results'] = 'Nu aveți %1$s Citate.';
 $lang['ClientQuotations.index.option_approve'] = 'Aprobați';
 $lang['ClientQuotations.index.option_view'] = 'Vezi';
-$lang['ClientQuotations.index.heading_options'] = 'Opțiuni';
+$lang['ClientQuotations.index.heading_options'] = 'Acțiuni';
 $lang['ClientQuotations.index.heading_date_expires'] = 'Data expirării';
 $lang['ClientQuotations.index.heading_date_created'] = 'Data creării';
 $lang['ClientQuotations.index.heading_total'] = 'Suma';

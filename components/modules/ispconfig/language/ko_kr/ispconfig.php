@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row'] = '서버';
 $lang['Ispconfig.description'] = 'ISPConfig 3는 하나의 제어판에서 여러 서버를 관리할 수 있는 Linux용 오픈 소스 패널입니다.';
 $lang['Ispconfig.name'] = 'ISPConfig';
 $lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.back_to_manage'] = '뒤로';
+$lang['Ispconfig.manage.tab_rows'] = '서버';
+$lang['Ispconfig.manage.tab_groups'] = '서버 그룹';
 

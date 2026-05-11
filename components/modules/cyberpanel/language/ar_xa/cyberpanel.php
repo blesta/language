@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = 'الخوادم';
 $lang['Cyberpanel.module_row'] = 'الخادم';
 $lang['Cyberpanel.description'] = 'CyberPanel هي لوحة تحكم استضافة من الجيل التالي مدعومة من OpenLiteSpeed. مصممة للسرعة والأمان والموثوقية.';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = 'رجوع';
+$lang['Cyberpanel.manage.tab_rows'] = 'الخوادم';
+$lang['Cyberpanel.manage.tab_groups'] = 'مجموعات الخوادم';
 

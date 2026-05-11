@@ -4,36 +4,36 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminLogin.index.page_title'] = 'Se connecter';
-$lang['AdminLogin.index.title_adminarea'] = '%1$s | Domaine du personnel';
+$lang['AdminLogin.index.title_adminarea'] = 'Domaine du personnel';
 $lang['AdminLogin.index.field_username'] = 'Nom d\'utilisateur';
 $lang['AdminLogin.index.field_password'] = 'Mot de passe';
 $lang['AdminLogin.index.field_rememberme'] = 'Souvenez-vous de moi sur cet ordinateur.';
 $lang['AdminLogin.index.field_loginsubmit'] = 'Se connecter';
 $lang['AdminLogin.index.link_resetpassword'] = 'Réinitialiser mon mot de passe';
-$lang['AdminLogin.otp.page_title'] = 'Connexion OTP';
-$lang['AdminLogin.otp.title_adminarea'] = '%1$s | Domaine du personnel';
+$lang['AdminLogin.otp.page_title'] = 'Authentification à deux facteurs';
+$lang['AdminLogin.otp.title_adminarea'] = 'Authentification à deux facteurs';
 $lang['AdminLogin.otp.field_password'] = 'Mot de passe unique';
 $lang['AdminLogin.otp.field_loginsubmit'] = 'Se connecter';
 $lang['AdminLogin.otp.link_login'] = 'Annuler, Se connecter';
 $lang['AdminLogin.reset.page_title'] = 'Réinitialiser le mot de passe';
-$lang['AdminLogin.reset.title_adminarea'] = '%1$s | Réinitialiser le mot de passe';
+$lang['AdminLogin.reset.title_adminarea'] = 'Réinitialiser le mot de passe';
 $lang['AdminLogin.reset.field_username'] = 'Nom d\'utilisateur';
 $lang['AdminLogin.reset.field_resetsubmit'] = 'Réinitialiser le mot de passe';
 $lang['AdminLogin.reset.link_login'] = 'Annuler, Se connecter';
 $lang['AdminLogin.confirmreset.page_title'] = 'Confirmer la réinitialisation du mot de passe';
-$lang['AdminLogin.confirmreset.title_adminarea'] = '%1$s | Confirmer la réinitialisation du mot de passe';
+$lang['AdminLogin.confirmreset.title_adminarea'] = 'Confirmer la réinitialisation du mot de passe';
 $lang['AdminLogin.confirmreset.field_new_password'] = 'Nouveau mot de passe';
 $lang['AdminLogin.confirmreset.field_confirm_password'] = 'Confirmer le nouveau mot de passe';
 $lang['AdminLogin.confirmreset.field_resetsubmit'] = 'Définir le mot de passe';
 $lang['AdminLogin.confirmreset.link_login'] = 'Annuler, Se connecter';
 $lang['AdminLogin.setup.page_title'] = 'Configuration initiale';
-$lang['AdminLogin.setup.title_adminarea'] = 'Configuration initiale';
+$lang['AdminLogin.setup.title_adminarea'] = 'Commencer avec Blesta';
 $lang['AdminLogin.setup.field_license_key'] = 'Clé de licence';
 $lang['AdminLogin.setup.trial_newsletter'] = 'En vous inscrivant à un essai, vous acceptez de recevoir des courriels de notre part pendant la durée de l\'essai. Vous pouvez vous désinscrire à tout moment.';
 $lang['AdminLogin.setup.field_newsletter'] = 'S\'inscrire à notre bulletin d\'information. Vous pouvez vous désinscrire à tout moment.';
@@ -57,6 +57,21 @@ $lang['AdminLogin.!info.step_up'] = 'Pour continuer, il est nécessaire de véri
 $lang['AdminLogin.up.link_cancel'] = 'Annuler';
 $lang['AdminLogin.up.field_loginsubmit'] = 'Vérifier l\'accès';
 $lang['AdminLogin.up.field_password'] = 'Mot de passe';
-$lang['AdminLogin.up.title_adminarea'] = '%1$s | Vérification de l\'accès';
+$lang['AdminLogin.up.title_adminarea'] = 'Vérification de l\'accès';
 $lang['AdminLogin.up.page_title'] = 'Vérification de l\'accès';
+$lang['AdminLogin.index.page_subtitle'] = 'Bienvenue ! Si vous n\'avez pas de login, contactez votre administrateur.';
+$lang['AdminLogin.index.subtitle_adminarea'] = 'Saisissez vos identifiants pour accéder au panneau d\'administration.';
+$lang['AdminLogin.otp.page_subtitle'] = 'Saisissez votre mot de passe à usage unique pour terminer la procédure de connexion.';
+$lang['AdminLogin.otp.subtitle_adminarea'] = 'Saisissez votre mot de passe à usage unique pour vérifier votre identité.';
+$lang['AdminLogin.up.page_subtitle'] = 'Bienvenue ! Si vous n\'avez pas de login, contactez votre administrateur.';
+$lang['AdminLogin.up.subtitle_adminarea'] = 'Vérifiez votre accès pour continuer.';
+$lang['AdminLogin.up.field_password_otp'] = 'Mot de passe unique';
+$lang['AdminLogin.reset.page_subtitle'] = 'Vous avez oublié votre mot de passe ? Entrez votre nom d\'utilisateur pour commencer le processus de réinitialisation.';
+$lang['AdminLogin.reset.subtitle_adminarea'] = 'Saisissez votre nom d\'utilisateur pour commencer la procédure de réinitialisation.';
+$lang['AdminLogin.confirmreset.page_subtitle'] = 'Créez un nouveau mot de passe pour votre compte.';
+$lang['AdminLogin.confirmreset.subtitle_adminarea'] = 'Saisissez votre nouveau mot de passe ci-dessous.';
+$lang['AdminLogin.setup.page_subtitle'] = 'Configurez votre installation Blesta et créez votre compte administrateur.';
+$lang['AdminLogin.setup.subtitle_adminarea'] = 'Complétez la configuration initiale pour commencer à gérer votre système de facturation. Cela ne prendra que quelques instants.';
+$lang['AdminLogin.!error.step_up_expired'] = 'La session Step up a expiré.';
+$lang['AdminLogin.!success.step_up_extended'] = 'La session Step up a été prolongée.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = '패키지 ID';
 $lang['AdminSearch.packages.heading'] = '패키지';
 $lang['AdminSearch.transactions.no_results'] = '검색 조건과 일치하는 트랜잭션이 없습니다.';
 $lang['AdminSearch.transactions.option_edit'] = '편집';
-$lang['AdminSearch.transactions.heading_options'] = '옵션';
+$lang['AdminSearch.transactions.heading_options'] = '작업';
 $lang['AdminSearch.transactions.heading_date'] = '날짜';
 $lang['AdminSearch.transactions.heading_status'] = '상태';
 $lang['AdminSearch.transactions.heading_number'] = '번호';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = '청구 날짜';
 $lang['AdminSearch.invoice.heading_date_closed'] = '마감일';
 $lang['AdminSearch.invoice.heading_due'] = '기한';
 $lang['AdminSearch.invoice.heading_paid'] = '유료';
-$lang['AdminSearch.invoice.heading_amount'] = '옵션';
+$lang['AdminSearch.invoice.heading_amount'] = '금액';
 $lang['AdminSearch.invoice.heading_client_id'] = '클라이언트 ID';
 $lang['AdminSearch.invoice.heading_invoice'] = '송장 #';
 $lang['AdminSearch.invoices.heading'] = '송장';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = '클라이언트';
 $lang['AdminSearch.index.boxtitle_search'] = '"%1$s"에 대한 검색 결과';
 $lang['AdminSearch.index.page_title'] = '"%1$s"에 대한 검색 결과';
 $lang['AdminSearch.!notice.results_truncated'] = '결과 수가 잘렸습니다. 검색 범위를 좁힐 수 있습니다.';
+$lang['AdminSearch.invoice.heading_options'] = '작업';
 

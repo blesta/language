@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['ClientContacts.index.no_results'] = 'Hiç irtibatınız yok. İlk kişini
 $lang['ClientContacts.index.confirm_delete'] = 'Bu kişiyi silmek istediğinizden emin misiniz?';
 $lang['ClientContacts.index.option_delete'] = 'Silme';
 $lang['ClientContacts.index.option_edit'] = 'Düzenle';
-$lang['ClientContacts.index.heading_options'] = 'Seçenekler';
+$lang['ClientContacts.index.heading_options'] = 'Eylemler';
 $lang['ClientContacts.index.heading_type'] = 'Tip';
 $lang['ClientContacts.index.heading_email'] = 'E-posta';
 $lang['ClientContacts.index.heading_name'] = 'İsim';

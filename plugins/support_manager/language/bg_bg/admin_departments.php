@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Изтриване на';
 $lang['AdminDepartments.edit.heading_default'] = 'По подразбиране';
 $lang['AdminDepartments.edit.heading_value'] = 'Стойност';
 $lang['AdminDepartments.edit.heading_name'] = 'Име';
-$lang['AdminDepartments.edit.heading_options'] = 'Опции';
+$lang['AdminDepartments.edit.heading_options'] = 'Действия';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Автоматично изтриване';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Криптиран';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Клиентът може да добави';
@@ -67,7 +67,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Изтриване на';
 $lang['AdminDepartments.add.heading_default'] = 'По подразбиране';
 $lang['AdminDepartments.add.heading_value'] = 'Стойност';
 $lang['AdminDepartments.add.heading_name'] = 'Име';
-$lang['AdminDepartments.add.heading_options'] = 'Опции';
+$lang['AdminDepartments.add.heading_options'] = 'Действия';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Автоматично изтриване';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Криптиран';
 $lang['AdminDepartments.add.heading_client_add'] = 'Клиентът може да добави';
@@ -132,7 +132,7 @@ $lang['AdminDepartments.index.no_results'] = 'Няма отдели.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Отделите, на които са възложени билети, не могат да бъдат изтрити, докато всички билети не бъдат възложени отново на алтернативен отдел. Сигурни ли сте, че искате да изтриете този отдел?';
 $lang['AdminDepartments.index.option_delete'] = 'Изтриване на';
 $lang['AdminDepartments.index.option_edit'] = 'Редактиране на';
-$lang['AdminDepartments.index.heading_options'] = 'Опции';
+$lang['AdminDepartments.index.heading_options'] = 'Действия';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Приоритет по подразбиране';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Назначен персонал';
 $lang['AdminDepartments.index.heading_email'] = 'Имейл';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'Идентификато
 $lang['AdminDepartments.add.field_oauth2_user'] = 'Потребител на OAuth 2.0';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'Доставчик на OAuth 2.0';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'За всички билети със статус затворен на клиента ще бъде изпратено напомняне да остави обратна връзка, ако билетът е бил затворен за избрания период от време.';
+$lang['AdminDepartments.!text.description_hint'] = 'Това описание ще бъде видимо за клиентите при избора на отдел.';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Задръжте Ctrl (Windows) или Cmd (Mac), за да изберете няколко приоритета';
+$lang['AdminDepartments.!text.search_responses'] = 'Търсене на отговори...';
+$lang['AdminDepartments.!text.searching'] = 'Търсене...';
+$lang['AdminDepartments.add.heading_actions'] = 'Действия';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Сигурни ли сте, че искате да премахнете това потребителско поле?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Действия';
 

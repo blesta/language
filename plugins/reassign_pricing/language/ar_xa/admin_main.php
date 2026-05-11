@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminMain.index.option_service'] = 'إعادة تعيين الأسعار'
 $lang['AdminMain.index.no_results'] = 'لا توجد خدمات متاحة لإعادة تعيين الأسعار.';
 $lang['AdminMain.index.text_never'] = 'أبداً';
 $lang['AdminMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
-$lang['AdminMain.index.heading_options'] = 'الخيارات';
+$lang['AdminMain.index.heading_options'] = 'الإجراءات';
 $lang['AdminMain.index.heading_date_renews'] = 'تاريخ التجديدات';
 $lang['AdminMain.index.heading_date_created'] = 'تاريخ الإنشاء';
 $lang['AdminMain.index.heading_term'] = 'المدة';

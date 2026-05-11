@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = 'Parolă';
 $lang['Cpanel.tab_client_login.logintocpanel'] = 'Conectați-vă la cPanel';
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = 'Nume utilizator';
 $lang['Cpanel.tab_client_login'] = 'Conectați-vă la cPanel';
+$lang['Cpanel.back_to_manage'] = 'Înapoi';
+$lang['Cpanel.manage.tab_rows'] = 'Servere';
+$lang['Cpanel.manage.tab_groups'] = 'Grupuri de servere';
 

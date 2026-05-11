@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = '이메
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = '이메일 BCC 알림';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = '액세스 제어 목록';
 $lang['AdminSystemStaff.editgroup.heading_general'] = '일반';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = '그룹 편집';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = '그룹 업데이트';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = 'IP 주소 변경 시 로그아웃';
 $lang['AdminSystemStaff.editgroup.field_company'] = '회사';
 $lang['AdminSystemStaff.editgroup.field_name'] = '이름';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = '이 직원 그룹을 삭제하시겠습니까?';
 $lang['AdminSystemStaff.groups.option_edit'] = '편집';
 $lang['AdminSystemStaff.groups.no_results'] = '직원 그룹이 없습니다.';
-$lang['AdminSystemStaff.groups.heading_options'] = '옵션';
+$lang['AdminSystemStaff.groups.heading_options'] = '작업';
 $lang['AdminSystemStaff.groups.heading_staff'] = '직원 수';
 $lang['AdminSystemStaff.groups.heading_company_name'] = '회사 이름';
 $lang['AdminSystemStaff.groups.heading_name'] = '이름';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = '그룹 만들기';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = '직원 그룹';
 $lang['AdminSystemStaff.groups.page_title'] = '설정 > 시스템 > 직원 > 직원 그룹';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = '직원 편집';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = '직원 업데이트';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = '사용 가능한 그룹';
 $lang['AdminSystemStaff.edit.text_membergroups'] = '회원 그룹';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = '투 팩터 핀';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = '편집';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = '이 직원을 정말 재활성화할까요?';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = '이 직원을 정말 비활성화할까요?';
 $lang['AdminSystemStaff.manage.no_results'] = '이 상태의 직원이 없습니다.';
-$lang['AdminSystemStaff.manage.heading_options'] = '옵션';
+$lang['AdminSystemStaff.manage.heading_options'] = '작업';
 $lang['AdminSystemStaff.manage.heading_email'] = '이메일';
 $lang['AdminSystemStaff.manage.heading_name'] = '이름';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = '직원 추가';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = '직원 그룹 "%1$s"가 성�
 $lang['AdminSystemStaff.!success.group_added'] = '직원 그룹 "%1$s"가 성공적으로 만들어졌습니다!';
 $lang['AdminSystemStaff.!success.staff_updated'] = '해당 직원이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemStaff.!success.staff_added'] = '해당 직원이 성공적으로 추가되었습니다!';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = '알림';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = '알림';
 

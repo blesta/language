@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'Konfigurac
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'Messenger byl úspěšně odinstalován.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'Messenger byl úspěšně nainstalován.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'Posel byl úspěšně aktualizován.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtrování poslů...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Nebyl nalezen žádný odpovídající messenger.';
 

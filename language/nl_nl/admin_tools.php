@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,7 +136,7 @@ $lang['AdminTools.renewals.option_change_max'] = 'Veranderen Maximaal';
 $lang['AdminTools.renewals.option_dequeue'] = 'Dequeue';
 $lang['AdminTools.renewals.option_view'] = 'Factuur bekijken';
 $lang['AdminTools.renewals.confirm_dequeue'] = 'Weet je zeker dat je deze service wilt verwijderen uit de vernieuwingswachtrij?';
-$lang['AdminTools.renewals.heading_options'] = 'Opties';
+$lang['AdminTools.renewals.heading_options'] = 'Acties';
 $lang['AdminTools.renewals.heading_invoice'] = 'Factuur';
 $lang['AdminTools.renewals.heading_maximum_attempts'] = 'Maximale pogingen';
 $lang['AdminTools.renewals.heading_failed_attempts'] = 'Mislukte pogingen';
@@ -152,7 +152,7 @@ $lang['AdminTools.utilities.text_update_to_utf8mb4_requirements'] = 'Upgrade naa
 $lang['AdminTools.utilities.text_update_to_utf8mb4'] = 'Werk de tekenset en collatie van je database, tabellen en kolommen bij naar utf8mb4 om 4 byte tekens zoals emoji\'s te ondersteunen.  Dit kan enkele minuten duren.';
 $lang['AdminTools.utilities.field_update_to_utf8mb4'] = 'Bijwerken naar utf8mb4';
 $lang['AdminTools.utilities.update_collation'] = 'Database sorteren bijwerken';
-$lang['AdminTools.utilities.heading_options'] = 'Opties';
+$lang['AdminTools.utilities.heading_options'] = 'Acties';
 $lang['AdminTools.utilities.heading_description'] = 'Beschrijving';
 $lang['AdminTools.utilities.heading_utility'] = 'Utility';
 $lang['AdminTools.utilities.boxtitle_utilities'] = 'Nutsbedrijven';
@@ -178,7 +178,7 @@ $lang['AdminTools.!success.dequeue'] = 'De service is succesvol verwijderd uit d
 $lang['AdminTools.!success.max_updated'] = 'Het maximum voor de verlengingspoging is met succes bijgewerkt.';
 $lang['AdminTools.!success.collation_updated'] = 'De database collatie is succesvol bijgewerkt.';
 $lang['AdminTools.!success.currency_converted'] = '%1$s = %2$s';
-$lang['AdminTools.blacklistadd.field_submit'] = 'Regel toevoegen';
+$lang['AdminTools.blacklistadd.field_submit'] = 'Regel maken';
 $lang['AdminTools.blacklistadd.field_note'] = 'Opmerking';
 $lang['AdminTools.blacklistadd.field_type'] = 'Type';
 $lang['AdminTools.blacklistadd.field_rule'] = 'Regel';
@@ -189,7 +189,7 @@ $lang['AdminTools.blacklist.option_delete'] = 'Verwijder';
 $lang['AdminTools.blacklist.text_system'] = 'Systeem';
 $lang['AdminTools.blacklist.text_type_email'] = 'E-mailadres';
 $lang['AdminTools.blacklist.text_type_ip'] = 'IP-adres';
-$lang['AdminTools.blacklist.heading_options'] = 'Opties';
+$lang['AdminTools.blacklist.heading_options'] = 'Acties';
 $lang['AdminTools.blacklist.heading_note'] = 'Opmerking';
 $lang['AdminTools.blacklist.heading_list'] = 'Lijst';
 $lang['AdminTools.blacklist.heading_type'] = 'Type';
@@ -249,7 +249,7 @@ $lang['AdminTools.renewals.no_results_renewal'] = 'Er staan momenteel geen diens
 $lang['AdminTools.renewals.no_results_provision'] = 'Er staan momenteel geen diensten in de wachtrij voor provisioning.';
 $lang['AdminTools.!notice.conditions_met'] = 'Items verschijnen alleen in de aangewezen wachtrij als aan alle voorwaarden is voldaan en ze klaar zijn om geprobeerd te worden.';
 $lang['AdminTools.!success.service_changes_canceled'] = 'De servicewijzigingen zijn succesvol geannuleerd.';
-$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Uitgaand blokkeren';
+$lang['AdminTools.blacklistadd.field_block_outgoing'] = 'Blokkeer uitgaande e-mails naar dit adres';
 $lang['AdminTools.blacklist.heading_block_outgoing'] = 'Uitgaand blokkeren';
 $lang['AdminTools.renewals.no_results_changes'] = 'Er staan momenteel geen servicewijzigingen in de wachtrij voor provisioning.';
 $lang['AdminTools.renewals.option_retry'] = 'Opnieuw proberen';
@@ -265,4 +265,48 @@ $lang['AdminTools.renewals.heading_status'] = 'Status';
 $lang['AdminTools.renewals.category_changes'] = 'Serviceveranderingen';
 $lang['AdminTools.renewals.category_unpaid_renewal'] = 'Onbetaalde verlenging';
 $lang['AdminTools.!success.service_changes_scheduled'] = 'De servicewijzigingen zijn succesvol gepland.';
+$lang['AdminTools.integritycheck.text_summary'] = '%1$s bestanden gecontroleerd: %2$s OK, %3$s gewijzigd, %4$s ontbreekt.';
+$lang['AdminTools.integritycheck.text_manifest_not_found'] = 'Het manifest-bestand (manifest.json) is niet gevonden. Dit bestand wordt bij officiële releases meegeleverd en is nodig om een integriteitscontrole uit te voeren.';
+$lang['AdminTools.integritycheck.text_error'] = 'Er is een fout opgetreden tijdens het controleren van bestanden.';
+$lang['AdminTools.integritycheck.text_no_issues'] = 'Alle bestanden komen overeen met het manifest. Geen wijzigingen of ontbrekende bestanden gedetecteerd.';
+$lang['AdminTools.integritycheck.text_ok'] = 'OK';
+$lang['AdminTools.integritycheck.text_total_files'] = 'Totaal Bestanden';
+$lang['AdminTools.integritycheck.category_vendor'] = 'Verkoper';
+$lang['AdminTools.integritycheck.category_core'] = 'Kern';
+$lang['AdminTools.integritycheck.status_missing'] = 'Ontbrekend';
+$lang['AdminTools.integritycheck.status_modified'] = 'Gewijzigd';
+$lang['AdminTools.integritycheck.heading_category'] = 'Categorie';
+$lang['AdminTools.integritycheck.heading_file'] = 'Bestand';
+$lang['AdminTools.integritycheck.heading_status'] = 'Status';
+$lang['AdminTools.integritycheck.text_checking'] = 'Bestanden worden gecontroleerd, een ogenblik geduld alstublieft. Dit kan even duren...';
+$lang['AdminTools.integritycheck.field_run_again'] = 'Opnieuw rennen';
+$lang['AdminTools.integritycheck.field_download_report'] = 'Rapport downloaden';
+$lang['AdminTools.integritycheck.field_run_check'] = 'Integriteitscontrole uitvoeren';
+$lang['AdminTools.integritycheck.text_description'] = 'Controleer geïnstalleerde bestanden aan de hand van het manifest dat met deze release is meegeleverd. Dit controleert de integriteit van bestanden door SHA256-hashes te vergelijken en kan helpen bij het identificeren van bestanden die zijn gewijzigd, wat handig is voor het oplossen van problemen en voorafgaand aan het uitvoeren van upgrades.';
+$lang['AdminTools.integritycheck.boxtitle_integritycheck'] = 'Systeemintegriteitscontrole';
+$lang['AdminTools.integritycheck.page_title'] = 'Systeemintegriteitscontrole';
+$lang['AdminTools.!success.cache_cleared'] = 'De bestandscache is met succes gewist.';
+$lang['AdminTools.utilities.field_integrity_check'] = 'Controle uitvoeren';
+$lang['AdminTools.utilities.text_integrity_check'] = 'Controleer kernbestanden aan de hand van het verzonden manifest om gewijzigde of ontbrekende bestanden te identificeren.';
+$lang['AdminTools.utilities.integrity_check'] = 'Systeemintegriteitscontrole';
+$lang['AdminTools.utilities.text_clear_file_cache'] = 'Wis bestanden in de cache, inclusief navigatie, weergaven en plugin-caches. Dit kan het laden van pagina\'s iets vertragen totdat de cache opnieuw is opgebouwd.';
+$lang['AdminTools.utilities.field_clear_file_cache'] = 'Cache wissen';
+$lang['AdminTools.utilities.clear_file_cache'] = 'Bestandscache wissen';
+$lang['AdminTools.getlognames.text_system'] = 'Systeem';
+$lang['AdminTools.integritycheck.text_manifest_version'] = 'Manifest versie: %1$s (gegenereerd %2$s)';
+$lang['AdminTools.renewals.no_results_unpaid_renewal'] = 'Er staan momenteel geen diensten in de wachtrij voor verlenging na betaling.';
+$lang['AdminTools.logsystem.page_title'] = 'Gereedschap Logboeken';
+$lang['AdminTools.logsystem.text_date'] = 'Datum';
+$lang['AdminTools.logsystem.text_level'] = 'Niveau';
+$lang['AdminTools.logsystem.text_message'] = 'Bericht';
+$lang['AdminTools.logsystem.no_results'] = 'Er zijn geen systeemlogboekvermeldingen.';
+$lang['AdminTools.logsystem.no_log_dir'] = 'De logboekdirectory is niet geconfigureerd of niet leesbaar. Configureer deze onder Instellingen &gt; Systeem &gt; Algemeen.';
+$lang['AdminTools.logsystem.level_emergency'] = 'Noodgevallen';
+$lang['AdminTools.logsystem.level_alert'] = 'Waarschuwing';
+$lang['AdminTools.logsystem.level_critical'] = 'Kritisch';
+$lang['AdminTools.logsystem.level_error'] = 'Fout';
+$lang['AdminTools.logsystem.level_warning'] = 'Waarschuwing';
+$lang['AdminTools.logsystem.level_notice'] = 'Kennisgeving';
+$lang['AdminTools.logsystem.level_info'] = 'Info';
+$lang['AdminTools.logsystem.level_debug'] = 'Debug';
 

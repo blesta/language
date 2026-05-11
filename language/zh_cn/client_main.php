@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -83,4 +83,5 @@ $lang['ClientMain.!success.client_updated'] = '您的账户信息已成功更新
 $lang['ClientMain.edit.tooltip_confirm_password'] = '启用双因素身份验证或更新密码时需要。';
 $lang['ClientMain.edit.heading_two_factor_authentication'] = '双因素验证';
 $lang['ClientMain.getcurrencyamounts.link_addcredits'] = '添加积分';
+$lang['ClientMain.edit.link_remove_avatar'] = '移除';
 

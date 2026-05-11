@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Den e-postsignaturen använd
 $lang['Emails.!error.text.parse'] = 'Fel vid tolkning av mall: %1$s';
 $lang['Emails.!error.html.parse'] = 'Fel vid tolkning av mall: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Snapshotet hör inte till det angivna e-postmeddelandet.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Ogiltigt snapshot-ID.';
 

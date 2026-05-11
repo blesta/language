@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = '您确定要批准这笔付款吗
 $lang['AdminPayouts.index.option_decline'] = '下降';
 $lang['AdminPayouts.index.option_approve'] = '批准';
 $lang['AdminPayouts.index.option_edit'] = '编辑';
-$lang['AdminPayouts.index.heading_options'] = '选项';
+$lang['AdminPayouts.index.heading_options'] = '行动';
 $lang['AdminPayouts.index.heading_date_requested'] = '申请日期';
 $lang['AdminPayouts.index.heading_paid_currency'] = '付费货币';
 $lang['AdminPayouts.index.heading_paid_amount'] = '已付金额';

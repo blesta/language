@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Orders.view.heading_options'] = 'Možnosti';
+$lang['Orders.view.heading_options'] = 'Akce';
 $lang['Orders.view.heading_date_renews'] = 'Datum obnovení';
 $lang['Orders.view.heading_date_created'] = 'Datum vytvoření';
 $lang['Orders.view.heading_term'] = 'Termín';
@@ -26,7 +26,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'Zobrazit objednávku';
 $lang['Orders.index.no_results'] = 'Nemáte žádné objednávky.';
 $lang['Orders.index.option_cancel'] = 'Zrušit';
 $lang['Orders.index.option_view'] = 'Zobrazit';
-$lang['Orders.index.heading_options'] = 'Možnosti';
+$lang['Orders.index.heading_options'] = 'Akce';
 $lang['Orders.index.heading_date_ordered'] = 'Datum objednání';
 $lang['Orders.index.heading_paid'] = 'Placené';
 $lang['Orders.index.heading_total'] = 'Celkem';

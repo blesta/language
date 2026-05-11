@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Rozsah portů je n
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Zda se má použít vyhrazená IP adresa, musí být nastaveno na 1 nebo 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'ID lokality se neshoduje s žádnou v databázi Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'ID místa musí být číselné.';
+$lang['Pterodactyl.back_to_manage'] = 'Zpět';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -141,7 +141,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Waarde';
 $lang['Namesilo.dnsrecord.host'] = 'Gastheer';
 $lang['Namesilo.dnsrecord.record_type'] = 'Type';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Op deze pagina kun je A, AAAA, CNAME, MX en TXT DNS-records toevoegen of verwijderen. Houd er rekening mee dat het enkele minuten kan duren voordat de DNS-records zijn verspreid.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Op deze pagina kun je A, AAAA, CNAME, MX en TXT DNS-records toevoegen of verwijderen. Houd er rekening mee dat het enkele minuten kan duren voordat de DNS-records zijn verspreid. <br/> Om een van deze wijzigingen op uw domeinnaam te laten weergeven, moet u nameservers instellen op:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Record toevoegen';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Record(s) verwijderen';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Een DNS-record toevoegen';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Haalt contacten op uit name
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Trek Namesilo Contacten';
 $lang['Namesilo.notice.default_nameservers'] = 'Deze functie vereist dat het domein de volgende naamservers gebruikt: ns1.dnsowl.com, ns2.dnsowl.com en ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Het domein is niet beschikbaar voor registratie.';
+$lang['Namesilo.back_to_manage'] = 'Terug';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Acties';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Een of meer velden bevatten speciale tekens (bijv. letters met accenten). NameSilo ondersteunt deze tekens mogelijk niet in contactvelden.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Domein doorsturen';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Domeinforwarding wordt automatisch verwijderd wanneer je het domein iets anders laat doen, zoals het wijzigen van naamservers of het wijzigen van de primaire A-records voor @ en www. <br/> Om een van deze wijzigingen op je domeinnaam te laten weergeven, moet je naamservers instellen op:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domein';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Vooruit naar';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Doorstuurmethode';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Permanent vooruit (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Tijdelijk vooruit (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Verborgen';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Actief';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Verwijder';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Expediteurs bijwerken';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'Doorstuur URL is ongeldig. Gebruik HTTPS of HTTP.';
 

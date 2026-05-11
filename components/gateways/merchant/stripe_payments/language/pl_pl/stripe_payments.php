@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Nie należy odinstalowywać 
 $lang['StripePayments.text_migrate_accounts'] = 'Możesz automatycznie migrować konta płatnicze przechowywane poza siedzibą firmy przez starą bramkę Stripe do tej bramki Stripe Payments. Konta, które nie są przechowywane poza siedzibą firmy, muszą zostać zmigrowane poprzez ręczne utworzenie nowych kont płatniczych. Aby zapobiec przekroczeniu limitu czasu, migracje będą wykonywane w partiach %1$s. Uruchom to tyle razy, ile potrzeba do migracji wszystkich kont płatniczych.';
 $lang['StripePayments.text_accounts_remaining'] = 'Pozostałe konta: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migracja starych kont płatniczych';
-$lang['StripePayments.webhook_note'] = 'Zaleca się skonfigurowanie następującego adresu URL jako elementu Webhook dla zdarzeń "payment_intent" na koncie Stripe.';
+$lang['StripePayments.webhook_note'] = 'Zaleca się skonfigurowanie następującego adresu URL jako elementu Webhook dla zdarzeń "payment_intent" i "charge" na koncie Stripe.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Tajny klucz API jest specyficzny dla trybu rzeczywistego lub testowego. Upewnij się, że używasz prawidłowego klucza.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Klucz API do publikacji jest specyficzny dla trybu rzeczywistego lub testowego. Upewnij się, że używasz prawidłowego klucza.';

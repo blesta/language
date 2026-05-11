@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_required'] = 'Wählen Sie j
 $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Dies ist der Typ des Formularfelds, der angezeigt wird. Siehe Werte-Tooltip für die Definition von Werten für Kontrollkästchen, Optionsfelder und Auswahlfelder.';
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Dies ist der Name des verborgenen Formularfeldes. Verwenden Sie qty, um ein Mengenfeld zu erstellen.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Dies ist der Text, der direkt über dem Formularfeld erscheint.';
+$lang['UniversalModule.back_to_manage'] = 'Zurück';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_amount'] = '금액';
 $lang['ClientInvoices.applied.heading_paymenttype'] = '결제 유형';
 $lang['ClientInvoices.index.option_pay'] = '결제';
 $lang['ClientInvoices.index.option_view'] = '보기';
-$lang['ClientInvoices.index.heading_options'] = '옵션';
+$lang['ClientInvoices.index.heading_options'] = '작업';
 $lang['ClientInvoices.index.heading_datedue'] = '마감일';
 $lang['ClientInvoices.index.heading_datebilled'] = '청구 날짜';
 $lang['ClientInvoices.index.heading_dateclosed'] = '마감일';

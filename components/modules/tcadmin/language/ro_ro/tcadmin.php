@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -98,4 +98,7 @@ $lang['Tcadmin.module_row_plural'] = 'Servere';
 $lang['Tcadmin.module_row'] = 'Server';
 $lang['Tcadmin.description'] = 'TCAdmin, panoul de control pentru găzduirea jocurilor, a fost proiectat de la zero pentru a ajuta furnizorii de servicii de jocuri de astăzi să economisească timp și bani, permițând în același timp utilizatorilor finali un control complet asupra serverelor lor.';
 $lang['Tcadmin.name'] = 'Tcadmin';
+$lang['Tcadmin.back_to_manage'] = 'Înapoi';
+$lang['Tcadmin.manage.tab_rows'] = 'Servere';
+$lang['Tcadmin.manage.tab_groups'] = 'Grupuri de servere';
 

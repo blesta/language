@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'الملاحظات';
 $lang['AdminSystemApi.edit.field_user'] = 'المستخدم';
 $lang['AdminSystemApi.edit.field_company'] = 'الشركة';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'تحرير مستخدم واجهة برمجة التطبيقات';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'إضافة مستخدم';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'إنشاء مستخدم';
 $lang['AdminSystemApi.add.field_notes'] = 'الملاحظات';
 $lang['AdminSystemApi.add.field_user'] = 'المستخدم';
 $lang['AdminSystemApi.add.field_company'] = 'الشركة';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'حقاً حذف مستخدم API
 $lang['AdminSystemApi.index.no_results'] = 'لا يوجد مستخدمو API.';
 $lang['AdminSystemApi.index.option_delete'] = 'حذف';
 $lang['AdminSystemApi.index.option_edit'] = 'تحرير';
-$lang['AdminSystemApi.index.heading_options'] = 'الخيارات';
+$lang['AdminSystemApi.index.heading_options'] = 'الإجراءات';
 $lang['AdminSystemApi.index.heading_date'] = 'تاريخ الإنشاء';
 $lang['AdminSystemApi.index.heading_company'] = 'الشركة';
 $lang['AdminSystemApi.index.heading_key'] = 'المفتاح';

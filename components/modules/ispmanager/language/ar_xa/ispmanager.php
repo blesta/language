@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Ispmanager.module_row_plural'] = 'الخوادم';
 $lang['Ispmanager.module_row'] = 'الخادم';
 $lang['Ispmanager.description'] = 'يوفر ispmanager مجموعة ميزات غنية لإدارة مواقع الويب وإنشاء المستخدمين والتعامل مع النطاقات ورسائل البريد الإلكتروني وقواعد البيانات وما إلى ذلك.';
 $lang['Ispmanager.name'] = 'ispmanager';
+$lang['Ispmanager.back_to_manage'] = 'رجوع';
+$lang['Ispmanager.manage.tab_rows'] = 'الخوادم';
+$lang['Ispmanager.manage.tab_groups'] = 'مجموعات الخوادم';
 

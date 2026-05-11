@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,7 +130,7 @@ $lang['ClientServices.index.no_results'] = 'Не разполагате с %1$s 
 $lang['ClientServices.index.text_never'] = 'Никога';
 $lang['ClientServices.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientServices.index.option_manage'] = 'Управление на';
-$lang['ClientServices.index.heading_options'] = 'Опции';
+$lang['ClientServices.index.heading_options'] = 'Действия';
 $lang['ClientServices.index.heading_datecanceled'] = 'Дата на отмяна';
 $lang['ClientServices.index.heading_datesuspended'] = 'Дата на спиране';
 $lang['ClientServices.index.heading_daterenews'] = 'Дата на подновяване';

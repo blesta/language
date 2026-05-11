@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Redigera betalningstyp';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Uppdatera betalningstyp';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Använd språk Definition';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Typ';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Namn';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ja';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Om du tar bort denna betalningstyp kommer alla transaktioner som använder denna betalningstyp att sättas till "annan". Är du säker på att du vill ta bort denna betalningstyp?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Radera';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'Redigera';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Alternativ';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Åtgärder';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Användningar Språk Definition';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Typ';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Namn';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP-inställningarna upp
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Grundinställningarna har uppdaterats framgångsrikt!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Uppladdningskatalogen måste finnas och ligga utanför rotwebbkatalogen.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir är aktiverat. Filåtkomst är begränsad till: %1$s. Kataloger utanför dessa sökvägar är inte åtkomliga.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Cache-katalog';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Detta värde representerar den fullständiga serversökvägen till den plats där Blesta ska skriva cachade filer. Den här katalogen måste vara skrivbar för serverns webbanvändare och cron-användare. Av säkerhetsskäl bör den här sökvägen ligga utanför webbroten; om den måste ligga i webbroten kommer Blesta att skriva en .htaccess-fil som en partiell begränsning, men serverkonfigurationer som ignorerar .htaccess (t.ex. Nginx) ger inget sådant skydd.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Ändringen av cachekatalogen kan inte tillämpas eftersom markörfilen i config/cache.dir.php inte kan skrivas eller tas bort. Ge skrivbehörighet till config-katalogen (och till markörfilen, om den finns) och försök igen.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Cachekatalogen måste vara en befintlig skrivbar katalog.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,7 +56,7 @@ $lang['ClientTickets.index.minutes'] = '%1$s минут';
 $lang['ClientTickets.index.any'] = 'Любой';
 $lang['ClientTickets.index.option_reply'] = 'Ответить';
 $lang['ClientTickets.index.option_close'] = 'Закрыть';
-$lang['ClientTickets.index.heading_options'] = 'Опции';
+$lang['ClientTickets.index.heading_options'] = 'Действия';
 $lang['ClientTickets.index.heading_status'] = 'Статус';
 $lang['ClientTickets.index.heading_last_reply_date'] = 'Последний ответ';
 $lang['ClientTickets.index.heading_summary'] = 'Резюме';

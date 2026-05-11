@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.edittemplate.field.tags'] = 'Etiquetas disponibles
 $lang['AdminCompanyMessengers.edittemplate.field.status'] = 'Activado';
 $lang['AdminCompanyMessengers.edittemplate.field.cancel'] = 'Cancelar';
 $lang['AdminCompanyMessengers.edittemplate.field.edittemplatesubmit'] = 'Plantilla de actualización';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filtrar mensajeros...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'No se han encontrado mensajeros coincidentes.';
 

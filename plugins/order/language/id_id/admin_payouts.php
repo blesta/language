@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'Apakah Anda yakin ingin menyetuju
 $lang['AdminPayouts.index.option_decline'] = 'Menolak';
 $lang['AdminPayouts.index.option_approve'] = 'Menyetujui';
 $lang['AdminPayouts.index.option_edit'] = 'Sunting';
-$lang['AdminPayouts.index.heading_options'] = 'Pilihan';
+$lang['AdminPayouts.index.heading_options'] = 'Tindakan';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Tanggal Diminta';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Mata Uang Berbayar';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Jumlah yang Dibayarkan';

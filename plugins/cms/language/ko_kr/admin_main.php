@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['AdminMain.index.heading.title'] = '제목';
 $lang['AdminMain.index.boxtitle'] = 'CMS 페이지';
 $lang['AdminMain.index.heading.uri'] = 'URI';
 $lang['AdminMain.index.page_title'] = 'CMS 페이지';
+$lang['AdminMain.index.heading.options'] = '작업';
+$lang['AdminMain.manage.back'] = '페이지로 돌아가기';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,7 +46,7 @@ $lang['AdminCompanyEmails.templates.text_description'] = 'Descripción';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Opciones';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Editar';
 $lang['AdminCompanyEmails.templates.no_results'] = 'No existen plantillas de este tipo.';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Actualización';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Solicitar';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Pago aprobado (tarjeta de crédito)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Aviso enviado tras la aprobación de un pago con tarjeta de crédito.';
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Pago rechazado (tarjeta de crédito)';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Cancelar';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Adjunto';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Borrar';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = '¿Estás seguro de que quieres borrar este archivo adjunto?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opciones';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Acciones';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nombre del archivo';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Anexos adicionales';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Plantilla de correo electrónico';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Ninguno';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Actualizar plantilla HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Editar plantilla';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Plantilla de actualización';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Etiquetas';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nombre';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Editar plantilla HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Añadir plantilla';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Crear plantilla';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Etiquetas';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nombre';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Añadir plantilla HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Aviso de no
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Anulación del servicio';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Aviso enviado cuando el saldo de crédito del cliente cae por debajo del umbral configurado.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Notificación de saldo bajo';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Asunto sugerido';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Versión texto';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Versión HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Asunto';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Aplicar el contenido a:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Error:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Demasiadas solicitudes. Espere un momento antes de volver a intentarlo.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Error en la generación del contenido. Por favor, inténtelo de nuevo.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'La pregunta excede la longitud máxima.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Para generar contenidos se necesita un indicador.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'La generación de plantillas de correo AI no está activada.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Las funciones de IA están actualmente desactivadas.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Vista previa del texto';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Vista previa HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Haga clic en Generar para crear contenido de correo electrónico basado en el tipo de plantilla y las etiquetas disponibles.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Contenidos generados';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Guía opcional para que la IA personalice el contenido generado.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Añada requisitos específicos o preferencias de tono...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Instrucciones adicionales';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Cargando mensaje...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Contexto de la pregunta';
+$lang['AdminCompanyEmails.ai.generating'] = 'Generar...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Cancelar';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Utilice este contenido';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regenere';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Vuelva a escribir';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Genere';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Reescribir el contenido del correo electrónico';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generar contenido de correo electrónico';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Asistente de contenidos AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = '¡Copiado!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Copia';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'URI de redireccionamiento de OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = '¿Estás seguro de que quieres restaurar esta instantánea? Cualquier cambio no guardado se perderá.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'No hay instantáneas disponibles para esta plantilla de correo electrónico.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Historia de la plantilla';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Restaurar instantánea';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Restaurar';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Examinar archivos';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Suelte archivos aquí o haga clic en Examinar para cargar archivos adjuntos';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Utilice estas etiquetas en su plantilla de correo electrónico para incluir contenido dinámico.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Etiquetas disponibles';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Introduzca la versión en texto plano del correo electrónico';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Escriba el asunto del correo electrónico';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Introduzca la dirección de correo electrónico';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Introduzca el nombre';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'elementos seleccionados';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Copie esta URL y añádala como URI de redirección autorizada en la configuración de la aplicación de su proveedor de OAuth (por ejemplo, Google Cloud Console, Microsoft Azure Portal). Esto es necesario para que funcione la autenticación OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'La plantilla de correo electrónico se ha restaurado correctamente desde la instantánea.';
 

@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['ClientMain.index.option_download'] = '다운로드';
-$lang['ClientMain.index.heading_options'] = '옵션';
+$lang['ClientMain.index.heading_options'] = '작업';
 $lang['ClientMain.index.heading_date_added'] = '추가된 날짜';
 $lang['ClientMain.index.heading_description'] = '설명';
 $lang['ClientMain.index.heading_name'] = '이름';

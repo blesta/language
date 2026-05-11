@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -119,7 +119,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Фактуриране';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Преглед на клиенти';
 $lang['Navigation.getprimary.nav_clients'] = 'Клиенти';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Информационно табло';
-$lang['Navigation.getprimary.nav_home'] = 'Начало';
+$lang['Navigation.getprimary.nav_home'] = 'Информационно табло';
 $lang['Navigation.!error.parent_id.valid'] = 'Невалиден идентификатор на родителския елемент за навигация';
 $lang['Navigation.!error.order.valid'] = 'Индексът на поръчката трябва да бъде числова стойност.';
 $lang['Navigation.!error.action_id.valid'] = 'Невалиден идентификатор на действието';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Опашка за ус�
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Промени в услугите';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Електронни фактури';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Обработка на кредити';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

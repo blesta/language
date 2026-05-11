@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Imprimare';
 $lang['AdminBilling.printqueue.page_title'] = 'Coada de imprimare a facturării';
 $lang['AdminBilling.invoices.text_edit'] = 'Editați';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Acestei facturi nu i s-a aplicat nicio tranzacție.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Opțiuni';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Acțiuni';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Aplicat pe';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Aplicată';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Suma';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Eroare';
 $lang['AdminBilling.transactions.category_voided'] = 'Anulat';
 $lang['AdminBilling.transactions.category_declined'] = 'Refuzat';
 $lang['AdminBilling.transactions.category_approved'] = 'Aprobat';
-$lang['AdminBilling.transactions.heading_options'] = 'Opțiuni';
+$lang['AdminBilling.transactions.heading_options'] = 'Acțiuni';
 $lang['AdminBilling.transactions.heading_date'] = 'Data';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referință #';
 $lang['AdminBilling.transactions.heading_number'] = 'Număr';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Tranzacții';
 $lang['AdminBilling.transactions.page_title'] = 'Tranzacții de facturare';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Motivul anulării: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Acest serviciu nu are detalii.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Trimiteți';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Aplicați';
 $lang['AdminBilling.services.action.field_client'] = 'Client:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Push to Client';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Nu anulați';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Activ';
 $lang['AdminBilling.services.confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest serviciu?';
 $lang['AdminBilling.services.option_delete'] = 'Ștergeți';
 $lang['AdminBilling.services.option_manage'] = 'Gestionați';
-$lang['AdminBilling.services.heading_options'] = 'Opțiuni';
+$lang['AdminBilling.services.heading_options'] = 'Acțiuni';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Data anulării';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Data suspendării';
 $lang['AdminBilling.services.heading_daterenews'] = 'Data reînnoiește';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Servicii';
 $lang['AdminBilling.services.page_title'] = 'Servicii de facturare';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Nu există facturi asociate acestei oferte.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Vezi';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Opțiuni';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Acțiuni';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Data facturării';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Plătită';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Suma';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Aprobați';
 $lang['AdminBilling.quotations.option_invoice'] = 'Crearea facturii';
 $lang['AdminBilling.quotations.option_view'] = 'Vezi';
 $lang['AdminBilling.quotations.option_edit'] = 'Editați';
-$lang['AdminBilling.quotations.heading_options'] = 'Opțiuni';
+$lang['AdminBilling.quotations.heading_options'] = 'Acțiuni';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Data expirării';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Data creării';
 $lang['AdminBilling.quotations.heading_total'] = 'Suma';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Deschideți';
 $lang['AdminBilling.invoices.heading_count'] = 'Contul';
 $lang['AdminBilling.invoices.heading_duration'] = 'Durata';
 $lang['AdminBilling.invoices.heading_term'] = 'Termen';
-$lang['AdminBilling.invoices.heading_options'] = 'Opțiuni';
+$lang['AdminBilling.invoices.heading_options'] = 'Acțiuni';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Data scadentă';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Data facturării';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Data închiderii';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Serviciile selectate au f
 $lang['AdminBilling.!success.services_suspended'] = 'Serviciile selectate au fost suspendate cu succes.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Acest serviciu are modificări în așteptare.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Data plății prin: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'elemente selectate';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'element selectat';
+$lang['AdminBilling.transactions.option_view'] = 'Vizualizare';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Acțiuni';
+$lang['AdminBilling.services.text_items_selected'] = 'elemente selectate';
+$lang['AdminBilling.services.text_item_selected'] = 'element selectat';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Aplicați filtre';
+$lang['AdminBilling.services.field_filterclear'] = 'Clar';
+$lang['AdminBilling.services.filter_toggle'] = 'Modificarea filtrelor';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Aplicați filtre';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Clar';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Modificarea filtrelor';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Faceți clic pe widgeturi pentru a le afișa sau ascunde din tabloul de bord.';
 

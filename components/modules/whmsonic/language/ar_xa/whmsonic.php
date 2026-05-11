@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -96,4 +96,7 @@ $lang['Whmsonic.module_row_plural'] = 'الخوادم';
 $lang['Whmsonic.module_row'] = 'الخادم';
 $lang['Whmsonic.description'] = 'يسمح لك بتقديم خدمة البث الصوتي، وبثّ icecast، واستضافة الوسائط المتدفقة، و AutoDJ، وإعادة بيع الراديو من خادمك المخصص أو خادم VPS.';
 $lang['Whmsonic.name'] = 'WHMSonic';
+$lang['Whmsonic.back_to_manage'] = 'رجوع';
+$lang['Whmsonic.manage.tab_rows'] = 'الخوادم';
+$lang['Whmsonic.manage.tab_groups'] = 'مجموعات الخوادم';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -88,7 +88,7 @@ $lang['AdminMain.add.term_days'] = '%1$s dni';
 $lang['AdminMain.add.term_day'] = '%1$s Day';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Niedostępne';
 $lang['AdminMain.add.text_domain_available'] = 'Dostępne';
-$lang['AdminMain.add.heading_options'] = 'Opcje';
+$lang['AdminMain.add.heading_options'] = 'Działania';
 $lang['AdminMain.add.heading_status'] = 'Status';
 $lang['AdminMain.add.heading_domain'] = 'Domena';
 $lang['AdminMain.add.title_registrar_options'] = 'Opcje rejestratora';
@@ -109,7 +109,7 @@ $lang['AdminMain.add.field_add'] = 'Dodaj domenę';
 $lang['AdminMain.add.field_register'] = 'Rejestr';
 $lang['AdminMain.add.field_transfer'] = 'Transfer';
 $lang['AdminMain.add.link_viewclient'] = 'Wyświetl klienta';
-$lang['AdminMain.add.boxtitle_add'] = 'Dodaj domenę: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Dodaj domenę %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'Klient #%1$s';
 $lang['AdminMain.index.unparent'] = 'Unparent i zresetowana cena';
 $lang['AdminMain.!error.unsupported_domain'] = 'Nazwa domeny nie jest obsługiwana.';
@@ -143,7 +143,7 @@ $lang['AdminMain.index.category_canceled'] = 'Anulowane';
 $lang['AdminMain.index.category_suspended'] = 'Zawieszony';
 $lang['AdminMain.index.category_pending'] = 'W toku';
 $lang['AdminMain.index.category_active'] = 'Aktywny';
-$lang['AdminMain.index.heading_options'] = 'Opcje';
+$lang['AdminMain.index.heading_options'] = 'Działania';
 $lang['AdminMain.index.heading_datecanceled'] = 'Data anulowania';
 $lang['AdminMain.index.heading_datesuspended'] = 'Data zawieszenia';
 $lang['AdminMain.index.heading_dateexpires'] = 'Data wygaśnięcia';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Odświeżanie';
 $lang['AdminMain.index.tooltip_transferred'] = 'Domena została przeniesiona od rejestratora.';
 $lang['AdminMain.!success.remove_price_override'] = 'Cena nadpisania domeny została usunięta!';
 $lang['AdminMain.!success.set_price_override'] = 'Cena zastąpienia domeny została zaktualizowana!';
+$lang['AdminMain.add.heading_search'] = 'Wyszukiwanie domeny';
+$lang['AdminMain.add.field_domain'] = 'Domena';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'TLD w centrum uwagi';
+$lang['AdminMain.add.link_more_tlds'] = 'Więcej TLD';
+$lang['AdminMain.add.button_cancel'] = 'Anuluj';
+$lang['AdminMain.add.button_previous'] = 'Poprzedni';
+$lang['AdminMain.add.button_continue'] = 'Kontynuuj';
+$lang['AdminMain.add_confirmation.total'] = 'Łącznie:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Pozycje liniowe';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Kod kuponu';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Zamówienie Razem';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Wprowadź kod kuponu';
+$lang['AdminMain.edit.text_select_action'] = 'Kliknij przycisk powyżej, aby wyświetlić formularz do wykonania akcji.';
+$lang['AdminMain.edit.text_no_fields'] = 'Ta czynność nie wymaga żadnych dodatkowych opcji. Kliknij przycisk Prześlij, aby kontynuować.';
 

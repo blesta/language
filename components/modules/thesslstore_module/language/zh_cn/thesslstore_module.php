@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = '请输入 LIVE 
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = '请输入经销商名称';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = '证书已经存在';
 $lang['ThesslstoreModule.!error.api.internal'] = 'API 调用出错';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'API 未返回任何产品。请检查您的 API 凭据并重试。';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% 保证金将适用于所有产品的价格。您可以稍后在价格设置菜单中进行更改。';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = '更改审批人电子邮件';
 

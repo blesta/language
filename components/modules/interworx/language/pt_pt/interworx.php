@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'O Painel de Controlo Web da InterWorx é um pa
 $lang['Interworx.!error.soap_required'] = 'A extensão SOAP é necessária para este módulo.';
 $lang['Interworx.name'] = 'Interworx';
 $lang['Interworx.!error.libxml_required'] = 'A extensão libxml é necessária para este módulo.';
+$lang['Interworx.back_to_manage'] = 'Voltar';
+$lang['Interworx.manage.tab_rows'] = 'Servidores';
+$lang['Interworx.manage.tab_groups'] = 'Grupos de servidores';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s / %2$s (%3$s Disponível)';
 

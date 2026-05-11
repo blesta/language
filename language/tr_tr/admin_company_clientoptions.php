@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -41,7 +41,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Ek Se�
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Varsayılan Metin Değeri';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Varsayılan Değer Kontrol Edildi';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Değer';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Özel Alanı Düzenle';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Özel Alanı Güncelle';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Değerleri Şifrele';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Özel Regex';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Gerekli';
@@ -62,7 +62,7 @@ $lang['AdminCompanyClientOptions.addcustomfield.configuration_warning'] = 'Bu al
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_text'] = 'Varsayılan Metin Değeri';
 $lang['AdminCompanyClientOptions.addcustomfield.field.default_checkbox'] = 'Varsayılan Değer Kontrol Edildi';
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Değer';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Özel Alan Ekleme';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Özel Alan Oluşturma';
 $lang['AdminCompanyClientOptions.addcustomfield.field.encrypted'] = 'Değerleri Şifrele';
 $lang['AdminCompanyClientOptions.addcustomfield.field.regex'] = 'Özel Regex';
 $lang['AdminCompanyClientOptions.addcustomfield.field.required'] = 'Gerekli';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'İsim';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Alan Oluştur';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Müşteri Özel Alanlarına Gözat';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Ayarlar > Şirket > Müşteri Seçenekleri > Müşteri Özel Alanları > Gözat';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Gönder';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Ayarları Güncelle';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Doğrulanmamış Müşterilerden Gelen Ödemeleri Önleyin';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Müşteri Kimliği Artış Değeri';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'Müşteri Kimliği Başlangıç Değeri';

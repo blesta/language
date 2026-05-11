@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -182,4 +182,5 @@ $lang['Vultr.!error.module_row.missing'] = 'Der opstod en intern fejl. Modulræk
 $lang['Vultr.!error.vultr_hostname.format'] = 'Indtast venligst et gyldigt værtsnavn, f.eks. domain.com.';
 $lang['Vultr.!error.vultr_location.valid'] = 'Vælg venligst en gyldig placering.';
 $lang['Vultr.!error.vultr_template.valid'] = 'Vælg venligst en gyldig skabelon.';
+$lang['Vultr.back_to_manage'] = 'Tilbage';
 

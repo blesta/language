@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['ClientMain.index.option_download'] = 'Stáhnout';
-$lang['ClientMain.index.heading_options'] = 'Možnosti';
+$lang['ClientMain.index.heading_options'] = 'Akce';
 $lang['ClientMain.index.heading_date_added'] = 'Datum přidání';
 $lang['ClientMain.index.heading_description'] = 'Popis';
 $lang['ClientMain.index.heading_name'] = 'Název';

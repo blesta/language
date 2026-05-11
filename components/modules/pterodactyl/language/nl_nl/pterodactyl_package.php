@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Het poortbereik mo
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Of een toegewezen IP moet worden gebruikt, moet worden ingesteld op 1 of 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'De locatie-ID komt niet overeen met die in Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'De locatie-ID moet numeriek zijn.';
+$lang['Pterodactyl.back_to_manage'] = 'Terug';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = '현재로서는 확장 기능�
 $lang['AdminMain.index.text_confirm_delete'] = '이 확장 프로그램을 삭제하시겠습니까?';
 $lang['AdminMain.index.option_delete'] = '삭제';
 $lang['AdminMain.index.option_edit'] = '편집';
-$lang['AdminMain.index.heading_options'] = '옵션';
+$lang['AdminMain.index.heading_options'] = '작업';
 $lang['AdminMain.index.heading_date_updated'] = '업데이트 날짜';
 $lang['AdminMain.index.heading_code_examples'] = '코드 예제';
 $lang['AdminMain.index.heading_form_type'] = '양식 유형';

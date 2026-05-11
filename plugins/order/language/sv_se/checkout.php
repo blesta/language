@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Betalningen kunde inte godkännas 
 $lang['Checkout.!error.not_client_owner'] = 'Du måste vara inloggad som kundägare för att kunna fortsätta.';
 $lang['Checkout.!error.no_payment_info'] = 'Du måste välja en betalningsmetod för att kunna fortsätta.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Du måste bekräfta att du godkänner villkoren.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Du måste samtycka till återkommande fakturering för att fortsätta.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Jag godkänner att %1$s lagrar min betalningsmetod och debiterar %2$s från och med idag tills jag säger upp avtalet. Jag kan avbryta när som helst online via mitt konto.';
+$lang['Checkout.index.recurring_every'] = 'varje %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'varje %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'och';
 

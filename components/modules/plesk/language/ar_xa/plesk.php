@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -148,4 +148,7 @@ $lang['Plesk.tab_client_login.field_plesk_password'] = 'كلمة المرور';
 $lang['Plesk.tab_client_login.field_plesk_username'] = 'اسم المستخدم';
 $lang['Plesk.tab_client_login.logintoplesk'] = 'تسجيل الدخول إلى Plesk';
 $lang['Plesk.tab_client_login'] = 'تسجيل الدخول إلى Plesk';
+$lang['Plesk.back_to_manage'] = 'رجوع';
+$lang['Plesk.manage.tab_rows'] = 'الخوادم';
+$lang['Plesk.manage.tab_groups'] = 'مجموعات الخوادم';
 

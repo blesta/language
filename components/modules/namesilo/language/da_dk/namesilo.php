@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -94,7 +94,7 @@ $lang['Namesilo.tab_dnsrecord.title_list'] = 'Aktuelle DNS-poster';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Tilføj en DNS-post';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Slet post(er)';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Tilføj post';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'På denne side kan du tilføje eller slette A-, AAAA-, CNAME-, MX- og TXT-DNS-poster. Vær opmærksom på, at det kan tage et par minutter, før DNS-posterne er blevet overført.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'På denne side kan du tilføje eller slette A-, AAAA-, CNAME-, MX- og TXT-DNS-poster. Vær opmærksom på, at det kan tage et par minutter, før DNS-posterne bliver spredt. <br/> For at få disse ændringer til at afspejle sig i dit domænenavn skal du indstille navneserverne til:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.dnsrecord.record_type'] = 'Type';
 $lang['Namesilo.dnsrecord.host'] = 'Vært';
 $lang['Namesilo.dnsrecord.value'] = 'Værdi';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Henter kontakter fra namesi
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Træk Namesilo-kontakter';
 $lang['Namesilo.notice.default_nameservers'] = 'Denne funktion kræver, at domænet bruger følgende navneservere: ns1.dnsowl.com, ns2.dnsowl.com og ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Domænet er ikke tilgængeligt for registrering.';
+$lang['Namesilo.back_to_manage'] = 'Tilbage';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Handlinger';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Et eller flere felter indeholder specialtegn (f.eks. bogstaver med accent). NameSilo understøtter muligvis ikke disse tegn i kontaktfelter.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Videresendelse af domæner';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Domæneforwarding fjernes automatisk, når du giver domænet noget andet at gøre, f.eks. at skifte navneserver eller ændre de primære A-poster for @ og www. <br/> For at få nogen af disse ændringer til at afspejle sig i dit domænenavn skal du indstille navneservere til:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domæne';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Fremad til';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Videresendelsesmetode';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Permanent Forward (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Midlertidig videresendelse (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Sløret';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktiv';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Sletning';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Opdatering af speditører';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'URL til videresendelse er ugyldig. Sørg for at bruge HTTPS eller HTTP.';
 

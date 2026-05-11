@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'التالي - التأكيد';
 $lang['AdminModule.features.text_remove'] = 'إزالة';
-$lang['AdminModule.features.text_options'] = 'الخيارات';
+$lang['AdminModule.features.text_options'] = 'الإجراءات';
 $lang['AdminModule.features.cron_task_row_add'] = 'إضافة مهمة Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'إضافة علامة تبويب إدارة الخدمة';
 $lang['AdminModule.features.placeholder_time'] = 'على سبيل المثال 14:25 أو 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'ما إذا كن�
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'كود EPP';
 $lang['AdminModule.fields.features'] = 'التالي - الميزات الإضافية';
 $lang['AdminModule.fields.text_remove'] = 'إزالة';
-$lang['AdminModule.fields.text_options'] = 'الخيارات';
+$lang['AdminModule.fields.text_options'] = 'الإجراءات';
 $lang['AdminModule.fields.service_row_add'] = 'إضافة حقل الخدمة';
 $lang['AdminModule.fields.package_row_add'] = 'إضافة حقل الحزمة';
 $lang['AdminModule.fields.module_row_add'] = 'إضافة حقل صف الوحدة النمطية';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'نطاقات TLD';
 $lang['AdminModule.basic.static_tlds'] = 'تحديد النطاقات TLDs بشكل ثابت';
 $lang['AdminModule.basic.text_remove'] = 'إزالة';
 $lang['AdminModule.basic.author_row_add'] = 'إضافة مؤلف';
-$lang['AdminModule.basic.text_options'] = 'الخيارات';
+$lang['AdminModule.basic.text_options'] = 'الإجراءات';
 $lang['AdminModule.basic.author_url'] = 'عنوان URL للمؤلف';
 $lang['AdminModule.basic.author_name'] = 'اسم المؤلف';
 $lang['AdminModule.basic.module_type_registrar'] = 'أمين السجل';

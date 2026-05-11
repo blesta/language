@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminDepartments.edit.text_delete'] = '삭제';
 $lang['AdminDepartments.edit.heading_default'] = '기본값';
 $lang['AdminDepartments.edit.heading_value'] = '가치';
 $lang['AdminDepartments.edit.heading_name'] = '이름';
-$lang['AdminDepartments.edit.heading_options'] = '옵션';
+$lang['AdminDepartments.edit.heading_options'] = '작업';
 $lang['AdminDepartments.edit.heading_auto_delete'] = '자동 삭제';
 $lang['AdminDepartments.edit.heading_encrypted'] = '암호화';
 $lang['AdminDepartments.edit.heading_client_add'] = '클라이언트 추가 가능';
@@ -69,7 +69,7 @@ $lang['AdminDepartments.add.text_delete'] = '삭제';
 $lang['AdminDepartments.add.heading_default'] = '기본값';
 $lang['AdminDepartments.add.heading_value'] = '가치';
 $lang['AdminDepartments.add.heading_name'] = '이름';
-$lang['AdminDepartments.add.heading_options'] = '옵션';
+$lang['AdminDepartments.add.heading_options'] = '작업';
 $lang['AdminDepartments.add.heading_auto_delete'] = '자동 삭제';
 $lang['AdminDepartments.add.heading_encrypted'] = '암호화';
 $lang['AdminDepartments.add.heading_client_add'] = '클라이언트 추가 가능';
@@ -133,7 +133,7 @@ $lang['AdminDepartments.index.no_results'] = '부서가 없습니다.';
 $lang['AdminDepartments.index.confirm_delete'] = '티켓이 배정된 부서는 모든 티켓이 다른 부서로 다시 배정될 때까지 삭제되지 않을 수 있습니다. 이 부서를 삭제하시겠습니까?';
 $lang['AdminDepartments.index.option_delete'] = '삭제';
 $lang['AdminDepartments.index.option_edit'] = '편집';
-$lang['AdminDepartments.index.heading_options'] = '옵션';
+$lang['AdminDepartments.index.heading_options'] = '작업';
 $lang['AdminDepartments.index.heading_default_priority'] = '기본 우선순위';
 $lang['AdminDepartments.index.heading_assigned_staff'] = '할당된 직원';
 $lang['AdminDepartments.index.heading_email'] = '이메일';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 클라이언�
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 사용자';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 공급자';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = '종료 상태인 모든 티켓의 경우 선택한 기간 동안 티켓이 종료된 경우 피드백을 남기라는 알림이 고객에게 전송됩니다.';
+$lang['AdminDepartments.!text.description_hint'] = '이 설명은 부서를 선택할 때 고객에게 표시됩니다.';
+$lang['AdminDepartments.!text.priorities_hint'] = '여러 우선순위를 선택하려면 Ctrl(Windows) 또는 Cmd(Mac) 키를 누르고 있습니다.';
+$lang['AdminDepartments.!text.search_responses'] = '검색 응답...';
+$lang['AdminDepartments.!text.searching'] = '검색 중...';
+$lang['AdminDepartments.add.heading_actions'] = '작업';
+$lang['AdminDepartments.add.confirm_field_remove'] = '이 사용자 지정 필드를 제거하시겠습니까?';
+$lang['AdminDepartments.edit.heading_actions'] = '작업';
 

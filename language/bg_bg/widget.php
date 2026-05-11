@@ -4,11 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Подаване на';
 $lang['Widget.toggle_filters'] = 'Превключване на филтрите';
+$lang['Widget.submit'] = 'Прилагане на филтри';
+$lang['Widget.clear'] = 'Clear';
+$lang['Widget.resize_widget'] = 'Промяна на размера на джаджата';
 

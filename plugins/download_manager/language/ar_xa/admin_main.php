@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'لا توجد عناوين URL ثابتة ف�
 $lang['AdminMain.urls.latest_file'] = 'أحدث ملف من <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'حذف';
 $lang['AdminMain.urls.edit'] = 'تحرير';
-$lang['AdminMain.urls.heading_options'] = 'الخيارات';
+$lang['AdminMain.urls.heading_options'] = 'الإجراءات';
 $lang['AdminMain.urls.heading_link'] = 'الرابط';
 $lang['AdminMain.urls.heading_file'] = 'ملف';
 $lang['AdminMain.urls.heading_url'] = 'عنوان URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'مدير التنزيل &gt; إدارة';
 $lang['AdminMain.files.no_downloads'] = 'لا توجد تنزيلات في هذا القسم.';
 $lang['AdminMain.files.delete'] = 'حذف';
 $lang['AdminMain.files.edit'] = 'تحرير';
-$lang['AdminMain.files.go_back'] = 'الصعود إلى أعلى مستوى';
-$lang['AdminMain.files.add_category'] = 'أضف الفئة هنا';
+$lang['AdminMain.files.go_back'] = 'رجوع';
+$lang['AdminMain.files.add_category'] = 'إضافة فئة';
 $lang['AdminMain.files.add_download'] = 'إضافة تنزيل هنا';
 $lang['AdminMain.files.tab_urls'] = 'عناوين URL الثابتة';
 $lang['AdminMain.files.tab_files'] = 'الملفات';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'تمت إضافة الملف بنجا�
 $lang['AdminMain.!success.category_deleted'] = 'تم حذف الفئة بنجاح.';
 $lang['AdminMain.!success.category_updated'] = 'تم تحديث الفئة بنجاح.';
 $lang['AdminMain.!success.category_added'] = 'تم إنشاء الفئة بنجاح.';
-$lang['AdminMain.add.text_full_path'] = 'ملاحظة: يجب أن تكون الملفات موجودة في مكان ما داخل دليل التحميلات الخاص بك: <strong>%1$s</strong>.';
-$lang['AdminMain.edit.text_full_path'] = 'ملاحظة: يجب أن تكون الملفات موجودة في مكان ما داخل دليل التحميلات الخاص بك: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'ملاحظة: يجب أن تكون الملفات موجودة في مكان ما داخل دليل التحميلات الخاص بك: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'ملاحظة: يجب أن تكون الملفات موجودة في مكان ما داخل دليل التحميلات الخاص بك: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'الملفات';
+$lang['AdminMain.sidebar.urls'] = 'عناوين URL الثابتة';
+$lang['AdminMain.!performance.xsendfile'] = 'تم تمكين mod_http2 الخاص ب Apache، لكن mod_xsendfile غير مفعّل. نوصي بتمكين أو تثبيت mod_xsendfile لتحسين الأداء وتنزيلات أسرع.';
+$lang['AdminMain.modal.confirm_delete'] = 'تأكيد الحذف';
+$lang['AdminMain.modal.delete'] = 'حذف';
+$lang['AdminMain.modal.cancel'] = 'إلغاء';
+$lang['AdminMain.modal.save'] = 'الحفظ';
+$lang['AdminMain.add.public'] = 'متاح للجمهور';
+$lang['AdminMain.add.logged_in'] = 'يجب تسجيل الدخول';
+$lang['AdminMain.add.text_fileinfo'] = 'ملاحظة: يجب أن تكون الملفات موجودة في مكان ما داخل دليل التحميلات الخاص بك.';
+$lang['AdminMain.add.field_file_type'] = 'مصدر الملف';
+$lang['AdminMain.add.upload'] = 'تحميل ملف';
+$lang['AdminMain.add.path'] = 'تحديد المسار إلى الملف';
 

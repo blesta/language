@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Jenis Pembayaran';
 $lang['ClientInvoices.index.no_results'] = 'Anda tidak memiliki Faktur %1$s.';
 $lang['ClientInvoices.index.option_pay'] = 'Bayar';
 $lang['ClientInvoices.index.option_view'] = 'Melihat';
-$lang['ClientInvoices.index.heading_options'] = 'Pilihan';
+$lang['ClientInvoices.index.heading_options'] = 'Tindakan';
 $lang['ClientInvoices.index.heading_datedue'] = 'Tanggal Jatuh Tempo';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Tanggal Ditagih';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Tanggal Ditutup';

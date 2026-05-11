@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Zahlungsart bearbeiten';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = 'Zahlungsart aktualisieren';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = 'Sprache verwenden Definition';
 $lang['AdminSystemGeneral.edittype.field_type'] = 'Typ';
 $lang['AdminSystemGeneral.edittype.field_name'] = 'Name';
@@ -29,7 +29,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = 'Ja';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = 'Wenn Sie diese Zahlungsart löschen, werden alle Transaktionen, die diese Zahlungsart verwenden, auf "Sonstige" gesetzt. Sind Sie sicher, dass Sie diese Zahlungsart löschen möchten?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = 'Löschen';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = 'bearbeiten';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Optionen';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = 'Aktionen';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = 'Verwendet Sprache Definition';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = 'Typ';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = 'Name';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.geoip_updated'] = 'Die GeoIP-Einstellungen wu
 $lang['AdminSystemGeneral.!success.basic_updated'] = 'Die Basic Setup-Einstellungen wurden erfolgreich aktualisiert!';
 $lang['AdminSystemGeneral.!error.upload_dir'] = 'Das Upload-Verzeichnis muss vorhanden sein und sich außerhalb des Web-Root-Verzeichnisses befinden.';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir ist aktiviert. Der Dateizugriff ist beschränkt auf: %1$s. Auf Verzeichnisse außerhalb dieser Pfade kann nicht zugegriffen werden.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = 'Cache-Verzeichnis';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = 'Dieser Wert stellt den vollständigen Serverpfad zu dem Verzeichnis dar, in das Blesta zwischengespeicherte Dateien schreiben soll. Dieses Verzeichnis muss für den Web-Benutzer und den Cron-Benutzer des Servers beschreibbar sein. Aus Sicherheitsgründen sollte sich dieser Pfad außerhalb des Web-Root-Verzeichnisses befinden. Wenn er sich innerhalb des Web-Root-Verzeichnisses befinden muss, schreibt Blesta eine .htaccess-Datei zur teilweisen Entschärfung, aber Serverkonfigurationen, die .htaccess ignorieren (wie Nginx), bieten keinen solchen Schutz.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'Die Änderung des Cache-Verzeichnisses kann nicht durchgeführt werden, da die Markierungsdatei unter config/cache.dir.php nicht geschrieben oder entfernt werden kann. Erteilen Sie Schreibrechte für das config-Verzeichnis (und für die Markierungsdatei, falls sie existiert) und versuchen Sie es erneut.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = 'Das Cache-Verzeichnis muss ein bestehendes beschreibbares Verzeichnis sein.';
 

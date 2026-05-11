@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_required'] = 'Selecione sim
 $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Este é o tipo de campo de formulário que será exibido. Consulte a dica de ferramenta Valores para saber como definir valores para campos de caixa de seleção, rádio e seleção.';
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Este é o nome do campo oculto do formulário. Utilize qty para criar um campo de quantidade.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Este é o texto que aparece diretamente acima do campo do formulário.';
+$lang['UniversalModule.back_to_manage'] = 'Voltar';
 

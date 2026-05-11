@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -140,7 +140,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = 'Powiadomienie 
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = 'Płatność odrzucona (karta kredytowa)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = 'Powiadomienie wysyłane po zatwierdzeniu płatności kartą kredytową.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = 'Zatwierdzona płatność (karta kredytowa)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Aktualizacja';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = 'Zastosuj';
 $lang['AdminCompanyEmails.templates.no_results'] = 'Nie ma szablonów tego typu.';
 $lang['AdminCompanyEmails.templates.option_edit'] = 'Edytuj';
 $lang['AdminCompanyEmails.templates.text_options'] = 'Opcje';
@@ -183,17 +183,17 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = 'Anuluj';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = 'Załącznik';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = 'Usuń';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = 'Czy na pewno chcesz usunąć ten załącznik?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opcje';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Działania';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nazwa pliku';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Dodatkowe załączniki';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Szablon wiadomości e-mail';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Brak';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Aktualizacja szablonu HTML';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Edytuj szablon';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Szablon aktualizacji';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Tagi';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nazwa';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Edytuj szablon HTML';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Dodaj szablon';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Utwórz szablon';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Tagi';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nazwa';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Dodaj szablon HTML';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = 'Powiadomien
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = 'Anulowanie usługi';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = 'Powiadomienie wysyłane, gdy saldo kredytowe klienta spadnie poniżej skonfigurowanego progu.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = 'Powiadomienie o niskim saldzie';
+$lang['AdminCompanyEmails.ai.preview_subject'] = 'Sugerowany temat';
+$lang['AdminCompanyEmails.ai.apply_text'] = 'Wersja tekstowa';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'Wersja HTML';
+$lang['AdminCompanyEmails.ai.apply_subject'] = 'Temat';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = 'Zastosuj zawartość do:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = 'Błąd:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = 'Zbyt wiele żądań. Poczekaj chwilę, zanim spróbujesz ponownie.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = 'Generowanie treści nie powiodło się. Spróbuj ponownie.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = 'Monit przekracza maksymalną długość.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = 'Do wygenerowania treści wymagany jest monit.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'Generowanie szablonów wiadomości e-mail AI nie jest włączone.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = 'Funkcje AI są obecnie wyłączone.';
+$lang['AdminCompanyEmails.ai.preview_text'] = 'Podgląd tekstu';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'Podgląd HTML';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = 'Kliknij przycisk Generuj, aby utworzyć treść wiadomości e-mail na podstawie typu szablonu i dostępnych tagów.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = 'Wygenerowana zawartość';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'Opcjonalne wskazówki dla sztucznej inteligencji w celu dostosowania generowanej zawartości.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = 'Dodaj konkretne wymagania lub preferencje dotyczące tonów...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = 'Dodatkowe instrukcje';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = 'Ładowanie monitu...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = 'Kontekst zachęty';
+$lang['AdminCompanyEmails.ai.generating'] = 'Generowanie...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = 'Anuluj';
+$lang['AdminCompanyEmails.ai.use_content_button'] = 'Użyj tej zawartości';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = 'Regeneracja';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = 'Przepisz';
+$lang['AdminCompanyEmails.ai.generate_button'] = 'Generowanie';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = 'Przepisywanie treści wiadomości e-mail';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = 'Generowanie treści wiadomości e-mail';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'Asystent treści AI';
+$lang['AdminCompanyEmails.mail.text_copied'] = 'Skopiowane!';
+$lang['AdminCompanyEmails.mail.text_copy'] = 'Kopia';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'Identyfikator URI przekierowania OAuth 2.0';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = 'Czy na pewno chcesz przywrócić tę migawkę? Wszelkie niezapisane zmiany zostaną utracone.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = 'Dla tego szablonu wiadomości e-mail nie są dostępne żadne migawki.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = 'Historia szablonów';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = 'Przywracanie migawki';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = 'Przywracanie';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = 'Przeglądaj pliki';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = 'Upuść pliki tutaj lub kliknij przeglądaj, aby przesłać załączniki';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = 'Użyj tych tagów w szablonie wiadomości e-mail, aby dołączyć dynamiczną zawartość.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = 'Dostępne tagi';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = 'Wprowadź zwykłą wersję tekstową wiadomości e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = 'Wprowadź temat wiadomości e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = 'Wprowadź z adresu e-mail';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = 'Wprowadź nazwę';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = 'wybrane elementy';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = 'Skopiuj ten adres URL i dodaj go jako autoryzowany URI przekierowania w ustawieniach aplikacji dostawcy OAuth (np. Google Cloud Console, Microsoft Azure Portal). Jest to wymagane do działania uwierzytelniania OAuth.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = 'Szablon wiadomości e-mail został pomyślnie przywrócony z migawki!';
 

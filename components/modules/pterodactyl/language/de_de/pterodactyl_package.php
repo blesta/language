@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Der Anschlussberei
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Ob eine dedizierte IP verwendet werden soll, muss auf 1 oder 0 gesetzt werden.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Die Ortskennung stimmt mit keiner in Pterodactyl überein.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Die Ortskennung muss numerisch sein.';
+$lang['Pterodactyl.back_to_manage'] = 'Zurück';
 

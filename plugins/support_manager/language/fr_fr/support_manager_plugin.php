@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.permission.admin_reminders'] = 'Rappels';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Paramètres';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Envoyez automatiquement des rappels aux clients pour qu\'ils laissent leur avis sur les tickets qui ont été fermés après un certain temps.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Envoyer des rappels de feedback';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Traiter les tickets avec l\'IA';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analyse les tickets avec l\'IA pour générer des suggestions de réponse et exécuter automatiquement les utilisations de l\'outil (fermer les spams, affecter du personnel, changer la priorité).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'Paramètres de l\'IA';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\Note : Cette réponse a été générée par l\'IA et doit être vérifiée pour s\'assurer de son exactitude.';
 

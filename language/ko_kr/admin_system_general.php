@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -12,7 +12,7 @@
 $lang['AdminSystemGeneral.geoip.text_database_not_exists'] = '%1$s가(가) 없습니다.';
 $lang['AdminSystemGeneral.geoip.text_database_exists'] = '%1$s가 존재합니다.';
 $lang['AdminSystemGeneral.!error.upload_dir'] = '업로드 디렉토리는 존재해야 하며 루트 웹 디렉터리 외부에 있어야 합니다.';
-$lang['AdminSystemGeneral.edittype.field_typesubmit'] = '결제 유형 편집';
+$lang['AdminSystemGeneral.edittype.field_typesubmit'] = '결제 유형 업데이트';
 $lang['AdminSystemGeneral.edittype.field_is_lang'] = '언어 정의 사용';
 $lang['AdminSystemGeneral.edittype.field_type'] = '유형';
 $lang['AdminSystemGeneral.edittype.field_name'] = '이름';
@@ -32,7 +32,7 @@ $lang['AdminSystemGeneral.paymenttypes.text_yes'] = '예';
 $lang['AdminSystemGeneral.paymenttypes.modal_delete'] = '이 결제 유형을 삭제하면 이 결제 유형을 사용하는 모든 거래가 "기타"로 설정됩니다. 이 결제 유형을 삭제하시겠습니까?';
 $lang['AdminSystemGeneral.paymenttypes.option_delete'] = '삭제';
 $lang['AdminSystemGeneral.paymenttypes.option_edit'] = '편집';
-$lang['AdminSystemGeneral.paymenttypes.heading_options'] = '옵션';
+$lang['AdminSystemGeneral.paymenttypes.heading_options'] = '작업';
 $lang['AdminSystemGeneral.paymenttypes.heading_is_lang'] = '언어 정의 사용';
 $lang['AdminSystemGeneral.paymenttypes.heading_type'] = '유형';
 $lang['AdminSystemGeneral.paymenttypes.heading_name'] = '이름';
@@ -92,4 +92,8 @@ $lang['AdminSystemGeneral.!success.maintenance_updated'] = '유지 관리 설정
 $lang['AdminSystemGeneral.!success.geoip_updated'] = 'GeoIP 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemGeneral.!success.basic_updated'] = '기본 설정 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminSystemGeneral.!notice.text_open_basedir_description'] = 'PHP open_basedir이 활성화되었습니다. 파일 액세스는 %1$s. 이 경로를 벗어난 디렉터리에는 액세스할 수 없습니다.';
+$lang['AdminSystemGeneral.basic.field.cache_dir'] = '캐시 디렉터리';
+$lang['AdminSystemGeneral.!tooltip.cache_dir'] = '이 값은 Blesta가 캐시된 파일을 작성해야 하는 전체 서버 경로를 나타냅니다. 이 디렉토리는 서버의 웹 사용자 및 크론 사용자가 쓸 수 있어야 합니다. 보안을 위해 이 경로는 웹 루트 외부에 위치해야 하며, 웹 루트 내부에 있어야 하는 경우 Blesta는 부분적인 완화 조치로 .htaccess 파일을 작성하지만 .htaccess를 무시하는 서버 구성(예: Nginx)은 이러한 보호 기능을 제공하지 않습니다.';
+$lang['AdminSystemGeneral.!error.cache_dir_marker'] = 'config/cache.dir.php의 마커 파일을 쓰거나 제거할 수 없기 때문에 캐시 디렉터리 변경을 적용할 수 없습니다. config 디렉터리(및 마커 파일이 있는 경우)에 대한 쓰기 권한을 부여하고 다시 시도하세요.';
+$lang['AdminSystemGeneral.!error.cache_dir'] = '캐시 디렉터리는 쓰기 가능한 기존 디렉터리여야 합니다.';
 

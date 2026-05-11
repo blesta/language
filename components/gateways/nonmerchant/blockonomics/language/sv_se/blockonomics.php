@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'API-nyckel';
 $lang['Blockonomics.!error.api_key.valid'] = 'API-nyckeln är inte giltig.';
 $lang['Blockonomics.description'] = 'Acceptera Bitcoin-betalningar, varje onlineförsäljning deponeras direkt i din plånbok. Ingen KYC-dokumentation krävs.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = 'Välj valutor nedan för att konfigurera deras Parent Product UID:er.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.module_row_plural'] = '계정';
 $lang['Connectreseller.module_row'] = '계정';
 $lang['Connectreseller.description'] = 'ConnectReseller는 도메인 소유자를 위해 완전히 비공개 레이블이 지정된 프로그램을 만든 최대 규모의 등록기관 중 하나입니다.';
 $lang['Connectreseller.name'] = 'ConnectReseller';
+$lang['Connectreseller.back_to_manage'] = '뒤로';
+$lang['Connectreseller.manage.tab_rows'] = '서버';
+$lang['Connectreseller.manage.tab_groups'] = '서버 그룹';
 

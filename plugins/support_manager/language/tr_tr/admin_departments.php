@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Silme';
 $lang['AdminDepartments.edit.heading_default'] = 'Varsayılan';
 $lang['AdminDepartments.edit.heading_value'] = 'Değer';
 $lang['AdminDepartments.edit.heading_name'] = 'İsim';
-$lang['AdminDepartments.edit.heading_options'] = 'Seçenekler';
+$lang['AdminDepartments.edit.heading_options'] = 'Eylemler';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Otomatik Silme';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Şifrelenmiş';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Müşteri Ekleyebilir';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Silme';
 $lang['AdminDepartments.add.heading_default'] = 'Varsayılan';
 $lang['AdminDepartments.add.heading_value'] = 'Değer';
 $lang['AdminDepartments.add.heading_name'] = 'İsim';
-$lang['AdminDepartments.add.heading_options'] = 'Seçenekler';
+$lang['AdminDepartments.add.heading_options'] = 'Eylemler';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Otomatik Silme';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Şifrelenmiş';
 $lang['AdminDepartments.add.heading_client_add'] = 'Müşteri Ekleyebilir';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Departman yok.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Kendilerine bilet atanmış departmanlar, tüm biletler alternatif bir departmana yeniden atanana kadar silinemez. Bu departmanı silmek istediğinizden emin misiniz?';
 $lang['AdminDepartments.index.option_delete'] = 'Silme';
 $lang['AdminDepartments.index.option_edit'] = 'Düzenle';
-$lang['AdminDepartments.index.heading_options'] = 'Seçenekler';
+$lang['AdminDepartments.index.heading_options'] = 'Eylemler';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Varsayılan Öncelik';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Görevlendirilen Personel';
 $lang['AdminDepartments.index.heading_email'] = 'E-posta';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 İstemci / Uyg
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 Kullanıcı';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0 Sağlayıcısı';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'Durumu kapalı olan tüm destek talepleri için, destek talebi seçilen süre boyunca kapalı kaldıysa müşteriye geri bildirimlerini bırakması için bir hatırlatma gönderilecektir.';
+$lang['AdminDepartments.!text.description_hint'] = 'Bu açıklama, bir departman seçerken müşteriler tarafından görülebilecektir';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Birden fazla öncelik seçmek için Ctrl (Windows) veya Cmd (Mac) tuşunu basılı tutun';
+$lang['AdminDepartments.!text.search_responses'] = 'Arama yanıtları...';
+$lang['AdminDepartments.!text.searching'] = 'Aranıyor.';
+$lang['AdminDepartments.add.heading_actions'] = 'Eylemler';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Bu özel alanı kaldırmak istediğinizden emin misiniz?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Eylemler';
 

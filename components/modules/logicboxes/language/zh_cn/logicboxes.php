@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -342,4 +342,5 @@ $lang['Logicboxes.tab_forwarder.meta_tags'] = '元标签';
 $lang['Logicboxes.tab_forwarder.url_masking'] = 'URL 屏蔽';
 $lang['Logicboxes.tab_forwarder.forward_to'] = '转发至';
 $lang['Logicboxes.tab_forwarder.title'] = '域名转发';
+$lang['Logicboxes.back_to_manage'] = '返回管理';
 

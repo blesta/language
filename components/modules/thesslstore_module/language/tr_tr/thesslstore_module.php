@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Lütfen LIVE AP
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Lütfen Bayi Adını girin';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Kimlik bilgileri zaten mevcut';
 $lang['ThesslstoreModule.!error.api.internal'] = 'API Çağrısında bir şeyler yanlış gitti';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'API\'den hiçbir ürün döndürülmedi. Lütfen API kimlik bilgilerinizi kontrol edin ve tekrar deneyin.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = 'Marj % tüm ürünlerin fiyatına uygulanacaktır. Bunu daha sonra fiyat ayarlama menüsünden değiştirebilirsiniz.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Onaylayan E-postasını Değiştir';
 

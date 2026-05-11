@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Comandă abandonată';
 $lang['AdminForms.add.tab_basic'] = 'De bază';
 $lang['AdminForms.index.field_status_inactive'] = 'Inactiv';
 $lang['AdminForms.index.field_status_active'] = 'Activ';
-$lang['AdminForms.index.text_confirm_delete'] = 'Chiar ștergeți acest formular de comandă?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Sunteți sigur că doriți să ștergeți acest formular de comandă?';
 $lang['AdminForms.index.option_delete'] = 'Ștergeți';
 $lang['AdminForms.index.option_edit'] = 'Editați';
 $lang['AdminForms.index.heading_options'] = 'Opțiuni';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Atunci când selectați un
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Defalcarea prețurilor lunare de afișare';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Atunci când selectați un pachet, indicați costul lunar pentru fiecare opțiune de tarifare, precum și economiile pe lună în comparație cu prețul lunar (dacă este cazul).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Defalcarea prețurilor lunare de afișare';
+$lang['AdminForms.index.heading_actions'] = 'Acțiuni';
+$lang['AdminForms.index.back_to_forms'] = 'Înapoi la Formulare de comandă';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Solicitați consimțământul pentru abonamentele recurente';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Atunci când este activat, clienții trebuie să consimtă în mod explicit la facturarea recurentă înainte de a finaliza o comandă cu articole recurente. Aceasta înlocuiește caseta de selectare Salvare detalii plată.';
+$lang['AdminForms.add.field_cancel'] = 'Anulează';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Solicitați consimțământul pentru abonamentele recurente';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Atunci când este activat, clienții trebuie să consimtă în mod explicit la facturarea recurentă înainte de a finaliza o comandă cu articole recurente. Aceasta înlocuiește caseta de selectare Salvare detalii plată.';
+$lang['AdminForms.edit.field_cancel'] = 'Anulează';
+$lang['AdminForms.embed_codes.heading'] = 'Embed Code for Căutare domeniu';
+$lang['AdminForms.embed_codes.description'] = 'Copiați unul dintre fragmentele de mai jos pentru a încorpora un formular de căutare a domeniului pe un site extern. Trimiterile vor deschide checkout-ul pe acest formular de comandă cu domeniul introdus preîncărcat.';
+$lang['AdminForms.embed_codes.label_first'] = 'Introduceți o etichetă URL pentru acest formular de comandă pentru a genera coduri de încorporare.';
+$lang['AdminForms.embed_codes.html_plain'] = 'HTML simplu';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Previzualizare';
+$lang['AdminForms.embed_codes.copy'] = 'Copiați';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Ocolirea CSRF este necesară pentru ca căutarea încorporată în domeniu să funcționeze.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POST-urile de pe un site extern vor fi respinse până când adăugați config::preconfig la matricea Blesta.csrf_bypass în config/blesta.php:';
 

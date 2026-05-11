@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.heading_department_name'] = 'Departamento';
 $lang['ClientMain.index.heading_summary'] = 'Resumen';
 $lang['ClientMain.index.heading_last_reply_date'] = 'Última respuesta';
 $lang['ClientMain.index.heading_status'] = 'Estado';
-$lang['ClientMain.index.heading_options'] = 'Opciones';
+$lang['ClientMain.index.heading_options'] = 'Acciones';
 $lang['ClientMain.index.option_close'] = 'Cerrar';
 $lang['ClientMain.index.option_reply'] = 'Respuesta';
 $lang['ClientMain.index.any'] = 'Cualquier';

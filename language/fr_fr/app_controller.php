@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AppController.message.close'] = '×';
 $lang['AppController.structure.text_myinfo'] = 'Mes informations';
 $lang['AppController.structure.text_settings'] = 'Paramètres';
 $lang['AppController.structure.text_logout'] = 'Se déconnecter';
-$lang['AppController.structure.text_maintenance'] = 'Le mode maintenance est actuellement activé et les clients ne peuvent pas se connecter. Cliquez ici pour changer.';
+$lang['AppController.structure.text_maintenance'] = 'Le mode maintenance est actuellement activé et les clients ne peuvent pas se connecter.';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Retour au portail du personnel';
 $lang['AppController.client_structure.default_title'] = 'Mon compte';
@@ -83,5 +83,23 @@ $lang['AppController.sreader.dropdown'] = 'Basculer vers le bas';
 $lang['AppController.sreader.navigation'] = 'Toggle Navigation';
 $lang['AppController.dropzone.text'] = 'Déposez les fichiers ici pour les télécharger ou cliquez pour sélectionner les fichiers.';
 $lang['AppController.!error.client_unauthorized_access'] = 'Vous n\'avez pas l\'autorisation d\'accéder à cette ressource. Veuillez contacter le titulaire du compte principal pour demander l\'accès.';
-$lang['AppController.structure.text_step_up_access'] = 'Vous avez actuellement une session ascendante ouverte avec accès aux paramètres d\'administration. Cliquez ici pour abandonner l\'accès.';
+$lang['AppController.structure.text_step_up_access'] = 'Vous avez actuellement une session ascendante ouverte avec accès aux paramètres d\'administration.';
+$lang['AppController.structure.text_mark_all_read'] = 'Marquer tous les textes comme lus';
+$lang['AppController.structure.text_open'] = 'Ouvrir';
+$lang['AppController.structure.no_notifications'] = 'Pas de nouvelles notifications';
+$lang['AppController.structure.text_notifications'] = 'Notifications';
+$lang['AppController.structure.text_licensed_to'] = 'Licencié à %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Prolonger la session';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Temps restant :';
+$lang['AppController.structure.text_step_up_access_button'] = 'Terminer la session maintenant';
+$lang['AppController.structure.text_step_up_access_header'] = 'Authentification ascendante active';
+$lang['AppController.structure.text_maintenance_button'] = 'Modifier le mode de maintenance';
+$lang['AppController.structure.text_maintenance_header'] = 'Mode maintenance activé';
+$lang['AppController.structure.text_iconbar'] = 'Barre d\'icônes';
+$lang['AppController.structure.text_notices'] = 'Avis';
+$lang['AppController.text_loading'] = 'Chargement...';
+$lang['AppController.modal.btn_delete'] = 'Supprimer';
+$lang['AppController.modal.btn_cancel'] = 'Annuler';
+$lang['AppController.modal.confirm_delete'] = 'Confirmer Supprimer';
 

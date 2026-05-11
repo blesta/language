@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -44,4 +44,12 @@ $lang['AdminMain.index.health_excellent'] = 'Sistemin sağlığı iyi durumdadı
 $lang['AdminMain.index.cron_task_stalled_minor'] = 'Bir veya daha fazla cron görevi %1$s dakikadan uzun süredir yürütülüyor.';
 $lang['AdminMain.index.upload_dir_configure'] = 'Yapılandırmak mı?';
 $lang['AdminMain.index.upload_dir'] = 'Ayarlarınızdaki yükleme dizini yolu kök web dizini içindedir.  Herkesin erişimine açık olmasıyla ilgili bir sorun yaşanmamasını sağlamak için kök web dizininin üzerine yerleştirilmelidir.';
+$lang['AdminMain.index.text_info'] = 'Bilgi';
+$lang['AdminMain.index.text_warning'] = 'Uyarı';
+$lang['AdminMain.index.text_error'] = 'Hata';
+$lang['AdminMain.index.text_success'] = 'Başarı';
+$lang['AdminMain.index.category_cron'] = 'Cron';
+$lang['AdminMain.index.category_system'] = 'Sistem';
+$lang['AdminMain.index.category_database'] = 'Veritabanı';
+$lang['AdminMain.index.category_security'] = 'Güvenlik';
 

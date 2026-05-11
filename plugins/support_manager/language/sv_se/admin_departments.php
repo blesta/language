@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminDepartments.edit.text_delete'] = 'Radera';
 $lang['AdminDepartments.edit.heading_default'] = 'Standard';
 $lang['AdminDepartments.edit.heading_value'] = 'Värde';
 $lang['AdminDepartments.edit.heading_name'] = 'Namn';
-$lang['AdminDepartments.edit.heading_options'] = 'Alternativ';
+$lang['AdminDepartments.edit.heading_options'] = 'Åtgärder';
 $lang['AdminDepartments.edit.heading_auto_delete'] = 'Automatisk radering';
 $lang['AdminDepartments.edit.heading_encrypted'] = 'Krypterad';
 $lang['AdminDepartments.edit.heading_client_add'] = 'Kunden kan lägga till';
@@ -65,7 +65,7 @@ $lang['AdminDepartments.add.text_delete'] = 'Radera';
 $lang['AdminDepartments.add.heading_default'] = 'Standard';
 $lang['AdminDepartments.add.heading_value'] = 'Värde';
 $lang['AdminDepartments.add.heading_name'] = 'Namn';
-$lang['AdminDepartments.add.heading_options'] = 'Alternativ';
+$lang['AdminDepartments.add.heading_options'] = 'Åtgärder';
 $lang['AdminDepartments.add.heading_auto_delete'] = 'Automatisk radering';
 $lang['AdminDepartments.add.heading_encrypted'] = 'Krypterad';
 $lang['AdminDepartments.add.heading_client_add'] = 'Kunden kan lägga till';
@@ -130,7 +130,7 @@ $lang['AdminDepartments.index.no_results'] = 'Det finns inga avdelningar.';
 $lang['AdminDepartments.index.confirm_delete'] = 'Avdelningar som har tilldelats biljetter kan inte raderas förrän alla biljetter har tilldelats en annan avdelning. Är du säker på att du vill radera den här avdelningen?';
 $lang['AdminDepartments.index.option_delete'] = 'Radera';
 $lang['AdminDepartments.index.option_edit'] = 'Redigera';
-$lang['AdminDepartments.index.heading_options'] = 'Alternativ';
+$lang['AdminDepartments.index.heading_options'] = 'Åtgärder';
 $lang['AdminDepartments.index.heading_default_priority'] = 'Standardprioritet';
 $lang['AdminDepartments.index.heading_assigned_staff'] = 'Tilldelad personal';
 $lang['AdminDepartments.index.heading_email'] = 'E-post';
@@ -168,4 +168,11 @@ $lang['AdminDepartments.add.field_oauth2_client_id'] = 'OAuth 2.0 Klient / Appli
 $lang['AdminDepartments.add.field_oauth2_user'] = 'OAuth 2.0 Användare';
 $lang['AdminDepartments.add.field_oauth2_provider'] = 'OAuth 2.0-leverantör';
 $lang['AdminDepartments.!tooltip.feedback_ticket_interval'] = 'För alla ärenden med statusen stängd skickas en påminnelse om att lämna feedback till kunden om ärendet har varit stängt under den valda tiden.';
+$lang['AdminDepartments.!text.description_hint'] = 'Denna beskrivning kommer att vara synlig för kunderna när de väljer en avdelning';
+$lang['AdminDepartments.!text.priorities_hint'] = 'Håll Ctrl (Windows) eller Cmd (Mac) nedtryckt för att välja flera prioriteringar';
+$lang['AdminDepartments.!text.search_responses'] = 'Sök svar...';
+$lang['AdminDepartments.!text.searching'] = 'Söker...';
+$lang['AdminDepartments.add.heading_actions'] = 'Åtgärder';
+$lang['AdminDepartments.add.confirm_field_remove'] = 'Är du säker på att du vill ta bort det här anpassade fältet?';
+$lang['AdminDepartments.edit.heading_actions'] = 'Åtgärder';
 

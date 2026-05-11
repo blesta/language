@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'أنت لا تدير حالياً
 $lang['ClientManagers.accounts.confirm_give_up'] = 'هل أنت متأكد من رغبتك في التخلي عن إمكانية الوصول إلى هذا الحساب؟';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'التخلي عن الوصول';
 $lang['ClientManagers.accounts.option_manage'] = 'الإدارة';
-$lang['ClientManagers.accounts.heading_options'] = 'الخيارات';
+$lang['ClientManagers.accounts.heading_options'] = 'الإجراءات';
 $lang['ClientManagers.accounts.heading_company'] = 'الشركة';
 $lang['ClientManagers.accounts.heading_name'] = 'الاسم الكامل';
 $lang['ClientManagers.accounts.heading_email'] = 'البريد الإلكتروني';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'الإلغاء';
 $lang['ClientManagers.index.option_edit'] = 'تحرير';
 $lang['ClientManagers.index.text_status_pending'] = 'قيد الانتظار';
 $lang['ClientManagers.index.text_status_accepted'] = 'مقبولة';
-$lang['ClientManagers.index.heading_options'] = 'الخيارات';
+$lang['ClientManagers.index.heading_options'] = 'الإجراءات';
 $lang['ClientManagers.index.heading_status'] = 'الحالة';
 $lang['ClientManagers.index.heading_company'] = 'الشركة';
 $lang['ClientManagers.index.heading_name'] = 'الاسم الكامل';

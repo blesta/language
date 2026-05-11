@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -26,7 +26,7 @@ $lang['AdminPayouts.index.heading_requested_currency'] = 'Ønsket valuta';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'Betalt beløb';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'Betalt valuta';
 $lang['AdminPayouts.index.heading_date_requested'] = 'Anmodet dato';
-$lang['AdminPayouts.index.heading_options'] = 'Valgmuligheder';
+$lang['AdminPayouts.index.heading_options'] = 'Handlinger';
 $lang['AdminPayouts.index.option_edit'] = 'Rediger';
 $lang['AdminPayouts.index.option_approve'] = 'Godkend';
 $lang['AdminPayouts.index.option_decline'] = 'Nedgang';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = 'هل تتساءل عن كيف
 $lang['AdminSystemHelp.index.heading_user_manual'] = 'دليل المستخدم';
 $lang['AdminSystemHelp.boxtitle_help'] = 'الموارد';
 $lang['AdminSystemHelp.index.page_title'] = 'الإعدادات &gt; النظام &gt; المساعدة &gt; الموارد';
+$lang['AdminSystemHelp.credits.page_title'] = 'الإعدادات &gt; النظام &gt; المساعدة &gt; حول بليستا';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'نبذة عن بليستا';
 

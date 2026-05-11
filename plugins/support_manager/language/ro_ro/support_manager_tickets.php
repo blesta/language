@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,8 +23,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Gunoi';
 $lang['SupportManagerTickets.status.closed'] = 'Închis';
 $lang['SupportManagerTickets.status.on_hold'] = 'În așteptare';
 $lang['SupportManagerTickets.status.in_progress'] = 'În curs de desfășurare';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'În așteptarea răspunsului clientului';
-$lang['SupportManagerTickets.status.open'] = 'În așteptarea răspunsului personalului';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'În așteptarea clientului';
+$lang['SupportManagerTickets.status.open'] = 'În așteptarea personalului';
 $lang['SupportManagerTickets.priority.low'] = 'Scăzut';
 $lang['SupportManagerTickets.priority.medium'] = 'Mediu';
 $lang['SupportManagerTickets.priority.high'] = 'Mare';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Cel puțin unul dintre
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Cel puțin unul dintre destinatarii biletelor este duplicat.';
 $lang['SupportManagerTickets.log.service_id'] = 'Serviciul aferent a fost schimbat în ID intern: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" este obligatoriu și nu poate fi gol.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Bilet #%1$s Actualizat';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Bilet nou #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s a răspuns la biletul #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s bilet deschis #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Bilet #%1$s Atribuit';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Biletul nr.%1$s vă este atribuit: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Imaginea nu a putut fi încărcată. Vă rugăm să încercați din nou.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Imaginea depășește dimensiunea maximă permisă de %1$sMB.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Tip de imagine invalid. Sunt permise numai imagini JPEG, PNG, GIF și WebP.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Directorul de încărcare nu a putut fi creat.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Imaginea nu a putut fi salvată. Vă rugăm să încercați din nou.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Imaginile inline base64 nu sunt permise. Vă rugăm să lipiți sau să trageți imaginile în editor pentru a le încărca.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = '이 지급을 승인하시겠습�
 $lang['AdminPayouts.index.option_decline'] = '거절';
 $lang['AdminPayouts.index.option_approve'] = '승인';
 $lang['AdminPayouts.index.option_edit'] = '편집';
-$lang['AdminPayouts.index.heading_options'] = '옵션';
+$lang['AdminPayouts.index.heading_options'] = '작업';
 $lang['AdminPayouts.index.heading_date_requested'] = '요청 날짜';
 $lang['AdminPayouts.index.heading_paid_currency'] = '유료 통화';
 $lang['AdminPayouts.index.heading_paid_amount'] = '결제 금액';

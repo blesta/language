@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Trascinare i widget da destra a sinistra per aggiungerli alla dashboard o da sinistra a destra per rimuoverli.';
 $lang['AdminMain.index.customize_dashboard'] = 'Personalizzare il cruscotto';
 $lang['AdminMain.index.manage_widgets'] = 'Gestione dei widget';
-$lang['AdminMain.index.no_quicklinks'] = 'Non sono stati impostati collegamenti rapidi.';
+$lang['AdminMain.index.no_quicklinks'] = 'Non ci sono ancora collegamenti rapidi. Fare clic sull\'icona a forma di stella in qualsiasi pagina per aggiungerla qui.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Collegamenti rapidi';
 $lang['AdminMain.index.page_title'] = 'Cruscotto';
 $lang['AdminMain.!success.event_deleted'] = 'L\'evento è stato cancellato con successo!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'L\'evento è stato aggiornato con su
 $lang['AdminMain.!success.event_added'] = 'L\'evento è stato aggiunto con successo!';
 $lang['AdminMain.!error.event_editable'] = 'Solo il creatore dell\'evento può cancellarlo.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Solo il creatore dell\'evento può cancellare questo evento.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Gestire i widget del cruscotto';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Chiudere';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Rimuovere il collegamento rapido';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Siete sicuri di voler rimuovere "%1$s" dai collegamenti rapidi?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Rimuovere';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annullamento';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Fare clic sui widget per mostrarli o nasconderli dalla dashboard.';
+$lang['AdminMain.calendar.category_list'] = 'Elenco';
+$lang['AdminMain.calendar.category_today'] = 'Oggi';
 

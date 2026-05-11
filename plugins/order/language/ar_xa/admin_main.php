@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'إشعارات الطلبا
 $lang['AdminMain.orderinfo.services_no_results'] = 'لا توجد خدمات بهذا الترتيب.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'أبداً';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'الإدارة';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'الخيارات';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'الإجراءات';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'تاريخ التجديدات';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'تاريخ الإضافة';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'المدة';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'الحزمة';
 $lang['AdminMain.orderinfo.services_heading'] = 'الخدمات';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'لا توجد معاملات مطبقة على هذا الطلب.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'تحرير';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'الخيارات';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'الإجراءات';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'تطبيق على';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'تطبيقي';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'المبلغ';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'الطلبات';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'تم تحديث إعدادات الشركة التابعة.';
 $lang['AdminMain.!success.settings_updated'] = 'تم تحديث إعدادات طلبك بنجاح.';
 $lang['AdminMain.!success.status_updated'] = 'تم تحديث الطلبات المحددة بنجاح.';
+$lang['AdminMain.index.paid'] = 'مدفوعة الأجر';
+$lang['AdminMain.index.unpaid'] = 'غير مدفوعة';
+$lang['AdminMain.index.loading'] = 'جاري التحميل...';
+$lang['AdminMain.index.text_items_selected'] = 'العناصر المختارة';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'معرّف المعاملة';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'الحالة';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'التاريخ';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'الخدمة';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'الحالة';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'قيد الانتظار';
+$lang['AdminMain.settings.text_notifications'] = 'قم بتكوين الطريقة التي تريد تلقي الإشعارات الخاصة بالطلبات الجديدة بها.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'قم بتهيئة الطريقة التي تريد أن تتلقى بها إشعارات مدفوعات الشركات التابعة.';
 

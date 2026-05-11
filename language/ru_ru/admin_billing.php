@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Печать';
 $lang['AdminBilling.printqueue.page_title'] = 'Очередь печати счетов';
 $lang['AdminBilling.invoices.text_edit'] = 'Редактировать';
 $lang['AdminBilling.invoices.applied_no_results'] = 'К этому счету-фактуре не было применено никаких операций.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Опции';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Действия';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Применяется на';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Прикладная';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Сумма';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Ошибка';
 $lang['AdminBilling.transactions.category_voided'] = 'Недействительный';
 $lang['AdminBilling.transactions.category_declined'] = 'Отклонено';
 $lang['AdminBilling.transactions.category_approved'] = 'Одобрено';
-$lang['AdminBilling.transactions.heading_options'] = 'Опции';
+$lang['AdminBilling.transactions.heading_options'] = 'Действия';
 $lang['AdminBilling.transactions.heading_date'] = 'Дата';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Ссылка #';
 $lang['AdminBilling.transactions.heading_number'] = 'Номер';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Транзакции
 $lang['AdminBilling.transactions.page_title'] = 'Операции выставления счетов';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Причина отмены: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Эта услуга не имеет подробностей.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Отправить';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Применить';
 $lang['AdminBilling.services.action.field_client'] = 'Клиент:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Передача клиенту';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Не отменять';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Активный';
 $lang['AdminBilling.services.confirm_delete'] = 'Вы уверены, что хотите удалить эту услугу?';
 $lang['AdminBilling.services.option_delete'] = 'Удалить';
 $lang['AdminBilling.services.option_manage'] = 'Управление';
-$lang['AdminBilling.services.heading_options'] = 'Опции';
+$lang['AdminBilling.services.heading_options'] = 'Действия';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Дата отмены';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Дата приостановления';
 $lang['AdminBilling.services.heading_daterenews'] = 'Дата обновления';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Услуги';
 $lang['AdminBilling.services.page_title'] = 'Услуги по выставлению счетов';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'С этой цитатой не связано ни одного счета.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Посмотреть';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Опции';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Действия';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Дата выставления счета';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Оплачивается';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Сумма';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Утвердить';
 $lang['AdminBilling.quotations.option_invoice'] = 'Создать счет-фактуру';
 $lang['AdminBilling.quotations.option_view'] = 'Посмотреть';
 $lang['AdminBilling.quotations.option_edit'] = 'Редактировать';
-$lang['AdminBilling.quotations.heading_options'] = 'Опции';
+$lang['AdminBilling.quotations.heading_options'] = 'Действия';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Дата истечения срока действия';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Дата создания';
 $lang['AdminBilling.quotations.heading_total'] = 'Сумма';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Открыть';
 $lang['AdminBilling.invoices.heading_count'] = 'Граф';
 $lang['AdminBilling.invoices.heading_duration'] = 'Продолжительность';
 $lang['AdminBilling.invoices.heading_term'] = 'Срок';
-$lang['AdminBilling.invoices.heading_options'] = 'Опции';
+$lang['AdminBilling.invoices.heading_options'] = 'Действия';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Дата выполнения';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Дата выставления счета';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Дата закрытия';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Выбранные слу
 $lang['AdminBilling.!success.services_suspended'] = 'Выбранные службы были успешно приостановлены.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Эта услуга ожидает изменений.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Дата оплаты: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'выбранные элементы';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'выбранный элемент';
+$lang['AdminBilling.transactions.option_view'] = 'Посмотреть';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Действия';
+$lang['AdminBilling.services.text_items_selected'] = 'выбранные элементы';
+$lang['AdminBilling.services.text_item_selected'] = 'выбранный элемент';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Применить фильтры';
+$lang['AdminBilling.services.field_filterclear'] = 'Очистить';
+$lang['AdminBilling.services.filter_toggle'] = 'Переключить фильтры';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Применить фильтры';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Очистить';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Переключить фильтры';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Щелкните по виджетам, чтобы показать или скрыть их на приборной панели.';
 

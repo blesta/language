@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Je třeba zadat označení serv
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP adresa';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP adresa se zdá být neplatná.';
 $lang['DirectAdmin.row_meta.http_version'] = 'Verze HTTP';
+$lang['DirectAdmin.back_to_manage'] = 'Zpět';
+$lang['DirectAdmin.manage.tab_rows'] = 'Servery';
+$lang['DirectAdmin.manage.tab_groups'] = 'Skupiny serverů';
 

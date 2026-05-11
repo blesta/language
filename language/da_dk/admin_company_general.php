@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AdminCompanyGeneral.contacttypes.categorylink_addtype'] = 'Opret kontaktt
 $lang['AdminCompanyGeneral.contacttypes.boxtitle_types'] = 'Kontakttyper';
 $lang['AdminCompanyGeneral.contacttypes.heading_name'] = 'Navn';
 $lang['AdminCompanyGeneral.contacttypes.heading_define'] = 'Bruger sprog Definition';
-$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Valgmuligheder';
+$lang['AdminCompanyGeneral.contacttypes.heading_options'] = 'Handlinger';
 $lang['AdminCompanyGeneral.contacttypes.text_yes'] = 'Ja';
 $lang['AdminCompanyGeneral.contacttypes.text_no'] = 'Nej, det er det ikke';
 $lang['AdminCompanyGeneral.contacttypes.option_edit'] = 'Rediger';
@@ -82,7 +82,7 @@ $lang['AdminCompanyGeneral.editcontacttype.page_title'] = 'Indstillinger > Virks
 $lang['AdminCompanyGeneral.editcontacttype.boxtitle_editcontacttype'] = 'Rediger kontakttype';
 $lang['AdminCompanyGeneral.editcontacttype.field_name'] = 'Navn';
 $lang['AdminCompanyGeneral.editcontacttype.field_is_lang'] = 'Definition af brug af sprog';
-$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Rediger kontakttype';
+$lang['AdminCompanyGeneral.editcontacttype.field_contacttypesubmit'] = 'Opdater kontakttype';
 $lang['AdminCompanyGeneral.marketing.boxtitle_marketing'] = 'Markedsføring';
 $lang['AdminCompanyGeneral.marketing.field_show_receive_email_marketing'] = 'Giv kunderne mulighed for at tilvælge/fravælge e-mailmarkedsføring';
 $lang['AdminCompanyGeneral.marketing.field_submit'] = 'Opdater indstillinger';

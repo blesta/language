@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.tab_client_nameservers.title_list'] = 'Jmenné servery';
 $lang['Connectreseller.order_options.roundrobin'] = 'Rovnoměrné rozdělení mezi servery';
 $lang['Connectreseller.order_options.first'] = 'První nenaplněný server';
 $lang['Connectreseller.manage.module_rows_heading.reseller_name'] = 'Název prodejce';
+$lang['Connectreseller.back_to_manage'] = 'Zpět';
+$lang['Connectreseller.manage.tab_rows'] = 'Servery';
+$lang['Connectreseller.manage.tab_groups'] = 'Skupiny serverů';
 

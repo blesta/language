@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Плащането не може �
 $lang['Checkout.!error.not_client_owner'] = 'За да продължите, трябва да сте влезли като собственик на клиента.';
 $lang['Checkout.!error.no_payment_info'] = 'За да продължите, трябва да изберете начин на плащане.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Трябва да потвърдите, че сте съгласни с условията.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'За да продължите, трябва да се съгласите с периодичното фактуриране.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Упълномощавам %1$s да съхранява моя метод на плащане и да начислява такси на %2$s от днес, докато не се откажа. Мога да се откажа по всяко време онлайн чрез профила си.';
+$lang['Checkout.index.recurring_every'] = 'всеки %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'всеки %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'и';
 

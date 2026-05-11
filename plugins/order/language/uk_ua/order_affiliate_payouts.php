@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Будь ласка, об�
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Невірний ідентифікатор способу оплати.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Неправильний ідентифікатор партнера.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Невірний ідентифікатор виплати.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Запит на виплату';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s запросив виплату в розмірі %2$s';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Диапазон �
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Для параметра "Использовать выделенный IP" необходимо установить значение 1 или 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Идентификатор местоположения не совпадает ни с одним в Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Идентификатор местоположения должен быть цифровым.';
+$lang['Pterodactyl.back_to_manage'] = 'Назад';
 

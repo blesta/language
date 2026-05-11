@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminCompanyEmails.edittemplate.field_cancel'] = '취소';
 $lang['AdminCompanyEmails.edittemplate.field_attachment'] = '첨부 파일';
 $lang['AdminCompanyEmails.edittemplate.option_delete'] = '삭제';
 $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = '이 첨부 파일을 삭제하시겠습니까?';
-$lang['AdminCompanyEmails.edittemplate.heading_options'] = '옵션';
+$lang['AdminCompanyEmails.edittemplate.heading_options'] = '작업';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = '파일 이름';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = '추가 첨부 파일';
 $lang['AdminCompanyEmails.edittemplate.heading_email_template'] = '이메일 템플릿';
@@ -149,7 +149,7 @@ $lang['AdminCompanyEmails.templates.payment_cc_declined_desc'] = '신용카드 �
 $lang['AdminCompanyEmails.templates.payment_cc_declined_name'] = '결제 거부됨(신용카드)';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_desc'] = '신용카드 결제가 성공적으로 승인된 후 알림이 전송됩니다.';
 $lang['AdminCompanyEmails.templates.payment_cc_approved_name'] = '결제 승인됨(신용카드)';
-$lang['AdminCompanyEmails.templates.field_templatesubmit'] = '업데이트';
+$lang['AdminCompanyEmails.templates.field_templatesubmit'] = '신청하기';
 $lang['AdminCompanyEmails.templates.no_results'] = '이 유형의 템플릿은 없습니다.';
 $lang['AdminCompanyEmails.templates.option_edit'] = '편집';
 $lang['AdminCompanyEmails.templates.text_options'] = '옵션';
@@ -189,11 +189,11 @@ $lang['AdminCompanyEmails.!success.editsignature_updated'] = '이메일 서명�
 $lang['AdminCompanyEmails.!success.edittemplate_updated'] = '이메일 템플릿 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminCompanyEmails.gettemplateactions.text_none'] = '없음';
 $lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'HTML 템플릿 업데이트';
-$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = '템플릿 편집';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = '템플릿 업데이트';
 $lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = '태그';
 $lang['AdminCompanyEmails.edithtmltemplate.field.name'] = '이름';
 $lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'HTML 템플릿 편집';
-$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = '템플릿 추가';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = '템플릿 만들기';
 $lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = '태그';
 $lang['AdminCompanyEmails.addhtmltemplate.field.name'] = '이름';
 $lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'HTML 템플릿 추가';
@@ -237,4 +237,53 @@ $lang['AdminCompanyEmails.templates.service_uncancellation_desc'] = '서비스 �
 $lang['AdminCompanyEmails.templates.service_uncancellation_name'] = '서비스 취소';
 $lang['AdminCompanyEmails.templates.low_balance_notification_desc'] = '고객 크레딧 잔액이 설정된 임계값 아래로 떨어지면 알림이 전송됩니다.';
 $lang['AdminCompanyEmails.templates.low_balance_notification_name'] = '잔액 부족 알림';
+$lang['AdminCompanyEmails.ai.preview_subject'] = '추천 주제';
+$lang['AdminCompanyEmails.ai.apply_text'] = '텍스트 버전';
+$lang['AdminCompanyEmails.ai.apply_html'] = 'HTML 버전';
+$lang['AdminCompanyEmails.ai.apply_subject'] = '제목';
+$lang['AdminCompanyEmails.ai.apply_content_label'] = '콘텐츠를 적용합니다:';
+$lang['AdminCompanyEmails.ai.error_prefix'] = '오류:';
+$lang['AdminCompanyEmails.ai.error_rate_limit'] = '요청이 너무 많습니다. 잠시 기다렸다가 다시 시도하세요.';
+$lang['AdminCompanyEmails.ai.error_generation_failed'] = '콘텐츠 생성에 실패했습니다. 다시 시도해 주세요.';
+$lang['AdminCompanyEmails.ai.error_prompt_too_long'] = '프롬프트가 최대 길이를 초과합니다.';
+$lang['AdminCompanyEmails.ai.error_prompt_required'] = '콘텐츠를 생성하려면 프롬프트가 필요합니다.';
+$lang['AdminCompanyEmails.ai.error_feature_disabled'] = 'AI 이메일 템플릿 생성이 사용 설정되어 있지 않습니다.';
+$lang['AdminCompanyEmails.ai.error_disabled'] = '현재 AI 기능은 비활성화되어 있습니다.';
+$lang['AdminCompanyEmails.ai.preview_text'] = '텍스트 미리보기';
+$lang['AdminCompanyEmails.ai.preview_html'] = 'HTML 미리보기';
+$lang['AdminCompanyEmails.ai.initial_instructions'] = '생성을 클릭하여 템플릿 유형 및 사용 가능한 태그를 기반으로 이메일 콘텐츠를 만듭니다.';
+$lang['AdminCompanyEmails.ai.generated_content_label'] = '생성된 콘텐츠';
+$lang['AdminCompanyEmails.ai.additional_instructions_help'] = 'AI가 생성된 콘텐츠를 사용자 지정할 수 있도록 안내하는 옵션입니다.';
+$lang['AdminCompanyEmails.ai.additional_instructions_placeholder'] = '특정 요구 사항 또는 톤 기본 설정 추가...';
+$lang['AdminCompanyEmails.ai.additional_instructions_label'] = '추가 지침';
+$lang['AdminCompanyEmails.ai.prompt_loading'] = '로딩 중...';
+$lang['AdminCompanyEmails.ai.prompt_context_label'] = '프롬프트 컨텍스트';
+$lang['AdminCompanyEmails.ai.generating'] = '생성...';
+$lang['AdminCompanyEmails.ai.btn_cancel'] = '취소';
+$lang['AdminCompanyEmails.ai.use_content_button'] = '이 콘텐츠 사용';
+$lang['AdminCompanyEmails.ai.regenerate_button'] = '재생성';
+$lang['AdminCompanyEmails.ai.rewrite_button'] = '재작성';
+$lang['AdminCompanyEmails.ai.generate_button'] = '생성';
+$lang['AdminCompanyEmails.ai.modal_title_rewrite'] = '이메일 콘텐츠 다시 작성';
+$lang['AdminCompanyEmails.ai.modal_title_generate'] = '이메일 콘텐츠 생성';
+$lang['AdminCompanyEmails.ai.modal_title'] = 'AI 콘텐츠 어시스턴트';
+$lang['AdminCompanyEmails.mail.text_copied'] = '복사 완료!';
+$lang['AdminCompanyEmails.mail.text_copy'] = '복사';
+$lang['AdminCompanyEmails.mail.field.oauth2_redirect_uri'] = 'OAuth 2.0 리디렉션 URI';
+$lang['AdminCompanyEmails.edittemplate.confirm_restore_snapshot'] = '이 스냅샷을 복원하시겠습니까? 저장하지 않은 변경 사항은 모두 손실됩니다.';
+$lang['AdminCompanyEmails.edittemplate.text_no_snapshots'] = '이 이메일 템플릿에는 사용할 수 있는 스냅샷이 없습니다.';
+$lang['AdminCompanyEmails.edittemplate.heading_snapshots'] = '템플릿 기록';
+$lang['AdminCompanyEmails.edittemplate.field_restore_snapshot'] = '스냅샷 복원';
+$lang['AdminCompanyEmails.edittemplate.field_restore'] = '복원';
+$lang['AdminCompanyEmails.edittemplate.text_browse_files'] = '파일 찾아보기';
+$lang['AdminCompanyEmails.edittemplate.text_drop_files'] = '여기에 파일을 놓거나 찾아보기를 클릭하여 첨부 파일을 업로드하세요.';
+$lang['AdminCompanyEmails.edittemplate.text_tags_description'] = '이메일 템플릿에서 이러한 태그를 사용하여 동적 콘텐츠를 포함할 수 있습니다.';
+$lang['AdminCompanyEmails.edittemplate.text_available_tags'] = '사용 가능한 태그';
+$lang['AdminCompanyEmails.edittemplate.text_plain_text'] = '이메일의 일반 텍스트 버전 입력';
+$lang['AdminCompanyEmails.edittemplate.text_subject'] = '이메일 제목 입력';
+$lang['AdminCompanyEmails.edittemplate.text_from_email'] = '이메일 주소에서 입력';
+$lang['AdminCompanyEmails.edittemplate.text_from_name'] = '이름에서 입력';
+$lang['AdminCompanyEmails.templates.text_items_selected'] = '선택한 항목';
+$lang['AdminCompanyEmails.!tooltip.oauth2_redirect_uri'] = '이 URL을 복사하여 OAuth 공급업체의 애플리케이션 설정(예: Google Cloud Console, Microsoft Azure 포털)에 인증된 리디렉션 URI로 추가합니다. 이는 OAuth 인증이 작동하는 데 필요합니다.';
+$lang['AdminCompanyEmails.!success.snapshot_restored'] = '이메일 템플릿이 스냅샷에서 성공적으로 복원되었습니다!';
 

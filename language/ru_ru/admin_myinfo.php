@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,4 +40,42 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Счет';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Ваши настройки уведомлений были успешно обновлены.';
 $lang['AdminMyinfo.!success.updated'] = 'Настройки вашей учетной записи были успешно обновлены.';
 $lang['AdminMyinfo.index.field_avatar'] = 'Изображение профиля';
+$lang['AdminMyinfo.!success.notifications_updated'] = 'Ваши настройки уведомлений были успешно обновлены.';
+$lang['AdminMyinfo.gettabnames.text_notifications'] = 'Уведомления';
+$lang['AdminMyinfo.index.heading_profile_picture'] = 'Изображение профиля';
+$lang['AdminMyinfo.index.heading_account_information'] = 'Информация о счете';
+$lang['AdminMyinfo.index.heading_two_factor'] = 'Двухфакторная аутентификация';
+$lang['AdminMyinfo.index.heading_additional_settings'] = 'Дополнительные настройки';
+$lang['AdminMyinfo.index.link_remove_avatar'] = 'Удалить изображение';
+$lang['AdminMyinfo.index.text_avatar_recommendation'] = 'Рекомендуется: 150x150px, JPG или PNG, не более 2 МБ';
+$lang['AdminMyinfo.index.text_scan_qr'] = 'Сканирование с помощью приложения Authenticator';
+$lang['AdminMyinfo.index.text_authenticator_apps'] = 'Используйте Google Authenticator, Authy или любое другое приложение, совместимое с TOTP.';
+$lang['AdminMyinfo.notifications.page_title'] = 'Моя информация &gt; Уведомления';
+$lang['AdminMyinfo.notifications.heading_notifications'] = 'Уведомления';
+$lang['AdminMyinfo.notifications.field_notificationsubmit'] = 'Уведомления об обновлениях';
+$lang['AdminMyinfo.notifications.no_results'] = 'Для вашей группы сотрудников не доступно никаких уведомлений.';
+$lang['AdminMyinfo.!success.iconbar_updated'] = 'Настройки панели значков были успешно обновлены.';
+$lang['AdminMyinfo.!success.iconbar_reset'] = 'Настройки панели значков были сброшены по умолчанию.';
+$lang['AdminMyinfo.iconbar.page_title'] = 'Моя информация &gt; Панель значков';
+$lang['AdminMyinfo.iconbar.heading_iconbar'] = 'Панель иконок';
+$lang['AdminMyinfo.iconbar.text_info'] = 'Настройте, какие значки будут отображаться в панели значков и в каком порядке. Перетаскивайте значки, чтобы изменить их расположение, нажимайте кнопку редактирования, чтобы изменить значок, и используйте флажки, чтобы включить или отключить значки. Панель значков обеспечивает быстрый доступ к часто используемым функциям.';
+$lang['AdminMyinfo.iconbar.btn_save'] = 'Сохранить изменения';
+$lang['AdminMyinfo.iconbar.btn_reset'] = 'Сброс настроек по умолчанию';
+$lang['AdminMyinfo.iconbar.btn_create_custom'] = 'Создать пользовательский значок';
+$lang['AdminMyinfo.iconbar.modal_create_title'] = 'Создать пользовательский значок';
+$lang['AdminMyinfo.iconbar.modal_edit_title'] = 'Значок редактирования';
+$lang['AdminMyinfo.iconbar.field_name'] = 'Имя';
+$lang['AdminMyinfo.iconbar.field_url'] = 'URL';
+$lang['AdminMyinfo.iconbar.field_icon_class'] = 'Класс иконок (иконки Bootstrap)';
+$lang['AdminMyinfo.iconbar.field_item_name'] = 'Название предмета';
+$lang['AdminMyinfo.iconbar.text_name_description'] = 'Введите имя для этого элемента панели значков';
+$lang['AdminMyinfo.iconbar.text_url_description'] = 'Введите URL-адрес, на который должен ссылаться этот значок';
+$lang['AdminMyinfo.iconbar.text_icon_description'] = 'Введите имя класса Bootstrap Icon (например, bi-grid, bi-people, bi-calendar-event).';
+$lang['AdminMyinfo.iconbar.text_browse_icons'] = 'Просмотр иконок';
+$lang['AdminMyinfo.iconbar.btn_modal_apply'] = 'Применить';
+$lang['AdminMyinfo.iconbar.btn_modal_create'] = 'Создать значок';
+$lang['AdminMyinfo.iconbar.btn_modal_cancel'] = 'Отмена';
+$lang['AdminMyinfo.iconbar.confirm_reset'] = 'Вы уверены, что хотите вернуть панель значков к настройкам по умолчанию?';
+$lang['AdminMyinfo.iconbar.field_show_ai_chatbot'] = 'Показать значок чатбота';
+$lang['AdminMyinfo.iconbar.text_show_ai_chatbot'] = 'Отображение значка чатбота AI в панели значков. Снимите флажок, чтобы убрать.';
 

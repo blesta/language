@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'Nu dezinstalați vechea poar
 $lang['StripePayments.text_migrate_accounts'] = 'Puteți migra automat conturile de plată stocate în afara site-ului de către vechiul gateway Stripe către acest gateway Stripe Payments. Conturile care nu sunt stocate în afara site-ului trebuie migrate prin crearea manuală de noi conturi de plată. Pentru a preveni timeout-urile, migrările se vor face în loturi de %1$s. Rulați această operațiune de câte ori este necesar pentru a migra toate conturile de plată.';
 $lang['StripePayments.text_accounts_remaining'] = 'Conturi rămase: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrarea conturilor de plată vechi';
-$lang['StripePayments.webhook_note'] = 'Se recomandă să configurați următoarea adresă URL ca Webhook pentru evenimentele "payment_intent" în contul dumneavoastră Stripe.';
+$lang['StripePayments.webhook_note'] = 'Se recomandă să configurați următoarea adresă URL ca Webhook pentru evenimentele "payment_intent" și "charge" din contul dumneavoastră Stripe.';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = 'Cheia secretă API este specifică fie pentru modul live, fie pentru cel de testare. Asigurați-vă că folosiți cheia corectă.';
 $lang['StripePayments.tooltip_publishable_key'] = 'Cheia API publicabilă este specifică fie pentru modul live, fie pentru cel de testare. Asigurați-vă că folosiți cheia corectă.';

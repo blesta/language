@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -124,7 +124,7 @@ $lang['ClientServices.serviceinfo.cancellation_reason'] = '취소 사유: %1$s';
 $lang['ClientServices.serviceinfo.no_results'] = '이 서비스에는 세부 정보가 없습니다.';
 $lang['ClientServices.index.text_never'] = '절대로';
 $lang['ClientServices.index.option_manage'] = '관리';
-$lang['ClientServices.index.heading_options'] = '옵션';
+$lang['ClientServices.index.heading_options'] = '작업';
 $lang['ClientServices.index.heading_datecanceled'] = '날짜 취소됨';
 $lang['ClientServices.index.heading_datesuspended'] = '일시 중단된 날짜';
 $lang['ClientServices.index.heading_daterenews'] = '날짜 갱신';

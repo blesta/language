@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = 'Güncelleme';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = 'Her para birimi için varsayılan satıcı ağ geçidini ayarlayın.';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = 'Varsayılan Üye İşyeri Ağ Geçitleri';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = 'Varsayılan satıcı ağ geçitleri başarıyla güncellendi.';
+$lang['AdminCompanyGateways.text_filter_no_results'] = 'Eşleşen ağ geçidi bulunamadı.';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = 'Ağ geçitlerini filtrele...';
 

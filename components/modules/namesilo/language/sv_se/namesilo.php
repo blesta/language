@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Värde';
 $lang['Namesilo.dnsrecord.host'] = 'Värd';
 $lang['Namesilo.dnsrecord.record_type'] = 'Typ';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'På den här sidan kan du lägga till eller ta bort DNS-posterna A, AAAA, CNAME, MX och TXT. Observera att det kan ta några minuter för DNS-poster att spridas.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'På den här sidan kan du lägga till eller ta bort DNS-posterna A, AAAA, CNAME, MX och TXT. Tänk på att det kan ta några minuter innan DNS-posterna sprids. <br/> För att någon av dessa ändringar ska återspeglas i ditt domännamn måste du ställa in namnservrarna till:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Lägg till post';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Radera post(er)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Lägga till en DNS-post';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Hämtar in kontakter från 
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Dra Namesilo-kontakter';
 $lang['Namesilo.notice.default_nameservers'] = 'Den här funktionen kräver att domänen använder följande namnservrar: ns1.dnsowl.com, ns2.dnsowl.com och ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Domänen är inte tillgänglig för registrering.';
+$lang['Namesilo.back_to_manage'] = 'Tillbaka';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Åtgärder';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Ett eller flera fält innehåller specialtecken (t.ex. bokstäver med accent). NameSilo kanske inte stöder dessa tecken i kontaktfält.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Vidarebefordran av domäner';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Domänvidarebefordran tas bort automatiskt när du ger domänen något annat att göra, t.ex. byte av namnservrar eller ändring av de primära A-posterna för @ och www. <br/> Om du vill att någon av dessa ändringar ska återspeglas i ditt domännamn måste du ställa in namnservrarna till:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domän';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Framåt till';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metod för vidarebefordran';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Permanent Forward (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Temporär termin (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Inkapslad';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktiv';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Radera';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Uppdatera speditörer';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'URL:en för vidarebefordran är ogiltig. Se till att du använder HTTPS eller HTTP.';
 

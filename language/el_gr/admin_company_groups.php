@@ -4,12 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Επεξεργασία ομάδας';
+$lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Ομάδα ενημέρωσης';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Επιβολή διευθύνσεων email ως ονόματα χρηστών';
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Χρήση ρυθμίσεων εταιρείας (καταργήστε την επιλογή για να καθορίσετε παρακάτω)';
 $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Μέθοδοι παράδοσης τιμολογίων';

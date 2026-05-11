@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Покинуте замовлен�
 $lang['AdminForms.add.tab_basic'] = 'Базовий';
 $lang['AdminForms.index.field_status_inactive'] = 'Неактивний';
 $lang['AdminForms.index.field_status_active'] = 'Активний';
-$lang['AdminForms.index.text_confirm_delete'] = 'Дійсно видалити цю форму замовлення?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Ви впевнені, що хочете видалити цю форму замовлення?';
 $lang['AdminForms.index.option_delete'] = 'Видалити';
 $lang['AdminForms.index.option_edit'] = 'Редагувати';
 $lang['AdminForms.index.heading_options'] = 'Параметри';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'При виборі пак
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'При виборі пакету показуйте щомісячну вартість для кожного варіанту ціноутворення, а також економію за місяць у порівнянні з щомісячною ціною (якщо це можливо).';
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Відобразити щомісячну розбивку цін';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Відобразити щомісячну розбивку цін';
+$lang['AdminForms.index.heading_actions'] = 'Дії';
+$lang['AdminForms.index.back_to_forms'] = 'Повернутися до форм замовлення';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Вимагати згоди на повторні підписки';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Якщо ця опція увімкнена, клієнти повинні дати явну згоду на повторне виставлення рахунків перед тим, як завершити замовлення з повторюваними позиціями. Ця опція замінює прапорець "Зберегти платіжні дані".';
+$lang['AdminForms.add.field_cancel'] = 'Скасувати';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Вимагати згоди на повторні підписки';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Якщо ця опція увімкнена, клієнти повинні дати явну згоду на повторне виставлення рахунків перед тим, як завершити замовлення з повторюваними позиціями. Ця опція замінює прапорець "Зберегти платіжні дані".';
+$lang['AdminForms.edit.field_cancel'] = 'Скасувати';
+$lang['AdminForms.embed_codes.heading'] = 'Вбудований код для пошуку домену';
+$lang['AdminForms.embed_codes.description'] = 'Скопіюйте один з фрагментів нижче, щоб вставити форму пошуку домену на зовнішній сайт. Відправлення відкриє форму замовлення на цій формі замовлення з попередньо завантаженим доменом.';
+$lang['AdminForms.embed_codes.label_first'] = 'Введіть URL-адресу для цієї форми замовлення, щоб згенерувати коди вбудовування.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Простий HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Попередній перегляд';
+$lang['AdminForms.embed_codes.copy'] = 'Зрозумів.';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Обхід CSRF необхідний для роботи вбудованого пошуку за доменом.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'POST із зовнішнього сайту буде відхилено, доки ви не додасте config::preconfig до масиву Blesta.csrf_bypass у файлі config/blesta.php:';
 

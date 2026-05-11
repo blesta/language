@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,7 +76,7 @@ $lang['AdminMain.urls.no_urls'] = 'Det finns inga statiska URL:er i detta avsnit
 $lang['AdminMain.urls.latest_file'] = 'Senaste filen från <strong>%1$s</strong>';
 $lang['AdminMain.urls.delete'] = 'Radera';
 $lang['AdminMain.urls.edit'] = 'Redigera';
-$lang['AdminMain.urls.heading_options'] = 'Alternativ';
+$lang['AdminMain.urls.heading_options'] = 'Åtgärder';
 $lang['AdminMain.urls.heading_link'] = 'Länk';
 $lang['AdminMain.urls.heading_file'] = 'Fil';
 $lang['AdminMain.urls.heading_url'] = 'URL';
@@ -88,8 +88,8 @@ $lang['AdminMain.urls.page_title'] = 'Download Manager > Hantera';
 $lang['AdminMain.files.no_downloads'] = 'Det finns inga nedladdningar i detta avsnitt.';
 $lang['AdminMain.files.delete'] = 'Radera';
 $lang['AdminMain.files.edit'] = 'Redigera';
-$lang['AdminMain.files.go_back'] = 'Gå upp en nivå';
-$lang['AdminMain.files.add_category'] = 'Lägg till kategori här';
+$lang['AdminMain.files.go_back'] = 'Tillbaka';
+$lang['AdminMain.files.add_category'] = 'Lägg till kategori';
 $lang['AdminMain.files.add_download'] = 'Lägg till nedladdning här';
 $lang['AdminMain.files.tab_urls'] = 'Statiska webbadresser';
 $lang['AdminMain.files.tab_files'] = 'Filer';
@@ -113,6 +113,19 @@ $lang['AdminMain.!success.file_added'] = 'Filen har framgångsrikt lagts till.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorin har raderats framgångsrikt.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorin har uppdaterats framgångsrikt.';
 $lang['AdminMain.!success.category_added'] = 'Kategorin har skapats framgångsrikt.';
-$lang['AdminMain.edit.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Filer';
+$lang['AdminMain.sidebar.urls'] = 'Statiska webbadresser';
+$lang['AdminMain.!performance.xsendfile'] = 'Apaches mod_http2 är aktiverat, men mod_xsendfile är det inte. Vi rekommenderar att du aktiverar eller installerar mod_xsendfile för att få bättre prestanda och snabbare nedladdningar.';
+$lang['AdminMain.modal.confirm_delete'] = 'Bekräfta Radera';
+$lang['AdminMain.modal.delete'] = 'Radera';
+$lang['AdminMain.modal.cancel'] = 'Avbryt';
+$lang['AdminMain.modal.save'] = 'Spara';
+$lang['AdminMain.add.public'] = 'Allmänt tillgänglig';
+$lang['AdminMain.add.logged_in'] = 'Måste vara inloggad';
+$lang['AdminMain.add.text_fileinfo'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog.';
+$lang['AdminMain.add.field_file_type'] = 'Fil Källa';
+$lang['AdminMain.add.upload'] = 'Ladda upp fil';
+$lang['AdminMain.add.path'] = 'Ange sökväg till fil';
 

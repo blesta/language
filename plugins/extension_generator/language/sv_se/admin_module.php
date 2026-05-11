@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Nästa - Bekräftelse';
 $lang['AdminModule.features.text_remove'] = 'Ta bort';
-$lang['AdminModule.features.text_options'] = 'Alternativ';
+$lang['AdminModule.features.text_options'] = 'Åtgärder';
 $lang['AdminModule.features.cron_task_row_add'] = 'Lägg till Cron-uppgift';
 $lang['AdminModule.features.service_tab_row_add'] = 'Lägg till fliken Service Management';
 $lang['AdminModule.features.placeholder_time'] = 't.ex. 14:25 eller 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Huruvida använda
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP-kod';
 $lang['AdminModule.fields.features'] = 'Nästa - Ytterligare funktioner';
 $lang['AdminModule.fields.text_remove'] = 'Ta bort';
-$lang['AdminModule.fields.text_options'] = 'Alternativ';
+$lang['AdminModule.fields.text_options'] = 'Åtgärder';
 $lang['AdminModule.fields.service_row_add'] = 'Lägg till servicefält';
 $lang['AdminModule.fields.package_row_add'] = 'Lägg till paketfält';
 $lang['AdminModule.fields.module_row_add'] = 'Lägg till modulradfält';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'Toppdomäner';
 $lang['AdminModule.basic.static_tlds'] = 'Statiskt definiera toppdomäner';
 $lang['AdminModule.basic.text_remove'] = 'Ta bort';
 $lang['AdminModule.basic.author_row_add'] = 'Lägg till författare';
-$lang['AdminModule.basic.text_options'] = 'Alternativ';
+$lang['AdminModule.basic.text_options'] = 'Åtgärder';
 $lang['AdminModule.basic.author_url'] = 'Författarens URL';
 $lang['AdminModule.basic.author_name'] = 'Författarens namn';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrator';

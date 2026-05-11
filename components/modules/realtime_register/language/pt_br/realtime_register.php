@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -340,4 +340,5 @@ $lang['RealtimeRegister.description'] = 'Oferecemos mais de 2.000 TLDs de mais d
 $lang['RealtimeRegister.name'] = 'Realtime Register';
 $lang['RealtimeRegister.tab_client_settings.field_status'] = 'Status do domínio';
 $lang['RealtimeRegister.!notice.client_update_prohibited'] = 'Você não tem permissão para gerenciar esse domínio.';
+$lang['RealtimeRegister.back_to_manage'] = 'Voltar';
 

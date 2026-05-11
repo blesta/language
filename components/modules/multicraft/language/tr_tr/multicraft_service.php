@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'Kullanıcı kimliği bir tam
 $lang['MulticraftService.!error.server_id.format'] = 'Sunucu kimliği bir tamsayı olmalı veya boş bırakılmalıdır.';
 $lang['MulticraftService.!error.client'] = 'Multicraft kullanıcısı oluşturulacak bir istemci bulunamadı.';
 $lang['MulticraftService.!error.internal'] = 'Dahili bir hata oluştu veya sunucu isteğe yanıt vermedi.';
+$lang['Multicraft.back_to_manage'] = 'Geri';
 

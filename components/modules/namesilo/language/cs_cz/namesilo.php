@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -141,7 +141,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Hodnota';
 $lang['Namesilo.dnsrecord.host'] = 'Hostitel';
 $lang['Namesilo.dnsrecord.record_type'] = 'Typ';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Na této stránce můžete přidávat nebo odstraňovat záznamy A, AAAA, CNAME, MX a TXT DNS. Upozorňujeme, že šíření záznamů DNS může trvat několik minut.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Na této stránce můžete přidávat nebo odstraňovat záznamy A, AAAA, CNAME, MX a TXT DNS. Upozorňujeme, že šíření záznamů DNS může trvat několik minut. <br/> Aby se některá z těchto změn projevila na názvu vaší domény, musíte nastavit jmenné servery na:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Přidat záznam';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Odstranit záznam(y)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Přidání záznamu DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Přebírá kontakty ze slu�
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Vytáhnout kontakty Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Tato funkce vyžaduje, aby doména používala následující jmenné servery: ns1.dnsowl.com, ns2.dnsowl.com a ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Doména není k dispozici k registraci.';
+$lang['Namesilo.back_to_manage'] = 'Zpět';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Akce';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Jedno nebo více polí obsahuje speciální znaky (např. písmena s diakritikou). NameSilo nemusí tyto znaky v polích kontaktů podporovat.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Předávání domén';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Přesměrování domény se automaticky odstraní, když doméně přidělíte něco jiného, například změnu jmenných serverů nebo změnu primárních záznamů A pro @ a www. <br/> Aby se některá z těchto změn projevila na názvu domény, musíte nastavit jmenné servery na:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Doména';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Dopředu na';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metoda předávání';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Trvalý posun vpřed (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Dočasný posun vpřed (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Maskovaný';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktivní';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Odstranit';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Aktualizovat speditéry';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'Adresa URL pro přeposílání je neplatná. Ujistěte se, že používáte protokol HTTPS nebo HTTP.';
 

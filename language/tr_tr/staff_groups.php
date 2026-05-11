@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Elek
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Getir Kupon Paketi Seçenek Bilgisi';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Getir Kupon Paket Seçenekleri';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Alıntıları Listele';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'YAPAY ZEKA';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'E-posta Şablonu Anlık Görüntüsünü Geri Yükleme';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Sistem Bütünlüğü Kontrolü';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.package_fields.backups'] = 'Limite de sauvegarde (en o
 $lang['PterodactylPackage.package_fields.tooltip.backups'] = 'Nombre total de sauvegardes qu\'un utilisateur est autorisé à effectuer pour les serveurs créés. Laisser vide pour autoriser un nombre illimité de sauvegardes.';
 $lang['PterodactylPackage.package_fields.optional'] = '%1$s (Facultatif)';
 $lang['PterodactylPackage.package_fields.tooltip.display'] = 'Cochez cette case pour permettre aux clients de modifier cette valeur lors de l\'ajout ou de la modification d\'un service. Ne cochez pas cette case si vous prévoyez d\'utiliser une option configurable pour ce champ.';
+$lang['Pterodactyl.back_to_manage'] = 'Retour';
 

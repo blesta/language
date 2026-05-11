@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = '서버';
 $lang['VirtfusionDirectProvisioning.module_row'] = '서버';
 $lang['VirtfusionDirectProvisioning.description'] = 'VirtFusion Blesta 다이렉트 프로비저닝 모듈은 Blesta와 VirtFusion 간의 직접 로그인 브리지를 통해 서버를 생성, 종료, 일시 중단 및 일시 중단 해제할 수 있는 간단한 모듈입니다.';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = '뒤로';
 

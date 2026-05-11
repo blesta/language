@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['StripePayments.warning_migrate_accounts'] = '在使用此迁移工具之�
 $lang['StripePayments.text_migrate_accounts'] = '您可以自动将旧 Stripe 网关异地存储的付款账户迁移到此 Stripe Payments 网关。非异地存储的账户必须通过手动创建新的支付账户来迁移。为防止超时，迁移将以 %1$s 为单位分批进行。根据迁移所有付款账户的需要多次运行此操作。';
 $lang['StripePayments.text_accounts_remaining'] = '剩余账户： %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = '迁移旧付款账户';
-$lang['StripePayments.webhook_note'] = '建议将以下网址配置为 Stripe 账户中 "payment_intent "事件的 Webhook。';
+$lang['StripePayments.webhook_note'] = '建议将以下网址配置为 Stripe 账户中 "payment_intent "和 "charge "事件的 Webhook。';
 $lang['StripePayments.webhook'] = 'Stripe Webhook';
 $lang['StripePayments.tooltip_secret_key'] = '您的 API 密钥适用于实时模式或测试模式。请确保您使用了正确的密钥。';
 $lang['StripePayments.tooltip_publishable_key'] = '您的 API 可发布密钥适用于实时模式或测试模式。请确保您使用的是正确的密钥。';

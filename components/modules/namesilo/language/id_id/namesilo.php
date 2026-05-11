@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -138,7 +138,7 @@ $lang['Namesilo.dns_records.record_type.cname_record'] = 'Catatan CNAME';
 $lang['Namesilo.dns_records.record_type.aaaa_record'] = 'Rekor AAAA';
 $lang['Namesilo.dns_records.record_type.a_record'] = 'Sebuah Catatan';
 $lang['Namesilo.dnsrecord.record_type'] = 'Jenis';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Pada halaman ini Anda dapat menambah atau menghapus catatan DNS A, AAAA, CNAME, MX, dan TXT. Harap diperhatikan bahwa mungkin diperlukan beberapa menit untuk menyebarkan catatan DNS.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'Pada halaman ini Anda dapat menambah atau menghapus catatan DNS A, AAAA, CNAME, MX, dan TXT. Harap diperhatikan bahwa mungkin diperlukan waktu beberapa menit untuk menyebarkan catatan DNS. <br/> Agar perubahan ini tercermin pada nama domain Anda, Anda harus mengatur server nama ke:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Tambah Catatan';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Menghapus Catatan(-catatan)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Menambahkan Catatan DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Menarik kontak dari namesil
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Tarik Kontak Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Fitur ini mengharuskan domain menggunakan server nama berikut ini: ns1.dnsowl.com, ns2.dnsowl.com, dan ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Domain ini tidak tersedia untuk pendaftaran.';
+$lang['Namesilo.back_to_manage'] = 'Kembali';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Tindakan';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Satu atau beberapa bidang berisi karakter khusus (misalnya huruf beraksen). NameSilo mungkin tidak mendukung karakter-karakter ini di bidang kontak.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Penerusan Domain';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'Penerusan domain akan dihapus secara otomatis saat Anda memberikan domain hal lain yang harus dilakukan, seperti mengubah server nama, atau mengubah catatan A primer untuk @ dan www. <br/> Agar perubahan ini tercermin pada nama domain, Anda harus mengatur server nama ke:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Domain';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Teruskan ke';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metode Penerusan';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Maju Permanen (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Maju Sementara (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Berjubah';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Aktif';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Menghapus';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Perbarui Pengirim';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'URL penerusan tidak valid. Pastikan untuk menggunakan HTTPS atau HTTP.';
 

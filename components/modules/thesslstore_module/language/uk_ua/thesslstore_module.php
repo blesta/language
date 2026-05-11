@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Будь лас
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Будь ласка, введіть ім\'я реселлера';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Облікові дані вже існують';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Щось пішло не так у виклику API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Жодного товару не було повернуто з API. Будь ласка, перевірте свої облікові дані API та спробуйте ще раз.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = 'Націнка % буде застосована до ціни всіх товарів. Ви можете змінити її пізніше в меню налаштування ціни.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Змінити адресу електронної пошти';
 

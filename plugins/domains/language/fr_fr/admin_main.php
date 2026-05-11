@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -24,7 +24,7 @@ $lang['AdminMain.index.heading_daterenews'] = 'Date Renouvellement';
 $lang['AdminMain.index.heading_dateexpires'] = 'Date d\'expiration';
 $lang['AdminMain.index.heading_datesuspended'] = 'Date de suspension';
 $lang['AdminMain.index.heading_datecanceled'] = 'Date d\'annulation';
-$lang['AdminMain.index.heading_options'] = 'Options';
+$lang['AdminMain.index.heading_options'] = 'Actions';
 $lang['AdminMain.index.category_active'] = 'Actif';
 $lang['AdminMain.index.category_pending'] = 'En attente';
 $lang['AdminMain.index.category_suspended'] = 'Suspendu';
@@ -58,7 +58,7 @@ $lang['AdminMain.!success.service_edited'] = 'Le domaine a été mis à jour ave
 $lang['AdminMain.!error.unsupported_domain'] = 'Le nom de domaine n\'est pas pris en charge.';
 $lang['AdminMain.index.unparent'] = 'Unparent et Reset Price';
 $lang['AdminMain.add.boxtitle_client'] = 'Client #%1$s';
-$lang['AdminMain.add.boxtitle_add'] = 'Ajouter un domaine : %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'Ajouter un domaine %1$s';
 $lang['AdminMain.add.link_viewclient'] = 'Voir le client';
 $lang['AdminMain.add.field_transfer'] = 'Transfert';
 $lang['AdminMain.add.field_register'] = 'Registre';
@@ -79,7 +79,7 @@ $lang['AdminMain.add.title_basic_options'] = 'Options de base';
 $lang['AdminMain.add.title_registrar_options'] = 'Options du registraire';
 $lang['AdminMain.add.heading_domain'] = 'Domaine';
 $lang['AdminMain.add.heading_status'] = 'Statut';
-$lang['AdminMain.add.heading_options'] = 'Options';
+$lang['AdminMain.add.heading_options'] = 'Actions';
 $lang['AdminMain.add.text_domain_available'] = 'Disponible';
 $lang['AdminMain.add.text_domain_unavailable'] = 'Indisponible';
 $lang['AdminMain.add.term_day'] = 'Jour %1$s';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'Rafraîchir';
 $lang['AdminMain.index.tooltip_transferred'] = 'Le domaine a été transféré du bureau d\'enregistrement.';
 $lang['AdminMain.!success.remove_price_override'] = 'Le prix d\'annulation du domaine a été supprimé !';
 $lang['AdminMain.!success.set_price_override'] = 'Le prix de la dérogation pour le domaine a été mis à jour !';
+$lang['AdminMain.add.heading_search'] = 'Recherche de domaine';
+$lang['AdminMain.add.field_domain'] = 'Domaine';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'Pleins feux sur les TLD';
+$lang['AdminMain.add.link_more_tlds'] = 'Plus de TLD';
+$lang['AdminMain.add.button_cancel'] = 'Annuler';
+$lang['AdminMain.add.button_previous'] = 'Précédent';
+$lang['AdminMain.add.button_continue'] = 'Continuer';
+$lang['AdminMain.add_confirmation.total'] = 'Total :';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'Postes de travail';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'Code des coupons';
+$lang['AdminMain.add_confirmation.heading_total'] = 'Commande Total';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Saisir le code du coupon';
+$lang['AdminMain.edit.text_select_action'] = 'Cliquez sur un bouton ci-dessus pour afficher le formulaire permettant d\'effectuer une action.';
+$lang['AdminMain.edit.text_no_fields'] = 'Cette action ne nécessite aucune option supplémentaire. Cliquez sur Soumettre pour continuer.';
 

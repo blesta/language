@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -77,4 +77,7 @@ $lang['Pterodactyl.tab_client_actions.status_stopping'] = 'Arrêter';
 $lang['Pterodactyl.!actions.start'] = 'Démarrage';
 $lang['Pterodactyl.!actions.stop'] = 'Arrêter';
 $lang['Pterodactyl.!actions.restart'] = 'Redémarrage';
+$lang['Pterodactyl.back_to_manage'] = 'Retour';
+$lang['Pterodactyl.manage.tab_rows'] = 'Serveurs';
+$lang['Pterodactyl.manage.tab_groups'] = 'Groupes de serveurs';
 

@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyClientOptions.addcustomfield.field.checkbox_value'] = 'Valor';
-$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Adicionar campo personalizado';
+$lang['AdminCompanyClientOptions.addcustomfield.field.addsubmit'] = 'Criar campo personalizado';
 $lang['AdminCompanyClientOptions.requiredfields.text_submit'] = 'Atualizar configurações';
 $lang['AdminCompanyClientOptions.requiredfields.field_fax'] = 'Fax';
 $lang['AdminCompanyClientOptions.requiredfields.field_phone'] = 'Telefone';
@@ -45,7 +45,7 @@ $lang['AdminCompanyClientOptions.editcustomfield.categorylink_select'] = 'Adicio
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_text'] = 'Valor de texto padrão';
 $lang['AdminCompanyClientOptions.editcustomfield.field.default_checkbox'] = 'Valor padrão verificado';
 $lang['AdminCompanyClientOptions.editcustomfield.field.checkbox_value'] = 'Valor';
-$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Editar campo personalizado';
+$lang['AdminCompanyClientOptions.editcustomfield.field.editsubmit'] = 'Atualizar campo personalizado';
 $lang['AdminCompanyClientOptions.editcustomfield.field.encrypted'] = 'Criptografar valores';
 $lang['AdminCompanyClientOptions.editcustomfield.field.regex'] = 'Regex personalizado';
 $lang['AdminCompanyClientOptions.editcustomfield.field.required'] = 'Necessário';
@@ -88,7 +88,7 @@ $lang['AdminCompanyClientOptions.customfields.text_name'] = 'Nome';
 $lang['AdminCompanyClientOptions.customfields.categorylink_addfield'] = 'Criar campo';
 $lang['AdminCompanyClientOptions.customfields.boxtitle_browse'] = 'Pesquisar campos personalizados do cliente';
 $lang['AdminCompanyClientoptions.customfields.page_title'] = 'Configurações > Empresa > Opções do cliente > Campos personalizados do cliente > Pesquisar';
-$lang['AdminCompanyClientOptions.general.text_submit'] = 'Enviar';
+$lang['AdminCompanyClientOptions.general.text_submit'] = 'Atualizar configurações';
 $lang['AdminCompanyClientOptions.general.prevent_unverified_payments'] = 'Impedir pagamentos de clientes não verificados';
 $lang['AdminCompanyClientOptions.general.field_clients_increment'] = 'Valor de incremento da ID do cliente';
 $lang['AdminCompanyClientOptions.general.field_clients_start'] = 'ID do cliente Valor inicial';

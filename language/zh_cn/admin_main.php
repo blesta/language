@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = '将部件从右侧拖到左侧可将其添加到仪表板，从左侧拖到右侧可将其移除。';
 $lang['AdminMain.index.customize_dashboard'] = '自定义仪表板';
 $lang['AdminMain.index.manage_widgets'] = '管理小工具';
-$lang['AdminMain.index.no_quicklinks'] = '未设置快速链接。';
+$lang['AdminMain.index.no_quicklinks'] = '还没有快速链接。点击任何页面上的星形图标，即可将其添加到此处。';
 $lang['AdminMain.index.heading_quicklinks'] = '快速链接';
 $lang['AdminMain.index.page_title'] = '仪表板';
 $lang['AdminMain.!success.event_deleted'] = '事件已成功删除！';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = '事件已成功更新！';
 $lang['AdminMain.!success.event_added'] = '事件已成功添加！';
 $lang['AdminMain.!error.event_editable'] = '只有事件的创建者才能删除该事件。';
 $lang['AdminMain.!error.delete_event.staff_id'] = '只有事件的创建者可以删除此事件。';
+$lang['AdminMain.index.modal_manage_widgets_title'] = '管理仪表板小部件';
+$lang['AdminMain.index.modal_manage_widgets_close'] = '关闭';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = '移除快速链接';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = '您确定要从快速链接中删除 "%1$s" 吗？';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = '移除';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = '取消';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = '点击小部件可在仪表板上显示或隐藏它们。';
+$lang['AdminMain.calendar.category_list'] = '列表';
+$lang['AdminMain.calendar.category_today'] = '今天';
 

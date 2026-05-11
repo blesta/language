@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -120,4 +120,7 @@ $lang['OvhDomains.nameserver.ns2'] = 'Nameserver 2';
 $lang['OvhDomains.nameserver.ns3'] = 'Nameserver 3';
 $lang['OvhDomains.nameserver.ns4'] = 'Nameserver 4';
 $lang['OvhDomains.nameserver.ns5'] = 'Nameserver 5';
+$lang['OvhDomains.back_to_manage'] = 'Tilbage';
+$lang['OvhDomains.manage.tab_rows'] = 'Servere';
+$lang['OvhDomains.manage.tab_groups'] = 'Servergrupper';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'ID-ul grupului de clienți inv
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât valoarea minimă.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Valoarea maximă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Valoarea minimă a creditului pentru %1$s trebuie să fie mai mare decât 0.';
+$lang['Clients.!error.action[].exists'] = 'Acțiune de notificare invalidă.';
+$lang['Clients.!error.action.exists'] = 'Acțiune de notificare invalidă "%1$s".';
 

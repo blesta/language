@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -202,4 +202,5 @@ $lang['Opensrs.module_row_plural'] = '계정';
 $lang['Opensrs.module_row'] = '계정';
 $lang['Opensrs.description'] = 'OpenSRS는 리셀러 파트너에게 필요한 솔루션을 연결해주는 프리미엄 화이트 라벨 플랫폼을 제공하는 도매 도메인 등록기관입니다.';
 $lang['Opensrs.name'] = 'OpenSRS';
+$lang['Opensrs.back_to_manage'] = '뒤로';
 

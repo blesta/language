@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = '다음 - 확인';
 $lang['AdminModule.features.text_remove'] = '제거';
-$lang['AdminModule.features.text_options'] = '옵션';
+$lang['AdminModule.features.text_options'] = '작업';
 $lang['AdminModule.features.cron_task_row_add'] = 'Cron 작업 추가';
 $lang['AdminModule.features.service_tab_row_add'] = '서비스 관리 탭 추가';
 $lang['AdminModule.features.placeholder_time'] = '예: 14:25 또는 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = '사용자가 Bles
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'EPP 코드';
 $lang['AdminModule.fields.features'] = '다음 - 추가 기능';
 $lang['AdminModule.fields.text_remove'] = '제거';
-$lang['AdminModule.fields.text_options'] = '옵션';
+$lang['AdminModule.fields.text_options'] = '작업';
 $lang['AdminModule.fields.service_row_add'] = '서비스 필드 추가';
 $lang['AdminModule.fields.package_row_add'] = '패키지 필드 추가';
 $lang['AdminModule.fields.module_row_add'] = '모듈 행 필드 추가';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLD';
 $lang['AdminModule.basic.static_tlds'] = '정적으로 TLD 정의';
 $lang['AdminModule.basic.text_remove'] = '제거';
 $lang['AdminModule.basic.author_row_add'] = '작성자 추가';
-$lang['AdminModule.basic.text_options'] = '옵션';
+$lang['AdminModule.basic.text_options'] = '작업';
 $lang['AdminModule.basic.author_url'] = '작성자 URL';
 $lang['AdminModule.basic.author_name'] = '작성자 이름';
 $lang['AdminModule.basic.module_type_registrar'] = '등록 기관';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminSearch.clients.no_results'] = 'Der er ingen klienter, der matcher s�
 $lang['AdminSearch.invoices.heading'] = 'Fakturaer';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Faktura #';
 $lang['AdminSearch.invoice.heading_client_id'] = 'Kunde-ID';
-$lang['AdminSearch.invoice.heading_amount'] = 'Valgmuligheder';
+$lang['AdminSearch.invoice.heading_amount'] = 'Beløb';
 $lang['AdminSearch.invoice.heading_paid'] = 'Betalt';
 $lang['AdminSearch.invoice.heading_due'] = 'På grund af';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Dato Lukket';
@@ -48,7 +48,7 @@ $lang['AdminSearch.transactions.heading_applied'] = 'Anvendt';
 $lang['AdminSearch.transactions.heading_number'] = 'Antal';
 $lang['AdminSearch.transactions.heading_status'] = 'Status';
 $lang['AdminSearch.transactions.heading_date'] = 'Dato';
-$lang['AdminSearch.transactions.heading_options'] = 'Valgmuligheder';
+$lang['AdminSearch.transactions.heading_options'] = 'Handlinger';
 $lang['AdminSearch.transactions.option_edit'] = 'Rediger';
 $lang['AdminSearch.transactions.no_results'] = 'Der er ingen transaktioner, der matcher søgekriterierne.';
 $lang['AdminSearch.packages.heading'] = 'Pakker';
@@ -68,4 +68,5 @@ $lang['AdminSearch.services.heading_date_renews'] = 'Dato Fornyer';
 $lang['AdminSearch.services.heading_status'] = 'Status';
 $lang['AdminSearch.services.text_never'] = 'Aldrig';
 $lang['AdminSearch.services.no_results'] = 'Der er ingen tjenester, der matcher søgekriterierne.';
+$lang['AdminSearch.invoice.heading_options'] = 'Handlinger';
 

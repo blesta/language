@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.add.boxtitle_adddocument'] = 'Nahrát dokument';
 $lang['AdminMain.modal.delete_document'] = 'Opravdu tento dokument vymazat?';
 $lang['AdminMain.index.option_download'] = 'Stáhnout';
 $lang['AdminMain.index.option_delete'] = 'Odstranit';
-$lang['AdminMain.index.heading_date_options'] = 'Možnosti';
+$lang['AdminMain.index.heading_date_options'] = 'Akce';
 $lang['AdminMain.index.heading_date_added'] = 'Datum přidání';
 $lang['AdminMain.index.heading_description'] = 'Popis';
 $lang['AdminMain.index.heading_name'] = 'Název';
@@ -29,4 +29,6 @@ $lang['AdminMain.add.page_title'] = 'Dokumenty > Přidat';
 $lang['AdminMain.index.page_title'] = 'Dokumenty';
 $lang['AdminMain.!success.document_deleted'] = 'Dokument byl smazán.';
 $lang['AdminMain.!success.document_uploaded'] = 'Dokument byl nahrán.';
+$lang['AdminMain.index.link_client'] = 'Zpět na klienta #%1$s';
+$lang['AdminMain.add.link_back'] = 'Zpět na dokumenty';
 

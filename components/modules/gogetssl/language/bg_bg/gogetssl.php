@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,4 +65,5 @@ $lang['GoGetSSL.!error.gogetssl_name.empty'] = 'Моля, въведете им�
 $lang['GoGetSSL.!error.api_password.empty'] = 'Моля, въведете парола за API.';
 $lang['GoGetSSL.!error.api_username.valid'] = 'Връзката със сървъра не може да бъде установена. Моля, проверете дали идентификационните данни на API са верни.';
 $lang['GoGetSSL.!error.api_username.empty'] = 'Моля, въведете потребителско име на API.';
+$lang['Gogetssl.back_to_manage'] = 'Обратно';
 

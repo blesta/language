@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Configurações > Empresa > 
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'A tarefa cron foi apagada.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'As configurações de automação foram atualizadas com sucesso!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Há tarefas de automação definidas para serem executadas a cada minuto, mas o cron não parece estar sendo executado a cada minuto. Atualize o cron para que seja executado a cada minuto e aproveite esses intervalos mais curtos.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Nenhuma execução de tarefa de automação foi registrada nas últimas 24 horas.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Ainda não concluído';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Em execução';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Concluído';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Execução';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Atualizar';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Linha do tempo de execução da tarefa - últimas 24 horas';
 

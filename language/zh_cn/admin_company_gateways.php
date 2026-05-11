@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,4 +66,6 @@ $lang['AdminCompanyGateways.installed.btn_save'] = '更新';
 $lang['AdminCompanyGateways.installed.text_default_gateways_desc'] = '为每种货币设置默认商户网关。';
 $lang['AdminCompanyGateways.installed.heading_default_gateways'] = '默认商户网关';
 $lang['AdminCompanyGateways.!success.default_gateways_updated'] = '已成功更新默认商户网关。';
+$lang['AdminCompanyGateways.text_filter_no_results'] = '未找到匹配网关。';
+$lang['AdminCompanyGateways.text_filter_placeholder'] = '过滤网关...';
 

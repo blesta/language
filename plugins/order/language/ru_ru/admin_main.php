@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = 'Уведомления о �
 $lang['AdminMain.orderinfo.services_no_results'] = 'В таком порядке услуги не предоставляются.';
 $lang['AdminMain.orderinfo.services_text_never'] = 'Никогда';
 $lang['AdminMain.orderinfo.services_option_manage'] = 'Управление';
-$lang['AdminMain.orderinfo.services_heading_options'] = 'Опции';
+$lang['AdminMain.orderinfo.services_heading_options'] = 'Действия';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = 'Дата обновления';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = 'Дата добавления';
 $lang['AdminMain.orderinfo.services_heading_term'] = 'Срок';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = 'Пакет';
 $lang['AdminMain.orderinfo.services_heading'] = 'Услуги';
 $lang['AdminMain.orderinfo.applied_no_results'] = 'К этому заказу не применяются никакие операции.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = 'Редактировать';
-$lang['AdminMain.orderinfo.applied_heading_options'] = 'Опции';
+$lang['AdminMain.orderinfo.applied_heading_options'] = 'Действия';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = 'Применяется на';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = 'Прикладная';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = 'Сумма';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = 'Заказы';
 $lang['AdminMain.!success.affiliate_settings_updated'] = 'Партнерские настройки были обновлены.';
 $lang['AdminMain.!success.settings_updated'] = 'Настройки вашего заказа были успешно обновлены.';
 $lang['AdminMain.!success.status_updated'] = 'Выбранные заказы были успешно обновлены.';
+$lang['AdminMain.index.paid'] = 'Оплачивается';
+$lang['AdminMain.index.unpaid'] = 'Неоплаченный';
+$lang['AdminMain.index.loading'] = 'Загрузка...';
+$lang['AdminMain.index.text_items_selected'] = 'выбранные элементы';
+$lang['AdminMain.orderinfo.applied_heading_id'] = 'Идентификатор транзакции';
+$lang['AdminMain.orderinfo.applied_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.applied_heading_date'] = 'Дата';
+$lang['AdminMain.orderinfo.services_heading_name'] = 'Сервис';
+$lang['AdminMain.orderinfo.services_heading_status'] = 'Статус';
+$lang['AdminMain.orderinfo.services_status_pending'] = 'В ожидании';
+$lang['AdminMain.settings.text_notifications'] = 'Настройте, как вы хотите получать уведомления о новых заказах.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = 'Настройте, как вы хотите получать уведомления о выплатах партнерам.';
 

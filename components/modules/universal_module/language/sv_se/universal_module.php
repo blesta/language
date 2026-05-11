@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_required'] = 'Välj ja för
 $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Detta är den typ av formulärfält som kommer att visas. Se verktygstipset Värden för information om hur du definierar värden för kryssrutor, radiofält och markerade fält.';
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Detta är det dolda formulärets fältnamn. Använd qty för att skapa ett kvantitetsfält.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Detta är den text som visas direkt ovanför formulärfältet.';
+$lang['UniversalModule.back_to_manage'] = 'Tillbaka';
 

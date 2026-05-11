@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,4 +71,8 @@ $lang['Enhance.module_row_plural'] = 'Серверы';
 $lang['Enhance.module_row'] = 'Сервер';
 $lang['Enhance.description'] = 'Enhance - это панель управления виртуальным хостингом нового поколения.';
 $lang['Enhance.name'] = 'Enhance';
+$lang['Enhance.back_to_manage'] = 'Назад';
+$lang['Enhance.manage.tab_rows'] = 'Серверы';
+$lang['Enhance.manage.tab_groups'] = 'Группы серверов';
+$lang['Enhance.package_fields.package_tooltip'] = 'Введите идентификатор плана из панели управления Enhance. Планы не удалось загрузить автоматически.';
 

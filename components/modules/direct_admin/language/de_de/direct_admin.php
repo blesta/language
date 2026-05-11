@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'Sie müssen ein Server-Label ei
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP-Adresse';
 $lang['DirectAdmin.!error.ip_address.format'] = 'Die IP-Adresse scheint ungültig zu sein.';
 $lang['DirectAdmin.row_meta.http_version'] = 'HTTP-Version';
+$lang['DirectAdmin.back_to_manage'] = 'Zurück';
+$lang['DirectAdmin.manage.tab_rows'] = 'Server';
+$lang['DirectAdmin.manage.tab_groups'] = 'Server-Gruppen';
 

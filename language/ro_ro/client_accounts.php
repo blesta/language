@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['ClientAccounts.index.type_cc'] = '%1$s - %2$s';
 $lang['ClientAccounts.index.option_delete'] = 'Ștergeți';
 $lang['ClientAccounts.index.option_verify'] = 'Verifică';
 $lang['ClientAccounts.index.option_edit'] = 'Editați';
-$lang['ClientAccounts.index.heading_options'] = 'Opțiuni';
+$lang['ClientAccounts.index.heading_options'] = 'Acțiuni';
 $lang['ClientAccounts.index.heading_last4'] = 'Ultimele 4';
 $lang['ClientAccounts.index.heading_type'] = 'Tip';
 $lang['ClientAccounts.index.heading_name'] = 'Nume';

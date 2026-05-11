@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,4 +40,42 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Akun';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Pengaturan pemberitahuan Anda berhasil diperbarui.';
 $lang['AdminMyinfo.!success.updated'] = 'Pengaturan akun Anda berhasil diperbarui.';
 $lang['AdminMyinfo.index.field_avatar'] = 'Gambar Profil';
+$lang['AdminMyinfo.!success.notifications_updated'] = 'Pengaturan notifikasi Anda berhasil diperbarui.';
+$lang['AdminMyinfo.gettabnames.text_notifications'] = 'Pemberitahuan';
+$lang['AdminMyinfo.index.heading_profile_picture'] = 'Gambar Profil';
+$lang['AdminMyinfo.index.heading_account_information'] = 'Informasi Akun';
+$lang['AdminMyinfo.index.heading_two_factor'] = 'Otentikasi Dua Faktor';
+$lang['AdminMyinfo.index.heading_additional_settings'] = 'Pengaturan Tambahan';
+$lang['AdminMyinfo.index.link_remove_avatar'] = 'Menghapus Gambar';
+$lang['AdminMyinfo.index.text_avatar_recommendation'] = 'Direkomendasikan: 150x150px, JPG atau PNG, maksimal 2MB';
+$lang['AdminMyinfo.index.text_scan_qr'] = 'Memindai dengan Aplikasi Authenticator';
+$lang['AdminMyinfo.index.text_authenticator_apps'] = 'Gunakan Google Authenticator, Authy, atau aplikasi yang kompatibel dengan TOTP';
+$lang['AdminMyinfo.notifications.page_title'] = 'Informasi Saya &gt; Pemberitahuan';
+$lang['AdminMyinfo.notifications.heading_notifications'] = 'Pemberitahuan';
+$lang['AdminMyinfo.notifications.field_notificationsubmit'] = 'Perbarui Pemberitahuan';
+$lang['AdminMyinfo.notifications.no_results'] = 'Tidak ada notifikasi yang tersedia untuk grup staf Anda.';
+$lang['AdminMyinfo.!success.iconbar_updated'] = 'Pengaturan bilah ikon Anda berhasil diperbarui.';
+$lang['AdminMyinfo.!success.iconbar_reset'] = 'Pengaturan bilah ikon Anda diatur ulang ke default.';
+$lang['AdminMyinfo.iconbar.page_title'] = 'Info Saya &gt; Bilah Ikon';
+$lang['AdminMyinfo.iconbar.heading_iconbar'] = 'Bilah Ikon';
+$lang['AdminMyinfo.iconbar.text_info'] = 'Mengonfigurasi ikon mana yang muncul di bilah ikon dan urutannya. Seret ikon untuk mengatur ulang, klik tombol edit untuk mengubah ikon, dan gunakan kotak centang untuk mengaktifkan atau menonaktifkan ikon. Bilah ikon menyediakan akses cepat ke fitur yang sering digunakan.';
+$lang['AdminMyinfo.iconbar.btn_save'] = 'Menyimpan Perubahan';
+$lang['AdminMyinfo.iconbar.btn_reset'] = 'Atur Ulang ke Default';
+$lang['AdminMyinfo.iconbar.btn_create_custom'] = 'Membuat Ikon Khusus';
+$lang['AdminMyinfo.iconbar.modal_create_title'] = 'Membuat Ikon Khusus';
+$lang['AdminMyinfo.iconbar.modal_edit_title'] = 'Ikon Edit';
+$lang['AdminMyinfo.iconbar.field_name'] = 'Nama';
+$lang['AdminMyinfo.iconbar.field_url'] = 'URL';
+$lang['AdminMyinfo.iconbar.field_icon_class'] = 'Kelas Ikon (Ikon Bootstrap)';
+$lang['AdminMyinfo.iconbar.field_item_name'] = 'Nama barang';
+$lang['AdminMyinfo.iconbar.text_name_description'] = 'Masukkan nama untuk item bilah ikon ini';
+$lang['AdminMyinfo.iconbar.text_url_description'] = 'Masukkan URL yang harus ditautkan ke ikon ini';
+$lang['AdminMyinfo.iconbar.text_icon_description'] = 'Masukkan nama kelas Ikon Bootstrap (misalnya, bi-grid, bi-people, bi-calendar-event).';
+$lang['AdminMyinfo.iconbar.text_browse_icons'] = 'Jelajahi ikon';
+$lang['AdminMyinfo.iconbar.btn_modal_apply'] = 'Menerapkan';
+$lang['AdminMyinfo.iconbar.btn_modal_create'] = 'Buat Ikon';
+$lang['AdminMyinfo.iconbar.btn_modal_cancel'] = 'Batal';
+$lang['AdminMyinfo.iconbar.confirm_reset'] = 'Apakah Anda yakin ingin mengatur ulang bilah ikon ke pengaturan default?';
+$lang['AdminMyinfo.iconbar.field_show_ai_chatbot'] = 'Tampilkan Ikon Chatbot';
+$lang['AdminMyinfo.iconbar.text_show_ai_chatbot'] = 'Menampilkan ikon chatbot AI di bilah ikon. Hapus centang untuk menghapus.';
 

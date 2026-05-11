@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_required'] = 'Selezionare S
 $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'È il tipo di campo del modulo che verrà visualizzato. Per definire i valori dei campi checkbox, radio e select, consultare la sezione Valori.';
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'È il nome del campo nascosto del modulo. Utilizzare qty per creare un campo quantità.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'È il testo che appare direttamente sopra il campo del modulo.';
+$lang['UniversalModule.back_to_manage'] = 'Indietro';
 

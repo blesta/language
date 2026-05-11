@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.tab_client_stats.no_results'] = 'Statistiske oplysninger er i
 $lang['DirectAdmin.row_meta.ip_address'] = 'IP-adresse';
 $lang['DirectAdmin.!error.ip_address.format'] = 'IP-adressen ser ud til at være ugyldig.';
 $lang['DirectAdmin.row_meta.http_version'] = 'HTTP-version';
+$lang['DirectAdmin.back_to_manage'] = 'Tilbage';
+$lang['DirectAdmin.manage.tab_rows'] = 'Servere';
+$lang['DirectAdmin.manage.tab_groups'] = 'Servergrupper';
 

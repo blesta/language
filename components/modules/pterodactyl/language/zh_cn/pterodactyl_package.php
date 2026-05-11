@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = '端口范围格式
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = '是否使用专用 IP 必须设置为 1 或 0。';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = '位置 ID 与翼手龙中的任何位置都不匹配。';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = '位置 ID 必须是数字。';
+$lang['Pterodactyl.back_to_manage'] = '返回';
 

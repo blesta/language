@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'الفواتير';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'تصفح العملاء';
 $lang['Navigation.getprimary.nav_clients'] = 'العملاء';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'لوحة التحكم';
-$lang['Navigation.getprimary.nav_home'] = 'الصفحة الرئيسية';
+$lang['Navigation.getprimary.nav_home'] = 'لوحة التحكم';
 $lang['Navigation.!error.parent_id.valid'] = 'معرف عنصر التنقل الأصلي غير صالح';
 $lang['Navigation.!error.order.valid'] = 'يجب أن يكون فهرس الطلب قيمة رقمية';
 $lang['Navigation.!error.action_id.valid'] = 'معرف الإجراء غير صالح';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'قائمة انتظار
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'تغييرات الخدمة';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'الفواتير الإلكترونية';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'التعامل مع الائتمان';
+$lang['Navigation.getsystem.nav_ai'] = 'الذكاء الاصطناعي';
 

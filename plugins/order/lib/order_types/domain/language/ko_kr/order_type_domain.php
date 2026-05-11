@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['OrderTypeDomain.settings.field_search'] = 'TLD 검색';
 $lang['Main.steps.step_1_description'] = '도메인 선택';
-$lang['OrderTypeDomain.settings.heading_options'] = '옵션';
+$lang['OrderTypeDomain.settings.heading_options'] = '작업';
 $lang['OrderTypeDomain.settings.heading_period'] = '기간';
 $lang['OrderTypeDomain.settings.heading_term'] = '기간';
 $lang['OrderTypeDomain.settings.text_term'] = '최소 기간 및 기간';

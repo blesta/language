@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -13,7 +13,7 @@ $lang['AdminReportsCustomize.edit.field_submit'] = 'Spara';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Ta bort';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Anpassad Regex';
 $lang['AdminReportsCustomize.edit.field_values'] = 'Värden (kommaseparerade)';
-$lang['AdminReportsCustomize.edit.table_options'] = 'Alternativ';
+$lang['AdminReportsCustomize.edit.table_options'] = 'Åtgärder';
 $lang['AdminReportsCustomize.edit.table_required'] = 'Obligatoriskt';
 $lang['AdminReportsCustomize.edit.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.edit.table_label'] = 'Etikett';
@@ -27,7 +27,7 @@ $lang['AdminReportsCustomize.add.field_submit'] = 'Spara';
 $lang['AdminReportsCustomize.add.text_remove'] = 'Ta bort';
 $lang['AdminReportsCustomize.add.field_regex'] = 'Anpassad Regex';
 $lang['AdminReportsCustomize.add.field_values'] = 'Värden (kommaseparerade)';
-$lang['AdminReportsCustomize.add.table_options'] = 'Alternativ';
+$lang['AdminReportsCustomize.add.table_options'] = 'Åtgärder';
 $lang['AdminReportsCustomize.add.table_required'] = 'Obligatoriskt';
 $lang['AdminReportsCustomize.add.table_type'] = 'Typ';
 $lang['AdminReportsCustomize.add.table_label'] = 'Etikett';
@@ -42,7 +42,7 @@ $lang['AdminReportsCustomize.index.btn_add_report'] = 'Lägg till rapport';
 $lang['AdminReportsCustomize.index.table_confirm_delete'] = 'Är du säker på att du vill radera denna rapport?';
 $lang['AdminReportsCustomize.index.table_option_delete'] = 'Radera';
 $lang['AdminReportsCustomize.index.table_option_edit'] = 'Redigera';
-$lang['AdminReportsCustomize.index.table_options'] = 'Alternativ';
+$lang['AdminReportsCustomize.index.table_options'] = 'Åtgärder';
 $lang['AdminReportsCustomize.index.table_created'] = 'Skapat datum';
 $lang['AdminReportsCustomize.index.table_name'] = 'Namn';
 $lang['AdminReportsCustomize.index.page_title'] = 'Rapporter om fakturering';

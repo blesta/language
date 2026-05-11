@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'Ідентифікатор �
 $lang['MulticraftService.!error.server_id.format'] = 'Ідентифікатор сервера повинен бути цілим числом або залишений порожнім.';
 $lang['MulticraftService.!error.client'] = 'Не знайдено жодного клієнта, з якого можна було б створити користувача Multicraft.';
 $lang['MulticraftService.!error.internal'] = 'Сталася внутрішня помилка або сервер не відповів на запит.';
+$lang['Multicraft.back_to_manage'] = 'Назад';
 

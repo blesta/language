@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -200,4 +200,7 @@ $lang['StaffGroups.permissions.admin_company_electronic_invoices_index'] = 'Fakt
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptiondetails'] = 'Ambil Info Opsi Paket Kupon';
 $lang['StaffGroups.permissions.admin_company_billing_getpackageoptions'] = 'Ambil Opsi Paket Kupon';
 $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Daftar Kutipan';
+$lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
+$lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Kembalikan Cuplikan Templat Email';
+$lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Pemeriksaan Integritas Sistem';
 

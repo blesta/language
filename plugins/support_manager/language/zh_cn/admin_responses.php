@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.!success.response_added'] = '响应 %1$s 已成功添加�
 $lang['AdminResponses.!success.category_deleted'] = '类别 %1$s 已成功删除。';
 $lang['AdminResponses.!success.category_updated'] = '类别 %1$s 已成功更新。';
 $lang['AdminResponses.!success.category_added'] = '类别 %1$s 已成功添加。';
+$lang['AdminResponses.index.btn_back'] = '返回';
+$lang['AdminResponses.index.btn_add_category'] = '添加类别';
+$lang['AdminResponses.index.btn_add_response'] = '添加回复';
 

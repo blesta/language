@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = '密码';
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = '用户名';
 $lang['Cpanel.tab_client_login.logintocpanel'] = '登录 cPanel';
 $lang['Cpanel.tab_client_login'] = '登录 cPanel';
+$lang['Cpanel.back_to_manage'] = '返回';
+$lang['Cpanel.manage.tab_rows'] = '服务器';
+$lang['Cpanel.manage.tab_groups'] = '服务器组';
 

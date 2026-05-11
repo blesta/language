@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Wtyczka została pomyślnie wł
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Wtyczka została pomyślnie zaktualizowana.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Wtyczka została pomyślnie odinstalowana.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Wtyczka została pomyślnie zainstalowana. Mogła ona zarejestrować uprawnienia ACL dla różnych zasobów. Aby uzyskać dostęp do tych zasobów, konieczne może być przyznanie grupie pracowników dostępu do tych uprawnień.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Wtyczki filtrujące...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Nie znaleziono pasujących wtyczek.';
 

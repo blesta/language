@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = 'Det finns inga förlängningar
 $lang['AdminMain.index.text_confirm_delete'] = 'Är du säker på att du vill ta bort detta tillägg?';
 $lang['AdminMain.index.option_delete'] = 'Radera';
 $lang['AdminMain.index.option_edit'] = 'Redigera';
-$lang['AdminMain.index.heading_options'] = 'Alternativ';
+$lang['AdminMain.index.heading_options'] = 'Åtgärder';
 $lang['AdminMain.index.heading_date_updated'] = 'Datum för uppdatering';
 $lang['AdminMain.index.heading_code_examples'] = 'Exempel på koder';
 $lang['AdminMain.index.heading_form_type'] = 'Formulär Typ';

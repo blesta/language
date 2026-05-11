@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['StripePayments.warning_migrate_accounts'] = 'لا تقم بإلغاء ت�
 $lang['StripePayments.text_migrate_accounts'] = 'يمكنك ترحيل حسابات الدفع المخزنة خارج الموقع بواسطة بوابة Stripe القديمة تلقائيًا إلى بوابة Stripe Payments هذه. يجب ترحيل الحسابات غير المخزنة خارج الموقع عن طريق إنشاء حسابات دفع جديدة يدويًا. من أجل منع المهلات، ستتم عمليات الترحيل على دفعات %1$s. قم بتشغيل هذا عدة مرات حسب الحاجة لترحيل جميع حسابات الدفع.';
 $lang['StripePayments.text_accounts_remaining'] = 'الحسابات المتبقية: %1$s';
 $lang['StripePayments.heading_migrate_accounts'] = 'ترحيل حسابات الدفع القديمة';
-$lang['StripePayments.webhook_note'] = 'يوصى بتهيئة عنوان url التالي كخطاف ويب لأحداث "payment_intent" في حساب Stripe الخاص بك.';
+$lang['StripePayments.webhook_note'] = 'يوصى بتهيئة عنوان url التالي كخطاف ويب لأحداث "payment_intent" و"الشحن" في حساب Stripe الخاص بك.';
 $lang['StripePayments.webhook'] = 'خطاف الويب الشريطي';
 $lang['StripePayments.tooltip_secret_key'] = 'المفتاح السري لواجهة برمجة التطبيقات خاص بالوضع المباشر أو الاختباري. تأكد من أنك تستخدم المفتاح الصحيح.';
 $lang['StripePayments.tooltip_publishable_key'] = 'مفتاح API القابل للنشر خاص بالوضع المباشر أو الاختباري. تأكد من أنك تستخدم المفتاح الصحيح.';

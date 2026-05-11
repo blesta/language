@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -153,4 +153,7 @@ $lang['Cpanel.tab_client_login.field_cpanel_password'] = '비밀번호';
 $lang['Cpanel.tab_client_login.field_cpanel_username'] = '사용자 이름';
 $lang['Cpanel.tab_client_login.logintocpanel'] = 'cPanel에 로그인';
 $lang['Cpanel.tab_client_login'] = 'cPanel에 로그인';
+$lang['Cpanel.back_to_manage'] = '뒤로';
+$lang['Cpanel.manage.tab_rows'] = '서버';
+$lang['Cpanel.manage.tab_groups'] = '서버 그룹';
 

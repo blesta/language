@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['AdminSystemStaff.editgroup.heading_subscription_email_notices'] = '电子
 $lang['AdminSystemStaff.editgroup.heading_email_notices'] = '通过电子邮件发送 BCC 通知';
 $lang['AdminSystemStaff.editgroup.heading_permissions'] = '访问控制列表';
 $lang['AdminSystemStaff.editgroup.heading_general'] = '一般情况';
-$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = '编辑组';
+$lang['AdminSystemStaff.editgroup.field_groupsubmit'] = '更新小组';
 $lang['AdminSystemStaff.editgroup.field_session_lock'] = '更改 IP 地址时退出登录';
 $lang['AdminSystemStaff.editgroup.field_company'] = '公司名称';
 $lang['AdminSystemStaff.editgroup.field_name'] = '名称';
@@ -40,14 +40,14 @@ $lang['AdminSystemStaff.!groups.text_separator'] = '/';
 $lang['AdminSystemStaff.groups.modal_delete'] = '您确定要删除这个员工组吗？';
 $lang['AdminSystemStaff.groups.option_edit'] = '编辑';
 $lang['AdminSystemStaff.groups.no_results'] = '没有工作人员小组。';
-$lang['AdminSystemStaff.groups.heading_options'] = '选项';
+$lang['AdminSystemStaff.groups.heading_options'] = '行动';
 $lang['AdminSystemStaff.groups.heading_staff'] = '工作人员数量';
 $lang['AdminSystemStaff.groups.heading_company_name'] = '公司名称';
 $lang['AdminSystemStaff.groups.heading_name'] = '名称';
 $lang['AdminSystemStaff.groups.categorylink_addgroup'] = '创建组';
 $lang['AdminSystemStaff.groups.boxtitle_groups'] = '工作人员团体';
 $lang['AdminSystemStaff.groups.page_title'] = '设置 > 系统 > 员工 > 员工组';
-$lang['AdminSystemStaff.edit.field_editsubmit'] = '编辑人员';
+$lang['AdminSystemStaff.edit.field_editsubmit'] = '更新工作人员';
 $lang['AdminSystemStaff.edit.text_availablegroups'] = '可用组别';
 $lang['AdminSystemStaff.edit.text_membergroups'] = '成员组';
 $lang['AdminSystemStaff.edit.field_twofactorpin'] = '双因素引脚';
@@ -92,7 +92,7 @@ $lang['AdminSystemStaff.manage.option_edit'] = '编辑';
 $lang['AdminSystemStaff.manage.confirm_reactivate'] = '真的要重新启用这名工作人员？';
 $lang['AdminSystemStaff.manage.confirm_deactivate'] = '真的要停用这名工作人员吗？';
 $lang['AdminSystemStaff.manage.no_results'] = '没有任何工作人员具有这种身份。';
-$lang['AdminSystemStaff.manage.heading_options'] = '选项';
+$lang['AdminSystemStaff.manage.heading_options'] = '行动';
 $lang['AdminSystemStaff.manage.heading_email'] = '电子邮件';
 $lang['AdminSystemStaff.manage.heading_name'] = '名称';
 $lang['AdminSystemStaff.manage.categorylink_addstaff'] = '增加工作人员';
@@ -105,4 +105,6 @@ $lang['AdminSystemStaff.!success.group_updated'] = '员工组"%1$s "已成功更
 $lang['AdminSystemStaff.!success.group_added'] = '员工组"%1$s "已成功创建！';
 $lang['AdminSystemStaff.!success.staff_updated'] = '该工作人员已成功更新！';
 $lang['AdminSystemStaff.!success.staff_added'] = '该工作人员已成功添加！';
+$lang['AdminSystemStaff.addgroup.heading_notifications'] = '通知';
+$lang['AdminSystemStaff.editgroup.heading_notifications'] = '通知';
 

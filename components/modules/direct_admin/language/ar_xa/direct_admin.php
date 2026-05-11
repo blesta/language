@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.server_name.empty'] = 'يجب إدخال تسمية ا
 $lang['DirectAdmin.!error.ip_address.format'] = 'يبدو أن عنوان IP غير صالح.';
 $lang['DirectAdmin.row_meta.ip_address'] = 'عنوان IP';
 $lang['DirectAdmin.row_meta.http_version'] = 'إصدار HTTP';
+$lang['DirectAdmin.back_to_manage'] = 'رجوع';
+$lang['DirectAdmin.manage.tab_rows'] = 'الخوادم';
+$lang['DirectAdmin.manage.tab_groups'] = 'مجموعات الخوادم';
 

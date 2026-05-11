@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -45,7 +45,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Gruppi di genitori';
 $lang['AdminPackages.groups.confirm_delete'] = 'Siete sicuri di voler eliminare questo gruppo di pacchetti? I pacchetti assegnati a questo gruppo non saranno più assegnati a questo gruppo e potrebbero diventare inutilizzabili.';
 $lang['AdminPackages.groups.option_delete'] = 'Cancellare';
 $lang['AdminPackages.groups.option_edit'] = 'Modifica';
-$lang['AdminPackages.groups.heading_options'] = 'Opzioni';
+$lang['AdminPackages.groups.heading_options'] = 'Azioni';
 $lang['AdminPackages.groups.heading_type'] = 'Tipo';
 $lang['AdminPackages.groups.heading_name'] = 'Nome';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Gruppi di pacchetti';
@@ -198,12 +198,12 @@ $lang['AdminPackages.index.no_results'] = 'Non ci sono pacchetti con questo stat
 $lang['AdminPackages.index.option_delete'] = 'Cancellare';
 $lang['AdminPackages.index.option_copy'] = 'Copia';
 $lang['AdminPackages.index.option_edit'] = 'Modifica';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Invia';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Applicare';
 $lang['AdminPackages.index.action.delete'] = 'Eliminare i pacchetti';
 $lang['AdminPackages.index.category_inactive'] = 'Inattivo';
 $lang['AdminPackages.index.category_restricted'] = 'Limitato';
 $lang['AdminPackages.index.category_active'] = 'Attivo';
-$lang['AdminPackages.index.heading_options'] = 'Opzioni';
+$lang['AdminPackages.index.heading_options'] = 'Azioni';
 $lang['AdminPackages.index.heading_qty'] = 'Quantità';
 $lang['AdminPackages.index.heading_module'] = 'Modulo';
 $lang['AdminPackages.index.heading_name'] = 'Nome';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_added'] = 'Il pacchetto è stato creato co
 $lang['AdminPackages.edit.text_default'] = 'Predefinito';
 $lang['AdminPackages.add.text_default'] = 'Predefinito';
 $lang['AdminPackages.!tooltip.single_term'] = 'Se questa opzione è selezionata, i nuovi servizi che utilizzano questo Pacchetto non si rinnoveranno, ma saranno automaticamente cancellati al termine della loro durata iniziale.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Testo dell\'e-mail generato:';
+$lang['AdminPackages.ai.email_preview_html'] = 'HTML dell\'e-mail generata:';
+$lang['AdminPackages.ai.email_use_button'] = 'Utilizza questa e-mail';
+$lang['AdminPackages.ai.email_generating'] = 'Generazione di e-mail...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Descrivete il contenuto dell\'e-mail di benvenuto (ad esempio, "Benvenuto al nuovo cliente, spiegazione dell\'impostazione del servizio").';
+$lang['AdminPackages.ai.email_modal_title'] = 'Generare un\'e-mail di benvenuto';
+$lang['AdminPackages.ai.generate_email_button'] = 'Generare e-mail con l\'intelligenza artificiale';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Informazioni sul contesto:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Generare una descrizione professionale per questo pacchetto di prodotti/servizi.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Generate un\'e-mail di benvenuto professionale per questo pacchetto di prodotti/servizi che dia il benvenuto al cliente e fornisca informazioni utili sul nuovo servizio.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Riscrivete e migliorate questo contenuto mantenendo le stesse informazioni generali:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Rivedere la richiesta di cui sopra, aggiungere eventuali istruzioni aggiuntive, quindi fare clic su Genera per creare il contenuto.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Richiesta di caricamento...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'Contesto del prompt';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'Fornire eventuali dettagli o requisiti specifici che l\'IA deve includere nella descrizione.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Ad esempio, includere informazioni sull\'assistenza 24/7, menzionare la garanzia di rimborso di 30 giorni...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Istruzioni aggiuntive (facoltative)';
+$lang['AdminPackages.ai.error_prefix'] = 'Errore:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Impossibile generare una descrizione';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Inserire una richiesta';
+$lang['AdminPackages.ai.apply_text'] = 'Versione testo';
+$lang['AdminPackages.ai.apply_html'] = 'Versione HTML';
+$lang['AdminPackages.ai.apply_content_label'] = 'Applicare il contenuto a:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Descrizione del pacchetto La funzione AI non è abilitata';
+$lang['AdminPackages.ai.error_disabled'] = 'Le funzioni AI non sono abilitate';
+$lang['AdminPackages.ai.regenerating'] = 'Rigenerante...';
+$lang['AdminPackages.ai.generating'] = 'Generare...';
+$lang['AdminPackages.ai.btn_cancel'] = 'Annullamento';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Rigenerare';
+$lang['AdminPackages.ai.btn_use'] = 'Utilizzare questa descrizione';
+$lang['AdminPackages.ai.btn_generate'] = 'Generare';
+$lang['AdminPackages.ai.preview_text'] = 'Testo generato:';
+$lang['AdminPackages.ai.preview_html'] = 'HTML generato:';
+$lang['AdminPackages.ai.tone_technical'] = 'Tecnica';
+$lang['AdminPackages.ai.tone_casual'] = 'Casual';
+$lang['AdminPackages.ai.tone_professional'] = 'Professionale';
+$lang['AdminPackages.ai.tone'] = 'Tono';
+$lang['AdminPackages.ai.generate_text'] = 'Generare testo (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'Generare HTML';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Descrivete le caratteristiche del pacchetto, il target di riferimento, ecc...';
+$lang['AdminPackages.ai.use_content_button'] = 'Utilizzare questo contenuto';
+$lang['AdminPackages.ai.regenerate_button'] = 'Rigenerare';
+$lang['AdminPackages.ai.no_context'] = 'Nessun contesto disponibile';
+$lang['AdminPackages.ai.context_type_email'] = 'Email di benvenuto';
+$lang['AdminPackages.ai.context_type_description'] = 'Descrizione del pacchetto';
+$lang['AdminPackages.ai.context_type'] = 'Tipo:';
+$lang['AdminPackages.ai.context_module'] = 'Modulo:';
+$lang['AdminPackages.ai.context_package'] = 'Pacchetto:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Contenuto generato:';
+$lang['AdminPackages.ai.context_label'] = 'Contesto:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'Descrizione AI riscritta';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Descrizione generata dall\'intelligenza artificiale';
+$lang['AdminPackages.ai.modal_title'] = 'Contenuti generati dall\'intelligenza artificiale';
+$lang['AdminPackages.ai.rewrite_button'] = 'Riscrivere';
+$lang['AdminPackages.ai.generate_button'] = 'Generare';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Applicare i filtri';
+$lang['AdminPackages.index.field_filterclear'] = 'Libero';
+$lang['AdminPackages.index.filter_toggle'] = 'Filtri a levetta';
+$lang['AdminPackages.index.items_selected'] = 'elementi selezionati';
 

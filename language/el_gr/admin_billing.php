@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['AdminBilling.printqueue.category_to_print'] = 'Εκτύπωση';
 $lang['AdminBilling.printqueue.page_title'] = 'Ουρά εκτύπωσης χρέωσης';
 $lang['AdminBilling.invoices.text_edit'] = 'Επεξεργασία';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Αυτό το τιμολόγιο δεν έχει καμία συναλλαγή.';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Επιλογές';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Δράσεις';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Εφαρμόζεται στο';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Εφαρμοσμένο';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Ποσό';
@@ -51,7 +51,7 @@ $lang['AdminBilling.transactions.category_error'] = 'Σφάλμα';
 $lang['AdminBilling.transactions.category_voided'] = 'Ακυρωμένο';
 $lang['AdminBilling.transactions.category_declined'] = 'Απορρίφθηκε';
 $lang['AdminBilling.transactions.category_approved'] = 'Εγκεκριμένο';
-$lang['AdminBilling.transactions.heading_options'] = 'Επιλογές';
+$lang['AdminBilling.transactions.heading_options'] = 'Δράσεις';
 $lang['AdminBilling.transactions.heading_date'] = 'Ημερομηνία';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Αναφορά #';
 $lang['AdminBilling.transactions.heading_number'] = 'Αριθμός';
@@ -64,7 +64,7 @@ $lang['AdminBilling.transactions.boxtitle_transactions'] = 'Συναλλαγές
 $lang['AdminBilling.transactions.page_title'] = 'Συναλλαγές χρέωσης';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Λόγος ακύρωσης: %1$s';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Αυτή η υπηρεσία δεν έχει λεπτομέρειες.';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Υποβολή';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Εφαρμογή';
 $lang['AdminBilling.services.action.field_client'] = 'Πελάτης:';
 $lang['AdminBilling.services.action.push_to_client'] = 'Πίεση στον πελάτη';
 $lang['AdminBilling.services.action.field_action_type_none'] = 'Μην ακυρώνετε';
@@ -83,7 +83,7 @@ $lang['AdminBilling.services.category_active'] = 'Ενεργό';
 $lang['AdminBilling.services.confirm_delete'] = 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την υπηρεσία;';
 $lang['AdminBilling.services.option_delete'] = 'Διαγραφή';
 $lang['AdminBilling.services.option_manage'] = 'Διαχείριση';
-$lang['AdminBilling.services.heading_options'] = 'Επιλογές';
+$lang['AdminBilling.services.heading_options'] = 'Δράσεις';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Ημερομηνία Ακύρωσης';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Ημερομηνία αναστολής';
 $lang['AdminBilling.services.heading_daterenews'] = 'Ημερομηνία Ανανεώνει';
@@ -96,7 +96,7 @@ $lang['AdminBilling.services.boxtitle_services'] = 'Υπηρεσίες';
 $lang['AdminBilling.services.page_title'] = 'Υπηρεσίες χρέωσης';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'Δεν υπάρχουν τιμολόγια που σχετίζονται με αυτή την προσφορά.';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Προβολή';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Επιλογές';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Δράσεις';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Ημερομηνία χρέωσης';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Πληρωμένο';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Ποσό';
@@ -107,7 +107,7 @@ $lang['AdminBilling.quotations.option_approve'] = 'Έγκριση';
 $lang['AdminBilling.quotations.option_invoice'] = 'Δημιουργία τιμολογίου';
 $lang['AdminBilling.quotations.option_view'] = 'Προβολή';
 $lang['AdminBilling.quotations.option_edit'] = 'Επεξεργασία';
-$lang['AdminBilling.quotations.heading_options'] = 'Επιλογές';
+$lang['AdminBilling.quotations.heading_options'] = 'Δράσεις';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Ημερομηνία λήξης';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Ημερομηνία δημιουργίας';
 $lang['AdminBilling.quotations.heading_total'] = 'Ποσό';
@@ -143,7 +143,7 @@ $lang['AdminBilling.invoices.category_open'] = 'Ανοίξτε το';
 $lang['AdminBilling.invoices.heading_count'] = 'Μετρήστε';
 $lang['AdminBilling.invoices.heading_duration'] = 'Διάρκεια';
 $lang['AdminBilling.invoices.heading_term'] = 'Όρος';
-$lang['AdminBilling.invoices.heading_options'] = 'Επιλογές';
+$lang['AdminBilling.invoices.heading_options'] = 'Δράσεις';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Ημερομηνία λήξης';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Ημερομηνία χρέωσης';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Ημερομηνία κλεισίματος';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Οι επιλεγμένε
 $lang['AdminBilling.!success.services_suspended'] = 'Οι επιλεγμένες υπηρεσίες ανεστάλησαν επιτυχώς.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Αυτή η υπηρεσία έχει εκκρεμείς αλλαγές.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Ημερομηνία πληρωμής μέσω: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'επιλεγμένο στοιχείο';
+$lang['AdminBilling.transactions.option_view'] = 'Προβολή';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Δράσεις';
+$lang['AdminBilling.services.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminBilling.services.text_item_selected'] = 'επιλεγμένο στοιχείο';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Εφαρμόστε φίλτρα';
+$lang['AdminBilling.services.field_filterclear'] = 'Σαφής';
+$lang['AdminBilling.services.filter_toggle'] = 'Εναλλαγή φίλτρων';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Εφαρμόστε φίλτρα';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Σαφής';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Εναλλαγή φίλτρων';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Κάντε κλικ στα widgets για να τα εμφανίσετε ή να τα αποκρύψετε από το ταμπλό σας.';
 

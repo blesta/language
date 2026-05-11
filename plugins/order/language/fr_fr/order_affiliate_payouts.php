@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.paid_currency.length'] = 'Le code de la devi
 $lang['OrderAffiliatePayouts.getStatuses.pending'] = 'En attente';
 $lang['OrderAffiliatePayouts.getStatuses.approved'] = 'Approuvé';
 $lang['OrderAffiliatePayouts.getStatuses.declined'] = 'Refusé';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Paiement demandé';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s a demandé un versement de %2$s';
 

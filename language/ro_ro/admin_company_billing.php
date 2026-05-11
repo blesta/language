@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -97,16 +97,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(folosit %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Pachete disponibile';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Pachete atribuite';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Toate';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Editare cupon';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Cupon de actualizare';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Filtru de grup de pachete';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Pachete';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Limitări ale pachetului';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Eliminați';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Termeni';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Perioada';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Activat';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Acest cupon poate fi aplicat numai la serviciile comandate pentru unul dintre termenii/perioadele selectate. Dacă nu este activat niciunul, atunci termenul pentru serviciu va fi ignorat la evaluarea limitărilor cupoanelor.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Termeni';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Limitări ale termenului';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Valoare';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Tip';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Monedă';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Limitările 
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Cantitate';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Data de încheiere';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Data de începere';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Limitări';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Limitări și restricții';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Generarea codului';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Cod cupon';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Numai pentru uz intern';
@@ -132,7 +132,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Pachete atribui
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Toate';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Creați cuponul';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Filtru de grup de pachete';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Pachete';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Limitări ale pachetului';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Eliminați';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'N/A';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Termeni';
@@ -150,7 +150,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Limitările n
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Cantitate';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Data de încheiere';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Data de începere';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Limitări';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Limitări și restricții';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Generarea codului';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Cod cupon';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Numai pentru uz intern';
@@ -353,7 +353,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Opțiune';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Refacerea facturilor pentru livrare după închiderea acestora';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Grup de opțiuni';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Acest cupon poate fi aplicat numai dacă opțiunile configurabile selectate corespund. Lăsați gol pentru a ignora limitările opțiunilor configurabile.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Opțiuni configurabile';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Limitări ale opțiunilor configurabile';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Adaugă';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Clientul va primi o notificare zilnică atunci când soldul creditului său scade sub această sumă. Lăsați gol pentru a dezactiva notificările pentru această monedă.';
 $lang['AdminCompanyBilling.!tooltip.max_amount'] = 'Suma maximă pe care un client o poate plăti pentru credit în această monedă. Valoarea maximă efectivă este cea mai mică dintre această valoare sau valoarea maximă minus creditele existente. Lăsați în alb dacă nu există nicio valoare maximă.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Suma maximă pentru %1$
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Suma maximă pentru %1$s trebuie să fie mai mare decât 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Suma minimă pentru %1$s trebuie să fie mai mare de 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Setările de gestionare a creditelor au fost actualizate cu succes!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Vă rugăm să introduceți un nume pentru adresa de returnare.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Vă rugăm să introduceți o adresă de retur a companiei.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Vă rugăm să introduceți o adresă de retur.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Vă rugăm să introduceți o adresă de returnare pentru oraș.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Vă rugăm să selectați o adresă de returnare stat/provincie.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Vă rugăm să introduceți o adresă de retur cod poștal.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Vă rugăm să selectați o țară cu adresă de returnare.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Etichetele disponibile includ: {num} - numărul cotației (obligatoriu); {year} - anul din patru cifre; {month} - luna din două cifre; {day} - ziua din două cifre a lunii.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Numerele cotațiilor vor începe (și se vor incrementa) de la această valoare inițială.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Numerele de cotație ulterioare vor crește cu această valoare.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Limitări de utilizare';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Limitări de utilizare';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Plic de răspuns';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Adresa de retur';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Nume și prenume';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Compania';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Adresa 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Adresa 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Oraș';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Stat/Provincie';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Cod poștal';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Țara';
 

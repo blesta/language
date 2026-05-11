@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -116,7 +116,7 @@ $lang['AdminForms.add.tab_abandoned_cart'] = 'Opuštěná objednávka';
 $lang['AdminForms.add.tab_basic'] = 'Základní';
 $lang['AdminForms.index.field_status_inactive'] = 'Neaktivní';
 $lang['AdminForms.index.field_status_active'] = 'Aktivní';
-$lang['AdminForms.index.text_confirm_delete'] = 'Opravdu odstranit tento objednávkový formulář?';
+$lang['AdminForms.index.text_confirm_delete'] = 'Opravdu chcete tento objednávkový formulář smazat?';
 $lang['AdminForms.index.option_delete'] = 'Odstranit';
 $lang['AdminForms.index.option_edit'] = 'Upravit';
 $lang['AdminForms.index.heading_options'] = 'Možnosti';
@@ -144,4 +144,21 @@ $lang['AdminForms.edit.tooltip_monthly_breakdown'] = 'Při výběru balíčku uv
 $lang['AdminForms.edit.field_monthly_breakdown'] = 'Zobrazení měsíčního rozpisu cen';
 $lang['AdminForms.add.tooltip_monthly_breakdown'] = 'Při výběru balíčku uveďte měsíční náklady pro každou cenovou variantu a také úsporu za měsíc ve srovnání s měsíční cenou (pokud je to relevantní).';
 $lang['AdminForms.add.field_monthly_breakdown'] = 'Zobrazení měsíčního rozpisu cen';
+$lang['AdminForms.index.heading_actions'] = 'Akce';
+$lang['AdminForms.index.back_to_forms'] = 'Zpět na objednávkové formuláře';
+$lang['AdminForms.add.field_require_recurring_consent'] = 'Vyžadování souhlasu s opakovanými odběry';
+$lang['AdminForms.add.tooltip_require_recurring_consent'] = 'Pokud je tato možnost povolena, musí zákazníci před dokončením objednávky s opakujícími se položkami výslovně souhlasit s opakovaným účtováním. Tato funkce nahrazuje zaškrtávací políčko Uložit údaje o platbě.';
+$lang['AdminForms.add.field_cancel'] = 'Zrušit';
+$lang['AdminForms.edit.field_require_recurring_consent'] = 'Vyžadování souhlasu s opakovanými odběry';
+$lang['AdminForms.edit.tooltip_require_recurring_consent'] = 'Pokud je tato možnost povolena, musí zákazníci před dokončením objednávky s opakujícími se položkami výslovně souhlasit s opakovaným účtováním. Tato funkce nahrazuje zaškrtávací políčko Uložit údaje o platbě.';
+$lang['AdminForms.edit.field_cancel'] = 'Zrušit';
+$lang['AdminForms.embed_codes.heading'] = 'Vložit kód pro vyhledávání domén';
+$lang['AdminForms.embed_codes.description'] = 'Zkopírujte jeden z níže uvedených úryvků a vložte vyhledávací formulář domény na externí web. Po odeslání se otevře pokladna na tomto objednávkovém formuláři s předvyplněnou zadanou doménou.';
+$lang['AdminForms.embed_codes.label_first'] = 'Zadejte štítek URL tohoto objednávkového formuláře pro generování kódů pro vložení.';
+$lang['AdminForms.embed_codes.html_plain'] = 'Prosté HTML';
+$lang['AdminForms.embed_codes.html_bs5'] = 'Bootstrap 5';
+$lang['AdminForms.embed_codes.preview'] = 'Náhled';
+$lang['AdminForms.embed_codes.copy'] = 'Kopírovat';
+$lang['AdminForms.embed_codes.csrf_required'] = 'Aby fungovalo vložené vyhledávání domény, je nutné obejít CSRF.';
+$lang['AdminForms.embed_codes.csrf_instructions'] = 'Příkazy POST z externího webu budou odmítnuty, dokud nepřidáte config::preconfig do pole Blesta.csrf_bypass v souboru config/blesta.php:';
 

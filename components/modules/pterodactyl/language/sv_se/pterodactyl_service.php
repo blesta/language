@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,4 +17,5 @@ $lang['PterodactylService.service_fields.server_description'] = 'Serverbeskrivni
 $lang['PterodactylService.service_fields.tooltip.server_name'] = 'Namnet på servern.';
 $lang['PterodactylService.service_fields.server_name'] = 'Serverns namn';
 $lang['PterodactylService.!error.server_name.empty'] = 'Ange ett namn för servern.';
+$lang['Pterodactyl.back_to_manage'] = 'Tillbaka';
 

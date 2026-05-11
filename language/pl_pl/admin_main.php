@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -38,7 +38,7 @@ $lang['AdminMain.managewidgets.text_version'] = 'ver %1$s';
 $lang['AdminMain.managewidgets.text_widgets'] = 'Przeciągaj widżety od prawej do lewej, aby dodać je do pulpitu nawigacyjnego, lub od lewej do prawej, aby je usunąć.';
 $lang['AdminMain.index.customize_dashboard'] = 'Dostosuj pulpit nawigacyjny';
 $lang['AdminMain.index.manage_widgets'] = 'Zarządzanie widżetami';
-$lang['AdminMain.index.no_quicklinks'] = 'Nie ustawiono żadnych szybkich linków.';
+$lang['AdminMain.index.no_quicklinks'] = 'Nie ma jeszcze szybkich linków. Kliknij ikonę gwiazdki na dowolnej stronie, aby dodać ją tutaj.';
 $lang['AdminMain.index.heading_quicklinks'] = 'Szybkie łącza';
 $lang['AdminMain.index.page_title'] = 'Pulpit nawigacyjny';
 $lang['AdminMain.!success.event_deleted'] = 'Wydarzenie zostało pomyślnie usunięte!';
@@ -46,4 +46,13 @@ $lang['AdminMain.!success.event_edited'] = 'Wydarzenie zostało pomyślnie zaktu
 $lang['AdminMain.!success.event_added'] = 'Wydarzenie zostało pomyślnie dodane!';
 $lang['AdminMain.!error.event_editable'] = 'Tylko twórca wydarzenia może je usunąć.';
 $lang['AdminMain.!error.delete_event.staff_id'] = 'Tylko twórca wydarzenia może usunąć to wydarzenie.';
+$lang['AdminMain.index.modal_manage_widgets_title'] = 'Zarządzanie widżetami pulpitu nawigacyjnego';
+$lang['AdminMain.index.modal_manage_widgets_close'] = 'Zamknij';
+$lang['AdminMain.index.modal_delete_quicklink_title'] = 'Usuń szybkie łącze';
+$lang['AdminMain.index.modal_delete_quicklink_message'] = 'Czy na pewno chcesz usunąć "%1$s" z Quick Links?';
+$lang['AdminMain.index.modal_delete_quicklink_confirm'] = 'Usunąć';
+$lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Anuluj';
+$lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Kliknij widżety, aby wyświetlić lub ukryć je na pulpicie nawigacyjnym.';
+$lang['AdminMain.calendar.category_list'] = 'Lista';
+$lang['AdminMain.calendar.category_today'] = 'Dzisiaj';
 

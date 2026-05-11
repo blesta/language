@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = 'Fakturering';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Bläddra bland kunder';
 $lang['Navigation.getprimary.nav_clients'] = 'Kunder';
 $lang['Navigation.getprimary.nav_home_dashboard'] = 'Instrumentpanel';
-$lang['Navigation.getprimary.nav_home'] = 'Hem';
+$lang['Navigation.getprimary.nav_home'] = 'Instrumentpanel';
 $lang['Navigation.!error.parent_id.valid'] = 'Ogiltigt ID för överordnat navigeringsobjekt';
 $lang['Navigation.!error.order.valid'] = 'Orderindex måste vara ett numeriskt värde';
 $lang['Navigation.!error.action_id.valid'] = 'Ogiltigt åtgärds-ID';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service kö';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Förändringar i tjänster';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektroniska fakturor';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredithantering';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

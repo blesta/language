@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = 'Paket Kimliği';
 $lang['AdminSearch.packages.heading'] = 'Paketler';
 $lang['AdminSearch.transactions.no_results'] = 'Arama kriterlerine uyan hiçbir işlem yok.';
 $lang['AdminSearch.transactions.option_edit'] = 'Düzenle';
-$lang['AdminSearch.transactions.heading_options'] = 'Seçenekler';
+$lang['AdminSearch.transactions.heading_options'] = 'Eylemler';
 $lang['AdminSearch.transactions.heading_date'] = 'Tarih';
 $lang['AdminSearch.transactions.heading_status'] = 'Durum';
 $lang['AdminSearch.transactions.heading_number'] = 'Sayı';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = 'Fatura Tarihi';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Tarih Kapalı';
 $lang['AdminSearch.invoice.heading_due'] = 'Neden';
 $lang['AdminSearch.invoice.heading_paid'] = 'Ücretli';
-$lang['AdminSearch.invoice.heading_amount'] = 'Seçenekler';
+$lang['AdminSearch.invoice.heading_amount'] = 'Miktar';
 $lang['AdminSearch.invoice.heading_client_id'] = 'Müşteri Kimliği';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Fatura #';
 $lang['AdminSearch.invoices.heading'] = 'Faturalar';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = 'Müşteriler';
 $lang['AdminSearch.index.boxtitle_search'] = '"%1$s" için Arama Sonuçları';
 $lang['AdminSearch.index.page_title'] = '"%1$s" için Arama Sonuçları';
 $lang['AdminSearch.!notice.results_truncated'] = 'Sonuç sayısı kesilmiştir. Aramanızı daraltmak isteyebilirsiniz.';
+$lang['AdminSearch.invoice.heading_options'] = 'Eylemler';
 

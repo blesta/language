@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Kembali ke Port
 $lang['AppController.client_structure.default_title'] = 'Akun Saya';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Kembali ke Portal Staf';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Mode Pemeliharaan saat ini diaktifkan dan klien tidak dapat masuk. Klik di sini untuk mengubahnya.';
+$lang['AppController.structure.text_maintenance'] = 'Mode Pemeliharaan saat ini diaktifkan dan klien tidak dapat masuk.';
 $lang['AppController.structure.text_logout'] = 'Log Out';
 $lang['AppController.structure.text_settings'] = 'Pengaturan';
 $lang['AppController.structure.text_myinfo'] = 'Info Saya';
@@ -83,5 +83,23 @@ $lang['AppController.!error.invalid_csrf'] = 'Token formulir tidak valid.';
 $lang['AppController.!error.unauthorized_access'] = 'Anda tidak berwenang untuk mengakses sumber daya tersebut';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Anda tidak memiliki izin untuk mengakses sumber daya tersebut, silakan hubungi pemegang akun utama untuk meminta akses';
-$lang['AppController.structure.text_step_up_access'] = 'Saat ini Anda memiliki sesi peningkatan yang terbuka dengan akses ke pengaturan admin. Klik di sini untuk membatalkan akses.';
+$lang['AppController.structure.text_step_up_access'] = 'Saat ini Anda memiliki sesi peningkatan yang terbuka dengan akses ke pengaturan admin.';
+$lang['AppController.structure.text_mark_all_read'] = 'Tandai semua sebagai sudah dibaca';
+$lang['AppController.structure.text_open'] = 'Buka';
+$lang['AppController.structure.no_notifications'] = 'Tidak ada pemberitahuan baru';
+$lang['AppController.structure.text_notifications'] = 'Pemberitahuan';
+$lang['AppController.structure.text_licensed_to'] = 'Dilisensikan kepada %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Perpanjang Sesi';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Sisa Waktu:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Akhiri Sesi Sekarang';
+$lang['AppController.structure.text_step_up_access_header'] = 'Tingkatkan Otentikasi Aktif';
+$lang['AppController.structure.text_maintenance_button'] = 'Edit Mode Pemeliharaan';
+$lang['AppController.structure.text_maintenance_header'] = 'Mode Pemeliharaan Diaktifkan';
+$lang['AppController.structure.text_iconbar'] = 'Bilah Ikon';
+$lang['AppController.structure.text_notices'] = 'Pemberitahuan';
+$lang['AppController.text_loading'] = 'Memuat...';
+$lang['AppController.modal.btn_delete'] = 'Menghapus';
+$lang['AppController.modal.btn_cancel'] = 'Batal';
+$lang['AppController.modal.confirm_delete'] = 'Konfirmasi Hapus';
 

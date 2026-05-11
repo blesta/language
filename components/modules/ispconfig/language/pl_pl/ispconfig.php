@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row_plural'] = 'Serwery';
 $lang['Ispconfig.module_row'] = 'Serwer';
 $lang['Ispconfig.description'] = 'ISPConfig 3 to panel open source dla systemu Linux, który jest w stanie zarządzać wieloma serwerami z jednego panelu sterowania.';
 $lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.back_to_manage'] = 'Powrót';
+$lang['Ispconfig.manage.tab_rows'] = 'Serwery';
+$lang['Ispconfig.manage.tab_groups'] = 'Grupy serwerów';
 

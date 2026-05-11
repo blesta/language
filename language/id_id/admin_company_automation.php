@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -29,4 +29,11 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Pengaturan > Perusahaan > Ot
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Tugas cron telah diselesaikan.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Pengaturan Automation (Otomatisasi) berhasil diperbarui!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Ada tugas otomatisasi yang diatur untuk berjalan setiap menit, tetapi cron Anda tampaknya tidak berjalan setiap menit. Perbarui cron Anda agar berjalan setiap menit untuk memanfaatkan interval yang lebih pendek ini.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Tidak ada tugas otomatisasi yang dijalankan dalam 24 jam terakhir.';
+$lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Belum selesai';
+$lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Menjalankan';
+$lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Selesai';
+$lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Eksekusi';
+$lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Menyegarkan';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Garis Waktu Pelaksanaan Tugas - 24 Jam Terakhir';
 

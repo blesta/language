@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Вернуть�
 $lang['AppController.client_structure.default_title'] = 'Мой счет';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Вернуться на портал для персонала';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'В настоящее время включен режим обслуживания, и клиенты не могут войти в систему. Нажмите здесь, чтобы изменить.';
+$lang['AppController.structure.text_maintenance'] = 'В настоящее время включен режим обслуживания, и клиенты не могут войти в систему.';
 $lang['AppController.structure.text_logout'] = 'Выйти из системы';
 $lang['AppController.structure.text_settings'] = 'Настройки';
 $lang['AppController.structure.text_myinfo'] = 'Моя информация';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = 'Вы не авторизо�
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Укажите здесь файлы для загрузки или нажмите, чтобы выбрать файлы';
 $lang['AppController.!error.client_unauthorized_access'] = 'У вас нет разрешения на доступ к этому ресурсу, пожалуйста, свяжитесь с владельцем основной учетной записи, чтобы запросить доступ';
-$lang['AppController.structure.text_step_up_access'] = 'В настоящее время у вас открыт сеанс step up с доступом к настройкам администратора. Нажмите здесь, чтобы открыть доступ.';
+$lang['AppController.structure.text_step_up_access'] = 'В настоящее время у вас открыт сеанс step up с доступом к настройкам администратора.';
+$lang['AppController.structure.text_mark_all_read'] = 'Отметить все как прочитанные';
+$lang['AppController.structure.text_open'] = 'Открыть';
+$lang['AppController.structure.no_notifications'] = 'Нет новых уведомлений';
+$lang['AppController.structure.text_notifications'] = 'Уведомления';
+$lang['AppController.structure.text_licensed_to'] = 'Лицензия на %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Продлить сеанс';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Оставшееся время:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Завершить сеанс сейчас';
+$lang['AppController.structure.text_step_up_access_header'] = 'Step Up Authentication Active';
+$lang['AppController.structure.text_maintenance_button'] = 'Редактирование режима обслуживания';
+$lang['AppController.structure.text_maintenance_header'] = 'Режим обслуживания включен';
+$lang['AppController.structure.text_iconbar'] = 'Панель иконок';
+$lang['AppController.structure.text_notices'] = 'Уведомления';
+$lang['AppController.text_loading'] = 'Загрузка...';
+$lang['AppController.modal.btn_delete'] = 'Удалить';
+$lang['AppController.modal.btn_cancel'] = 'Отмена';
+$lang['AppController.modal.confirm_delete'] = 'Подтвердить удаление';
 

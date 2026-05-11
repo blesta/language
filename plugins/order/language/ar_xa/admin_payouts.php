@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,7 +23,7 @@ $lang['AdminPayouts.index.confirm_approve'] = 'هل أنت متأكد من رغ�
 $lang['AdminPayouts.index.option_decline'] = 'الانخفاض';
 $lang['AdminPayouts.index.option_approve'] = 'الموافقة';
 $lang['AdminPayouts.index.option_edit'] = 'تحرير';
-$lang['AdminPayouts.index.heading_options'] = 'الخيارات';
+$lang['AdminPayouts.index.heading_options'] = 'الإجراءات';
 $lang['AdminPayouts.index.heading_date_requested'] = 'تاريخ الطلب';
 $lang['AdminPayouts.index.heading_paid_currency'] = 'العملة المدفوعة';
 $lang['AdminPayouts.index.heading_paid_amount'] = 'المبلغ المدفوع';

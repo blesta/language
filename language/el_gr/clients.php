@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'Μη έγκυρο αναγνω
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από το ελάχιστο ποσό.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'Το μέγιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'Το ελάχιστο ποσό πίστωσης για το %1$s πρέπει να είναι μεγαλύτερο από 0.';
+$lang['Clients.!error.action[].exists'] = 'Μη έγκυρη ενέργεια ειδοποίησης.';
+$lang['Clients.!error.action.exists'] = 'Μη έγκυρη ενέργεια ειδοποίησης "%1$s".';
 

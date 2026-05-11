@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['Orders.view.heading_number'] = 'العدد';
 $lang['Orders.view.heading_status'] = 'الحالة';
 $lang['Orders.view.heading_applied'] = 'تطبيقي';
 $lang['Orders.view.heading_type'] = 'النوع';
-$lang['Orders.view.heading_options'] = 'الخيارات';
+$lang['Orders.view.heading_options'] = 'الإجراءات';
 $lang['Orders.view.heading_date_renews'] = 'تاريخ التجديدات';
 $lang['Orders.view.heading_date_created'] = 'تاريخ الإنشاء';
 $lang['Orders.view.heading_term'] = 'المدة';
@@ -38,7 +38,7 @@ $lang['Orders.view.boxtitle_view_order'] = 'عرض الطلب';
 $lang['Orders.index.no_results'] = 'ليس لديك أي أوامر.';
 $lang['Orders.index.option_cancel'] = 'إلغاء';
 $lang['Orders.index.option_view'] = 'عرض';
-$lang['Orders.index.heading_options'] = 'الخيارات';
+$lang['Orders.index.heading_options'] = 'الإجراءات';
 $lang['Orders.index.heading_date_ordered'] = 'تاريخ الطلب';
 $lang['Orders.index.heading_paid'] = 'مدفوعة الأجر';
 $lang['Orders.index.heading_total'] = 'الإجمالي';

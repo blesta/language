@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,4 +21,5 @@ $lang['PterodactylRule.!error.min'] = '%1$s 필드에는 최소 %2$s 이 포함�
 $lang['PterodactylRule.!error.digitsBetween'] = '%1$s 필드에는 %2$s ~ %3$s 자릿수 사이의 값을 입력해야 합니다.';
 $lang['PterodactylRule.!error.max'] = '%1$s 필드에는 최대 %2$s.';
 $lang['PterodactylRule.!error.between'] = '%1$s 필드에는 %2$s 과 %3$s 사이의 값을 포함해야 합니다.';
+$lang['Pterodactyl.back_to_manage'] = '뒤로';
 

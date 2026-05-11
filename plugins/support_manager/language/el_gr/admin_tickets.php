@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,8 +22,8 @@ $lang['AdminTickets.add.page_title'] = 'Διαχείριση υποστήριξ�
 $lang['AdminTickets.reply.page_title'] = 'Διαχειριστής υποστήριξης > Εισιτήριο #%1$s';
 $lang['AdminTickets.search.page_title'] = 'Αποτελέσματα αναζήτησης για "%1$s"';
 $lang['AdminTickets.text.unassigned'] = 'Δεν έχει ανατεθεί';
-$lang['AdminTickets.index.category_open'] = 'Εν αναμονή απάντησης του προσωπικού';
-$lang['AdminTickets.index.category_awaiting_reply'] = 'Αναμονή απάντησης πελάτη';
+$lang['AdminTickets.index.category_open'] = 'Αναμονή προσωπικού';
+$lang['AdminTickets.index.category_awaiting_reply'] = 'Αναμονή πελάτη';
 $lang['AdminTickets.index.category_in_progress'] = 'Σε εξέλιξη';
 $lang['AdminTickets.index.category_on_hold'] = 'Σε αναμονή';
 $lang['AdminTickets.index.category_closed'] = 'Κλειστό';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = 'Δεν υπάρχουν διαθέ
 $lang['AdminTickets.!tooltip.recipients'] = 'Διεύθυνση ηλεκτρονικού ταχυδρομείου για να ενημερώνεστε όταν ενημερώνεται ένα εισιτήριο.';
 $lang['AdminTickets.!tooltip.contacts'] = 'Επαφές που θα ειδοποιούνται όταν ενημερώνεται ένα εισιτήριο. Όσοι δεν έχουν επιλεγεί, θα προστεθούν αυτόματα στο εισιτήριο, εάν απαντήσουν σε αυτό.';
 $lang['AdminTickets.reply.text_domain'] = 'Τομέας';
-$lang['AdminTickets.reply.heading_rating'] = 'Αξιολόγηση';
+$lang['AdminTickets.reply.heading_rating'] = 'Αξιολόγηση πελατών';
 $lang['AdminTickets.reply.heading_rating_comment'] = 'Σχόλιο αξιολόγησης';
 $lang['AdminTickets.index.heading_rating'] = 'Αξιολόγηση';
+$lang['AdminTickets.index.text_fullscreen'] = 'Εναλλαγή πλήρους οθόνης';
+$lang['AdminTickets.index.text_exit_fullscreen'] = 'Έξοδος από την πλήρη οθόνη';
+$lang['AdminTickets.index.placeholder_ticket_number'] = 'Εισάγετε τον αριθμό εισιτηρίου';
+$lang['AdminTickets.index.placeholder_summary'] = 'Περίληψη αναζήτησης';
+$lang['AdminTickets.index.heading_filters'] = 'Φίλτρα';
+$lang['AdminTickets.index.field_apply_filters'] = 'Εφαρμόστε φίλτρα';
+$lang['AdminTickets.index.field_clear_filters'] = 'Εκκαθάριση φίλτρων';
+$lang['AdminTickets.add.heading_contacts_recipients'] = 'Επαφές &amp; παραλήπτες';
+$lang['AdminTickets.add.search_responses'] = 'Αναζήτηση απαντήσεων...';
+$lang['AdminTickets.add.no_results'] = 'Δεν βρέθηκαν ταιριαστές απαντήσεις';
+$lang['AdminTickets.add.searching'] = 'Αναζήτηση...';
+$lang['AdminTickets.add.search_min_chars'] = 'Εισάγετε τουλάχιστον 2 χαρακτήρες για αναζήτηση';
+$lang['AdminTickets.add.heading_ticket_details'] = 'Λεπτομέρειες εισιτηρίων';
+$lang['AdminTickets.add.login_as_client'] = 'Σύνδεση ως Πελάτης';
+$lang['AdminTickets.add.markdown_supported'] = 'Υποστήριξη Markdown';
+$lang['AdminTickets.add.dropzone_drop_files'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
+$lang['AdminTickets.add.browse_files'] = 'Αναζήτηση αρχείων';
+$lang['AdminTickets.custom_fields.badge_custom'] = 'Προσαρμοσμένο';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = 'Επαφές &amp; παραλήπτες';
+$lang['AdminTickets.reply.text_date_rated'] = 'Βαθμολογήθηκε: %1$s';
+$lang['AdminTickets.reply.note_date'] = 'Στις %1$s %2$s %3$s πρόσθεσε μια σημείωση';
+$lang['AdminTickets.reply.heading_ticket_details'] = 'Λεπτομέρειες εισιτηρίων';
+$lang['AdminTickets.reply.login_as_client'] = 'Σύνδεση ως Πελάτης';
+$lang['AdminTickets.reply.search_responses'] = 'Αναζήτηση απαντήσεων...';
+$lang['AdminTickets.reply.no_results'] = 'Δεν βρέθηκαν ταιριαστές απαντήσεις';
+$lang['AdminTickets.reply.searching'] = 'Αναζήτηση...';
+$lang['AdminTickets.reply.search_min_chars'] = 'Εισάγετε τουλάχιστον 2 χαρακτήρες για αναζήτηση';
+$lang['AdminTickets.reply.markdown_supported'] = 'Υποστήριξη Markdown';
+$lang['AdminTickets.reply.notes_visible_staff'] = 'Οι εσωτερικές σημειώσεις είναι ορατές μόνο στα μέλη του προσωπικού';
+$lang['AdminTickets.reply.dropzone_drop_files'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
+$lang['AdminTickets.reply.browse_files'] = 'Αναζήτηση αρχείων';
+$lang['AdminTickets.reply.btn_cancel'] = 'Ακύρωση';
+$lang['AdminTickets.reply.client_title'] = 'Πελάτης';
+$lang['AdminTickets.reply.note_label'] = 'Σημείωμα του προσωπικού';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'Δημιουργία απάντησης AI';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'AI Response Ready';
+$lang['AdminTickets.reply.button_regenerate'] = 'Αναγεννήστε το';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'Αναγέννηση της απόκρισης AI';
+$lang['AdminTickets.reply.text_generating'] = 'Δημιουργία...';
+$lang['AdminTickets.reply.text_regenerating'] = 'Αναζωογόνηση...';
+$lang['AdminTickets.reply.text_just_now'] = 'Μόλις τώρα';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm πριν';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh πριν';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sδ πριν';
+$lang['AdminTickets.reply.modal_title'] = 'Απάντηση που παράγεται από την Τεχνητή Νοημοσύνη';
+$lang['AdminTickets.reply.label_confidence'] = 'Εμπιστοσύνη';
+$lang['AdminTickets.reply.label_generated'] = 'Παραγωγή';
+$lang['AdminTickets.reply.label_model'] = 'Μοντέλο';
+$lang['AdminTickets.reply.alert_review_required'] = 'Απαιτείται αναθεώρηση';
+$lang['AdminTickets.reply.alert_review_text'] = 'Αυτή η απάντηση δημιουργήθηκε αυτόματα από την AI. Παρακαλείστε να την ελέγξετε προσεκτικά πριν την στείλετε για να διασφαλίσετε την ακρίβεια και τον κατάλληλο τόνο.';
+$lang['AdminTickets.reply.label_internal_notes'] = 'Εσωτερικές σημειώσεις';
+$lang['AdminTickets.reply.label_suggested_response'] = 'Προτεινόμενη απάντηση';
+$lang['AdminTickets.reply.label_concerns'] = 'Ανησυχίες';
+$lang['AdminTickets.reply.text_no_response_suggested'] = 'Δεν προτάθηκε καμία απάντηση. Βλέπε εσωτερικές σημειώσεις για το σκεπτικό.';
+$lang['AdminTickets.reply.button_cancel'] = 'Ακύρωση';
+$lang['AdminTickets.reply.button_use_response'] = 'Χρησιμοποιήστε αυτή την απάντηση';
+$lang['AdminTickets.reply.button_reject'] = 'Απόρριψη';
+$lang['AdminTickets.reply.button_summarize'] = 'Συνοψίστε το';
+$lang['AdminTickets.reply.text_ai_summary'] = 'Περίληψη AI';
+$lang['AdminTickets.!error.ticket_invalid'] = 'Μη έγκυρο αναγνωριστικό εισιτηρίου';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Οι λειτουργίες AI δεν είναι ενεργοποιημένες για το Support Manager';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'Απέτυχε να δημιουργήσει απάντηση AI';
+$lang['AdminTickets.!error.analysis_invalid'] = 'Μη έγκυρο αναγνωριστικό ανάλυσης';
+$lang['AdminTickets.!error.reply_not_found'] = 'Η καθορισμένη απάντηση δεν βρέθηκε.';
+$lang['AdminTickets.!error.summary_failed'] = 'Απέτυχε η δημιουργία σύνοψης.';
 

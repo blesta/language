@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -177,4 +177,8 @@ $lang['Interworx.description'] = 'InterWorx 网页控制面板是基于 Linux �
 $lang['Interworx.!error.soap_required'] = '该模块需要 SOAP 扩展。';
 $lang['Interworx.!error.libxml_required'] = '该模块需要 libxml 扩展。';
 $lang['Interworx.name'] = 'Interworx';
+$lang['Interworx.back_to_manage'] = '返回';
+$lang['Interworx.manage.tab_rows'] = '服务器';
+$lang['Interworx.manage.tab_groups'] = '服务器组';
+$lang['Interworx.manage.module_rows.count_server_group'] = '%1$s /%2$s (%3$s available)';
 

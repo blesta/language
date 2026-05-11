@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -60,4 +60,9 @@ $lang['Checkout.!error.payment_authorize'] = 'Pembayaran tidak dapat diotorisasi
 $lang['Checkout.!error.not_client_owner'] = 'Anda harus masuk sebagai pemilik klien untuk melanjutkan.';
 $lang['Checkout.!error.no_payment_info'] = 'Anda harus memilih metode pembayaran untuk melanjutkan.';
 $lang['Checkout.!error.invalid_agree_tos'] = 'Anda harus menyatakan persetujuan Anda terhadap syarat dan ketentuan.';
+$lang['Checkout.!error.invalid_agree_recurring_consent'] = 'Anda harus menyetujui penagihan berulang untuk melanjutkan.';
+$lang['Checkout.index.field_agree_recurring_consent'] = 'Saya memberi wewenang kepada %1$s untuk menyimpan metode pembayaran saya dan menagih %2$s mulai hari ini, hingga saya membatalkannya. Saya dapat membatalkan kapan saja secara online melalui akun saya.';
+$lang['Checkout.index.recurring_every'] = 'setiap %1$s';
+$lang['Checkout.index.recurring_every_term'] = 'setiap %1$s %2$s';
+$lang['Checkout.index.recurring_and'] = 'dan';
 

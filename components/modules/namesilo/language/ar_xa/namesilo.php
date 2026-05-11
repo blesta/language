@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'القيمة';
 $lang['Namesilo.dnsrecord.host'] = 'المضيف';
 $lang['Namesilo.dnsrecord.record_type'] = 'النوع';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'في هذه الصفحة يمكنك إضافة أو حذف سجلات A و AAAA و CNAME و MX و TXT DNS. يرجى الانتباه إلى أن نشر سجلات DNS قد يستغرق بضع دقائق حتى يتم نشرها.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'في هذه الصفحة يمكنك إضافة أو حذف سجلات A و AAAA و CNAME و MX و TXT DNS. يرجى الانتباه إلى أن نشر سجلات DNS قد يستغرق بضع دقائق. <br/> لكي تنعكس أي من هذه التغييرات على اسم النطاق الخاص بك، يجب عليك تعيين خوادم الأسماء على:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'إضافة سجل';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'حذف السجل (السجلات)';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'إضافة سجل DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'يقوم بسحب جهات 
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'اسحب جهات اتصال نامسيلو';
 $lang['Namesilo.notice.default_nameservers'] = 'وتتطلب هذه الميزة أن يستخدم النطاق خوادم الأسماء التالية: ns1.dnsowl.com، وns2.dnsowl.com، وns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'النطاق غير متاح للتسجيل.';
+$lang['Namesilo.back_to_manage'] = 'رجوع';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'الإجراءات';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'يحتوي حقل واحد أو أكثر على أحرف خاصة (مثل الأحرف المعلمة). قد لا يدعم NameSilo هذه الأحرف في حقول جهات الاتصال.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'إعادة توجيه النطاقات';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'تتم إزالة إعادة توجيه النطاق تلقائيًا عندما تعطي النطاق شيئًا آخر للقيام به مثل تغيير خوادم الأسماء، أو تغيير سجلات A الأساسية لـ @ و www. <br/> لكي تنعكس أي من هذه التغييرات على اسم النطاق الخاص بك يجب تعيين خوادم الأسماء على:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'المجال';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'إلى الأمام إلى';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'طريقة إعادة التوجيه';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'دائم إلى الأمام (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'إلى الأمام مؤقتاً (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'متخفٍ';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'نشط';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'حذف';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'تحديث الوكلاء';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'عنوان URL المعاد توجيهه غير صالح. يرجى التأكد من استخدام HTTPS أو HTTP.';
 

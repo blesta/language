@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.getfields.label_textarea_setup'] = '%1$s + %2$s 설정';
 $lang['PackageOptions.getfields.label_textarea_setup_recurring'] = '%1$s + %2$s 설정 (%3$s에서 갱신됨)';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = '인보이스에서 숨길지 여부는 0 또는 1로 설정해야 합니다.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = '가격 책정 비활성화 여부는 0 또는 1로 설정해야 합니다.';
+$lang['PackageOptions.!error.type.in_use'] = '제출에 포함되지 않은 하나 이상의 옵션 값이 서비스에서 사용 중이므로 유형을 변경할 수 없습니다.';
 

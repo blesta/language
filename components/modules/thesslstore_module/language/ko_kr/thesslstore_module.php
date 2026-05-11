@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = '라이브 API �
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = '리셀러 이름을 입력하세요.';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = '자격 증명이 이미 존재합니다.';
 $lang['ThesslstoreModule.!error.api.internal'] = 'API 호출에 문제가 발생했습니다.';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'API에서 반환된 제품이 없습니다. API 자격 증명을 확인한 후 다시 시도하세요.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '마진은 모든 제품의 가격에 적용됩니다. 나중에 가격 설정 메뉴에서 변경할 수 있습니다.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = '승인자 이메일 변경';
 

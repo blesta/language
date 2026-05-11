@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.heading_approve'] = 'الموافقة';
 $lang['ClientQuotations.index.no_results'] = 'ليس لديك %1$s الاقتباسات.';
 $lang['ClientQuotations.index.option_approve'] = 'الموافقة';
 $lang['ClientQuotations.index.option_view'] = 'عرض';
-$lang['ClientQuotations.index.heading_options'] = 'الخيارات';
+$lang['ClientQuotations.index.heading_options'] = 'الإجراءات';
 $lang['ClientQuotations.index.heading_date_expires'] = 'تاريخ انتهاء الصلاحية';
 $lang['ClientQuotations.index.heading_date_created'] = 'تاريخ الإنشاء';
 $lang['ClientQuotations.index.heading_total'] = 'المبلغ';

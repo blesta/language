@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -91,4 +91,5 @@ $lang['Multicraft.add_module_row'] = 'Добавяне на сървър';
 $lang['Multicraft.module_rows.name'] = 'Сървъри';
 $lang['Multicraft.!error.module_row.missing'] = 'Възникнала е вътрешна грешка. Редът на модула не е наличен.';
 $lang['Multicraft.name'] = 'Multicraft';
+$lang['Multicraft.back_to_manage'] = 'Обратно';
 

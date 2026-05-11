@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.edit_row.service_client_info'] = 'Información de servici
 $lang['UniversalModule.edit_row.tags'] = 'Etiquetas';
 $lang['UniversalModule.!error.package_fields[name][].unique'] = 'El nombre del campo del paquete debe ser único.';
 $lang['UniversalModule.!error.service_fields[name][].unique'] = 'El nombre del campo de servicio debe ser único.';
+$lang['UniversalModule.back_to_manage'] = 'Volver';
 

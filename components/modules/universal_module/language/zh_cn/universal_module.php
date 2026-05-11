@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = '这是显示的�
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = '这是隐藏的表格字段名称。使用 qty 创建数量字段。';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = '这是在表格字段正上方显示的文字。';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = '返回';
 

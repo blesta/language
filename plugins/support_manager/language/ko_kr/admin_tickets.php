@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,7 +56,7 @@ $lang['AdminTickets.reply.heading_client'] = '클라이언트';
 $lang['AdminTickets.reply.heading_summary'] = '요약';
 $lang['AdminTickets.reply.boxtitle_reply'] = '티켓 #%1$s';
 $lang['AdminTickets.add.dropzone_remove_file'] = '파일 제거';
-$lang['AdminTickets.add.dropzone_drop_files_here'] = '여기에 파일을 드롭하여 업로드하거나 클릭하여 파일 선택';
+$lang['AdminTickets.add.dropzone_drop_files_here'] = '파일을 업로드하려면 여기에 파일을 놓거나 클릭하여 파일을 선택하세요.';
 $lang['AdminTickets.add.text_add_response'] = '미리 정의된 응답 삽입';
 $lang['Admintickets.add.client_placeholder'] = '클라이언트 ID 또는 이름';
 $lang['AdminTickets.add.field_addsubmit'] = '티켓 열기';
@@ -105,8 +105,8 @@ $lang['AdminTickets.index.category_trash'] = '휴지통';
 $lang['AdminTickets.index.category_closed'] = '닫힘';
 $lang['AdminTickets.index.category_on_hold'] = '보류 중';
 $lang['AdminTickets.index.category_in_progress'] = '진행 중';
-$lang['AdminTickets.index.category_awaiting_reply'] = '고객 응답 대기 중';
-$lang['AdminTickets.index.category_open'] = '직원 답변 대기 중';
+$lang['AdminTickets.index.category_awaiting_reply'] = '대기 중인 클라이언트';
+$lang['AdminTickets.index.category_open'] = '대기 중인 직원';
 $lang['AdminTickets.text.unassigned'] = '할당되지 않음';
 $lang['AdminTickets.search.page_title'] = '"%1$s"에 대한 검색 결과';
 $lang['AdminTickets.reply.page_title'] = '지원 관리자 > 티켓 #%1$s';
@@ -140,7 +140,72 @@ $lang['AdminTickets.add.text_no_contacts'] = '선택한 고객에 대해 추가 
 $lang['AdminTickets.!tooltip.recipients'] = '티켓이 업데이트될 때 알림을 받을 이메일 주소입니다.';
 $lang['AdminTickets.!tooltip.contacts'] = '티켓이 업데이트될 때 알림을 받을 연락처입니다. 선택하지 않은 연락처가 티켓에 응답하면 자동으로 티켓에 추가됩니다.';
 $lang['AdminTickets.reply.text_domain'] = '도메인';
-$lang['AdminTickets.reply.heading_rating'] = '평가';
+$lang['AdminTickets.reply.heading_rating'] = '고객 평가';
 $lang['AdminTickets.reply.heading_rating_comment'] = '평가 댓글';
 $lang['AdminTickets.index.heading_rating'] = '평가';
+$lang['AdminTickets.index.text_fullscreen'] = '전체 화면 토글';
+$lang['AdminTickets.index.text_exit_fullscreen'] = '전체 화면 종료';
+$lang['AdminTickets.index.placeholder_ticket_number'] = '티켓 번호 입력';
+$lang['AdminTickets.index.placeholder_summary'] = '검색 요약';
+$lang['AdminTickets.index.heading_filters'] = '필터';
+$lang['AdminTickets.index.field_apply_filters'] = '필터 적용';
+$lang['AdminTickets.index.field_clear_filters'] = '필터 지우기';
+$lang['AdminTickets.add.heading_contacts_recipients'] = '연락처 및 수신자';
+$lang['AdminTickets.add.search_responses'] = '검색 응답...';
+$lang['AdminTickets.add.no_results'] = '일치하는 응답이 없습니다.';
+$lang['AdminTickets.add.searching'] = '검색 중...';
+$lang['AdminTickets.add.search_min_chars'] = '검색하려면 2자 이상 입력하세요.';
+$lang['AdminTickets.add.heading_ticket_details'] = '티켓 세부 정보';
+$lang['AdminTickets.add.login_as_client'] = '클라이언트로 로그인';
+$lang['AdminTickets.add.markdown_supported'] = '마크다운 지원';
+$lang['AdminTickets.add.dropzone_drop_files'] = '파일을 업로드하려면 여기에 파일을 놓거나 클릭하여 파일을 선택하세요.';
+$lang['AdminTickets.add.browse_files'] = '파일 찾아보기';
+$lang['AdminTickets.custom_fields.badge_custom'] = '사용자 지정';
+$lang['AdminTickets.reply.heading_contacts_recipients'] = '연락처 및 수신자';
+$lang['AdminTickets.reply.text_date_rated'] = '평점: %1$s';
+$lang['AdminTickets.reply.note_date'] = '에 %1$s %2$s %3$s 메모를 추가했습니다.';
+$lang['AdminTickets.reply.heading_ticket_details'] = '티켓 세부 정보';
+$lang['AdminTickets.reply.login_as_client'] = '클라이언트로 로그인';
+$lang['AdminTickets.reply.search_responses'] = '검색 응답...';
+$lang['AdminTickets.reply.no_results'] = '일치하는 응답이 없습니다.';
+$lang['AdminTickets.reply.searching'] = '검색 중...';
+$lang['AdminTickets.reply.search_min_chars'] = '검색하려면 2자 이상 입력하세요.';
+$lang['AdminTickets.reply.markdown_supported'] = '마크다운 지원';
+$lang['AdminTickets.reply.notes_visible_staff'] = '내부 노트는 직원에게만 표시됩니다.';
+$lang['AdminTickets.reply.dropzone_drop_files'] = '여기에 파일을 드롭하여 업로드하거나 클릭하여 파일 선택';
+$lang['AdminTickets.reply.browse_files'] = '파일 찾아보기';
+$lang['AdminTickets.reply.btn_cancel'] = '취소';
+$lang['AdminTickets.reply.client_title'] = '클라이언트';
+$lang['AdminTickets.reply.note_label'] = '직원 참고 사항';
+$lang['AdminTickets.reply.button_generate_ai_response'] = 'AI 응답 생성';
+$lang['AdminTickets.reply.button_ai_response_ready'] = 'AI 대응 준비';
+$lang['AdminTickets.reply.button_regenerate'] = '재생성';
+$lang['AdminTickets.reply.button_regenerate_ai'] = 'AI 응답 재생성';
+$lang['AdminTickets.reply.text_generating'] = '생성...';
+$lang['AdminTickets.reply.text_regenerating'] = '재생성...';
+$lang['AdminTickets.reply.text_just_now'] = '지금 바로';
+$lang['AdminTickets.reply.text_minutes_ago'] = '%1$sm 전';
+$lang['AdminTickets.reply.text_hours_ago'] = '%1$sh 전';
+$lang['AdminTickets.reply.text_days_ago'] = '%1$sd 전';
+$lang['AdminTickets.reply.modal_title'] = 'AI 생성 응답';
+$lang['AdminTickets.reply.label_confidence'] = '자신감';
+$lang['AdminTickets.reply.label_generated'] = '생성됨';
+$lang['AdminTickets.reply.label_model'] = '모델';
+$lang['AdminTickets.reply.alert_review_required'] = '검토 필요';
+$lang['AdminTickets.reply.alert_review_text'] = '이 답변은 AI에 의해 자동으로 생성되었습니다. 정확성과 적절한 어조를 위해 보내기 전에 신중하게 검토해 주세요.';
+$lang['AdminTickets.reply.label_internal_notes'] = '내부 참고 사항';
+$lang['AdminTickets.reply.label_suggested_response'] = '권장 응답';
+$lang['AdminTickets.reply.label_concerns'] = '우려 사항';
+$lang['AdminTickets.reply.text_no_response_suggested'] = '제안된 응답이 없습니다. 추론에 대한 내부 메모를 참조하세요.';
+$lang['AdminTickets.reply.button_cancel'] = '취소';
+$lang['AdminTickets.reply.button_use_response'] = '이 응답 사용';
+$lang['AdminTickets.reply.button_reject'] = '거부';
+$lang['AdminTickets.reply.button_summarize'] = '요약';
+$lang['AdminTickets.reply.text_ai_summary'] = 'AI 요약';
+$lang['AdminTickets.!error.ticket_invalid'] = '잘못된 티켓 ID';
+$lang['AdminTickets.!error.ai_not_enabled'] = 'Support Manager에 AI 기능이 사용 설정되어 있지 않습니다.';
+$lang['AdminTickets.!error.ai_generation_failed'] = 'AI 응답 생성에 실패했습니다.';
+$lang['AdminTickets.!error.analysis_invalid'] = '잘못된 분석 ID';
+$lang['AdminTickets.!error.reply_not_found'] = '지정한 답장을 찾을 수 없습니다.';
+$lang['AdminTickets.!error.summary_failed'] = '요약을 생성하지 못했습니다.';
 

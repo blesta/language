@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.edit_row.service_client_info'] = 'Info om kundeservice';
 $lang['UniversalModule.edit_row.tags'] = 'Mærker';
 $lang['UniversalModule.!error.package_fields[name][].unique'] = 'Pakkens feltnavn skal være unikt.';
 $lang['UniversalModule.!error.service_fields[name][].unique'] = 'Navnet på servicefeltet skal være unikt.';
+$lang['UniversalModule.back_to_manage'] = 'Tilbage';
 

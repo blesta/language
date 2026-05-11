@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,8 +22,8 @@ $lang['SupportManagerTickets.status.trash'] = 'Çöp';
 $lang['SupportManagerTickets.status.closed'] = 'Kapalı';
 $lang['SupportManagerTickets.status.on_hold'] = 'Beklemede';
 $lang['SupportManagerTickets.status.in_progress'] = 'Devam Ediyor';
-$lang['SupportManagerTickets.status.awaiting_reply'] = 'Müşteri Yanıtı Bekleniyor';
-$lang['SupportManagerTickets.status.open'] = 'Personel Cevabı Bekleniyor';
+$lang['SupportManagerTickets.status.awaiting_reply'] = 'Müşteri Bekleniyor';
+$lang['SupportManagerTickets.status.open'] = 'Bekleyen Personel';
 $lang['SupportManagerTickets.priority.low'] = 'Düşük';
 $lang['SupportManagerTickets.priority.medium'] = 'Orta';
 $lang['SupportManagerTickets.priority.high'] = 'Yüksek';
@@ -69,4 +69,16 @@ $lang['SupportManagerTickets.!error.recipients.valid'] = 'Bilet alıcılarından
 $lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Bilet alıcılarından en az biri mükerrerdir.';
 $lang['SupportManagerTickets.log.service_id'] = 'İlgili servis dahili ID olarak değiştirilmiştir: #%1$s.';
 $lang['SupportManagerTickets.!error.custom_fields.empty'] = '"%1$s" zorunludur ve boş olamaz.';
+$lang['SupportManagerTickets.bell.ticket_updated.title'] = 'Bilet #%1$s Güncellendi';
+$lang['SupportManagerTickets.bell.new_ticket.title'] = 'Yeni Bilet #%1$s';
+$lang['SupportManagerTickets.bell.ticket_updated.message'] = '%1$s%2$s numaralı bilete yanıt verdi: %3$s';
+$lang['SupportManagerTickets.bell.new_ticket.message'] = '%1$s açılan bilet #%2$s: %3$s';
+$lang['SupportManagerTickets.bell.ticket_assigned.title'] = 'Bilet #%1$s Atanan';
+$lang['SupportManagerTickets.bell.ticket_assigned.message'] = 'Bilet numarası%1$s size atanmıştır: %2$s';
+$lang['SupportManagerTickets.!error.inline_image.upload'] = 'Resim yüklenemedi. Lütfen tekrar deneyin.';
+$lang['SupportManagerTickets.!error.inline_image.size'] = 'Görüntü, izin verilen maksimum boyut olan %1$sMB\'ı aşıyor.';
+$lang['SupportManagerTickets.!error.inline_image.type'] = 'Geçersiz görüntü türü. Yalnızca JPEG, PNG, GIF ve WebP görüntülerine izin verilir.';
+$lang['SupportManagerTickets.!error.inline_image.path'] = 'Yükleme dizini oluşturulamadı.';
+$lang['SupportManagerTickets.!error.inline_image.write'] = 'Görüntü kaydedilemedi. Lütfen tekrar deneyin.';
+$lang['SupportManagerTickets.!error.inline_image.base64'] = 'Satır içi base64 resimlere izin verilmez. Lütfen resimleri yüklemek için düzenleyiciye yapıştırın veya sürükleyin.';
 

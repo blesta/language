@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -72,4 +72,5 @@ $lang['VirtfusionDirectProvisioning.module_row_plural'] = 'Сървъри';
 $lang['VirtfusionDirectProvisioning.module_row'] = 'Сървър';
 $lang['VirtfusionDirectProvisioning.description'] = 'Модулът VirtFusion Blesta Direct Provisioning е прост модул, който може да създава, прекратява, спира и прекратява сървъри с директен мост за вход между Blesta и VirtFusion.';
 $lang['VirtfusionDirectProvisioning.name'] = 'VirtFusion Direct Provisioning';
+$lang['Virtfusion.back_to_manage'] = 'Обратно';
 

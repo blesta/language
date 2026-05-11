@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -32,8 +32,8 @@ $lang['AdminMain.files.boxtitle_downloadmanager'] = 'Gestionnaire de télécharg
 $lang['AdminMain.files.tab_files'] = 'Dossiers';
 $lang['AdminMain.files.tab_urls'] = 'URL statiques';
 $lang['AdminMain.files.add_download'] = 'Ajouter le téléchargement ici';
-$lang['AdminMain.files.add_category'] = 'Ajouter une catégorie ici';
-$lang['AdminMain.files.go_back'] = 'Monter d\'un niveau';
+$lang['AdminMain.files.add_category'] = 'Ajouter une catégorie';
+$lang['AdminMain.files.go_back'] = 'Retour';
 $lang['AdminMain.files.edit'] = 'Editer';
 $lang['AdminMain.files.delete'] = 'Supprimer';
 $lang['AdminMain.files.no_downloads'] = 'Il n\'y a pas de téléchargements dans cette section.';
@@ -45,7 +45,7 @@ $lang['AdminMain.urls.tab_urls'] = 'URL statiques';
 $lang['AdminMain.urls.heading_url'] = 'URL';
 $lang['AdminMain.urls.heading_file'] = 'Fichier';
 $lang['AdminMain.urls.heading_link'] = 'Lien';
-$lang['AdminMain.urls.heading_options'] = 'Options';
+$lang['AdminMain.urls.heading_options'] = 'Actions';
 $lang['AdminMain.urls.edit'] = 'Editer';
 $lang['AdminMain.urls.delete'] = 'Supprimer';
 $lang['AdminMain.urls.latest_file'] = 'Dernier fichier de <strong>%1$s</strong>';
@@ -113,6 +113,19 @@ $lang['AdminMain.editcategory.field_description'] = 'Description';
 $lang['AdminMain.editcategory.submit_edit'] = 'Catégorie de mise à jour';
 $lang['AdminMain.editcategory.submit_cancel'] = 'Annuler';
 $lang['AdminMain.package_name'] = '%1$s (%2$s)';
-$lang['AdminMain.edit.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong>%1$s</strong>.';
-$lang['AdminMain.add.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong>%1$s</strong>.';
+$lang['AdminMain.edit.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'REMARQUE : les fichiers doivent se trouver dans votre répertoire de téléchargement : <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.sidebar.files'] = 'Dossiers';
+$lang['AdminMain.sidebar.urls'] = 'URL statiques';
+$lang['AdminMain.!performance.xsendfile'] = 'Le mod_http2 d\'Apache est activé, mais pas le mod_xsendfile. Nous recommandons d\'activer ou d\'installer mod_xsendfile pour de meilleures performances et des téléchargements plus rapides.';
+$lang['AdminMain.modal.confirm_delete'] = 'Confirmer Supprimer';
+$lang['AdminMain.modal.delete'] = 'Supprimer';
+$lang['AdminMain.modal.cancel'] = 'Annuler';
+$lang['AdminMain.modal.save'] = 'Économiser';
+$lang['AdminMain.add.public'] = 'Disponible au public';
+$lang['AdminMain.add.logged_in'] = 'Vous devez être connecté';
+$lang['AdminMain.add.text_fileinfo'] = 'REMARQUE : Les fichiers doivent se trouver dans votre répertoire de téléchargement.';
+$lang['AdminMain.add.field_file_type'] = 'Source du fichier';
+$lang['AdminMain.add.upload'] = 'Télécharger le fichier';
+$lang['AdminMain.add.path'] = 'Spécifier le chemin d\'accès au fichier';
 

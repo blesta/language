@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -23,4 +23,19 @@ $lang['Users.!error.new_password.format'] = 'Моля, въведете паро
 $lang['Users.!error.current_password.matches'] = 'Невалидна парола.';
 $lang['Users.!error.username.unique'] = 'Това потребителско име вече е заето.';
 $lang['Users.!error.username.empty'] = 'Моля, въведете потребителско име.';
+$lang['Users.!error.password_requirement.pattern_fallback'] = 'трябва да съвпада с шаблона: %1$s';
+$lang['Users.!error.password_requirement.must_contain'] = 'трябва да съдържа %1$s';
+$lang['Users.!error.password_requirement.length_min'] = 'най-малко %1$s знаци';
+$lang['Users.!error.password_requirement.length_exact'] = 'точно %1$s символи';
+$lang['Users.!error.password_requirement.length_between'] = 'между знаците %1$s и %2$s ';
+$lang['Users.!error.password_requirement.special_char'] = 'специален символ';
+$lang['Users.!error.password_requirement.digit'] = 'цифри';
+$lang['Users.!error.password_requirement.uppercase'] = 'главна буква';
+$lang['Users.!error.password_requirement.lowercase'] = 'малка буква';
+$lang['Users.!error.new_password.format_custom'] = 'Паролата не отговаря на изискванията: %2$s';
+$lang['Users.!error.new_password.format_num'] = 'Паролата трябва да съдържа поне %1$s символа и само цифри.';
+$lang['Users.!error.new_password.format_alpha'] = 'Паролата трябва да съдържа поне %1$s символа и само букви.';
+$lang['Users.!error.new_password.format_alpha_num'] = 'Паролата трябва да съдържа поне %1$s символа и да съдържа само букви и цифри.';
+$lang['Users.!error.new_password.format_any_no_space'] = 'Паролата трябва да съдържа поне %1$s символа и не може да съдържа интервали.';
+$lang['Users.!error.new_password.format_any'] = 'Паролата трябва да съдържа поне %1$s символа.';
 

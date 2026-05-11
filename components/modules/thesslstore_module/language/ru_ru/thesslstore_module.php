@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -169,4 +169,7 @@ $lang['ThesslstoreModule.!error.api_partner_code_live.empty'] = 'Пожалуй�
 $lang['ThesslstoreModule.!error.thesslstore_reseller_name.empty'] = 'Введите имя посредника';
 $lang['ThesslstoreModule.!error.credential_already_exist'] = 'Учетные данные уже существуют';
 $lang['ThesslstoreModule.!error.api.internal'] = 'Что-то пошло не так при вызове API';
+$lang['ThesslstoreModule.!error.import_no_products'] = 'Из API не было возвращено ни одного продукта. Пожалуйста, проверьте свои учетные данные API и повторите попытку.';
+$lang['ThesslstoreModule.import_packages.margin_note'] = '% Маржа будет применяться к цене всех продуктов. Вы можете изменить его позже в меню настройки цены.';
+$lang['ThesslstoreModule.tab_AdminChangeApproverEmail'] = 'Изменение электронной почты утвердителя';
 

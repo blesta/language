@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -118,7 +118,7 @@ $lang['Navigation.getprimary.nav_billing'] = '청구';
 $lang['Navigation.getprimary.nav_clients_browse'] = '클라이언트 찾아보기';
 $lang['Navigation.getprimary.nav_clients'] = '클라이언트';
 $lang['Navigation.getprimary.nav_home_dashboard'] = '대시보드';
-$lang['Navigation.getprimary.nav_home'] = '홈';
+$lang['Navigation.getprimary.nav_home'] = '대시보드';
 $lang['Navigation.!error.parent_id.valid'] = '잘못된 상위 탐색 항목 ID';
 $lang['Navigation.!error.order.valid'] = '주문 인덱스는 숫자 값이어야 합니다.';
 $lang['Navigation.!error.action_id.valid'] = '잘못된 작업 ID';
@@ -127,4 +127,5 @@ $lang['Navigation.getprimary.nav_tools_provisioning'] = '서비스 대기열';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = '서비스 변경 사항';
 $lang['Navigation.getcompany.nav_electronic_invoices'] = '전자 송장';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = '신용 처리';
+$lang['Navigation.getsystem.nav_ai'] = 'AI';
 

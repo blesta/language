@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -130,4 +130,7 @@ $lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'L\'étiquette ne peut pas co
 $lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Veuillez sélectionner un nuage valide.';
 $lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Veuillez sélectionner un système d\'exploitation valide.';
 $lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Veuillez sélectionner un modèle valide.';
+$lang['Vpsdotnet.back_to_manage'] = 'Retour';
+$lang['Vpsdotnet.manage.tab_rows'] = 'Serveurs';
+$lang['Vpsdotnet.manage.tab_groups'] = 'Groupes de serveurs';
 

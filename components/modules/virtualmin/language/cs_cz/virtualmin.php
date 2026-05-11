@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.package_fields.domains_list'] = 'Seznam dostupných domén';
 $lang['Virtualmin.package_fields.sub_domains_disable'] = 'Zakázat';
 $lang['Virtualmin.package_fields.sub_domains_enable'] = 'Povolit';
 $lang['Virtualmin.package_fields.sub_domains'] = 'Povolení prodeje subdomén';
+$lang['Virtualmin.back_to_manage'] = 'Zpět';
+$lang['Virtualmin.manage.tab_rows'] = 'Servery';
+$lang['Virtualmin.manage.tab_groups'] = 'Skupiny serverů';
 

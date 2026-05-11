@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -160,4 +160,7 @@ $lang['Centovacast.!error.api.internal'] = 'Der opstod en intern fejl, eller ser
 $lang['Centovacast.!error.module_row.missing'] = 'Der opstod en intern fejl. Modulrækken er ikke tilgængelig.';
 $lang['Centovacast.!error.centovacast_hostname.format'] = 'Indtast venligst et gyldigt værtsnavn, f.eks. domain.com.';
 $lang['Centovacast.!error.centovacast_adminpassword.valid'] = 'Adgangskoden skal være på mindst 5 tegn.';
+$lang['Centovacast.back_to_manage'] = 'Tilbage';
+$lang['Centovacast.manage.tab_rows'] = 'Servere';
+$lang['Centovacast.manage.tab_groups'] = 'Servergrupper';
 

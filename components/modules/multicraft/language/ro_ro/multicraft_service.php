@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'ID-ul utilizatorului trebuie
 $lang['MulticraftService.!error.server_id.format'] = 'ID-ul serverului trebuie să fie un număr întreg sau să fie lăsat în alb.';
 $lang['MulticraftService.!error.client'] = 'Nu a fost găsit niciun client din care să se creeze un utilizator Multicraft.';
 $lang['MulticraftService.!error.internal'] = 'A apărut o eroare internă sau serverul nu a răspuns la cerere.';
+$lang['Multicraft.back_to_manage'] = 'Înapoi';
 

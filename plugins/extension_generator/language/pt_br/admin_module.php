@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminModule.features.confirm'] = 'Próximo - Confirmação';
 $lang['AdminModule.features.text_remove'] = 'Remover';
-$lang['AdminModule.features.text_options'] = 'Opções';
+$lang['AdminModule.features.text_options'] = 'Ações';
 $lang['AdminModule.features.cron_task_row_add'] = 'Adicionar tarefa Cron';
 $lang['AdminModule.features.service_tab_row_add'] = 'Adicionar guia Gerenciamento de serviços';
 $lang['AdminModule.features.placeholder_time'] = 'Por exemplo, 14:25 ou 60';
@@ -43,7 +43,7 @@ $lang['AdminModule.fields.package_fields_epp_code_tooltip'] = 'Se deve permitir 
 $lang['AdminModule.fields.package_fields_epp_code_label'] = 'Código EPP';
 $lang['AdminModule.fields.features'] = 'Próximo - Recursos adicionais';
 $lang['AdminModule.fields.text_remove'] = 'Remover';
-$lang['AdminModule.fields.text_options'] = 'Opções';
+$lang['AdminModule.fields.text_options'] = 'Ações';
 $lang['AdminModule.fields.service_row_add'] = 'Adicionar campo de serviço';
 $lang['AdminModule.fields.package_row_add'] = 'Adicionar campo de pacote';
 $lang['AdminModule.fields.module_row_add'] = 'Adicionar campo de linha do módulo';
@@ -85,7 +85,7 @@ $lang['AdminModule.basic.tlds'] = 'TLDs';
 $lang['AdminModule.basic.static_tlds'] = 'Definição estática de TLDs';
 $lang['AdminModule.basic.text_remove'] = 'Remover';
 $lang['AdminModule.basic.author_row_add'] = 'Adicionar autor';
-$lang['AdminModule.basic.text_options'] = 'Opções';
+$lang['AdminModule.basic.text_options'] = 'Ações';
 $lang['AdminModule.basic.author_url'] = 'URL do autor';
 $lang['AdminModule.basic.author_name'] = 'Nome do autor';
 $lang['AdminModule.basic.module_type_registrar'] = 'Registrador';

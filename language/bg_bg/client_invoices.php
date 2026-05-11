@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['ClientInvoices.applied.heading_paymenttype'] = 'Вид плащане';
 $lang['ClientInvoices.index.no_results'] = 'Нямате %1$s Фактури.';
 $lang['ClientInvoices.index.option_pay'] = 'Заплащане';
 $lang['ClientInvoices.index.option_view'] = 'Вижте';
-$lang['ClientInvoices.index.heading_options'] = 'Опции';
+$lang['ClientInvoices.index.heading_options'] = 'Действия';
 $lang['ClientInvoices.index.heading_datedue'] = 'Дата на плащане';
 $lang['ClientInvoices.index.heading_datebilled'] = 'Дата на фактуриране';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Дата на приключване';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -66,7 +66,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = 'Portala Geri D�
 $lang['AppController.client_structure.default_title'] = 'Hesabım';
 $lang['AppController.client_structure.staff_as_client_note'] = 'Personel Portalına Geri Dön';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = 'Bakım Modu şu anda etkindir ve istemciler giriş yapamaz. Değiştirmek için buraya tıklayın.';
+$lang['AppController.structure.text_maintenance'] = 'Bakım Modu şu anda etkindir ve istemciler oturum açamayabilir.';
 $lang['AppController.structure.text_logout'] = 'Çıkış Yap';
 $lang['AppController.structure.text_settings'] = 'Ayarlar';
 $lang['AppController.structure.text_myinfo'] = 'Benim Bilgilerim';
@@ -83,5 +83,23 @@ $lang['AppController.!error.invalid_csrf'] = 'Form belirteci geçersiz.';
 $lang['AppController.!error.unauthorized_access'] = 'Bu kaynağa erişim yetkiniz yok';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.!error.client_unauthorized_access'] = 'Bu kaynağa erişim izniniz yok, erişim talebinde bulunmak için lütfen birincil hesap sahibiyle iletişime geçin';
-$lang['AppController.structure.text_step_up_access'] = 'Şu anda yönetici ayarlarına erişimi olan açık bir yükseltme oturumunuz var. Erişimi bırakmak için buraya tıklayın.';
+$lang['AppController.structure.text_step_up_access'] = 'Şu anda yönetici ayarlarına erişimi olan açık bir yükseltme oturumunuz var.';
+$lang['AppController.structure.text_mark_all_read'] = 'Hepsini okundu olarak işaretle';
+$lang['AppController.structure.text_open'] = 'Açık';
+$lang['AppController.structure.no_notifications'] = 'Yeni bildirim yok';
+$lang['AppController.structure.text_notifications'] = 'Bildirimler';
+$lang['AppController.structure.text_licensed_to'] = 'Lisanslı %1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = 'Oturumu Uzat';
+$lang['AppController.structure.text_step_up_time_remaining'] = 'Kalan süre:';
+$lang['AppController.structure.text_step_up_access_button'] = 'Oturumu Şimdi Sonlandır';
+$lang['AppController.structure.text_step_up_access_header'] = 'Step Up Kimlik Doğrulama Etkin';
+$lang['AppController.structure.text_maintenance_button'] = 'Bakım Modunu Düzenle';
+$lang['AppController.structure.text_maintenance_header'] = 'Bakım Modu Etkin';
+$lang['AppController.structure.text_iconbar'] = 'Simge Çubuğu';
+$lang['AppController.structure.text_notices'] = 'Bildirimler';
+$lang['AppController.text_loading'] = 'Yükleniyor...';
+$lang['AppController.modal.btn_delete'] = 'Silme';
+$lang['AppController.modal.btn_cancel'] = 'İptal';
+$lang['AppController.modal.confirm_delete'] = 'Silme İşlemini Onayla';
 

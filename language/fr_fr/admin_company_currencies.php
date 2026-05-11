@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -76,6 +76,6 @@ $lang['AdminCompanyCurrencies.edit.field_precision'] = 'Précision';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Symbole du préfixe';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Symbole du suffixe';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Taux de change';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Modifier la monnaie';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Mise à jour de la monnaie';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Etes-vous sûr de vouloir mettre à jour cette devise ? Le taux de change de cette devise sera écrasé lorsque les taux de change seront automatiquement mis à jour dans le système. Vous pouvez désactiver les mises à jour automatiques sous [Réglages] > [Société] > [Devises] > [Configuration des devises].';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -87,4 +87,6 @@ $lang['AdminCompanyMessengers.!success.messenger_options_updated'] = 'De messeng
 $lang['AdminCompanyMessengers.!success.uninstalled'] = 'De messenger is succesvol verwijderd.';
 $lang['AdminCompanyMessengers.!success.installed'] = 'De messenger is succesvol geïnstalleerd.';
 $lang['AdminCompanyMessengers.!success.upgraded'] = 'De messenger is succesvol geüpgraded.';
+$lang['AdminCompanyMessengers.text_filter_placeholder'] = 'Filter boodschappers...';
+$lang['AdminCompanyMessengers.text_filter_no_results'] = 'Geen overeenkomende boodschappers gevonden.';
 

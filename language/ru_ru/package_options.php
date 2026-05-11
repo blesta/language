@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -86,4 +86,5 @@ $lang['PackageOptions.!error.label.empty'] = 'Пожалуйста, введит
 $lang['PackageOptions.!error.company_id.exists'] = 'Неверный идентификатор компании.';
 $lang['PackageOptions.!error.hide_on_invoice.valid'] = 'Для параметра "Скрывать при выставлении счета" должно быть установлено значение 0 или 1.';
 $lang['PackageOptions.!error.disable_pricing.valid'] = 'Для отключения ценообразования необходимо установить значение 0 или 1.';
+$lang['PackageOptions.!error.type.in_use'] = 'Тип не может быть изменен, потому что одно или несколько значений опций, не включенных в представление, используются службой.';
 

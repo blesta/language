@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,4 +40,42 @@ $lang['AdminMyinfo.gettabnames.text_index'] = 'Conto';
 $lang['AdminMyinfo.!success.notices_updated'] = 'Le impostazioni dell\'avviso sono state aggiornate con successo.';
 $lang['AdminMyinfo.!success.updated'] = 'Le impostazioni dell\'account sono state aggiornate con successo.';
 $lang['AdminMyinfo.index.field_avatar'] = 'Immagine del profilo';
+$lang['AdminMyinfo.!success.notifications_updated'] = 'Le impostazioni di notifica sono state aggiornate con successo.';
+$lang['AdminMyinfo.gettabnames.text_notifications'] = 'Notifiche';
+$lang['AdminMyinfo.index.heading_profile_picture'] = 'Immagine del profilo';
+$lang['AdminMyinfo.index.heading_account_information'] = 'Informazioni sul conto';
+$lang['AdminMyinfo.index.heading_two_factor'] = 'Autenticazione a due fattori';
+$lang['AdminMyinfo.index.heading_additional_settings'] = 'Impostazioni aggiuntive';
+$lang['AdminMyinfo.index.link_remove_avatar'] = 'Rimuovi immagine';
+$lang['AdminMyinfo.index.text_avatar_recommendation'] = 'Consigliato: 150x150px, JPG o PNG, max 2MB';
+$lang['AdminMyinfo.index.text_scan_qr'] = 'Scansione con l\'app Authenticator';
+$lang['AdminMyinfo.index.text_authenticator_apps'] = 'Utilizzare Google Authenticator, Authy o qualsiasi altra applicazione compatibile con TOTP.';
+$lang['AdminMyinfo.notifications.page_title'] = 'Le mie informazioni &gt; Notifiche';
+$lang['AdminMyinfo.notifications.heading_notifications'] = 'Notifiche';
+$lang['AdminMyinfo.notifications.field_notificationsubmit'] = 'Notifiche di aggiornamento';
+$lang['AdminMyinfo.notifications.no_results'] = 'Non ci sono notifiche disponibili per il vostro gruppo di collaboratori.';
+$lang['AdminMyinfo.!success.iconbar_updated'] = 'Le impostazioni della barra delle icone sono state aggiornate con successo.';
+$lang['AdminMyinfo.!success.iconbar_reset'] = 'Le impostazioni della barra delle icone sono state ripristinate ai valori predefiniti.';
+$lang['AdminMyinfo.iconbar.page_title'] = 'Le mie informazioni &gt; Barra delle icone';
+$lang['AdminMyinfo.iconbar.heading_iconbar'] = 'Barra delle icone';
+$lang['AdminMyinfo.iconbar.text_info'] = 'Configurare le icone che appaiono nella barra delle icone e il loro ordine. Trascinare le icone per riorganizzarle, fare clic sul pulsante di modifica per cambiare l\'icona e utilizzare le caselle di controllo per attivare o disattivare le icone. La barra delle icone consente di accedere rapidamente alle funzioni più utilizzate.';
+$lang['AdminMyinfo.iconbar.btn_save'] = 'Salva le modifiche';
+$lang['AdminMyinfo.iconbar.btn_reset'] = 'Ripristino delle impostazioni predefinite';
+$lang['AdminMyinfo.iconbar.btn_create_custom'] = 'Creare un\'icona personalizzata';
+$lang['AdminMyinfo.iconbar.modal_create_title'] = 'Creare un\'icona personalizzata';
+$lang['AdminMyinfo.iconbar.modal_edit_title'] = 'Icona Modifica';
+$lang['AdminMyinfo.iconbar.field_name'] = 'Nome';
+$lang['AdminMyinfo.iconbar.field_url'] = 'URL';
+$lang['AdminMyinfo.iconbar.field_icon_class'] = 'Classe di icone (icone Bootstrap)';
+$lang['AdminMyinfo.iconbar.field_item_name'] = 'Nome dell\'articolo';
+$lang['AdminMyinfo.iconbar.text_name_description'] = 'Inserite un nome per questo elemento della barra delle icone';
+$lang['AdminMyinfo.iconbar.text_url_description'] = 'Inserite l\'URL a cui l\'icona deve collegarsi';
+$lang['AdminMyinfo.iconbar.text_icon_description'] = 'Inserire il nome di una classe di icone Bootstrap (ad esempio, bi-grid, bi-people, bi-calendar-event).';
+$lang['AdminMyinfo.iconbar.text_browse_icons'] = 'Sfogliare le icone';
+$lang['AdminMyinfo.iconbar.btn_modal_apply'] = 'Applicare';
+$lang['AdminMyinfo.iconbar.btn_modal_create'] = 'Icona Crea';
+$lang['AdminMyinfo.iconbar.btn_modal_cancel'] = 'Annullamento';
+$lang['AdminMyinfo.iconbar.confirm_reset'] = 'Siete sicuri di voler ripristinare le impostazioni predefinite della barra delle icone?';
+$lang['AdminMyinfo.iconbar.field_show_ai_chatbot'] = 'Icona Chatbot';
+$lang['AdminMyinfo.iconbar.text_show_ai_chatbot'] = 'Visualizza l\'icona del chatbot AI nella barra delle icone. Deselezionare per rimuoverla.';
 

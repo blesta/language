@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -103,4 +103,6 @@ $lang['AdminCompanyPlugins.!success.enabled'] = 'Το πρόσθετο ενερ�
 $lang['AdminCompanyPlugins.!success.upgraded'] = 'Το πρόσθετο αναβαθμίστηκε με επιτυχία.';
 $lang['AdminCompanyPlugins.!success.uninstalled'] = 'Το πρόσθετο απεγκαταστάθηκε επιτυχώς.';
 $lang['AdminCompanyPlugins.!success.installed'] = 'Το πρόσθετο εγκαταστάθηκε με επιτυχία. Μπορεί να έχει καταχωρήσει δικαιώματα ACL για διάφορους πόρους. Ίσως χρειαστεί να χορηγήσετε στην ομάδα προσωπικού σας πρόσβαση σε αυτά τα δικαιώματα για να αποκτήσετε πρόσβαση σε αυτούς τους πόρους.';
+$lang['AdminCompanyPlugins.text_filter_placeholder'] = 'Πρόσθετα φίλτρων...';
+$lang['AdminCompanyPlugins.text_filter_no_results'] = 'Δεν βρέθηκαν ταιριαστά plugins.';
 

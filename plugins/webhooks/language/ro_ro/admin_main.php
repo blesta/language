@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Callback';
 $lang['AdminMain.edit.field_event'] = 'Eveniment';
 $lang['AdminMain.edit.field_callback'] = 'Callback';
 $lang['AdminMain.edit.option_delete'] = 'Ștergeți';
-$lang['AdminMain.edit.heading_options'] = 'Opțiuni';
+$lang['AdminMain.edit.heading_options'] = 'Acțiuni';
 $lang['AdminMain.edit.heading_parameter'] = 'Domeniu nou';
 $lang['AdminMain.edit.heading_field'] = 'Câmpul original';
 $lang['AdminMain.edit.heading_fields_map'] = 'Câmpuri Harta';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Callback';
 $lang['AdminMain.add.field_event'] = 'Eveniment';
 $lang['AdminMain.add.field_callback'] = 'Callback';
 $lang['AdminMain.add.option_delete'] = 'Ștergeți';
-$lang['AdminMain.add.heading_options'] = 'Opțiuni';
+$lang['AdminMain.add.heading_options'] = 'Acțiuni';
 $lang['AdminMain.add.heading_parameter'] = 'Domeniu nou';
 $lang['AdminMain.add.heading_field'] = 'Câmpul original';
 $lang['AdminMain.add.heading_fields_map'] = 'Câmpuri Harta';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Primește o cerere HTTP ș
 $lang['AdminMain.index.text_description_outgoing'] = 'Trimite o cerere HTTP către o adresă URL atunci când este declanșat un eveniment. Cererea poate fi trimisă folosind GET, POST, PUT sau JSON.';
 $lang['AdminMain.index.option_delete'] = 'Ștergeți';
 $lang['AdminMain.index.option_edit'] = 'Editați';
-$lang['AdminMain.index.heading_options'] = 'Opțiuni';
+$lang['AdminMain.index.heading_options'] = 'Acțiuni';
 $lang['AdminMain.index.heading_method'] = 'Metoda';
 $lang['AdminMain.index.heading_event'] = 'Eveniment';
 $lang['AdminMain.index.heading_callback'] = 'Callback';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Stare HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Eveniment';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Toate Webhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Opțiuni';
+$lang['AdminMain.logs.heading_options'] = 'Acțiuni';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Ultima încercare';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Data declanșării';
 $lang['AdminMain.logs.heading_http_response'] = 'Răspuns HTTP';

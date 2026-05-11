@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -61,4 +61,5 @@ $lang['PterodactylPackage.!error.meta[port_range].format'] = 'Το εύρος τ
 $lang['PterodactylPackage.!error.meta[dedicated_ip].format'] = 'Η επιλογή για τη χρήση αποκλειστικής IP πρέπει να οριστεί σε 1 ή 0.';
 $lang['PterodactylPackage.!error.meta[location_id].valid'] = 'Το αναγνωριστικό τοποθεσίας δεν ταιριάζει με κανένα στο Pterodactyl.';
 $lang['PterodactylPackage.!error.meta[location_id].format'] = 'Το αναγνωριστικό θέσης πρέπει να είναι αριθμητικό.';
+$lang['Pterodactyl.back_to_manage'] = 'Πίσω';
 

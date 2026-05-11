@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,6 @@ $lang['AdminMain.index.heading.title'] = '标题';
 $lang['AdminMain.index.heading.uri'] = '通用资源识别号';
 $lang['AdminMain.index.boxtitle'] = '内容管理系统页面';
 $lang['AdminMain.index.page_title'] = '内容管理系统页面';
+$lang['AdminMain.index.heading.options'] = '行动';
+$lang['AdminMain.manage.back'] = '返回页面';
 

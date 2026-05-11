@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,4 +20,5 @@ $lang['Blockonomics.api_key'] = 'API 키';
 $lang['Blockonomics.!error.api_key.valid'] = 'API 키가 유효하지 않습니다.';
 $lang['Blockonomics.description'] = '비트코인 결제를 수락하면 온라인 판매 금액이 지갑에 바로 입금됩니다. KYC 서류가 필요하지 않습니다.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid_placeholder'] = '아래에서 통화를 선택하여 상위 제품 UID를 구성합니다.';
 

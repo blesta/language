@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -21,7 +21,7 @@ $lang['ClientQuotations.approve.field_password'] = '승인할 로그인 비밀�
 $lang['ClientQuotations.approve.heading_approve'] = '승인';
 $lang['ClientQuotations.index.option_approve'] = '승인';
 $lang['ClientQuotations.index.option_view'] = '보기';
-$lang['ClientQuotations.index.heading_options'] = '옵션';
+$lang['ClientQuotations.index.heading_options'] = '작업';
 $lang['ClientQuotations.index.heading_date_expires'] = '날짜 만료';
 $lang['ClientQuotations.index.heading_date_created'] = '생성된 날짜';
 $lang['ClientQuotations.index.heading_total'] = '금액';

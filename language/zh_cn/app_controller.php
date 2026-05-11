@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -65,7 +65,7 @@ $lang['AppController.client_structure.text_return_to_portal'] = '返回门户网
 $lang['AppController.client_structure.default_title'] = '我的账户';
 $lang['AppController.client_structure.staff_as_client_note'] = '返回工作人员门户网站';
 $lang['AppController.structure.text_search_placeholder'] = '%1$s...';
-$lang['AppController.structure.text_maintenance'] = '当前已启用维护模式，客户可能无法登录。单击此处更改。';
+$lang['AppController.structure.text_maintenance'] = '目前已启用维护模式，客户无法登录。';
 $lang['AppController.structure.text_logout'] = '退出登录';
 $lang['AppController.structure.text_settings'] = '设置';
 $lang['AppController.structure.text_myinfo'] = '我的信息';
@@ -83,5 +83,23 @@ $lang['AppController.!error.unauthorized_access'] = '您无权访问该资源';
 $lang['AppController.lang.dir'] = 'lt';
 $lang['AppController.dropzone.text'] = '点击此处上传文件或点击此处选择文件';
 $lang['AppController.!error.client_unauthorized_access'] = '您没有访问该资源的权限，请联系主要账户持有人申请访问权限';
-$lang['AppController.structure.text_step_up_access'] = '您目前打开了一个可访问管理设置的升级会话。单击此处取消访问。';
+$lang['AppController.structure.text_step_up_access'] = '您目前打开了一个可访问管理设置的升级会话。';
+$lang['AppController.structure.text_mark_all_read'] = '标记全部已读';
+$lang['AppController.structure.text_open'] = '开放';
+$lang['AppController.structure.no_notifications'] = '无新通知';
+$lang['AppController.structure.text_notifications'] = '通知';
+$lang['AppController.structure.text_licensed_to'] = '授权给%1$s';
+$lang['AppController.structure.text_version'] = 'v%1$s';
+$lang['AppController.structure.text_step_up_extend'] = '延长会话';
+$lang['AppController.structure.text_step_up_time_remaining'] = '剩余时间：';
+$lang['AppController.structure.text_step_up_access_button'] = '立即结束会议';
+$lang['AppController.structure.text_step_up_access_header'] = '主动升级验证';
+$lang['AppController.structure.text_maintenance_button'] = '编辑维护模式';
+$lang['AppController.structure.text_maintenance_header'] = '已启用维护模式';
+$lang['AppController.structure.text_iconbar'] = '图标栏';
+$lang['AppController.structure.text_notices'] = '通知';
+$lang['AppController.text_loading'] = '正在加载...';
+$lang['AppController.modal.btn_delete'] = '删除';
+$lang['AppController.modal.btn_cancel'] = '取消';
+$lang['AppController.modal.confirm_delete'] = '确认删除';
 

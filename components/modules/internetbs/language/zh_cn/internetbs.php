@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = '账户';
 $lang['Internetbs.module_row'] = '账户';
 $lang['Internetbs.description'] = 'Internet.bs 提供国家代码顶级域和通用顶级域的域名注册和转移服务。';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = '返回';
+$lang['Internetbs.manage.tab_rows'] = '服务器';
+$lang['Internetbs.manage.tab_groups'] = '服务器组';
 

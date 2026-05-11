@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -142,7 +142,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = '가치';
 $lang['Namesilo.dnsrecord.host'] = '호스트';
 $lang['Namesilo.dnsrecord.record_type'] = '유형';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = '이 페이지에서 A, AAAA, CNAME, MX 및 TXT DNS 레코드를 추가하거나 삭제할 수 있습니다. DNS 레코드가 전파되는 데 몇 분 정도 걸릴 수 있다는 점에 유의하세요.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = '이 페이지에서 A, AAAA, CNAME, MX 및 TXT DNS 레코드를 추가하거나 삭제할 수 있습니다. DNS 레코드가 전파되는 데 몇 분 정도 걸릴 수 있습니다. <br/> 이러한 변경 사항을 도메인 네임에 반영하려면 네임 서버를 다음과 같이 설정해야 합니다:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = '레코드 추가';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = '기록 삭제';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'DNS 레코드 추가';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = '네임실로의 연락처�
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = '풀 네임실로 연락처';
 $lang['Namesilo.notice.default_nameservers'] = '이 기능을 사용하려면 도메인에서 다음 네임 서버를 사용해야 합니다: ns1.dnsowl.com, ns2.dnsowl.com 및 ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = '도메인을 등록할 수 없습니다.';
+$lang['Namesilo.back_to_manage'] = '뒤로';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = '작업';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = '하나 이상의 필드에 특수 문자(예: 악센트 문자)가 포함되어 있습니다. NameSilo는 연락처 필드에서 이러한 문자를 지원하지 않을 수 있습니다.';
+$lang['Namesilo.tab_domain_forwarding.title'] = '도메인 포워딩';
+$lang['Namesilo.tab_domain_forwarding.desc'] = '도메인 전달은 도메인에 네임 서버를 변경하거나 @ 및 www의 기본 A 레코드를 변경하는 등의 다른 작업을 수행하면 자동으로 제거됩니다. <br/> 이러한 변경 사항을 도메인 이름에 반영하려면 네임 서버를 다음과 같이 설정해야 합니다.<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM.';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = '도메인';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = '전달 대상';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = '전달 방법';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = '영구 포워드 (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = '임시 전달 (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = '클로킹';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = '활성';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = '삭제';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = '전달자 업데이트';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = '전달 URL이 잘못되었습니다. HTTPS 또는 HTTP를 사용해야 합니다.';
 

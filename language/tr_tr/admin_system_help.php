@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,4 +19,6 @@ $lang['AdminSystemHelp.index.text_user_manual'] = 'Blesta\'yı nasıl yapıland�
 $lang['AdminSystemHelp.index.heading_user_manual'] = 'Kullanıcı Kılavuzu';
 $lang['AdminSystemHelp.boxtitle_help'] = 'Kaynaklar';
 $lang['AdminSystemHelp.index.page_title'] = 'Ayarlar > Sistem > Yardım > Kaynaklar';
+$lang['AdminSystemHelp.credits.page_title'] = 'Ayarlar &gt; Sistem &gt; Yardım &gt; Blesta Hakkında';
+$lang['AdminSystemHelp.credits.boxtitle_credits'] = 'Blesta Hakkında';
 

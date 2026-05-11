@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -71,7 +71,7 @@ $lang['AdminMain.settings.heading_notifications'] = '주문 알림';
 $lang['AdminMain.orderinfo.services_no_results'] = '이 순서대로 서비스가 제공되지 않습니다.';
 $lang['AdminMain.orderinfo.services_text_never'] = '절대로';
 $lang['AdminMain.orderinfo.services_option_manage'] = '관리';
-$lang['AdminMain.orderinfo.services_heading_options'] = '옵션';
+$lang['AdminMain.orderinfo.services_heading_options'] = '작업';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = '날짜 갱신';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = '추가된 날짜';
 $lang['AdminMain.orderinfo.services_heading_term'] = '기간';
@@ -80,7 +80,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = '패키지';
 $lang['AdminMain.orderinfo.services_heading'] = '서비스';
 $lang['AdminMain.orderinfo.applied_no_results'] = '이 주문에 적용된 거래가 없습니다.';
 $lang['AdminMain.orderinfo.applied_option_edit'] = '편집';
-$lang['AdminMain.orderinfo.applied_heading_options'] = '옵션';
+$lang['AdminMain.orderinfo.applied_heading_options'] = '작업';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = '적용됨';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = '적용됨';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = '금액';
@@ -112,4 +112,16 @@ $lang['AdminMain.!success.settings_updated'] = '주문 설정이 성공적으로
 $lang['AdminMain.!success.status_updated'] = '선택한 주문이 성공적으로 업데이트되었습니다.';
 $lang['AdminMain.affiliates.monthly_visits'] = '평균 %1$s/월';
 $lang['AdminMain.affiliates.monthly_sales'] = '평균 %1$s/월';
+$lang['AdminMain.index.paid'] = '유료';
+$lang['AdminMain.index.unpaid'] = '미지급';
+$lang['AdminMain.index.loading'] = '로드 중...';
+$lang['AdminMain.index.text_items_selected'] = '선택한 항목';
+$lang['AdminMain.orderinfo.applied_heading_id'] = '거래 ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = '상태';
+$lang['AdminMain.orderinfo.applied_heading_date'] = '날짜';
+$lang['AdminMain.orderinfo.services_heading_name'] = '서비스';
+$lang['AdminMain.orderinfo.services_heading_status'] = '상태';
+$lang['AdminMain.orderinfo.services_status_pending'] = '보류 중';
+$lang['AdminMain.settings.text_notifications'] = '새 주문에 대한 알림 수신 방법을 구성합니다.';
+$lang['AdminMain.settings.text_affiliate_notifications'] = '제휴 대금 지급에 대한 알림 수신 방법을 구성합니다.';
 

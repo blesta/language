@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,4 +36,6 @@ $lang['Emails.!error.email_signature_id.in_use'] = 'Diese E-Mail-Signatur ist de
 $lang['Emails.!error.text.parse'] = 'Fehler beim Parsen der Vorlage: %1$s';
 $lang['Emails.!error.html.parse'] = 'Fehler beim Parsen der Vorlage: %1$s';
 $lang['Emails.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
+$lang['Emails.!error.snapshot_id.belongs_to_email'] = 'Der Snapshot gehört nicht zu der angegebenen E-Mail.';
+$lang['Emails.!error.snapshot_id.exists'] = 'Ungültige Snapshot-ID.';
 

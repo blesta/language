@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -97,16 +97,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(použito %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'Dostupné balíčky';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'Přiřazené balíčky';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'Všechny';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Upravit kupón';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'Aktualizace kupónu';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'Filtr skupiny balíčků';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Balíčky';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'Omezení balíčku';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'Odstranění adresy';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'NEUPLATŇUJE SE';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'Podmínky';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'Období';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'Povoleno';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'Tento kupón lze uplatnit pouze na služby objednané na jeden z vybraných termínů/období. Pokud nejsou povoleny žádné, bude termín pro službu při vyhodnocování omezení kuponu ignorován.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Podmínky';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'Termínová omezení';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'Hodnota';
 $lang['AdminCompanyBilling.editcoupon.text_type'] = 'Typ';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'Měna';
@@ -117,7 +117,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'Omezení se 
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'Množství';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'Datum ukončení';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'Datum zahájení';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Omezení';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'Omezení a restrikce';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'Generování kódu';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'Kód kupónu';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'Pouze pro interní použití';
@@ -132,7 +132,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'Přiřazené ba
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'Všechny';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'Vytvořit kupón';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'Filtr skupiny balíčků';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Balíčky';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'Omezení balíčku';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'Odstranění adresy';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'NEUPLATŇUJE SE';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'Podmínky';
@@ -150,7 +150,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'Omezení se n
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'Množství';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'Datum ukončení';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'Datum zahájení';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Omezení';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'Omezení a restrikce';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'Generování kódu';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'Kód kupónu';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'Pouze pro interní použití';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'Požadavky';
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'Možnost';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'Skupina možností';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'Tento kupón lze použít pouze v případě, že vybrané konfigurovatelné možnosti odpovídají. Pokud chcete ignorovat omezení konfigurovatelných možností, ponechte prázdné pole.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Konfigurovatelné možnosti';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'Omezení konfigurovatelných možností';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'Přidat';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'Opětovné předání faktur k doručení po jejich uzavření.';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'Klient obdrží denní oznámení, když jeho kreditní zůstatek klesne pod tuto částku. Pokud chcete oznámení pro tuto měnu zakázat, ponechte prázdné.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'Maximální částka pr
 $lang['AdminCompanyBilling.!error.max_amount'] = 'Maximální částka pro %1$s musí být větší než 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'Minimální částka pro %1$s musí být větší než 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'Nastavení zpracování kreditů bylo úspěšně aktualizováno!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'Zadejte prosím název zpáteční adresy.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'Zadejte prosím zpáteční adresu společnosti.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'Zadejte prosím zpáteční adresu.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'Zadejte prosím zpáteční adresu města.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'Vyberte prosím stát/provincii zpáteční adresy.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'Zadejte prosím zpáteční adresu, poštovní směrovací číslo.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'Zvolte prosím zemi zpáteční adresy.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'Dostupné značky zahrnují: {číslo} - číslo citace (povinné); {rok} - čtyřmístný rok; {měsíc} - dvoumístný měsíc; {den} - dvoumístný den v měsíci.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'Čísla uvozovek začínají (a zvyšují se) od této počáteční hodnoty.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'Následná čísla citací se o tuto hodnotu zvýší.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'Omezení používání';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'Omezení používání';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'Obálka s odpovědí';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'Zpětná adresa';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'Název';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'Společnost';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'Adresa 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'Adresa 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'Město';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'Stát/provincie';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'Poštovní směrovací číslo';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'Země';
 

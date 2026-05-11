@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -30,7 +30,7 @@ $lang['AdminMain.index.extensions_no_results'] = 'В момента няма у�
 $lang['AdminMain.index.text_confirm_delete'] = 'Сигурни ли сте, че искате да изтриете това разширение?';
 $lang['AdminMain.index.option_delete'] = 'Изтриване на';
 $lang['AdminMain.index.option_edit'] = 'Редактиране на';
-$lang['AdminMain.index.heading_options'] = 'Опции';
+$lang['AdminMain.index.heading_options'] = 'Действия';
 $lang['AdminMain.index.heading_date_updated'] = 'Дата на актуализация';
 $lang['AdminMain.index.heading_code_examples'] = 'Примери за код';
 $lang['AdminMain.index.heading_form_type'] = 'Вид на формуляра';

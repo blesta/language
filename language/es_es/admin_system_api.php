@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['AdminSystemApi.index.heading_user'] = 'Usuario';
 $lang['AdminSystemApi.index.heading_key'] = 'Clave';
 $lang['AdminSystemApi.index.heading_company'] = 'Empresa';
 $lang['AdminSystemApi.index.heading_date'] = 'Fecha de creación';
-$lang['AdminSystemApi.index.heading_options'] = 'Opciones';
+$lang['AdminSystemApi.index.heading_options'] = 'Acciones';
 $lang['AdminSystemApi.index.option_edit'] = 'Editar';
 $lang['AdminSystemApi.index.option_delete'] = 'Borrar';
 $lang['AdminSystemApi.index.no_results'] = 'No hay usuarios de la API.';
@@ -29,7 +29,7 @@ $lang['AdminSystemApi.add.boxtitle_add'] = 'Añadir usuario API';
 $lang['AdminSystemApi.add.field_company'] = 'Empresa';
 $lang['AdminSystemApi.add.field_user'] = 'Usuario';
 $lang['AdminSystemApi.add.field_notes'] = 'Notas';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Añadir usuario';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Crear usuario';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Editar usuario API';
 $lang['AdminSystemApi.edit.field_company'] = 'Empresa';
 $lang['AdminSystemApi.edit.field_user'] = 'Usuario';

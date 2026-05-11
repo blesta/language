@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -70,7 +70,7 @@ $lang['ClientContacts.index.no_results'] = 'Δεν έχετε επαφές. Γι
 $lang['ClientContacts.index.confirm_delete'] = 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την επαφή;';
 $lang['ClientContacts.index.option_delete'] = 'Διαγραφή';
 $lang['ClientContacts.index.option_edit'] = 'Επεξεργασία';
-$lang['ClientContacts.index.heading_options'] = 'Επιλογές';
+$lang['ClientContacts.index.heading_options'] = 'Δράσεις';
 $lang['ClientContacts.index.heading_type'] = 'Τύπος';
 $lang['ClientContacts.index.heading_email'] = 'Ηλεκτρονικό ταχυδρομείο';
 $lang['ClientContacts.index.heading_name'] = 'Όνομα';

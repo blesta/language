@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.index.email_to'] = 'La';
 $lang['AdminMain.index.type.export'] = 'Export';
 $lang['AdminMain.index.type.email'] = 'Email';
 $lang['AdminMain.index.option_export'] = 'Export';
-$lang['AdminMain.index.heading_options'] = 'Opțiuni';
+$lang['AdminMain.index.heading_options'] = 'Acțiuni';
 $lang['AdminMain.index.heading_complete'] = 'Completat';
 $lang['AdminMain.index.heading_status'] = 'Stare';
 $lang['AdminMain.index.heading_type'] = 'Tip';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminMain.index.email_to'] = 'إلى';
 $lang['AdminMain.index.type.export'] = 'التصدير';
 $lang['AdminMain.index.type.email'] = 'البريد الإلكتروني';
 $lang['AdminMain.index.option_export'] = 'التصدير';
-$lang['AdminMain.index.heading_options'] = 'الخيارات';
+$lang['AdminMain.index.heading_options'] = 'الإجراءات';
 $lang['AdminMain.index.heading_complete'] = 'مكتمل';
 $lang['AdminMain.index.heading_status'] = 'الحالة';
 $lang['AdminMain.index.heading_type'] = 'النوع';

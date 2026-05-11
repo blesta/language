@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -128,4 +128,7 @@ $lang['Ispconfig.module_row_plural'] = 'Servers';
 $lang['Ispconfig.module_row'] = 'Διακομιστής';
 $lang['Ispconfig.description'] = 'Το ISPConfig 3 είναι ένας πίνακας ανοικτού κώδικα για Linux που μπορεί να διαχειριστεί πολλούς διακομιστές από έναν πίνακα ελέγχου.';
 $lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.back_to_manage'] = 'Πίσω';
+$lang['Ispconfig.manage.tab_rows'] = 'Servers';
+$lang['Ispconfig.manage.tab_groups'] = 'Ομάδες διακομιστών';
 

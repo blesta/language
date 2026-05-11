@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -143,7 +143,7 @@ $lang['Namesilo.dnsrecord.ttl'] = 'TTL';
 $lang['Namesilo.dnsrecord.value'] = 'Valore';
 $lang['Namesilo.dnsrecord.host'] = 'Ospite';
 $lang['Namesilo.dnsrecord.record_type'] = 'Tipo';
-$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'In questa pagina è possibile aggiungere o eliminare i record DNS A, AAAA, CNAME, MX e TXT. Si tenga presente che la propagazione dei record DNS potrebbe richiedere alcuni minuti.';
+$lang['Namesilo.tab_dnsrecord.help_text_1'] = 'In questa pagina è possibile aggiungere o eliminare i record DNS A, AAAA, CNAME, MX e TXT. Si tenga presente che potrebbero essere necessari alcuni minuti per la propagazione dei record DNS. <br/> Per far sì che una qualsiasi di queste modifiche si rifletta sul vostro nome di dominio, dovete impostare i server dei nomi su:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
 $lang['Namesilo.tab_dnsrecord.field_add'] = 'Aggiungi record';
 $lang['Namesilo.tab_dnsrecord.field_delete'] = 'Cancellare i record';
 $lang['Namesilo.tab_dnsrecord.title_add'] = 'Aggiungere un record DNS';
@@ -249,4 +249,19 @@ $lang['Namesilo.getCronTasks.pull_contacts_desc'] = 'Raccoglie i contatti da nam
 $lang['Namesilo.getCronTasks.pull_contacts_name'] = 'Tirare i contatti Namesilo';
 $lang['Namesilo.notice.default_nameservers'] = 'Questa funzione richiede che il dominio utilizzi i seguenti server di nomi: ns1.dnsowl.com, ns2.dnsowl.com e ns3.dnsowl.com.';
 $lang['Namesilo.!error.domain_unavailable'] = 'Il dominio non è disponibile per la registrazione.';
+$lang['Namesilo.back_to_manage'] = 'Indietro';
+$lang['Namesilo.tab_manage_contacts.heading_actions'] = 'Azioni';
+$lang['Namesilo.tab_edit_contact.special_char_warning'] = 'Uno o più campi contengono caratteri speciali (ad esempio, lettere accentate). NameSilo potrebbe non supportare questi caratteri nei campi dei contatti.';
+$lang['Namesilo.tab_domain_forwarding.title'] = 'Inoltro del dominio';
+$lang['Namesilo.tab_domain_forwarding.desc'] = 'L\'inoltro del dominio viene rimosso automaticamente quando si dà al dominio qualcos\'altro da fare, come ad esempio cambiare i server dei nomi o cambiare i record A primari per @ e www. <br/> Per far sì che una qualsiasi di queste modifiche si rifletta sul proprio nome di dominio, è necessario impostare i server dei nomi su:<br />NS1.DNSOWL.COM<br />NS2.DNSOWL.COM<br />NS3.DNSOWL.COM';
+$lang['Namesilo.tab_domain_forwarding.field_domain'] = 'Dominio';
+$lang['Namesilo.tab_domain_forwarding.field_forward_to'] = 'Inoltrare a';
+$lang['Namesilo.tab_domain_forwarding.field_http_type'] = 'Metodo di inoltro';
+$lang['Namesilo.tab_domain_forwarding.permanent_forward'] = 'Avanti permanente (301)';
+$lang['Namesilo.tab_domain_forwarding.temp_forward'] = 'Avanti temporaneo (302)';
+$lang['Namesilo.tab_domain_forwarding.cloaked'] = 'Ammantato';
+$lang['Namesilo.tab_domain_forwarding.field_active'] = 'Attivo';
+$lang['Namesilo.tab_domain_forwarding.field_delete'] = 'Cancellare';
+$lang['Namesilo.tab_domain_forwarding.field_submit'] = 'Aggiornare gli spedizionieri';
+$lang['Namesilo.tab_domain_forwarding.invalid_url'] = 'L\'URL di inoltro non è valido. Assicurarsi di utilizzare HTTPS o HTTP.';
 

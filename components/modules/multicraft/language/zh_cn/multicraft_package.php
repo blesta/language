@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.!error.meta[jardir].format'] = '请选择一个有效�
 $lang['MulticraftPackage.!error.meta[memory].format'] = '请将最大内存容量设置为以 MB 为单位的整数。';
 $lang['MulticraftPackage.!error.meta[players].format'] = '请设置允许的最大玩家人数。';
 $lang['MulticraftPackage.!error.meta[server_name].format'] = '请设置服务器名称。';
+$lang['Multicraft.back_to_manage'] = '返回';
 

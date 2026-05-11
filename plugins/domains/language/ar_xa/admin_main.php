@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -93,7 +93,7 @@ $lang['AdminMain.add.term_days'] = '%1$s الأيام';
 $lang['AdminMain.add.term_day'] = '%1$s اليوم';
 $lang['AdminMain.add.text_domain_unavailable'] = 'غير متاح';
 $lang['AdminMain.add.text_domain_available'] = 'متوفرة';
-$lang['AdminMain.add.heading_options'] = 'الخيارات';
+$lang['AdminMain.add.heading_options'] = 'الإجراءات';
 $lang['AdminMain.add.heading_status'] = 'الحالة';
 $lang['AdminMain.add.heading_domain'] = 'المجال';
 $lang['AdminMain.add.title_registrar_options'] = 'خيارات أمين السجل';
@@ -114,7 +114,7 @@ $lang['AdminMain.add.field_add'] = 'إضافة نطاق';
 $lang['AdminMain.add.field_register'] = 'التسجيل';
 $lang['AdminMain.add.field_transfer'] = 'التحويل';
 $lang['AdminMain.add.link_viewclient'] = 'عرض العميل';
-$lang['AdminMain.add.boxtitle_add'] = 'إضافة نطاق: %1$s';
+$lang['AdminMain.add.boxtitle_add'] = 'إضافة نطاق %1$s';
 $lang['AdminMain.add.boxtitle_client'] = 'العميل #%1$s';
 $lang['AdminMain.index.unparent'] = 'إلغاء الوالدين وإعادة تعيين السعر';
 $lang['AdminMain.!error.unsupported_domain'] = 'اسم النطاق غير مدعوم.';
@@ -148,7 +148,7 @@ $lang['AdminMain.index.category_canceled'] = 'تم الإلغاء';
 $lang['AdminMain.index.category_suspended'] = 'موقوفة عن العمل';
 $lang['AdminMain.index.category_pending'] = 'قيد الانتظار';
 $lang['AdminMain.index.category_active'] = 'نشط';
-$lang['AdminMain.index.heading_options'] = 'الخيارات';
+$lang['AdminMain.index.heading_options'] = 'الإجراءات';
 $lang['AdminMain.index.heading_datecanceled'] = 'تاريخ الإلغاء';
 $lang['AdminMain.index.heading_datesuspended'] = 'تاريخ الإيقاف';
 $lang['AdminMain.index.heading_dateexpires'] = 'تاريخ انتهاء الصلاحية';
@@ -172,4 +172,18 @@ $lang['AdminMain.add.text_refresh'] = 'تحديث';
 $lang['AdminMain.index.tooltip_transferred'] = 'تم نقل النطاق من المسجل.';
 $lang['AdminMain.!success.remove_price_override'] = 'تمت إزالة سعر تجاوز النطاق!';
 $lang['AdminMain.!success.set_price_override'] = 'تم تحديث سعر تجاوز النطاق!';
+$lang['AdminMain.add.heading_search'] = 'البحث عن النطاق';
+$lang['AdminMain.add.field_domain'] = 'المجال';
+$lang['AdminMain.add.label_spotlight_tlds'] = 'تسليط الضوء على نطاقات TLD';
+$lang['AdminMain.add.link_more_tlds'] = 'المزيد من نطاقات TLD';
+$lang['AdminMain.add.button_cancel'] = 'إلغاء';
+$lang['AdminMain.add.button_previous'] = 'السابق';
+$lang['AdminMain.add.button_continue'] = 'تابع';
+$lang['AdminMain.add_confirmation.total'] = 'المجموع:';
+$lang['AdminMain.add_confirmation.heading_line_items'] = 'البنود الخطية';
+$lang['AdminMain.add_confirmation.heading_coupon'] = 'كوبون الكوبون';
+$lang['AdminMain.add_confirmation.heading_total'] = 'مجموع الطلبات';
+$lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'أدخل رمز القسيمة';
+$lang['AdminMain.edit.text_select_action'] = 'انقر فوق الزر أعلاه لعرض النموذج لتنفيذ إجراء ما.';
+$lang['AdminMain.edit.text_no_fields'] = 'لا يتطلب هذا الإجراء أي خيارات إضافية. انقر فوق إرسال للمتابعة.';
 

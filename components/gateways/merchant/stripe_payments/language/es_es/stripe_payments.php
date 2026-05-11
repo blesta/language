@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,7 +33,7 @@ $lang['StripePayments.secret_key'] = 'Clave secreta API';
 $lang['StripePayments.tooltip_publishable_key'] = 'Su clave publicable de API es específica para el modo activo o de prueba. Asegúrese de que está utilizando la clave correcta.';
 $lang['StripePayments.tooltip_secret_key'] = 'La clave secreta de la API es específica para el modo activo o de prueba. Asegúrese de que está utilizando la clave correcta.';
 $lang['StripePayments.webhook'] = 'Webhook de Stripe';
-$lang['StripePayments.webhook_note'] = 'Se recomienda configurar la siguiente url como Webhook para eventos "payment_intent" en su cuenta de Stripe.';
+$lang['StripePayments.webhook_note'] = 'Se recomienda configurar la siguiente url como Webhook para los eventos "payment_intent" y "charge" en su cuenta de Stripe.';
 $lang['StripePayments.heading_migrate_accounts'] = 'Migrar cuentas de pago antiguas';
 $lang['StripePayments.text_accounts_remaining'] = 'Cuentas restantes: %1$s';
 $lang['StripePayments.text_migrate_accounts'] = 'Puede migrar automáticamente las cuentas de pago almacenadas fuera del sitio por la antigua pasarela de Stripe a esta pasarela de Stripe Payments. Las cuentas que no estén almacenadas fuera del sitio deben migrarse creando manualmente nuevas cuentas de pago. Para evitar tiempos de espera, las migraciones se realizarán en lotes de %1$s. Ejecute esto tantas veces como sea necesario para migrar todas las cuentas de pago.';

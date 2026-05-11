@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,7 +17,7 @@ $lang['AdminMain.edit.field_type'] = 'Callback';
 $lang['AdminMain.edit.field_event'] = 'Εκδήλωση';
 $lang['AdminMain.edit.field_callback'] = 'Callback';
 $lang['AdminMain.edit.option_delete'] = 'Διαγραφή';
-$lang['AdminMain.edit.heading_options'] = 'Επιλογές';
+$lang['AdminMain.edit.heading_options'] = 'Δράσεις';
 $lang['AdminMain.edit.heading_parameter'] = 'Νέο πεδίο';
 $lang['AdminMain.edit.heading_field'] = 'Αρχικό πεδίο';
 $lang['AdminMain.edit.heading_fields_map'] = 'Χάρτης πεδίων';
@@ -31,7 +31,7 @@ $lang['AdminMain.add.field_type'] = 'Callback';
 $lang['AdminMain.add.field_event'] = 'Εκδήλωση';
 $lang['AdminMain.add.field_callback'] = 'Callback';
 $lang['AdminMain.add.option_delete'] = 'Διαγραφή';
-$lang['AdminMain.add.heading_options'] = 'Επιλογές';
+$lang['AdminMain.add.heading_options'] = 'Δράσεις';
 $lang['AdminMain.add.heading_parameter'] = 'Νέο πεδίο';
 $lang['AdminMain.add.heading_field'] = 'Αρχικό πεδίο';
 $lang['AdminMain.add.heading_fields_map'] = 'Χάρτης πεδίων';
@@ -42,7 +42,7 @@ $lang['AdminMain.index.text_description_incoming'] = 'Λαμβάνει ένα α
 $lang['AdminMain.index.text_description_outgoing'] = 'Αποστέλλει ένα αίτημα HTTP σε μια διεύθυνση URL όταν ενεργοποιείται ένα συμβάν. Το αίτημα μπορεί να σταλεί χρησιμοποιώντας GET, POST, PUT ή JSON.';
 $lang['AdminMain.index.option_delete'] = 'Διαγραφή';
 $lang['AdminMain.index.option_edit'] = 'Επεξεργασία';
-$lang['AdminMain.index.heading_options'] = 'Επιλογές';
+$lang['AdminMain.index.heading_options'] = 'Δράσεις';
 $lang['AdminMain.index.heading_method'] = 'Μέθοδος';
 $lang['AdminMain.index.heading_event'] = 'Εκδήλωση';
 $lang['AdminMain.index.heading_callback'] = 'Callback';
@@ -69,7 +69,7 @@ $lang['AdminMain.logs.field_filterhttpstatus'] = 'Κατάσταση HTTP';
 $lang['AdminMain.logs.field_filterevent'] = 'Εκδήλωση';
 $lang['AdminMain.logs.field_filterwebhook_all'] = 'Όλα τα Webhooks';
 $lang['AdminMain.logs.field_filterwebhook'] = 'Webhook';
-$lang['AdminMain.logs.heading_options'] = 'Επιλογές';
+$lang['AdminMain.logs.heading_options'] = 'Δράσεις';
 $lang['AdminMain.logs.heading_date_last_retry'] = 'Τελευταία επανάληψη';
 $lang['AdminMain.logs.heading_date_triggered'] = 'Ημερομηνία ενεργοποίησης';
 $lang['AdminMain.logs.heading_http_response'] = 'Απόκριση HTTP';

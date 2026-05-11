@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = '类别已成功更新�
 $lang['AdminKnowledgebase.!success.category_added'] = '类别已成功创建。';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = '更新所有子类别及其文章';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = '更新该类别中的所有文章，使其具有相同的可访问性';
+$lang['AdminKnowledgebase.index.view'] = '查看';
 

@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Sunteți sigur că doriți să actualizați această monedă? Cursul de schimb al acestei monede va fi suprascris atunci când ratele de schimb sunt actualizate automat în sistem. Puteți dezactiva actualizările automate în [Setări] > [Companie] > [Valute] > [Configurare valută].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Editați moneda';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Actualizarea monedei';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Rata de schimb';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Sufixul Simbol';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Simbol de prefix';

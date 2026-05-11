@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.bg_bg
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Моля, изберете
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Невалиден идентификатор на метода на плащане.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Невалиден идентификационен номер на филиал.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Невалиден идентификатор на изплащане.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Заявено изплащане';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s поиска изплащане на %2$s';
 

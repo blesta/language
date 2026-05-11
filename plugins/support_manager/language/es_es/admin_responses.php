@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -48,4 +48,7 @@ $lang['AdminResponses.editcategory.boxtitle_root'] = 'Editar categoría';
 $lang['AdminResponses.editcategory.boxtitle_editcategory'] = 'Categoría de actualización';
 $lang['AdminResponses.editcategory.field_name'] = 'Nombre';
 $lang['AdminResponses.editcategory.field_submit'] = 'Categoría de actualización';
+$lang['AdminResponses.index.btn_back'] = 'Volver';
+$lang['AdminResponses.index.btn_add_category'] = 'Añadir categoría';
+$lang['AdminResponses.index.btn_add_response'] = 'Añadir respuesta';
 

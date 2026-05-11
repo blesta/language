@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,7 +18,7 @@ $lang['AdminPaymentMethods.add.boxtitle_add_payment_method'] = 'Aggiungere un me
 $lang['AdminPaymentMethods.index.confirm_delete'] = 'Siete sicuri di voler eliminare questo metodo di pagamento?';
 $lang['AdminPaymentMethods.index.option_delete'] = 'Cancellare';
 $lang['AdminPaymentMethods.index.option_edit'] = 'Modifica';
-$lang['AdminPaymentMethods.index.heading_options'] = 'Opzioni';
+$lang['AdminPaymentMethods.index.heading_options'] = 'Azioni';
 $lang['AdminPaymentMethods.index.heading_name'] = 'Nome';
 $lang['AdminPaymentMethods.index.no_results'] = 'Al momento non sono previsti metodi di pagamento.';
 $lang['AdminPaymentMethods.index.affiliate_payment_method_add'] = 'Aggiungere un metodo di pagamento affiliato';

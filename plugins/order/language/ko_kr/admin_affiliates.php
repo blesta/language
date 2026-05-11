@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,7 +22,7 @@ $lang['AdminAffiliates.index.confirm_deactivate'] = '이 제휴를 비활성화�
 $lang['AdminAffiliates.index.option_activate'] = '활성화';
 $lang['AdminAffiliates.index.option_deactivate'] = '비활성화';
 $lang['AdminAffiliates.index.option_manage'] = '관리';
-$lang['AdminAffiliates.index.heading_options'] = '옵션';
+$lang['AdminAffiliates.index.heading_options'] = '작업';
 $lang['AdminAffiliates.index.heading_date_updated'] = '업데이트 날짜';
 $lang['AdminAffiliates.index.heading_date_added'] = '추가된 날짜';
 $lang['AdminAffiliates.index.heading_sales'] = '판매';

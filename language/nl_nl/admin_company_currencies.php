@@ -4,13 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Weet je zeker dat je deze valuta wilt bijwerken? De wisselkoers van deze valuta wordt overschreven wanneer wisselkoersen automatisch worden bijgewerkt in het systeem. Je kunt automatische updates uitschakelen onder [Instellingen] > [Bedrijf] > [Valuta\'s] > [Valuta-instellingen].';
-$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Valuta bewerken';
+$lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Valuta bijwerken';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Wisselkoers';
 $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Achtervoegsel Symbool';
 $lang['AdminCompanyCurrencies.edit.field_prefix'] = 'Voorvoegsel Symbool';

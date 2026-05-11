@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -99,4 +99,7 @@ $lang['Virtualmin.package_fields.domains_list'] = '可用域名列表';
 $lang['Virtualmin.package_fields.sub_domains_disable'] = '禁用';
 $lang['Virtualmin.package_fields.sub_domains_enable'] = '启用';
 $lang['Virtualmin.package_fields.sub_domains'] = '启用销售子域名';
+$lang['Virtualmin.back_to_manage'] = '返回';
+$lang['Virtualmin.manage.tab_rows'] = '服务器';
+$lang['Virtualmin.manage.tab_groups'] = '服务器组';
 

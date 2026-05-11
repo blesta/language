@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.module_row_plural'] = 'Серверы';
 $lang['Teamspeak.module_row'] = 'Сервер';
 $lang['Teamspeak.description'] = 'TeamSpeak - это приложение для аудиосвязи между пользователями в чате.';
 $lang['Teamspeak.name'] = 'TeamSpeak';
+$lang['Teamspeak.back_to_manage'] = 'Назад';
+$lang['Teamspeak.manage.tab_rows'] = 'Серверы';
+$lang['Teamspeak.manage.tab_groups'] = 'Группы серверов';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = 'Al momento non state gestendo alc
 $lang['ClientManagers.accounts.confirm_give_up'] = 'È sicuro di voler rinunciare all\'accesso a questo account?';
 $lang['ClientManagers.accounts.option_give_up_access'] = 'Rinunciare all\'accesso';
 $lang['ClientManagers.accounts.option_manage'] = 'Gestire';
-$lang['ClientManagers.accounts.heading_options'] = 'Opzioni';
+$lang['ClientManagers.accounts.heading_options'] = 'Azioni';
 $lang['ClientManagers.accounts.heading_company'] = 'Azienda';
 $lang['ClientManagers.accounts.heading_name'] = 'Nome completo';
 $lang['ClientManagers.accounts.heading_email'] = 'Email';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = 'Revocare';
 $lang['ClientManagers.index.option_edit'] = 'Modifica';
 $lang['ClientManagers.index.text_status_pending'] = 'In attesa';
 $lang['ClientManagers.index.text_status_accepted'] = 'Accettato';
-$lang['ClientManagers.index.heading_options'] = 'Opzioni';
+$lang['ClientManagers.index.heading_options'] = 'Azioni';
 $lang['ClientManagers.index.heading_status'] = 'Stato';
 $lang['ClientManagers.index.heading_company'] = 'Azienda';
 $lang['ClientManagers.index.heading_name'] = 'Nome completo';

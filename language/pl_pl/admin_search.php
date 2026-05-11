@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -28,7 +28,7 @@ $lang['AdminSearch.packages.heading_package_id'] = 'Identyfikator pakietu';
 $lang['AdminSearch.packages.heading'] = 'Pakiety';
 $lang['AdminSearch.transactions.no_results'] = 'Nie ma transakcji spełniających kryteria wyszukiwania.';
 $lang['AdminSearch.transactions.option_edit'] = 'Edytuj';
-$lang['AdminSearch.transactions.heading_options'] = 'Opcje';
+$lang['AdminSearch.transactions.heading_options'] = 'Działania';
 $lang['AdminSearch.transactions.heading_date'] = 'Data';
 $lang['AdminSearch.transactions.heading_status'] = 'Status';
 $lang['AdminSearch.transactions.heading_number'] = 'Liczba';
@@ -53,7 +53,7 @@ $lang['AdminSearch.invoice.heading_date_billed'] = 'Data naliczenia';
 $lang['AdminSearch.invoice.heading_date_closed'] = 'Data zamknięcia';
 $lang['AdminSearch.invoice.heading_due'] = 'Z powodu';
 $lang['AdminSearch.invoice.heading_paid'] = 'Płatne';
-$lang['AdminSearch.invoice.heading_amount'] = 'Opcje';
+$lang['AdminSearch.invoice.heading_amount'] = 'Kwota';
 $lang['AdminSearch.invoice.heading_client_id'] = 'Identyfikator klienta';
 $lang['AdminSearch.invoice.heading_invoice'] = 'Faktura #';
 $lang['AdminSearch.invoices.heading'] = 'Faktury';
@@ -68,4 +68,5 @@ $lang['AdminSearch.clients.heading'] = 'Klienci';
 $lang['AdminSearch.index.boxtitle_search'] = 'Wyniki wyszukiwania dla "%1$s"';
 $lang['AdminSearch.index.page_title'] = 'Wyniki wyszukiwania dla "%1$s"';
 $lang['AdminSearch.!notice.results_truncated'] = 'Liczba wyników została obcięta. Możesz zawęzić wyszukiwanie.';
+$lang['AdminSearch.invoice.heading_options'] = 'Działania';
 

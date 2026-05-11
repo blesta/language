@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -147,4 +147,5 @@ $lang['UniversalModule.!tooltip.option_heading_field_type'] = 'Ini adalah jenis 
 $lang['UniversalModule.!tooltip.option_heading_field_name'] = 'Ini adalah nama bidang formulir tersembunyi. Gunakan qty untuk membuat bidang kuantitas.';
 $lang['UniversalModule.!tooltip.option_heading_field_label'] = 'Ini adalah teks yang muncul tepat di atas bidang formulir.';
 $lang['UniversalModule.name'] = 'Universal Module';
+$lang['UniversalModule.back_to_manage'] = 'Kembali';
 

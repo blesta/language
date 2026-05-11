@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,6 @@ $lang['OrderAffiliatePayouts.!error.status.valid'] = 'Lütfen geçerli bir ödem
 $lang['OrderAffiliatePayouts.!error.payment_method_id.exists'] = 'Geçersiz ödeme yöntemi kimliği.';
 $lang['OrderAffiliatePayouts.!error.affiliate_id.exists'] = 'Geçersiz ortaklık kimliği.';
 $lang['OrderAffiliatePayouts.!error.payout_id.exists'] = 'Geçersiz ödeme kimliği.';
+$lang['OrderAffiliatePayouts.bell.payout_requested.title'] = 'Talep Edilen Ödeme';
+$lang['OrderAffiliatePayouts.bell.payout_requested.message'] = '%1$s bir ödeme talep etti %2$s';
 

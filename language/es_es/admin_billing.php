@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -40,7 +40,7 @@ $lang['AdminBilling.invoices.heading_due'] = 'Debido';
 $lang['AdminBilling.invoices.heading_dateclosed'] = 'Fecha de cierre';
 $lang['AdminBilling.invoices.heading_datebilled'] = 'Fecha de facturación';
 $lang['AdminBilling.invoices.heading_datedue'] = 'Fecha de vencimiento';
-$lang['AdminBilling.invoices.heading_options'] = 'Opciones';
+$lang['AdminBilling.invoices.heading_options'] = 'Acciones';
 $lang['AdminBilling.invoices.heading_term'] = 'Plazo';
 $lang['AdminBilling.invoices.heading_duration'] = 'Duración';
 $lang['AdminBilling.invoices.heading_count'] = 'Cuenta';
@@ -76,7 +76,7 @@ $lang['AdminBilling.quotations.heading_subtotal'] = 'Subtotal';
 $lang['AdminBilling.quotations.heading_total'] = 'Importe';
 $lang['AdminBilling.quotations.heading_date_created'] = 'Fecha de creación';
 $lang['AdminBilling.quotations.heading_date_expires'] = 'Fecha de expiración';
-$lang['AdminBilling.quotations.heading_options'] = 'Opciones';
+$lang['AdminBilling.quotations.heading_options'] = 'Acciones';
 $lang['AdminBilling.quotations.option_edit'] = 'Editar';
 $lang['AdminBilling.quotations.option_view'] = 'Ver';
 $lang['AdminBilling.quotations.option_invoice'] = 'Crear factura';
@@ -87,7 +87,7 @@ $lang['AdminBilling.quotationinvoices.headingexpand_invoice'] = 'Factura #';
 $lang['AdminBilling.quotationinvoices.headingexpand_amount'] = 'Importe';
 $lang['AdminBilling.quotationinvoices.headingexpand_paid'] = 'Pagado';
 $lang['AdminBilling.quotationinvoices.headingexpand_date_billed'] = 'Fecha de facturación';
-$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Opciones';
+$lang['AdminBilling.quotationinvoices.headingexpand_options'] = 'Acciones';
 $lang['AdminBilling.quotationinvoices.option_view'] = 'Ver';
 $lang['AdminBilling.quotationinvoices.invoices_no_results'] = 'No hay facturas asociadas a este presupuesto.';
 $lang['AdminBilling.services.page_title'] = 'Servicios de facturación';
@@ -100,7 +100,7 @@ $lang['AdminBilling.services.heading_dateadded'] = 'Fecha de adición';
 $lang['AdminBilling.services.heading_daterenews'] = 'Fecha Renueva';
 $lang['AdminBilling.services.heading_datesuspended'] = 'Fecha de suspensión';
 $lang['AdminBilling.services.heading_datecanceled'] = 'Fecha de cancelación';
-$lang['AdminBilling.services.heading_options'] = 'Opciones';
+$lang['AdminBilling.services.heading_options'] = 'Acciones';
 $lang['AdminBilling.services.option_manage'] = 'Gestione';
 $lang['AdminBilling.services.option_delete'] = 'Borrar';
 $lang['AdminBilling.services.confirm_delete'] = '¿Está seguro de que desea eliminar este servicio?';
@@ -119,7 +119,7 @@ $lang['AdminBilling.services.action.field_action_type_date'] = 'Fecha específic
 $lang['AdminBilling.services.action.field_action_type_none'] = 'No cancelar';
 $lang['AdminBilling.services.action.push_to_client'] = 'Empujar al cliente';
 $lang['AdminBilling.services.action.field_client'] = 'Cliente:';
-$lang['AdminBilling.services.field_actionsubmit'] = 'Enviar';
+$lang['AdminBilling.services.field_actionsubmit'] = 'Solicitar';
 $lang['AdminBilling.serviceinfo.no_results'] = 'Este servicio no tiene detalles.';
 $lang['AdminBilling.serviceinfo.cancellation_reason'] = 'Motivo de la cancelación: %1$s';
 $lang['AdminBilling.transactions.page_title'] = 'Transacciones de facturación';
@@ -132,7 +132,7 @@ $lang['AdminBilling.transactions.heading_applied'] = 'Aplicada';
 $lang['AdminBilling.transactions.heading_number'] = 'Número';
 $lang['AdminBilling.transactions.heading_reference_id'] = 'Referencia';
 $lang['AdminBilling.transactions.heading_date'] = 'Fecha';
-$lang['AdminBilling.transactions.heading_options'] = 'Opciones';
+$lang['AdminBilling.transactions.heading_options'] = 'Acciones';
 $lang['AdminBilling.transactions.category_approved'] = 'Aprobado';
 $lang['AdminBilling.transactions.category_declined'] = 'Rechazado';
 $lang['AdminBilling.transactions.category_voided'] = 'Anulado';
@@ -150,7 +150,7 @@ $lang['AdminBilling.invoices.headingexpand_paymenttype'] = 'Tipo de pago';
 $lang['AdminBilling.invoices.headingexpand_amount'] = 'Importe';
 $lang['AdminBilling.invoices.headingexpand_applied'] = 'Aplicada';
 $lang['AdminBilling.invoices.headingexpand_appliedon'] = 'Aplicado en';
-$lang['AdminBilling.invoices.headingexpand_options'] = 'Opciones';
+$lang['AdminBilling.invoices.headingexpand_options'] = 'Acciones';
 $lang['AdminBilling.invoices.applied_no_results'] = 'Esta factura no tiene ninguna transacción aplicada.';
 $lang['AdminBilling.invoices.text_edit'] = 'Editar';
 $lang['AdminBilling.printqueue.page_title'] = 'Cola de impresión de facturación';
@@ -182,4 +182,17 @@ $lang['AdminBilling.!success.services_unsuspended'] = 'Los servicios seleccionad
 $lang['AdminBilling.!success.services_suspended'] = 'Los servicios seleccionados se han suspendido correctamente.';
 $lang['AdminBilling.services.text_pending_service_changes'] = 'Este servicio tiene cambios pendientes.';
 $lang['AdminBilling.!tooltip.datepaidthrough'] = 'Fecha de pago: %1$s';
+$lang['AdminBilling.printqueue.text_items_selected'] = 'elementos seleccionados';
+$lang['AdminBilling.printqueue.text_item_selected'] = 'elemento seleccionado';
+$lang['AdminBilling.transactions.option_view'] = 'Ver';
+$lang['AdminBilling.transactions.headingexpand_options'] = 'Acciones';
+$lang['AdminBilling.services.text_items_selected'] = 'elementos seleccionados';
+$lang['AdminBilling.services.text_item_selected'] = 'elemento seleccionado';
+$lang['AdminBilling.services.field_filtersubmit'] = 'Aplicar filtros';
+$lang['AdminBilling.services.field_filterclear'] = 'Claro';
+$lang['AdminBilling.services.filter_toggle'] = 'Alternar filtros';
+$lang['AdminBilling.quotations.field_filtersubmit'] = 'Aplicar filtros';
+$lang['AdminBilling.quotations.field_filterclear'] = 'Claro';
+$lang['AdminBilling.quotations.filter_toggle'] = 'Alternar filtros';
+$lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Haz clic en los widgets para mostrarlos u ocultarlos de tu panel de control.';
 

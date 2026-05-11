@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -168,4 +168,7 @@ $lang['Connectreseller.module_row_plural'] = 'Konta';
 $lang['Connectreseller.module_row'] = 'Konto';
 $lang['Connectreseller.description'] = 'ConnectReseller jest jednym z największych rejestratorów, który stworzył zestaw całkowicie prywatnych programów dla domainerów.';
 $lang['Connectreseller.name'] = 'ConnectReseller';
+$lang['Connectreseller.back_to_manage'] = 'Powrót';
+$lang['Connectreseller.manage.tab_rows'] = 'Serwery';
+$lang['Connectreseller.manage.tab_groups'] = 'Grupy serwerów';
 

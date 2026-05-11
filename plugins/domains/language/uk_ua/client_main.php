@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['ClientMain.index.no_results'] = 'У вас немає доменів %1$s
 $lang['ClientMain.index.text_never'] = 'Ніколи.';
 $lang['ClientMain.index.recurring_term'] = '%1$s %2$s @ %3$s';
 $lang['ClientMain.index.option_manage'] = 'Керувати';
-$lang['ClientMain.index.heading_options'] = 'Параметри';
+$lang['ClientMain.index.heading_options'] = 'Дії';
 $lang['ClientMain.index.heading_deletion_date'] = 'Дата видалення';
 $lang['ClientMain.index.heading_suspension_date'] = 'Дата призупинення';
 $lang['ClientMain.index.heading_expiration_date'] = 'Термін придатності';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,7 @@ $lang['Cyberpanel.module_row_plural'] = '서버';
 $lang['Cyberpanel.module_row'] = '서버';
 $lang['Cyberpanel.description'] = '사이버패널은 오픈라이트스피드로 구동되는 차세대 호스팅 제어판입니다. 속도, 보안, 안정성을 위해 제작되었습니다.';
 $lang['Cyberpanel.name'] = 'CyberPanel';
+$lang['Cyberpanel.back_to_manage'] = '뒤로';
+$lang['Cyberpanel.manage.tab_rows'] = '서버';
+$lang['Cyberpanel.manage.tab_groups'] = '서버 그룹';
 

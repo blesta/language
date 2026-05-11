@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,7 @@ $lang['ClientManagers.accounts.no_results'] = '您目前没有管理任何客人
 $lang['ClientManagers.accounts.confirm_give_up'] = '您确定要放弃此账户的访问权限吗？';
 $lang['ClientManagers.accounts.option_give_up_access'] = '放弃访问权';
 $lang['ClientManagers.accounts.option_manage'] = '管理';
-$lang['ClientManagers.accounts.heading_options'] = '选项';
+$lang['ClientManagers.accounts.heading_options'] = '行动';
 $lang['ClientManagers.accounts.heading_company'] = '公司名称';
 $lang['ClientManagers.accounts.heading_name'] = '全名';
 $lang['ClientManagers.accounts.heading_email'] = '电子邮件';
@@ -49,7 +49,7 @@ $lang['ClientManagers.index.option_revoke'] = '撤销';
 $lang['ClientManagers.index.option_edit'] = '编辑';
 $lang['ClientManagers.index.text_status_pending'] = '待定';
 $lang['ClientManagers.index.text_status_accepted'] = '已接受';
-$lang['ClientManagers.index.heading_options'] = '选项';
+$lang['ClientManagers.index.heading_options'] = '行动';
 $lang['ClientManagers.index.heading_status'] = '现状';
 $lang['ClientManagers.index.heading_company'] = '公司名称';
 $lang['ClientManagers.index.heading_name'] = '全名';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -20,7 +20,7 @@ $lang['Orders.view.heading_number'] = '번호';
 $lang['Orders.view.heading_status'] = '상태';
 $lang['Orders.view.heading_applied'] = '적용됨';
 $lang['Orders.view.heading_type'] = '유형';
-$lang['Orders.view.heading_options'] = '옵션';
+$lang['Orders.view.heading_options'] = '작업';
 $lang['Orders.view.heading_date_renews'] = '날짜 갱신';
 $lang['Orders.view.heading_date_created'] = '생성된 날짜';
 $lang['Orders.view.heading_term'] = '기간';
@@ -37,7 +37,7 @@ $lang['Orders.view.boxtitle_view_order'] = '주문 보기';
 $lang['Orders.index.no_results'] = '주문이 없습니다.';
 $lang['Orders.index.option_cancel'] = '취소';
 $lang['Orders.index.option_view'] = '보기';
-$lang['Orders.index.heading_options'] = '옵션';
+$lang['Orders.index.heading_options'] = '작업';
 $lang['Orders.index.heading_date_ordered'] = '주문 날짜';
 $lang['Orders.index.heading_paid'] = '유료';
 $lang['Orders.index.heading_total'] = '합계';

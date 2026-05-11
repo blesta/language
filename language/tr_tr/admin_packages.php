@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -47,7 +47,7 @@ $lang['AdminPackages.groups.heading_parent_groups'] = 'Ebeveyn Grupları';
 $lang['AdminPackages.groups.confirm_delete'] = 'Bu paket grubunu silmek istediğinizden emin misiniz? Bu gruba atanan tüm paketler artık bu gruba atanmayacaktır ve kullanılamaz hale gelebilir.';
 $lang['AdminPackages.groups.option_delete'] = 'Silme';
 $lang['AdminPackages.groups.option_edit'] = 'Düzenle';
-$lang['AdminPackages.groups.heading_options'] = 'Seçenekler';
+$lang['AdminPackages.groups.heading_options'] = 'Eylemler';
 $lang['AdminPackages.groups.heading_type'] = 'Tip';
 $lang['AdminPackages.groups.heading_name'] = 'İsim';
 $lang['AdminPackages.groups.boxtitle_packagegroups'] = 'Paket Grupları';
@@ -200,12 +200,12 @@ $lang['AdminPackages.index.no_results'] = 'Bu statüde herhangi bir paket bulunm
 $lang['AdminPackages.index.option_delete'] = 'Silme';
 $lang['AdminPackages.index.option_copy'] = 'Anlaşıldı';
 $lang['AdminPackages.index.option_edit'] = 'Düzenle';
-$lang['AdminPackages.index.field_actionsubmit'] = 'Gönder';
+$lang['AdminPackages.index.field_actionsubmit'] = 'Başvurmak';
 $lang['AdminPackages.index.action.delete'] = 'Paketleri Sil';
 $lang['AdminPackages.index.category_inactive'] = 'Aktif değil';
 $lang['AdminPackages.index.category_restricted'] = 'Kısıtlı';
 $lang['AdminPackages.index.category_active'] = 'Aktif';
-$lang['AdminPackages.index.heading_options'] = 'Seçenekler';
+$lang['AdminPackages.index.heading_options'] = 'Eylemler';
 $lang['AdminPackages.index.heading_qty'] = 'Miktar';
 $lang['AdminPackages.index.heading_module'] = 'Modül';
 $lang['AdminPackages.index.heading_name'] = 'İsim';
@@ -221,4 +221,63 @@ $lang['AdminPackages.!success.package_deleted'] = 'Paket başarıyla silindi.';
 $lang['AdminPackages.!success.package_updated'] = 'Paket başarıyla güncellendi.';
 $lang['AdminPackages.!success.package_added'] = 'Paket başarıyla oluşturuldu.';
 $lang['AdminPackages.!tooltip.single_term'] = 'Bu seçenek işaretlenirse, bu Paketi kullanan yeni hizmetler yenilenmez, ancak ilk sürelerinin sonunda otomatik olarak iptal edilir.';
+$lang['AdminPackages.ai.email_preview_text'] = 'Oluşturulan E-posta Metni:';
+$lang['AdminPackages.ai.email_preview_html'] = 'Oluşturulan E-posta HTML\'si:';
+$lang['AdminPackages.ai.email_use_button'] = 'Bu E-postayı Kullanın';
+$lang['AdminPackages.ai.email_generating'] = 'E-posta oluşturma...';
+$lang['AdminPackages.ai.email_prompt_placeholder'] = 'Karşılama e-postasında ne yazması gerektiğini tanımlayın (örneğin, "Yeni müşteriye hoş geldiniz, hizmet kurulumunu açıklayın")';
+$lang['AdminPackages.ai.email_modal_title'] = 'Hoş Geldiniz E-postası Oluşturun';
+$lang['AdminPackages.ai.generate_email_button'] = 'Yapay Zeka ile E-posta Oluşturun';
+$lang['AdminPackages.ai.prompt_context_info'] = 'Bağlam Bilgisi:';
+$lang['AdminPackages.ai.prompt_description_prefix'] = 'Bu ürün/hizmet paketi için profesyonel bir açıklama oluşturun.';
+$lang['AdminPackages.ai.prompt_email_prefix'] = 'Bu ürün/hizmet paketi için müşteriyi karşılayan ve yeni hizmetleri hakkında yararlı bilgiler veren profesyonel bir karşılama e-postası oluşturun.';
+$lang['AdminPackages.ai.prompt_rewrite_prefix'] = 'Aynı genel bilgileri koruyarak bu içeriği yeniden yazın ve geliştirin:';
+$lang['AdminPackages.ai.initial_instructions'] = 'Yukarıdaki istemi inceleyin, ek talimatlar ekleyin ve ardından içerik oluşturmak için Oluştur\'a tıklayın.';
+$lang['AdminPackages.ai.prompt_loading'] = 'Yükleme istemi...';
+$lang['AdminPackages.ai.prompt_context_label'] = 'İstem Bağlamı';
+$lang['AdminPackages.ai.additional_instructions_help'] = 'YZ\'nin açıklamaya dahil etmesi gereken özel ayrıntıları veya gereksinimleri belirtin.';
+$lang['AdminPackages.ai.additional_instructions_placeholder'] = 'Örneğin, 7/24 destek hakkında bilgi ekleyin, 30 günlük para iade garantisinden bahsedin...';
+$lang['AdminPackages.ai.additional_instructions_label'] = 'Ek Talimatlar (İsteğe Bağlı)';
+$lang['AdminPackages.ai.error_prefix'] = 'Hata:';
+$lang['AdminPackages.ai.error_generation_failed'] = 'Açıklama oluşturulamadı';
+$lang['AdminPackages.ai.error_prompt_required'] = 'Lütfen bir komut istemi girin';
+$lang['AdminPackages.ai.apply_text'] = 'Metin versiyonu';
+$lang['AdminPackages.ai.apply_html'] = 'HTML sürümü';
+$lang['AdminPackages.ai.apply_content_label'] = 'İçeriği uygulayın:';
+$lang['AdminPackages.ai.error_feature_disabled'] = 'Paket açıklaması AI özelliği etkin değil';
+$lang['AdminPackages.ai.error_disabled'] = 'Yapay zeka özellikleri etkin değil';
+$lang['AdminPackages.ai.regenerating'] = 'Yenileniyor...';
+$lang['AdminPackages.ai.generating'] = 'Üretmek...';
+$lang['AdminPackages.ai.btn_cancel'] = 'İptal';
+$lang['AdminPackages.ai.btn_regenerate'] = 'Yenilenme';
+$lang['AdminPackages.ai.btn_use'] = 'Bu Açıklamayı Kullanın';
+$lang['AdminPackages.ai.btn_generate'] = 'Oluşturmak';
+$lang['AdminPackages.ai.preview_text'] = 'Oluşturulan Metin:';
+$lang['AdminPackages.ai.preview_html'] = 'Oluşturulan HTML:';
+$lang['AdminPackages.ai.tone_technical'] = 'Teknik';
+$lang['AdminPackages.ai.tone_casual'] = 'Gündelik';
+$lang['AdminPackages.ai.tone_professional'] = 'Profesyonel';
+$lang['AdminPackages.ai.tone'] = 'Ton';
+$lang['AdminPackages.ai.generate_text'] = 'Metin Oluşturma (Markdown)';
+$lang['AdminPackages.ai.generate_html'] = 'HTML Oluşturma';
+$lang['AdminPackages.ai.prompt_placeholder'] = 'Paketin özelliklerini, hedef kitlesini vb. açıklayın...';
+$lang['AdminPackages.ai.use_content_button'] = 'Bu İçeriği Kullanın';
+$lang['AdminPackages.ai.context_type_description'] = 'Paket Açıklaması';
+$lang['AdminPackages.ai.regenerate_button'] = 'Yenilenme';
+$lang['AdminPackages.ai.no_context'] = 'Bağlam mevcut değil';
+$lang['AdminPackages.ai.context_type_email'] = 'Hoş Geldiniz E-postası';
+$lang['AdminPackages.ai.context_type'] = 'Tip:';
+$lang['AdminPackages.ai.context_module'] = 'Modül:';
+$lang['AdminPackages.ai.context_package'] = 'Paket:';
+$lang['AdminPackages.ai.generated_content_label'] = 'Oluşturulan İçerik:';
+$lang['AdminPackages.ai.context_label'] = 'Bağlam:';
+$lang['AdminPackages.ai.modal_title_rewrite'] = 'AI-Yeniden Yazılmış Açıklama';
+$lang['AdminPackages.ai.modal_title_generate'] = 'Yapay Zeka Tarafından Oluşturulan Açıklama';
+$lang['AdminPackages.ai.modal_title'] = 'Yapay Zeka Tarafından Oluşturulan İçerik';
+$lang['AdminPackages.ai.rewrite_button'] = 'Yeniden Yaz';
+$lang['AdminPackages.ai.generate_button'] = 'Oluşturmak';
+$lang['AdminPackages.index.field_filtersubmit'] = 'Filtreleri Uygula';
+$lang['AdminPackages.index.field_filterclear'] = 'Temiz';
+$lang['AdminPackages.index.filter_toggle'] = 'Filtreleri Değiştir';
+$lang['AdminPackages.index.items_selected'] = 'seçilen öğeler';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,7 +59,7 @@ $lang['AdminStaff.index.no_results'] = 'Er is momenteel geen personeel toegeweze
 $lang['AdminStaff.index.confirm_delete'] = 'Als je dit personeelslid verwijdert, worden alle tickets die momenteel aan dit personeelslid zijn toegewezen, verwijderd. Weet je zeker dat je deze medewerker wilt verwijderen?';
 $lang['AdminStaff.index.option_delete'] = 'Verwijder';
 $lang['AdminStaff.index.option_edit'] = 'Bewerk';
-$lang['AdminStaff.index.heading_options'] = 'Opties';
+$lang['AdminStaff.index.heading_options'] = 'Acties';
 $lang['AdminStaff.index.heading_ticket_messenger_notifications'] = 'Ticket Messenger meldingen ontvangen';
 $lang['AdminStaff.index.heading_mobile_ticket_emails'] = 'E-mails voor mobiele tickets ontvangen';
 $lang['AdminStaff.index.heading_ticket_emails'] = 'Ticket-e-mails ontvangen';

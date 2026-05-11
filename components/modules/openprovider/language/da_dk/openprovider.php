@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -92,4 +92,5 @@ $lang['OpenProvider.!error.domain.not_exist'] = 'Dette domæne findes ikke i Ope
 $lang['OpenProvider.!error.domain.contact_support'] = 'Kontakt venligst support for domæneoplysninger.';
 $lang['OpenProvider.!error.domain.name_undefined'] = 'Domænenavn udefineret.';
 $lang['OpenProvider.!error.service.domain.status_not_active_in_blesta'] = 'Denne sektion er ikke tilgængelig, når tjenesten ikke er i en aktiv tilstand.';
+$lang['Openprovider.back_to_manage'] = 'Tilbage';
 

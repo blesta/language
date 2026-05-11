@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,7 +73,7 @@ $lang['AdminMain.settings.heading_notifications'] = '订单通知';
 $lang['AdminMain.orderinfo.services_no_results'] = '没有按此顺序排列的服务。';
 $lang['AdminMain.orderinfo.services_text_never'] = '从不';
 $lang['AdminMain.orderinfo.services_option_manage'] = '管理';
-$lang['AdminMain.orderinfo.services_heading_options'] = '选项';
+$lang['AdminMain.orderinfo.services_heading_options'] = '行动';
 $lang['AdminMain.orderinfo.services_heading_daterenews'] = '续订日期';
 $lang['AdminMain.orderinfo.services_heading_dateadded'] = '添加日期';
 $lang['AdminMain.orderinfo.services_heading_term'] = '学期';
@@ -82,7 +82,7 @@ $lang['AdminMain.orderinfo.services_heading_package'] = '包装';
 $lang['AdminMain.orderinfo.services_heading'] = '服务';
 $lang['AdminMain.orderinfo.applied_no_results'] = '该订单未进行任何交易。';
 $lang['AdminMain.orderinfo.applied_option_edit'] = '编辑';
-$lang['AdminMain.orderinfo.applied_heading_options'] = '选项';
+$lang['AdminMain.orderinfo.applied_heading_options'] = '行动';
 $lang['AdminMain.orderinfo.applied_heading_appliedon'] = '应用于';
 $lang['AdminMain.orderinfo.applied_heading_applied'] = '应用';
 $lang['AdminMain.orderinfo.applied_heading_amount'] = '金额';
@@ -112,4 +112,16 @@ $lang['AdminMain.index.boxtitle_order'] = '订单';
 $lang['AdminMain.!success.affiliate_settings_updated'] = '联属会员设置已更新。';
 $lang['AdminMain.!success.settings_updated'] = '您的订单设置已成功更新。';
 $lang['AdminMain.!success.status_updated'] = '所选订单已成功更新。';
+$lang['AdminMain.index.paid'] = '已付款';
+$lang['AdminMain.index.unpaid'] = '未支付';
+$lang['AdminMain.index.loading'] = '正在加载...';
+$lang['AdminMain.index.text_items_selected'] = '所选项目';
+$lang['AdminMain.orderinfo.applied_heading_id'] = '交易 ID';
+$lang['AdminMain.orderinfo.applied_heading_status'] = '现状';
+$lang['AdminMain.orderinfo.applied_heading_date'] = '日期';
+$lang['AdminMain.orderinfo.services_heading_name'] = '服务';
+$lang['AdminMain.orderinfo.services_heading_status'] = '现状';
+$lang['AdminMain.orderinfo.services_status_pending'] = '待定';
+$lang['AdminMain.settings.text_notifications'] = '配置接收新订单通知的方式。';
+$lang['AdminMain.settings.text_affiliate_notifications'] = '配置您接收联属会员付款通知的方式。';
 

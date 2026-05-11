@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -115,4 +115,7 @@ $lang['DirectAdmin.!error.port.format'] = 'A porta deve ser um número.';
 $lang['DirectAdmin.!error.host_name.format'] = 'O nome do anfitrião parece ser inválido.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'É necessário introduzir uma etiqueta de servidor.';
 $lang['DirectAdmin.row_meta.http_version'] = 'Versão HTTP';
+$lang['DirectAdmin.back_to_manage'] = 'Voltar';
+$lang['DirectAdmin.manage.tab_rows'] = 'Servidores';
+$lang['DirectAdmin.manage.tab_groups'] = 'Grupos de servidores';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -46,4 +46,8 @@ $lang['SupportManagerPlugin.name'] = 'Supportchef';
 $lang['SupportManagerPlugin.nav_primary_staff.settings'] = 'Inställningar';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_desc'] = 'Skicka automatiskt ut påminnelser till kunder om att lämna feedback för ärenden som har stängts efter en viss tid.';
 $lang['SupportManagerPlugin.cron.send_feedback_reminders_name'] = 'Skicka påminnelser om feedback';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_name'] = 'Behandla ärenden med AI';
+$lang['SupportManagerPlugin.cron.process_tickets_with_ai_desc'] = 'Analyserar ärenden med AI för att generera förslag på svar och automatiskt utföra verktygsanvändningar (stänga spam, tilldela personal, ändra prioritet).';
+$lang['SupportManagerPlugin.nav_primary_staff.ai'] = 'AI-inställningar';
+$lang['SupportManagerPlugin.ai.default_disclaimer'] = '---\n*Note: Detta svar har genererats av AI och bör granskas för att säkerställa att det är korrekt.*';
 

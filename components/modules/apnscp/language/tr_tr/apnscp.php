@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.module_row.name'] = 'Sunucu';
 $lang['Apnscp.description'] = 'Eski adı APNSCP.';
 $lang['Apnscp.name'] = 'ApisCP';
 $lang['Apnscp.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Apnscp.back_to_manage'] = 'Geri';
+$lang['Apnscp.manage.tab_rows'] = 'Sunucular';
+$lang['Apnscp.manage.tab_groups'] = 'Sunucu Grupları';
 

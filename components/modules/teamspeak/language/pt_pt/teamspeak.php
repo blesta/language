@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_pt
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,4 +190,7 @@ $lang['Teamspeak.!error.module_row.missing'] = 'Ocorreu um erro interno. A linha
 $lang['Teamspeak.!error.api.internal'] = 'Ocorreu um erro interno ou o servidor não respondeu ao pedido.';
 $lang['Teamspeak.!error.meta[maxclients].valid'] = 'O Máximo de Clientes tem de ser um valor numérico.';
 $lang['Teamspeak.!error.port_valid'] = 'O Porto tem de ser um valor numérico.';
+$lang['Teamspeak.back_to_manage'] = 'Voltar';
+$lang['Teamspeak.manage.tab_rows'] = 'Servidores';
+$lang['Teamspeak.manage.tab_groups'] = 'Grupos de servidores';
 

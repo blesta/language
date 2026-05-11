@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -104,7 +104,7 @@ $lang['Proxmox.row_meta.vmid'] = '다음 VMID(필요한 경우가 아니면 변�
 $lang['Proxmox.row_meta.port'] = 'SSL 포트 번호';
 $lang['Proxmox.row_meta.host'] = '호스트 이름';
 $lang['Proxmox.row_meta.password'] = '비밀번호';
-$lang['Proxmox.row_meta.user'] = '사용자';
+$lang['Proxmox.row_meta.user'] = '사용자(사용자 이름 뒤에 @pam 또는 @pve 포함)';
 $lang['Proxmox.row_meta.server_name'] = '서버 레이블';
 $lang['Proxmox.order_options.first'] = '최초의 비풀 서버';
 $lang['Proxmox.manage.module_groups_no_results'] = '서버 그룹이 없습니다.';
@@ -131,7 +131,7 @@ $lang['Proxmox.module_row'] = 'Proxmox 마스터 서버';
 $lang['Proxmox.description'] = 'Proxmox 가상 환경은 오픈 소스 서버 가상화 환경입니다. Ubuntu LTS 커널을 수정한 데비안 기반 Linux 배포판으로 가상 머신과 컨테이너를 배포 및 관리할 수 있습니다.';
 $lang['Proxmox.!actions.password'] = '비밀번호 변경';
 $lang['Proxmox.!percent.used'] = '%1$s%';
-$lang['Proxmox.!uptime.value'] = '3$s 일, %2$s 시간, %1$s 분';
+$lang['Proxmox.!uptime.value'] = '%1$s 일, %2$s 시간, %3$s 분';
 $lang['Proxmox.please_select'] = '선택해 주세요 -- --';
 $lang['Proxmox.!error.module_row.missing'] = '내부 오류가 발생했습니다. 모듈 행을 사용할 수 없습니다.';
 $lang['Proxmox.!error.proxmox_root_password.matches'] = '루트 비밀번호가 일치하지 않습니다.';
@@ -169,4 +169,17 @@ $lang['Proxmox.!actions.shutdown'] = '종료';
 $lang['Proxmox.!actions.boot'] = '부팅';
 $lang['Proxmox.!bytes.value'] = '%1$s%2$s';
 $lang['Proxmox.tab_stats.memory_stats'] = '%1$s / %2$s';
+$lang['Proxmox.back_to_manage'] = '뒤로';
+$lang['Proxmox.manage.tab_rows'] = '서버';
+$lang['Proxmox.manage.tab_groups'] = '서버 그룹';
+$lang['Proxmox.tab_isomanager'] = 'ISO 관리자';
+$lang['Proxmox.tab_lxcreinstall'] = '재설치';
+$lang['Proxmox.tab_client_lxcreinstall.heading_lxcreinstall'] = '재설치';
+$lang['Proxmox.tab_client_lxcreinstall.field_password'] = '루트 비밀번호';
+$lang['Proxmox.tab_client_lxcreinstall.field_template'] = '템플릿';
+$lang['Proxmox.tab_client_lxcreinstall.field_reinstall_submit'] = '재설치';
+$lang['Proxmox.tab_client_isomanager.heading_isomanager'] = 'ISO 관리자';
+$lang['Proxmox.tab_client_isomanager.field_iso'] = '이미지';
+$lang['Proxmox.tab_client_isomanager.field_mount_submit'] = '마운트';
+$lang['Proxmox.tab_client_isomanager.field_unmount_submit'] = 'ISO 마운트 해제';
 

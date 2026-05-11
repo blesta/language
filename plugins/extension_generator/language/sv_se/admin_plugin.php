@@ -4,14 +4,14 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['AdminPlugin.features.confirm'] = 'Nästa - Bekräftelse';
 $lang['AdminPlugin.features.text_remove'] = 'Ta bort';
-$lang['AdminPlugin.features.text_options'] = 'Alternativ';
+$lang['AdminPlugin.features.text_options'] = 'Åtgärder';
 $lang['AdminPlugin.features.cron_task_row_add'] = 'Lägg till Cron-uppgift';
 $lang['AdminPlugin.features.service_tab_row_add'] = 'Lägg till fliken Service Management';
 $lang['AdminPlugin.features.placeholder_time'] = 't.ex. 14:25 eller 60';
@@ -58,7 +58,7 @@ $lang['AdminPlugin.integrations.tooltip_action'] = 'Åtgärden för den URI frå
 $lang['AdminPlugin.integrations.tooltip_controller'] = 'Styrenhet för den URI från vilken innehållet för åtgärden ska hämtas (t.ex. admin_main)';
 $lang['AdminPlugin.integrations.tooltip_location'] = 'Den plats i gränssnittet där åtgärden ska visas';
 $lang['AdminPlugin.integrations.text_remove'] = 'Ta bort';
-$lang['AdminPlugin.integrations.text_options'] = 'Alternativ';
+$lang['AdminPlugin.integrations.text_options'] = 'Åtgärder';
 $lang['AdminPlugin.integrations.text_cards_more_info'] = 'Kundkort är små rutor som visas på kundprofilen (i kund- eller adminområdet) och används främst för att visa olika statistiska uppgifter (t.ex. antal tjänster, biljetter eller beställningar). De består av ett värde, en etikett, en bakgrund och en länk.  Etiketten visas under värdet som hämtas från en callback-funktion.';
 $lang['AdminPlugin.integrations.text_events_more_info'] = 'Detta är kroksystemet i Blesta.  Händelser registreras antingen av kärnan eller av ett plugin, sedan lyssnar plugins efter dessa händelser och definierar hanteringsmetoder för händelsen.  Eftersom alla plugins kan registrera händelser, kan det finnas hur många som helst, men listan över kärnhändelser som definieras av Blesta kan hittas här https://docs.blesta.com/display/dev/Event+Handlers.';
 $lang['AdminPlugin.integrations.text_actions_more_info'] = '"Åtgärder" representerar plugin-sidor som är åtkomliga via kärngränssnittet. Detta inkluderar navigeringslänkar i admin- och klientområdena, widgetar i adminområdet och länkar i sidofältet för klientprofilen. De controllers och åtgärder som anges här kommer att användas för att generera enkla controller-filer. Dessutom kommer exempelvyer att skapas för varje åtgärd.';
@@ -82,7 +82,7 @@ $lang['AdminPlugin.integrations.action_row_add'] = 'Lägg till åtgärd';
 $lang['AdminPlugin.integrations.heading_integrations'] = 'Kärnintegrationer';
 $lang['AdminPlugin.database.integrations'] = 'Nästa - Kärnintegrationer';
 $lang['AdminPlugin.database.text_remove'] = 'Ta bort';
-$lang['AdminPlugin.database.text_options'] = 'Alternativ';
+$lang['AdminPlugin.database.text_options'] = 'Åtgärder';
 $lang['AdminPlugin.database.text_more_info'] = 'Denna sida används för att skapa ett schema för de databastabeller som genereras och hanteras av detta plugin. Kod kommer att genereras för att lägga till och ta bort dessa tabeller vid installation och avinstallation. Dessutom kommer modellfiler att skapas för dessa tabeller med några grundläggande funktioner.';
 $lang['AdminPlugin.database.placeholder_length'] = 't.ex. 64 eller "a", "b", "c';
 $lang['AdminPlugin.database.placeholder_column_name'] = 't.ex. kolumn_namn';
@@ -113,7 +113,7 @@ $lang['AdminPlugin.basic.tooltip_logo'] = 'Logotypen som visas i plugin-listan. 
 $lang['AdminPlugin.basic.tooltip_description'] = 'Beskrivningen som visas i plugin-listan';
 $lang['AdminPlugin.basic.text_remove'] = 'Ta bort';
 $lang['AdminPlugin.basic.author_row_add'] = 'Lägg till författare';
-$lang['AdminPlugin.basic.text_options'] = 'Alternativ';
+$lang['AdminPlugin.basic.text_options'] = 'Åtgärder';
 $lang['AdminPlugin.basic.author_url'] = 'Författarens URL';
 $lang['AdminPlugin.basic.author_name'] = 'Författarens namn';
 $lang['AdminPlugin.basic.logo'] = 'Logotyp';

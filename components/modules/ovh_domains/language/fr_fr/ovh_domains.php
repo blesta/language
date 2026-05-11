@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -120,4 +120,7 @@ $lang['OvhDomains.package_fields.ns4'] = 'Serveur de noms 4';
 $lang['OvhDomains.package_fields.ns5'] = 'Serveur de noms 5';
 $lang['OvhDomains.package_field.tooltip.epp_code'] = 'Permet ou non aux utilisateurs de demander un code EPP par l\'intermédiaire de l\'interface de service Blesta.';
 $lang['OvhDomains.package_fields.tld_options'] = 'TLDs';
+$lang['OvhDomains.back_to_manage'] = 'Retour';
+$lang['OvhDomains.manage.tab_rows'] = 'Serveurs';
+$lang['OvhDomains.manage.tab_groups'] = 'Groupes de serveurs';
 

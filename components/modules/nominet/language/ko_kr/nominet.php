@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -136,4 +136,7 @@ $lang['Nominet.module_row_plural'] = '계정';
 $lang['Nominet.module_row'] = '계정';
 $lang['Nominet.description'] = 'Nominet은 .UK 최상위 도메인을 운영하는 도메인 네임 등록기관입니다.';
 $lang['Nominet.name'] = 'Nominet';
+$lang['Nominet.back_to_manage'] = '뒤로';
+$lang['Nominet.manage.tab_rows'] = '서버';
+$lang['Nominet.manage.tab_groups'] = '서버 그룹';
 

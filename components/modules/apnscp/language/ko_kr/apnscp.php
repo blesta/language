@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -108,4 +108,7 @@ $lang['Apnscp.module_row.name'] = '서버';
 $lang['Apnscp.description'] = '이전에는 APNSCP라고 불렀습니다.';
 $lang['Apnscp.name'] = 'ApisCP';
 $lang['Apnscp.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Apnscp.back_to_manage'] = '뒤로';
+$lang['Apnscp.manage.tab_rows'] = '서버';
+$lang['Apnscp.manage.tab_groups'] = '서버 그룹';
 

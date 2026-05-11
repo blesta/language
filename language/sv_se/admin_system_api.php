@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,7 +14,7 @@ $lang['AdminSystemApi.edit.field_notes'] = 'Noter';
 $lang['AdminSystemApi.edit.field_user'] = 'Användare';
 $lang['AdminSystemApi.edit.field_company'] = 'Företag';
 $lang['AdminSystemApi.edit.boxtitle_edit'] = 'Redigera API-användare';
-$lang['AdminSystemApi.add.field_apisubmit'] = 'Lägg till användare';
+$lang['AdminSystemApi.add.field_apisubmit'] = 'Skapa användare';
 $lang['AdminSystemApi.add.field_notes'] = 'Noter';
 $lang['AdminSystemApi.add.field_user'] = 'Användare';
 $lang['AdminSystemApi.add.field_company'] = 'Företag';
@@ -23,7 +23,7 @@ $lang['AdminSystemApi.index.confirm_delete'] = 'Har du verkligen tagit bort den 
 $lang['AdminSystemApi.index.no_results'] = 'Det finns inga API-användare.';
 $lang['AdminSystemApi.index.option_delete'] = 'Radera';
 $lang['AdminSystemApi.index.option_edit'] = 'Redigera';
-$lang['AdminSystemApi.index.heading_options'] = 'Alternativ';
+$lang['AdminSystemApi.index.heading_options'] = 'Åtgärder';
 $lang['AdminSystemApi.index.heading_date'] = 'Skapat datum';
 $lang['AdminSystemApi.index.heading_company'] = 'Företag';
 $lang['AdminSystemApi.index.heading_key'] = 'Nyckel';

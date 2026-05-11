@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -160,4 +160,7 @@ $lang['Centovacast.module_row_plural'] = '服务器';
 $lang['Centovacast.module_row'] = '服务器';
 $lang['Centovacast.description'] = '您可以轻松管理单个站点，也可以将拥有数千个客户的流媒体托管业务自动化。Centova Cast 可以处理几乎所有的流媒体托管方案！';
 $lang['Centovacast.name'] = 'CentovaCast';
+$lang['Centovacast.back_to_manage'] = '返回';
+$lang['Centovacast.manage.tab_rows'] = '服务器';
+$lang['Centovacast.manage.tab_groups'] = '服务器组';
 

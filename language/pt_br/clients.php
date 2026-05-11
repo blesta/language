@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -68,4 +68,6 @@ $lang['Clients.!error.client_group_id.exists'] = 'ID de grupo de clientes invál
 $lang['Clients.!error.payment_credit_limits.max_less_than_min'] = 'O valor máximo do crédito para %1$s deve ser maior do que o valor mínimo.';
 $lang['Clients.!error.payment_credit_limits.max_amount'] = 'O valor máximo de crédito para %1$s deve ser maior que 0.';
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'O valor mínimo de crédito para %1$s deve ser maior que 0.';
+$lang['Clients.!error.action[].exists'] = 'Ação de notificação inválida.';
+$lang['Clients.!error.action.exists'] = 'Ação de notificação inválida "%1$s".';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -190,16 +190,16 @@ $lang['AdminCompanyBilling.editcoupon.text_used_qty'] = '(مستعمل %1$s)';
 $lang['AdminCompanyBilling.editcoupon.text_available_packages'] = 'الباقات المتاحة';
 $lang['AdminCompanyBilling.editcoupon.text_assigned_packages'] = 'الحزم المخصصة';
 $lang['AdminCompanyBilling.editcoupon.text_all'] = 'الكل';
-$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'تحرير الكوبون';
+$lang['AdminCompanyBilling.editcoupon.field_couponsubmit'] = 'تحديث الكوبون';
 $lang['AdminCompanyBilling.editcoupon.field_package_group_id'] = 'مرشح مجموعة الحزمة';
-$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'الحزم';
+$lang['AdminCompanyBilling.editcoupon.heading_packages'] = 'حدود الحزمة';
 $lang['AdminCompanyBilling.editcoupon.option_remove'] = 'إزالة';
 $lang['AdminCompanyBilling.editcoupon.not_applicable'] = 'غير متاح';
 $lang['AdminCompanyBilling.editcoupon.text_terms'] = 'الشروط';
 $lang['AdminCompanyBilling.editcoupon.text_period'] = 'الفترة';
 $lang['AdminCompanyBilling.editcoupon.text_enabled'] = 'ممكّنة';
 $lang['AdminCompanyBilling.editcoupon.description_terms'] = 'لا يمكن تطبيق هذه القسيمة إلا على الخدمات التي يتم طلبها لأحد الشروط/الفترات المحددة. إذا لم يتم تمكين أي منها، فسيتم تجاهل مدة الخدمة عند تقييم قيود القسيمة.';
-$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'الشروط';
+$lang['AdminCompanyBilling.editcoupon.heading_terms'] = 'حدود المدة';
 $lang['AdminCompanyBilling.editcoupon.text_value'] = 'القيمة';
 $lang['AdminCompanyBilling.editcoupon.text_currency'] = 'العملة';
 $lang['AdminCompanyBilling.editcoupon.categorylink_addcurrency'] = 'إضافة عملة إضافية';
@@ -209,7 +209,7 @@ $lang['AdminCompanyBilling.editcoupon.field_limit_recurring_no'] = 'لا تنط�
 $lang['AdminCompanyBilling.editcoupon.field_max_qty'] = 'الكمية';
 $lang['AdminCompanyBilling.editcoupon.field_end_date'] = 'تاريخ الانتهاء';
 $lang['AdminCompanyBilling.editcoupon.field_start_date'] = 'تاريخ البدء';
-$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'القيود';
+$lang['AdminCompanyBilling.editcoupon.heading_limitations'] = 'القيود والقيود';
 $lang['AdminCompanyBilling.editcoupon.text_generate_code'] = 'إنشاء رمز';
 $lang['AdminCompanyBilling.editcoupon.field_code'] = 'كوبون الكوبون';
 $lang['AdminCompanyBilling.editcoupon.field_internal_use_only'] = 'الاستخدام الداخلي فقط';
@@ -224,7 +224,7 @@ $lang['AdminCompanyBilling.addcoupon.text_assigned_packages'] = 'الحزم ال
 $lang['AdminCompanyBilling.addcoupon.text_all'] = 'الكل';
 $lang['AdminCompanyBilling.addcoupon.field_couponsubmit'] = 'إنشاء كوبون';
 $lang['AdminCompanyBilling.addcoupon.field_package_group_id'] = 'مرشح مجموعة الحزمة';
-$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'الحزم';
+$lang['AdminCompanyBilling.addcoupon.heading_packages'] = 'حدود الحزمة';
 $lang['AdminCompanyBilling.addcoupon.option_remove'] = 'إزالة';
 $lang['AdminCompanyBilling.addcoupon.not_applicable'] = 'غير متاح';
 $lang['AdminCompanyBilling.addcoupon.text_terms'] = 'الشروط';
@@ -242,7 +242,7 @@ $lang['AdminCompanyBilling.addcoupon.field_limit_recurring_no'] = 'لا تنطب
 $lang['AdminCompanyBilling.addcoupon.field_max_qty'] = 'الكمية';
 $lang['AdminCompanyBilling.addcoupon.field_end_date'] = 'تاريخ الانتهاء';
 $lang['AdminCompanyBilling.addcoupon.field_start_date'] = 'تاريخ البدء';
-$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'القيود';
+$lang['AdminCompanyBilling.addcoupon.heading_limitations'] = 'القيود والقيود';
 $lang['AdminCompanyBilling.addcoupon.text_generate_code'] = 'إنشاء رمز';
 $lang['AdminCompanyBilling.addcoupon.field_code'] = 'كوبون الكوبون';
 $lang['AdminCompanyBilling.addcoupon.field_internal_use_only'] = 'الاستخدام الداخلي فقط';
@@ -352,7 +352,7 @@ $lang['AdminCompanyBilling.addcoupon.field_option_values'] = 'المتطلبات
 $lang['AdminCompanyBilling.addcoupon.field_option'] = 'الخيار';
 $lang['AdminCompanyBilling.addcoupon.field_option_group'] = 'مجموعة الخيارات';
 $lang['AdminCompanyBilling.addcoupon.description_configurable_options'] = 'يمكن تطبيق هذه القسيمة فقط في حالة تطابق الخيارات القابلة للتكوين المحددة. اتركها فارغة لتجاهل قيود الخيارات القابلة للتكوين.';
-$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'خيارات قابلة للتكوين';
+$lang['AdminCompanyBilling.addcoupon.heading_configurable_options'] = 'قيود الخيارات القابلة للتكوين';
 $lang['AdminCompanyBilling.addcoupon.option_add'] = 'إضافة';
 $lang['AdminCompanyBilling.invoices.field.requeue_invoice_delivery_on_closed'] = 'إعادة طلب الفواتير للتسليم بعد إغلاقها';
 $lang['AdminCompanyBilling.!tooltip.notification_threshold'] = 'سيتلقى العميل إشعارًا يوميًا عندما ينخفض رصيده الائتماني عن هذا المبلغ. اتركها فارغة لتعطيل الإشعارات لهذه العملة.';
@@ -363,4 +363,26 @@ $lang['AdminCompanyBilling.!error.max_less_than_min'] = 'يجب أن يكون ا
 $lang['AdminCompanyBilling.!error.max_amount'] = 'يجب أن يكون الحد الأقصى للمبلغ %1$s أكبر من 0.';
 $lang['AdminCompanyBilling.!error.min_amount'] = 'يجب أن يكون الحد الأدنى للمبلغ %1$s أكبر من 0.';
 $lang['AdminCompanyBilling.!success.credithandling_updated'] = 'تم تحديث إعدادات معالجة الائتمان بنجاح!';
+$lang['AdminCompanyBilling.!error.postalmethods_return_name.empty'] = 'يُرجى إدخال اسم عنوان الإرجاع.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_company.empty'] = 'يُرجى إدخال شركة عنوان الإرجاع.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_address1.empty'] = 'يُرجى إدخال عنوان الإرجاع.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_city.empty'] = 'يُرجى إدخال مدينة عنوان المرسل إليه.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_state.empty'] = 'يُرجى تحديد ولاية/مقاطعة عنوان الإرجاع.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_zip.empty'] = 'يُرجى إدخال الرمز البريدي/الرمز البريدي لعنوان الإرجاع.';
+$lang['AdminCompanyBilling.!error.postalmethods_return_country.empty'] = 'يُرجى تحديد بلد عنوان الإرجاع.';
+$lang['AdminCompanyBilling.!tooltip.quotation_format'] = 'تتضمن العلامات المتاحة ما يلي: {العدد} - رقم الاقتباس (مطلوب)؛ {السنة} - السنة المكونة من أربعة أرقام؛ {الشهر} - الشهر المكون من رقمين؛ {اليوم} - يوم الشهر المكون من رقمين.';
+$lang['AdminCompanyBilling.!tooltip.quotation_start'] = 'ستبدأ أرقام الاقتباس (وتزيد) من قيمة البداية هذه.';
+$lang['AdminCompanyBilling.!tooltip.quotation_increment'] = 'ستزيد أرقام الاقتباسات اللاحقة بهذه القيمة.';
+$lang['AdminCompanyBilling.addcoupon.heading_usage'] = 'حدود الاستخدام';
+$lang['AdminCompanyBilling.editcoupon.heading_usage'] = 'حدود الاستخدام';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_replyenvelope'] = 'مغلف الرد';
+$lang['AdminCompanyBilling.deliverymethods.heading_postalmethods_return'] = 'عنوان الإرجاع';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_name'] = 'الاسم';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_company'] = 'الشركة';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address1'] = 'العنوان 1';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_address2'] = 'العنوان 2';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_city'] = 'المدينة';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_state'] = 'الولاية/المقاطعة';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_zip'] = 'الرمز البريدي/الرمز البريدي';
+$lang['AdminCompanyBilling.deliverymethods.field_postalmethods_return_country'] = 'البلد';
 

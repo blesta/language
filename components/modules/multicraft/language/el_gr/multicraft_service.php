@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -33,4 +33,5 @@ $lang['MulticraftService.!error.user_id.format'] = 'Το αναγνωριστι�
 $lang['MulticraftService.!error.server_id.format'] = 'Το αναγνωριστικό διακομιστή πρέπει να είναι ακέραιος αριθμός ή να παραμείνει κενό.';
 $lang['MulticraftService.!error.client'] = 'Δεν βρέθηκε πελάτης από τον οποίο να δημιουργηθεί χρήστης Multicraft.';
 $lang['MulticraftService.!error.internal'] = 'Προέκυψε ένα εσωτερικό σφάλμα ή ο διακομιστής δεν απάντησε στην αίτηση.';
+$lang['Multicraft.back_to_manage'] = 'Πίσω';
 

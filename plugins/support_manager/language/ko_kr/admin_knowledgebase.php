@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ko_kr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -67,4 +67,5 @@ $lang['AdminKnowledgebase.!success.category_updated'] = '카테고리가 성공�
 $lang['AdminKnowledgebase.!success.category_added'] = '카테고리가 성공적으로 생성되었습니다.';
 $lang['AdminKnowledgebase.editcategory.field_update_recursive'] = '모든 하위 카테고리와 해당 문서도 업데이트하세요.';
 $lang['AdminKnowledgebase.editcategory.field_update_articles'] = '이 카테고리의 모든 문서가 동일한 접근성을 갖도록 업데이트하세요.';
+$lang['AdminKnowledgebase.index.view'] = '보기';
 

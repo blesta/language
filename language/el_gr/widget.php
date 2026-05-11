@@ -4,11 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['Widget.toggle_filters'] = 'Εναλλαγή φίλτρων';
-$lang['Widget.submit'] = 'Υποβολή';
+$lang['Widget.submit'] = 'Εφαρμόστε φίλτρα';
+$lang['Widget.clear'] = 'Σαφής';
+$lang['Widget.resize_widget'] = 'Αλλαγή μεγέθους Widget';
 

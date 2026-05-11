@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ar_xa
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -285,4 +285,7 @@ $lang['Internetbs.module_row_plural'] = 'الحسابات';
 $lang['Internetbs.module_row'] = 'الحساب';
 $lang['Internetbs.description'] = 'يوفر Internet.bs تسجيل أسماء النطاقات ونقلها لنطاقات ccTLDs و gTLDs.';
 $lang['Internetbs.name'] = 'Internet.bs';
+$lang['Internetbs.back_to_manage'] = 'رجوع';
+$lang['Internetbs.manage.tab_rows'] = 'الخوادم';
+$lang['Internetbs.manage.tab_groups'] = 'مجموعات الخوادم';
 

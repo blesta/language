@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2025, Phillips Data, Inc.
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -57,4 +57,5 @@ $lang['MulticraftPackage.package_fields.tooltip.server_visibility'] = 'Establece
 $lang['MulticraftPackage.package_fields.server_visibility_0'] = 'Sólo propietario';
 $lang['MulticraftPackage.package_fields.server_visibility_1'] = 'Función por defecto';
 $lang['MulticraftPackage.package_fields.server_visibility_2'] = 'Sólo usuarios con funciones';
+$lang['Multicraft.back_to_manage'] = 'Volver';
 
