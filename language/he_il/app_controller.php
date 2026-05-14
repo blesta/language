@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'טוען...';
 $lang['AppController.modal.btn_delete'] = 'מחק';
 $lang['AppController.modal.btn_cancel'] = 'בטל';
 $lang['AppController.modal.confirm_delete'] = 'אשר מחיקה';
+$lang['AppController.lang.dir'] = 'rtl';
 
