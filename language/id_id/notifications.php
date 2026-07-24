@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Info';
 $lang['Notifications.getTypes.success'] = 'Sukses';
 $lang['Notifications.getTypes.warning'] = 'Peringatan';
 $lang['Notifications.getTypes.danger'] = 'Bahaya';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Pemberitahuan dikirimkan ketika model AI yang telah dikonfigurasi tidak lagi tersedia dan model pengganti sedang digunakan.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Model AI Tidak Tersedia';
 

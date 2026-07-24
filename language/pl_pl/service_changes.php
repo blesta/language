@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Identyfikator faktury zosta�
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Nieprawidłowy identyfikator faktury.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Nieprawidłowy identyfikator usługi.';
 $lang['ServiceChanges.!error.id.exists'] = 'Nieprawidłowy identyfikator zmiany usługi.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Faktura została już opłacona i nie można jej unieważnić.';
 

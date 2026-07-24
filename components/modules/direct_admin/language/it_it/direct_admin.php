@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'Amministrazione diretta';
 $lang['DirectAdmin.!error.change_package.type'] = 'Il modulo non supporta la modifica dei pacchetti utente e rivenditore.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Inserire un indirizzo e-mail valido.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'La password e la password di conferma non corrispondono.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Assicurarsi che la password contenga i seguenti elementi: Almeno 12 caratteri, almeno 1 carattere maiuscolo A-Z, almeno 1 carattere minuscolo a-z, almeno 1 numero 0-9 e almeno 1 carattere speciale dall\'insieme: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Assicurati che la password contenga quanto segue: Almeno 12 caratteri, almeno 1 lettera maiuscola (A-Z), almeno 1 lettera minuscola (a-z), almeno 1 numero (0-9) e almeno 1 carattere speciale tra quelli indicati: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Il nome utente deve avere una lunghezza compresa tra 4 e 8 caratteri.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Il nome utente può contenere solo caratteri alfanumerici.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Inserire un nome di dominio valido del tipo: domain.com';

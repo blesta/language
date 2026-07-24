@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'ПРИМІТКА: Файли мають 
 $lang['AdminMain.add.field_file_type'] = 'Джерело файлу';
 $lang['AdminMain.add.upload'] = 'Завантажити файл';
 $lang['AdminMain.add.path'] = 'Вкажіть шлях до файлу';
+$lang['AdminMain.!error.post_max_size'] = 'Файл, який ви намагалися завантажити, занадто великий. Його розмір перевищує максимальний розмір завантаження на цьому сервері, який становить %1$s. Будь ласка, завантажте файл меншого розміру або попросіть адміністратора сервера збільшити параметри PHP «post_max_size» та «upload_max_filesize».';
 

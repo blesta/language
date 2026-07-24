@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgets del salpicade
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Tarjetas';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configure qué tarjetas de estadísticas y widgets aparecen en el panel de control del cliente. Arrastre las tarjetas para cambiar su orden, haga clic en ellas para cambiar el color y utilice las casillas de verificación para activarlas o desactivarlas. El orden de los widgets puede personalizarse arrastrándolos verticalmente.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Personalización del diseño del salpicadero';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Configuración del tema';
 

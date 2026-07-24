@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['DataFeeds.!error.class.valid'] = 'Kelas yang disediakan bukan kelas umpan data yang valid.';
 $lang['DataFeeds.!error.dir.empty'] = 'Silakan masuk ke direktori plugin.';
 $lang['DataFeeds.!error.feed.valid'] = 'Masukkan nama umpan data.';
+$lang['DataFeeds.!error.dir.valid'] = 'Direktori plugin berisi karakter yang tidak valid.';
 

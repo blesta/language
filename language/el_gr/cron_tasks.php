@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Διαγραφή ληγμένων κουπονιών επαναφοράς κωδικού πρόσβασης';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Στέλνει ειδοποίηση σε όλους τους χρήστες των οποίων τα επίπεδα πίστωσης έχουν πέσει κάτω από το ρυθμισμένο όριο.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Ειδοποιήσεις χαμηλού υπολοίπου';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Καταγράφει τα ημερήσια συνολικά στοιχεία για το MRR, την κίνηση και τα έσοδα που χρησιμοποιούνται από τον πίνακα ελέγχου «Reports revenue intelligence».';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Συνοπτικές αναφορές για την ανάλυση εσόδων';
 

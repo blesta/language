@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Yükleniyor...';
 $lang['AppController.modal.btn_delete'] = 'Silme';
 $lang['AppController.modal.btn_cancel'] = 'İptal';
 $lang['AppController.modal.confirm_delete'] = 'Silme İşlemini Onayla';
+$lang['AppController.structure.notification_company_tooltip'] = 'Ait olduğu %1$s';
 

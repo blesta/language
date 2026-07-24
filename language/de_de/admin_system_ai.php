@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Schemadefinitione
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Nehmen Sie Feldtypinformationen und Datenbankschemata in den Kontext auf.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Beispieldaten einbeziehen';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Fügen Sie Beispieldatenwerte ein, damit die KI Datenformate und -struktur besser versteht.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Das derzeit ausgewählte Modell „%1$s “ ist nicht mehr verfügbar. Für KI-Funktionen wird vorübergehend „%2$s “ verwendet. Bitte wählen Sie unten ein neues Standardmodell aus und speichern Sie Ihre Auswahl.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Empfohlen)';
 

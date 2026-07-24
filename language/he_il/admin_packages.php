@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'החל מסננים';
 $lang['AdminPackages.index.field_filterclear'] = 'נקי';
 $lang['AdminPackages.index.filter_toggle'] = 'החלף מסננים';
 $lang['AdminPackages.index.items_selected'] = 'הפריטים שנבחרו';
+$lang['AdminPackages.index.action.change_status'] = 'שינוי סטטוס';
+$lang['AdminPackages.index.action.delete_packages'] = 'מחיקת חבילות';
+$lang['AdminPackages.!error.status_required'] = 'אנא בחר מצב כדי להגיש בקשה.';
+$lang['AdminPackages.!success.change_status'] = 'סטטוס החבילות עודכן בהצלחה.';
+$lang['AdminPackages.!success.delete_packages'] = 'החבילות נמחקו בהצלחה.';
 

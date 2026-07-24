@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Měna %1$s byla úsp�
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Měna %1$s byla úspěšně aktualizována!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Měna %1$s byla úspěšně vytvořena!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Nastavení měny bylo úspěšně aktualizováno!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Aktualizovat nyní';
 

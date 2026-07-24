@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirektAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Modulen stöder inte byte mellan användar- och återförsäljarpaket.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Ange en giltig e-postadress.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Lösenord och Bekräfta lösenord stämmer inte överens.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Se till att lösenordet innehåller följande: Minst 12 tecken, minst 1 versal A-Z, minst 1 gemen a-z, minst 1 siffra 0-9 och minst 1 specialtecken från uppsättningen: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Se till att lösenordet innehåller följande: Minst 12 tecken, minst 1 versal (A–Z), minst 1 gemen (a–z), minst 1 siffra (0–9) och minst 1 specialtecken från följande uppsättning: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Användarnamnet måste vara mellan 4 och 8 tecken långt.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Användarnamnet får endast innehålla alfanumeriska tecken.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Ange ett giltigt domännamn av typen: domän.com';

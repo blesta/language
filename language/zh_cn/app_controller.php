@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = '正在加载...';
 $lang['AppController.modal.btn_delete'] = '删除';
 $lang['AppController.modal.btn_cancel'] = '取消';
 $lang['AppController.modal.confirm_delete'] = '确认删除';
+$lang['AppController.structure.notification_company_tooltip'] = '归属于%1$s';
 

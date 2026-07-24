@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = '대시보드 위젯';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = '카드';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = '클라이언트 대시보드에 표시할 통계 카드와 위젯을 구성합니다. 카드를 드래그하여 순서를 변경하고, 클릭하여 색상을 변경하고, 체크박스를 사용하여 활성화 또는 비활성화할 수 있습니다. 위젯 순서는 세로로 드래그하여 사용자 지정할 수 있습니다.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = '대시보드 레이아웃 사용자 지정';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = '테마 설정';
 

@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Alterar a ren
 $lang['DomainsController.example'] = 'Exemplo de língua';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Remover a substituição de preço';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Definir anulação de preço';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Sincronização da fila';
 

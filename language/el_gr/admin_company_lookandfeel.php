@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgets ταμπλό'
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Κάρτες';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Ρυθμίστε ποιες κάρτες στατιστικών και widgets εμφανίζονται στον πίνακα οργάνων του πελάτη. Σύρετε τις κάρτες για να αλλάξετε τη σειρά τους, κάντε κλικ σε αυτές για να αλλάξετε το χρώμα και χρησιμοποιήστε τα πλαίσια ελέγχου για να τις ενεργοποιήσετε ή να τις απενεργοποιήσετε. Η σειρά των widget μπορεί να προσαρμοστεί σύροντάς τα κάθετα.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Προσαρμογή διάταξης ταμπλό';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Ρυθμίσεις θέματος';
 

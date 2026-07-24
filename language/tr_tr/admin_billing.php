@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Filtreleri Uygula';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Temiz';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Filtreleri Değiştir';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Gösterge panelinizde göstermek veya gizlemek için widget\'lara tıklayın.';
+$lang['AdminBilling.services.heading_id'] = 'Hizmet No. #';
 

@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Avbryt';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klicka på widgetar för att visa eller dölja dem från instrumentpanelen.';
 $lang['AdminMain.calendar.category_list'] = 'Lista';
 $lang['AdminMain.calendar.category_today'] = 'Idag';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Visa sidofältet (kalender och snabblänkar)';
 

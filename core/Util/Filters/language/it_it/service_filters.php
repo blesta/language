@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.field_service_meta'] = 'Servizio Meta';
 $lang['Util.filters.service_filters.field_package_name'] = 'Nome del pacchetto';
 $lang['Util.filters.service_filters.field_module_id'] = 'Modulo';
 $lang['Util.filters.service_filters.any'] = 'Qualsiasi';
+$lang['Util.filters.service_filters.field_service_id'] = 'ID servizio';
 

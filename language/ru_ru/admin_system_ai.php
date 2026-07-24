@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Включите 
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Включите в контекст информацию о типах полей и схемах баз данных.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Включите примерные данные';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Включите примеры значений данных, чтобы помочь ИИ понять форматы и структуру данных.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Выбранная в данный момент модель «%1$s » больше не доступна. Функции искусственного интеллекта временно используют модель «%2$s ». Пожалуйста, выберите ниже новую модель по умолчанию и сохраните выбор.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Рекомендуется)';
 

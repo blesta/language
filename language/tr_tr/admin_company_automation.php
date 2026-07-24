@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Ayarlar > Şirket > Otomasyo
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Cron görevi temizlendi.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Otomasyon ayarları başarıyla güncellendi!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Her dakika çalışacak şekilde ayarlanmış otomasyon görevleri var, ancak cron\'unuz her dakika çalışıyor gibi görünmüyor. Bu daha kısa aralıklardan yararlanmak için cron\'unuzu her dakika çalışacak şekilde güncelleyin.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Son 24 saat içinde hiçbir otomasyon görevi çalıştırması kaydedilmedi.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Son bir saat içinde hiçbir otomasyon görevi çalıştırılmadı.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Henüz bitmedi';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Koşmak';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Tamamlandı';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Yürütme';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Yenile';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Görev Yürütme Zaman Çizelgesi - Son 24 Saat';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Görev Yürütme Zaman Çizelgesi - Son Saat';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Çalışma süreleri:';
 

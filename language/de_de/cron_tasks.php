@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Abgelaufene Token zum Zurücksetzen des Passworts löschen';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Sendet eine Benachrichtigung an alle Benutzer, deren Guthaben unter den konfigurierten Schwellenwert gefallen ist.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Benachrichtigungen bei niedrigem Saldo';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Erfasst die täglichen MRR-, Bewegungs- und Umsatz-Rollups, die vom „Revenue Intelligence“-Dashboard in „Reports“ verwendet werden.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Umsatz-Intelligence-Übersichten';
 

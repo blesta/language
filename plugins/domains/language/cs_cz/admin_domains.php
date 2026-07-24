@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Stav';
 $lang['AdminDomains.whois.label_name_servers'] = 'Jmenné servery';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Zadejte prosím platný název domény';
+$lang['AdminDomains.browse.text_items_selected'] = 'vybrané položky';
+$lang['AdminDomains.browse.text_item_selected'] = 'vybraná položka';
+$lang['AdminDomains.!success.queue_sync'] = 'Vybrané domény byly zařazeny do fronty pro synchronizaci!';
 

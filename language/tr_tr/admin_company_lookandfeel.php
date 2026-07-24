@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Gösterge Tablosu Ara
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Kartlar';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Müşteri panosunda hangi istatistik kartlarının ve widget\'ların görüneceğini yapılandırın. Sıralarını değiştirmek için kartları sürükleyin, renklerini değiştirmek için tıklayın ve etkinleştirmek ya da devre dışı bırakmak için onay kutularını kullanın. Widget sırası dikey olarak sürüklenerek özelleştirilebilir.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Gösterge Tablosu Düzeni Özelleştirme';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Tema Ayarları';
 

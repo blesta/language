@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = '설정 > 회사 > 자동화'
 $lang['AdminCompanyAutomation.!success.task_cleared'] = '크론 작업이 지워졌습니다.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = '자동화 설정이 성공적으로 업데이트되었습니다!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = '매분마다 실행되도록 설정된 자동화 작업이 있지만 크론이 매분마다 실행되지 않는 것으로 보입니다. 이 짧은 간격을 활용하려면 크론을 매분 실행되도록 업데이트하세요.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = '지난 24시간 동안 자동화 작업 실행이 기록되지 않았습니다.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = '지난 1시간 동안 실행된 자동화 작업이 없습니다.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = '아직 완료되지 않음';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = '실행 중';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = '완료';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = '실행';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = '새로 고침';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = '작업 실행 타임라인 - 지난 24시간';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = '작업 실행 타임라인 - 지난 1시간';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = '실행 횟수:';
 

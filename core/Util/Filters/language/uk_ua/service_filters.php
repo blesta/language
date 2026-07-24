@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.field_service_meta'] = 'Мета серві�
 $lang['Util.filters.service_filters.field_package_name'] = 'Назва пакету';
 $lang['Util.filters.service_filters.field_module_id'] = 'Модуль';
 $lang['Util.filters.service_filters.any'] = 'Будь-який';
+$lang['Util.filters.service_filters.field_service_id'] = 'Ідентифікатор послуги';
 

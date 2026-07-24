@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Infos';
 $lang['Notifications.getTypes.success'] = 'Erfolg';
 $lang['Notifications.getTypes.warning'] = 'Warnung';
 $lang['Notifications.getTypes.danger'] = 'Gefahr';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Benachrichtigung, die gesendet wird, wenn das konfigurierte KI-Modell nicht mehr verfügbar ist und ein Ersatzmodell verwendet wird.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'KI-Modell nicht verfügbar';
 

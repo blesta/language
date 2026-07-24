@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Menerapkan Filter';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Jelas';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Alihkan Filter';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik widget untuk menampilkan atau menyembunyikannya dari dasbor Anda.';
+$lang['AdminBilling.services.heading_id'] = 'Nomor Layanan #';
 

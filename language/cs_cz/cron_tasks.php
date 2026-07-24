@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Odstranění vypršených tokenů pro resetování hesla';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Odešle oznámení všem uživatelům, jejichž úroveň kreditu klesla pod nakonfigurovanou mez.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Oznámení o nízkém zůstatku';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Zaznamenává denní hodnoty MRR, pohyby a souhrnné údaje o tržbách, které využívá dashboard „Revenue Intelligence“ v sekci „Reports“.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Přehledy o tržbách';
 

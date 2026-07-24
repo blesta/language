@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Το νόμισμα %
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Το νόμισμα %1$s ενημερώθηκε επιτυχώς!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Το νόμισμα %1$s δημιουργήθηκε επιτυχώς!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Οι ρυθμίσεις ρύθμισης νομίσματος ενημερώθηκαν επιτυχώς!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Ενημέρωση τώρα';
 

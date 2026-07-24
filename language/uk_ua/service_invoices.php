@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Неправильний тип с
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Дозволяти тільки негайне скасування';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Дозволити скасування тільки в кінці терміну';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Дозволити негайне скасування або скасування в кінці терміну';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Змінити';
 

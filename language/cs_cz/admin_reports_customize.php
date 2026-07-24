@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Zprávy';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Zpráva byla úspěšně odstraněna.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Zpráva byla úspěšně aktualizována.';
 $lang['AdminReportsCustomize.!success.added'] = 'Zpráva byla úspěšně přidána.';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Tržby';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Přehled';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Vývoz';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Obnovení';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Udržení';
 

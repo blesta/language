@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Невірний ідентифі
 $lang['DataFeeds.!error.class.valid'] = 'Наданий клас не є допустимим класом потоку даних.';
 $lang['DataFeeds.!error.dir.empty'] = 'Будь ласка, увійдіть до каталогу плагінів.';
 $lang['DataFeeds.!error.feed.valid'] = 'Будь ласка, введіть назву каналу даних.';
+$lang['DataFeeds.!error.dir.valid'] = 'Каталог плагінів містить недопустимі символи.';
 

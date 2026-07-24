@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = '크론 작업 키 길이는 64자를 초
 $lang['CronTasks.!error.key.unique'] = '제공된 크론 작업 키는 이미 사용 중입니다.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = '신용 수준이 설정한 임계값 아래로 떨어진 모든 사용자에게 알림을 보냅니다.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = '잔액 부족 알림';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = '보고서(Reports)의 매출 인텔리전스 대시보드에서 사용하는 일일 MRR, 거래량 및 매출 집계 데이터를 기록합니다.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = '매출 인텔리전스 개요';
 

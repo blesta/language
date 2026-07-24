@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Rapporten';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Het rapport is succesvol verwijderd.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Het rapport is met succes bijgewerkt.';
 $lang['AdminReportsCustomize.!success.added'] = 'Het rapport is succesvol toegevoegd.';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Omzet';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Overzicht';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Uitvoer';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Verlengingen';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Behoud';
 

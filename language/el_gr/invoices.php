@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Όλα τα τιμολόγια 
 $lang['Invoices.!error.invoice_ids.count'] = 'Πρέπει να επιλεγούν τουλάχιστον δύο τιμολόγια.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Οι εφάπαξ υπηρεσίες δεν μπορούν να ανανεωθούν.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Τα τιμολόγια proforma μπορούν να συγχωνευθούν μόνο με άλλα τιμολόγια proforma, ενώ τα ενεργά τιμολόγια μόνο με άλλα ενεργά τιμολόγια.';
 

@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'Довжина ключа завданн
 $lang['CronTasks.!error.key.unique'] = 'Наданий ключ завдання cron вже зайнято.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Надсилає сповіщення всім користувачам, чий кредитний рівень впав нижче налаштованого порогу.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Сповіщення про низький баланс';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Зберігає дані про щоденний MRR, динаміку та зведені показники доходу, які використовуються на інформаційній панелі «Дохід» у розділі «Звіти».';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Короткі огляди даних про доходи';
 

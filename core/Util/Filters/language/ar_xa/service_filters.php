@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.field_service_meta'] = 'تعريف الخد�
 $lang['Util.filters.service_filters.field_package_name'] = 'اسم الحزمة';
 $lang['Util.filters.service_filters.field_module_id'] = 'الوحدة النمطية';
 $lang['Util.filters.service_filters.any'] = 'أي';
+$lang['Util.filters.service_filters.field_service_id'] = 'معرّف الخدمة';
 

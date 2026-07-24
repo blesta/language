@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'معرّف الشركة غير ص
 $lang['DataFeeds.!error.class.valid'] = 'الفئة المقدمة ليست فئة تغذية بيانات صالحة.';
 $lang['DataFeeds.!error.dir.empty'] = 'الرجاء إدخال دليل المكونات الإضافية.';
 $lang['DataFeeds.!error.feed.valid'] = 'الرجاء إدخال اسم موجز البيانات.';
+$lang['DataFeeds.!error.dir.valid'] = 'يحتوي دليل المكونات الإضافية على أحرف غير صالحة.';
 

@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = '包含模式定�
 $lang['AdminSystemAi.index.text_email_context_schemas'] = '在上下文中包含字段类型信息和数据库模式。';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = '包含示例数据';
 $lang['AdminSystemAi.index.text_email_context_examples'] = '包括样本数据值，以帮助人工智能了解数据格式和结构。';
+$lang['AdminSystemAi.index.degraded_model'] = '当前选定的模型“%1$s ”已不可用。AI 功能暂时改用“%2$s ”。请在下方选择一个新的默认模型并保存。';
+$lang['AdminSystemAi.index.model_recommended'] = '(推荐)';
 

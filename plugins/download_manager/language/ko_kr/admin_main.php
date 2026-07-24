@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = '참고: 파일은 업로드 디렉터리
 $lang['AdminMain.add.field_file_type'] = '파일 소스';
 $lang['AdminMain.add.upload'] = '파일 업로드';
 $lang['AdminMain.add.path'] = '파일 경로 지정';
+$lang['AdminMain.!error.post_max_size'] = '업로드하려는 파일의 크기가 너무 큽니다. 이 서버의 최대 업로드 크기인 %1$s 를 초과합니다. 더 작은 파일을 업로드하거나, 서버 관리자에게 PHP 설정 중 \'post_max_size\' 및 \'upload_max_filesize\' 값을 늘려달라고 요청해 주십시오.';
 

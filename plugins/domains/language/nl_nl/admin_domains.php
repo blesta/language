@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Status';
 $lang['AdminDomains.whois.label_name_servers'] = 'Naam Servers';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Voer een geldige domeinnaam in';
+$lang['AdminDomains.browse.text_items_selected'] = 'geselecteerde artikelen';
+$lang['AdminDomains.browse.text_item_selected'] = 'item geselecteerd';
+$lang['AdminDomains.!success.queue_sync'] = 'De geselecteerde domeinen zijn in de wachtrij geplaatst voor synchronisatie!';
 

@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Внимание';
 $lang['AdminTools.logsystem.level_notice'] = 'Уведомление';
 $lang['AdminTools.logsystem.level_info'] = 'Информация';
 $lang['AdminTools.logsystem.level_debug'] = 'Отладка';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Данный счет уже оплачен и не может быть аннулирован из очереди.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Вы уверены, что хотите отменить это ожидающее выполнения изменение услуги? Соответствующий счет уже оплачен и не будет аннулирован.';
 

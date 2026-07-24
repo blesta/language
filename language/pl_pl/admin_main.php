@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Anuluj';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Kliknij widżety, aby wyświetlić lub ukryć je na pulpicie nawigacyjnym.';
 $lang['AdminMain.calendar.category_list'] = 'Lista';
 $lang['AdminMain.calendar.category_today'] = 'Dzisiaj';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Pokaż pasek boczny (kalendarz i szybkie linki)';
 

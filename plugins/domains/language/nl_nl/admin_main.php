@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Bestelling Totaal';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Couponcode invoeren';
 $lang['AdminMain.edit.text_select_action'] = 'Klik op een knop hierboven om het formulier weer te geven om een actie uit te voeren.';
 $lang['AdminMain.edit.text_no_fields'] = 'Voor deze actie zijn geen extra opties nodig. Klik op Submit om verder te gaan.';
+$lang['AdminMain.index.text_items_selected'] = 'geselecteerde artikelen';
+$lang['AdminMain.index.text_item_selected'] = 'item geselecteerd';
+$lang['AdminMain.!success.queue_sync'] = 'De geselecteerde domeinen zijn in de wachtrij geplaatst voor synchronisatie!';
 

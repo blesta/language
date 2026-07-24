@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Ordre i alt';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Indtast kuponkode';
 $lang['AdminMain.edit.text_select_action'] = 'Klik på en knap ovenfor for at få vist formularen til at udføre en handling.';
 $lang['AdminMain.edit.text_no_fields'] = 'Denne handling kræver ingen yderligere indstillinger. Klik på Send for at fortsætte.';
+$lang['AdminMain.index.text_items_selected'] = 'valgte varer';
+$lang['AdminMain.index.text_item_selected'] = 'valgt vare';
+$lang['AdminMain.!success.queue_sync'] = 'De valgte domæner er sat i kø til synkronisering!';
 

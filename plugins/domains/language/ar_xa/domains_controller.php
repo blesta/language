@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'تغيي
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'تغيير تاريخ انتهاء الصلاحية';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'إزالة تجاوز السعر';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'تعيين تجاوز السعر المحدد';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'مزامنة قائمة الانتظار';
 

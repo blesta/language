@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Statut';
 $lang['AdminDomains.whois.label_name_servers'] = 'Serveurs de noms';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Veuillez saisir un nom de domaine valide';
+$lang['AdminDomains.browse.text_items_selected'] = 'articles sélectionnés';
+$lang['AdminDomains.browse.text_item_selected'] = 'élément sélectionné';
+$lang['AdminDomains.!success.queue_sync'] = 'Les domaines sélectionnés ont été mis en file d\'attente pour la synchronisation !';
 

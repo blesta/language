@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Anulează';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Faceți clic pe widgeturi pentru a le afișa sau ascunde din tabloul de bord.';
 $lang['AdminMain.calendar.category_list'] = 'Listă';
 $lang['AdminMain.calendar.category_today'] = 'Astăzi';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Afișează bara laterală (calendarul și linkurile rapide)';
 

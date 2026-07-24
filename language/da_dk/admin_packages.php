@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Anvend filtre';
 $lang['AdminPackages.index.field_filterclear'] = 'Klar';
 $lang['AdminPackages.index.filter_toggle'] = 'Skift mellem filtre';
 $lang['AdminPackages.index.items_selected'] = 'valgte emner';
+$lang['AdminPackages.index.action.change_status'] = 'Skift status';
+$lang['AdminPackages.index.action.delete_packages'] = 'Slet pakker';
+$lang['AdminPackages.!error.status_required'] = 'Vælg venligst en status, du vil ansøge om.';
+$lang['AdminPackages.!success.change_status'] = 'Pakkenes status er blevet opdateret uden problemer.';
+$lang['AdminPackages.!success.delete_packages'] = 'Pakkerne blev slettet uden problemer.';
 

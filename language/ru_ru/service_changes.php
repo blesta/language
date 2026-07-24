@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Идентификатор �
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Неверный идентификатор счета-фактуры.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Неверный идентификатор службы.';
 $lang['ServiceChanges.!error.id.exists'] = 'Неверный идентификатор изменения услуги.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Счет уже оплачен и не может быть аннулирован.';
 

@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Tillämpa filter';
 $lang['AdminPackages.index.field_filterclear'] = 'Klar';
 $lang['AdminPackages.index.filter_toggle'] = 'Växla filter';
 $lang['AdminPackages.index.items_selected'] = 'valda objekt';
+$lang['AdminPackages.index.action.change_status'] = 'Ändra status';
+$lang['AdminPackages.index.action.delete_packages'] = 'Ta bort paket';
+$lang['AdminPackages.!error.status_required'] = 'Välj en status som du vill ansöka om.';
+$lang['AdminPackages.!success.change_status'] = 'Paketstatusarna har uppdaterats.';
+$lang['AdminPackages.!success.delete_packages'] = 'Paketen har raderats.';
 

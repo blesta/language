@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Alle facturen moeten dezelfde v
 $lang['Invoices.!error.invoice_ids.count'] = 'Er moeten minstens twee facturen worden geselecteerd.';
 $lang['Invoices.!line_item.parent_description'] = 'Kinderopvang van %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Eenmalige diensten kunnen niet worden verlengd.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proforma-facturen kunnen alleen worden samengevoegd met andere proforma-facturen, en actieve facturen met andere actieve facturen.';
 

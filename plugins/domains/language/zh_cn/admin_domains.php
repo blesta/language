@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = '现状';
 $lang['AdminDomains.whois.label_name_servers'] = '名称服务器';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = '请输入有效的域名';
+$lang['AdminDomains.browse.text_items_selected'] = '已选商品';
+$lang['AdminDomains.browse.text_item_selected'] = '已选中项目';
+$lang['AdminDomains.!success.queue_sync'] = '所选域名已加入同步队列！';
 

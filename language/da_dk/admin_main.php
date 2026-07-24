@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuller';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klik på widgets for at vise eller skjule dem fra dit dashboard.';
 $lang['AdminMain.calendar.category_list'] = 'Liste';
 $lang['AdminMain.calendar.category_today'] = 'I dag';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Vis sidepanelet (kalender og hurtiglinks)';
 

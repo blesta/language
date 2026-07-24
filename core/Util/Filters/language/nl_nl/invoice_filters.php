@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.invoice_filters.field_invoice_line'] = 'Inhoud lijnitem';
-$lang['Util.filters.invoice_filters.field_currency'] = 'Valuta';
-$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Factuur #';
 $lang['Util.filters.invoice_filters.any'] = 'Elke';
+$lang['Util.filters.invoice_filters.field_currency'] = 'Valuta';
+$lang['Util.filters.invoice_filters.field_invoice_line'] = 'Inhoud lijnitem';
+$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Factuur #';
 

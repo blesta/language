@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Suffiks Symbol';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Valutakurs';
 $lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Opdatering af valuta';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Er du sikker på, at du vil opdatere denne valuta? Denne valutas kurs vil blive overskrevet, når valutakurser automatisk opdateres i systemet. Du kan deaktivere automatiske opdateringer under [Indstillinger] > [Virksomhed] > [Valutaer] > [Valutaopsætning].';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Opdater nu';
 

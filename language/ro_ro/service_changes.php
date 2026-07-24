@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'ID-ul facturii este deja set
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'ID-ul facturii nu este valid.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'ID de serviciu invalid.';
 $lang['ServiceChanges.!error.id.exists'] = 'ID de modificare a serviciului invalid.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Factura a fost deja achitată și nu poate fi anulată.';
 

@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'REMARQUE : Les fichiers doivent se trouv
 $lang['AdminMain.add.field_file_type'] = 'Source du fichier';
 $lang['AdminMain.add.upload'] = 'Télécharger le fichier';
 $lang['AdminMain.add.path'] = 'Spécifier le chemin d\'accès au fichier';
+$lang['AdminMain.!error.post_max_size'] = 'Le fichier que vous avez tenté de télécharger est trop volumineux. Il dépasse la taille maximale autorisée par ce serveur, qui est de %1$s. Veuillez télécharger un fichier plus petit ou demander à l\'administrateur de votre serveur d\'augmenter les paramètres PHP « post_max_size » et « upload_max_filesize ».';
 

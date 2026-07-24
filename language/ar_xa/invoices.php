@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.client'] = 'يجب أن تنتمي جميع �
 $lang['Invoices.!error.invoice_id.status'] = 'يجب أن تكون فاتورة الوجهة مفتوحة وبدون أي معاملات.';
 $lang['Invoices.!error.invoice_id.unique'] = 'لا يمكن أن تكون الفاتورة الوجهة جزءاً من الفواتير المراد دمجها.';
 $lang['Invoices.!error.service.renew_onetime'] = 'لا يمكن تجديد الخدمات لمرة واحدة.';
+$lang['Invoices.!error.invoice_ids.match'] = 'لا يمكن دمج الفواتير الأولية إلا مع فواتير أولية أخرى، ولا يمكن دمج الفواتير السارية إلا مع فواتير سارية أخرى.';
 

@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Aplicați filtre';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Clar';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Modificarea filtrelor';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Faceți clic pe widgeturi pentru a le afișa sau ascunde din tabloul de bord.';
+$lang['AdminBilling.services.heading_id'] = 'Serviciul nr.';
 

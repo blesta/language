@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'O ID da fatura já está def
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'ID de fatura inválida.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'ID de serviço inválida.';
 $lang['ServiceChanges.!error.id.exists'] = 'ID de alteração de serviço inválido.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'A fatura já foi paga e não pode ser anulada.';
 

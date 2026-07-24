@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Treść wiadomości nie może być pusta.';
-$lang['AiMessages.!error.role.valid'] = 'Nieprawidłowa rola wiadomości.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'Nieprawidłowy identyfikator konwersacji.';
+$lang['AiMessages.!error.role.valid'] = 'Nieprawidłowa rola wiadomości.';
 

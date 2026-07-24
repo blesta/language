@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.invoice_filters.any'] = 'Tous';
-$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Facture #';
 $lang['Util.filters.invoice_filters.field_currency'] = 'Monnaie';
 $lang['Util.filters.invoice_filters.field_invoice_line'] = 'Contenu du poste';
+$lang['Util.filters.invoice_filters.field_invoice_number'] = 'Facture #';
 

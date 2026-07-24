@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Промя
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Промяна на датата на регистрация';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Премахване на отмяната на цената';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Задаване на отменяне на цената';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Синхронизиране на опашката';
 

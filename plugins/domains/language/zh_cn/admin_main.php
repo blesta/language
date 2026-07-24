@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = '订单总数';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = '输入优惠券代码';
 $lang['AdminMain.edit.text_select_action'] = '点击上面的按钮，显示执行操作的表单。';
 $lang['AdminMain.edit.text_no_fields'] = '此操作不需要任何其他选项。单击 "提交 "继续。';
+$lang['AdminMain.index.text_items_selected'] = '已选商品';
+$lang['AdminMain.index.text_item_selected'] = '已选中项目';
+$lang['AdminMain.!success.queue_sync'] = '所选域名已加入同步队列！';
 

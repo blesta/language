@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = '信息';
 $lang['Notifications.getTypes.success'] = '成功';
 $lang['Notifications.getTypes.warning'] = '警告';
 $lang['Notifications.getTypes.danger'] = '危险';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = '当配置的 AI 模型不可用且正在使用替代模型时，将发送通知。';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'AI 模型不可用';
 

@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Valutan %1$s har tagi
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Valutan %1$s har uppdaterats framgångsrikt!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Valutan %1$s har skapats framgångsrikt!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Valutainställningarna har uppdaterats framgångsrikt!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Uppdatera nu';
 

@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Moduł nie obsługuje zmiany między pakietami użytkownika i resellera.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Wprowadź prawidłowy adres e-mail.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Hasło i potwierdzone hasło nie są zgodne.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Upewnij się, że hasło zawiera następujące elementy: Co najmniej 12 znaków, co najmniej 1 znak pisany wielką literą A-Z, co najmniej 1 znak pisany małą literą a-z, co najmniej 1 cyfrę 0-9 i co najmniej 1 znak specjalny z zestawu: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Upewnij się, że hasło zawiera następujące elementy: Co najmniej 12 znaków, co najmniej 1 wielką literę z zakresu A–Z, co najmniej 1 małą literę z zakresu a–z, co najmniej 1 cyfrę z zakresu 0–9 oraz co najmniej 1 znak specjalny z zestawu: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Nazwa użytkownika musi zawierać od 4 do 8 znaków.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Nazwa użytkownika może zawierać tylko znaki alfanumeryczne.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Wprowadź poprawną nazwę domeny w postaci: domena.com';

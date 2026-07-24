@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = '필터 적용';
 $lang['AdminBilling.quotations.field_filterclear'] = '지우기';
 $lang['AdminBilling.quotations.filter_toggle'] = '필터 토글';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = '위젯을 클릭하여 대시보드에서 위젯을 표시하거나 숨깁니다.';
+$lang['AdminBilling.services.heading_id'] = '서비스 번호 #';
 

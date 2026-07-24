@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'הערה: הקבצים חייבים לה
 $lang['AdminMain.add.field_file_type'] = 'מקור הקובץ';
 $lang['AdminMain.add.upload'] = 'העלה קובץ';
 $lang['AdminMain.add.path'] = 'ציין את הנתיב לקובץ';
+$lang['AdminMain.!error.post_max_size'] = 'הקובץ שניסית להעלות גדול מדי. גודלו עולה על הגודל המרבי המותר להעלאה בשרת זה, העומד על %1$s. אנא העלה קובץ קטן יותר, או בקש ממנהל השרת להגדיל את הגדרות ה-PHP \'post_max_size\' ו-\'upload_max_filesize\'.';
 

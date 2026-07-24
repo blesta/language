@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = '견적서 목록';
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = '이메일 템플릿 스냅샷 복원';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = '시스템 무결성 검사';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = '수익 인텔리전스 데이터 새로 고침';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = '매출 인텔리전스 갱신 데이터';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = '매출 인텔리전스 고객 유지 데이터';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = '매출 인텔리전스 매출 데이터';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = '매출 인텔리전스 개요 데이터';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = '암호 해독 안내';
 

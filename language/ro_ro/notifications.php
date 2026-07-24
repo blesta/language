@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Info';
 $lang['Notifications.getTypes.success'] = 'Succes';
 $lang['Notifications.getTypes.warning'] = 'Avertisment';
 $lang['Notifications.getTypes.danger'] = 'Pericol';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Notificare trimisă atunci când modelul de IA configurat nu mai este disponibil și se utilizează un model de înlocuire.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Modelul de IA nu este disponibil';
 

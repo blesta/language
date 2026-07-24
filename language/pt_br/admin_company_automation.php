@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Configurações > Empresa > 
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'A tarefa cron foi apagada.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'As configurações de automação foram atualizadas com sucesso!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Há tarefas de automação definidas para serem executadas a cada minuto, mas o cron não parece estar sendo executado a cada minuto. Atualize o cron para que seja executado a cada minuto e aproveite esses intervalos mais curtos.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Nenhuma execução de tarefa de automação foi registrada nas últimas 24 horas.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Nenhuma execução de tarefa de automação foi registrada na última hora.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Ainda não concluído';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Em execução';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Concluído';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Execução';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Atualizar';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Linha do tempo de execução da tarefa - últimas 24 horas';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Cronograma de execução de tarefas – Última hora';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Execuções:';
 

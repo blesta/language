@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Liste over citater'
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Gendan snapshot af e-mail-skabelon';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Kontrol af systemintegritet';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Opdater data fra Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Data om fornyelser inden for Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Data om kundefastholdelse inden for Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Indtægtsanalyse – Indtægtsdata';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Oversigt over data vedrørende Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Besked om dekryptering';
 

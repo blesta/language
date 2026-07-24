@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Налаштування > �
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Завдання cron очищено.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Налаштування автоматизації успішно оновлено!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Існують завдання автоматизації, налаштовані на щохвилинний запуск, але ваш cron, схоже, не запускається щохвилини. Оновіть cron, щоб він запускався щохвилини, щоб скористатися перевагами цих коротших інтервалів.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'За останні 24 години не було зареєстровано жодного запуску завдань автоматизації.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'За останню годину не було зареєстровано жодного запуску завдань автоматизації.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Я ще не закінчив.';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Біг';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Хронологія виконання завдань - останні 24 години';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Хронологія виконання завдань — остання година';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Завершено';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Страта';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Оновити';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Пробіги:';
 

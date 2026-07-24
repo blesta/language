@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Abbrechen';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klicken Sie auf Widgets, um sie auf Ihrem Dashboard ein- oder auszublenden.';
 $lang['AdminMain.calendar.category_list'] = 'Liste';
 $lang['AdminMain.calendar.category_today'] = 'Heute';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Seitenleiste anzeigen (Kalender und Schnelllinks)';
 

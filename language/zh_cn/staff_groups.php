@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = '清单报价';
 $lang['StaffGroups.permissions.admin_system_ai'] = '人工智能';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = '恢复电子邮件模板快照';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = '系统完整性检查';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = '刷新收入情报数据';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = '收入情报续订数据';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = '收入智能留存数据';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = '收入分析 收入数据';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = '收入智能概览数据';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = '解密说明';
 

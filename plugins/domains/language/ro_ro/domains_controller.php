@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Modifica
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modificarea datei de expirare';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Eliminarea suprapunerii prețului';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Setați înlocuirea prețului';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Sincronizarea cozii';
 

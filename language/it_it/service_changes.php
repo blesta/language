@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'L\'ID fattura è già impost
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'ID fattura non valido.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'ID servizio non valido.';
 $lang['ServiceChanges.!error.id.exists'] = 'ID di modifica del servizio non valido.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'La fattura è già stata pagata e non può essere annullata.';
 

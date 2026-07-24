@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'De module ondersteunt het wisselen tussen gebruikers- en resellerpakketten niet.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Voer een geldig e-mailadres in.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Wachtwoord en Bevestig wachtwoord komen niet overeen.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Zorg ervoor dat het wachtwoord het volgende bevat: Ten minste 12 tekens, ten minste 1 hoofdletter A-Z, ten minste 1 kleine letter a-z, ten minste 1 cijfer 0-9 en ten minste 1 speciaal teken uit de set: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Zorg ervoor dat het wachtwoord aan de volgende eisen voldoet: minstens 12 tekens, minstens 1 hoofdletter A-Z, minstens 1 kleine letter a-z, minstens 1 cijfer 0-9 en minstens 1 speciaal teken uit de volgende reeks: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'De gebruikersnaam moet tussen de 4 en 8 tekens lang zijn.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'De gebruikersnaam mag alleen alfanumerieke tekens bevatten.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Voer een geldige domeinnaam in in de vorm: domain.com';

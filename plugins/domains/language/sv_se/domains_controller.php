@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Ändra r
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Ändra utgångsdatum';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Ta bort prisöverstyrning';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Åsidosättande av inställt pris';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Kösynkronisering';
 

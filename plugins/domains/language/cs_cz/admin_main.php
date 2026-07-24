@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Objednávka celkem';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Zadejte kód kupónu';
 $lang['AdminMain.edit.text_select_action'] = 'Kliknutím na tlačítko výše zobrazíte formulář pro provedení akce.';
 $lang['AdminMain.edit.text_no_fields'] = 'Tato akce nevyžaduje žádné další možnosti. Klikněte na tlačítko Odeslat a pokračujte.';
+$lang['AdminMain.index.text_items_selected'] = 'vybrané položky';
+$lang['AdminMain.index.text_item_selected'] = 'vybraná položka';
+$lang['AdminMain.!success.queue_sync'] = 'Vybrané domény byly zařazeny do fronty pro synchronizaci!';
 

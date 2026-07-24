@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'مجموع الطلبات';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'أدخل رمز القسيمة';
 $lang['AdminMain.edit.text_select_action'] = 'انقر فوق الزر أعلاه لعرض النموذج لتنفيذ إجراء ما.';
 $lang['AdminMain.edit.text_no_fields'] = 'لا يتطلب هذا الإجراء أي خيارات إضافية. انقر فوق إرسال للمتابعة.';
+$lang['AdminMain.index.text_items_selected'] = 'العناصر المحددة';
+$lang['AdminMain.index.text_item_selected'] = 'العنصر المحدد';
+$lang['AdminMain.!success.queue_sync'] = 'تم إدراج النطاقات المحددة في قائمة الانتظار للمزامنة!';
 

@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Невалиден идентиф
 $lang['DataFeeds.!error.class.valid'] = 'Предоставеният клас не е валиден клас за подаване на данни.';
 $lang['DataFeeds.!error.dir.empty'] = 'Моля, въведете директорията на плъгина.';
 $lang['DataFeeds.!error.feed.valid'] = 'Моля, въведете името на канала за данни.';
+$lang['DataFeeds.!error.dir.valid'] = 'Директорията с плъгините съдържа недопустими символи.';
 

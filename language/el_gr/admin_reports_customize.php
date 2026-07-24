@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Αναφορές';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Η αναφορά διαγράφηκε επιτυχώς.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Η έκθεση ενημερώθηκε επιτυχώς.';
 $lang['AdminReportsCustomize.!success.added'] = 'Η έκθεση προστέθηκε επιτυχώς.';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Έσοδα';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Επισκόπηση';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Εξαγωγές';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Ανανεώσεις';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Διατήρηση';
 

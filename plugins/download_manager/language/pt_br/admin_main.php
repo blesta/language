@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'OBSERVAÇÃO: Os arquivos devem estar lo
 $lang['AdminMain.add.field_file_type'] = 'Fonte do arquivo';
 $lang['AdminMain.add.upload'] = 'Carregar arquivo';
 $lang['AdminMain.add.path'] = 'Especificar o caminho para o arquivo';
+$lang['AdminMain.!error.post_max_size'] = 'O arquivo que você tentou enviar é muito grande. Ele excede o tamanho máximo de envio deste servidor, que é de %1$s. Envie um arquivo menor ou peça ao administrador do servidor para aumentar as configurações do PHP “post_max_size” e “upload_max_filesize”.';
 

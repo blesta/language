@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'O comprimento da chave da tarefa cron n�
 $lang['CronTasks.!error.key.unique'] = 'A chave da tarefa cron fornecida já está ocupada.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Envia um aviso a todos os utilizadores cujos níveis de crédito tenham descido abaixo do limiar configurado.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notificações de saldo baixo';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Regista os dados diários relativos à MRR, ao movimento e aos resumo de receitas utilizados pelo painel de controlo de inteligência de receitas do Reports.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Resumos de análise de receitas';
 

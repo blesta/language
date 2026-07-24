@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.field_service_meta'] = 'Služba Meta';
 $lang['Util.filters.service_filters.field_package_name'] = 'Název balíčku';
 $lang['Util.filters.service_filters.field_module_id'] = 'Modul';
 $lang['Util.filters.service_filters.any'] = 'Jakýkoli';
+$lang['Util.filters.service_filters.field_service_id'] = 'ID služby';
 

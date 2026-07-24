@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'סך ההזמנה';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'הזן את קוד הקופון';
 $lang['AdminMain.edit.text_select_action'] = 'לחץ על אחד הכפתורים שלמעלה כדי להציג את הטופס ולבצע פעולה.';
 $lang['AdminMain.edit.text_no_fields'] = 'פעולה זו אינה מצריכה אפשרויות נוספות. לחץ על \'שלח\' כדי להמשיך.';
+$lang['AdminMain.index.text_items_selected'] = 'הפריטים שנבחרו';
+$lang['AdminMain.index.text_item_selected'] = 'הפריט שנבחר';
+$lang['AdminMain.!success.queue_sync'] = 'הדומיינים שנבחרו הוכנסו לתור לסנכרון!';
 

@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Прилагане на �
 $lang['AdminBilling.quotations.field_filterclear'] = 'Clear';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Превключване на филтрите';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Щракнете върху уиджетите, за да ги покажете или скриете от таблото за управление.';
+$lang['AdminBilling.services.heading_id'] = 'Услуга №';
 

@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Advertencia';
 $lang['AdminTools.logsystem.level_notice'] = 'Aviso';
 $lang['AdminTools.logsystem.level_info'] = 'Información';
 $lang['AdminTools.logsystem.level_debug'] = 'Depurar';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Esta factura ya se ha pagado y no se puede anular desde la cola.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = '¿Estás seguro de que quieres cancelar este cambio de servicio pendiente? La factura correspondiente ya se ha pagado y no se anulará.';
 

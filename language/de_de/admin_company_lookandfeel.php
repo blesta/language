@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Dashboard-Widgets';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Karten';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Legen Sie fest, welche Statistikkarten und Widgets auf dem Client-Dashboard angezeigt werden. Ziehen Sie die Karten, um ihre Reihenfolge zu ändern, klicken Sie sie an, um die Farbe zu ändern, und verwenden Sie Kontrollkästchen, um sie zu aktivieren oder zu deaktivieren. Die Reihenfolge der Widgets kann durch vertikales Ziehen angepasst werden.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Anpassung des Dashboard-Layouts';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Design-Einstellungen';
 

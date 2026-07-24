@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Ungültiger Versuchstyp.';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Nur sofortige Löschung zulassen';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Kündigung nur zum Ende des Semesters zulassen';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Sofortige Kündigung oder Kündigung zum Ende der Laufzeit zulassen';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Ändern';
 

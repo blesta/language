@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerSettings.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
-$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Ingen inställningsknapp får vara tom.';
 $lang['MassMailerSettings.!error.settings[][value].length'] = 'Längden på varje enskilt inställningsvärde får inte överstiga 255 tecken.';
+$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Ingen inställningsknapp får vara tom.';
+$lang['MassMailerSettings.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 

@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista de citate';
 $lang['StaffGroups.permissions.admin_system_ai'] = 'IA';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Restaurarea șablonului instantaneu de e-mail';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Verificarea integrității sistemului';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Actualizarea datelor privind analiza veniturilor';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Date privind reînnoirile serviciului Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Date privind retenția clienților din domeniul analizei veniturilor';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Informații privind veniturile – Date privind veniturile';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Prezentare generală a datelor privind analiza veniturilor';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Notă privind decriptarea';
 

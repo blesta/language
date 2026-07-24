@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Status';
 $lang['AdminDomains.whois.label_name_servers'] = 'Server Nama';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Masukkan nama domain yang valid';
+$lang['AdminDomains.browse.text_items_selected'] = 'item yang dipilih';
+$lang['AdminDomains.browse.text_item_selected'] = 'item yang dipilih';
+$lang['AdminDomains.!success.queue_sync'] = 'Domain-domain yang dipilih telah dimasukkan ke dalam antrian untuk disinkronkan!';
 

@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Modul nepodporuje změnu mezi uživatelskými a prodejními balíčky.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Zadejte prosím platnou e-mailovou adresu.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Heslo a potvrzovací heslo se neshodují.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Ujistěte se, že heslo obsahuje následující údaje: alespoň 12 znaků, alespoň 1 velký znak A-Z, alespoň 1 malý znak a-z, alespoň 1 číslo 0-9 a alespoň 1 speciální znak ze sady: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Ujistěte se, že heslo obsahuje následující: Nejméně 12 znaků, alespoň 1 velké písmeno A–Z, alespoň 1 malé písmeno a–z, alespoň 1 číslici 0–9 a alespoň 1 speciální znak z následující sady: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Uživatelské jméno musí mít délku 4 až 8 znaků.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Uživatelské jméno může obsahovat pouze alfanumerické znaky.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Zadejte prosím platný název domény ve tvaru: domain.com';

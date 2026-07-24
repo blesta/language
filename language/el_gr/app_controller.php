@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Φόρτωση...';
 $lang['AppController.modal.btn_delete'] = 'Διαγραφή';
 $lang['AppController.modal.btn_cancel'] = 'Ακύρωση';
 $lang['AppController.modal.confirm_delete'] = 'Επιβεβαίωση Διαγραφή';
+$lang['AppController.structure.notification_company_tooltip'] = 'Ανήκει σε %1$s';
 

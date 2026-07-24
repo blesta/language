@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Neplatné ID společnosti.';
 $lang['DataFeeds.!error.class.valid'] = 'Zadaná třída není platnou třídou datového kanálu.';
 $lang['DataFeeds.!error.dir.empty'] = 'Zadejte adresář zásuvného modulu.';
 $lang['DataFeeds.!error.feed.valid'] = 'Zadejte název datového kanálu.';
+$lang['DataFeeds.!error.dir.valid'] = 'Adresář s pluginy obsahuje neplatné znaky.';
 

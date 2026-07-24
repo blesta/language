@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Rapoarte';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Raportul a fost șters cu succes.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Raportul a fost actualizat cu succes.';
 $lang['AdminReportsCustomize.!success.added'] = 'Raportul a fost adăugat cu succes.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Prezentare generală';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Exporturi';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Reînnoiri';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Retenție';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Venituri';
 

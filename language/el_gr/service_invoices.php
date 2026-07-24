@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Μη έγκυρος τύπος π�
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Επιτρέπουν μόνο την άμεση ακύρωση';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Επιτρέπουν μόνο την ακύρωση στο τέλος της περιόδου';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Επιτρέψτε την άμεση ή στο τέλος της περιόδου ακύρωση';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Αλλαγή';
 

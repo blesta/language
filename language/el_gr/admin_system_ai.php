@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Συμπεριλ�
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Συμπεριλάβετε πληροφορίες για τον τύπο πεδίου και τα σχήματα της βάσης δεδομένων στο πλαίσιο.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Συμπεριλάβετε δεδομένα παραδείγματος';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Συμπεριλάβετε δείγματα τιμών δεδομένων για να βοηθήσετε την ΤΝ να κατανοήσει τους μορφότυπους και τη δομή των δεδομένων.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Το μοντέλο που έχει επιλεγεί αυτή τη στιγμή, «%1$s », δεν είναι πλέον διαθέσιμο. Οι λειτουργίες τεχνητής νοημοσύνης χρησιμοποιούν προσωρινά το «%2$s ». Παρακαλώ επιλέξτε παρακάτω ένα νέο προεπιλεγμένο μοντέλο και αποθηκεύστε την επιλογή σας.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Συνιστάται)';
 

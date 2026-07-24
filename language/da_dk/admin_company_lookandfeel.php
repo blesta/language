@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Dashboard-widgets';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Kort';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Konfigurer, hvilke statistikkort og widgets der skal vises på klientens dashboard. Træk i kortene for at ændre deres rækkefølge, klik på dem for at ændre farven, og brug afkrydsningsfelterne til at aktivere eller deaktivere dem. Widgetrækkefølgen kan tilpasses ved at trække dem lodret.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Tilpasning af dashboard-layout';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Temaindstillinger';
 

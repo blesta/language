@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'בטל';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'לחץ על הווידג\'טים כדי להציג או להסתיר אותם בלוח המחוונים שלך.';
 $lang['AdminMain.calendar.category_list'] = 'רשימה';
 $lang['AdminMain.calendar.category_today'] = 'היום';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'הצג את סרגל הצד (לוח שנה וקישורים מהירים)';
 

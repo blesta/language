@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'אזהרה';
 $lang['AdminTools.logsystem.level_notice'] = 'הודעה';
 $lang['AdminTools.logsystem.level_info'] = 'מידע';
 $lang['AdminTools.logsystem.level_debug'] = 'איתור באגים';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'חשבונית זו כבר שולמה ולא ניתן לבטל אותה מהתור.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'האם אתה בטוח שברצונך לבטל את שינוי השירות הממתין הזה? החשבונית הקשורה כבר שולמה ולא תבוטל.';
 

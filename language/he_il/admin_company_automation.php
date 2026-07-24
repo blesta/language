@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'הגדרות &gt; חברה &
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'משימת ה-cron נמחקה.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'הגדרות האוטומציה עודכנו בהצלחה!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'ישנן משימות אוטומציה שנקבעו לפעול מדי דקה, אך נראה שה-cron שלך אינו פועל מדי דקה. עדכן את ה-cron שלך כך שיפעל מדי דקה כדי לנצל את המרווחים הקצרים יותר הללו.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'ב-24 השעות האחרונות לא נרשמו ביצועי משימות אוטומציה.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'בשעה האחרונה לא נרשמו הפעלות של משימות אוטומציה.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'עדיין לא סיימתי';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'ריצה';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'הושלם';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'ביצוע';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'רענן';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'לוח זמנים לביצוע משימות – 24 השעות האחרונות';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'לוח זמנים לביצוע משימות – השעה האחרונה';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'ריצות:';
 

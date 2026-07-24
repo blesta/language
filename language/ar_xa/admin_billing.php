@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'تطبيق الفلاتر
 $lang['AdminBilling.quotations.field_filterclear'] = 'واضح';
 $lang['AdminBilling.quotations.filter_toggle'] = 'تبديل الفلاتر';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'انقر على الأدوات لإظهارها أو إخفائها من لوحة التحكم.';
+$lang['AdminBilling.services.heading_id'] = 'رقم الخدمة #';
 

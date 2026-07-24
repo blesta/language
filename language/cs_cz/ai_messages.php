@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Obsah zprávy nesmí být prázdný.';
-$lang['AiMessages.!error.role.valid'] = 'Neplatná role zprávy.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'Neplatné ID konverzace.';
+$lang['AiMessages.!error.role.valid'] = 'Neplatná role zprávy.';
 

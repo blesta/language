@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'De factuur-ID is al ingestel
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Ongeldig factuur-ID.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Ongeldig service-ID.';
 $lang['ServiceChanges.!error.id.exists'] = 'Ongeldige servicewijzigings-ID.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'De factuur is al betaald en kan niet worden geannuleerd.';
 

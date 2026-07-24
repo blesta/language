@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Raporlar';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Rapor başarıyla silindi.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Rapor başarıyla güncellendi.';
 $lang['AdminReportsCustomize.!success.added'] = 'Rapor başarıyla eklendi.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Genel Bakış';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'İhracat';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Yenilemeler';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Müşteri tutma';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Gelir';
 

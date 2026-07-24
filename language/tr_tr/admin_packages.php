@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Filtreleri Uygula';
 $lang['AdminPackages.index.field_filterclear'] = 'Temiz';
 $lang['AdminPackages.index.filter_toggle'] = 'Filtreleri Değiştir';
 $lang['AdminPackages.index.items_selected'] = 'seçilen öğeler';
+$lang['AdminPackages.index.action.change_status'] = 'Durumu Değiştir';
+$lang['AdminPackages.index.action.delete_packages'] = 'Paketleri Sil';
+$lang['AdminPackages.!error.status_required'] = 'Başvurmak için lütfen bir durum seçin.';
+$lang['AdminPackages.!success.change_status'] = 'Paket durumları başarıyla güncellendi.';
+$lang['AdminPackages.!success.delete_packages'] = 'Paketler başarıyla silindi.';
 

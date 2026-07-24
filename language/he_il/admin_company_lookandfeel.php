@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'ווידג\'טים ל
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'קלפים';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'הגדר אילו כרטיסי סטטיסטיקה ווידג\'טים יופיעו בלוח המחוונים של הלקוח. גרור את הכרטיסים כדי לשנות את סדרם, לחץ עליהם כדי לשנות את צבעם, והשתמש בתיבות הסימון כדי להפעיל או להשבית אותם. ניתן להתאים אישית את סדר הווידג\'טים על ידי גרירתם אנכית.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'התאמה אישית של פריסת לוח המחוונים';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'הגדרות ערכת נושא';
 

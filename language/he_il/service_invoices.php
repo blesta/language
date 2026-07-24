@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.service_id.exists'] = 'מזהה שירות לא ח
 $lang['ServiceInvoices.getCancelOptions.both'] = 'לאפשר ביטול מיידי או בסוף תקופת ההתקשרות';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'לאפשר ביטול רק בתום תקופת ההתקשרות';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'אפשר ביטול מיידי בלבד';
+$lang['ServiceInvoices.getattempttypes.change'] = 'שינוי';
 

@@ -94,7 +94,7 @@ $lang['DirectAdmin.description'] = 'O DirectAdmin é um painel de controle gráf
 $lang['DirectAdmin.!error.change_package.type'] = 'O módulo não suporta a alteração entre pacotes de usuário e de revendedor.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Digite um endereço de e-mail válido.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'A senha e a senha de confirmação não correspondem.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Certifique-se de que a senha contenha o seguinte: Pelo menos 12 caracteres, pelo menos 1 caractere maiúsculo de A-Z, pelo menos 1 caractere minúsculo de a-z, pelo menos 1 número de 0-9 e pelo menos 1 caractere especial do conjunto: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Certifique-se de que a senha contenha o seguinte: Pelo menos 12 caracteres, pelo menos 1 letra maiúscula de A a Z, pelo menos 1 letra minúscula de a a z, pelo menos 1 número de 0 a 9 e pelo menos 1 caractere especial do conjunto: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'O nome de usuário deve ter entre 4 e 8 caracteres.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'O nome de usuário só pode conter caracteres alfanuméricos.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Digite um nome de domínio válido no formato: domain.com';

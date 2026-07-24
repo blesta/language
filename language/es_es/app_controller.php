@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Cargando...';
 $lang['AppController.modal.btn_delete'] = 'Borrar';
 $lang['AppController.modal.btn_cancel'] = 'Cancelar';
 $lang['AppController.modal.confirm_delete'] = 'Confirmar Borrar';
+$lang['AppController.structure.notification_company_tooltip'] = 'Pertenece a %1$s';
 

@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Kayıt T
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Son Kullanma Tarihini Değiştir';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Fiyat Geçersiz Kılmayı Kaldır';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Fiyat Geçersiz Kılma Ayarla';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Kuyruk Senkronizasyonu';
 

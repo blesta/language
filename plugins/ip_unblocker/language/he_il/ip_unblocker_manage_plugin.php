@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'ההגדרות עודכנו בהצלחה!';
-$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'מבטל חסימת IP';
-$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'אפשר ללקוח לספק את כתובת ה-IP';
 $lang['IpUnblockerManagePlugin.index.submit_settings'] = 'שמור';
+$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'אפשר ללקוח לספק את כתובת ה-IP';
+$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'מבטל חסימת IP';
+$lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'ההגדרות עודכנו בהצלחה!';
 

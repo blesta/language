@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Durum';
 $lang['AdminDomains.whois.label_name_servers'] = 'İsim Sunucuları';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Lütfen geçerli bir alan adı girin';
+$lang['AdminDomains.browse.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminDomains.browse.text_item_selected'] = 'seçilen öğe';
+$lang['AdminDomains.!success.queue_sync'] = 'Seçilen alan adları senkronizasyon için sıraya alınmıştır!';
 

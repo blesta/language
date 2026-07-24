@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Σύνολο παραγγε
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Πληκτρολογήστε τον κωδικό κουπονιού';
 $lang['AdminMain.edit.text_select_action'] = 'Κάντε κλικ σε ένα κουμπί παραπάνω για να εμφανιστεί η φόρμα για την εκτέλεση μιας ενέργειας.';
 $lang['AdminMain.edit.text_no_fields'] = 'Αυτή η ενέργεια δεν απαιτεί πρόσθετες επιλογές. Κάντε κλικ στο κουμπί Υποβολή για να προχωρήσετε.';
+$lang['AdminMain.index.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminMain.index.text_item_selected'] = 'επιλεγμένο στοιχείο';
+$lang['AdminMain.!success.queue_sync'] = 'Οι επιλεγμένοι τομείς έχουν τεθεί στην ουρά για συγχρονισμό!';
 

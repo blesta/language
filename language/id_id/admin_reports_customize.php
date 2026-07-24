@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Laporan';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Laporan berhasil dihapus.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Laporan berhasil diperbarui.';
 $lang['AdminReportsCustomize.!success.added'] = 'Laporan berhasil ditambahkan.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Gambaran Umum';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Ekspor';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Perpanjangan';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Retensi';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Pendapatan';
 

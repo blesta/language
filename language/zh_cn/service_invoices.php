@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = '尝试类型无效。';
 $lang['ServiceInvoices.getCancelOptions.now'] = '只允许立即取消';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = '只允许在学期末取消';
 $lang['ServiceInvoices.getCancelOptions.both'] = '允许立即或在学期末取消';
+$lang['ServiceInvoices.getattempttypes.change'] = '更改';
 

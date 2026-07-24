@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
 $lang['DataFeeds.!error.class.valid'] = 'Sağlanan sınıf geçerli bir veri besleme sınıfı değildir.';
 $lang['DataFeeds.!error.dir.empty'] = 'Lütfen eklenti dizinini girin.';
 $lang['DataFeeds.!error.feed.valid'] = 'Lütfen veri akışı adını girin.';
+$lang['DataFeeds.!error.dir.valid'] = 'Eklenti dizini geçersiz karakterler içeriyor.';
 

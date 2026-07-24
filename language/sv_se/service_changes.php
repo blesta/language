@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Faktura-ID är redan instäl
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Ogiltigt faktura-ID.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Ogiltigt service-ID.';
 $lang['ServiceChanges.!error.id.exists'] = 'Ogiltigt ID för ändring av tjänst.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Fakturan har redan betalats och kan inte annulleras.';
 

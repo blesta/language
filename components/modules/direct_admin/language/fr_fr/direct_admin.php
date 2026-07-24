@@ -25,7 +25,7 @@ $lang['DirectAdmin.!error.meta[ip].empty'] = 'Une adresse IP est nécessaire.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Veuillez entrer un nom de domaine valide de la forme : domain.com';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Le nom d\'utilisateur ne peut contenir que des caractères alphanumériques.';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Le nom d\'utilisateur doit comporter entre 4 et 8 caractères.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Assurez-vous que le mot de passe contient les éléments suivants : Au moins 12 caractères, au moins 1 caractère majuscule de A à Z, au moins 1 caractère minuscule de a à z, au moins 1 chiffre de 0 à 9, et au moins 1 caractère spécial de l\'ensemble : !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Assurez-vous que le mot de passe respecte les critères suivants : Au moins 12 caractères, au moins 1 lettre majuscule (A-Z), au moins 1 lettre minuscule (a-z), au moins 1 chiffre (0-9) et au moins 1 caractère spécial parmi les suivants : !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Le mot de passe et le mot de passe de confirmation ne correspondent pas.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Veuillez saisir une adresse électronique valide.';
 $lang['DirectAdmin.!error.change_package.type'] = 'Le module ne permet pas de passer d\'un forfait utilisateur à un forfait revendeur.';

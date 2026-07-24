@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Rapporter';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Rapporten har raderats framgångsrikt.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Rapporten uppdaterades framgångsrikt.';
 $lang['AdminReportsCustomize.!success.added'] = 'Rapporten har lagts till framgångsrikt.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Översikt';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Export';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Förnyelser';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Kundbehållning';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Intäkter';
 

@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Статус';
 $lang['AdminDomains.whois.label_name_servers'] = 'Сервери імен';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Будь ласка, введіть дійсне доменне ім\'я';
+$lang['AdminDomains.browse.text_items_selected'] = 'вибрані товари';
+$lang['AdminDomains.browse.text_item_selected'] = 'вибраний елемент';
+$lang['AdminDomains.!success.queue_sync'] = 'Вибрані домени додано до черги на синхронізацію!';
 

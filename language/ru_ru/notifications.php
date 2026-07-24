@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Информация';
 $lang['Notifications.getTypes.success'] = 'Успех';
 $lang['Notifications.getTypes.warning'] = 'Внимание';
 $lang['Notifications.getTypes.danger'] = 'Опасность';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Уведомление отправляется, когда настроенная модель искусственного интеллекта становится недоступной и вместо неё используется запасная модель.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Модель ИИ недоступна';
 

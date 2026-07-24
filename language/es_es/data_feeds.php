@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'ID de empresa no válida.';
 $lang['DataFeeds.!error.endpoint.valid'] = 'Por favor, introduzca el punto final.';
 $lang['DataFeeds.!error.enabled.valid'] = 'La opción activado debe ser 1 o 0.';
 $lang['DataFeeds.execute.endpoint_not_found'] = 'El endpoint solicitado no existe.';
+$lang['DataFeeds.!error.dir.valid'] = 'El directorio de complementos contiene caracteres no válidos.';
 

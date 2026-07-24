@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.!error.libxml_required'] = 'Fatura teslimi için libxml ve simplexml uzantıları gereklidir.';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Fatura #%1$s';
 $lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'Fatura #%1$s';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'Fatura #%1$s';
+$lang['InvoiceDelivery.!error.libxml_required'] = 'Fatura teslimi için libxml ve simplexml uzantıları gereklidir.';
 

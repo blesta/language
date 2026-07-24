@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'الحالة';
 $lang['AdminDomains.whois.label_name_servers'] = 'خوادم الأسماء';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'الرجاء إدخال اسم نطاق صالح';
+$lang['AdminDomains.browse.text_items_selected'] = 'العناصر المحددة';
+$lang['AdminDomains.browse.text_item_selected'] = 'العنصر المحدد';
+$lang['AdminDomains.!success.queue_sync'] = 'تم إدراج النطاقات المحددة في قائمة الانتظار للمزامنة!';
 

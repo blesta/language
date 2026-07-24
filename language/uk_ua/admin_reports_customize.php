@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Звіти';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Звіт успішно видалено.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Звіт було успішно оновлено.';
 $lang['AdminReportsCustomize.!success.added'] = 'Звіт успішно додано.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Огляд';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Експорт';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Продовження';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Утримання';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Виручка';
 

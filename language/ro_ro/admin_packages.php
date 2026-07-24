@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Aplicați filtre';
 $lang['AdminPackages.index.field_filterclear'] = 'Clar';
 $lang['AdminPackages.index.filter_toggle'] = 'Modificarea filtrelor';
 $lang['AdminPackages.index.items_selected'] = 'elemente selectate';
+$lang['AdminPackages.index.action.change_status'] = 'Modificare stare';
+$lang['AdminPackages.index.action.delete_packages'] = 'Ștergere pachete';
+$lang['AdminPackages.!error.status_required'] = 'Vă rugăm să selectați o stare pe care doriți să o aplicați.';
+$lang['AdminPackages.!success.change_status'] = 'Starea pachetelor a fost actualizată cu succes.';
+$lang['AdminPackages.!success.delete_packages'] = 'Pachetele au fost șterse cu succes.';
 

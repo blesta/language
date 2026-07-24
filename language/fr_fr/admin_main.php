@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuler';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Cliquez sur les widgets pour les afficher ou les masquer dans votre tableau de bord.';
 $lang['AdminMain.calendar.category_list'] = 'Liste';
 $lang['AdminMain.calendar.category_today'] = 'Aujourd\'hui';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Afficher la barre latérale (calendrier et liens rapides)';
 

@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgety na přístroj
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Karty';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Konfigurace statistických karet a widgetů, které se zobrazují na klientském panelu. Přetažením karet změníte jejich pořadí, kliknutím na ně změníte barvu a pomocí zaškrtávacích políček je povolíte nebo zakážete. Pořadí widgetů lze přizpůsobit jejich přetažením na výšku.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Přizpůsobení rozvržení přístrojové desky';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Nastavení motivu';
 

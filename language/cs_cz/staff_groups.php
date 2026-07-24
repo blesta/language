@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Seznam citací';
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Obnovení snímku e-mailové šablony';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Kontrola integrity systému';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Aktualizovat data z oblasti Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Údaje o obnovení služeb Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Údaje o retenci v rámci Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Analýza tržeb – Údaje o tržbách';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Přehled údajů o analýze tržeb';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Poznámka k dešifrování';
 

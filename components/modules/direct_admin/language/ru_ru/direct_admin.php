@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Модуль не поддерживает изменение между пользовательскими и реселлерскими пакетами.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Пожалуйста, введите действительный адрес электронной почты.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Пароль и подтверждение пароля не совпадают.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Убедитесь, что пароль содержит следующее: Не менее 12 символов, не менее 1 символа в верхнем регистре A-Z, не менее 1 символа в нижнем регистре a-z, не менее 1 цифры 0-9 и не менее 1 специального символа из набора: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Убедитесь, что пароль содержит следующие элементы: не менее 12 символов, не менее 1 заглавной буквы A–Z, не менее 1 строчной буквы a–z, не менее 1 цифры 0–9 и не менее 1 специального символа из набора: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Имя пользователя должно содержать от 4 до 8 символов.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Имя пользователя может содержать только буквенно-цифровые символы.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Введите действительное доменное имя вида: domain.com';

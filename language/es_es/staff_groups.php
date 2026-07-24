@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Lista de citas';
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Restaurar instantánea de plantilla de correo electrónico';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Comprobación de la integridad del sistema';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Actualizar los datos de «Revenue Intelligence»';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Datos sobre renovaciones de Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Datos de retención de Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Inteligencia de ingresos: Datos de ingresos';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Datos generales sobre la inteligencia de ingresos';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Nota sobre el descifrado';
 

@@ -94,7 +94,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin adalah panel kontrol hosting web
 $lang['DirectAdmin.!error.change_package.type'] = 'Modul ini tidak mendukung perubahan antara paket pengguna dan pengecer.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Masukkan alamat email yang valid.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Kata Sandi dan Konfirmasi Kata Sandi tidak cocok.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Pastikan kata sandi berisi yang berikut ini: Minimal 12 karakter, minimal 1 karakter huruf besar A-Z, minimal 1 karakter huruf kecil a-z, minimal 1 angka 0-9, dan minimal 1 karakter khusus dari rangkaian: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Pastikan kata sandi Anda memenuhi persyaratan berikut: Setidaknya 12 karakter, setidaknya 1 huruf besar A-Z, setidaknya 1 huruf kecil a-z, setidaknya 1 angka 0-9, dan setidaknya 1 karakter khusus dari kumpulan berikut: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Nama pengguna harus terdiri dari 4 hingga 8 karakter.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Nama pengguna hanya boleh berisi karakter alfanumerik.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Masukkan nama domain yang valid dalam bentuk: domain.com';

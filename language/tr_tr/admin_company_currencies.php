@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Para Birimi Kurulumu a
 $lang['AdminCompanyCurrencies.!success.delete_deleted'] = '%1$s para birimi başarıyla silindi!';
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = '%1$s para birimi başarıyla güncellendi!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = '%1$s para birimi başarıyla oluşturuldu!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Şimdi Güncelle';
 

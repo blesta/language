@@ -97,7 +97,7 @@ $lang['DirectAdmin.!error.change_package.type'] = 'O módulo não suporta a alte
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Introduza um endereço de correio eletrónico válido.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'A palavra-passe e a palavra-passe de confirmação não correspondem.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Certifique-se de que a palavra-passe contém o seguinte: Pelo menos 12 caracteres, pelo menos 1 carácter em maiúsculas A-Z, pelo menos 1 carácter em minúsculas a-z, pelo menos 1 número 0-9 e pelo menos 1 carácter especial do conjunto: !"#$%&amp;\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Certifique-se de que a palavra-passe contém o seguinte: Pelo menos 12 caracteres, pelo menos 1 letra maiúscula de A a Z, pelo menos 1 letra minúscula de a a z, pelo menos 1 algarismo de 0 a 9 e pelo menos 1 carácter especial do conjunto: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'O nome de utilizador deve ter entre 4 e 8 caracteres.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'O nome de utilizador só pode conter caracteres alfanuméricos.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Introduza um nome de domínio válido do seguinte modo: domain.com';

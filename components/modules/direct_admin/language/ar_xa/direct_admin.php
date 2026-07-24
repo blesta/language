@@ -94,7 +94,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin هي لوحة تحكم استض�
 $lang['DirectAdmin.!error.change_package.type'] = 'لا تدعم الوحدة النمطية التغيير بين حزم المستخدمين والموزعين.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'الرجاء إدخال عنوان بريد إلكتروني صحيح.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'كلمة المرور وتأكيد كلمة المرور غير متطابقين.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'تأكد من احتواء كلمة المرور على ما يلي: 12 حرفًا على الأقل، وحرف واحد على الأقل من الأحرف الكبيرة A-Z، وحرف واحد على الأقل من الأحرف الصغيرة a-z، ورقم واحد على الأقل من 0-9، وحرف خاص واحد على الأقل من المجموعة: !"#" #$$%&amp;() *+، -./: ؛<=>?@?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'تأكد من أن كلمة المرور تحتوي على ما يلي: 12 حرفًا على الأقل، وحرف واحد على الأقل من الأحرف الكبيرة A-Z، وحرف واحد على الأقل من الأحرف الصغيرة a-z، ورقم واحد على الأقل من الأرقام 0-9، وحرف خاص واحد على الأقل من المجموعة التالية: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'يجب أن يتراوح طول اسم المستخدم بين 4 و8 أحرف.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'يمكن أن يحتوي اسم المستخدم على أحرف أبجدية رقمية فقط.';

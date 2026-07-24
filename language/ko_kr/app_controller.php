@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = '로드 중...';
 $lang['AppController.modal.btn_delete'] = '삭제';
 $lang['AppController.modal.btn_cancel'] = '취소';
 $lang['AppController.modal.confirm_delete'] = '삭제 확인';
+$lang['AppController.structure.notification_company_tooltip'] = '소속: %1$s';
 

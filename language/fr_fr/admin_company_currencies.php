@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.edit.field_suffix'] = 'Symbole du suffixe';
 $lang['AdminCompanyCurrencies.edit.field_exchange_rate'] = 'Taux de change';
 $lang['AdminCompanyCurrencies.edit.field_editsubmit'] = 'Mise à jour de la monnaie';
 $lang['AdminCompanyCurrencies.edit.confirm_edit'] = 'Etes-vous sûr de vouloir mettre à jour cette devise ? Le taux de change de cette devise sera écrasé lorsque les taux de change seront automatiquement mis à jour dans le système. Vous pouvez désactiver les mises à jour automatiques sous [Réglages] > [Société] > [Devises] > [Configuration des devises].';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Mettre à jour maintenant';
 

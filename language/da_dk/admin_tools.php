@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Advarsel';
 $lang['AdminTools.logsystem.level_notice'] = 'Opsigelse';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Fejlfinding';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Denne faktura er allerede blevet betalt og kan ikke annulleres fra køen.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Er du sikker på, at du vil annullere denne ventende serviceændring? Den tilhørende faktura er allerede betalt og vil ikke blive annulleret.';
 

@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.edit.field_values'] = 'Valeurs (séparées par des 
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Regex personnalisées';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Retirer';
 $lang['AdminReportsCustomize.edit.field_submit'] = 'Économiser';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Chiffre d\'affaires';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Présentation générale';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Exportations';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Renouvellements';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Fidélisation';
 

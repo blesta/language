@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Filters toepassen';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Duidelijk';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Filters schakelen';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik op widgets om ze te tonen of te verbergen op je dashboard.';
+$lang['AdminBilling.services.heading_id'] = 'Servicenummer #';
 

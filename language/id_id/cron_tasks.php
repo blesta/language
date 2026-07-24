@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'Panjang kunci tugas cron tidak boleh mel
 $lang['CronTasks.!error.key.unique'] = 'Kunci tugas cron yang disediakan sudah diambil.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Mengirimkan pemberitahuan kepada semua pengguna yang tingkat kreditnya telah berada di bawah ambang batas yang telah dikonfigurasikan.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Pemberitahuan Saldo Rendah';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Mencatat data harian MRR, pergerakan, dan ringkasan pendapatan yang digunakan oleh dasbor intelijen pendapatan Reports.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Ringkasan Intelijen Pendapatan';
 

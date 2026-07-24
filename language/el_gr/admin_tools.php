@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Προειδοποίηση';
 $lang['AdminTools.logsystem.level_notice'] = 'Ανακοίνωση';
 $lang['AdminTools.logsystem.level_info'] = 'Πληροφορίες';
 $lang['AdminTools.logsystem.level_debug'] = 'Αποσφαλμάτωση';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Αυτό το τιμολόγιο έχει ήδη εξοφληθεί και δεν μπορεί να ακυρωθεί από την ουρά.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Είστε σίγουροι ότι θέλετε να ακυρώσετε αυτήν την εκκρεμή αλλαγή στην υπηρεσία; Το σχετικό τιμολόγιο έχει ήδη εξοφληθεί και δεν θα ακυρωθεί.';
 

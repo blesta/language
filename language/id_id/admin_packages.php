@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Menerapkan Filter';
 $lang['AdminPackages.index.field_filterclear'] = 'Jelas';
 $lang['AdminPackages.index.filter_toggle'] = 'Alihkan Filter';
 $lang['AdminPackages.index.items_selected'] = 'item yang dipilih';
+$lang['AdminPackages.index.action.change_status'] = 'Ubah Status';
+$lang['AdminPackages.index.action.delete_packages'] = 'Hapus Paket';
+$lang['AdminPackages.!error.status_required'] = 'Silakan pilih status yang ingin Anda ajukan.';
+$lang['AdminPackages.!success.change_status'] = 'Status paket telah berhasil diperbarui.';
+$lang['AdminPackages.!success.delete_packages'] = 'Paket-paket tersebut telah berhasil dihapus.';
 

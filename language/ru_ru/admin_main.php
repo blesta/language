@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Отмена';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Щелкните по виджетам, чтобы показать или скрыть их на приборной панели.';
 $lang['AdminMain.calendar.category_list'] = 'Список';
 $lang['AdminMain.calendar.category_today'] = 'Сегодня';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Показать боковую панель (календарь и быстрые ссылки)';
 

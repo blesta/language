@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = '회사 ID가 잘못되었습니�
 $lang['DataFeeds.!error.class.valid'] = '제공된 클래스가 유효한 데이터 피드 클래스가 아닙니다.';
 $lang['DataFeeds.!error.dir.empty'] = '플러그인 디렉토리를 입력하세요.';
 $lang['DataFeeds.!error.feed.valid'] = '데이터 피드 이름을 입력하세요.';
+$lang['DataFeeds.!error.dir.valid'] = '플러그인 디렉토리에 유효하지 않은 문자가 포함되어 있습니다.';
 

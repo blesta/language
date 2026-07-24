@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Moneda %1$s a fost ș
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Moneda %1$s a fost actualizată cu succes!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Moneda %1$s a fost creată cu succes!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Setările de configurare a monedei au fost actualizate cu succes!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Actualizează acum';
 

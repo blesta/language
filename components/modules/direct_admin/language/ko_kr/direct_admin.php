@@ -93,7 +93,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin은 웹사이트를 쉽게 관리
 $lang['DirectAdmin.!error.change_package.type'] = '이 모듈은 사용자 패키지와 리셀러 패키지 간의 변경을 지원하지 않습니다.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = '유효한 이메일 주소를 입력하세요.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = '비밀번호와 비밀번호 확인이 일치하지 않습니다.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = '비밀번호에 다음이 포함되어 있는지 확인하세요: 12자 이상, 대문자 A-Z 1개 이상, 소문자 a-z 1개 이상, 숫자 0-9 1개 이상, 특수 문자 1개 이상: !"#$%&\'()*+,-./:;<=>?@[]^_` {|} 세트 중 하나 이상.';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = '비밀번호에 다음 요소가 포함되어 있는지 확인하십시오: 최소 12자, 대문자 A-Z 중 최소 1자, 소문자 a-z 중 최소 1자, 숫자 0-9 중 최소 1자, 그리고 다음 특수 문자 중 최소 1자: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = '사용자 아이디의 길이는 4~8자 사이여야 합니다.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = '사용자 아이디는 영숫자만 포함할 수 있습니다.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = '다음과 같은 형식의 유효한 도메인 이름을 입력하세요.';

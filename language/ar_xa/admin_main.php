@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'إلغاء';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'انقر على الأدوات لإظهارها أو إخفائها من لوحة التحكم.';
 $lang['AdminMain.calendar.category_list'] = 'القائمة';
 $lang['AdminMain.calendar.category_today'] = 'اليوم';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'إظهار الشريط الجانبي (التقويم والروابط السريعة)';
 

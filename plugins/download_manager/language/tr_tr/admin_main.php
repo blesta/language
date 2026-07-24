@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'NOT: Dosyalar uploads dizininiz içinde 
 $lang['AdminMain.add.field_file_type'] = 'Dosya Kaynağı';
 $lang['AdminMain.add.upload'] = 'Dosya Yükle';
 $lang['AdminMain.add.path'] = 'Dosya Yolunu Belirtin';
+$lang['AdminMain.!error.post_max_size'] = 'Yüklemeye çalıştığınız dosya çok büyük. Dosya, bu sunucunun %1$s adresinde belirtilen maksimum yükleme boyutunu aşıyor. Lütfen daha küçük bir dosya yükleyin ya da sunucu yöneticinizden \'post_max_size\' ve \'upload_max_filesize\' PHP ayarlarını artırmasını isteyin.';
 

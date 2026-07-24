@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Das Modul unterstützt nicht den Wechsel zwischen Nutzer- und Wiederverkäuferpaketen.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Bitte geben Sie eine gültige E-Mail Adresse ein.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Kennwort und Bestätigungskennwort stimmen nicht überein.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Stellen Sie sicher, dass das Passwort Folgendes enthält: Mindestens 12 Zeichen, mindestens 1 Großbuchstabe A-Z, mindestens 1 Kleinbuchstabe a-z, mindestens 1 Zahl 0-9 und mindestens 1 Sonderzeichen aus der Menge: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Stellen Sie sicher, dass das Passwort folgende Anforderungen erfüllt: Mindestens 12 Zeichen, mindestens 1 Großbuchstabe (A–Z), mindestens 1 Kleinbuchstabe (a–z), mindestens 1 Ziffer (0–9) und mindestens 1 Sonderzeichen aus dem folgenden Satz: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Der Nutzername muss zwischen 4 und 8 Zeichen lang sein.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Der Nutzername darf nur alphanumerische Zeichen enthalten.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Bitte geben Sie einen gültigen Domainnamen in der Form: domain.com';

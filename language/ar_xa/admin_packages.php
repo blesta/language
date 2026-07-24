@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'تطبيق الفلاتر';
 $lang['AdminPackages.index.field_filterclear'] = 'واضح';
 $lang['AdminPackages.index.filter_toggle'] = 'تبديل الفلاتر';
 $lang['AdminPackages.index.items_selected'] = 'العناصر المختارة';
+$lang['AdminPackages.index.action.change_status'] = 'تغيير الحالة';
+$lang['AdminPackages.index.action.delete_packages'] = 'حذف الحزم';
+$lang['AdminPackages.!error.status_required'] = 'يرجى اختيار حالة لتقديم الطلب.';
+$lang['AdminPackages.!success.change_status'] = 'تم تحديث حالات الحزم بنجاح.';
+$lang['AdminPackages.!success.delete_packages'] = 'تم حذف الحزم بنجاح.';
 

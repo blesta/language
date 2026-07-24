@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgets för instrume
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Kort';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Konfigurera vilka statistikkort och widgetar som ska visas på klientens instrumentpanel. Dra korten för att ändra deras ordning, klicka på dem för att ändra färg och använd kryssrutor för att aktivera eller inaktivera dem. Ordningen på widgetarna kan anpassas genom att dra dem vertikalt.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Anpassning av instrumentpanelens layout';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Temainställningar';
 

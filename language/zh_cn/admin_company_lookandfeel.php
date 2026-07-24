@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = '仪表板小工具';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = '卡片';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = '配置客户端仪表板上显示的统计卡片和部件。拖动卡片可更改顺序，单击卡片可更改颜色，使用复选框可启用或禁用卡片。可通过垂直拖动来定制小工具的顺序。';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = '仪表板布局定制';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = '主题设置';
 

@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Registra
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Verloopdatum wijzigen';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Prijs opheffen';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Prijs verhogen instellen';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Wachtrij synchronisatie';
 

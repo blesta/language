@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Ακύρωση';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Κάντε κλικ στα widgets για να τα εμφανίσετε ή να τα αποκρύψετε από το ταμπλό σας.';
 $lang['AdminMain.calendar.category_list'] = 'Λίστα';
 $lang['AdminMain.calendar.category_today'] = 'Σήμερα';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Εμφάνιση της πλευρικής στήλης (ημερολόγιο και γρήγοροι σύνδεσμοι)';
 

@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Εφαρμόστε φίλτρ
 $lang['AdminPackages.index.field_filterclear'] = 'Σαφής';
 $lang['AdminPackages.index.filter_toggle'] = 'Εναλλαγή φίλτρων';
 $lang['AdminPackages.index.items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminPackages.index.action.change_status'] = 'Αλλαγή κατάστασης';
+$lang['AdminPackages.index.action.delete_packages'] = 'Διαγραφή πακέτων';
+$lang['AdminPackages.!error.status_required'] = 'Παρακαλώ επιλέξτε μια κατάσταση για να υποβάλετε αίτηση.';
+$lang['AdminPackages.!success.change_status'] = 'Οι καταστάσεις των πακέτων ενημερώθηκαν με επιτυχία.';
+$lang['AdminPackages.!success.delete_packages'] = 'Τα πακέτα διαγράφηκαν με επιτυχία.';
 

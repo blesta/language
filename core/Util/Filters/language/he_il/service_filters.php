@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.field_service_meta'] = 'מטא-שירות';
 $lang['Util.filters.service_filters.field_package_name'] = 'שם החבילה';
 $lang['Util.filters.service_filters.field_module_id'] = 'מודול';
 $lang['Util.filters.service_filters.any'] = 'כל';
+$lang['Util.filters.service_filters.field_service_id'] = 'מזהה השירות';
 

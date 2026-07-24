@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Incluir definicio
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Incluya información sobre el tipo de campo y los esquemas de la base de datos en el contexto.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Incluir datos de ejemplo';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Incluya valores de datos de muestra para ayudar a la IA a comprender los formatos y la estructura de los datos.';
+$lang['AdminSystemAi.index.degraded_model'] = 'El modelo seleccionado actualmente, «%1$s », ya no está disponible. Las funciones de IA están utilizando temporalmente «%2$s ». Elige a continuación un nuevo modelo predeterminado y guarda los cambios.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Recomendado)';
 

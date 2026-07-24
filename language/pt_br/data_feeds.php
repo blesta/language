@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'ID da empresa inválido.';
 $lang['DataFeeds.!error.class.valid'] = 'A classe fornecida não é uma classe de feed de dados válida.';
 $lang['DataFeeds.!error.dir.empty'] = 'Digite o diretório do plugin.';
 $lang['DataFeeds.!error.feed.valid'] = 'Digite o nome do feed de dados.';
+$lang['DataFeeds.!error.dir.valid'] = 'O diretório de plug-ins contém caracteres inválidos.';
 

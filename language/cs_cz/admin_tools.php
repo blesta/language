@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Varování';
 $lang['AdminTools.logsystem.level_notice'] = 'Oznámení';
 $lang['AdminTools.logsystem.level_info'] = 'Informace';
 $lang['AdminTools.logsystem.level_debug'] = 'Ladění';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Tato faktura již byla uhrazena a nelze ji ze fronty zrušit.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Opravdu chcete zrušit tuto připravovanou změnu služby? Příslušná faktura již byla uhrazena a nebude zrušena.';
 

@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Informace';
 $lang['Notifications.getTypes.success'] = 'Úspěch';
 $lang['Notifications.getTypes.warning'] = 'Varování';
 $lang['Notifications.getTypes.danger'] = 'Nebezpečí';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Oznámení odeslané v případě, že nakonfigurovaný model umělé inteligence již není k dispozici a je používán náhradní model.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Model AI není k dispozici';
 

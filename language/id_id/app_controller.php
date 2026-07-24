@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Memuat...';
 $lang['AppController.modal.btn_delete'] = 'Menghapus';
 $lang['AppController.modal.btn_cancel'] = 'Batal';
 $lang['AppController.modal.confirm_delete'] = 'Konfirmasi Hapus';
+$lang['AppController.structure.notification_company_tooltip'] = 'Milik %1$s';
 

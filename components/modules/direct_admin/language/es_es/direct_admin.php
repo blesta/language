@@ -25,7 +25,7 @@ $lang['DirectAdmin.!error.meta[ip].empty'] = 'Se requiere una dirección IP.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Introduzca un nombre de dominio válido del tipo: dominio.com';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'El nombre de usuario sólo puede contener caracteres alfanuméricos.';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'El nombre de usuario debe tener entre 4 y 8 caracteres.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Asegúrese de que la contraseña contiene lo siguiente: Al menos 12 caracteres, al menos 1 carácter en mayúscula A-Z, al menos 1 carácter en minúscula a-z, al menos 1 número 0-9 y al menos 1 carácter especial del conjunto: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Asegúrate de que la contraseña cumpla los siguientes requisitos: Al menos 12 caracteres, al menos 1 letra mayúscula de A a Z, al menos 1 letra minúscula de a a z, al menos 1 número del 0 al 9 y al menos 1 carácter especial de entre los siguientes: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Introduzca una dirección de correo electrónico válida.';
 $lang['DirectAdmin.!error.change_package.type'] = 'El módulo no permite cambiar entre paquetes de usuario y de revendedor.';

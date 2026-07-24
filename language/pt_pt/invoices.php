@@ -103,4 +103,5 @@ $lang['Invoices.getPricingPeriods.month'] = 'Mês';
 $lang['Invoices.getPricingPeriods.week'] = 'Semana';
 $lang['Invoices.getPricingPeriods.day'] = 'Dia';
 $lang['Invoices.!error.service.renew_onetime'] = 'Os serviços únicos não podem ser renovados.';
+$lang['Invoices.!error.invoice_ids.match'] = 'As faturas pró-forma só podem ser agrupadas com outras faturas pró-forma, e as faturas ativas com outras faturas ativas.';
 

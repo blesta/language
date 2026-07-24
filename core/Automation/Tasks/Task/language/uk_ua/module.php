@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.module.completed'] = 'Готовий модуль cron для %1$s %2$s.';
 $lang['Automation.task.module.attempt'] = 'Спроба запуску модуля cron для %1$s %2$s.';
+$lang['Automation.task.module.completed'] = 'Готовий модуль cron для %1$s %2$s.';
 

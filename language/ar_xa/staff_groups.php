@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'قائمة عروض
 $lang['StaffGroups.permissions.admin_system_ai'] = 'الذكاء الاصطناعي';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'استعادة لقطة قالب البريد الإلكتروني';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'التحقق من سلامة النظام';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'تحديث بيانات «ريفيو ريفيو إنتليجنس»';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'بيانات تجديد اشتراكات «Revenue Intelligence»';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'بيانات الاحتفاظ بالمعلومات المتعلقة بالإيرادات';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'معلومات الإيرادات — بيانات الإيرادات';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'بيانات نظرة عامة على «Revenue Intelligence»';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'ملاحظة بشأن فك التشفير';
 

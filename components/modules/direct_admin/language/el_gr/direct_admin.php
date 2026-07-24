@@ -95,7 +95,7 @@ $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.change_package.type'] = 'Η ενότητα δεν υποστηρίζει την αλλαγή μεταξύ πακέτων χρηστών και μεταπωλητών.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Ο κωδικός πρόσβασης και ο κωδικός επιβεβαίωσης δεν ταιριάζουν.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Βεβαιωθείτε ότι ο κωδικός πρόσβασης περιέχει τα εξής: Τουλάχιστον 12 χαρακτήρες, τουλάχιστον 1 κεφαλαίο χαρακτήρα A-Z, τουλάχιστον 1 πεζό χαρακτήρα a-z, τουλάχιστον 1 αριθμό 0-9 και τουλάχιστον 1 ειδικό χαρακτήρα από το σύνολο: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Βεβαιωθείτε ότι ο κωδικός πρόσβασης περιέχει τα εξής: Τουλάχιστον 12 χαρακτήρες, τουλάχιστον 1 κεφαλαίο γράμμα A-Z, τουλάχιστον 1 μικρό γράμμα a-z, τουλάχιστον 1 αριθμό 0-9 και τουλάχιστον 1 ειδικό χαρακτήρα από το σύνολο: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Το όνομα χρήστη πρέπει να έχει μήκος μεταξύ 4 και 8 χαρακτήρων.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Το όνομα χρήστη μπορεί να περιέχει μόνο αλφαριθμητικούς χαρακτήρες.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Παρακαλώ εισάγετε ένα έγκυρο όνομα τομέα της μορφής: domain.com';

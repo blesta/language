@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Slet udløbne tokens til nulstilling af adgangskode';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Sender en meddelelse til alle brugere, hvis kreditniveau er faldet til under den indstillede grænse.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Meddelelser om lav saldo';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Registrerer daglige MRR-, aktivitets- og omsætningsoversigter, der anvendes af »Reports«-dashboardet til omsætningsanalyse.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Oversigter over indtægtsdata';
 

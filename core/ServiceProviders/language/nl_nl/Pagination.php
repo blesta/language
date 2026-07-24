@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Pagination.last'] = 'Laatste →';
 $lang['Pagination.first'] = '← Eerst';
-$lang['Pagination.prev'] = 'Prev';
+$lang['Pagination.last'] = 'Laatste →';
 $lang['Pagination.next'] = 'Volgende';
+$lang['Pagination.prev'] = 'Prev';
 

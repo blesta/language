@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'המטבע " %1$s " �
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'המטבע ב- %1$s עודכן בהצלחה!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'המטבע " %1$s " נוצר בהצלחה!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'הגדרות המטבע עודכנו בהצלחה!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'עדכן עכשיו';
 

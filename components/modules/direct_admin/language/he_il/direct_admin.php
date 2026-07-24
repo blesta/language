@@ -97,7 +97,7 @@ $lang['DirectAdmin.!error.change_package.type'] = 'המודול אינו תומ�
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'אנא הזן כתובת דוא"ל חוקית.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'הסיסמה והאישור לא תואמים.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'ודא שהסיסמה כוללת את המרכיבים הבאים: לפחות 12 תווים, לפחות תו אחד באותיות גדולות A-Z, לפחות תו אחד באותיות קטנות a-z, לפחות ספרה אחת 0-9, ולפחות תו מיוחד אחד מהקבוצה הבאה: !"#$%&amp;\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'ודא שהסיסמה מכילה את המרכיבים הבאים: לפחות 12 תווים, לפחות תו אחד באותיות גדולות A-Z, לפחות תו אחד באותיות קטנות a-z, לפחות ספרה אחת 0-9, ולפחות תו מיוחד אחד מהקבוצה: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'שם המשתמש חייב להכיל בין 4 ל-8 תווים.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'שם המשתמש יכול להכיל תווים אלפאנומריים בלבד.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'אנא הזן שם תחום תקף במבנה הבא: domain.com';

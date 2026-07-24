@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Peringatan';
 $lang['AdminTools.logsystem.level_notice'] = 'Pemberitahuan';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Debug';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Faktur ini telah dibayar dan tidak dapat dibatalkan dari antrian.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Apakah Anda yakin ingin membatalkan perubahan layanan yang sedang diproses ini? Faktur terkait telah dibayar dan tidak akan dibatalkan.';
 

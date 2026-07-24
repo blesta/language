@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Le contenu du message ne peut pas être vide.';
-$lang['AiMessages.!error.role.valid'] = 'Le rôle du message n\'est pas valide.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'ID de conversation non valide.';
+$lang['AiMessages.!error.role.valid'] = 'Le rôle du message n\'est pas valide.';
 

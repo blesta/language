@@ -95,7 +95,7 @@ $lang['DirectAdmin.!error.change_package.type'] = '该模块不支持在用户�
 $lang['DirectAdmin.!error.server_name.empty'] = '必须输入服务器标签。';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = '请输入有效的电子邮件地址。';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = '密码和确认密码不匹配。';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = '确保密码包含以下内容至少 12 个字符，至少 1 个大写字符 A-Z，至少 1 个小写字符 a-z，至少 1 个数字 0-9，以及至少 1 个来自以下集合的特殊字符： !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = '请确保密码包含以下内容： 至少 12 个字符，至少包含 1 个大写字母 A-Z，至少包含 1 个小写字母 a-z，至少包含 1 个数字 0-9，以及至少包含 1 个以下特殊字符之一：!"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = '用户名长度必须在 4 到 8 个字符之间。';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = '用户名只能包含字母数字字符。';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = '请输入有效的域名，格式为：domain.com';

@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = '应用过滤器';
 $lang['AdminBilling.quotations.field_filterclear'] = '清晰';
 $lang['AdminBilling.quotations.filter_toggle'] = '切换过滤器';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = '点击小部件可在仪表板上显示或隐藏它们。';
+$lang['AdminBilling.services.heading_id'] = '服务编号 #';
 

@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Доклади';
 $lang['AdminReportsCustomize.!success.deleted'] = 'Отчетът беше успешно изтрит.';
 $lang['AdminReportsCustomize.!success.edited'] = 'Докладът беше успешно актуализиран.';
 $lang['AdminReportsCustomize.!success.added'] = 'Отчетът е добавен успешно.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Общ преглед';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Износ';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Подновяване';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Задържане';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Приходи';
 

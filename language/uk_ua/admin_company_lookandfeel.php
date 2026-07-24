@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Віджети інф
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Картки';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Налаштуйте, які картки статистики та віджети відображатимуться на інформаційній панелі клієнта. Перетягуйте картки, щоб змінити їх порядок, клацайте їх, щоб змінити колір, і використовуйте прапорці, щоб увімкнути або вимкнути їх. Порядок віджетів можна налаштувати, перетягнувши їх вертикально.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Налаштування макета інформаційної панелі';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Налаштування теми';
 

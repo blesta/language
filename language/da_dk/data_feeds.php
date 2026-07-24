@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Ugyldigt virksomheds-ID.';
 $lang['DataFeeds.!error.endpoint.valid'] = 'Indtast venligst slutpunktet.';
 $lang['DataFeeds.!error.enabled.valid'] = 'Den aktiverede indstilling skal være indstillet til 1 eller 0.';
 $lang['DataFeeds.execute.endpoint_not_found'] = 'Det ønskede slutpunkt findes ikke.';
+$lang['DataFeeds.!error.dir.valid'] = 'Plugin-mappen indeholder ugyldige tegn.';
 

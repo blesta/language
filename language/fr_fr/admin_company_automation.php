@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.getintervals.text_minute'] = 'minute';
 $lang['AdminCompanyAutomation.getintervals.text_minutes'] = 'minutes';
 $lang['AdminCompanyAutomation.getintervals.text_hour'] = 'heure';
 $lang['AdminCompanyAutomation.getintervals.text_hours'] = 'heures';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Aucune tâche d\'automatisation n\'a été enregistrée au cours des dernières 24 heures.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Aucune exécution de tâche d\'automatisation n\'a été enregistrée au cours de la dernière heure.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Pas encore terminé';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'La course à pied';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Terminé';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Exécution';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Rafraîchir';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Calendrier d\'exécution des tâches - 24 dernières heures';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Chronologie d\'exécution des tâches - Dernière heure';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Séries :';
 

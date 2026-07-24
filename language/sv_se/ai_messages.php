@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Innehållet i meddelandet får inte vara tomt.';
-$lang['AiMessages.!error.role.valid'] = 'Ogiltig meddelanderoll.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'Ogiltigt samtals-ID.';
+$lang['AiMessages.!error.role.valid'] = 'Ogiltig meddelanderoll.';
 

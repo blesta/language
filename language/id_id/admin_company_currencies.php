@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Mata uang %1$ berhasi
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Mata uang %1$ berhasil diperbarui!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Mata uang %1$ telah berhasil dibuat!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Pengaturan Pengaturan Mata Uang berhasil diperbarui!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Perbarui Sekarang';
 

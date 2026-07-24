@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Toate facturile trebuie să aib
 $lang['Invoices.!error.invoice_ids.count'] = 'Trebuie selectate cel puțin două facturi.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Serviciile unice nu pot fi reînnoite.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Facturile proforma pot fi combinate numai cu alte facturi proforma, iar facturile active numai cu alte facturi active.';
 

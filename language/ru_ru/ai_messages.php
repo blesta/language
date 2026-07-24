@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Содержимое сообщения не может быть пустым.';
-$lang['AiMessages.!error.role.valid'] = 'Неверная роль сообщения.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'Неверный идентификатор разговора.';
+$lang['AiMessages.!error.role.valid'] = 'Неверная роль сообщения.';
 

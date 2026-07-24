@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Λίστα εισα
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Επαναφορά στιγμιότυπου προτύπου email';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Έλεγχος ακεραιότητας συστήματος';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Ενημέρωση δεδομένων ανάλυσης εσόδων';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Δεδομένα ανανεώσεων του Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Δεδομένα διατήρησης πελατών από την υπηρεσία Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Αναλυτικά στοιχεία εσόδων Δεδομένα εσόδων';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Στοιχεία επισκόπησης της ανάλυσης εσόδων';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Σημείωση αποκρυπτογράφησης';
 

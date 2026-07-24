@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'De valuta %1$s is suc
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'De valuta %1$s is succesvol bijgewerkt!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'De munteenheid %1$s is succesvol aangemaakt!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'De instellingen voor valuta-instellingen zijn succesvol bijgewerkt!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Nu bijwerken';
 

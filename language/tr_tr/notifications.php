@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Bilgi';
 $lang['Notifications.getTypes.success'] = 'Başarı';
 $lang['Notifications.getTypes.warning'] = 'Uyarı';
 $lang['Notifications.getTypes.danger'] = 'Tehlike';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Yapılandırılmış AI modeli artık kullanılamadığında ve yerine başka bir model kullanıldığında gönderilen bildirim.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'AI Modeli Kullanılamıyor';
 

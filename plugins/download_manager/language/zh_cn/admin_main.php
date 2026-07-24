@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = '注意：文件必须位于上传目录�
 $lang['AdminMain.add.field_file_type'] = '文件来源';
 $lang['AdminMain.add.upload'] = '上传文件';
 $lang['AdminMain.add.path'] = '指定文件路径';
+$lang['AdminMain.!error.post_max_size'] = '您尝试上传的文件过大。该文件超过了本服务器%1$s 的最大上传大小限制。请上传较小的文件，或联系服务器管理员，请求其增加PHP中的\'post_max_size\'和\'upload_max_filesize\'设置值。';
 

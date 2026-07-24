@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'A moeda %1$s foi elim
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'A moeda %1$s foi actualizada com sucesso!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'A moeda %1$s foi criada com sucesso!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'As definições de configuração da moeda foram actualizadas com sucesso!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Atualizar agora';
 

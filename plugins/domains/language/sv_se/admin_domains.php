@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Status';
 $lang['AdminDomains.whois.label_name_servers'] = 'Namnservrar';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Ange ett giltigt domännamn';
+$lang['AdminDomains.browse.text_items_selected'] = 'valda artiklar';
+$lang['AdminDomains.browse.text_item_selected'] = 'Valt objekt';
+$lang['AdminDomains.!success.queue_sync'] = 'De valda domänerna har lagts i kö för synkronisering!';
 

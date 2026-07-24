@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'CATATAN: File harus berada di suatu temp
 $lang['AdminMain.add.field_file_type'] = 'Sumber File';
 $lang['AdminMain.add.upload'] = 'Unggah File';
 $lang['AdminMain.add.path'] = 'Menentukan Jalur ke File';
+$lang['AdminMain.!error.post_max_size'] = 'Ukuran file yang Anda coba unggah terlalu besar. Ukuran file tersebut melebihi batas maksimum unggahan server ini, yaitu %1$s. Silakan unggah file yang ukurannya lebih kecil, atau mintalah administrator server Anda untuk menaikkan pengaturan PHP \'post_max_size\' dan \'upload_max_filesize\'.';
 

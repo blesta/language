@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Bestellung Gesamt';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Gutscheincode eingeben';
 $lang['AdminMain.edit.text_select_action'] = 'Klicken Sie oben auf eine Schaltfläche, um das Formular zur Durchführung einer Aktion anzuzeigen.';
 $lang['AdminMain.edit.text_no_fields'] = 'Für diese Aktion sind keine weiteren Optionen erforderlich. Klicken Sie auf Senden, um fortzufahren.';
+$lang['AdminMain.index.text_items_selected'] = 'ausgewählte Artikel';
+$lang['AdminMain.index.text_item_selected'] = 'Artikel ausgewählt';
+$lang['AdminMain.!success.queue_sync'] = 'Die ausgewählten Domains wurden für die Synchronisierung in die Warteschlange gestellt!';
 

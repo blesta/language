@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'UWAGA: Pliki muszą znajdować się w ka
 $lang['AdminMain.add.field_file_type'] = 'Źródło pliku';
 $lang['AdminMain.add.upload'] = 'Prześlij plik';
 $lang['AdminMain.add.path'] = 'Określ ścieżkę do pliku';
+$lang['AdminMain.!error.post_max_size'] = 'Plik, który próbujesz przesłać, jest zbyt duży. Przekracza on maksymalny rozmiar pliku do przesłania na tym serwerze, wynoszący %1$s. Prześlij plik o mniejszym rozmiarze lub poproś administratora serwera o zwiększenie wartości parametrów PHP „post_max_size” i „upload_max_filesize”.';
 

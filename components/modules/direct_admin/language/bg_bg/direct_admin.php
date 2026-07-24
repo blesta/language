@@ -96,7 +96,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin е графичен уеб ба�
 $lang['DirectAdmin.!error.change_package.type'] = 'Модулът не поддържа промяна между потребителски и дистрибуторски пакети.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Моля, въведете валиден имейл адрес.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Паролата и потвърждението на паролата не съвпадат.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Уверете се, че паролата съдържа следното: Поне 12 символа, поне 1 голям символ A-Z, поне 1 малък символ a-z, поне 1 цифра 0-9 и поне 1 специален символ от набора: !"#$%&amp;\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Уверете се, че паролата съдържа следното: Най-малко 12 символа, най-малко 1 главна буква от A до Z, най-малко 1 малка буква от a до z, най-малко 1 цифра от 0 до 9 и най-малко 1 специален символ от набора: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Дължината на потребителското име трябва да бъде между 4 и 8 символа.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Потребителското име може да съдържа само буквено-цифрови символи.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Моля, въведете валидно име на домейн от вида: domain.com';

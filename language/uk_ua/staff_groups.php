@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Список цит
 $lang['StaffGroups.permissions.admin_system_ai'] = 'ШІ';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Відновити знімок шаблону електронної пошти';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Перевірка цілісності системи';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Оновити дані про аналітику доходів';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Дані щодо поновлення підписок на «Revenue Intelligence»';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Дані щодо утримання клієнтів у сфері аналізу доходів';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Аналітика доходів Дані про доходи';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Огляд даних про аналіз доходів';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Примітка щодо розшифрування';
 

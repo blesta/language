@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Статус';
 $lang['AdminDomains.whois.label_name_servers'] = 'Серверы имен';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Введите действительное доменное имя';
+$lang['AdminDomains.browse.text_items_selected'] = 'выбранные товары';
+$lang['AdminDomains.browse.text_item_selected'] = 'выбранный элемент';
+$lang['AdminDomains.!success.queue_sync'] = 'Выбранные домены добавлены в очередь на синхронизацию!';
 

@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Μη έγκυρο αναγνωρ�
 $lang['DataFeeds.!error.class.valid'] = 'Η παρεχόμενη κλάση δεν είναι έγκυρη κλάση τροφοδοσίας δεδομένων.';
 $lang['DataFeeds.!error.dir.empty'] = 'Παρακαλούμε εισάγετε τον κατάλογο του πρόσθετου.';
 $lang['DataFeeds.!error.feed.valid'] = 'Εισάγετε το όνομα της ροής δεδομένων.';
+$lang['DataFeeds.!error.dir.valid'] = 'Ο κατάλογος των προσθηκών περιέχει μη έγκυρους χαρακτήρες.';
 

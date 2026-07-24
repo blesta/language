@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Зареждане...';
 $lang['AppController.modal.btn_delete'] = 'Изтриване на';
 $lang['AppController.modal.btn_cancel'] = 'Отмяна на';
 $lang['AppController.modal.confirm_delete'] = 'Потвърдете Изтриване';
+$lang['AppController.structure.notification_company_tooltip'] = 'Принадлежи на %1$s';
 

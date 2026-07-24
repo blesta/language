@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Všechny faktury musí mít ste
 $lang['Invoices.!error.invoice_ids.count'] = 'Je třeba vybrat alespoň dvě faktury.';
 $lang['Invoices.!line_item.parent_description'] = 'Služba pro děti %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Jednorázové služby nelze obnovit.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proforma faktury lze slučovat pouze s jinými proforma fakturami a aktivní faktury pouze s jinými aktivními fakturami.';
 

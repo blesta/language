@@ -96,7 +96,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin este un panou de control grafic 
 $lang['DirectAdmin.!error.change_package.type'] = 'Modulul nu acceptă schimbarea între pachetele de utilizator și cele de revânzător.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Vă rugăm să introduceți o adresă de e-mail validă.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Parola și Parola confirmată nu se potrivesc.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Asigurați-vă că parola conține următoarele elemente: Cel puțin 12 caractere, cel puțin 1 caracter majusculă A-Z, cel puțin 1 caracter minusculă a-z, cel puțin 1 număr 0-9 și cel puțin 1 caracter special din setul: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Asigură-te că parola conține următoarele: Cel puțin 12 caractere, cel puțin 1 literă majusculă A-Z, cel puțin 1 literă minusculă a-z, cel puțin 1 cifră 0-9 și cel puțin 1 caracter special din setul: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Numele de utilizator trebuie să aibă o lungime cuprinsă între 4 și 8 caractere.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Numele de utilizator poate conține numai caractere alfanumerice.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Vă rugăm să introduceți un nume de domeniu valid de forma: domain.com';

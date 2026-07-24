@@ -13,4 +13,5 @@ $lang['Util.filters.service_filters.any'] = 'Οποιοδήποτε';
 $lang['Util.filters.service_filters.field_module_id'] = 'Ενότητα';
 $lang['Util.filters.service_filters.field_package_name'] = 'Όνομα πακέτου';
 $lang['Util.filters.service_filters.field_service_meta'] = 'Υπηρεσία Meta';
+$lang['Util.filters.service_filters.field_service_id'] = 'Αριθμός υπηρεσίας';
 

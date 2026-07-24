@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Застосувати філ
 $lang['AdminPackages.index.field_filterclear'] = 'Чисто';
 $lang['AdminPackages.index.filter_toggle'] = 'Перемикання фільтрів';
 $lang['AdminPackages.index.items_selected'] = 'вибрані елементи';
+$lang['AdminPackages.index.action.change_status'] = 'Змінити статус';
+$lang['AdminPackages.index.action.delete_packages'] = 'Видалити пакети';
+$lang['AdminPackages.!error.status_required'] = 'Будь ласка, виберіть статус, на який ви хочете подати заявку.';
+$lang['AdminPackages.!success.change_status'] = 'Статуси пакетів було успішно оновлено.';
+$lang['AdminPackages.!success.delete_packages'] = 'Пакеті було успішно видалено.';
 

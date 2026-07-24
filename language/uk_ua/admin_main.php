@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Скасувати';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Натисніть на віджети, щоб показати або приховати їх на інформаційній панелі.';
 $lang['AdminMain.calendar.category_list'] = 'Список';
 $lang['AdminMain.calendar.category_today'] = 'Сьогодні';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Відобразити бічну панель (календар та швидкі посилання)';
 

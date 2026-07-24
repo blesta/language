@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Laden...';
 $lang['AppController.modal.btn_delete'] = 'Löschen';
 $lang['AppController.modal.btn_cancel'] = 'Abbrechen';
 $lang['AppController.modal.confirm_delete'] = 'Bestätigen Löschen';
+$lang['AppController.structure.notification_company_tooltip'] = 'Gehört zu %1$s';
 

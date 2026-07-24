@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Fatura kimliği zaten bir hi
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Geçersiz fatura kimliği.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Geçersiz hizmet kimliği.';
 $lang['ServiceChanges.!error.id.exists'] = 'Geçersiz hizmet değişikliği kimliği.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Fatura zaten ödenmiştir ve iptal edilemez.';
 

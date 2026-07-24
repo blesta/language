@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = '상태';
 $lang['AdminDomains.whois.label_name_servers'] = '이름 서버';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = '유효한 도메인 이름을 입력하세요.';
+$lang['AdminDomains.browse.text_items_selected'] = '선택한 항목';
+$lang['AdminDomains.browse.text_item_selected'] = '항목 선택됨';
+$lang['AdminDomains.!success.queue_sync'] = '선택한 도메인이 동기화 대기열에 추가되었습니다!';
 

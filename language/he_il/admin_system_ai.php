@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'כלול הגדר
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'יש לכלול בהקשר מידע על סוגי השדות ועל מבני מסדי הנתונים.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'כלול נתוני דוגמה';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'כלול ערכי נתונים לדוגמה כדי לסייע לבינה המלאכותית להבין את פורמטי הנתונים ואת המבנה שלהם.';
+$lang['AdminSystemAi.index.degraded_model'] = 'המודל הנבחר כרגע, "%1$s", אינו זמין עוד. תכונות ה-AI משתמשות באופן זמני ב-"%2$s". אנא בחר מודל ברירת מחדל חדש מהרשימה שלמטה ושמור.';
+$lang['AdminSystemAi.index.model_recommended'] = '(מומלץ)';
 

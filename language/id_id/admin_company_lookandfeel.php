@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widget Dasbor';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Kartu';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Mengonfigurasi kartu dan widget statistik mana yang muncul di dasbor klien. Seret kartu untuk mengubah urutannya, klik kartu untuk mengubah warna, dan gunakan kotak centang untuk mengaktifkan atau menonaktifkannya. Urutan widget dapat disesuaikan dengan menyeretnya secara vertikal.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Kustomisasi Tata Letak Dasbor';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Pengaturan Tema';
 

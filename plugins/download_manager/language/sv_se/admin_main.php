@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'OBS: Filerna måste ligga någonstans i 
 $lang['AdminMain.add.field_file_type'] = 'Fil Källa';
 $lang['AdminMain.add.upload'] = 'Ladda upp fil';
 $lang['AdminMain.add.path'] = 'Ange sökväg till fil';
+$lang['AdminMain.!error.post_max_size'] = 'Filen du försökte ladda upp är för stor. Den överskrider serverns maximala uppladdningsstorlek på %1$s. Ladda upp en mindre fil eller be din serveradministratör att öka PHP-inställningarna ”post_max_size” och ”upload_max_filesize”.';
 

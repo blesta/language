@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Avertisment';
 $lang['AdminTools.logsystem.level_notice'] = 'Aviz';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Depanare';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Această factură a fost deja achitată și nu poate fi anulată din coada de așteptare.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Sunteți sigur că doriți să anulați această modificare a serviciului aflată în curs de procesare? Factura aferentă a fost deja achitată și nu va fi anulată.';
 

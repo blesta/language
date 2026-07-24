@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_changes_filters.field_date_status'] = 'Pembaruan Tanggal';
 $lang['Util.filters.service_changes_filters.field_date_added'] = 'Tanggal Ditambahkan';
+$lang['Util.filters.service_changes_filters.field_date_status'] = 'Pembaruan Tanggal';
 $lang['Util.filters.service_changes_filters.field_invoice'] = 'Faktur #';
 $lang['Util.filters.service_changes_filters.field_service_id'] = 'ID Layanan';
 

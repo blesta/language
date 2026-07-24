@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Отмяна на';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Щракнете върху уиджетите, за да ги покажете или скриете от таблото за управление.';
 $lang['AdminMain.calendar.category_list'] = 'Списък';
 $lang['AdminMain.calendar.category_today'] = 'Днес';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Покажи страничната лента (календар и бързи връзки)';
 

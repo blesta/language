@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = 'Валюту %1$s у�
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = 'Валюту %1$s успішно оновлено!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = 'Валюта %1$s успішно створена!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = 'Налаштування валюти було успішно оновлено!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = 'Оновити зараз';
 

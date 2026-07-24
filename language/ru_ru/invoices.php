@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Все счета-фактур�
 $lang['Invoices.!error.invoice_ids.count'] = 'Необходимо выбрать не менее двух счетов-фактур.';
 $lang['Invoices.!line_item.parent_description'] = 'Служба помощи детям %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Одноразовые услуги не могут быть возобновлены.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Проформа-счета можно объединять только с другими проформа-счетами, а действующие счета — только с другими действующими счетами.';
 

@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Warnung';
 $lang['AdminTools.logsystem.level_notice'] = 'Hinweis';
 $lang['AdminTools.logsystem.level_info'] = 'Infos';
 $lang['AdminTools.logsystem.level_debug'] = 'Debuggen';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Diese Rechnung wurde bereits bezahlt und kann nicht aus der Warteschlange entfernt werden.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Möchten Sie diese anstehende Dienstleistungsänderung wirklich stornieren? Die dazugehörige Rechnung wurde bereits bezahlt und kann nicht storniert werden.';
 

@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'מספר זיהוי החברה א
 $lang['DataFeeds.!error.class.valid'] = 'המחלקת שסופקה אינה מחלקת הזנת נתונים חוקית.';
 $lang['DataFeeds.!error.dir.empty'] = 'אנא היכנס לספריית התוספים.';
 $lang['DataFeeds.!error.feed.valid'] = 'אנא הזן את שם מקור הנתונים.';
+$lang['DataFeeds.!error.dir.valid'] = 'ספריית התוספים מכילה תווים לא חוקיים.';
 

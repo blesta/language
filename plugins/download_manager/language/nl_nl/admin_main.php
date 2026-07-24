@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'OPMERKING: Bestanden moeten zich ergens 
 $lang['AdminMain.add.field_file_type'] = 'Bestandsbron';
 $lang['AdminMain.add.upload'] = 'Bestand uploaden';
 $lang['AdminMain.add.path'] = 'Pad naar bestand opgeven';
+$lang['AdminMain.!error.post_max_size'] = 'Het bestand dat u probeerde te uploaden, is te groot. Het overschrijdt de maximale uploadgrootte van deze server, namelijk %1$s. U kunt een kleiner bestand uploaden of uw serverbeheerder vragen om de PHP-instellingen \'post_max_size\' en \'upload_max_filesize\' te verhogen.';
 

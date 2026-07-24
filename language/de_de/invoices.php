@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Alle Rechnungen müssen die gle
 $lang['Invoices.!error.invoice_ids.count'] = 'Es müssen mindestens zwei Rechnungen ausgewählt werden.';
 $lang['Invoices.!line_item.parent_description'] = 'Kinderservice von %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Einmalige Dienste können nicht verlängert werden.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proforma-Rechnungen können nur mit anderen Proforma-Rechnungen zusammengeführt werden, aktive Rechnungen hingegen nur mit anderen aktiven Rechnungen.';
 

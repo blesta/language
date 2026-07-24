@@ -94,7 +94,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin - це графічна веб-�
 $lang['DirectAdmin.!error.change_package.type'] = 'Модуль не підтримує перемикання між пакетами користувача та реселера.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Будь ласка, введіть дійсну адресу електронної пошти.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Пароль і Підтвердити пароль не збігаються.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Переконайтеся, що пароль містить наступне: Щонайменше 12 символів, щонайменше 1 символ верхнього регістру A-Z, щонайменше 1 символ нижнього регістру a-z, щонайменше 1 цифру 0-9 та щонайменше 1 спеціальний символ з набору: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Переконайтеся, що пароль містить наступне: щонайменше 12 символів, щонайменше 1 велику літеру A–Z, щонайменше 1 малу літеру a–z, щонайменше 1 цифру 0–9 та щонайменше 1 спеціальний символ із набору: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Ім\'я користувача повинно мати довжину від 4 до 8 символів.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Ім\'я користувача може містити лише алфавітно-цифрові символи.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Будь ласка, введіть дійсне доменне ім\'я виду: domain.com';

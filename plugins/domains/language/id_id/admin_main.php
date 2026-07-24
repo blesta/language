@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Total Pesanan';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Masukkan kode kupon';
 $lang['AdminMain.edit.text_select_action'] = 'Klik tombol di atas untuk menampilkan formulir untuk melakukan suatu tindakan.';
 $lang['AdminMain.edit.text_no_fields'] = 'Tindakan ini tidak memerlukan opsi tambahan apa pun. Klik Kirim untuk melanjutkan.';
+$lang['AdminMain.index.text_items_selected'] = 'item yang dipilih';
+$lang['AdminMain.index.text_item_selected'] = 'item yang dipilih';
+$lang['AdminMain.!success.queue_sync'] = 'Domain-domain yang dipilih telah dimasukkan ke dalam antrian untuk disinkronkan!';
 

@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'ملاحظة: يجب أن تكون ال�
 $lang['AdminMain.add.field_file_type'] = 'مصدر الملف';
 $lang['AdminMain.add.upload'] = 'تحميل ملف';
 $lang['AdminMain.add.path'] = 'تحديد المسار إلى الملف';
+$lang['AdminMain.!error.post_max_size'] = 'حجم الملف الذي حاولت تحميله كبير جدًّا. فهو يتجاوز الحد الأقصى لحجم التحميل المسموح به على هذا الخادم، وهو %1$s. يرجى تحميل ملف أصغر حجمًا، أو طلب من مسؤول الخادم زيادة إعدادات PHP «post_max_size» و«upload_max_filesize».';
 

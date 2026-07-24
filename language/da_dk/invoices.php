@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Alle fakturaer skal have samme 
 $lang['Invoices.!error.invoice_ids.count'] = 'Der skal vælges mindst to fakturaer.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Engangstjenester kan ikke fornyes.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proformafakturaer kan kun sammenlægges med andre proformafakturaer, og aktive fakturaer kan kun sammenlægges med andre aktive fakturaer.';
 

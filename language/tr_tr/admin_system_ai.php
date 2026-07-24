@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Şema Tanımları
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Alan türü bilgilerini ve veritabanı şemalarını bağlama dahil edin.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Örnek Verileri Dahil Edin';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Yapay zekanın veri formatlarını ve yapısını anlamasına yardımcı olmak için örnek veri değerleri ekleyin.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Şu anda seçili olan "%1$s" modeli artık kullanılamıyor. AI özellikleri geçici olarak "%2$s" modelini kullanıyor. Lütfen aşağıdan yeni bir varsayılan model seçin ve kaydedin.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Önerilen)';
 

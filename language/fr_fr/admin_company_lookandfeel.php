@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgets du tableau de
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Cartes';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configurez les cartes de statistiques et les widgets qui apparaissent sur le tableau de bord du client. Faites glisser les cartes pour modifier leur ordre, cliquez dessus pour en changer la couleur et utilisez les cases à cocher pour les activer ou les désactiver. L\'ordre des widgets peut être personnalisé en les faisant glisser verticalement.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Personnalisation de la présentation du tableau de bord';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Paramètres du thème';
 

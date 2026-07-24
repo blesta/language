@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'HINWEIS: Die Dateien müssen sich irgend
 $lang['AdminMain.add.field_file_type'] = 'Datei Quelle';
 $lang['AdminMain.add.upload'] = 'Datei hochladen';
 $lang['AdminMain.add.path'] = 'Pfad zur Datei angeben';
+$lang['AdminMain.!error.post_max_size'] = 'Die Datei, die Sie hochladen wollten, ist zu groß. Sie überschreitet die maximale Upload-Größe dieses Servers von %1$s. Bitte laden Sie eine kleinere Datei hoch oder bitten Sie Ihren Serveradministrator, die PHP-Einstellungen „post_max_size“ und „upload_max_filesize“ zu erhöhen.';
 

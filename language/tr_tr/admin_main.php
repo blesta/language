@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'İptal';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Gösterge panelinizde göstermek veya gizlemek için widget\'lara tıklayın.';
 $lang['AdminMain.calendar.category_list'] = 'Liste';
 $lang['AdminMain.calendar.category_today'] = 'Bugün';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Kenar çubuğunu göster (takvim ve hızlı bağlantılar)';
 

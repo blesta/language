@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Info';
 $lang['Notifications.getTypes.success'] = 'Succès';
 $lang['Notifications.getTypes.warning'] = 'Avertissement';
 $lang['Notifications.getTypes.danger'] = 'Danger';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Notification envoyée lorsque le modèle d\'IA configuré n\'est plus disponible et qu\'un modèle de remplacement est utilisé.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Modèle d\'IA indisponible';
 

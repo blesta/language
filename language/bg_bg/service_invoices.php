@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.service_id.exists'] = 'Невалиден иден
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Позволяват само незабавно анулиране';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Разрешете анулиране само в края на срока';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Възможност за незабавна отмяна или отмяна в края на срока';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Промяна';
 

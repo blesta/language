@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'İstemci mevcut değil.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Geçerli bir tarih eklenmesi gerekmektedir.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'Bir belge adı gereklidir.';
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'İstemci mevcut değil.';
 

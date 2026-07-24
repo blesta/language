@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = '필터 적용';
 $lang['AdminPackages.index.field_filterclear'] = '지우기';
 $lang['AdminPackages.index.filter_toggle'] = '필터 토글';
 $lang['AdminPackages.index.items_selected'] = '선택한 항목';
+$lang['AdminPackages.index.action.change_status'] = '상태 변경';
+$lang['AdminPackages.index.action.delete_packages'] = '패키지 삭제';
+$lang['AdminPackages.!error.status_required'] = '신청할 상태를 선택해 주세요.';
+$lang['AdminPackages.!success.change_status'] = '패키지 상태가 성공적으로 업데이트되었습니다.';
+$lang['AdminPackages.!success.delete_packages'] = '패키지가 성공적으로 삭제되었습니다.';
 

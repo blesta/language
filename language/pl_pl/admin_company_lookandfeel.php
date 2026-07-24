@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widżety pulpitu nawi
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Karty';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Skonfiguruj karty statystyk i widżety wyświetlane na pulpicie nawigacyjnym klienta. Przeciągnij karty, aby zmienić ich kolejność, kliknij je, aby zmienić kolor, i użyj pól wyboru, aby je włączyć lub wyłączyć. Kolejność widżetów można dostosować, przeciągając je w pionie.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Dostosowanie układu pulpitu nawigacyjnego';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Ustawienia motywu';
 

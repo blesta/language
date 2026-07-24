@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_auto_renewal'] = 'שינוי ח
 $lang['DomainsController.example'] = 'דוגמה לשפה';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'הגדרת עקיפת מחיר';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'הסר את העקיפת מחיר';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'סנכרון תור';
 

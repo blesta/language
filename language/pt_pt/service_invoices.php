@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.service_id.exists'] = 'ID de serviço inválido.';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Permitir apenas o cancelamento imediato';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Permitir apenas o cancelamento no final do período letivo';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Permitir a anulação imediata ou no final do período letivo';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Alterar';
 

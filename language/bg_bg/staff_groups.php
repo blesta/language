@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Списък с ц�
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Възстановяване на моментна снимка на имейл шаблона';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Проверка на целостта на системата';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Актуализиране на данните за анализите на приходите';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Данни за подновяването на абонаментите на Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Данни за задържането на клиентите от Revenue Intelligence';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Анализ на приходите Данни за приходите';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Общ преглед на данните за анализите на приходите';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Бележка за декриптиране';
 

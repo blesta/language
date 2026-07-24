@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = '보고서';
 $lang['AdminReportsCustomize.!success.deleted'] = '보고서가 성공적으로 삭제되었습니다.';
 $lang['AdminReportsCustomize.!success.edited'] = '보고서가 성공적으로 업데이트되었습니다.';
 $lang['AdminReportsCustomize.!success.added'] = '보고서가 성공적으로 추가되었습니다.';
+$lang['AdminReportsCustomize.index.tab_overview'] = '개요';
+$lang['AdminReportsCustomize.index.tab_exports'] = '수출';
+$lang['AdminReportsCustomize.index.tab_renewals'] = '갱신';
+$lang['AdminReportsCustomize.index.tab_retention'] = '유지율';
+$lang['AdminReportsCustomize.index.tab_revenue'] = '매출';
 

@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['DataFeeds.!error.class.valid'] = 'Die angegebene Klasse ist keine gültige Datenfeed-Klasse.';
 $lang['DataFeeds.!error.dir.empty'] = 'Bitte geben Sie das Plugin-Verzeichnis an.';
 $lang['DataFeeds.!error.feed.valid'] = 'Bitte geben Sie den Namen des Datenfeeds ein.';
+$lang['DataFeeds.!error.dir.valid'] = 'Das Plugin-Verzeichnis enthält ungültige Zeichen.';
 

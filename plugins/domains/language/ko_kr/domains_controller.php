@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = '등록 �
 $lang['DomainsController.getDomainActions.change_expiration_date'] = '만료일 변경';
 $lang['DomainsController.getDomainActions.remove_price_override'] = '가격 재정의 제거';
 $lang['DomainsController.getDomainActions.set_price_override'] = '설정 가격 재정의';
+$lang['DomainsController.getDomainActions.queue_sync'] = '대기열 동기화';
 

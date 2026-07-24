@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Waarschuwing';
 $lang['AdminTools.logsystem.level_notice'] = 'Kennisgeving';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Debug';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Deze factuur is al betaald en kan niet uit de wachtrij worden verwijderd.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Weet u zeker dat u deze in behandeling zijnde wijziging van de dienst wilt annuleren? De bijbehorende factuur is al betaald en kan niet worden geannuleerd.';
 

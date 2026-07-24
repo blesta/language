@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = '정보';
 $lang['Notifications.getTypes.success'] = '성공';
 $lang['Notifications.getTypes.warning'] = '경고';
 $lang['Notifications.getTypes.danger'] = '위험';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = '설정된 AI 모델을 더 이상 사용할 수 없어 대체 모델이 사용되고 있을 때 전송되는 알림입니다.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'AI 모델을 사용할 수 없습니다';
 

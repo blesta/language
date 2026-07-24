@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Batal';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klik widget untuk menampilkan atau menyembunyikannya dari dasbor Anda.';
 $lang['AdminMain.calendar.category_list'] = 'Daftar';
 $lang['AdminMain.calendar.category_today'] = 'Hari ini';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Tampilkan bilah samping (kalender dan tautan cepat)';
 

@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Laddar...';
 $lang['AppController.modal.btn_delete'] = 'Radera';
 $lang['AppController.modal.btn_cancel'] = 'Avbryt';
 $lang['AppController.modal.confirm_delete'] = 'Bekräfta Radera';
+$lang['AppController.structure.notification_company_tooltip'] = 'Tillhör %1$s';
 

@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Totale dell\'ordine';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Inserisci il codice coupon';
 $lang['AdminMain.edit.text_select_action'] = 'Fare clic su un pulsante in alto per visualizzare il modulo per eseguire un\'azione.';
 $lang['AdminMain.edit.text_no_fields'] = 'Questa azione non richiede ulteriori opzioni. Fare clic su Invia per procedere.';
+$lang['AdminMain.index.text_items_selected'] = 'articoli selezionati';
+$lang['AdminMain.index.text_item_selected'] = 'articolo selezionato';
+$lang['AdminMain.!success.queue_sync'] = 'I domini selezionati sono stati inseriti nella coda per la sincronizzazione!';
 

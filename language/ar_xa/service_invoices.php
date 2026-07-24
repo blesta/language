@@ -23,4 +23,5 @@ $lang['ServiceInvoices.getattempttypes.cancelation'] = 'الإلغاء';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'السماح بالإلغاء الفوري فقط';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'السماح بالإلغاء في نهاية المدة فقط';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'السماح بالإلغاء الفوري أو الإلغاء في نهاية المدة';
+$lang['ServiceInvoices.getattempttypes.change'] = 'تغيير';
 

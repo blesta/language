@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = '设置 > 公司 > 自动化'
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'cron 任务已清除。';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = '自动化设置已成功更新！';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = '自动化任务设置为每分钟运行一次，但您的 cron 似乎不是每分钟运行一次。请将 cron 更新为每分钟运行一次，以利用这些较短的时间间隔。';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = '过去 24 小时内未记录任何自动化任务运行。';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = '过去一小时内未记录任何自动化任务的运行情况。';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = '尚未完成';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = '跑步';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = '已完成';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = '执行';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = '刷新';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = '任务执行时间表 - 过去 24 小时';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = '任务执行时间线——过去一小时';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = '运行：';
 

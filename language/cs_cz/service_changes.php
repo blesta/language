@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'ID faktury je již nastaveno
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Neplatné ID faktury.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Neplatné ID služby.';
 $lang['ServiceChanges.!error.id.exists'] = 'Neplatné ID změny služby.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Faktura již byla uhrazena a nelze ji zrušit.';
 

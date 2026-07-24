@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Status';
 $lang['AdminDomains.whois.label_name_servers'] = 'Navneservere';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Indtast venligst et gyldigt domænenavn';
+$lang['AdminDomains.browse.text_items_selected'] = 'valgte varer';
+$lang['AdminDomains.browse.text_item_selected'] = 'valgt vare';
+$lang['AdminDomains.!success.queue_sync'] = 'De valgte domæner er sat i kø til synkronisering!';
 

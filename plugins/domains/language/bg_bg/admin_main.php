@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Поръчка Общо';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Въведете код на купона';
 $lang['AdminMain.edit.text_select_action'] = 'Щракнете върху бутона по-горе, за да се покаже формулярът за извършване на действие.';
 $lang['AdminMain.edit.text_no_fields'] = 'Това действие не изисква допълнителни опции. Щракнете върху Изпрати, за да продължите.';
+$lang['AdminMain.index.text_items_selected'] = 'избрани артикули';
+$lang['AdminMain.index.text_item_selected'] = 'избран елемент';
+$lang['AdminMain.!success.queue_sync'] = 'Избраните домейни са поставени в опашката за синхронизация!';
 

@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Настройки > Ком�
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Задание cron было очищено.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Настройки автоматизации были успешно обновлены!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Есть задания автоматизации, настроенные на выполнение каждую минуту, но ваш cron, похоже, не выполняется каждую минуту. Обновите cron, чтобы он выполнялся каждую минуту, чтобы использовать преимущества этих более коротких интервалов.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'За последние 24 часа не было зарегистрировано ни одного запуска задач автоматизации.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'За последний час не было зарегистрировано ни одного запуска задачи автоматизации.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Еще не закончено';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Бег';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Завершено';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Исполнение';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Обновить';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'График выполнения задачи - последние 24 часа';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Хронология выполнения задач — последний час';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Пробеги:';
 

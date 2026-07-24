@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = '取消';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = '点击小部件可在仪表板上显示或隐藏它们。';
 $lang['AdminMain.calendar.category_list'] = '列表';
 $lang['AdminMain.calendar.category_today'] = '今天';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = '显示侧边栏（日历和快速链接）';
 

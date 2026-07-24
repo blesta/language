@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'NOTA: Os ficheiros devem estar localizad
 $lang['AdminMain.add.field_file_type'] = 'Fonte do ficheiro';
 $lang['AdminMain.add.upload'] = 'Carregar ficheiro';
 $lang['AdminMain.add.path'] = 'Especificar o caminho para o ficheiro';
+$lang['AdminMain.!error.post_max_size'] = 'O ficheiro que tentou carregar é demasiado grande. Excede o tamanho máximo de carregamento deste servidor, que é de %1$s. Por favor, carregue um ficheiro mais pequeno ou peça ao administrador do servidor para aumentar as definições do PHP «post_max_size» e «upload_max_filesize».';
 

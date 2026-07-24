@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = '스키마 정의 
 $lang['AdminSystemAi.index.text_email_context_schemas'] = '컨텍스트에 필드 유형 정보 및 데이터베이스 스키마를 포함하세요.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = '예제 데이터 포함';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'AI가 데이터 형식과 구조를 이해하는 데 도움이 되는 샘플 데이터 값을 포함하세요.';
+$lang['AdminSystemAi.index.degraded_model'] = '현재 선택된 모델 “%1$s ”은 더 이상 사용할 수 없습니다. AI 기능은 일시적으로 “%2$s ”을 사용하고 있습니다. 아래에서 새로운 기본 모델을 선택하고 저장해 주세요.';
+$lang['AdminSystemAi.index.model_recommended'] = '(추천)';
 

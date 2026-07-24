@@ -93,7 +93,7 @@ $lang['DirectAdmin.description'] = 'DirectAdmin, web sitelerinin yönetimini kol
 $lang['DirectAdmin.!error.change_package.type'] = 'Modül, kullanıcı ve bayi paketleri arasında geçiş yapmayı desteklemez.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Lütfen geçerli bir e-posta adresi girin.';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Parola ve Parola Onayla eşleşmiyor.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Parolanın aşağıdakileri içerdiğinden emin olun: En az 12 karakter, en az 1 büyük harf karakteri A-Z, en az 1 küçük harf karakteri a-z, en az 1 sayı 0-9 ve şu kümeden en az 1 özel karakter: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Şifrenin aşağıdakileri içerdiğinden emin olun: En az 12 karakter, en az 1 büyük harf (A-Z), en az 1 küçük harf (a-z), en az 1 rakam (0-9) ve aşağıdaki özel karakterlerden en az 1 tanesi: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Kullanıcı adı 4 ila 8 karakter uzunluğunda olmalıdır.';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Kullanıcı adı yalnızca alfanümerik karakterler içerebilir.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Lütfen şu şekilde geçerli bir alan adı girin: domain.com';

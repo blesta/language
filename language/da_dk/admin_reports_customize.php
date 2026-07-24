@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.edit.field_values'] = 'Værdier (kommasepareret)';
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Brugerdefineret Regex';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Fjern';
 $lang['AdminReportsCustomize.edit.field_submit'] = 'Gem';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Oversigt';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Eksport';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Fornyelser';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Fastholdelse';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Omsætning';
 

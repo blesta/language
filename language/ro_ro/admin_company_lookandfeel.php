@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widget-uri pentru tab
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Cărți';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configurați cardurile statistice și widget-urile care apar pe tabloul de bord al clientului. Trageți cardurile pentru a le schimba ordinea, faceți clic pe ele pentru a le schimba culoarea și utilizați casetele de selectare pentru a le activa sau dezactiva. Ordinea widget-urilor poate fi personalizată prin tragerea lor pe verticală.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Personalizarea aspectului tabloului de bord';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Setări temă';
 

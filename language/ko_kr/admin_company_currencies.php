@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = '1$의 통화가 성�
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = '1$의 통화가 성공적으로 업데이트되었습니다!';
 $lang['AdminCompanyCurrencies.!success.add_created'] = '1$의 통화가 성공적으로 생성되었습니다!';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = '통화 설정 설정이 성공적으로 업데이트되었습니다!';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = '지금 업데이트하기';
 

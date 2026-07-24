@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = '경고';
 $lang['AdminTools.logsystem.level_notice'] = '공지 사항';
 $lang['AdminTools.logsystem.level_info'] = '정보';
 $lang['AdminTools.logsystem.level_debug'] = 'Debug';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = '이 청구서는 이미 결제되었으므로 대기열에서 취소할 수 없습니다.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = '보류 중인 이 서비스 변경을 정말 취소하시겠습니까? 관련 청구서는 이미 결제되었으므로 취소할 수 없습니다.';
 

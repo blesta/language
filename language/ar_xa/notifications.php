@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'المعلومات';
 $lang['Notifications.getTypes.success'] = 'النجاح';
 $lang['Notifications.getTypes.warning'] = 'تحذير';
 $lang['Notifications.getTypes.danger'] = 'الخطر';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'يتم إرسال إشعار عندما يصبح نموذج الذكاء الاصطناعي المُهيأ غير متاح ويتم استخدام نموذج بديل.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'نموذج الذكاء الاصطناعي غير متوفر';
 

@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Dashboard Widgets';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Kaarten';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configureer welke statistische kaarten en widgets verschijnen op het dashboard van de klant. Sleep de kaarten om hun volgorde te veranderen, klik erop om de kleur te veranderen en gebruik de selectievakjes om ze in of uit te schakelen. De volgorde van de widgets kun je aanpassen door ze verticaal te slepen.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Dashboardindeling aanpassen';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Thema-instellingen';
 

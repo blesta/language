@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Total del pedido';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Introduzca el código del cupón';
 $lang['AdminMain.edit.text_select_action'] = 'Haga clic en un botón de arriba para mostrar el formulario para realizar una acción.';
 $lang['AdminMain.edit.text_no_fields'] = 'Esta acción no requiere ninguna opción adicional. Haga clic en Enviar para continuar.';
+$lang['AdminMain.index.text_items_selected'] = 'artículos seleccionados';
+$lang['AdminMain.index.text_item_selected'] = 'elemento seleccionado';
+$lang['AdminMain.!success.queue_sync'] = '¡Los dominios seleccionados se han puesto en cola para su sincronización!';
 

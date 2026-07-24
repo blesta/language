@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'Conținutul mesajului nu poate fi gol.';
-$lang['AiMessages.!error.role.valid'] = 'Rolul mesajului invalid.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'ID conversație invalid.';
+$lang['AiMessages.!error.role.valid'] = 'Rolul mesajului invalid.';
 

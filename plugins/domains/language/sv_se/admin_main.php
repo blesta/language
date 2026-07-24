@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Order Totalt';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Ange kupongkod';
 $lang['AdminMain.edit.text_select_action'] = 'Klicka på en knapp ovan för att visa formuläret för att utföra en åtgärd.';
 $lang['AdminMain.edit.text_no_fields'] = 'Denna åtgärd kräver inga ytterligare alternativ. Klicka på Skicka för att fortsätta.';
+$lang['AdminMain.index.text_items_selected'] = 'valda artiklar';
+$lang['AdminMain.index.text_item_selected'] = 'Valt objekt';
+$lang['AdminMain.!success.queue_sync'] = 'De valda domänerna har lagts i kö för synkronisering!';
 

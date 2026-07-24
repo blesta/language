@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'جاري التحميل...';
 $lang['AppController.modal.btn_delete'] = 'حذف';
 $lang['AppController.modal.btn_cancel'] = 'إلغاء';
 $lang['AppController.modal.confirm_delete'] = 'تأكيد الحذف';
+$lang['AppController.structure.notification_company_tooltip'] = 'ينتمي إلى %1$s';
 $lang['AppController.lang.dir'] = 'rtl';

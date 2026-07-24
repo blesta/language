@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Идентификаторъ
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Невалиден идентификатор на фактурата.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Невалиден идентификатор на услугата.';
 $lang['ServiceChanges.!error.id.exists'] = 'Невалиден идентификатор за промяна на услугата.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Фактурата вече е платена и не може да бъде анулирана.';
 

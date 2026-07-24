@@ -78,4 +78,5 @@ $lang['AdminCompanyCurrencies.!success.delete_deleted'] = '%1$s 货币已成功�
 $lang['AdminCompanyCurrencies.!success.edit_updated'] = '%1$s 货币已成功更新！';
 $lang['AdminCompanyCurrencies.!success.add_created'] = '%1$s 货币已成功创建！';
 $lang['AdminCompanyCurrencies.!success.setup_updated'] = '货币设置设置已成功更新！';
+$lang['AdminCompanyCurrencies.setup.text_update_now'] = '立即更新';
 

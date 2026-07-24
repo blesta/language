@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Το αναγνωριστι�
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Μη έγκυρο αναγνωριστικό τιμολογίου.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Μη έγκυρο αναγνωριστικό υπηρεσίας.';
 $lang['ServiceChanges.!error.id.exists'] = 'Μη έγκυρο αναγνωριστικό αλλαγής υπηρεσίας.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Το τιμολόγιο έχει ήδη εξοφληθεί και δεν μπορεί να ακυρωθεί.';
 

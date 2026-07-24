@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Уиджети за �
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Карти';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Конфигуриране на статистическите карти и уиджетите, които се появяват на таблото за управление на клиента. Плъзнете картите, за да промените реда им, щракнете върху тях, за да промените цвета, и използвайте полета за отметка, за да ги активирате или деактивирате. Редът на уиджетите може да се персонализира, като ги плъзнете вертикално.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Персонализиране на оформлението на таблото за управление';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Настройки на темата';
 

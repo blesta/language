@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'Die Rechnungs-ID ist bereits
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'Ungültige Rechnungs-ID.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'Ungültige Dienst-ID.';
 $lang['ServiceChanges.!error.id.exists'] = 'Ungültige Service Change ID.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Die Rechnung wurde bereits bezahlt und kann nicht storniert werden.';
 

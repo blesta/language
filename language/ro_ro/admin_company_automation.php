@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Setări > Companie > Automat
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Sarcina cron a fost ștearsă.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Setările de automatizare au fost actualizate cu succes!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Există sarcini de automatizare setate să ruleze la fiecare minut, dar cron nu pare să ruleze la fiecare minut. Actualizați cron pentru a rula la fiecare minut pentru a profita de aceste intervale mai scurte.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'În ultimele 24 de ore nu au fost înregistrate execuții ale sarcinilor de automatizare.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'În ultima oră nu s-a înregistrat nicio execuție a unei sarcini de automatizare.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Nu este finalizat încă';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Alergare';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Completat';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Execuție';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Reîmprospătare';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Cronologia executării sarcinilor - ultimele 24 de ore';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Cronologia executării sarcinilor – Ultima oră';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Execuții:';
 

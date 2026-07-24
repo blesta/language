@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.edit.field_values'] = 'Valores (separados por comas
 $lang['AdminReportsCustomize.edit.field_regex'] = 'Regex personalizada';
 $lang['AdminReportsCustomize.edit.text_remove'] = 'Eliminar';
 $lang['AdminReportsCustomize.edit.field_submit'] = 'Guardar';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Ingresos';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Resumen';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Exportaciones';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Renovaciones';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Retención';
 

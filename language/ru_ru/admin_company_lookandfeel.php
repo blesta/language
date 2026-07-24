@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Виджеты при
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Карты';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Настройте, какие карточки статистики и виджеты будут отображаться на приборной панели клиента. Перетаскивайте карточки, чтобы изменить их порядок, щелкайте по ним, чтобы изменить цвет, и используйте флажки, чтобы включить или отключить их. Порядок виджетов можно настроить, перетаскивая их по вертикали.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Настройка макета приборной панели';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Настройки темы';
 

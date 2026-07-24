@@ -11,7 +11,7 @@
 
 $lang['Clients.!error.read_only.format'] = 'Só de leitura deve ser um número.';
 $lang['Clients.!error.encrypted.length'] = 'A encriptação não pode exceder 1 carácter de comprimento.';
-$lang['Clients.!error.encrypted.format'] = 'A encriptação deve ser um número.';
+$lang['Clients.!error.encrypted.format'] = 'O valor de «Encrypted» deve ser 0 ou 1.';
 $lang['Clients.!error.client_field_id.matches'] = 'O campo personalizado é inválido.';
 $lang['Clients.!error.client_field_id.exists'] = 'ID de campo personalizado inválido.';
 $lang['Clients.!error.show_client.length'] = 'O cliente do espetáculo não pode exceder 1 carácter de comprimento.';
@@ -70,4 +70,10 @@ $lang['Clients.!error.payment_credit_limits.max_amount'] = 'O montante máximo d
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'O montante mínimo de crédito para %1$s deve ser superior a 0.';
 $lang['Clients.!error.action[].exists'] = 'Ação de notificação inválida.';
 $lang['Clients.!error.action.exists'] = 'Ação de notificação inválida "%1$s".';
+$lang['Clients.!error.current_passphrase.valid'] = 'A frase-passe introduzida não é válida.';
+$lang['Clients.!error.passphrase_hint.secure'] = 'A dica da frase-passe pode não ser a mesma que a frase-passe.';
+$lang['Clients.!error.passphrase_hint.length'] = 'O comprimento da dica da frase-passe não pode exceder 255 caracteres.';
+$lang['Clients.!error.passphrase_confirm.matches'] = 'As frases-passe introduzidas não coincidem.';
+$lang['Clients.!error.passphrase.length'] = 'A frase-passe deve ter, pelo menos, 8 caracteres.';
+$lang['Clients.!error.passphrase.empty'] = 'Introduza uma frase-passe para encriptar esta nota.';
 

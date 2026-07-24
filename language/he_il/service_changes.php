@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'מספר החשבונית כ
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'מספר חשבונית לא חוקי.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'מזהה שירות לא חוקי.';
 $lang['ServiceChanges.!error.id.exists'] = 'מזהה שינוי שירות לא חוקי.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'החשבונית כבר שולמה ואינה ניתנת לביטול.';
 

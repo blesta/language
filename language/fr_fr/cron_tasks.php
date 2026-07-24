@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Supprimer les jetons de réinitialisation de mot de passe expirés';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Envoie une notification à tous les utilisateurs dont le niveau de crédit est passé en dessous du seuil configuré.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notifications de solde faible';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Enregistre les données quotidiennes relatives au MRR, aux mouvements et aux agrégats de chiffre d\'affaires utilisés par le tableau de bord « Revenue Intelligence » de la section Rapports.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Aperçus sur l\'analyse des revenus';
 

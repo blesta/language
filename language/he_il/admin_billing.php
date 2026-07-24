@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.filter_toggle'] = 'החלף מסננים';
 $lang['AdminBilling.quotations.field_filtersubmit'] = 'החל מסננים';
 $lang['AdminBilling.quotations.field_filterclear'] = 'נקי';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'לחץ על הווידג\'טים כדי להציג או להסתיר אותם בלוח המחוונים שלך.';
+$lang['AdminBilling.services.heading_id'] = 'מספר שירות #';
 

@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Annuleren';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Klik op widgets om ze te tonen of te verbergen op je dashboard.';
 $lang['AdminMain.calendar.category_list'] = 'Lijst';
 $lang['AdminMain.calendar.category_today'] = 'Vandaag';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'De zijbalk weergeven (kalender en snelkoppelingen)';
 

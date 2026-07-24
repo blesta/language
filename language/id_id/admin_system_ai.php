@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Sertakan Definisi
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Sertakan informasi jenis bidang dan skema basis data dalam konteks.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Sertakan Contoh Data';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Sertakan nilai data sampel untuk membantu AI memahami format dan struktur data.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Model yang saat ini dipilih, "%1$s", tidak lagi tersedia. Fitur AI untuk sementara menggunakan "%2$s". Silakan pilih model default baru di bawah ini, lalu simpan.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Direkomendasikan)';
 

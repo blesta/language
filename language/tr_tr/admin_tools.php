@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Uyarı';
 $lang['AdminTools.logsystem.level_notice'] = 'Uyarı';
 $lang['AdminTools.logsystem.level_info'] = 'Bilgi';
 $lang['AdminTools.logsystem.level_debug'] = 'Hata Ayıklama';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Bu fatura zaten ödenmiştir ve kuyruktan iptal edilemez.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Beklemede olan bu hizmet değişikliğini iptal etmek istediğinizden emin misiniz? İlgili fatura zaten ödenmiştir ve iptal edilmeyecektir.';
 

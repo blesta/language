@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Alla fakturor måste ha samma v
 $lang['Invoices.!error.invoice_ids.count'] = 'Minst två fakturor måste väljas.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service på %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Engångstjänster kan inte förnyas.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proformafakturor kan endast slås samman med andra proformafakturor, och aktiva fakturor med andra aktiva fakturor.';
 

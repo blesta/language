@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'لا يجوز أن يتجاوز طول �
 $lang['CronTasks.!error.key.unique'] = 'مفتاح مهمة cron المقدم مأخوذ بالفعل.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'يرسل إشعارًا إلى جميع المستخدمين الذين انخفضت مستويات الائتمان لديهم عن الحد الذي تم تكوينه.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'إشعارات انخفاض الرصيد المنخفض';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'يسجل الإيرادات الشهرية المتكررة (MRR) وحركة المعاملات وبيانات الإيرادات المجمعة التي تستخدمها لوحة معلومات الإيرادات في قسم «التقارير».';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'لمحات سريعة عن معلومات الإيرادات';
 

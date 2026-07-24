@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerSettings.!error.company_id.exists'] = '公司 ID 无效。';
-$lang['MassMailerSettings.!error.settings[][key].empty'] = '无设置键可能为空。';
 $lang['MassMailerSettings.!error.settings[][value].length'] = '每个设置值的长度不得超过 255 个字符。';
+$lang['MassMailerSettings.!error.settings[][key].empty'] = '无设置键可能为空。';
+$lang['MassMailerSettings.!error.company_id.exists'] = '公司 ID 无效。';
 

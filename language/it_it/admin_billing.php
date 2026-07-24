@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Applicare i filtri';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Libero';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Filtri a levetta';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Fare clic sui widget per mostrarli o nasconderli dalla dashboard.';
+$lang['AdminBilling.services.heading_id'] = 'Servizio n.';
 

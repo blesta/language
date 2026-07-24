@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'דוחות';
 $lang['AdminReportsCustomize.!success.deleted'] = 'הדוח נמחק בהצלחה.';
 $lang['AdminReportsCustomize.!success.edited'] = 'הדוח עודכן בהצלחה.';
 $lang['AdminReportsCustomize.!success.added'] = 'הדוח התווסף בהצלחה.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'סקירה כללית';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'יצוא';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'חידושים';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'שימור';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'הכנסות';
 

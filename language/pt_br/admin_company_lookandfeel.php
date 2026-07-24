@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widgets do painel';
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Cartões';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configure quais cartões de estatísticas e widgets aparecem no painel do cliente. Arraste os cartões para alterar sua ordem, clique neles para alterar a cor e use as caixas de seleção para ativá-los ou desativá-los. A ordem dos widgets pode ser personalizada arrastando-os verticalmente.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Personalização do layout do painel';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Configurações do tema';
 

@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'Дължината на ключа на 
 $lang['CronTasks.!error.key.unique'] = 'Предоставеният ключ за задачата cron вече е зает.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Изпраща известие на всички потребители, чиито кредитни нива са паднали под конфигурирания праг.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Известия за нисък баланс';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Записва дневните данни за MRR, динамиката и обобщените приходи, използвани от информационния панел за приходи в „Отчети“.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Кратък преглед на данните за приходите';
 

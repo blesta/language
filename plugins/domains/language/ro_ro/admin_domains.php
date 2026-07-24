@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Statut';
 $lang['AdminDomains.whois.label_name_servers'] = 'Servere de nume';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Vă rugăm să introduceți un nume de domeniu valid';
+$lang['AdminDomains.browse.text_items_selected'] = 'articole selectate';
+$lang['AdminDomains.browse.text_item_selected'] = 'element selectat';
+$lang['AdminDomains.!success.queue_sync'] = 'Domeniile selectate au fost adăugate în coada de așteptare pentru sincronizare!';
 

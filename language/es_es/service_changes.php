@@ -18,4 +18,5 @@ $lang['ServiceChanges.status.pending'] = 'Pendiente';
 $lang['ServiceChanges.status.completed'] = 'Completado';
 $lang['ServiceChanges.status.error'] = 'Error';
 $lang['ServiceChanges.status.canceled'] = 'Cancelado';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'La factura ya se ha pagado y no se puede anular.';
 

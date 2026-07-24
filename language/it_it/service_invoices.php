@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Tipo di tentativo non valido.';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Consentire solo la cancellazione immediata';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Consentire la cancellazione solo a fine trimestre';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Consentire la cancellazione immediata o alla fine del trimestre';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Modifica';
 

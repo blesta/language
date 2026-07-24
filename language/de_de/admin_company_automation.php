@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Einstellungen > Unternehmen 
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Die Cron-Aufgabe wurde gelöscht.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Die Automatisierungseinstellungen wurden erfolgreich aktualisiert!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Es gibt Automatisierungsaufgaben, die jede Minute laufen sollen, aber Ihr Cron scheint nicht jede Minute zu laufen. Aktualisieren Sie Ihren Cron so, dass er jede Minute läuft, um die Vorteile dieser kürzeren Intervalle zu nutzen.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'In den letzten 24 Stunden wurden keine Automatisierungsaufgaben protokolliert.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'In der letzten Stunde wurden keine Automatisierungsaufträge protokolliert.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Noch nicht fertig';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Laufen';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Abgeschlossen';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Ausführung';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Aktualisieren';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Zeitleiste für die Aufgabenausführung - letzte 24 Stunden';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Zeitachse der Aufgabenausführung – Letzte Stunde';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Läufe:';
 

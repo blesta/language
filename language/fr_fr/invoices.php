@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Toutes les factures doivent avo
 $lang['Invoices.!error.invoice_ids.count'] = 'Au moins deux factures doivent être sélectionnées.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Les services uniques ne peuvent pas être renouvelés.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Les factures pro forma ne peuvent être fusionnées qu\'avec d\'autres factures pro forma, et les factures actives qu\'avec d\'autres factures actives.';
 

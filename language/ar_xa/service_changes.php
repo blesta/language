@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'تم تعيين معرف ا�
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'معرّف الفاتورة غير صالح.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'معرف الخدمة غير صالح.';
 $lang['ServiceChanges.!error.id.exists'] = 'معرف تغيير الخدمة غير صالح.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'تم سداد قيمة الفاتورة بالفعل ولا يمكن إلغاؤها.';
 

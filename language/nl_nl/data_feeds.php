@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['DataFeeds.!error.class.valid'] = 'De geleverde klasse is geen geldige gegevensfeederklasse.';
 $lang['DataFeeds.!error.dir.empty'] = 'Voer de plugin-directory in.';
 $lang['DataFeeds.!error.feed.valid'] = 'Voer de naam van de gegevensfeed in.';
+$lang['DataFeeds.!error.dir.valid'] = 'De map met plug-ins bevat ongeldige tekens.';
 

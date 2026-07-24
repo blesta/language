@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Sipariş Toplamı';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Kupon kodunu girin';
 $lang['AdminMain.edit.text_select_action'] = 'Bir eylemi gerçekleştirmek üzere formu görüntülemek için yukarıdaki bir düğmeye tıklayın.';
 $lang['AdminMain.edit.text_no_fields'] = 'Bu eylem herhangi bir ek seçenek gerektirmez. Devam etmek için Gönder\'e tıklayın.';
+$lang['AdminMain.index.text_items_selected'] = 'seçilen öğeler';
+$lang['AdminMain.index.text_item_selected'] = 'seçilen öğe';
+$lang['AdminMain.!success.queue_sync'] = 'Seçilen alan adları senkronizasyon için sıraya alınmıştır!';
 

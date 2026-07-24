@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Предупреждение';
 $lang['AdminTools.logsystem.level_notice'] = 'Известие';
 $lang['AdminTools.logsystem.level_info'] = 'Информация';
 $lang['AdminTools.logsystem.level_debug'] = 'Отстраняване на грешки';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Тази фактура вече е платена и не може да бъде анулирана от опашката.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Сигурен ли сте, че искате да отмените тази предстояща промяна в услугата? Съответната фактура вече е платена и няма да бъде анулирана.';
 

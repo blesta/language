@@ -103,4 +103,5 @@ $lang['Invoices.getPricingPeriods.year'] = 'שנה';
 $lang['Invoices.getPricingPeriods.month'] = 'חודש';
 $lang['Invoices.getPricingPeriods.week'] = 'שבוע';
 $lang['Invoices.getPricingPeriods.day'] = 'יום';
+$lang['Invoices.!error.invoice_ids.match'] = 'ניתן למזג חשבוניות פרופורמה רק עם חשבוניות פרופורמה אחרות, וחשבוניות פעילות רק עם חשבוניות פעילות אחרות.';
 

@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Anvend filtre';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Klar';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Skift mellem filtre';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klik på widgets for at vise eller skjule dem fra dit dashboard.';
+$lang['AdminBilling.services.heading_id'] = 'Servicenummer #';
 

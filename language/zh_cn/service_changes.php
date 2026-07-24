@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = '发票 ID 已为服务变更
 $lang['ServiceChanges.!error.invoice_id.exists'] = '发票 ID 无效。';
 $lang['ServiceChanges.!error.service_id.exists'] = '服务 ID 无效。';
 $lang['ServiceChanges.!error.id.exists'] = '服务更改 ID 无效。';
+$lang['ServiceChanges.!error.void_invoice.paid'] = '该发票已付款，无法作废。';
 

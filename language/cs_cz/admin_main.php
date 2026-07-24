@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = 'Zrušit';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = 'Kliknutím na widgety je zobrazíte nebo skryjete z hlavního panelu.';
 $lang['AdminMain.calendar.category_list'] = 'Seznam';
 $lang['AdminMain.calendar.category_today'] = 'Dnes';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = 'Zobrazit postranní panel (kalendář a rychlé odkazy)';
 

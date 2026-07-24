@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = 'ID faktur telah ditetapkan u
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'ID faktur tidak valid.';
 $lang['ServiceChanges.!error.service_id.exists'] = 'ID layanan tidak valid.';
 $lang['ServiceChanges.!error.id.exists'] = 'ID perubahan layanan tidak valid.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Faktur tersebut telah dibayar dan tidak dapat dibatalkan.';
 

@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Κατάσταση';
 $lang['AdminDomains.whois.label_name_servers'] = 'Εξυπηρετητές ονομάτων';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Παρακαλώ εισάγετε ένα έγκυρο όνομα τομέα';
+$lang['AdminDomains.browse.text_items_selected'] = 'επιλεγμένα στοιχεία';
+$lang['AdminDomains.browse.text_item_selected'] = 'επιλεγμένο στοιχείο';
+$lang['AdminDomains.!success.queue_sync'] = 'Οι επιλεγμένοι τομείς έχουν τεθεί στην ουρά για συγχρονισμό!';
 

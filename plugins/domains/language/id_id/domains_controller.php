@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Ubah Tan
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Ubah Tanggal Kedaluwarsa';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Hapus Penggantian Harga';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Tetapkan Penggantian Harga';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Sinkronisasi Antrian';
 

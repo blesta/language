@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = '警告';
 $lang['AdminTools.logsystem.level_notice'] = '通知';
 $lang['AdminTools.logsystem.level_info'] = '信息';
 $lang['AdminTools.logsystem.level_debug'] = '调试';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = '该发票已结清，无法从队列中作废。';
+$lang['AdminTools.renewals.modal_cancel_paid'] = '您确定要取消此待处理的服务变更吗？相关发票已支付，将不予作废。';
 

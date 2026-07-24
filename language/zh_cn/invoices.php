@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = '所有发票必须使用相同�
 $lang['Invoices.!error.invoice_ids.count'] = '必须至少选择两张发票。';
 $lang['Invoices.!line_item.parent_description'] = '儿童服务%1$s -%2$s ：';
 $lang['Invoices.!error.service.renew_onetime'] = '一次性服务不可续约。';
+$lang['Invoices.!error.invoice_ids.match'] = '形式发票只能与其他形式发票合并，而有效发票只能与其他有效发票合并。';
 

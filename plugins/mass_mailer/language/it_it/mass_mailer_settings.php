@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerSettings.!error.company_id.exists'] = 'ID azienda non valido.';
-$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Nessun tasto di impostazione può essere vuoto.';
 $lang['MassMailerSettings.!error.settings[][value].length'] = 'La lunghezza di ogni singolo valore di impostazione non può superare i 255 caratteri.';
+$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Nessun tasto di impostazione può essere vuoto.';
+$lang['MassMailerSettings.!error.company_id.exists'] = 'ID azienda non valido.';
 

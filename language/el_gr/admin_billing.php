@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Εφαρμόστε φίλ
 $lang['AdminBilling.quotations.field_filterclear'] = 'Σαφής';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Εναλλαγή φίλτρων';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Κάντε κλικ στα widgets για να τα εμφανίσετε ή να τα αποκρύψετε από το ταμπλό σας.';
+$lang['AdminBilling.services.heading_id'] = 'Αριθμός υπηρεσίας #';
 

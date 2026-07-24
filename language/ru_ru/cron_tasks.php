@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Удаление просроченных токенов сброса пароля';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Отправляет уведомление всем пользователям, чей кредитный уровень упал ниже настроенного порога.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Уведомления о низком балансе';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Записывает ежедневные сводные данные по MRR, динамике и выручке, которые используются в информационной панели «Выручка» модуля «Отчеты».';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Краткий обзор аналитики выручки';
 

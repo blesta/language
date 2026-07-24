@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Total comandă';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Introduceți codul cuponului';
 $lang['AdminMain.edit.text_select_action'] = 'Faceți clic pe un buton de mai sus pentru a afișa formularul pentru a efectua o acțiune.';
 $lang['AdminMain.edit.text_no_fields'] = 'Această acțiune nu necesită opțiuni suplimentare. Faceți clic pe Submit (Trimitere) pentru a continua.';
+$lang['AdminMain.index.text_items_selected'] = 'articole selectate';
+$lang['AdminMain.index.text_item_selected'] = 'element selectat';
+$lang['AdminMain.!success.queue_sync'] = 'Domeniile selectate au fost adăugate în coada de așteptare pentru sincronizare!';
 

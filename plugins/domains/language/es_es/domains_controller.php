@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Cambiar 
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Modificar la fecha de expiración';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Eliminar la anulación de precios';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Fijar precio';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Sincronización de colas';
 

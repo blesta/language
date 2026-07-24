@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_sftp.success'] = 'اكتمل النسخ الاحتياطي بنجاح.';
-$lang['Automation.task.backups_sftp.completed'] = 'اكتملت مهمة النسخ الاحتياطي لقاعدة بيانات SFTP.';
 $lang['Automation.task.backups_sftp.attempt'] = 'محاولة النسخ الاحتياطي لقاعدة البيانات عبر SFTP.';
+$lang['Automation.task.backups_sftp.completed'] = 'اكتملت مهمة النسخ الاحتياطي لقاعدة بيانات SFTP.';
+$lang['Automation.task.backups_sftp.success'] = 'اكتمل النسخ الاحتياطي بنجاح.';
 

@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'تضمين تعر
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'تضمين معلومات نوع الحقل ومخططات قاعدة البيانات في السياق.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'تضمين بيانات الأمثلة';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'تضمين نموذج قيم بيانات لمساعدة الذكاء الاصطناعي على فهم تنسيقات البيانات وهيكلها.';
+$lang['AdminSystemAi.index.degraded_model'] = 'النموذج المحدد حاليًا «%1$s » لم يعد متاحًا. تستخدم ميزات الذكاء الاصطناعي مؤقتًا «%2$s ». يرجى اختيار نموذج افتراضي جديد من الأسفل وحفظه.';
+$lang['AdminSystemAi.index.model_recommended'] = '(موصى به)';
 

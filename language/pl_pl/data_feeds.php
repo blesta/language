@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firm
 $lang['DataFeeds.!error.class.valid'] = 'Podana klasa nie jest prawidłową klasą źródła danych.';
 $lang['DataFeeds.!error.dir.empty'] = 'Wprowadź katalog wtyczek.';
 $lang['DataFeeds.!error.feed.valid'] = 'Wprowadź nazwę źródła danych.';
+$lang['DataFeeds.!error.dir.valid'] = 'Katalog wtyczek zawiera nieprawidłowe znaki.';
 

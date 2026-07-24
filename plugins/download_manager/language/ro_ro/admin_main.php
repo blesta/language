@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'NOTĂ: Fișierele trebuie să fie locali
 $lang['AdminMain.add.field_file_type'] = 'Sursă fișier';
 $lang['AdminMain.add.upload'] = 'Încărcare fișier';
 $lang['AdminMain.add.path'] = 'Specificați calea către fișier';
+$lang['AdminMain.!error.post_max_size'] = 'Fișierul pe care ați încercat să îl încărcați este prea mare. Acesta depășește dimensiunea maximă de încărcare a acestui server, stabilită la %1$s. Vă rugăm să încărcați un fișier mai mic sau să solicitați administratorului serverului să mărească setările PHP „post_max_size” și „upload_max_filesize”.';
 

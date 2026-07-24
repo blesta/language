@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = 'Relatórios';
 $lang['AdminReportsCustomize.!success.deleted'] = 'O relatório foi eliminado com êxito.';
 $lang['AdminReportsCustomize.!success.edited'] = 'O relatório foi atualizado com sucesso.';
 $lang['AdminReportsCustomize.!success.added'] = 'O relatório foi adicionado com sucesso.';
+$lang['AdminReportsCustomize.index.tab_overview'] = 'Visão geral';
+$lang['AdminReportsCustomize.index.tab_exports'] = 'Exportações';
+$lang['AdminReportsCustomize.index.tab_renewals'] = 'Renovações';
+$lang['AdminReportsCustomize.index.tab_retention'] = 'Retenção';
+$lang['AdminReportsCustomize.index.tab_revenue'] = 'Receitas';
 

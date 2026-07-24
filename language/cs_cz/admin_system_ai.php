@@ -89,4 +89,6 @@ $lang['AdminSystemAi.index.field.ai_email_context_schemas'] = 'Zahrnout definice
 $lang['AdminSystemAi.index.text_email_context_schemas'] = 'Zahrňte do kontextu informace o typu pole a databázová schémata.';
 $lang['AdminSystemAi.index.field.ai_email_context_examples'] = 'Zahrňte příkladová data';
 $lang['AdminSystemAi.index.text_email_context_examples'] = 'Zahrňte vzorové hodnoty dat, abyste umělé inteligenci pomohli pochopit formáty a strukturu dat.';
+$lang['AdminSystemAi.index.degraded_model'] = 'Aktuálně vybraný model „%1$s “ již není k dispozici. Funkce umělé inteligence dočasně využívají model „%2$s “. Vyberte si prosím níže nový výchozí model a uložte změnu.';
+$lang['AdminSystemAi.index.model_recommended'] = '(Doporučeno)';
 

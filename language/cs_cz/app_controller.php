@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Načítání...';
 $lang['AppController.modal.btn_delete'] = 'Odstranit';
 $lang['AppController.modal.btn_cancel'] = 'Zrušit';
 $lang['AppController.modal.confirm_delete'] = 'Potvrzení Odstranit';
+$lang['AppController.structure.notification_company_tooltip'] = 'Patří k %1$s';
 

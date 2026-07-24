@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = '公司 ID 无效。';
 $lang['DataFeeds.!error.class.valid'] = '提供的类不是有效的数据源类。';
 $lang['DataFeeds.!error.dir.empty'] = '请输入插件目录。';
 $lang['DataFeeds.!error.feed.valid'] = '请输入数据源名称。';
+$lang['DataFeeds.!error.dir.valid'] = '插件目录中包含无效字符。';
 

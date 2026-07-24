@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'NOTA: Los archivos deben estar ubicados 
 $lang['AdminMain.add.field_file_type'] = 'Fuente del archivo';
 $lang['AdminMain.add.upload'] = 'Cargar archivo';
 $lang['AdminMain.add.path'] = 'Especifique la ruta al archivo';
+$lang['AdminMain.!error.post_max_size'] = 'El archivo que has intentado subir es demasiado grande. Supera el tamaño máximo de subida de este servidor, que es de %1$s. Sube un archivo más pequeño o pide al administrador del servidor que aumente los parámetros de PHP «post_max_size» y «upload_max_filesize».';
 

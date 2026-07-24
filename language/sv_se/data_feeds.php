@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['DataFeeds.!error.class.valid'] = 'Den angivna klassen är inte en giltig dataflödeklass.';
 $lang['DataFeeds.!error.dir.empty'] = 'Vänligen ange plugin-katalogen.';
 $lang['DataFeeds.!error.feed.valid'] = 'Ange namnet på dataflödet.';
+$lang['DataFeeds.!error.dir.valid'] = 'Plugin-katalogen innehåller ogiltiga tecken.';
 

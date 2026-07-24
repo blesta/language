@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Заказ Всего';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Введите код купона';
 $lang['AdminMain.edit.text_select_action'] = 'Нажмите кнопку выше, чтобы отобразить форму для выполнения действия.';
 $lang['AdminMain.edit.text_no_fields'] = 'Это действие не требует дополнительных опций. Нажмите кнопку Отправить, чтобы продолжить.';
+$lang['AdminMain.index.text_items_selected'] = 'выбранные товары';
+$lang['AdminMain.index.text_item_selected'] = 'выбранный элемент';
+$lang['AdminMain.!success.queue_sync'] = 'Выбранные домены добавлены в очередь на синхронизацию!';
 

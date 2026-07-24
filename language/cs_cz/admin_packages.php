@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Použít filtry';
 $lang['AdminPackages.index.field_filterclear'] = 'Přehledně';
 $lang['AdminPackages.index.filter_toggle'] = 'Přepínání filtrů';
 $lang['AdminPackages.index.items_selected'] = 'vybrané položky';
+$lang['AdminPackages.index.action.change_status'] = 'Změnit stav';
+$lang['AdminPackages.index.action.delete_packages'] = 'Odstranit balíčky';
+$lang['AdminPackages.!error.status_required'] = 'Vyberte prosím stav, o který chcete požádat.';
+$lang['AdminPackages.!success.change_status'] = 'Stavy balíčků byly úspěšně aktualizovány.';
+$lang['AdminPackages.!success.delete_packages'] = 'Balíčky byly úspěšně odstraněny.';
 

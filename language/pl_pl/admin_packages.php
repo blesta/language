@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = 'Zastosuj filtry';
 $lang['AdminPackages.index.field_filterclear'] = 'Wyczyść';
 $lang['AdminPackages.index.filter_toggle'] = 'Przełączanie filtrów';
 $lang['AdminPackages.index.items_selected'] = 'wybrane elementy';
+$lang['AdminPackages.index.action.change_status'] = 'Zmień status';
+$lang['AdminPackages.index.action.delete_packages'] = 'Usuń pakiety';
+$lang['AdminPackages.!error.status_required'] = 'Proszę wybrać status, o który chcesz się ubiegać.';
+$lang['AdminPackages.!success.change_status'] = 'Statusy pakietów zostały pomyślnie zaktualizowane.';
+$lang['AdminPackages.!success.delete_packages'] = 'Pakiety zostały pomyślnie usunięte.';
 

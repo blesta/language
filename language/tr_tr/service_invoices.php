@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Geçersiz girişim türü.';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Yalnızca anında iptale izin verin';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Yalnızca dönem sonu iptaline izin ver';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Anında veya dönem sonunda iptale izin verin';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Değişiklik';
 

@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'סטטוס';
 $lang['AdminDomains.whois.label_name_servers'] = 'שרתי שמות';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'אנא הזן שם תחום תקף';
+$lang['AdminDomains.browse.text_items_selected'] = 'הפריטים שנבחרו';
+$lang['AdminDomains.browse.text_item_selected'] = 'הפריט שנבחר';
+$lang['AdminDomains.!success.queue_sync'] = 'הדומיינים שנבחרו הוכנסו לתור לסנכרון!';
 

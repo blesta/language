@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'تحذير';
 $lang['AdminTools.logsystem.level_notice'] = 'إشعار';
 $lang['AdminTools.logsystem.level_info'] = 'المعلومات';
 $lang['AdminTools.logsystem.level_debug'] = 'التصحيح';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'تم سداد هذه الفاتورة بالفعل ولا يمكن إلغاؤها من قائمة الانتظار.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'هل أنت متأكد من رغبتك في إلغاء هذا التغيير المعلق في الخدمة؟ لقد تم سداد الفاتورة ذات الصلة بالفعل ولن يتم إلغاؤها.';
 

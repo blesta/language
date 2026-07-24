@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Настройки &gt; Ко
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Задачата cron е изтрита.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Настройките за автоматизация бяха успешно актуализирани!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Задачите за автоматизация са настроени да се изпълняват всяка минута, но изглежда, че вашият cron не се изпълнява всяка минута. Актуализирайте cron-а, така че да се изпълнява на всяка минута, за да се възползвате от тези по-кратки интервали.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'През последните 24 часа не са регистрирани изпълнения на задачи за автоматизация.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'През последния час не са регистрирани изпълнения на задачи за автоматизация.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Все още не е завършен';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Работещ';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Завършен';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Изпълнение';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Обновяване';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Хронология на изпълнението на задачите - последните 24 часа';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'График за изпълнение на задачите – през последния час';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Изпълнения:';
 

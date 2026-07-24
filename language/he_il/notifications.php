@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'מידע';
 $lang['Notifications.getTypes.success'] = 'הצלחה';
 $lang['Notifications.getTypes.warning'] = 'אזהרה';
 $lang['Notifications.getTypes.danger'] = 'סכנה';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'הודעה הנשלחת כאשר מודל ה-AI שהוגדר אינו זמין עוד, ובמקומו נעשה שימוש במודל חלופי.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'מודל ה-AI אינו זמין';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.description'] = 'يتيح لك نظام إدارة المحتوى إنشاء صفحات إضافية في بليستا الخاص بك.';
 $lang['CmsPlugin.index.title'] = 'بوابة العميل';
+$lang['CmsPlugin.description'] = 'يتيح لك نظام إدارة المحتوى إنشاء صفحات إضافية في بليستا الخاص بك.';
 $lang['CmsPlugin.name'] = 'CMS';
 $lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

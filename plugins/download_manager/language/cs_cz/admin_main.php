@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'POZNÁMKA: Soubory musí být umístěny
 $lang['AdminMain.add.field_file_type'] = 'Zdroj souborů';
 $lang['AdminMain.add.upload'] = 'Nahrát soubor';
 $lang['AdminMain.add.path'] = 'Zadejte cestu k souboru';
+$lang['AdminMain.!error.post_max_size'] = 'Soubor, který jste se pokusili nahrát, je příliš velký. Překračuje maximální velikost souboru pro nahrání na tomto serveru, která je nastavena na %1$s. Nahrajte prosím menší soubor nebo požádejte správce serveru, aby zvýšil nastavení PHP „post_max_size“ a „upload_max_filesize“.';
 

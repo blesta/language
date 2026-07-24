@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Nastavení > Společnost > A
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'Úloha cron byla vymazána.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'Nastavení automatizace bylo úspěšně aktualizováno!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Automatizační úlohy jsou nastaveny tak, aby se spouštěly každou minutu, ale nezdá se, že by se váš cron spouštěl každou minutu. Aktualizujte cron tak, aby se spouštěl každou minutu, a využijte tak kratší intervaly.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Za posledních 24 hodin nebylo zaznamenáno žádné spuštění automatizační úlohy.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'V uplynulé hodině nebyly zaznamenány žádné spuštěné automatizační úlohy.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Ještě není dokončeno';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Běh';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Dokončeno';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Provedení';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Obnovit';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Časová osa provádění úloh - posledních 24 hodin';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Časová osa provádění úkolů – poslední hodina';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Běhy:';
 

@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'ЗАБЕЛЕЖКА: Файловете �
 $lang['AdminMain.add.field_file_type'] = 'Източник на файлове';
 $lang['AdminMain.add.upload'] = 'Качване на файл';
 $lang['AdminMain.add.path'] = 'Посочете пътя към файла';
+$lang['AdminMain.!error.post_max_size'] = 'Файлът, който се опитахте да качите, е прекалено голям. Той надвишава максималния размер за качване на този сървър, който е %1$s. Моля, качете по-малък файл или помолете администратора на сървъра да увеличи настройките на PHP „post_max_size“ и „upload_max_filesize“.';
 

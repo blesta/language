@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Daftar Kutipan';
 $lang['StaffGroups.permissions.admin_system_ai'] = 'AI';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'Kembalikan Cuplikan Templat Email';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Pemeriksaan Integritas Sistem';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Perbarui Data Intelijen Pendapatan';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Data Perpanjangan Layanan Intelijen Pendapatan';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Data Retensi Intelijen Pendapatan';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Intelijen Pendapatan Data Pendapatan';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Gambaran Umum Data Intelijen Pendapatan';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Catatan Dekripsi';
 

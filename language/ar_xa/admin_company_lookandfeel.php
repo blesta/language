@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'أدوات لوحة �
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'البطاقات';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'قم بتكوين بطاقات الإحصائيات والأدوات التي تظهر على لوحة معلومات العميل. اسحب البطاقات لتغيير ترتيبها، وانقر عليها لتغيير اللون، واستخدم مربعات الاختيار لتمكينها أو تعطيلها. يمكن تخصيص ترتيب الأدوات عن طريق سحبها عموديًا.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'تخصيص تخطيط لوحة المعلومات';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'إعدادات السمة';
 

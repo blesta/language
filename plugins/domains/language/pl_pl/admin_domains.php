@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Status';
 $lang['AdminDomains.whois.label_name_servers'] = 'Serwery nazw';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Wprowadź prawidłową nazwę domeny';
+$lang['AdminDomains.browse.text_items_selected'] = 'wybrane pozycje';
+$lang['AdminDomains.browse.text_item_selected'] = 'wybrany element';
+$lang['AdminDomains.!success.queue_sync'] = 'Wybrane domeny zostały umieszczone w kolejce do synchronizacji!';
 

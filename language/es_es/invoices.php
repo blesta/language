@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Todas las facturas deben tener 
 $lang['Invoices.!error.invoice_ids.count'] = 'Deben seleccionarse al menos dos facturas.';
 $lang['Invoices.!line_item.parent_description'] = 'Servicio Infantil de %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Los servicios prestados una sola vez no pueden renovarse.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Las facturas proforma solo se pueden fusionar con otras facturas proforma, y las facturas activas, con otras facturas activas.';
 

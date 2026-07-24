@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = '删除�
 $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '从系统中删除过期的所有密码重置令牌。';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = '向所有信用级别低于配置阈值的用户发送通知。';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = '余额不足通知';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = '记录“报告”收入智能仪表盘所使用的每日MRR、流量和收入汇总数据。';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = '收入情报快照';
 

@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Zastosuj filtry';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Wyczyść';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Przełączanie filtrów';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Kliknij widżety, aby wyświetlić lub ukryć je na pulpicie nawigacyjnym.';
+$lang['AdminBilling.services.heading_id'] = 'Numer usługi #';
 

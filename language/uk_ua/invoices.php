@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Всі інвойси пови�
 $lang['Invoices.!error.invoice_ids.count'] = 'Необхідно вибрати принаймні два інвойси.';
 $lang['Invoices.!line_item.parent_description'] = 'Служба у справах дітей %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Одноразові послуги не можуть бути продовжені.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Проформа-інвойси можна об\'єднувати лише з іншими проформа-інвойсами, а активні інвойси — лише з іншими активними інвойсами.';
 

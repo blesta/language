@@ -364,4 +364,7 @@ $lang['AdminDomains.whois.label_status'] = 'Stato';
 $lang['AdminDomains.whois.label_name_servers'] = 'Server dei nomi';
 $lang['AdminDomains.whois.label_dnssec'] = 'DNSSEC';
 $lang['AdminDomains.whois.error_invalid_domain'] = 'Inserire un nome di dominio valido';
+$lang['AdminDomains.browse.text_items_selected'] = 'articoli selezionati';
+$lang['AdminDomains.browse.text_item_selected'] = 'articolo selezionato';
+$lang['AdminDomains.!success.queue_sync'] = 'I domini selezionati sono stati inseriti nella coda per la sincronizzazione!';
 

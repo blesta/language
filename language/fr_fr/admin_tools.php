@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Avertissement';
 $lang['AdminTools.logsystem.level_notice'] = 'Avis';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Débogage';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Cette facture a déjà été réglée et ne peut pas être annulée depuis la file d\'attente.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Êtes-vous sûr de vouloir annuler cette modification de service en attente ? La facture correspondante a déjà été réglée et ne sera pas annulée.';
 

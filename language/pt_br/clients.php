@@ -10,7 +10,7 @@
  */
 
 $lang['Clients.!error.encrypted.length'] = 'A criptografia não pode exceder 1 caractere de comprimento.';
-$lang['Clients.!error.encrypted.format'] = 'Criptografado deve ser um número.';
+$lang['Clients.!error.encrypted.format'] = 'O valor de “Encrypted” deve ser 0 ou 1.';
 $lang['Clients.customfield.cf2'] = 'Campo personalizado';
 $lang['Clients.setDebitAccountFailure.note_body'] = 'A conta de pagamento %1$s que termina em x%2$s foi desativada porque excedeu o número máximo de tentativas de recusa.';
 $lang['Clients.setDebitAccountFailure.note_title'] = 'Débito automático desativado para a conta de pagamento.';
@@ -70,4 +70,10 @@ $lang['Clients.!error.payment_credit_limits.max_amount'] = 'O valor máximo de c
 $lang['Clients.!error.payment_credit_limits.min_amount'] = 'O valor mínimo de crédito para %1$s deve ser maior que 0.';
 $lang['Clients.!error.action[].exists'] = 'Ação de notificação inválida.';
 $lang['Clients.!error.action.exists'] = 'Ação de notificação inválida "%1$s".';
+$lang['Clients.!error.current_passphrase.valid'] = 'A senha digitada não é válida.';
+$lang['Clients.!error.passphrase_hint.secure'] = 'A dica da senha não pode ser igual à senha.';
+$lang['Clients.!error.passphrase_hint.length'] = 'O comprimento da dica da senha não pode exceder 255 caracteres.';
+$lang['Clients.!error.passphrase_confirm.matches'] = 'As senhas digitadas não coincidem.';
+$lang['Clients.!error.passphrase.length'] = 'A senha deve ter pelo menos 8 caracteres.';
+$lang['Clients.!error.passphrase.empty'] = 'Digite uma senha para criptografar esta nota.';
 

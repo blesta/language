@@ -23,4 +23,5 @@ $lang['ServiceInvoices.!error.type.valid'] = 'Tip de încercare invalid.';
 $lang['ServiceInvoices.getCancelOptions.now'] = 'Permiteți numai anularea imediată';
 $lang['ServiceInvoices.getCancelOptions.end_of_term'] = 'Permiteți numai anularea la sfârșitul trimestrului';
 $lang['ServiceInvoices.getCancelOptions.both'] = 'Permiteți anularea imediată sau la sfârșitul termenului';
+$lang['ServiceInvoices.getattempttypes.change'] = 'Modificare';
 

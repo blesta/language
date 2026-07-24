@@ -18,4 +18,5 @@ $lang['ServiceChanges.!error.invoice_id.unique'] = '인보이스 ID는 이미 �
 $lang['ServiceChanges.!error.invoice_id.exists'] = '잘못된 인보이스 ID입니다.';
 $lang['ServiceChanges.!error.service_id.exists'] = '잘못된 서비스 ID입니다.';
 $lang['ServiceChanges.!error.id.exists'] = '잘못된 서비스 변경 ID입니다.';
+$lang['ServiceChanges.!error.void_invoice.paid'] = '해당 청구서는 이미 결제되었으므로 취소할 수 없습니다.';
 

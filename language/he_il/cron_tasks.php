@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'אורך מפתח משימת cron לא �
 $lang['CronTasks.!error.key.unique'] = 'מפתח משימת cron שסופק כבר בשימוש.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'התראות על יתרה נמוכה';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'שולח התראה לכל המשתמשים שרמת האשראי שלהם ירדה מתחת לסף שהוגדר עבורם.';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'מתעד את נתוני ה-MRR היומיים, את הפעילות ואת סיכומי ההכנסות המשמשים את לוח המחוונים "Reports Revenue Intelligence".';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'תמונת מצב של ניתוח הכנסות';
 

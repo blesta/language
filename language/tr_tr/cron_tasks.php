@@ -69,4 +69,6 @@ $lang['CronTasks.!error.key.length'] = 'Cron görev anahtarı uzunluğu 64 karak
 $lang['CronTasks.!error.key.unique'] = 'Sağlanan cron görev anahtarı zaten alınmış.';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Kredi seviyeleri yapılandırılmış eşiğin altına düşen tüm kullanıcılara bir bildirim gönderir.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Düşük Bakiye Bildirimleri';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Raporlar gelir analizi paneli tarafından kullanılan günlük MRR, hareket ve gelir toplamlarını kaydeder.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Gelir Analizi Özetleri';
 

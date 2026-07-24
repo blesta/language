@@ -25,7 +25,7 @@ $lang['DirectAdmin.!error.meta[ip].empty'] = 'En IP-adresse er påkrævet.';
 $lang['DirectAdmin.!error.direct_admin_domain.format'] = 'Indtast venligst et gyldigt domænenavn af formen: domain.com';
 $lang['DirectAdmin.!error.direct_admin_username.format'] = 'Brugernavnet må kun indeholde alfanumeriske tegn.';
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'Brugernavnet skal være mellem 4 og 8 tegn langt.';
-$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Sørg for, at adgangskoden indeholder følgende: Mindst 12 tegn, mindst 1 stort bogstav A-Z, mindst 1 lille bogstav a-z, mindst 1 tal 0-9, og mindst 1 specialtegn fra sættet: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
+$lang['DirectAdmin.!error.direct_admin_password.format'] = 'Sørg for, at adgangskoden indeholder følgende: Mindst 12 tegn, mindst 1 stort bogstav A-Z, mindst 1 lille bogstav a-z, mindst 1 tal 0-9 og mindst 1 specialtegn fra følgende sæt: !"#$%&amp;\'()*+,-./:;=?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'Password og Confirm Password stemmer ikke overens.';
 $lang['DirectAdmin.!error.direct_admin_email.format'] = 'Indtast venligst en gyldig e-mailadresse.';
 $lang['DirectAdmin.!error.change_package.type'] = 'Modulet understøtter ikke skift mellem bruger- og forhandlerpakker.';

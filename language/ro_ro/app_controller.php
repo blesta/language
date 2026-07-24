@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Încărcare...';
 $lang['AppController.modal.btn_delete'] = 'Ștergeți';
 $lang['AppController.modal.btn_cancel'] = 'Anulează';
 $lang['AppController.modal.confirm_delete'] = 'Confirmare Ștergere';
+$lang['AppController.structure.notification_company_tooltip'] = 'Aparține %1$s';
 

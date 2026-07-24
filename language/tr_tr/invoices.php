@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Tüm faturalar aynı para birim
 $lang['Invoices.!error.invoice_ids.count'] = 'En az iki fatura seçilmelidir.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Tek seferlik hizmetler yenilenemez.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Proforma faturalar yalnızca diğer proforma faturalarla, aktif faturalar ise yalnızca diğer aktif faturalarla birleştirilebilir.';
 

@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'BEMÆRK: Filerne skal være placeret et 
 $lang['AdminMain.add.field_file_type'] = 'Filkilde';
 $lang['AdminMain.add.upload'] = 'Upload fil';
 $lang['AdminMain.add.path'] = 'Angiv sti til fil';
+$lang['AdminMain.!error.post_max_size'] = 'Den fil, du forsøgte at uploade, er for stor. Den overskrider denne servers maksimale uploadstørrelse på %1$s. Upload venligst en mindre fil, eller bed din serveradministrator om at øge PHP-indstillingerne »post_max_size« og »upload_max_filesize«.';
 

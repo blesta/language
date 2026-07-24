@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Varning';
 $lang['AdminTools.logsystem.level_notice'] = 'Meddelande';
 $lang['AdminTools.logsystem.level_info'] = 'Information';
 $lang['AdminTools.logsystem.level_debug'] = 'Felsökning';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Denna faktura har redan betalats och kan inte tas bort från kön.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Är du säker på att du vill avbryta den här väntande tjänsteändringen? Den tillhörande fakturan har redan betalats och kommer inte att annulleras.';
 

@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Попередження';
 $lang['AdminTools.logsystem.level_notice'] = 'Повідомлення';
 $lang['AdminTools.logsystem.level_info'] = 'Інформація';
 $lang['AdminTools.logsystem.level_debug'] = 'Налагодження';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Цей рахунок-фактура вже оплачено, тому його неможливо вилучити з черги.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Ви впевнені, що хочете скасувати цю заплановану зміну послуги? Відповідний рахунок-фактура вже оплачено, і його не буде анульовано.';
 

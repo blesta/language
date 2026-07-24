@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = 'Zamówienie Razem';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = 'Wprowadź kod kuponu';
 $lang['AdminMain.edit.text_select_action'] = 'Kliknij przycisk powyżej, aby wyświetlić formularz do wykonania akcji.';
 $lang['AdminMain.edit.text_no_fields'] = 'Ta czynność nie wymaga żadnych dodatkowych opcji. Kliknij przycisk Prześlij, aby kontynuować.';
+$lang['AdminMain.index.text_items_selected'] = 'wybrane pozycje';
+$lang['AdminMain.index.text_item_selected'] = 'wybrany element';
+$lang['AdminMain.!success.queue_sync'] = 'Wybrane domeny zostały umieszczone w kolejce do synchronizacji!';
 

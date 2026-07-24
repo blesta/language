@@ -128,4 +128,5 @@ $lang['AdminMain.add.text_fileinfo'] = 'NOTA: i file devono trovarsi da qualche 
 $lang['AdminMain.add.field_file_type'] = 'Fonte del file';
 $lang['AdminMain.add.upload'] = 'Caricare il file';
 $lang['AdminMain.add.path'] = 'Specificare il percorso del file';
+$lang['AdminMain.!error.post_max_size'] = 'Il file che hai tentato di caricare è troppo grande. Supera la dimensione massima consentita per il caricamento su questo server, pari a %1$s. Ti preghiamo di caricare un file più piccolo oppure di chiedere all\'amministratore del server di aumentare le impostazioni PHP "post_max_size" e "upload_max_filesize".';
 

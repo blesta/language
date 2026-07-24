@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Todas as faturas devem ter a me
 $lang['Invoices.!error.invoice_ids.count'] = 'Pelo menos duas faturas devem ser selecionadas.';
 $lang['Invoices.!line_item.parent_description'] = 'Child Service of %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Os serviços únicos não podem ser renovados.';
+$lang['Invoices.!error.invoice_ids.match'] = 'As notas fiscais pró-forma só podem ser combinadas com outras notas fiscais pró-forma, e as notas fiscais ativas, com outras notas fiscais ativas.';
 

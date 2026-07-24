@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.getintervals.text_minute'] = 'minut';
 $lang['AdminCompanyAutomation.getintervals.text_minutes'] = 'minutter';
 $lang['AdminCompanyAutomation.getintervals.text_hour'] = 'time';
 $lang['AdminCompanyAutomation.getintervals.text_hours'] = 'timer';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Der blev ikke logget nogen automatiseringsopgaver inden for de sidste 24 timer.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Der er ikke registreret nogen kørsler af automatiseringsopgaver i løbet af den seneste time.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Ikke færdig endnu';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Løb';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Afsluttet';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Udførelse';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Opdatering';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Tidslinje for udførelse af opgaver - sidste 24 timer';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Tidslinje for opgavens udførelse – den seneste time';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Kører:';
 

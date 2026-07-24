@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_company_billing_credithandling'] = 'טיפ�
 $lang['StaffGroups.permissions.admin_system_ai'] = 'בינה מלאכותית';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'שחזור תמונת מצב של תבנית דוא"ל';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'בדיקת תקינות המערכת';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'רענון נתוני ניתוח הכנסות';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'נתוני חידושי שירותי ניתוח הכנסות';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'נתוני שימור בתחום ניתוח הכנסות';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'ניתוח הכנסות נתוני הכנסות';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'נתוני סקירה כללית בנושא מודיעין הכנסות';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'הערה בנושא פענוח';
 

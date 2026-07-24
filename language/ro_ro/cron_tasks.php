@@ -69,4 +69,6 @@ $lang['CronTasks.crontask.description.delete_expired_password_reset_tokens'] = '
 $lang['CronTasks.crontask.name.delete_expired_password_reset_tokens'] = 'Ștergeți jetoanele de resetare a parolei expirate';
 $lang['CronTasks.crontask.description.low_balance_notifications'] = 'Trimite o notificare tuturor utilizatorilor ale căror niveluri de credit au scăzut sub pragul configurat.';
 $lang['CronTasks.crontask.name.low_balance_notifications'] = 'Notificări privind soldul scăzut';
+$lang['CronTasks.crontask.description.analytics_snapshots'] = 'Înregistrează valorile zilnice ale MRR, ale mișcărilor și ale veniturilor agregate utilizate de tabloul de bord de analiză a veniturilor din secțiunea „Rapoarte”.';
+$lang['CronTasks.crontask.name.analytics_snapshots'] = 'Sinteze privind informațiile referitoare la venituri';
 

@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'Instellingen > Bedrijf > Aut
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'De crontaak is gewist.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'De Automatiseringsinstellingen zijn succesvol bijgewerkt!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'Er zijn automatiseringstaken ingesteld om elke minuut te draaien, maar je cron lijkt niet elke minuut te draaien. Werk je cron bij zodat deze elke minuut wordt uitgevoerd om te profiteren van deze kortere intervallen.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Er zijn de afgelopen 24 uur geen automatiseringstaken uitgevoerd.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'Er zijn het afgelopen uur geen automatiseringstaken uitgevoerd.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'Nog niet klaar';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'Hardlopen';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'Voltooid';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'Uitvoering';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'Vernieuw';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Tijdlijn taakuitvoering - laatste 24 uur';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'Tijdlijn van de taakuitvoering – Afgelopen uur';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'Aantal keren:';
 

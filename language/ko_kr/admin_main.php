@@ -55,4 +55,5 @@ $lang['AdminMain.index.modal_delete_quicklink_cancel'] = '취소';
 $lang['AdminMain.managewidgets.text_toggle_widgets'] = '위젯을 클릭하여 대시보드에서 위젯을 표시하거나 숨깁니다.';
 $lang['AdminMain.calendar.category_list'] = '목록';
 $lang['AdminMain.calendar.category_today'] = '오늘';
+$lang['AdminMain.managewidgets.text_toggle_sidebar'] = '사이드바(달력 및 바로가기 링크) 표시';
 

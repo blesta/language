@@ -10,6 +10,6 @@
  */
 
 $lang['AiMessages.!error.content.empty'] = 'De inhoud van het bericht kan niet leeg zijn.';
-$lang['AiMessages.!error.role.valid'] = 'Ongeldige berichtrol.';
 $lang['AiMessages.!error.conversation_id.exists'] = 'Ongeldig gesprek-ID.';
+$lang['AiMessages.!error.role.valid'] = 'Ongeldige berichtrol.';
 

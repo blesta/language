@@ -16,4 +16,5 @@ $lang['DataFeeds.!error.company_id.exists'] = 'ID de l\'entreprise non valide.';
 $lang['DataFeeds.!error.endpoint.valid'] = 'Veuillez saisir le point final.';
 $lang['DataFeeds.!error.enabled.valid'] = 'L\'option activée doit être réglée sur 1 ou 0.';
 $lang['DataFeeds.execute.endpoint_not_found'] = 'Le point d\'accès demandé n\'existe pas.';
+$lang['DataFeeds.!error.dir.valid'] = 'Le répertoire des plugins contient des caractères non valides.';
 

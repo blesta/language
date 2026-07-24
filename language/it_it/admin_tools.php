@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Avvertenze';
 $lang['AdminTools.logsystem.level_notice'] = 'Avviso';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Debug';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Questa fattura è già stata pagata e non può essere annullata dalla coda.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Sei sicuro di voler annullare questa modifica del servizio in sospeso? La relativa fattura è già stata pagata e non potrà essere annullata.';
 

@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = 'Αλλα
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Αλλαγή Ημερομηνία λήξης';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Κατάργηση παράκαμψης τιμής';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Ορισμός παράκαμψης τιμής';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Συγχρονισμός ουράς';
 

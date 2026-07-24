@@ -309,4 +309,6 @@ $lang['AdminTools.logsystem.level_warning'] = 'Ostrzeżenie';
 $lang['AdminTools.logsystem.level_notice'] = 'Zawiadomienie';
 $lang['AdminTools.logsystem.level_info'] = 'Info';
 $lang['AdminTools.logsystem.level_debug'] = 'Debugowanie';
+$lang['AdminTools.renewals.field_void_invoice_paid_tooltip'] = 'Ta faktura została już opłacona i nie można jej usunąć z kolejki.';
+$lang['AdminTools.renewals.modal_cancel_paid'] = 'Czy na pewno chcesz anulować tę oczekującą zmianę w usłudze? Odpowiednia faktura została już opłacona i nie zostanie unieważniona.';
 

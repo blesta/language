@@ -103,4 +103,5 @@ $lang['Invoices.!error.invoice_ids.currency'] = 'Semua faktur harus memiliki mat
 $lang['Invoices.!error.invoice_ids.count'] = 'Setidaknya dua faktur harus dipilih.';
 $lang['Invoices.!line_item.parent_description'] = 'Layanan Anak dari %1$s - %2$s:';
 $lang['Invoices.!error.service.renew_onetime'] = 'Layanan satu kali tidak dapat diperpanjang.';
+$lang['Invoices.!error.invoice_ids.match'] = 'Faktur proforma hanya dapat digabungkan dengan faktur proforma lainnya, sedangkan faktur aktif hanya dapat digabungkan dengan faktur aktif lainnya.';
 

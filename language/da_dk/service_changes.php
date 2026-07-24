@@ -18,4 +18,5 @@ $lang['ServiceChanges.status.pending'] = 'Afventer';
 $lang['ServiceChanges.status.completed'] = 'Afsluttet';
 $lang['ServiceChanges.status.error'] = 'Fejl';
 $lang['ServiceChanges.status.canceled'] = 'Aflyst';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'Fakturaen er allerede betalt og kan ikke annulleres.';
 

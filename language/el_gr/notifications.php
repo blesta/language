@@ -38,4 +38,6 @@ $lang['Notifications.getTypes.info'] = 'Πληροφορίες';
 $lang['Notifications.getTypes.success'] = 'Επιτυχία';
 $lang['Notifications.getTypes.warning'] = 'Προειδοποίηση';
 $lang['Notifications.getTypes.danger'] = 'Κίνδυνος';
+$lang['Notifications.notification.ai_model_unavailable_desc'] = 'Ειδοποίηση που αποστέλλεται όταν το διαμορφωμένο μοντέλο τεχνητής νοημοσύνης δεν είναι πλέον διαθέσιμο και χρησιμοποιείται ένα υποκατάστατο μοντέλο.';
+$lang['Notifications.notification.ai_model_unavailable_name'] = 'Το μοντέλο τεχνητής νοημοσύνης δεν είναι διαθέσιμο';
 

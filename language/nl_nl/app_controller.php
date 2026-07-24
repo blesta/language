@@ -102,4 +102,5 @@ $lang['AppController.structure.text_notices'] = 'Mededelingen';
 $lang['AppController.text_loading'] = 'Aan het laden...';
 $lang['AppController.modal.btn_cancel'] = 'Annuleren';
 $lang['AppController.modal.confirm_delete'] = 'Bevestigen Wissen';
+$lang['AppController.structure.notification_company_tooltip'] = 'Behoort tot %1$s';
 

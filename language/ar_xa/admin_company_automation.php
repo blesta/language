@@ -29,11 +29,12 @@ $lang['AdminCompanyAutomation.index.page_title'] = 'الإعدادات &gt; ال
 $lang['AdminCompanyAutomation.!success.task_cleared'] = 'تم مسح مهمة cron.';
 $lang['AdminCompanyAutomation.!success.automation_updated'] = 'تم تحديث إعدادات الأتمتة بنجاح!';
 $lang['AdminCompanyAutomation.!notice.cron_task_interval'] = 'هناك مهام أتمتة تم تعيينها للتشغيل التلقائي كل دقيقة، ولكن لا يبدو أن cron الخاص بك يعمل كل دقيقة. قم بتحديث برنامج cron ليعمل كل دقيقة للاستفادة من هذه الفواصل الزمنية الأقصر.';
-$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'لم يتم تسجيل أي عمليات تشغيل تلقائي للمهام خلال الـ 24 ساعة الماضية.';
+$lang['AdminCompanyAutomation.index.text_timeline_empty'] = 'لم يتم تسجيل أي عمليات تشغيل لمهام الأتمتة خلال الساعة الماضية.';
 $lang['AdminCompanyAutomation.index.text_timeline_not_finished'] = 'لم ينته بعد';
 $lang['AdminCompanyAutomation.index.text_timeline_running'] = 'الجري';
 $lang['AdminCompanyAutomation.index.text_timeline_completed'] = 'مكتمل';
 $lang['AdminCompanyAutomation.index.text_timeline_execution'] = 'التنفيذ';
 $lang['AdminCompanyAutomation.index.field_refresh_timeline'] = 'تحديث';
-$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'الجدول الزمني لتنفيذ المهام - آخر 24 ساعة الماضية';
+$lang['AdminCompanyAutomation.index.boxtitle_timeline'] = 'الجدول الزمني لتنفيذ المهام - الساعة الماضية';
+$lang['AdminCompanyAutomation.index.text_timeline_runs'] = 'عدد المرات:';
 

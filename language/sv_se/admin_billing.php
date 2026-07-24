@@ -195,4 +195,5 @@ $lang['AdminBilling.quotations.field_filtersubmit'] = 'Tillämpa filter';
 $lang['AdminBilling.quotations.field_filterclear'] = 'Klar';
 $lang['AdminBilling.quotations.filter_toggle'] = 'Växla filter';
 $lang['AdminBilling.managewidgets.text_toggle_widgets'] = 'Klicka på widgetar för att visa eller dölja dem från instrumentpanelen.';
+$lang['AdminBilling.services.heading_id'] = 'Tjänst nr';
 

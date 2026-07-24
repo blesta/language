@@ -21,4 +21,5 @@ $lang['DomainsController.getDomainActions.change_registration_date'] = '更改�
 $lang['DomainsController.getDomainActions.change_expiration_date'] = '更改有效期';
 $lang['DomainsController.getDomainActions.remove_price_override'] = '取消价格覆盖';
 $lang['DomainsController.getDomainActions.set_price_override'] = '设置价格覆盖';
+$lang['DomainsController.getDomainActions.queue_sync'] = '队列同步';
 

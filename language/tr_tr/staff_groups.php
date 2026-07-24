@@ -203,4 +203,10 @@ $lang['StaffGroups.permissions.admin_clients_quotations'] = 'Alıntıları Liste
 $lang['StaffGroups.permissions.admin_system_ai'] = 'YAPAY ZEKA';
 $lang['StaffGroups.permissions.admin_company_emails_restoresnapshot'] = 'E-posta Şablonu Anlık Görüntüsünü Geri Yükleme';
 $lang['StaffGroups.permissions.admin_tools_integritycheck'] = 'Sistem Bütünlüğü Kontrolü';
+$lang['StaffGroups.permissions.admin_reports_refresh'] = 'Gelir Analitiği Verilerini Yenile';
+$lang['StaffGroups.permissions.admin_reports_renewalsdata'] = 'Gelir Analitiği Yenileme Verileri';
+$lang['StaffGroups.permissions.admin_reports_retentiondata'] = 'Gelir Analitiği Müşteri Tutma Verileri';
+$lang['StaffGroups.permissions.admin_reports_revenuedata'] = 'Gelir Analitiği Gelir Verileri';
+$lang['StaffGroups.permissions.admin_reports_overviewdata'] = 'Gelir Analitiği Genel Bakış Verileri';
+$lang['StaffGroups.permissions.admin_clients_decryptnote'] = 'Şifre Çözme Notu';
 

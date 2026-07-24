@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klien tidak ada.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Tanggal yang valid harus ditambahkan.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'Diperlukan nama dokumen.';
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klien tidak ada.';
 

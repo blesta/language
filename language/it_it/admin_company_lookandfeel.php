@@ -157,4 +157,5 @@ $lang['AdminCompanyLookandfeel.layout.heading_widgets'] = 'Widget del cruscotto'
 $lang['AdminCompanyLookandfeel.layout.heading_cards'] = 'Carte';
 $lang['AdminCompanyLookandfeel.layout.info_description'] = 'Configurare le schede e i widget delle statistiche che appaiono sul cruscotto del cliente. Trascinare le schede per modificarne l\'ordine, fare clic su di esse per cambiarne il colore e utilizzare le caselle di controllo per attivarle o disattivarle. L\'ordine dei widget può essere personalizzato trascinandoli verticalmente.';
 $lang['AdminCompanyLookandfeel.layout.info_title'] = 'Personalizzazione del layout del cruscotto';
+$lang['AdminCompanyLookandfeel.customize.heading_theme_settings'] = 'Impostazioni del tema';
 

@@ -280,4 +280,9 @@ $lang['AdminPackages.index.field_filtersubmit'] = '应用过滤器';
 $lang['AdminPackages.index.field_filterclear'] = '清晰';
 $lang['AdminPackages.index.filter_toggle'] = '切换过滤器';
 $lang['AdminPackages.index.items_selected'] = '所选项目';
+$lang['AdminPackages.index.action.change_status'] = '更改状态';
+$lang['AdminPackages.index.action.delete_packages'] = '删除软件包';
+$lang['AdminPackages.!error.status_required'] = '请选择一个状态进行申请。';
+$lang['AdminPackages.!success.change_status'] = '软件包状态已成功更新。';
+$lang['AdminPackages.!success.delete_packages'] = '这些软件包已成功删除。';
 

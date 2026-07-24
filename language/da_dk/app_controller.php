@@ -102,4 +102,5 @@ $lang['AppController.text_loading'] = 'Indlæser...';
 $lang['AppController.modal.btn_delete'] = 'Sletning';
 $lang['AppController.modal.btn_cancel'] = 'Annuller';
 $lang['AppController.modal.confirm_delete'] = 'Bekræft sletning';
+$lang['AppController.structure.notification_company_tooltip'] = 'Tilhører %1$s';
 

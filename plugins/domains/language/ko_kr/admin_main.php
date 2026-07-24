@@ -186,4 +186,7 @@ $lang['AdminMain.add_confirmation.heading_total'] = '주문 합계';
 $lang['AdminMain.add_confirmation.placeholder_coupon_code'] = '쿠폰 코드 입력';
 $lang['AdminMain.edit.text_select_action'] = '위의 버튼을 클릭하면 작업을 수행할 수 있는 양식이 표시됩니다.';
 $lang['AdminMain.edit.text_no_fields'] = '이 작업에는 추가 옵션이 필요하지 않습니다. 계속하려면 제출을 클릭합니다.';
+$lang['AdminMain.index.text_items_selected'] = '선택한 항목';
+$lang['AdminMain.index.text_item_selected'] = '항목 선택됨';
+$lang['AdminMain.!success.queue_sync'] = '선택한 도메인이 동기화 대기열에 추가되었습니다!';
 

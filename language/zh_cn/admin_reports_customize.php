@@ -52,4 +52,9 @@ $lang['AdminReportsCustomize.index.box_title'] = '报告';
 $lang['AdminReportsCustomize.!success.deleted'] = '报告已成功删除。';
 $lang['AdminReportsCustomize.!success.edited'] = '报告已成功更新。';
 $lang['AdminReportsCustomize.!success.added'] = '报告已成功添加。';
+$lang['AdminReportsCustomize.index.tab_overview'] = '概述';
+$lang['AdminReportsCustomize.index.tab_exports'] = '出口';
+$lang['AdminReportsCustomize.index.tab_renewals'] = '续订';
+$lang['AdminReportsCustomize.index.tab_retention'] = '留存率';
+$lang['AdminReportsCustomize.index.tab_revenue'] = '收入';
 
