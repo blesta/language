@@ -9,22 +9,22 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.settings.option_remove'] = 'Видалити';
-$lang['AdminMain.settings.option_refresh'] = 'Оновити';
-$lang['AdminMain.settings.heading_options'] = 'Параметри';
-$lang['AdminMain.settings.heading_lastupdated'] = 'Останнє оновлення';
-$lang['AdminMain.settings.heading_url'] = 'URL';
-$lang['AdminMain.settings.submit_cancel'] = 'Повернутися до стрічок';
-$lang['AdminMain.settings.add_feed'] = 'Додати канал';
-$lang['AdminMain.settings.no_feeds'] = 'Немає ніяких кормів.';
-$lang['AdminMain.add.submit_cancel'] = 'Скасувати';
-$lang['AdminMain.add.submit_add'] = 'Додати канал';
-$lang['AdminMain.add.field_url'] = 'URL';
+$lang['AdminMain.!success.feed_added'] = 'Корм успішно додано.';
+$lang['AdminMain.!success.feed_refreshed'] = 'Корм був успішно оновлений.';
+$lang['AdminMain.!success.feed_removed'] = 'Корм було успішно вилучено.';
 $lang['AdminMain.add.boxtitle_feed'] = 'Додати канал';
+$lang['AdminMain.add.field_url'] = 'URL';
+$lang['AdminMain.add.submit_add'] = 'Додати канал';
+$lang['AdminMain.add.submit_cancel'] = 'Скасувати';
+$lang['AdminMain.index.boxtitle_feed'] = 'Зчитувач стрічок';
 $lang['AdminMain.index.last_updated'] = 'Останнє оновлення: %1$s';
 $lang['AdminMain.index.no_results'] = 'Результатів подачі немає.';
-$lang['AdminMain.index.boxtitle_feed'] = 'Зчитувач стрічок';
-$lang['AdminMain.!success.feed_removed'] = 'Корм було успішно вилучено.';
-$lang['AdminMain.!success.feed_refreshed'] = 'Корм був успішно оновлений.';
-$lang['AdminMain.!success.feed_added'] = 'Корм успішно додано.';
+$lang['AdminMain.settings.add_feed'] = 'Додати канал';
+$lang['AdminMain.settings.heading_lastupdated'] = 'Останнє оновлення';
+$lang['AdminMain.settings.heading_options'] = 'Параметри';
+$lang['AdminMain.settings.heading_url'] = 'URL';
+$lang['AdminMain.settings.no_feeds'] = 'Немає ніяких кормів.';
+$lang['AdminMain.settings.option_refresh'] = 'Оновити';
+$lang['AdminMain.settings.option_remove'] = 'Видалити';
+$lang['AdminMain.settings.submit_cancel'] = 'Повернутися до стрічок';
 

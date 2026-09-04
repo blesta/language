@@ -10,8 +10,8 @@
  */
 
 $lang['AiConversations.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
-$lang['AiConversations.!error.staff_id.valid'] = 'ID staf harus berupa angka.';
 $lang['AiConversations.!error.model.empty'] = 'Silakan tentukan model AI.';
+$lang['AiConversations.!error.staff_id.valid'] = 'ID staf harus berupa angka.';
 $lang['AiConversations.!error.status.valid'] = 'Status tidak valid.';
 $lang['AiConversations.!error.type.length'] = 'Ketikan harus 64 karakter atau kurang dari itu.';
 

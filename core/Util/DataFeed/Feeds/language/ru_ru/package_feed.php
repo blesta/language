@@ -10,12 +10,12 @@
  */
 
 $lang['PackageFeed.!error.invalid_endpoint'] = 'Запрошенная конечная точка недействительна или не существует.';
-$lang['PackageFeed.getOptionFields.example_code_pricing'] = 'Отображение цены, продления, платы за установку, отмены или валюты для цены пакета:';
+$lang['PackageFeed.description'] = 'Возвращает название, описание или цену пакета.';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Показать ограничение количества пакетов для клиента:';
 $lang['PackageFeed.getOptionFields.example_code_description'] = 'Показать описание пакета:';
 $lang['PackageFeed.getOptionFields.example_code_name'] = 'Показать имя пакета:';
-$lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Пример кода';
-$lang['PackageFeed.description'] = 'Возвращает название, описание или цену пакета.';
-$lang['PackageFeed.name'] = 'Пакеты';
-$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Показать ограничение количества пакетов для клиента:';
+$lang['PackageFeed.getOptionFields.example_code_pricing'] = 'Отображение цены, продления, платы за установку, отмены или валюты для цены пакета:';
 $lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Показывает количество запасов (количество) упаковки:';
+$lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Пример кода';
+$lang['PackageFeed.name'] = 'Пакеты';
 

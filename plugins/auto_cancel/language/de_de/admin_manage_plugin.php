@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminManagePlugin.getDays.text_days'] = '%1$s Tage';
-$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Tag';
+$lang['AdminManagePlugin.!success.settings_saved'] = 'Die Einstellungen sind gespeichert worden.';
 $lang['AdminManagePlugin.getDays.never'] = 'Niemals';
-$lang['AdminManagePlugin.index.field.submit'] = 'Speichern Sie';
+$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Tag';
+$lang['AdminManagePlugin.getDays.text_days'] = '%1$s Tage';
+$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Automatisch abbrechen';
 $lang['AdminManagePlugin.index.field.cancel_days'] = 'Stornierung von Diensten Tage nach der Suspendierung';
 $lang['AdminManagePlugin.index.field.schedule_days'] = 'Zeitplan Stornierung Tage nach der Suspendierung';
+$lang['AdminManagePlugin.index.field.submit'] = 'Speichern Sie';
 $lang['AdminManagePlugin.index.heading_settings'] = 'Einstellungen';
-$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Automatisch abbrechen';
 $lang['AdminManagePlugin.index.page_title'] = 'Automatisch abbrechen';
-$lang['AdminManagePlugin.!success.settings_saved'] = 'Die Einstellungen sind gespeichert worden.';
 

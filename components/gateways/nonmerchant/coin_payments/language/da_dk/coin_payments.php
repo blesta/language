@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CoinPayments.description'] = 'Et checkout-system til kryptovalutaer som Bitcoin og Litecoin med lave gebyrer.';
-$lang['CoinPayments.merchant_id'] = 'CoinPayments Forhandler-ID';
-$lang['CoinPayments.ipn_secret'] = 'IPN-hemmelighed';
 $lang['CoinPayments.buildprocess.submit'] = 'Betal med CoinPayments';
+$lang['CoinPayments.description'] = 'Et checkout-system til kryptovalutaer som Bitcoin og Litecoin med lave gebyrer.';
+$lang['CoinPayments.ipn_secret'] = 'IPN-hemmelighed';
+$lang['CoinPayments.merchant_id'] = 'CoinPayments Forhandler-ID';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

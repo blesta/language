@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderOrders.getstatuses.pending'] = 'En revue';
-$lang['OrderOrders.getstatuses.accepted'] = 'Accepté';
-$lang['OrderOrders.getstatuses.fraud'] = 'Fraude';
-$lang['OrderOrders.getstatuses.canceled'] = 'Annulé';
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Le domaine sélectionné n\'est pas disponible pour les transferts.';
-$lang['OrderOrders.bell.order_received.title'] = 'Numéro de commande%1$s Reçu';
 $lang['OrderOrders.bell.order_received.message'] = '%1$s a passé la commande n°%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Numéro de commande%1$s Reçu';
+$lang['OrderOrders.getstatuses.accepted'] = 'Accepté';
+$lang['OrderOrders.getstatuses.canceled'] = 'Annulé';
+$lang['OrderOrders.getstatuses.fraud'] = 'Fraude';
+$lang['OrderOrders.getstatuses.pending'] = 'En revue';
 

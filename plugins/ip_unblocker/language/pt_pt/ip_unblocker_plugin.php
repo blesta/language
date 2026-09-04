@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Não foi possível ligar ao servidor remoto. cURL Error: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Pedido de desbloqueio enviado.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Desbloquear IP';
 $lang['IpUnblockerPlugin.description'] = 'Um plugin para Blesta que se integra com cPanel e DirectAdmin para desbloquear IPs na lista negra';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Desbloquear IP';
 

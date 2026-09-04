@@ -10,10 +10,10 @@
  */
 
 $lang['ClientFeed.!error.invalid_endpoint'] = 'Заявената крайна точка не е валидна или не съществува.';
+$lang['ClientFeed.description'] = 'Връща броя на клиентите с определен статус.';
+$lang['ClientFeed.getOptionFields.example_code_active'] = 'Покажете броя на активните клиенти:';
 $lang['ClientFeed.getOptionFields.example_code_fraud'] = 'Покажете броя на измамените клиенти:';
 $lang['ClientFeed.getOptionFields.example_code_inactive'] = 'Покажете броя на неактивните клиенти:';
-$lang['ClientFeed.getOptionFields.example_code_active'] = 'Покажете броя на активните клиенти:';
 $lang['ClientFeed.getOptionFields.title_row_example_code'] = 'Примерен код';
-$lang['ClientFeed.description'] = 'Връща броя на клиентите с определен статус.';
 $lang['ClientFeed.name'] = 'Clients';
 

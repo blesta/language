@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = '유지 관리';
 $lang['ClientMaintenance.index.maintenance_heading'] = '유지 관리 모드';
+$lang['ClientMaintenance.index.page_title'] = '유지 관리';
 

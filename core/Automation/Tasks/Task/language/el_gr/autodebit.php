@@ -10,8 +10,8 @@
  */
 
 $lang['Automation.task.autodebit.attempt'] = 'Προσπάθεια αυτόματης χρέωσης ανοικτών τιμολογίων.';
-$lang['Automation.task.autodebit.completed'] = 'Η εργασία αυτόματης χρέωσης τιμολογίων έχει ολοκληρωθεί.';
 $lang['Automation.task.autodebit.charge_attempt'] = 'Προσπάθεια αυτόματης χρέωσης του πελάτη #%1$s για όλα τα ανοιχτά τιμολόγια ύψους %2$s.';
 $lang['Automation.task.autodebit.charge_failed'] = 'Δεν είναι δυνατή η επεξεργασία της πληρωμής.';
 $lang['Automation.task.autodebit.charge_success'] = 'Επιτυχής επεξεργασία της πληρωμής.';
+$lang['Automation.task.autodebit.completed'] = 'Η εργασία αυτόματης χρέωσης τιμολογίων έχει ολοκληρωθεί.';
 

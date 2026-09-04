@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = '模块类型 ID 无效。';
 $lang['ModuleTypes.!error.name.valid'] = '名称无效。';
+$lang['ModuleTypes.!error.type_id.valid'] = '模块类型 ID 无效。';
 

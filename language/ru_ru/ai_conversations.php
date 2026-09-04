@@ -10,8 +10,8 @@
  */
 
 $lang['AiConversations.!error.company_id.exists'] = 'Неверный идентификатор компании.';
-$lang['AiConversations.!error.staff_id.valid'] = 'Идентификатор сотрудника должен быть цифровым.';
 $lang['AiConversations.!error.model.empty'] = 'Пожалуйста, укажите модель искусственного интеллекта.';
+$lang['AiConversations.!error.staff_id.valid'] = 'Идентификатор сотрудника должен быть цифровым.';
 $lang['AiConversations.!error.status.valid'] = 'Неверный статус.';
 $lang['AiConversations.!error.type.length'] = 'Тип должен состоять из 64 символов или меньше.';
 

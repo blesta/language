@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SitebuilderPlugin.ftpFormPath'] = 'Διαδρομή FTP';
-$lang['SitebuilderPlugin.ftpFormPassword'] = 'Κωδικός πρόσβασης FTP';
-$lang['SitebuilderPlugin.ftpFormUsername'] = 'Όνομα χρήστη FTP';
-$lang['SitebuilderPlugin.ftpFormHost'] = 'FTP host / τομέας';
-$lang['SitebuilderPlugin.enterFtpData'] = 'Εισάγετε δεδομένα FTP:';
-$lang['SitebuilderPlugin.SelectDomain'] = 'Επιλέξτε τομέα:';
 $lang['SitebuilderPlugin.cPanelNew.DocRoot'] = 'Ρίζα εγγράφου';
 $lang['SitebuilderPlugin.cPanelNew.Domain'] = 'Τομέας';
-$lang['SitebuilderPlugin.launch'] = 'Εκκίνηση';
-$lang['SitebuilderPlugin.description'] = 'Δημιουργήστε τον δικό σας κατασκευαστή ιστοσελίδων. Μόνο 15-30 λεπτά και έχετε το προϊόν σας. Παρέχετε τον κατασκευαστή ιστοσελίδων στους πελάτες σας.';
 $lang['SitebuilderPlugin.defaultName'] = 'Site.pro Κατασκευαστής ιστοσελίδων';
+$lang['SitebuilderPlugin.description'] = 'Δημιουργήστε τον δικό σας κατασκευαστή ιστοσελίδων. Μόνο 15-30 λεπτά και έχετε το προϊόν σας. Παρέχετε τον κατασκευαστή ιστοσελίδων στους πελάτες σας.';
+$lang['SitebuilderPlugin.enterFtpData'] = 'Εισάγετε δεδομένα FTP:';
+$lang['SitebuilderPlugin.ftpFormHost'] = 'FTP host / τομέας';
+$lang['SitebuilderPlugin.ftpFormPassword'] = 'Κωδικός πρόσβασης FTP';
+$lang['SitebuilderPlugin.ftpFormPath'] = 'Διαδρομή FTP';
+$lang['SitebuilderPlugin.ftpFormUsername'] = 'Όνομα χρήστη FTP';
+$lang['SitebuilderPlugin.launch'] = 'Εκκίνηση';
 $lang['SitebuilderPlugin.name'] = 'Site.pro Website Builder';
+$lang['SitebuilderPlugin.SelectDomain'] = 'Επιλέξτε τομέα:';
 

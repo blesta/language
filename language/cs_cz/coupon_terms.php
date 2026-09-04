@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CouponTerms.getperiods.onetime'] = 'Jednorázově';
-$lang['CouponTerms.getperiods.year'] = 'Rok';
-$lang['CouponTerms.getperiods.month'] = 'Měsíc';
-$lang['CouponTerms.getperiods.week'] = 'Týden';
-$lang['CouponTerms.getperiods.day'] = 'Den';
-$lang['CouponTerms.!error.term_id.exists'] = 'Daný kuponový výraz neexistuje.';
-$lang['CouponTerms.!error.period.valid'] = 'Zadejte prosím platné období.';
-$lang['CouponTerms.!error.term.format'] = 'Pro každé období zadejte platný termín.';
 $lang['CouponTerms.!error.coupon_id.exists'] = 'Daný kupón neexistuje.';
+$lang['CouponTerms.!error.period.valid'] = 'Zadejte prosím platné období.';
+$lang['CouponTerms.!error.term_id.exists'] = 'Daný kuponový výraz neexistuje.';
+$lang['CouponTerms.!error.term.format'] = 'Pro každé období zadejte platný termín.';
+$lang['CouponTerms.getperiods.day'] = 'Den';
+$lang['CouponTerms.getperiods.month'] = 'Měsíc';
+$lang['CouponTerms.getperiods.onetime'] = 'Jednorázově';
+$lang['CouponTerms.getperiods.week'] = 'Týden';
+$lang['CouponTerms.getperiods.year'] = 'Rok';
 

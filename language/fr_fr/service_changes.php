@@ -10,13 +10,13 @@
  */
 
 $lang['ServiceChanges.!error.id.exists'] = 'ID de changement de service non valide.';
-$lang['ServiceChanges.!error.service_id.exists'] = 'ID de service non valide.';
 $lang['ServiceChanges.!error.invoice_id.exists'] = 'ID de la facture non valide.';
 $lang['ServiceChanges.!error.invoice_id.unique'] = 'L\'identifiant de la facture est déjà défini pour une modification de service et ne peut pas l\'être à nouveau.';
+$lang['ServiceChanges.!error.service_id.exists'] = 'ID de service non valide.';
 $lang['ServiceChanges.!error.status.valid'] = 'Veuillez sélectionner un statut valide.';
-$lang['ServiceChanges.status.pending'] = 'En attente';
+$lang['ServiceChanges.!error.void_invoice.paid'] = 'La facture a déjà été réglée et ne peut pas être annulée.';
+$lang['ServiceChanges.status.canceled'] = 'Annulé';
 $lang['ServiceChanges.status.completed'] = 'Terminé';
 $lang['ServiceChanges.status.error'] = 'Erreur';
-$lang['ServiceChanges.status.canceled'] = 'Annulé';
-$lang['ServiceChanges.!error.void_invoice.paid'] = 'La facture a déjà été réglée et ne peut pas être annulée.';
+$lang['ServiceChanges.status.pending'] = 'En attente';
 

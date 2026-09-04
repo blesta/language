@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_filters.field_service_meta'] = 'Service Meta';
-$lang['Util.filters.service_filters.field_package_name'] = 'Paketnamn';
-$lang['Util.filters.service_filters.field_module_id'] = 'Modul';
 $lang['Util.filters.service_filters.any'] = 'Någon';
+$lang['Util.filters.service_filters.field_module_id'] = 'Modul';
+$lang['Util.filters.service_filters.field_package_name'] = 'Paketnamn';
 $lang['Util.filters.service_filters.field_service_id'] = 'Tjänst-ID';
+$lang['Util.filters.service_filters.field_service_meta'] = 'Service Meta';
 

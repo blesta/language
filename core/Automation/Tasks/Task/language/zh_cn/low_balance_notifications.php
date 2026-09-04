@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.low_balance_notifications.attempt'] = '尝试发送余额不足通知。';
+$lang['Automation.task.low_balance_notifications.completed'] = '余额不足通知任务已完成。';
 $lang['Automation.task.low_balance_notifications.failed'] = '向%1$s %2$s (%3$s) 发送低余额通知失败。';
 $lang['Automation.task.low_balance_notifications.success'] = '向%1$s %2$s (%3$s) 发送货币%4$s 的低余额通知。';
-$lang['Automation.task.low_balance_notifications.completed'] = '余额不足通知任务已完成。';
-$lang['Automation.task.low_balance_notifications.attempt'] = '尝试发送余额不足通知。';
 

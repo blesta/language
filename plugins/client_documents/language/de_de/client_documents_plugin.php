@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Dokumente';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumente';
 $lang['ClientDocumentsPlugin.description'] = 'Hochladen von Dateien zum Herunterladen durch bestimmte Kunden.';
 $lang['ClientDocumentsPlugin.name'] = 'Dokumente des Kunden';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumente';
 

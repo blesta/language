@@ -15,8 +15,8 @@ $lang['Automation.task.deliver_invoices.delivery_error'] = 'Kunne ikke levere %3
 $lang['Automation.task.deliver_invoices.delivery_error_one'] = 'Kunne ikke levere 1 faktura til kunde #%1$s via %2$s på grund af fejl: %3$s';
 $lang['Automation.task.deliver_invoices.delivery_success'] = 'Det lykkedes at levere %3$s fakturaer til kunde #%1$s via %2$s.';
 $lang['Automation.task.deliver_invoices.delivery_success_one'] = 'Det lykkedes at levere 1 faktura til kunde #%1$s via %2$s.';
-$lang['Automation.task.deliver_invoices.none'] = 'Ingen fakturaer er planlagt til at blive leveret.';
 $lang['Automation.task.deliver_invoices.method_email'] = 'E-mail';
 $lang['Automation.task.deliver_invoices.method_interfax'] = 'InterFax';
 $lang['Automation.task.deliver_invoices.method_postalmethods'] = 'PostMetoder';
+$lang['Automation.task.deliver_invoices.none'] = 'Ingen fakturaer er planlagt til at blive leveret.';
 

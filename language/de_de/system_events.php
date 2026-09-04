@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.observer.valid'] = 'Bitte geben Sie einen aufrufbaren Beobachter per Namespace oder Dateisystempfad an.';
-$lang['SystemEvents.!error.event.length'] = 'Die Länge des Ereignisses darf %1$s Zeichen nicht überschreiten.';
 $lang['SystemEvents.!error.event.empty'] = 'Bitte geben Sie einen Veranstaltungsnamen ein.';
+$lang['SystemEvents.!error.event.length'] = 'Die Länge des Ereignisses darf %1$s Zeichen nicht überschreiten.';
+$lang['SystemEvents.!error.observer.valid'] = 'Bitte geben Sie einen aufrufbaren Beobachter per Namespace oder Dateisystempfad an.';
 

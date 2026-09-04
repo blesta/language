@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'De e-mail-ID bestaat niet.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'De snapshot-ID bestaat niet.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Het snapshot hoort niet bij de opgegeven e-mail.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'De snapshot-ID bestaat niet.';
 

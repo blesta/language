@@ -11,6 +11,6 @@
 
 $lang['Automation.task.exchange_rates.attempt'] = 'Tentative de mise à jour des taux de change.';
 $lang['Automation.task.exchange_rates.completed'] = 'La tâche sur les taux de change est terminée.';
-$lang['Automation.task.exchange_rates.success'] = 'Les taux de change ont été mis à jour avec succès.';
 $lang['Automation.task.exchange_rates.failed'] = 'Les taux de change n\'ont pas pu être mis à jour.';
+$lang['Automation.task.exchange_rates.success'] = 'Les taux de change ont été mis à jour avec succès.';
 

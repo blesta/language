@@ -11,8 +11,8 @@
 
 $lang['AdminCompanyElectronicInvoices.!success.formats_updated'] = 'פורמטי החשבוניות האלקטרוניות עודכנו בהצלחה.';
 $lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'חשבוניות אלקטרוניות';
-$lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'פורמט החשבונית';
-$lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'תיאור';
-$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'אין פורמטים של חשבוניות אלקטרוניות זמינים. אנא ודא שהרכיב InvoiceFormats מותקן כהלכה.';
 $lang['AdminCompanyElectronicInvoices.index.field_submit'] = 'עדכון הגדרות';
+$lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'תיאור';
+$lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'פורמט החשבונית';
+$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'אין פורמטים של חשבוניות אלקטרוניות זמינים. אנא ודא שהרכיב InvoiceFormats מותקן כהלכה.';
 

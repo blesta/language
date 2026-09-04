@@ -12,8 +12,8 @@
 $lang['Perfectmoney.!error.passphrase.valid'] = 'Geçerli bir parola girmelisiniz.';
 $lang['Perfectmoney.!error.payee_account.valid'] = 'Geçerli bir hesap girmelisiniz.';
 $lang['Perfectmoney.buildprocess.submit'] = 'Perfect Money ile ödeme yapın';
-$lang['Perfectmoney.passphrase_note'] = 'Alternatif parola, ödemeleri doğrulamak için MD5 karmasının hesaplanmasında kullanılır.';
-$lang['Perfectmoney.passphrase'] = 'Alternatif Parola';
-$lang['Perfectmoney.payee_account'] = 'Alacaklı Hesap';
 $lang['Perfectmoney.name'] = 'Perfect Money';
+$lang['Perfectmoney.passphrase'] = 'Alternatif Parola';
+$lang['Perfectmoney.passphrase_note'] = 'Alternatif parola, ödemeleri doğrulamak için MD5 karmasının hesaplanmasında kullanılır.';
+$lang['Perfectmoney.payee_account'] = 'Alacaklı Hesap';
 

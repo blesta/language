@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = 'Automatisch diensten plannen voor annulering.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Plan opgeschorte services automatisch voor annulering.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatische planning annulering';
-$lang['AutoCancelPlugin.description'] = 'Automatisch diensten plannen voor annulering.';
 $lang['AutoCancelPlugin.name'] = 'Automatisch annuleren';
 

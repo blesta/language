@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Kassacompleetideal.buildprocess.submit'] = 'Bezahlen mit iDeal über Kassa Compleet';
-$lang['Kassacompleetideal.buildprocess.issuer_id'] = 'iDeal Emittent';
-$lang['Kassacompleetideal.tooltip.api_key'] = 'Um den Testmodus zu verwenden, geben Sie einfach einen API-Schlüssel von einem Testkonto ein';
+$lang['Kassacompleetideal.!error.api_key.empty'] = 'Bitte geben Sie einen API-Schlüssel ein';
+$lang['Kassacompleetideal.!error.api_key.valid'] = 'API-Schlüssel ist ungültig';
 $lang['Kassacompleetideal.api_key'] = 'API-Schlüssel';
+$lang['Kassacompleetideal.buildprocess.issuer_id'] = 'iDeal Emittent';
+$lang['Kassacompleetideal.buildprocess.submit'] = 'Bezahlen mit iDeal über Kassa Compleet';
 $lang['Kassacompleetideal.description'] = 'Integration von Kassa Compleet mit der Zahlungsart iDeal';
 $lang['Kassacompleetideal.name'] = 'iDeal (Kassa Compleet)';
-$lang['Kassacompleetideal.!error.api_key.valid'] = 'API-Schlüssel ist ungültig';
-$lang['Kassacompleetideal.!error.api_key.empty'] = 'Bitte geben Sie einen API-Schlüssel ein';
+$lang['Kassacompleetideal.tooltip.api_key'] = 'Um den Testmodus zu verwenden, geben Sie einfach einen API-Schlüssel von einem Testkonto ein';
 

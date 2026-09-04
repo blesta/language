@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Зберегти';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Спільний ключ';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Спільний логін';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Спільний ключ';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Спільний логін';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Зберегти';
 

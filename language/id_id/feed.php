@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.invalid'] = 'Sumber daya yang diminta tidak ada atau tidak valid.';
 $lang['Feed.!error.disabled'] = 'Umpan data ini dinonaktifkan, untuk mengaktifkannya, kunjungi Pengaturan > Perusahaan > Umpan di area staf.';
+$lang['Feed.!error.invalid'] = 'Sumber daya yang diminta tidak ada atau tidak valid.';
 

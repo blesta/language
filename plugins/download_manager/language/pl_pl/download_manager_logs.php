@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'Kontakt nie istnieje.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = 'Klient nie istnieje.';
+$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'Kontakt nie istnieje.';
 $lang['DownloadManagerLogs.!error.file_id.exists'] = 'Plik nie istnieje.';
 

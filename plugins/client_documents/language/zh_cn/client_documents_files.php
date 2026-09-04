@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = '客户端不存在。';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = '需要添加有效日期。';
 $lang['ClientDocumentsFiles.!error.name.valid'] = '需要文件名称。';
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = '客户端不存在。';
 

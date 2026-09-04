@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Попытки должны быть положительным числовым значением.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Данная компания не существует.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Данная служба не находится в очереди на установку.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Данный сервис не существует.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Данная служба не находится в очереди на установку.';
 

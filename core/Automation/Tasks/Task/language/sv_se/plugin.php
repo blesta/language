@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.plugin.completed'] = 'Avslutade plugin cron för %1$s %2$s.';
 $lang['Automation.task.plugin.attempt'] = 'Försöker plugin cron för %1$s %2$s.';
+$lang['Automation.task.plugin.completed'] = 'Avslutade plugin cron för %1$s %2$s.';
 

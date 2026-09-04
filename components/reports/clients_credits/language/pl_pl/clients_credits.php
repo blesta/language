@@ -11,14 +11,14 @@
 
 $lang['ClientsCredits.!error.currency'] = 'Waluta jest nieważna.';
 $lang['ClientsCredits.!error.status'] = 'Status klienta jest nieprawidłowy.';
-$lang['ClientsCredits.heading.currency'] = 'Waluta';
-$lang['ClientsCredits.heading.credits'] = 'Kredyty';
-$lang['ClientsCredits.heading.email'] = 'E-mail';
 $lang['ClientsCredits.heading.company'] = 'Firma';
-$lang['ClientsCredits.heading.last_name'] = 'Nazwisko';
+$lang['ClientsCredits.heading.credits'] = 'Kredyty';
+$lang['ClientsCredits.heading.currency'] = 'Waluta';
+$lang['ClientsCredits.heading.email'] = 'E-mail';
 $lang['ClientsCredits.heading.first_name'] = 'Imię';
 $lang['ClientsCredits.heading.id_code'] = 'Identyfikator klienta';
+$lang['ClientsCredits.heading.last_name'] = 'Nazwisko';
+$lang['ClientsCredits.name'] = 'Clients with Credits';
 $lang['ClientsCredits.options.field_currency'] = 'Waluta';
 $lang['ClientsCredits.options.field_status'] = 'Status klienta';
-$lang['ClientsCredits.name'] = 'Clients with Credits';
 

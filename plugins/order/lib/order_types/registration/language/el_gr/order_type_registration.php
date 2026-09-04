@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderTypeRegistration.name'] = 'Εγγραφή πελάτη';
-$lang['OrderTypeRegistration.!success.signup'] = 'Σας ευχαριστούμε για την εγγραφή ενός λογαριασμού μαζί μας.';
 $lang['OrderTypeRegistration.!error.template.valid'] = 'Η Εγγραφή πελάτη υποστηρίζει μόνο το πρότυπο Standard.';
+$lang['OrderTypeRegistration.!success.signup'] = 'Σας ευχαριστούμε για την εγγραφή ενός λογαριασμού μαζί μας.';
+$lang['OrderTypeRegistration.name'] = 'Εγγραφή πελάτη';
 

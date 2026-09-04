@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Försök måste vara ett positivt numeriskt värde.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Det angivna företaget existerar inte.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Den aktuella tjänsten står inte i kö för installation.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Den angivna tjänsten existerar inte.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Den aktuella tjänsten står inte i kö för installation.';
 

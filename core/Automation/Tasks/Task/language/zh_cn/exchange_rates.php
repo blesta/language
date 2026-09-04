@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = '尝试更新汇率。';
+$lang['Automation.task.exchange_rates.completed'] = '汇率任务已完成。';
 $lang['Automation.task.exchange_rates.failed'] = '汇率无法更新。';
 $lang['Automation.task.exchange_rates.success'] = '汇率已成功更新。';
-$lang['Automation.task.exchange_rates.completed'] = '汇率任务已完成。';
-$lang['Automation.task.exchange_rates.attempt'] = '尝试更新汇率。';
 

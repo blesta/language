@@ -12,8 +12,8 @@
 $lang['Perfectmoney.!error.passphrase.valid'] = 'עליך להזין סיסמה חוקית.';
 $lang['Perfectmoney.!error.payee_account.valid'] = 'עליך להזין חשבון תקף.';
 $lang['Perfectmoney.buildprocess.submit'] = 'שלם באמצעות Perfect Money';
-$lang['Perfectmoney.passphrase_note'] = 'סיסמת הגישה החלופית משמשת לחישוב ה-MD5 לצורך אימות תשלומים.';
-$lang['Perfectmoney.passphrase'] = 'סיסמה חלופית';
-$lang['Perfectmoney.payee_account'] = 'חשבון המוטב';
 $lang['Perfectmoney.name'] = 'Perfect Money';
+$lang['Perfectmoney.passphrase'] = 'סיסמה חלופית';
+$lang['Perfectmoney.passphrase_note'] = 'סיסמת הגישה החלופית משמשת לחישוב ה-MD5 לצורך אימות תשלומים.';
+$lang['Perfectmoney.payee_account'] = 'חשבון המוטב';
 

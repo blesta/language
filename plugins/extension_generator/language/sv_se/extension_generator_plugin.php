@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Generator för förlängning';
 $lang['ExtensionGeneratorPlugin.description'] = 'Detta är ett plugin för att automatiskt generera filer för nya Blesta-tillägg';
 $lang['ExtensionGeneratorPlugin.name'] = 'Generator för förlängning';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Generator för förlängning';
 

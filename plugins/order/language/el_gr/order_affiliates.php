@@ -14,9 +14,9 @@ $lang['OrderAffiliates.!error.client_id.exists'] = 'Μη έγκυρο αναγν
 $lang['OrderAffiliates.!error.client_id.unique'] = 'Το αναγνωριστικό πελάτη είναι ήδη συνδεδεμένο με άλλο συνεργάτη.';
 $lang['OrderAffiliates.!error.code.empty'] = 'Παρακαλώ εισάγετε έναν κωδικό θυγατρικών.';
 $lang['OrderAffiliates.!error.code.unique'] = 'Αυτός ο κωδικός έχει ήδη ληφθεί από άλλον συνεργάτη.';
-$lang['OrderAffiliates.!error.status.valid'] = 'Παρακαλούμε επιλέξτε ένα έγκυρο καθεστώς θυγατρικών.';
 $lang['OrderAffiliates.!error.date_added.format'] = 'Η ημερομηνία που προστέθηκε είναι σε μη έγκυρη μορφή ημερομηνίας.';
 $lang['OrderAffiliates.!error.date_updated.format'] = 'Η ενημερωμένη ημερομηνία έχει μη έγκυρη μορφή ημερομηνίας.';
+$lang['OrderAffiliates.!error.status.valid'] = 'Παρακαλούμε επιλέξτε ένα έγκυρο καθεστώς θυγατρικών.';
 $lang['OrderAffiliates.getStatuses.active'] = 'Ενεργό';
 $lang['OrderAffiliates.getStatuses.inactive'] = 'Ανενεργό';
 

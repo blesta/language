@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ApiKeys.!error.user.unique'] = 'API-användaren finns redan för det angivna företaget.';
-$lang['ApiKeys.!error.user.valid'] = 'API-användaren eller nyckeln verkar vara ogiltig.';
-$lang['ApiKeys.!error.user.format'] = 'Ange en API-användare med en längd på mellan 3 och 64 tecken.';
 $lang['ApiKeys.!error.company_id.exists'] = 'Det angivna företaget existerar inte.';
 $lang['ApiKeys.!error.key.generate'] = 'Nyckeln kunde inte genereras.';
+$lang['ApiKeys.!error.user.format'] = 'Ange en API-användare med en längd på mellan 3 och 64 tecken.';
+$lang['ApiKeys.!error.user.unique'] = 'API-användaren finns redan för det angivna företaget.';
+$lang['ApiKeys.!error.user.valid'] = 'API-användaren eller nyckeln verkar vara ogiltig.';
 

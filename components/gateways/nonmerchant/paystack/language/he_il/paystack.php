@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Paystack.buildprocess.submit'] = 'שלם באמצעות Paystack';
-$lang['Paystack.tooltip.secret_key'] = 'כדי להשתמש במצב בדיקה, כל שעליך לעשות הוא להזין מפתח בדיקה.';
-$lang['Paystack.secret_key'] = 'מפתח סודי של Paystack';
-$lang['Paystack.description'] = 'Paystack היא הדרך המהירה והפשוטה ביותר להתחיל לקבל תשלומים מקוונים בניגריה.';
 $lang['Paystack.!error.secret_key.valid'] = 'אורך המפתח הסודי חייב להיות 40 תווים לפחות.';
+$lang['Paystack.buildprocess.submit'] = 'שלם באמצעות Paystack';
+$lang['Paystack.description'] = 'Paystack היא הדרך המהירה והפשוטה ביותר להתחיל לקבל תשלומים מקוונים בניגריה.';
 $lang['Paystack.name'] = 'Paystack Standard';
+$lang['Paystack.secret_key'] = 'מפתח סודי של Paystack';
+$lang['Paystack.tooltip.secret_key'] = 'כדי להשתמש במצב בדיקה, כל שעליך לעשות הוא להזין מפתח בדיקה.';
 

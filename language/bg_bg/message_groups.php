@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessageGroups.getTypes.shared'] = 'Споделен';
-$lang['MessageGroups.getTypes.client'] = 'Клиент';
-$lang['MessageGroups.getTypes.staff'] = 'Персонал';
-$lang['MessageGroups.!error.tags.empty'] = 'Моля, въведете таговете.';
-$lang['MessageGroups.!error.plugin_dir.empty'] = 'Моля, въведете директорията на плъгина.';
-$lang['MessageGroups.!error.type.valid'] = 'Типът на групата за съобщения трябва да бъде зададен на "клиент", "персонал" или "споделено".';
 $lang['MessageGroups.!error.action.empty'] = 'Моля, въведете действие.';
+$lang['MessageGroups.!error.plugin_dir.empty'] = 'Моля, въведете директорията на плъгина.';
+$lang['MessageGroups.!error.tags.empty'] = 'Моля, въведете таговете.';
+$lang['MessageGroups.!error.type.valid'] = 'Типът на групата за съобщения трябва да бъде зададен на "клиент", "персонал" или "споделено".';
+$lang['MessageGroups.getTypes.client'] = 'Клиент';
+$lang['MessageGroups.getTypes.shared'] = 'Споделен';
+$lang['MessageGroups.getTypes.staff'] = 'Персонал';
 

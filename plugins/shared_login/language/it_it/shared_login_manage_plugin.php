@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Risparmiare';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Chiave condivisa';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Accesso condiviso';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Chiave condivisa';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Accesso condiviso';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Risparmiare';
 

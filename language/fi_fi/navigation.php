@@ -1,0 +1,131 @@
+<?php
+/**
+ * Navigation
+ *
+ * @package blesta
+ * @subpackage blesta.language.fi_fi
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Navigation.!error.action_id.valid'] = 'Virheellinen toiminnon tunnus';
+$lang['Navigation.!error.order.valid'] = 'Tilausindeksin on oltava numeerinen arvo';
+$lang['Navigation.!error.parent_id.valid'] = 'Vanhemman navigointikohteen tunniste on virheellinen';
+$lang['Navigation.getcompany.nav_automation'] = 'Automaatio';
+$lang['Navigation.getcompany.nav_billing'] = 'Laskutus/Maksu';
+$lang['Navigation.getcompany.nav_billing_acceptedtypes'] = 'Hyväksytyt maksutavat';
+$lang['Navigation.getcompany.nav_billing_coupons'] = 'Alennuskupongit';
+$lang['Navigation.getcompany.nav_billing_credithandling'] = 'Luottojen käsittely';
+$lang['Navigation.getcompany.nav_billing_custominvoice'] = 'Laskun mukauttaminen';
+$lang['Navigation.getcompany.nav_billing_deliverymethods'] = 'Laskujen toimitus';
+$lang['Navigation.getcompany.nav_billing_invoices'] = 'Laskutus- ja veloitusvaihtoehdot';
+$lang['Navigation.getcompany.nav_billing_latefees'] = 'Viivästysmaksut';
+$lang['Navigation.getcompany.nav_billing_notices'] = 'Ilmoitukset';
+$lang['Navigation.getcompany.nav_clientoptions'] = 'Asiakkaan valinnat';
+$lang['Navigation.getcompany.nav_clientoptions_customfields'] = 'Asiakkaan mukautetut kentät';
+$lang['Navigation.getcompany.nav_clientoptions_general'] = 'Asiakkaan yleiset asetukset';
+$lang['Navigation.getcompany.nav_clientoptions_requiredfields'] = 'Pakolliset asiakastiedot';
+$lang['Navigation.getcompany.nav_currencies'] = 'Valuutat';
+$lang['Navigation.getcompany.nav_currency_active'] = 'Käytössä olevat valuutat';
+$lang['Navigation.getcompany.nav_currency_currencysetup'] = 'Valuutan asetukset';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Sähköiset laskut';
+$lang['Navigation.getcompany.nav_emails'] = 'Sähköpostit';
+$lang['Navigation.getcompany.nav_emails_mail'] = 'Sähköpostiasetukset';
+$lang['Navigation.getcompany.nav_emails_signatures'] = 'Allekirjoitukset';
+$lang['Navigation.getcompany.nav_emails_templates'] = 'Sähköpostimallit';
+$lang['Navigation.getcompany.nav_feeds'] = 'Tietosyötöt';
+$lang['Navigation.getcompany.nav_feeds_general'] = 'Yleistä';
+$lang['Navigation.getcompany.nav_feeds_settings'] = 'Syöteasetukset';
+$lang['Navigation.getcompany.nav_gateways'] = 'Maksuportaalit';
+$lang['Navigation.getcompany.nav_general'] = 'Yleistä';
+$lang['Navigation.getcompany.nav_general_contacttypes'] = 'Yhteydenottotavat';
+$lang['Navigation.getcompany.nav_general_encryption'] = 'Salaus';
+$lang['Navigation.getcompany.nav_general_humanverification'] = 'Ihmisen suorittama todentaminen';
+$lang['Navigation.getcompany.nav_general_international'] = 'Kansainvälistyminen';
+$lang['Navigation.getcompany.nav_general_localization'] = 'Lokalisointi';
+$lang['Navigation.getcompany.nav_general_marketing'] = 'Markkinointi';
+$lang['Navigation.getcompany.nav_general_smart_search'] = 'Älykäs haku';
+$lang['Navigation.getcompany.nav_groups'] = 'Asiakasryhmät';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML-mallit';
+$lang['Navigation.getcompany.nav_lookandfeel'] = 'Ulkoasu ja käyttökokemus';
+$lang['Navigation.getcompany.nav_lookandfeel_actions'] = 'Toimenpiteet';
+$lang['Navigation.getcompany.nav_lookandfeel_customize'] = 'Mukauta';
+$lang['Navigation.getcompany.nav_lookandfeel_layout'] = 'Asettelu';
+$lang['Navigation.getcompany.nav_lookandfeel_navigation'] = 'Navigointi';
+$lang['Navigation.getcompany.nav_lookandfeel_template'] = 'Malli';
+$lang['Navigation.getcompany.nav_lookandfeel_themes'] = 'Teemat';
+$lang['Navigation.getcompany.nav_messengers'] = 'Lähettiläät';
+$lang['Navigation.getcompany.nav_messengers_configuration'] = 'Messengerin asetukset';
+$lang['Navigation.getcompany.nav_messengers_messengers'] = 'Lähettiläät';
+$lang['Navigation.getcompany.nav_messengers_templates'] = 'Viestipohjat';
+$lang['Navigation.getcompany.nav_modules'] = 'Moduulit';
+$lang['Navigation.getcompany.nav_plugins'] = 'Laajennukset';
+$lang['Navigation.getcompany.nav_taxes'] = 'Verot';
+$lang['Navigation.getcompany.nav_taxes_basictax'] = 'Verotuksen perusasetukset';
+$lang['Navigation.getcompany.nav_taxes_taxrules'] = 'Verosäännöt';
+$lang['Navigation.getprimary.nav_billing'] = 'Laskutus';
+$lang['Navigation.getprimary.nav_billing_batch'] = 'Erä';
+$lang['Navigation.getprimary.nav_billing_invoices'] = 'Laskut';
+$lang['Navigation.getprimary.nav_billing_overview'] = 'Yleiskatsaus';
+$lang['Navigation.getprimary.nav_billing_printqueue'] = 'Tulostusjono';
+$lang['Navigation.getprimary.nav_billing_quotations'] = 'Lainaukset';
+$lang['Navigation.getprimary.nav_billing_reports'] = 'Raportit';
+$lang['Navigation.getprimary.nav_billing_services'] = 'Palvelut';
+$lang['Navigation.getprimary.nav_billing_transactions'] = 'Tapahtumat';
+$lang['Navigation.getprimary.nav_clients'] = 'Asiakkaat';
+$lang['Navigation.getprimary.nav_clients_browse'] = 'Selaa asiakkaita';
+$lang['Navigation.getprimary.nav_home'] = 'Kojelauta';
+$lang['Navigation.getprimary.nav_home_dashboard'] = 'Kojelauta';
+$lang['Navigation.getprimary.nav_package_options'] = 'Määritettävät asetukset';
+$lang['Navigation.getprimary.nav_packages'] = 'Paketit';
+$lang['Navigation.getprimary.nav_packages_browse'] = 'Selaa paketteja';
+$lang['Navigation.getprimary.nav_packages_groups'] = 'Pakettiryhmät';
+$lang['Navigation.getprimary.nav_settings_company'] = 'Yritys';
+$lang['Navigation.getprimary.nav_settings_system'] = 'Järjestelmä';
+$lang['Navigation.getprimary.nav_tools'] = 'Työkalut';
+$lang['Navigation.getprimary.nav_tools_blacklist'] = 'Musta lista';
+$lang['Navigation.getprimary.nav_tools_currency'] = 'Valuutan muuntaminen';
+$lang['Navigation.getprimary.nav_tools_logs'] = 'Lokit';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Palvelujono';
+$lang['Navigation.getprimary.nav_tools_renewals'] = 'Uusimisjono';
+$lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Palvelumuutokset';
+$lang['Navigation.getprimary.nav_tools_utilities'] = 'Yleishyödylliset palvelut';
+$lang['Navigation.getprimaryclient.nav_contacts'] = 'Yhteystiedot';
+$lang['Navigation.getprimaryclient.nav_contacts_add'] = 'Lisää yhteystieto';
+$lang['Navigation.getprimaryclient.nav_dashboard'] = 'Kojelauta';
+$lang['Navigation.getprimaryclient.nav_paymentaccounts'] = 'Maksutilit';
+$lang['Navigation.getprimaryclient.nav_paymentaccounts_add'] = 'Lisää maksutili';
+$lang['Navigation.getprimaryclient.nav_return'] = 'Palaa hallintapaneeliin';
+$lang['Navigation.getprimaryclient.nav_services'] = 'Palvelut';
+$lang['Navigation.getprimarypublic.nav_dashboard'] = 'Etusivu';
+$lang['Navigation.getsearchoptions.clients'] = 'Asiakashaku';
+$lang['Navigation.getsearchoptions.invoices'] = 'Laskujen haku';
+$lang['Navigation.getsearchoptions.packages'] = 'Pakettihaku';
+$lang['Navigation.getsearchoptions.services'] = 'Palveluhaku';
+$lang['Navigation.getsearchoptions.smart'] = 'Älykäs haku';
+$lang['Navigation.getsearchoptions.transactions'] = 'Tapahtumahaku';
+$lang['Navigation.getsystem.nav_ai'] = 'Tekoäly';
+$lang['Navigation.getsystem.nav_api'] = 'API-käyttöoikeudet';
+$lang['Navigation.getsystem.nav_automation'] = 'Automaatio';
+$lang['Navigation.getsystem.nav_backup'] = 'Varmuuskopiointi';
+$lang['Navigation.getsystem.nav_backup_amazon'] = 'Amazon S3';
+$lang['Navigation.getsystem.nav_backup_ftp'] = 'Suojattu FTP';
+$lang['Navigation.getsystem.nav_backup_index'] = 'On Demand';
+$lang['Navigation.getsystem.nav_companies'] = 'Yritykset';
+$lang['Navigation.getsystem.nav_general'] = 'Yleistä';
+$lang['Navigation.getsystem.nav_general_basic'] = 'Perusasetukset';
+$lang['Navigation.getsystem.nav_general_geoip'] = 'GeoIP-asetukset';
+$lang['Navigation.getsystem.nav_general_license'] = 'Lisenssiavain';
+$lang['Navigation.getsystem.nav_general_maintenance'] = 'Huolto';
+$lang['Navigation.getsystem.nav_general_paymenttypes'] = 'Maksutavat';
+$lang['Navigation.getsystem.nav_help'] = 'Ohje';
+$lang['Navigation.getsystem.nav_help_about'] = 'Tietoa Blestasta';
+$lang['Navigation.getsystem.nav_help_index'] = 'Lähteet';
+$lang['Navigation.getsystem.nav_help_notes'] = 'Julkaisutiedot';
+$lang['Navigation.getsystem.nav_marketplace'] = 'Markkinapaikka';
+$lang['Navigation.getsystem.nav_staff'] = 'Henkilökunta';
+$lang['Navigation.getsystem.nav_staff_groups'] = 'Henkilöstöryhmät';
+$lang['Navigation.getsystem.nav_staff_manage'] = 'Henkilöstön hallinta';
+$lang['Navigation.getsystem.nav_upgrade'] = 'Päivitysvaihtoehdot';
+

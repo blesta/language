@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.transition_quotations.attempt'] = 'Försöker överföra utgångna citat.';
+$lang['Automation.task.transition_quotations.completed'] = 'Övergångsuppgiften för offerter har slutförts.';
 $lang['Automation.task.transition_quotations.dead_success'] = 'Den utgångna offerten #%1$s från kund #%2$s är nu död.';
 $lang['Automation.task.transition_quotations.expiration_success'] = 'Den väntande offerten #%1$s från kund #%2$s har nu löpt ut.';
 $lang['Automation.task.transition_quotations.none'] = 'Inga utgångna offerter är tillgängliga för övergång.';
-$lang['Automation.task.transition_quotations.completed'] = 'Övergångsuppgiften för offerter har slutförts.';
-$lang['Automation.task.transition_quotations.attempt'] = 'Försöker överföra utgångna citat.';
 

@@ -10,6 +10,6 @@
  */
 
 $lang['Module.!error.general'] = 'Ocorreu um erro ao processar a solicitação com o módulo.';
-$lang['Module.!error.unsupported'] = 'O módulo não é compatível com essa ação.';
 $lang['Module.!error.invalid'] = 'Foi recebida uma resposta de API inválida ou não reconhecida.';
+$lang['Module.!error.unsupported'] = 'O módulo não é compatível com essa ação.';
 

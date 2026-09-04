@@ -12,8 +12,8 @@
 $lang['Perfectmoney.!error.passphrase.valid'] = 'U moet een geldige wachtwoordzin invoeren.';
 $lang['Perfectmoney.!error.payee_account.valid'] = 'U moet een geldig account invoeren.';
 $lang['Perfectmoney.buildprocess.submit'] = 'Betalen met Perfect Money';
-$lang['Perfectmoney.passphrase_note'] = 'De alternatieve wachtwoordzin wordt gebruikt voor de berekening van de MD5 hash om betalingen te valideren.';
-$lang['Perfectmoney.passphrase'] = 'Alternatieve wachtwoordzin';
-$lang['Perfectmoney.payee_account'] = 'Rekening begunstigde';
 $lang['Perfectmoney.name'] = 'Perfect Geld';
+$lang['Perfectmoney.passphrase'] = 'Alternatieve wachtwoordzin';
+$lang['Perfectmoney.passphrase_note'] = 'De alternatieve wachtwoordzin wordt gebruikt voor de berekening van de MD5 hash om betalingen te valideren.';
+$lang['Perfectmoney.payee_account'] = 'Rekening begunstigde';
 

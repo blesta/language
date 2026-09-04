@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = '给定选项值 ID 之一不存在';
-$lang['PackageOptionConditionSets.!error.option_id.exists'] = '给定的选项 ID 不存在';
-$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = '给定的选项组 ID 不存在';
 $lang['PackageOptionConditionSets.!error.id.exists'] = '给定的选项条件 ID 不存在';
+$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = '给定的选项组 ID 不存在';
+$lang['PackageOptionConditionSets.!error.option_id.exists'] = '给定的选项 ID 不存在';
+$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = '给定选项值 ID 之一不存在';
 

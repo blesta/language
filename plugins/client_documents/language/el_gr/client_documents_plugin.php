@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Έγγραφα';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Έγγραφα';
 $lang['ClientDocumentsPlugin.description'] = 'Ανεβάστε αρχεία για λήψη από συγκεκριμένους πελάτες.';
 $lang['ClientDocumentsPlugin.name'] = 'Έγγραφα πελατών';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Έγγραφα';
 

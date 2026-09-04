@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Duitku.buildprocess.submit'] = 'Bayar dengan Duitku';
-$lang['Duitku.sandbox'] = 'Kotak pasir';
-$lang['Duitku.merchant_code'] = 'Kode Pedagang';
-$lang['Duitku.merchant_key'] = 'Kunci Pedagang';
-$lang['Duitku.!error.sandbox.valid'] = 'Bidang Sandbox harus bernilai benar atau salah.';
 $lang['Duitku.!error.merchant_code.empty'] = 'Kode Merchant tidak boleh kosong.';
 $lang['Duitku.!error.merchant_key.valid'] = 'Merchant Key yang diberikan tidak valid.';
+$lang['Duitku.!error.sandbox.valid'] = 'Bidang Sandbox harus bernilai benar atau salah.';
+$lang['Duitku.buildprocess.submit'] = 'Bayar dengan Duitku';
 $lang['Duitku.description'] = 'Menerima kartu kredit dan debit, dompet elektronik, transfer bank, dan mengirim pembayaran dalam jumlah besar melalui integrasi tunggal di Indonesia.';
+$lang['Duitku.merchant_code'] = 'Kode Pedagang';
+$lang['Duitku.merchant_key'] = 'Kunci Pedagang';
 $lang['Duitku.name'] = 'Duitku';
+$lang['Duitku.sandbox'] = 'Kotak pasir';
 

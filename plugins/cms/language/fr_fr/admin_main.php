@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.delete.!success'] = 'Page supprimée avec succès !';
 $lang['AdminMain.!success.manage'] = 'Changement sauvegardé avec succès !';
-$lang['AdminMain.manage.submit'] = 'Soumettre';
+$lang['AdminMain.delete.!success'] = 'Page supprimée avec succès !';
+$lang['AdminMain.index.add'] = 'Ajouter une page';
+$lang['AdminMain.index.boxtitle'] = 'Pages CMS';
+$lang['AdminMain.index.delete'] = 'Supprimer';
+$lang['AdminMain.index.edit'] = 'Editer';
+$lang['AdminMain.index.empty'] = 'Il n\'y a pas de pages...';
+$lang['AdminMain.index.heading.options'] = 'Actions';
+$lang['AdminMain.index.heading.title'] = 'Titre';
+$lang['AdminMain.index.heading.uri'] = 'URI';
+$lang['AdminMain.index.page_title'] = 'Pages CMS';
+$lang['AdminMain.manage.back'] = 'Retour aux pages';
+$lang['AdminMain.manage.boxtitle'] = 'Gérer la page CMS';
 $lang['AdminMain.manage.label.content'] = 'Contenu';
 $lang['AdminMain.manage.label.content_type'] = 'Type de contenu';
 $lang['AdminMain.manage.label.tags'] = 'Tags';
 $lang['AdminMain.manage.label.title'] = 'Titre';
 $lang['AdminMain.manage.label.uri'] = 'URI';
-$lang['AdminMain.manage.boxtitle'] = 'Gérer la page CMS';
+$lang['AdminMain.manage.submit'] = 'Soumettre';
 $lang['AdminMain.modal.delete'] = 'Êtes-vous sûr de vouloir supprimer cette page ?';
-$lang['AdminMain.index.empty'] = 'Il n\'y a pas de pages...';
-$lang['AdminMain.index.delete'] = 'Supprimer';
-$lang['AdminMain.index.edit'] = 'Editer';
-$lang['AdminMain.index.add'] = 'Ajouter une page';
-$lang['AdminMain.index.heading.title'] = 'Titre';
-$lang['AdminMain.index.heading.uri'] = 'URI';
-$lang['AdminMain.index.boxtitle'] = 'Pages CMS';
-$lang['AdminMain.index.page_title'] = 'Pages CMS';
-$lang['AdminMain.index.heading.options'] = 'Actions';
-$lang['AdminMain.manage.back'] = 'Retour aux pages';
 

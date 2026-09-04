@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_filters.field_service_meta'] = '服务元';
-$lang['Util.filters.service_filters.field_package_name'] = '软件包名称';
-$lang['Util.filters.service_filters.field_module_id'] = '模块';
 $lang['Util.filters.service_filters.any'] = '任何';
+$lang['Util.filters.service_filters.field_module_id'] = '模块';
+$lang['Util.filters.service_filters.field_package_name'] = '软件包名称';
 $lang['Util.filters.service_filters.field_service_id'] = '服务 ID';
+$lang['Util.filters.service_filters.field_service_meta'] = '服务元';
 

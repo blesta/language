@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'תחזוקה';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'מצב תחזוקה';
+$lang['ClientMaintenance.index.page_title'] = 'תחזוקה';
 

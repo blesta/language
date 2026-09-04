@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerManagePlugin.index.submit_settings'] = 'Spara';
-$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Tillåt att IP-adressen tillhandahålls av klienten';
-$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP Unblocker';
 $lang['IpUnblockerManagePlugin.!success.settings_updated'] = 'Inställningarna uppdaterades framgångsrikt!';
+$lang['IpUnblockerManagePlugin.index.boxtitle_manage'] = 'IP Unblocker';
+$lang['IpUnblockerManagePlugin.index.client_set_ip'] = 'Tillåt att IP-adressen tillhandahålls av klienten';
+$lang['IpUnblockerManagePlugin.index.submit_settings'] = 'Spara';
 

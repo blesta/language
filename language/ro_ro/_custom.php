@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Numerar';
+$lang['_PaymentTypes.check'] = 'Verificați';
 $lang['_PaymentTypes.in_house_credit'] = 'Credit intern';
 $lang['_PaymentTypes.money_order'] = 'Ordin de plată';
-$lang['_PaymentTypes.check'] = 'Verificați';
-$lang['_PaymentTypes.cash'] = 'Numerar';
 

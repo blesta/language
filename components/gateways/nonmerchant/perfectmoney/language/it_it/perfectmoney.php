@@ -12,8 +12,8 @@
 $lang['Perfectmoney.!error.passphrase.valid'] = 'È necessario inserire una passphrase valida.';
 $lang['Perfectmoney.!error.payee_account.valid'] = 'È necessario inserire un account valido.';
 $lang['Perfectmoney.buildprocess.submit'] = 'Pagare con Perfect Money';
-$lang['Perfectmoney.passphrase_note'] = 'La passphrase alternativa viene utilizzata per il calcolo dell\'hash MD5 per la convalida dei pagamenti.';
-$lang['Perfectmoney.passphrase'] = 'Passphrase alternativa';
-$lang['Perfectmoney.payee_account'] = 'Conto del beneficiario';
 $lang['Perfectmoney.name'] = 'Soldi perfetti';
+$lang['Perfectmoney.passphrase'] = 'Passphrase alternativa';
+$lang['Perfectmoney.passphrase_note'] = 'La passphrase alternativa viene utilizzata per il calcolo dell\'hash MD5 per la convalida dei pagamenti.';
+$lang['Perfectmoney.payee_account'] = 'Conto del beneficiario';
 

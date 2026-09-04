@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.contact_id.exists'] = '연락처가 존재하지 않습니다.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = '클라이언트가 존재하지 않습니다.';
+$lang['DownloadManagerLogs.!error.contact_id.exists'] = '연락처가 존재하지 않습니다.';
 $lang['DownloadManagerLogs.!error.file_id.exists'] = '파일이 존재하지 않습니다.';
 

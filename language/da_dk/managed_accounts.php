@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.client.exists'] = 'Der er ingen konto knyttet til den angivne e-mailadresse.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Ugyldigt klient-ID.';
+$lang['ManagedAccounts.!error.client.exists'] = 'Der er ingen konto knyttet til den angivne e-mailadresse.';
+$lang['ManagedAccounts.!error.contact_id.exists'] = 'Ugyldigt kontakt-ID.';
+$lang['ManagedAccounts.!error.email.exists'] = 'En invitation kunne ikke sendes. Sørg for, at e-mailadressen er korrekt, eller bed brugeren om at registrere sig først.';
 $lang['ManagedAccounts.!error.email.invitation'] = 'Der er allerede sendt en invitation til denne konto.';
 $lang['ManagedAccounts.!error.invitation_id.exists'] = 'Ugyldigt invitations-id.';
-$lang['ManagedAccounts.!error.contact_id.exists'] = 'Ugyldigt kontakt-ID.';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Du er ikke autoriseret til at administrere denne konto.';
 $lang['ManagedAccounts.!error.permissions.empty'] = 'Du skal tildele mindst én tilladelse til lederen.';
-$lang['ManagedAccounts.!error.email.exists'] = 'En invitation kunne ikke sendes. Sørg for, at e-mailadressen er korrekt, eller bed brugeren om at registrere sig først.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'Du er ikke autoriseret til at administrere denne konto.';
 

@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Twilio.name'] = 'Twilio';
-$lang['Twilio.description'] = 'Envía notificaciones por SMS utilizando Twilio.';
 $lang['Twilio.configuration_fields.phone_number'] = 'Número de teléfono';
 $lang['Twilio.configuration_fields.sid'] = 'Cuenta SID';
 $lang['Twilio.configuration_fields.token'] = 'Ficha';
+$lang['Twilio.description'] = 'Envía notificaciones por SMS utilizando Twilio.';
+$lang['Twilio.name'] = 'Twilio';
 

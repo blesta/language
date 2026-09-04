@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderTypeRegistration.name'] = 'Enregistrement des clients';
-$lang['OrderTypeRegistration.!success.signup'] = 'Nous vous remercions d\'avoir ouvert un compte chez nous.';
 $lang['OrderTypeRegistration.!error.template.valid'] = 'L\'enregistrement du client ne prend en charge que le modèle standard.';
+$lang['OrderTypeRegistration.!success.signup'] = 'Nous vous remercions d\'avoir ouvert un compte chez nous.';
+$lang['OrderTypeRegistration.name'] = 'Enregistrement des clients';
 

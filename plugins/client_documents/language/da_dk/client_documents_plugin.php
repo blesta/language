@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsPlugin.description'] = 'Upload filer til download af specifikke klienter.';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumenter';
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Dokumenter';
+$lang['ClientDocumentsPlugin.description'] = 'Upload filer til download af specifikke klienter.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokumenter';
 

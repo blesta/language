@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerPlugin.name'] = 'Απομπλοκαριστής IP';
-$lang['IpUnblockerPlugin.description'] = 'Ένα πρόσθετο για το Blesta που ενσωματώνεται με το cPanel και το DirectAdmin για να ξεμπλοκάρει τις IP που βρίσκονται σε μαύρη λίστα';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Ξεμπλοκάρισμα IP';
-$lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Αποστολή αιτήματος απεμπλοκής.';
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Δεν ήταν δυνατή η σύνδεση με τον απομακρυσμένο διακομιστή. cURL Error: %1$s';
+$lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Αποστολή αιτήματος απεμπλοκής.';
+$lang['IpUnblockerPlugin.description'] = 'Ένα πρόσθετο για το Blesta που ενσωματώνεται με το cPanel και το DirectAdmin για να ξεμπλοκάρει τις IP που βρίσκονται σε μαύρη λίστα';
+$lang['IpUnblockerPlugin.name'] = 'Απομπλοκαριστής IP';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Ξεμπλοκάρισμα IP';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.name'] = 'Γεννήτρια επέκτασης';
 $lang['ExtensionGeneratorPlugin.description'] = 'Αυτό είναι ένα πρόσθετο για την αυτόματη δημιουργία αρχείων για νέες επεκτάσεις Blesta';
+$lang['ExtensionGeneratorPlugin.name'] = 'Γεννήτρια επέκτασης';
 $lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Γεννήτρια επέκτασης';
 

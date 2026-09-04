@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsManagePlugin.index.field_submit'] = 'Seite aktualisieren';
+$lang['CmsManagePlugin.!success.plugin_updated'] = 'Das Portal wurde erfolgreich aktualisiert.';
+$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.field_content'] = 'Inhalt der Indexseite';
+$lang['CmsManagePlugin.index.field_submit'] = 'Seite aktualisieren';
 $lang['CmsManagePlugin.index.field_tags'] = 'Verfügbare Tags';
 $lang['CmsManagePlugin.index.field_title'] = 'Index Seite Titel';
-$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.page_title'] = 'Portal > Verwalten';
-$lang['CmsManagePlugin.!success.plugin_updated'] = 'Das Portal wurde erfolgreich aktualisiert.';
 

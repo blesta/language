@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Girişimler pozitif bir sayısal değer olmalıdır.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Belirtilen şirket mevcut değil.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Verilen hizmet kurulum için sıraya alınmamıştır.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Verilen hizmet mevcut değil.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Verilen hizmet kurulum için sıraya alınmamıştır.';
 

@@ -10,10 +10,10 @@
  */
 
 $lang['MessageGroups.!error.action.empty'] = 'Veuillez saisir une action.';
-$lang['MessageGroups.!error.type.valid'] = 'Le type de groupe de messages doit être défini sur "client", "personnel" ou "partagé".';
 $lang['MessageGroups.!error.plugin_dir.empty'] = 'Veuillez entrer le répertoire du plugin.';
 $lang['MessageGroups.!error.tags.empty'] = 'Veuillez saisir les étiquettes.';
-$lang['MessageGroups.getTypes.staff'] = 'Personnel';
+$lang['MessageGroups.!error.type.valid'] = 'Le type de groupe de messages doit être défini sur "client", "personnel" ou "partagé".';
 $lang['MessageGroups.getTypes.client'] = 'Client';
 $lang['MessageGroups.getTypes.shared'] = 'Partagé';
+$lang['MessageGroups.getTypes.staff'] = 'Personnel';
 

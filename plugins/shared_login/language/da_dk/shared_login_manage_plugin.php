@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.page_title'] = 'Fælles login';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Fælles login';
 $lang['SharedLoginManagePlugin.index.field_key'] = 'Fælles nøgle';
+$lang['SharedLoginManagePlugin.index.page_title'] = 'Fælles login';
 $lang['SharedLoginManagePlugin.index.submit'] = 'Gem';
 

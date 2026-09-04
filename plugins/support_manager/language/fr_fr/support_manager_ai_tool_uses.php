@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Le score de confiance doit être un nombre valide.';
 $lang['SupportManagerAiToolUses.!error.ticket_id.exists'] = 'ID du ticket non valide.';
 $lang['SupportManagerAiToolUses.!error.tool_name.empty'] = 'Le nom de l\'outil ne peut pas être vide.';
 $lang['SupportManagerAiToolUses.!error.tool_name.length'] = 'Le nom de l\'outil ne doit pas dépasser 50 caractères.';
-$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Le score de confiance doit être un nombre valide.';
 

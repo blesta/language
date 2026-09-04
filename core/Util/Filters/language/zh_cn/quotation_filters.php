@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.field_quotation_line'] = '项目内容';
-$lang['Util.filters.quotation_filters.field_currency'] = '货币';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = '报价 #';
 $lang['Util.filters.quotation_filters.any'] = '任何';
+$lang['Util.filters.quotation_filters.field_currency'] = '货币';
+$lang['Util.filters.quotation_filters.field_quotation_line'] = '项目内容';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = '报价 #';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'Προέκυψε σφάλμα κατά την επεξεργασία της αίτησης με την πύλη.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'Η πύλη δεν υποστηρίζει αυτή την ενέργεια.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Η συναλλαγή είναι άκυρη ή δεν είναι πλέον διαθέσιμη για την επεξεργασία της συγκεκριμένης ενέργειας.';
 $lang['NonmerchantGateway.!error.invalid'] = 'Ελήφθη μια άκυρη ή μη αναγνωρισμένη απάντηση πληρωμής.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Η συναλλαγή είναι άκυρη ή δεν είναι πλέον διαθέσιμη για την επεξεργασία της συγκεκριμένης ενέργειας.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Η πύλη δεν υποστηρίζει αυτή την ενέργεια.';
 

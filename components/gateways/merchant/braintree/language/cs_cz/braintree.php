@@ -10,17 +10,17 @@
  */
 
 $lang['Braintree.!error.environment'] = 'Vyberte platné prostředí.';
+$lang['Braintree.!error.live_mode.valid'] = 'Režim Live musí být nastaven na hodnotu "true", pokud je zadán.';
+$lang['Braintree.!error.merchant_id'] = 'Zadejte prosím své ID obchodníka.';
 $lang['Braintree.!error.private_key'] = 'Zadejte prosím svůj soukromý klíč.';
 $lang['Braintree.!error.public_key'] = 'Zadejte svůj veřejný klíč.';
-$lang['Braintree.!error.merchant_id'] = 'Zadejte prosím své ID obchodníka.';
-$lang['Braintree.!error.live_mode.valid'] = 'Režim Live musí být nastaven na hodnotu "true", pokud je zadán.';
+$lang['Braintree.description'] = 'Vyžaduje PHP &gt;= 7.3. Obchodníci ve více než 45 zemích/regionech světa mohou pomocí Braintree přijímat, rozdělovat a umožňovat platby ve více než 130 měnách.';
+$lang['Braintree.environment'] = 'Životní prostředí';
 $lang['Braintree.environment.production'] = 'Výroba';
 $lang['Braintree.environment.sandbox'] = 'Sandbox';
-$lang['Braintree.environment'] = 'Životní prostředí';
 $lang['Braintree.live_mode'] = 'Živý režim';
+$lang['Braintree.merchant_id'] = 'ID obchodníka';
+$lang['Braintree.name'] = 'Braintree';
 $lang['Braintree.private_key'] = 'Soukromý klíč';
 $lang['Braintree.public_key'] = 'Veřejný klíč';
-$lang['Braintree.merchant_id'] = 'ID obchodníka';
-$lang['Braintree.description'] = 'Vyžaduje PHP &gt;= 7.3. Obchodníci ve více než 45 zemích/regionech světa mohou pomocí Braintree přijímat, rozdělovat a umožňovat platby ve více než 130 měnách.';
-$lang['Braintree.name'] = 'Braintree';
 

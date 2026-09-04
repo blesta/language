@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = '节省';
-$lang['SharedLoginManagePlugin.index.field_key'] = '共享密钥';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = '共享登录';
+$lang['SharedLoginManagePlugin.index.field_key'] = '共享密钥';
 $lang['SharedLoginManagePlugin.index.page_title'] = '共享登录';
+$lang['SharedLoginManagePlugin.index.submit'] = '节省';
 

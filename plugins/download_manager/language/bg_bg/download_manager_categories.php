@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'Актуализираната категория не съществува.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'Моля, въведете описание на категорията.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'Моля, въведете име на категория.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Невалиден идентификационен номер на компанията.';
-$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'Избраната родителска категория може да не е самата категория.';
 $lang['DownloadManagerCategories.!error.parent_id.exists'] = 'Избраната родителска категория не съществува.';
+$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'Избраната родителска категория може да не е самата категория.';
 

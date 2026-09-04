@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.name'] = 'Générateur d\'extension';
 $lang['ExtensionGeneratorPlugin.description'] = 'Il s\'agit d\'un plugin permettant de générer automatiquement des fichiers pour les nouvelles extensions Blesta.';
+$lang['ExtensionGeneratorPlugin.name'] = 'Générateur d\'extension';
 $lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Générateur d\'extension';
 

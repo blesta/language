@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Liczba prób musi być dodatnia.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Podana firma nie istnieje.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Dana usługa nie znajduje się w kolejce do instalacji.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Dana usługa nie istnieje.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Dana usługa nie znajduje się w kolejce do instalacji.';
 

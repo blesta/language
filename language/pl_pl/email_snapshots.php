@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'Identyfikator e-mail nie istnieje.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Identyfikator migawki nie istnieje.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Migawka nie należy do określonej wiadomości e-mail.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Identyfikator migawki nie istnieje.';
 

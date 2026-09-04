@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.provision_pending_services.success'] = 'Der ausstehende Dienst #%1$s vom Client #%2$s ist jetzt aktiv.';
-$lang['Automation.task.provision_pending_services.error'] = 'Der ausstehende Dienst #%1$s vom Client #%2$s konnte nicht aktiviert werden.';
-$lang['Automation.task.provision_pending_services.completed'] = 'Die Aufgabe "Bezahlte ausstehende Dienstleistungen" ist abgeschlossen.';
 $lang['Automation.task.provision_pending_services.attempt'] = 'Versuch der Bereitstellung bezahlter ausstehender Dienstleistungen.';
+$lang['Automation.task.provision_pending_services.completed'] = 'Die Aufgabe "Bezahlte ausstehende Dienstleistungen" ist abgeschlossen.';
+$lang['Automation.task.provision_pending_services.error'] = 'Der ausstehende Dienst #%1$s vom Client #%2$s konnte nicht aktiviert werden.';
+$lang['Automation.task.provision_pending_services.success'] = 'Der ausstehende Dienst #%1$s vom Client #%2$s ist jetzt aktiv.';
 

@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.apply_payments.apply_failed'] = 'يتعذر تطبيق الاعتمادات المعلقة للعميل رقم%1$s.';
 $lang['Automation.task.apply_payments.apply_none'] = 'لا توجد فواتير يمكن تطبيق الاعتمادات عليها.';
 $lang['Automation.task.apply_payments.apply_success'] = 'تم بنجاح تطبيق الاعتمادات المعلقة من المعاملة %1$s للعميل رقم%2$s على الفاتورة رقم%3$s بمبلغ %4$s.';
-$lang['Automation.task.apply_payments.apply_failed'] = 'يتعذر تطبيق الاعتمادات المعلقة للعميل رقم%1$s.';
-$lang['Automation.task.apply_payments.completed_group'] = 'تم الانتهاء من تطبيق الاعتمادات لمجموعة العملاء %1$s.';
+$lang['Automation.task.apply_payments.attempt'] = 'محاولة تطبيق الاعتمادات على الفواتير المفتوحة.';
 $lang['Automation.task.apply_payments.attempt_group'] = 'محاولة تطبيق الاعتمادات لمجموعة العملاء %1$s.';
 $lang['Automation.task.apply_payments.completed'] = 'اكتملت مهمة تطبيق الاعتمادات.';
-$lang['Automation.task.apply_payments.attempt'] = 'محاولة تطبيق الاعتمادات على الفواتير المفتوحة.';
+$lang['Automation.task.apply_payments.completed_group'] = 'تم الانتهاء من تطبيق الاعتمادات لمجموعة العملاء %1$s.';
 

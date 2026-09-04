@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = 'Автоматическое составление графика отмены услуг.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Автоматическое составление графика отмены приостановленных услуг.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Автоматическая отмена расписания';
-$lang['AutoCancelPlugin.description'] = 'Автоматическое составление графика отмены услуг.';
 $lang['AutoCancelPlugin.name'] = 'Автоматическая отмена';
 

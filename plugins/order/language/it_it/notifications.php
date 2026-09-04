@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Notifications.notification.Order.staff_order_received_name'] = 'Ordine ricevuto';
 $lang['Notifications.notification.Order.staff_order_received_desc'] = 'È stato effettuato un nuovo ordine o richiede una revisione manuale.';
-$lang['Notifications.notification.Order.staff_payout_requested_name'] = 'Richiesta di pagamento da parte dell\'affiliato';
+$lang['Notifications.notification.Order.staff_order_received_name'] = 'Ordine ricevuto';
 $lang['Notifications.notification.Order.staff_payout_requested_desc'] = 'Un affiliato ha richiesto un pagamento.';
+$lang['Notifications.notification.Order.staff_payout_requested_name'] = 'Richiesta di pagamento da parte dell\'affiliato';
 

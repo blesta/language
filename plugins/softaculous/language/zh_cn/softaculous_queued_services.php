@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = '尝试次数必须是正数值。';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = '给定的公司不存在。';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = '给定服务未排队等待安装。';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = '给定服务不存在。';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = '给定服务未排队等待安装。';
 

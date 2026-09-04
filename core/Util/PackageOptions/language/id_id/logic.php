@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.packageoptions.logic.invalid_option'] = 'Tidak ada set kondisi yang dipenuhi untuk mengizinkan opsi %1$ yang dapat dikonfigurasi. Opsi ini tidak boleh dikirimkan.';
+$lang['Util.packageoptions.logic.invalid_option'] = 'Tidak ada kumpulan kondisi yang terpenuhi untuk mengaktifkan opsi konfigurasi ` %1$s `. Opsi ini tidak boleh dikirimkan.';
 

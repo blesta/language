@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.invalid'] = 'المورد المطلوب غير موجود أو غير صالح.';
 $lang['Feed.!error.disabled'] = 'تم تعطيل خلاصة البيانات هذه، لتفعيلها قم بزيارة الإعدادات &gt; الشركة &gt; الخلاصات في منطقة الموظفين.';
+$lang['Feed.!error.invalid'] = 'المورد المطلوب غير موجود أو غير صالح.';
 

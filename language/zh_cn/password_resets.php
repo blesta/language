@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PasswordResets.!error.user_id.exists'] = '给出的用户 ID 无效。';
 $lang['PasswordResets.!error.email.format'] = '提供的电子邮件地址无效。';
+$lang['PasswordResets.!error.user_id.exists'] = '给出的用户 ID 无效。';
 

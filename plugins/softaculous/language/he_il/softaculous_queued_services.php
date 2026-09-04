@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'הניסיונות חייבים להיות ערכים מספריים חיוביים.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'החברה הזו אינה קיימת.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'השירות הנ"ל אינו בתור להתקנה.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'השירות המצוין אינו קיים.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'השירות הנ"ל אינו בתור להתקנה.';
 

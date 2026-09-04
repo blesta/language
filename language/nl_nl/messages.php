@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Messages.getStatusTypes.inactive'] = 'Inactief';
-$lang['Messages.getStatusTypes.active'] = 'Actief';
-$lang['Messages.getTypes.sms'] = 'SMS';
+$lang['Messages.!error.company_id.valid'] = 'Ongeldig bedrijfs-ID.';
 $lang['Messages.!error.content.format'] = 'De inhoud van het bericht moet een matrix zijn.';
+$lang['Messages.!error.message_group_id.valid'] = 'Ongeldig berichtgroep-ID.';
 $lang['Messages.!error.status.valid'] = 'De berichtstatus moet worden ingesteld op "actief" of "inactief".';
 $lang['Messages.!error.type.valid'] = 'Het berichttype moet zijn ingesteld op "sms".';
-$lang['Messages.!error.company_id.valid'] = 'Ongeldig bedrijfs-ID.';
-$lang['Messages.!error.message_group_id.valid'] = 'Ongeldig berichtgroep-ID.';
+$lang['Messages.getStatusTypes.active'] = 'Actief';
+$lang['Messages.getStatusTypes.inactive'] = 'Inactief';
+$lang['Messages.getTypes.sms'] = 'SMS';
 

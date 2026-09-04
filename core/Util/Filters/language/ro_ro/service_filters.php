@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_filters.field_service_meta'] = 'Serviciul Meta';
-$lang['Util.filters.service_filters.field_package_name'] = 'Numele pachetului';
-$lang['Util.filters.service_filters.field_module_id'] = 'Modul';
 $lang['Util.filters.service_filters.any'] = 'Orice';
+$lang['Util.filters.service_filters.field_module_id'] = 'Modul';
+$lang['Util.filters.service_filters.field_package_name'] = 'Numele pachetului';
 $lang['Util.filters.service_filters.field_service_id'] = 'ID-ul serviciului';
+$lang['Util.filters.service_filters.field_service_meta'] = 'Serviciul Meta';
 

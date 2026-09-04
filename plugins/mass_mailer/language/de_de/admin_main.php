@@ -9,30 +9,30 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.index.no_results'] = 'Derzeit sind keine Mailing-Aufträge vorhanden.';
-$lang['AdminMain.index.no_export_details'] = 'Es sind keine Einzelheiten über die Ausfuhr verfügbar.';
-$lang['AdminMain.index.email_to_recipients'] = '%1$s Begünstigte(r)';
-$lang['AdminMain.index.email_subject'] = 'Thema';
+$lang['AdminMain.!error.export_found'] = 'Der Export konnte im Dateisystem nicht gefunden werden.';
+$lang['AdminMain.!success.options_updated'] = 'Die Einstellungen des Mass Mailers wurden erfolgreich aktualisiert!';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Begrenzt die Anzahl der pro Cron-Task-Ausführung gesendeten E-Mails. Bei der nächsten Ausführung wird die Aufgabe an der Stelle fortgesetzt, an der sie aufgehört hat, und der nächste Stapel von E-Mails wird versendet usw., bis alle E-Mails versendet wurden. 0 für keine Begrenzung.';
+$lang['AdminMain.index.boxtitle'] = 'Massenversender Jobs';
+$lang['AdminMain.index.categorylink_compose'] = 'Neues Mailing erstellen';
 $lang['AdminMain.index.email_from'] = 'Von';
+$lang['AdminMain.index.email_subject'] = 'Thema';
 $lang['AdminMain.index.email_to'] = 'An';
-$lang['AdminMain.index.type.export'] = 'Exportieren';
-$lang['AdminMain.index.type.email'] = 'E-Mail';
-$lang['AdminMain.index.option_export'] = 'Exportieren';
-$lang['AdminMain.index.heading_options'] = 'Aktionen';
+$lang['AdminMain.index.email_to_recipients'] = '%1$s Begünstigte(r)';
 $lang['AdminMain.index.heading_complete'] = 'Abgeschlossen';
+$lang['AdminMain.index.heading_date'] = 'Datum hinzugefügt';
+$lang['AdminMain.index.heading_options'] = 'Aktionen';
 $lang['AdminMain.index.heading_status'] = 'Status';
 $lang['AdminMain.index.heading_type'] = 'Typ';
-$lang['AdminMain.index.heading_date'] = 'Datum hinzugefügt';
 $lang['AdminMain.index.job_task_total'] = '%1$s / %2$s';
-$lang['AdminMain.index.categorylink_compose'] = 'Neues Mailing erstellen';
-$lang['AdminMain.index.boxtitle'] = 'Massenversender Jobs';
+$lang['AdminMain.index.no_export_details'] = 'Es sind keine Einzelheiten über die Ausfuhr verfügbar.';
+$lang['AdminMain.index.no_results'] = 'Derzeit sind keine Mailing-Aufträge vorhanden.';
+$lang['AdminMain.index.option_export'] = 'Exportieren';
 $lang['AdminMain.index.page_title'] = 'Massenversender';
-$lang['AdminMain.!error.export_found'] = 'Der Export konnte im Dateisystem nicht gefunden werden.';
+$lang['AdminMain.index.type.email'] = 'E-Mail';
+$lang['AdminMain.index.type.export'] = 'Exportieren';
+$lang['AdminMain.settings.boxtitle'] = 'Einstellungen des Massenversenders';
 $lang['AdminMain.settings.form.rate_limit'] = 'Satzgrenze';
+$lang['AdminMain.settings.heading'] = 'Einstellungen';
 $lang['AdminMain.settings.submit_cancel'] = 'Abbrechen';
 $lang['AdminMain.settings.submit_settings'] = 'Einstellungen speichern';
-$lang['AdminMain.settings.heading'] = 'Einstellungen';
-$lang['AdminMain.settings.boxtitle'] = 'Einstellungen des Massenversenders';
-$lang['AdminMain.!tooltip.rate_limit'] = 'Begrenzt die Anzahl der pro Cron-Task-Ausführung gesendeten E-Mails. Bei der nächsten Ausführung wird die Aufgabe an der Stelle fortgesetzt, an der sie aufgehört hat, und der nächste Stapel von E-Mails wird versendet usw., bis alle E-Mails versendet wurden. 0 für keine Begrenzung.';
-$lang['AdminMain.!success.options_updated'] = 'Die Einstellungen des Mass Mailers wurden erfolgreich aktualisiert!';
 

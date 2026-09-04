@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Contant';
+$lang['_PaymentTypes.check'] = 'Controleer';
 $lang['_PaymentTypes.in_house_credit'] = 'In huis krediet';
 $lang['_PaymentTypes.money_order'] = 'Postwissel';
-$lang['_PaymentTypes.check'] = 'Controleer';
-$lang['_PaymentTypes.cash'] = 'Contant';
 

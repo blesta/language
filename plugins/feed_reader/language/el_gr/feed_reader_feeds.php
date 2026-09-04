@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderFeeds.!error.url.valid'] = 'Η διεύθυνση URL που δόθηκε είναι άκυρη.';
 $lang['FeedReaderFeeds.!error.company_id.exists'] = 'Η συγκεκριμένη εταιρεία δεν υπάρχει.';
-$lang['FeedReaderFeeds.!error.updated.valid'] = 'Πρέπει να καθορίσετε μια έγκυρη ημερομηνία ενημέρωσης.';
+$lang['FeedReaderFeeds.!error.date.valid'] = 'Τα δεδομένα που καθορίστηκαν είναι άκυρα.';
 $lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Η δεδομένη τροφή δεν υπάρχει.';
 $lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Το συγκεκριμένο μέλος του προσωπικού δεν υπάρχει.';
-$lang['FeedReaderFeeds.!error.date.valid'] = 'Τα δεδομένα που καθορίστηκαν είναι άκυρα.';
+$lang['FeedReaderFeeds.!error.updated.valid'] = 'Πρέπει να καθορίσετε μια έγκυρη ημερομηνία ενημέρωσης.';
+$lang['FeedReaderFeeds.!error.url.valid'] = 'Η διεύθυνση URL που δόθηκε είναι άκυρη.';
 

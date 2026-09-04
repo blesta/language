@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'Η έκδοση είναι άκυρη.';
-$lang['MessengerManager.!error.name.valid'] = 'Το όνομα είναι άκυρο.';
-$lang['MessengerManager.!error.dir.valid'] = 'Ο κατάλογος είναι άκυρος.';
 $lang['MessengerManager.!error.company_id.valid'] = 'Το αναγνωριστικό της εταιρείας είναι άκυρο.';
+$lang['MessengerManager.!error.dir.valid'] = 'Ο κατάλογος είναι άκυρος.';
 $lang['MessengerManager.!error.messenger.missing'] = 'Δεν έχει ρυθμιστεί κανένας αγγελιοφόρος για τον συγκεκριμένο τύπο.';
+$lang['MessengerManager.!error.name.valid'] = 'Το όνομα είναι άκυρο.';
+$lang['MessengerManager.!error.version.valid'] = 'Η έκδοση είναι άκυρη.';
 

@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Messages.getStatusTypes.inactive'] = 'Inaktiv';
-$lang['Messages.getStatusTypes.active'] = 'Aktiv';
-$lang['Messages.getTypes.sms'] = 'SMS';
+$lang['Messages.!error.company_id.valid'] = 'Ogiltigt företags-ID.';
 $lang['Messages.!error.content.format'] = 'Meddelandets innehåll måste vara en array.';
+$lang['Messages.!error.message_group_id.valid'] = 'Ogiltigt ID för meddelandegrupp.';
 $lang['Messages.!error.status.valid'] = 'Meddelandets status måste vara "aktiv" eller "inaktiv".';
 $lang['Messages.!error.type.valid'] = 'Meddelandetypen måste vara inställd på "sms".';
-$lang['Messages.!error.company_id.valid'] = 'Ogiltigt företags-ID.';
-$lang['Messages.!error.message_group_id.valid'] = 'Ogiltigt ID för meddelandegrupp.';
+$lang['Messages.getStatusTypes.active'] = 'Aktiv';
+$lang['Messages.getStatusTypes.inactive'] = 'Inaktiv';
+$lang['Messages.getTypes.sms'] = 'SMS';
 

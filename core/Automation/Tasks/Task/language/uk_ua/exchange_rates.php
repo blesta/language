@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = 'Спроба оновити курси валют.';
+$lang['Automation.task.exchange_rates.completed'] = 'Завдання з обмінними курсами виконано.';
 $lang['Automation.task.exchange_rates.failed'] = 'Курси валют не вдалося оновити.';
 $lang['Automation.task.exchange_rates.success'] = 'Курси валют були успішно оновлені.';
-$lang['Automation.task.exchange_rates.completed'] = 'Завдання з обмінними курсами виконано.';
-$lang['Automation.task.exchange_rates.attempt'] = 'Спроба оновити курси валют.';
 

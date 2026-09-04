@@ -9,21 +9,21 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorController.gettasktypes.interval'] = 'מרווח';
-$lang['ExtensionGeneratorController.gettasktypes.time'] = 'זמן';
-$lang['ExtensionGeneratorController.gettablevels.client'] = 'לקוח';
-$lang['ExtensionGeneratorController.gettablevels.staff'] = 'צוות';
 $lang['ExtensionGeneratorController.getfieldtypes.checkbox'] = 'תיבת סימון';
-$lang['ExtensionGeneratorController.getfieldtypes.textarea'] = 'שדה טקסט';
 $lang['ExtensionGeneratorController.getfieldtypes.text'] = 'טקסט';
-$lang['ExtensionGeneratorController.getnodes.confirm'] = 'אישור';
+$lang['ExtensionGeneratorController.getfieldtypes.textarea'] = 'שדה טקסט';
 $lang['ExtensionGeneratorController.getnodes.additional_features'] = 'תכונות נוספות';
-$lang['ExtensionGeneratorController.getnodes.nonmerchant_fields'] = 'שדות תצורה';
+$lang['ExtensionGeneratorController.getnodes.basic_info'] = 'מידע בסיסי';
+$lang['ExtensionGeneratorController.getnodes.confirm'] = 'אישור';
+$lang['ExtensionGeneratorController.getnodes.general_settings'] = 'הגדרות כלליות';
 $lang['ExtensionGeneratorController.getnodes.merchant_features'] = 'תכונות נתמכות';
 $lang['ExtensionGeneratorController.getnodes.merchant_fields'] = 'שדות תצורה';
 $lang['ExtensionGeneratorController.getnodes.module_fields'] = 'שדות מודול';
-$lang['ExtensionGeneratorController.getnodes.plugin_integrations'] = 'אינטגרציות מרכזיות';
+$lang['ExtensionGeneratorController.getnodes.nonmerchant_fields'] = 'שדות תצורה';
 $lang['ExtensionGeneratorController.getnodes.plugin_database'] = 'פרטי מסד הנתונים';
-$lang['ExtensionGeneratorController.getnodes.basic_info'] = 'מידע בסיסי';
-$lang['ExtensionGeneratorController.getnodes.general_settings'] = 'הגדרות כלליות';
+$lang['ExtensionGeneratorController.getnodes.plugin_integrations'] = 'אינטגרציות מרכזיות';
+$lang['ExtensionGeneratorController.gettablevels.client'] = 'לקוח';
+$lang['ExtensionGeneratorController.gettablevels.staff'] = 'צוות';
+$lang['ExtensionGeneratorController.gettasktypes.interval'] = 'מרווח';
+$lang['ExtensionGeneratorController.gettasktypes.time'] = 'זמן';
 

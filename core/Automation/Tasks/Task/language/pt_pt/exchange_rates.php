@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = 'Tentativa de atualizar as taxas de câmbio.';
+$lang['Automation.task.exchange_rates.completed'] = 'A tarefa relativa às taxas de câmbio foi concluída.';
 $lang['Automation.task.exchange_rates.failed'] = 'As taxas de câmbio não puderam ser actualizadas.';
 $lang['Automation.task.exchange_rates.success'] = 'As taxas de câmbio foram actualizadas com êxito.';
-$lang['Automation.task.exchange_rates.completed'] = 'A tarefa relativa às taxas de câmbio foi concluída.';
-$lang['Automation.task.exchange_rates.attempt'] = 'Tentativa de atualizar as taxas de câmbio.';
 

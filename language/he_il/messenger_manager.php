@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'הגרסה אינה חוקית.';
-$lang['MessengerManager.!error.name.valid'] = 'השם אינו חוקי.';
-$lang['MessengerManager.!error.dir.valid'] = 'הספרייה אינה חוקית.';
 $lang['MessengerManager.!error.company_id.valid'] = 'מספר הזיהוי של החברה אינו חוקי.';
+$lang['MessengerManager.!error.dir.valid'] = 'הספרייה אינה חוקית.';
 $lang['MessengerManager.!error.messenger.missing'] = 'אין שליח שהוגדר עבור הסוג הנתון.';
+$lang['MessengerManager.!error.name.valid'] = 'השם אינו חוקי.';
+$lang['MessengerManager.!error.version.valid'] = 'הגרסה אינה חוקית.';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.completed'] = 'Sarcina de validare a licenței a fost finalizată.';
 $lang['Automation.task.license_validation.attempt'] = 'Încercarea de validare a licenței.';
+$lang['Automation.task.license_validation.completed'] = 'Sarcina de validare a licenței a fost finalizată.';
 

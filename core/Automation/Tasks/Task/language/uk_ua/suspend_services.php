@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.suspendservices.success'] = 'Послугу #%1$s від клієнта %2$s призупинено.';
-$lang['Automation.task.suspendservices.error'] = 'Послуга #%1$s від клієнта %2$s не може бути призупинена.';
-$lang['Automation.task.suspendservices.suspension_reason'] = 'Несплата';
-$lang['Automation.task.suspendservices.completed'] = 'Завдання з призупинення роботи сервісу виконано.';
 $lang['Automation.task.suspendservices.attempt'] = 'Спроба оформити відсторонення від служби.';
+$lang['Automation.task.suspendservices.completed'] = 'Завдання з призупинення роботи сервісу виконано.';
+$lang['Automation.task.suspendservices.error'] = 'Послуга #%1$s від клієнта %2$s не може бути призупинена.';
+$lang['Automation.task.suspendservices.success'] = 'Послугу #%1$s від клієнта %2$s призупинено.';
+$lang['Automation.task.suspendservices.suspension_reason'] = 'Несплата';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID du ticket non valide.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Statut non valide. Doit être l\'un des suivants : en attente, utilisé, expiré, pas de réponse nécessaire.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'La confiance doit être un nombre.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Statut non valide. Doit être l\'un des suivants : en attente, utilisé, expiré, pas de réponse nécessaire.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID du ticket non valide.';
 

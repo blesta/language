@@ -11,6 +11,6 @@
 
 $lang['_PaymentTypes.cash'] = 'Kontanter';
 $lang['_PaymentTypes.check'] = 'Tjek';
-$lang['_PaymentTypes.money_order'] = 'Postanvisning';
 $lang['_PaymentTypes.in_house_credit'] = 'Kredit i huset';
+$lang['_PaymentTypes.money_order'] = 'Postanvisning';
 

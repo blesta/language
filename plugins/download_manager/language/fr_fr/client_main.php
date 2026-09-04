@@ -10,8 +10,8 @@
  */
 
 $lang['ClientMain.!text.root_directory'] = 'Accueil';
-$lang['ClientMain.index.page_title'] = 'Téléchargements';
 $lang['ClientMain.index.boxtitle_downloads'] = 'Téléchargements';
 $lang['ClientMain.index.login'] = 'Vous devez vous connecter pour voir les téléchargements dans cette section.';
 $lang['ClientMain.index.no_downloads'] = 'Il n\'y a pas de téléchargements disponibles dans cette section.';
+$lang['ClientMain.index.page_title'] = 'Téléchargements';
 

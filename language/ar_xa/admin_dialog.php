@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.password.btn_use_password'] = 'استخدام كلمة المرور';
-$lang['AdminDialog.password.btn_cancel'] = 'إلغاء';
-$lang['AdminDialog.password.btn_modal_password'] = 'كلمة المرور';
-$lang['AdminDialog.password.btn_generate'] = 'توليد';
-$lang['AdminDialog.password.field_modal_password_copied'] = 'لقد قمت بنسخ كلمة المرور هذه إلى مكان آمن';
-$lang['AdminDialog.password.field_modal_password'] = 'كلمة المرور';
 $lang['AdminDialog.confirm.text_no'] = 'لا يوجد';
 $lang['AdminDialog.confirm.text_yes'] = 'نعم';
-$lang['AdminDialog.password.title'] = 'إنشاء كلمة مرور';
+$lang['AdminDialog.password.btn_cancel'] = 'إلغاء';
+$lang['AdminDialog.password.btn_generate'] = 'توليد';
+$lang['AdminDialog.password.btn_modal_password'] = 'كلمة المرور';
+$lang['AdminDialog.password.btn_use_password'] = 'استخدام كلمة المرور';
+$lang['AdminDialog.password.field_modal_password'] = 'كلمة المرور';
+$lang['AdminDialog.password.field_modal_password_copied'] = 'لقد قمت بنسخ كلمة المرور هذه إلى مكان آمن';
 $lang['AdminDialog.password.text_click_generate'] = 'انقر فوق إنشاء لإنشاء كلمة مرور آمنة.';
+$lang['AdminDialog.password.title'] = 'إنشاء كلمة مرور';
 

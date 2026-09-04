@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Twilio.configuration_fields.token'] = '代币';
-$lang['Twilio.configuration_fields.sid'] = '账户 SID';
 $lang['Twilio.configuration_fields.phone_number'] = '电话号码';
+$lang['Twilio.configuration_fields.sid'] = '账户 SID';
+$lang['Twilio.configuration_fields.token'] = '代币';
 $lang['Twilio.description'] = '使用 Twilio 发送短信通知。';
 $lang['Twilio.name'] = 'Twilio';
 

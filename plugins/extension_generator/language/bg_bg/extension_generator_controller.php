@@ -9,21 +9,21 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorController.gettasktypes.interval'] = 'Интервал';
-$lang['ExtensionGeneratorController.gettasktypes.time'] = 'Време';
-$lang['ExtensionGeneratorController.gettablevels.client'] = 'Клиент';
-$lang['ExtensionGeneratorController.gettablevels.staff'] = 'Персонал';
 $lang['ExtensionGeneratorController.getfieldtypes.checkbox'] = 'Поле за отметка';
-$lang['ExtensionGeneratorController.getfieldtypes.textarea'] = 'Текстова област';
 $lang['ExtensionGeneratorController.getfieldtypes.text'] = 'Текст';
-$lang['ExtensionGeneratorController.getnodes.confirm'] = 'Потвърждение';
+$lang['ExtensionGeneratorController.getfieldtypes.textarea'] = 'Текстова област';
 $lang['ExtensionGeneratorController.getnodes.additional_features'] = 'Допълнителни функции';
-$lang['ExtensionGeneratorController.getnodes.nonmerchant_fields'] = 'Полета за конфигуриране';
+$lang['ExtensionGeneratorController.getnodes.basic_info'] = 'Основна информация';
+$lang['ExtensionGeneratorController.getnodes.confirm'] = 'Потвърждение';
+$lang['ExtensionGeneratorController.getnodes.general_settings'] = 'Общи настройки';
 $lang['ExtensionGeneratorController.getnodes.merchant_features'] = 'Поддържани функции';
 $lang['ExtensionGeneratorController.getnodes.merchant_fields'] = 'Полета за конфигуриране';
 $lang['ExtensionGeneratorController.getnodes.module_fields'] = 'Полета на модула';
-$lang['ExtensionGeneratorController.getnodes.plugin_integrations'] = 'Основни интеграции';
+$lang['ExtensionGeneratorController.getnodes.nonmerchant_fields'] = 'Полета за конфигуриране';
 $lang['ExtensionGeneratorController.getnodes.plugin_database'] = 'Информация за базата данни';
-$lang['ExtensionGeneratorController.getnodes.basic_info'] = 'Основна информация';
-$lang['ExtensionGeneratorController.getnodes.general_settings'] = 'Общи настройки';
+$lang['ExtensionGeneratorController.getnodes.plugin_integrations'] = 'Основни интеграции';
+$lang['ExtensionGeneratorController.gettablevels.client'] = 'Клиент';
+$lang['ExtensionGeneratorController.gettablevels.staff'] = 'Персонал';
+$lang['ExtensionGeneratorController.gettasktypes.interval'] = 'Интервал';
+$lang['ExtensionGeneratorController.gettasktypes.time'] = 'Време';
 

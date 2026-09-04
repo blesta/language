@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'Ocorreu um erro ao processar a solicitação com o gateway.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'O gateway não oferece suporte a essa ação.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'A transação é inválida ou não está mais disponível para o processamento dessa ação.';
 $lang['NonmerchantGateway.!error.invalid'] = 'Foi recebida uma resposta de pagamento inválida ou não reconhecida.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'A transação é inválida ou não está mais disponível para o processamento dessa ação.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'O gateway não oferece suporte a essa ação.';
 

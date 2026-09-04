@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Speichern Sie';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Gemeinsamer Schlüssel';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Gemeinsame Anmeldung';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Gemeinsamer Schlüssel';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Gemeinsame Anmeldung';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Speichern Sie';
 

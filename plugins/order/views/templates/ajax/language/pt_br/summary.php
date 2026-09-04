@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Summary.index.paymethods_note'] = 'Selecione o método de pagamento desejado.';
-$lang['Summary.index.heading_paymethods'] = 'Método de pagamento';
-$lang['Summary.index.empty_cart'] = 'Carrinho vazio';
-$lang['Summary.index.table_price'] = 'Preço';
-$lang['Summary.index.table_description'] = 'Descrição';
-$lang['Summary.index.summary_note'] = 'Todos os impostos aplicáveis serão calculados após o registro ou login.';
-$lang['Summary.index.heading_summary'] = 'Resumo do pedido';
-$lang['Summary.index.coupon_btn'] = 'Resgatar';
 $lang['Summary.index.coupon'] = 'Cupom';
+$lang['Summary.index.coupon_btn'] = 'Resgatar';
+$lang['Summary.index.empty_cart'] = 'Carrinho vazio';
 $lang['Summary.index.have_coupon'] = 'Use um código de cupom';
+$lang['Summary.index.heading_paymethods'] = 'Método de pagamento';
+$lang['Summary.index.heading_summary'] = 'Resumo do pedido';
+$lang['Summary.index.paymethods_note'] = 'Selecione o método de pagamento desejado.';
+$lang['Summary.index.summary_note'] = 'Todos os impostos aplicáveis serão calculados após o registro ou login.';
+$lang['Summary.index.table_description'] = 'Descrição';
+$lang['Summary.index.table_price'] = 'Preço';
 

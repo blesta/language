@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'מסמכים';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'מסמכים';
 $lang['ClientDocumentsPlugin.description'] = 'העלה קבצים להורדה על ידי לקוחות ספציפיים.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'מסמכים';
 

@@ -10,6 +10,6 @@
  */
 
 $lang['ExtensionGeneratorPlugin.description'] = 'Dette er et plugin til automatisk generering af filer til nye Blesta-udvidelser';
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Forlængelsesgenerator';
 $lang['ExtensionGeneratorPlugin.name'] = 'Extension Generator';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Forlængelsesgenerator';
 

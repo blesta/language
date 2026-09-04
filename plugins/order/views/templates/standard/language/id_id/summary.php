@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Summary.index.box_heading'] = 'Keranjang Anda';
 $lang['Summary.index.cart_empty'] = 'Tidak ada barang di keranjang Anda.';
-$lang['Summary.index.coupon_btn'] = 'Tebus';
-$lang['Summary.index.coupon'] = 'Kupon';
-$lang['Summary.index.have_coupon'] = 'Punya kupon?';
 $lang['Summary.index.checkout_btn'] = 'Pembayaran';
-$lang['Summary.index.login_btn'] = 'Masuk';
+$lang['Summary.index.coupon'] = 'Kupon';
+$lang['Summary.index.coupon_btn'] = 'Tebus';
 $lang['Summary.index.field_password'] = 'Kata sandi';
 $lang['Summary.index.field_username'] = 'Nama pengguna';
+$lang['Summary.index.have_coupon'] = 'Punya kupon?';
 $lang['Summary.index.link_resetpassword'] = 'Atur Ulang Kata Sandi Saya';
-$lang['Summary.index.login_link'] = 'Masuk';
+$lang['Summary.index.login_btn'] = 'Masuk';
 $lang['Summary.index.login_customer'] = 'Pelanggan yang sudah ada?';
-$lang['Summary.index.box_heading'] = 'Keranjang Anda';
+$lang['Summary.index.login_link'] = 'Masuk';
 

@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'الفئة التي يتم تحديثها غير موجودة.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'يُرجى إدخال وصف الفئة.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'الرجاء إدخال اسم الفئة.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
-$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'قد لا تكون الفئة الأصلية المحددة هي الفئة نفسها.';
 $lang['DownloadManagerCategories.!error.parent_id.exists'] = 'الفئة الأصلية المحددة غير موجودة.';
+$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'قد لا تكون الفئة الأصلية المحددة هي الفئة نفسها.';
 

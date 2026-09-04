@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'Underhåll';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'Underhållsläge';
+$lang['ClientMaintenance.index.page_title'] = 'Underhåll';
 

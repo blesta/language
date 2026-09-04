@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Uložit';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Sdílený klíč';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Sdílené přihlášení';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Sdílený klíč';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Sdílené přihlášení';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Uložit';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.provision_pending_services.success'] = 'İstemci #%2$s\'den bekleyen #%1$s hizmeti artık etkin.';
-$lang['Automation.task.provision_pending_services.error'] = 'İstemci #%2$s\'den bekleyen #%1$s hizmeti etkin hale getirilemedi.';
-$lang['Automation.task.provision_pending_services.completed'] = 'Ödenmiş bekleyen hizmetler görevi tamamlandı.';
 $lang['Automation.task.provision_pending_services.attempt'] = 'Ödenmiş bekleyen hizmetlerin sağlanmaya çalışılması.';
+$lang['Automation.task.provision_pending_services.completed'] = 'Ödenmiş bekleyen hizmetler görevi tamamlandı.';
+$lang['Automation.task.provision_pending_services.error'] = 'İstemci #%2$s\'den bekleyen #%1$s hizmeti etkin hale getirilemedi.';
+$lang['Automation.task.provision_pending_services.success'] = 'İstemci #%2$s\'den bekleyen #%1$s hizmeti artık etkin.';
 

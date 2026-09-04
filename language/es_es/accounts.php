@@ -9,27 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Accounts.!error.contact_id.exists'] = 'ID de contacto no válida.';
-$lang['Accounts.!error.first_name.empty'] = 'Por favor, especifique un nombre.';
-$lang['Accounts.!error.last_name.empty'] = 'Por favor, especifique un apellido.';
-$lang['Accounts.!error.state.length'] = 'La longitud del estado no puede superar los 3 caracteres.';
-$lang['Accounts.!error.country.length'] = 'La longitud del país no puede superar los 3 caracteres.';
-$lang['Accounts.!error.state.country_exists'] = 'Seleccione el país que corresponda al estado seleccionado.';
-$lang['Accounts.!error.currency.format'] = 'La moneda no es válida.';
 $lang['Accounts.!error.account.length'] = 'Especifique un número de cuenta.';
-$lang['Accounts.!error.routing.empty'] = 'Especifique un número de ruta.';
-$lang['Accounts.!error.last4.empty_ach'] = 'Introduzca los cuatro últimos dígitos del número de cuenta.';
-$lang['Accounts.!error.type.ach_format'] = 'Tipo no válido.';
 $lang['Accounts.!error.ach_account_id.exists'] = 'ID de cuenta no válida.';
-$lang['Accounts.!error.number.valid'] = 'El número de tarjeta indicado no es válido.';
+$lang['Accounts.!error.cc_account_id.exists'] = 'ID de cuenta no válida.';
+$lang['Accounts.!error.contact_id.exists'] = 'ID de contacto no válida.';
+$lang['Accounts.!error.country.length'] = 'La longitud del país no puede superar los 3 caracteres.';
+$lang['Accounts.!error.currency.format'] = 'La moneda no es válida.';
 $lang['Accounts.!error.expiration.empty'] = 'Introduzca la fecha de caducidad de la tarjeta de crédito.';
 $lang['Accounts.!error.expiration.valid'] = 'La fecha de caducidad ya ha expirado.';
+$lang['Accounts.!error.first_name.empty'] = 'Por favor, especifique un nombre.';
+$lang['Accounts.!error.last_name.empty'] = 'Por favor, especifique un apellido.';
+$lang['Accounts.!error.last4.empty_ach'] = 'Introduzca los cuatro últimos dígitos del número de cuenta.';
 $lang['Accounts.!error.last4.empty_cc'] = 'Introduzca los cuatro últimos dígitos del número de la tarjeta de crédito.';
+$lang['Accounts.!error.number.valid'] = 'El número de tarjeta indicado no es válido.';
+$lang['Accounts.!error.routing.empty'] = 'Especifique un número de ruta.';
+$lang['Accounts.!error.state.country_exists'] = 'Seleccione el país que corresponda al estado seleccionado.';
+$lang['Accounts.!error.state.length'] = 'La longitud del estado no puede superar los 3 caracteres.';
+$lang['Accounts.!error.type.ach_format'] = 'Tipo no válido.';
 $lang['Accounts.!error.type.cc_format'] = 'El tipo de tarjeta no es válido o no se ha podido determinar.';
-$lang['Accounts.!error.cc_account_id.exists'] = 'ID de cuenta no válida.';
-$lang['Accounts.getTypes.cc'] = 'Tarjeta de crédito';
-$lang['Accounts.getTypes.ach'] = 'Cámara de compensación automatizada';
-$lang['Accounts.getTypes.other'] = 'Otros';
 $lang['Accounts.getAchTypes.checking'] = 'Comprobación de';
 $lang['Accounts.getAchTypes.savings'] = 'Ahorro';
 $lang['Accounts.getCcTypes.amex'] = 'American Express';
@@ -45,8 +42,11 @@ $lang['Accounts.getCcTypes.jcb'] = 'Oficina de crédito de Japón';
 $lang['Accounts.getCcTypes.lasr'] = 'Láser';
 $lang['Accounts.getCcTypes.maes'] = 'Maestro';
 $lang['Accounts.getCcTypes.mc'] = 'Master Card';
+$lang['Accounts.getCcTypes.other'] = 'Otros';
 $lang['Accounts.getCcTypes.solo'] = 'Solo';
 $lang['Accounts.getCcTypes.switch'] = 'Interruptor';
 $lang['Accounts.getCcTypes.visa'] = 'Visa';
-$lang['Accounts.getCcTypes.other'] = 'Otros';
+$lang['Accounts.getTypes.ach'] = 'Cámara de compensación automatizada';
+$lang['Accounts.getTypes.cc'] = 'Tarjeta de crédito';
+$lang['Accounts.getTypes.other'] = 'Otros';
 

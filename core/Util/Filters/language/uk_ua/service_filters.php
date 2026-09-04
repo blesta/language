@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_filters.field_service_meta'] = 'Мета сервісу';
-$lang['Util.filters.service_filters.field_package_name'] = 'Назва пакету';
-$lang['Util.filters.service_filters.field_module_id'] = 'Модуль';
 $lang['Util.filters.service_filters.any'] = 'Будь-який';
+$lang['Util.filters.service_filters.field_module_id'] = 'Модуль';
+$lang['Util.filters.service_filters.field_package_name'] = 'Назва пакету';
 $lang['Util.filters.service_filters.field_service_id'] = 'Ідентифікатор послуги';
+$lang['Util.filters.service_filters.field_service_meta'] = 'Мета сервісу';
 

@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Twilio.configuration_fields.token'] = 'الرمز المميز';
-$lang['Twilio.configuration_fields.sid'] = 'معرف الحساب';
 $lang['Twilio.configuration_fields.phone_number'] = 'رقم الهاتف';
+$lang['Twilio.configuration_fields.sid'] = 'معرف الحساب';
+$lang['Twilio.configuration_fields.token'] = 'الرمز المميز';
 $lang['Twilio.description'] = 'إرسال إشعارات الرسائل النصية القصيرة باستخدام Twilio.';
 $lang['Twilio.name'] = 'Twilio';
 

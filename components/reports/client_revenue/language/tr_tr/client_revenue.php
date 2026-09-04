@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientRevenue.heading.total'] = 'Toplam';
-$lang['ClientRevenue.heading.company'] = 'Şirket';
-$lang['ClientRevenue.heading.client_name'] = 'Müşteri Adı';
+$lang['ClientRevenue.description'] = 'Müşteriyle ilişkili tüm faturalara ödenen tutarı toplayarak her müşteri için bir para biriminden elde edilen geliri hesaplar.';
 $lang['ClientRevenue.heading.client_id_code'] = 'Müşteri Kimliği';
+$lang['ClientRevenue.heading.client_name'] = 'Müşteri Adı';
+$lang['ClientRevenue.heading.company'] = 'Şirket';
+$lang['ClientRevenue.heading.total'] = 'Toplam';
+$lang['ClientRevenue.name'] = 'Client Revenue';
+$lang['ClientRevenue.option.any'] = 'Herhangi bir';
+$lang['ClientRevenue.options.currency'] = 'Para Birimi';
 $lang['ClientRevenue.options.field_end_date'] = 'Bitiş Tarihi';
 $lang['ClientRevenue.options.field_start_date'] = 'Başlangıç Tarihi';
-$lang['ClientRevenue.options.currency'] = 'Para Birimi';
-$lang['ClientRevenue.option.any'] = 'Herhangi bir';
-$lang['ClientRevenue.description'] = 'Müşteriyle ilişkili tüm faturalara ödenen tutarı toplayarak her müşteri için bir para biriminden elde edilen geliri hesaplar.';
-$lang['ClientRevenue.name'] = 'Client Revenue';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['AutoCancelPlugin.description'] = 'Planlægger automatisk tjenester til aflysning.';
-$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatisk aflysning af tidsplan';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Planlægger automatisk suspenderede tjenester til annullering.';
+$lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatisk aflysning af tidsplan';
 $lang['AutoCancelPlugin.name'] = 'Auto Cancel';
 

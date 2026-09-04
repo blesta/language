@@ -11,10 +11,10 @@
 
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'Los paquetes excluidos se han actualizado correctamente.';
 $lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Paquetes excluidos';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Paquetes disponibles';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Paquetes ocultos';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Actualizar ajustes';
 $lang['AdminExcludedPackages.index.heading_available_packages'] = 'Paquetes disponibles';
 $lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Paquetes ocultos';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Actualizar ajustes';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Paquetes disponibles';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Paquetes ocultos';
 $lang['AdminExcludedPackages.index.text_no_packages'] = 'No hay paquetes activos disponibles.';
 

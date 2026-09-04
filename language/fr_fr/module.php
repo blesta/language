@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Module.!error.general'] = 'Une erreur s\'est produite lors du traitement de la demande avec le module.';
 $lang['Module.!error.invalid'] = 'Une réponse API invalide ou non reconnue a été reçue.';
 $lang['Module.!error.unsupported'] = 'Le module ne prend pas en charge cette action.';
-$lang['Module.!error.general'] = 'Une erreur s\'est produite lors du traitement de la demande avec le module.';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['HCaptcha.name'] = 'hCaptcha';
 $lang['HCaptcha.options.field_hcaptcha_secret_key'] = 'Tajný klíč hCaptcha';
 $lang['HCaptcha.options.field_hcaptcha_site_key'] = 'Klíč k webu hCaptcha';
-$lang['HCaptcha.name'] = 'hCaptcha';
 

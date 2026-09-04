@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Οι προσπάθειες πρέπει να είναι θετική αριθμητική τιμή.';
+$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Η συγκεκριμένη εταιρεία δεν υπάρχει.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Η συγκεκριμένη υπηρεσία δεν υπάρχει.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Η συγκεκριμένη υπηρεσία δεν βρίσκεται στην ουρά για εγκατάσταση.';
-$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Η συγκεκριμένη εταιρεία δεν υπάρχει.';
-$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Οι προσπάθειες πρέπει να είναι θετική αριθμητική τιμή.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.page_title'] = 'Inicio de sesión compartido';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Inicio de sesión compartido';
 $lang['SharedLoginManagePlugin.index.field_key'] = 'Clave compartida';
+$lang['SharedLoginManagePlugin.index.page_title'] = 'Inicio de sesión compartido';
 $lang['SharedLoginManagePlugin.index.submit'] = 'Guardar';
 

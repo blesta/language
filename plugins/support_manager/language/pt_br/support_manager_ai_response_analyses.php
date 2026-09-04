@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID de tíquete inválida.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Status inválido. Deve ser um dos seguintes: pendente, usado, expirado, no_response_needed.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'A confiança deve ser um número.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Status inválido. Deve ser um dos seguintes: pendente, usado, expirado, no_response_needed.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID de tíquete inválida.';
 

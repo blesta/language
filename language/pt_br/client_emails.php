@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientEmails.index.no_results'] = 'Você não tem histórico de e-mail.';
-$lang['ClientEmails.index.text_from'] = 'De';
-$lang['ClientEmails.index.text_cc'] = 'CC';
-$lang['ClientEmails.index.text_to'] = 'Para';
-$lang['ClientEmails.index.heading_summary'] = 'Resumo';
-$lang['ClientEmails.index.heading_subject'] = 'Assunto';
-$lang['ClientEmails.index.heading_date'] = 'Data';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Histórico de e-mails';
+$lang['ClientEmails.index.heading_date'] = 'Data';
+$lang['ClientEmails.index.heading_subject'] = 'Assunto';
+$lang['ClientEmails.index.heading_summary'] = 'Resumo';
+$lang['ClientEmails.index.no_results'] = 'Você não tem histórico de e-mail.';
 $lang['ClientEmails.index.page_title'] = 'Histórico de e-mails do cliente #%1$s';
+$lang['ClientEmails.index.text_cc'] = 'CC';
+$lang['ClientEmails.index.text_from'] = 'De';
 $lang['ClientEmails.index.text_html'] = 'HTML';
 $lang['ClientEmails.index.text_text'] = 'Texto';
+$lang['ClientEmails.index.text_to'] = 'Para';
 

@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderFeeds.!error.date.valid'] = 'Zadaná data jsou neplatná.';
-$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Uvedený zaměstnanec neexistuje.';
-$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Uvedené krmivo neexistuje.';
-$lang['FeedReaderFeeds.!error.updated.valid'] = 'Musíte zadat platné datum aktualizace.';
 $lang['FeedReaderFeeds.!error.company_id.exists'] = 'Uvedená společnost neexistuje.';
+$lang['FeedReaderFeeds.!error.date.valid'] = 'Zadaná data jsou neplatná.';
+$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Uvedené krmivo neexistuje.';
+$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Uvedený zaměstnanec neexistuje.';
+$lang['FeedReaderFeeds.!error.updated.valid'] = 'Musíte zadat platné datum aktualizace.';
 $lang['FeedReaderFeeds.!error.url.valid'] = 'Zadaná adresa URL je neplatná.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Sla';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Gedeelde sleutel';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Gedeelde aanmelding';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Gedeelde sleutel';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Gedeelde aanmelding';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Sla';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_name'] = 'Ticket de personal actualizado';
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_desc'] = 'Aviso enviado a un miembro del personal cuando se actualiza un ticket.';
-$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_name'] = 'Billete de personal asignado';
 $lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_desc'] = 'Aviso enviado a un miembro del personal cuando se le ha asignado un ticket.';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_assigned_name'] = 'Billete de personal asignado';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_desc'] = 'Aviso enviado a un miembro del personal cuando se actualiza un ticket.';
+$lang['AdminCompanyMessengers.templates.SupportManager.staff_ticket_updated_name'] = 'Ticket de personal actualizado';
 

@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Paystack.!error.secret_key.valid'] = 'Tajný klíč musí mít délku alespoň 40 znaků.';
 $lang['Paystack.buildprocess.submit'] = 'Platba pomocí Paystack';
-$lang['Paystack.tooltip.secret_key'] = 'Chcete-li použít testovací režim, jednoduše zadejte testovací klíč.';
-$lang['Paystack.secret_key'] = 'Tajný klíč Paystack';
 $lang['Paystack.description'] = 'Paystack je nejrychlejší a nejjednodušší způsob, jak začít přijímat online platby v Nigérii.';
 $lang['Paystack.name'] = 'Paystack Standard';
-$lang['Paystack.!error.secret_key.valid'] = 'Tajný klíč musí mít délku alespoň 40 znaků.';
+$lang['Paystack.secret_key'] = 'Tajný klíč Paystack';
+$lang['Paystack.tooltip.secret_key'] = 'Chcete-li použít testovací režim, jednoduše zadejte testovací klíč.';
 

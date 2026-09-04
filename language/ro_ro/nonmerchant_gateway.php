@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'S-a produs o eroare la procesarea cererii cu gateway-ul.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'Poarta de acces nu sprijină această acțiune.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Tranzacția nu este valabilă sau nu mai este disponibilă pentru procesarea acțiunii respective.';
 $lang['NonmerchantGateway.!error.invalid'] = 'A fost primit un răspuns de plată invalid sau nerecunoscut.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Tranzacția nu este valabilă sau nu mai este disponibilă pentru procesarea acțiunii respective.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Poarta de acces nu sprijină această acțiune.';
 

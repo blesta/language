@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.no_downloads'] = 'لا توجد تنزيلات متوفرة في هذا القسم.';
-$lang['ClientMain.index.login'] = 'يجب عليك تسجيل الدخول لعرض التنزيلات في هذا القسم.';
-$lang['ClientMain.index.boxtitle_downloads'] = 'التنزيلات';
-$lang['ClientMain.index.page_title'] = 'التنزيلات';
 $lang['ClientMain.!text.root_directory'] = 'الصفحة الرئيسية';
+$lang['ClientMain.index.boxtitle_downloads'] = 'التنزيلات';
+$lang['ClientMain.index.login'] = 'يجب عليك تسجيل الدخول لعرض التنزيلات في هذا القسم.';
+$lang['ClientMain.index.no_downloads'] = 'لا توجد تنزيلات متوفرة في هذا القسم.';
+$lang['ClientMain.index.page_title'] = 'التنزيلات';
 

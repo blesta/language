@@ -12,7 +12,7 @@
 $lang['EmailGroups.!error.action.empty'] = 'Veuillez saisir une action.';
 $lang['EmailGroups.!error.action.length'] = 'La longueur de l\'action ne doit pas dépasser 64 caractères.';
 $lang['EmailGroups.!error.action.unique'] = 'Une action de ce nom existe déjà.';
-$lang['EmailGroups.!error.type.format'] = 'Type non valide.';
-$lang['EmailGroups.!error.notice_type.valid'] = 'Le type d\'avis doit être défini sur bcc ou to.';
 $lang['EmailGroups.!error.group_id.exists'] = 'ID du groupe de messagerie invalide.';
+$lang['EmailGroups.!error.notice_type.valid'] = 'Le type d\'avis doit être défini sur bcc ou to.';
+$lang['EmailGroups.!error.type.format'] = 'Type non valide.';
 

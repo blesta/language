@@ -10,8 +10,8 @@
  */
 
 $lang['AiConversations.!error.company_id.exists'] = 'Geçersiz şirket kimliği.';
-$lang['AiConversations.!error.staff_id.valid'] = 'Personel Kimliği sayısal olmalıdır.';
 $lang['AiConversations.!error.model.empty'] = 'Lütfen bir AI modeli belirtin.';
+$lang['AiConversations.!error.staff_id.valid'] = 'Personel Kimliği sayısal olmalıdır.';
 $lang['AiConversations.!error.status.valid'] = 'Geçersiz durum.';
 $lang['AiConversations.!error.type.length'] = 'Tip 64 karakter veya daha az olmalıdır.';
 

@@ -10,16 +10,16 @@
  */
 
 $lang['DomainsController.!error.move_error'] = 'Избраните домейни не могат да бъдат преместени към избрания клиент.';
-$lang['DomainsController.getDomainActions.unparent'] = 'Без родител и нулиране на цената';
-$lang['DomainsController.getDomainActions.push_to_client'] = 'Избутване към клиент';
-$lang['DomainsController.getDomainActions.update_nameservers'] = 'Актуализиране на сървърите за имена';
-$lang['DomainsController.getDomainActions.domain_renewal'] = 'Подновяване на домейн';
-$lang['DomainsController.getDomainActions.change_registrar'] = 'Промяна на регистратора';
-$lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Промяна на подновяването на автомобила';
 $lang['DomainsController.example'] = 'Примерен език';
+$lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Промяна на подновяването на автомобила';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Промяна на датата на изтичане на валидността';
+$lang['DomainsController.getDomainActions.change_registrar'] = 'Промяна на регистратора';
 $lang['DomainsController.getDomainActions.change_registration_date'] = 'Промяна на датата на регистрация';
+$lang['DomainsController.getDomainActions.domain_renewal'] = 'Подновяване на домейн';
+$lang['DomainsController.getDomainActions.push_to_client'] = 'Избутване към клиент';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Синхронизиране на опашката';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Премахване на отмяната на цената';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Задаване на отменяне на цената';
-$lang['DomainsController.getDomainActions.queue_sync'] = 'Синхронизиране на опашката';
+$lang['DomainsController.getDomainActions.unparent'] = 'Без родител и нулиране на цената';
+$lang['DomainsController.getDomainActions.update_nameservers'] = 'Актуализиране на сървърите за имена';
 

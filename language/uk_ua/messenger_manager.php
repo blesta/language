@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'Версія є недійсною.';
-$lang['MessengerManager.!error.name.valid'] = 'Ім\'я невірне.';
-$lang['MessengerManager.!error.dir.valid'] = 'Директорія є недійсною.';
 $lang['MessengerManager.!error.company_id.valid'] = 'Ідентифікатор компанії недійсний.';
+$lang['MessengerManager.!error.dir.valid'] = 'Директорія є недійсною.';
 $lang['MessengerManager.!error.messenger.missing'] = 'Для цього типу не налаштовано жодного месенджера.';
+$lang['MessengerManager.!error.name.valid'] = 'Ім\'я невірне.';
+$lang['MessengerManager.!error.version.valid'] = 'Версія є недійсною.';
 

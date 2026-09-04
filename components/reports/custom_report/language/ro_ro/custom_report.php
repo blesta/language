@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s nu este valabil.';
-$lang['CustomReports.options.field_report_select'] = '-- Vă rugăm să selectați --';
-$lang['CustomReports.options.field_report'] = 'Raport';
 $lang['CustomReport.name'] = 'Custom Report';
+$lang['CustomReports.options.field_report'] = 'Raport';
+$lang['CustomReports.options.field_report_select'] = '-- Vă rugăm să selectați --';
 

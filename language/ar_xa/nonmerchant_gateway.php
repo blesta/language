@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'حدث خطأ عند معالجة الطلب مع البوابة.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'لا تدعم البوابة هذا الإجراء.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'المعاملة غير صالحة أو لم تعد متاحة لمعالجة هذا الإجراء.';
 $lang['NonmerchantGateway.!error.invalid'] = 'تم استلام استجابة دفع غير صالحة أو غير معترف بها.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'المعاملة غير صالحة أو لم تعد متاحة لمعالجة هذا الإجراء.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'لا تدعم البوابة هذا الإجراء.';
 

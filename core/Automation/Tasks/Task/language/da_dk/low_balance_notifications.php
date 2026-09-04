@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.low_balance_notifications.attempt'] = 'Forsøger at sende meddelelser om lav saldo.';
+$lang['Automation.task.low_balance_notifications.completed'] = 'Opgaven med at give besked om lav saldo er afsluttet.';
 $lang['Automation.task.low_balance_notifications.failed'] = 'Kunne ikke sende besked om lav saldo til %1$s %2$s (%3$s).';
 $lang['Automation.task.low_balance_notifications.success'] = 'Meddelelse om lav saldo sendt til %1$s %2$s (%3$s) for valutaen %4$s.';
-$lang['Automation.task.low_balance_notifications.completed'] = 'Opgaven med at give besked om lav saldo er afsluttet.';
-$lang['Automation.task.low_balance_notifications.attempt'] = 'Forsøger at sende meddelelser om lav saldo.';
 

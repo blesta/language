@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Turnstile.name'] = 'Turnstile';
 $lang['Turnstile.options.field_turnstile_secret_key'] = '旋转栅门秘钥';
 $lang['Turnstile.options.field_turnstile_site_key'] = '旋转栅门场地钥匙';
-$lang['Turnstile.name'] = 'Turnstile';
 

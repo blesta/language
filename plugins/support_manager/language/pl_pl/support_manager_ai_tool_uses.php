@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Wynik zaufania musi być prawidłową liczbą.';
 $lang['SupportManagerAiToolUses.!error.ticket_id.exists'] = 'Nieprawidłowy identyfikator zgłoszenia.';
 $lang['SupportManagerAiToolUses.!error.tool_name.empty'] = 'Nazwa narzędzia nie może być pusta.';
 $lang['SupportManagerAiToolUses.!error.tool_name.length'] = 'Nazwa narzędzia nie może przekraczać 50 znaków.';
-$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Wynik zaufania musi być prawidłową liczbą.';
 

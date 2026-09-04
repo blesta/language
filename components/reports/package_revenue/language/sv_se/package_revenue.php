@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageRevenue.heading.tax'] = 'Skatt';
+$lang['PackageRevenue.description'] = 'Beräknar intäkter från en valuta för varje paket genom att summera de betalda fakturaposter som är kopplade till paketet.';
+$lang['PackageRevenue.heading.module_name'] = 'Modul';
+$lang['PackageRevenue.heading.package_name'] = 'Paket';
 $lang['PackageRevenue.heading.package_revenue'] = 'Intäkter';
 $lang['PackageRevenue.heading.service_count'] = 'Enheter';
-$lang['PackageRevenue.heading.module_name'] = 'Modul';
 $lang['PackageRevenue.heading.status'] = 'Status';
-$lang['PackageRevenue.heading.package_name'] = 'Paket';
+$lang['PackageRevenue.heading.tax'] = 'Skatt';
+$lang['PackageRevenue.name'] = 'Paket Intäkter';
+$lang['PackageRevenue.option.any'] = 'Någon';
+$lang['PackageRevenue.options.currency'] = 'Valuta';
 $lang['PackageRevenue.options.field_end_date'] = 'Slutdatum för stängd faktura';
 $lang['PackageRevenue.options.field_start_date'] = 'Faktura stängd Startdatum';
-$lang['PackageRevenue.options.currency'] = 'Valuta';
-$lang['PackageRevenue.option.any'] = 'Någon';
-$lang['PackageRevenue.description'] = 'Beräknar intäkter från en valuta för varje paket genom att summera de betalda fakturaposter som är kopplade till paketet.';
-$lang['PackageRevenue.name'] = 'Paket Intäkter';
 

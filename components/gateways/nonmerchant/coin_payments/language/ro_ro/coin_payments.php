@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'Plătiți cu CoinPayments';
+$lang['CoinPayments.description'] = 'Un sistem de plată pentru criptomonede, cum ar fi Bitcoin și Litecoin, cu comisioane reduse';
 $lang['CoinPayments.ipn_secret'] = 'IPN Secret';
 $lang['CoinPayments.merchant_id'] = 'CoinPayments Merchant ID';
-$lang['CoinPayments.description'] = 'Un sistem de plată pentru criptomonede, cum ar fi Bitcoin și Litecoin, cu comisioane reduse';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

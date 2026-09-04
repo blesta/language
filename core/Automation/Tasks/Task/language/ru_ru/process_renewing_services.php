@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.process_renewing_services.attempt'] = 'Попытка обработки обновленных услуг.';
+$lang['Automation.task.process_renewing_services.completed'] = 'Задача обновления сервисов завершена.';
 $lang['Automation.task.process_renewing_services.renew_error'] = 'Невозможно обновить услугу #%1$s для клиента %2$s.';
 $lang['Automation.task.process_renewing_services.renew_success'] = 'Продлено обслуживание #%1$s для клиента %2$s.';
-$lang['Automation.task.process_renewing_services.completed'] = 'Задача обновления сервисов завершена.';
-$lang['Automation.task.process_renewing_services.attempt'] = 'Попытка обработки обновленных услуг.';
 

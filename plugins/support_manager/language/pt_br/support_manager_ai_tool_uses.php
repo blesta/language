@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'A pontuação de confiança deve ser um número válido.';
 $lang['SupportManagerAiToolUses.!error.ticket_id.exists'] = 'ID de tíquete inválida.';
 $lang['SupportManagerAiToolUses.!error.tool_name.empty'] = 'O nome da ferramenta não pode estar vazio.';
 $lang['SupportManagerAiToolUses.!error.tool_name.length'] = 'O nome da ferramenta não pode exceder 50 caracteres.';
-$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'A pontuação de confiança deve ser um número válido.';
 

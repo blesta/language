@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Simpan';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Kunci Bersama';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Login Bersama';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Kunci Bersama';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Login Bersama';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Simpan';
 

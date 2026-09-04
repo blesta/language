@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.password.btn_use_password'] = 'Используйте пароль';
-$lang['AdminDialog.password.btn_cancel'] = 'Отмена';
-$lang['AdminDialog.password.btn_modal_password'] = 'Пароль';
-$lang['AdminDialog.password.btn_generate'] = 'Создать';
-$lang['AdminDialog.password.field_modal_password_copied'] = 'Я скопировал этот пароль в надежное место.';
-$lang['AdminDialog.password.field_modal_password'] = 'Пароль';
 $lang['AdminDialog.confirm.text_no'] = 'Нет';
 $lang['AdminDialog.confirm.text_yes'] = 'Да';
-$lang['AdminDialog.password.title'] = 'Сгенерировать пароль';
+$lang['AdminDialog.password.btn_cancel'] = 'Отмена';
+$lang['AdminDialog.password.btn_generate'] = 'Создать';
+$lang['AdminDialog.password.btn_modal_password'] = 'Пароль';
+$lang['AdminDialog.password.btn_use_password'] = 'Используйте пароль';
+$lang['AdminDialog.password.field_modal_password'] = 'Пароль';
+$lang['AdminDialog.password.field_modal_password_copied'] = 'Я скопировал этот пароль в надежное место.';
 $lang['AdminDialog.password.text_click_generate'] = 'Нажмите кнопку Сгенерировать, чтобы создать надежный пароль.';
+$lang['AdminDialog.password.title'] = 'Сгенерировать пароль';
 

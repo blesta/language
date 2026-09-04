@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientVerify.!success.email_verified'] = 'Din e-mailadresse er blevet verificeret.';
-$lang['ClientVerify.!success.email_sent'] = 'En bekræftelsesmail er blevet sendt til %1$s.';
 $lang['ClientVerify.!error.invalid_token'] = 'Det angivne token er ikke gyldigt eller er udløbet.';
+$lang['ClientVerify.!success.email_sent'] = 'En bekræftelsesmail er blevet sendt til %1$s.';
+$lang['ClientVerify.!success.email_verified'] = 'Din e-mailadresse er blevet verificeret.';
 

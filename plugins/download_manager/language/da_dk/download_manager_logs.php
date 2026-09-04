@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.file_id.exists'] = 'Filen findes ikke.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = 'Klienten findes ikke.';
 $lang['DownloadManagerLogs.!error.contact_id.exists'] = 'Kontakten eksisterer ikke.';
+$lang['DownloadManagerLogs.!error.file_id.exists'] = 'Filen findes ikke.';
 

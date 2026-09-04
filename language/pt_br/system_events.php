@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.observer.valid'] = 'Forneça um observador chamável por namespace ou caminho do sistema de arquivos.';
-$lang['SystemEvents.!error.event.length'] = 'O evento não pode exceder %1$s caracteres de comprimento.';
 $lang['SystemEvents.!error.event.empty'] = 'Digite um nome de evento.';
+$lang['SystemEvents.!error.event.length'] = 'O evento não pode exceder %1$s caracteres de comprimento.';
+$lang['SystemEvents.!error.observer.valid'] = 'Forneça um observador chamável por namespace ou caminho do sistema de arquivos.';
 

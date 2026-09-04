@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'מחולל הרחבות';
 $lang['ExtensionGeneratorPlugin.description'] = 'זהו תוסף ליצירת קבצים באופן אוטומטי עבור הרחבות Blesta חדשות';
 $lang['ExtensionGeneratorPlugin.name'] = 'Extension Generator';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'מחולל הרחבות';
 

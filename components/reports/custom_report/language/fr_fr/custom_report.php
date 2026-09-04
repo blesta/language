@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['CustomReport.!error.field'] = '%1$s n\'est pas valide.';
 $lang['CustomReport.name'] = 'Rapport personnalisé';
 $lang['CustomReports.options.field_report'] = 'Rapport';
 $lang['CustomReports.options.field_report_select'] = '-- Veuillez sélectionner --';
-$lang['CustomReport.!error.field'] = '%1$s n\'est pas valide.';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.observer.valid'] = 'Пожалуйста, предоставьте вызываемый наблюдатель по пространству имен или пути к файловой системе.';
-$lang['SystemEvents.!error.event.length'] = 'Длина события не должна превышать %1$s символов.';
 $lang['SystemEvents.!error.event.empty'] = 'Пожалуйста, введите название мероприятия.';
+$lang['SystemEvents.!error.event.length'] = 'Длина события не должна превышать %1$s символов.';
+$lang['SystemEvents.!error.observer.valid'] = 'Пожалуйста, предоставьте вызываемый наблюдатель по пространству имен или пути к файловой системе.';
 

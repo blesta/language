@@ -10,9 +10,9 @@
  */
 
 $lang['Paystack.!error.secret_key.valid'] = 'La clave secreta debe tener al menos 40 caracteres.';
-$lang['Paystack.name'] = 'Paystack Estándar';
+$lang['Paystack.buildprocess.submit'] = 'Pagar con Paystack';
 $lang['Paystack.description'] = 'Paystack es la forma más rápida y sencilla de empezar a aceptar pagos en línea en Nigeria.';
+$lang['Paystack.name'] = 'Paystack Estándar';
 $lang['Paystack.secret_key'] = 'Clave secreta de Paystack';
 $lang['Paystack.tooltip.secret_key'] = 'Para utilizar el modo de prueba, basta con introducir una clave de prueba.';
-$lang['Paystack.buildprocess.submit'] = 'Pagar con Paystack';
 

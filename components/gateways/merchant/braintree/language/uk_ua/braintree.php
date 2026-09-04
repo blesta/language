@@ -10,17 +10,17 @@
  */
 
 $lang['Braintree.!error.environment'] = 'Будь ласка, виберіть правильне середовище.';
+$lang['Braintree.!error.live_mode.valid'] = 'Режим реального часу має бути встановлений на "true", якщо він заданий.';
+$lang['Braintree.!error.merchant_id'] = 'Будь ласка, введіть свій ідентифікатор продавця.';
 $lang['Braintree.!error.private_key'] = 'Будь ласка, введіть свій приватний ключ.';
 $lang['Braintree.!error.public_key'] = 'Будь ласка, введіть ваш відкритий ключ.';
-$lang['Braintree.!error.merchant_id'] = 'Будь ласка, введіть свій ідентифікатор продавця.';
-$lang['Braintree.!error.live_mode.valid'] = 'Режим реального часу має бути встановлений на "true", якщо він заданий.';
+$lang['Braintree.description'] = 'Потрібна версія PHP &gt;= 7.3. Торговці в більш ніж 45 країнах/регіонах світу можуть приймати, розділяти та забезпечувати платежі в більш ніж 130 валютах за допомогою Braintree';
+$lang['Braintree.environment'] = 'Навколишнє середовище';
 $lang['Braintree.environment.production'] = 'Виробництво';
 $lang['Braintree.environment.sandbox'] = 'Пісочниця';
-$lang['Braintree.environment'] = 'Навколишнє середовище';
 $lang['Braintree.live_mode'] = 'Режим прямого ефіру';
+$lang['Braintree.merchant_id'] = 'Ідентифікатор продавця';
+$lang['Braintree.name'] = 'Braintree';
 $lang['Braintree.private_key'] = 'Приватний ключ';
 $lang['Braintree.public_key'] = 'Відкритий ключ';
-$lang['Braintree.merchant_id'] = 'Ідентифікатор продавця';
-$lang['Braintree.description'] = 'Потрібна версія PHP &gt;= 7.3. Торговці в більш ніж 45 країнах/регіонах світу можуть приймати, розділяти та забезпечувати платежі в більш ніж 130 валютах за допомогою Braintree';
-$lang['Braintree.name'] = 'Braintree';
 

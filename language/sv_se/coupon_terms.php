@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CouponTerms.getperiods.onetime'] = 'En gång';
-$lang['CouponTerms.getperiods.year'] = 'År';
-$lang['CouponTerms.getperiods.month'] = 'Månad';
-$lang['CouponTerms.getperiods.week'] = 'Vecka';
-$lang['CouponTerms.getperiods.day'] = 'Dag';
-$lang['CouponTerms.!error.term_id.exists'] = 'Den angivna kupongtermen existerar inte.';
-$lang['CouponTerms.!error.period.valid'] = 'Vänligen ange en giltig period.';
-$lang['CouponTerms.!error.term.format'] = 'Ange en giltig term för varje period.';
 $lang['CouponTerms.!error.coupon_id.exists'] = 'Den angivna kupongen finns inte.';
+$lang['CouponTerms.!error.period.valid'] = 'Vänligen ange en giltig period.';
+$lang['CouponTerms.!error.term_id.exists'] = 'Den angivna kupongtermen existerar inte.';
+$lang['CouponTerms.!error.term.format'] = 'Ange en giltig term för varje period.';
+$lang['CouponTerms.getperiods.day'] = 'Dag';
+$lang['CouponTerms.getperiods.month'] = 'Månad';
+$lang['CouponTerms.getperiods.onetime'] = 'En gång';
+$lang['CouponTerms.getperiods.week'] = 'Vecka';
+$lang['CouponTerms.getperiods.year'] = 'År';
 

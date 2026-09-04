@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ServiceChanges.status.canceled'] = 'Abgesagt';
-$lang['ServiceChanges.status.error'] = 'Fehler';
-$lang['ServiceChanges.status.completed'] = 'Abgeschlossen';
-$lang['ServiceChanges.status.pending'] = 'Anhängig';
-$lang['ServiceChanges.!error.status.valid'] = 'Bitte wählen Sie einen gültigen Status.';
-$lang['ServiceChanges.!error.invoice_id.unique'] = 'Die Rechnungs-ID ist bereits bei einem Leistungswechsel gesetzt und darf nicht erneut gesetzt werden.';
-$lang['ServiceChanges.!error.invoice_id.exists'] = 'Ungültige Rechnungs-ID.';
-$lang['ServiceChanges.!error.service_id.exists'] = 'Ungültige Dienst-ID.';
 $lang['ServiceChanges.!error.id.exists'] = 'Ungültige Service Change ID.';
+$lang['ServiceChanges.!error.invoice_id.exists'] = 'Ungültige Rechnungs-ID.';
+$lang['ServiceChanges.!error.invoice_id.unique'] = 'Die Rechnungs-ID ist bereits bei einem Leistungswechsel gesetzt und darf nicht erneut gesetzt werden.';
+$lang['ServiceChanges.!error.service_id.exists'] = 'Ungültige Dienst-ID.';
+$lang['ServiceChanges.!error.status.valid'] = 'Bitte wählen Sie einen gültigen Status.';
 $lang['ServiceChanges.!error.void_invoice.paid'] = 'Die Rechnung wurde bereits bezahlt und kann nicht storniert werden.';
+$lang['ServiceChanges.status.canceled'] = 'Abgesagt';
+$lang['ServiceChanges.status.completed'] = 'Abgeschlossen';
+$lang['ServiceChanges.status.error'] = 'Fehler';
+$lang['ServiceChanges.status.pending'] = 'Anhängig';
 

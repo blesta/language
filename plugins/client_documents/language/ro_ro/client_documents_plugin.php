@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Documente';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documente';
 $lang['ClientDocumentsPlugin.description'] = 'Încărcați fișiere pentru a fi descărcate de anumiți clienți.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documente';
 

@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Payfast.buildprocess.submit'] = 'Оплачуйте за допомогою PayFast';
-$lang['Payfast.meta.sandbox'] = 'Пісочниця';
-$lang['Payfast.meta.passphrase'] = 'Парольна фраза';
-$lang['Payfast.meta.merchant_key'] = 'Мерчант-ключ';
-$lang['Payfast.meta.merchant_id'] = 'Ідентифікатор продавця';
-$lang['Payfast.!error.sandbox.valid'] = 'Значення пісочниці невірне.';
-$lang['Payfast.!error.merchant_key.valid'] = 'Ключ продавця недійсний.';
 $lang['Payfast.!error.merchant_id.valid'] = 'Ідентифікатор продавця недійсний.';
+$lang['Payfast.!error.merchant_key.valid'] = 'Ключ продавця недійсний.';
+$lang['Payfast.!error.sandbox.valid'] = 'Значення пісочниці невірне.';
+$lang['Payfast.buildprocess.submit'] = 'Оплачуйте за допомогою PayFast';
 $lang['Payfast.description'] = 'Користуйтеся швидкими та безпечними онлайн-платежами в Південній Африці з будь-якої точки світу.';
+$lang['Payfast.meta.merchant_id'] = 'Ідентифікатор продавця';
+$lang['Payfast.meta.merchant_key'] = 'Мерчант-ключ';
+$lang['Payfast.meta.passphrase'] = 'Парольна фраза';
+$lang['Payfast.meta.sandbox'] = 'Пісочниця';
 $lang['Payfast.name'] = 'PayFast';
 

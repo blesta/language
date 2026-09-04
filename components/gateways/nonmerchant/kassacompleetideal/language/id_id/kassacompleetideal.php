@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Kassacompleetideal.buildprocess.submit'] = 'Bayar dengan iDeal melalui Kassa Compleet';
-$lang['Kassacompleetideal.buildprocess.issuer_id'] = 'Penerbit iDeal';
-$lang['Kassacompleetideal.tooltip.api_key'] = 'Untuk menggunakan mode uji coba, cukup masukkan kunci API dari akun uji coba';
-$lang['Kassacompleetideal.api_key'] = 'Kunci API';
-$lang['Kassacompleetideal.description'] = 'Integrasi Kassa Compleet menggunakan jenis pembayaran iDeal';
-$lang['Kassacompleetideal.!error.api_key.valid'] = 'Kunci API tidak valid';
 $lang['Kassacompleetideal.!error.api_key.empty'] = 'Masukkan kunci API';
+$lang['Kassacompleetideal.!error.api_key.valid'] = 'Kunci API tidak valid';
+$lang['Kassacompleetideal.api_key'] = 'Kunci API';
+$lang['Kassacompleetideal.buildprocess.issuer_id'] = 'Penerbit iDeal';
+$lang['Kassacompleetideal.buildprocess.submit'] = 'Bayar dengan iDeal melalui Kassa Compleet';
+$lang['Kassacompleetideal.description'] = 'Integrasi Kassa Compleet menggunakan jenis pembayaran iDeal';
 $lang['Kassacompleetideal.name'] = 'iDeal (Kassa Compleet)';
+$lang['Kassacompleetideal.tooltip.api_key'] = 'Untuk menggunakan mode uji coba, cukup masukkan kunci API dari akun uji coba';
 

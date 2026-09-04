@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['404.text_go_to_home'] = 'עבור לדף הבית';
-$lang['404.text_error'] = 'מצטערים, הדף שאליו אתה מנסה לגשת אינו קיים או ייתכן שהועבר.';
 $lang['404.heading_error'] = '404';
+$lang['404.text_error'] = 'מצטערים, הדף שאליו אתה מנסה לגשת אינו קיים או ייתכן שהועבר.';
+$lang['404.text_go_to_home'] = 'עבור לדף הבית';
 

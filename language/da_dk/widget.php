@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Anvend filtre';
-$lang['Widget.toggle_filters'] = 'Skift mellem filtre';
 $lang['Widget.clear'] = 'Klar';
 $lang['Widget.resize_widget'] = 'Ændre størrelse på widget';
+$lang['Widget.submit'] = 'Anvend filtre';
+$lang['Widget.toggle_filters'] = 'Skift mellem filtre';
 

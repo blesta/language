@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'تعذر الاتصال بالخادم البعيد. خطأ في cURL. خطأ في cURL: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'تم إرسال طلب إلغاء الحظر.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'إلغاء حظر IP';
 $lang['IpUnblockerPlugin.description'] = 'مكون إضافي لـ Blesta يتكامل مع cPanel وDirectAdmin لإلغاء حظر عناوين IP المدرجة في القائمة السوداء';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'إلغاء حظر IP';
 

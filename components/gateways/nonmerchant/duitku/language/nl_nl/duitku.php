@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Duitku.buildprocess.submit'] = 'Betalen met Duitku';
-$lang['Duitku.sandbox'] = 'Zandbak';
-$lang['Duitku.merchant_code'] = 'Code handelaar';
-$lang['Duitku.merchant_key'] = 'Handelaarsleutel';
-$lang['Duitku.!error.sandbox.valid'] = 'Het veld Sandbox moet waar of onwaar zijn.';
 $lang['Duitku.!error.merchant_code.empty'] = 'De Merchant Code kan niet leeg zijn.';
 $lang['Duitku.!error.merchant_key.valid'] = 'De opgegeven Merchant Key is ongeldig.';
+$lang['Duitku.!error.sandbox.valid'] = 'Het veld Sandbox moet waar of onwaar zijn.';
+$lang['Duitku.buildprocess.submit'] = 'Betalen met Duitku';
 $lang['Duitku.description'] = 'Accepteer credit- en debitcards, e-wallets, bankoverschrijvingen en verstuur bulkbetalingen via één enkele integratie in Indonesië.';
+$lang['Duitku.merchant_code'] = 'Code handelaar';
+$lang['Duitku.merchant_key'] = 'Handelaarsleutel';
 $lang['Duitku.name'] = 'Duitku';
+$lang['Duitku.sandbox'] = 'Zandbak';
 

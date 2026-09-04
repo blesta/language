@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDataPortability.!tooltip.client_id'] = 'Jedná se o interní ID klienta zobrazené v adrese URL při zobrazení profilu klienta.';
 $lang['ClientDataPortability.!error.client_id'] = 'ID klienta není platné.';
-$lang['ClientDataPortability.options.field_client_id'] = 'ID klienta';
+$lang['ClientDataPortability.!tooltip.client_id'] = 'Jedná se o interní ID klienta zobrazené v adrese URL při zobrazení profilu klienta.';
 $lang['ClientDataPortability.name'] = 'Přenositelnost klientských dat';
+$lang['ClientDataPortability.options.field_client_id'] = 'ID klienta';
 

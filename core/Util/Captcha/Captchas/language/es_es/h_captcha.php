@@ -10,6 +10,6 @@
  */
 
 $lang['HCaptcha.name'] = 'hCaptcha';
-$lang['HCaptcha.options.field_hcaptcha_site_key'] = 'Clave del sitio hCaptcha';
 $lang['HCaptcha.options.field_hcaptcha_secret_key'] = 'Clave secreta hCaptcha';
+$lang['HCaptcha.options.field_hcaptcha_site_key'] = 'Clave del sitio hCaptcha';
 

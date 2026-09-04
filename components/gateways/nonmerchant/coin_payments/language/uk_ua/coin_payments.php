@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'Сплачуйте за допомогою CoinPayments';
+$lang['CoinPayments.description'] = 'Система оплати криптовалют, таких як Bitcoin та Litecoin, з низькими комісіями';
 $lang['CoinPayments.ipn_secret'] = 'Секрет IPN';
 $lang['CoinPayments.merchant_id'] = 'Ідентифікатор продавця CoinPayments';
-$lang['CoinPayments.description'] = 'Система оплати криптовалют, таких як Bitcoin та Litecoin, з низькими комісіями';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s is ongeldig.';
-$lang['CustomReports.options.field_report_select'] = '-- Selecteer a.u.b.';
-$lang['CustomReports.options.field_report'] = 'Rapporteer';
 $lang['CustomReport.name'] = 'Aangepast rapport';
+$lang['CustomReports.options.field_report'] = 'Rapporteer';
+$lang['CustomReports.options.field_report_select'] = '-- Selecteer a.u.b.';
 

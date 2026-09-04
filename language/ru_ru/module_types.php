@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'Идентификатор типа модуля недействителен.';
 $lang['ModuleTypes.!error.name.valid'] = 'Имя недействительно.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'Идентификатор типа модуля недействителен.';
 

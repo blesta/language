@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Blockonomics.buildprocess.submit'] = 'Submeter pagamento';
-$lang['Blockonomics.callback_note'] = 'Antes de começar a utilizar este gateway, deve configurar o seguinte url como Callback na sua conta Blockonomics.';
-$lang['Blockonomics.callback'] = 'Chamada de retorno Blockonomics';
-$lang['Blockonomics.redirect_note'] = 'Antes de começar a utilizar este gateway, deve configurar o seguinte url como Redirect na sua conta Blockonomics.';
-$lang['Blockonomics.redirect'] = 'Redireccionamento Blockonomics';
-$lang['Blockonomics.parent_uid_note'] = 'O UID de um produto com a moeda indicada configurada em blockonomics. Pode ser encontrado criando um produto em Botões e ligações &gt; Produtos &gt; Adicionar um produto e clicando em Gerar URL.';
-$lang['Blockonomics.parent_uid'] = 'UID do produto pai';
-$lang['Blockonomics.api_key'] = 'Chave API';
 $lang['Blockonomics.!error.api_key.valid'] = 'A chave da API não é válida.';
+$lang['Blockonomics.api_key'] = 'Chave API';
+$lang['Blockonomics.buildprocess.submit'] = 'Submeter pagamento';
+$lang['Blockonomics.callback'] = 'Chamada de retorno Blockonomics';
+$lang['Blockonomics.callback_note'] = 'Antes de começar a utilizar este gateway, deve configurar o seguinte url como Callback na sua conta Blockonomics.';
 $lang['Blockonomics.description'] = 'Aceite pagamentos em Bitcoin, cada venda online é depositada diretamente na sua carteira. Não é necessária documentação KYC.';
 $lang['Blockonomics.name'] = 'Blockonomics';
+$lang['Blockonomics.parent_uid'] = 'UID do produto pai';
+$lang['Blockonomics.parent_uid_note'] = 'O UID de um produto com a moeda indicada configurada em blockonomics. Pode ser encontrado criando um produto em Botões e ligações &gt; Produtos &gt; Adicionar um produto e clicando em Gerar URL.';
 $lang['Blockonomics.parent_uid_placeholder'] = 'Selecione as moedas abaixo para configurar os respectivos UIDs de produto principal.';
+$lang['Blockonomics.redirect'] = 'Redireccionamento Blockonomics';
+$lang['Blockonomics.redirect_note'] = 'Antes de começar a utilizar este gateway, deve configurar o seguinte url como Redirect na sua conta Blockonomics.';
 

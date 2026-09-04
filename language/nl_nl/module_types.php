@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'De moduletype-ID is ongeldig.';
 $lang['ModuleTypes.!error.name.valid'] = 'Naam is ongeldig.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'De moduletype-ID is ongeldig.';
 

@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminExcludedPackages.index.text_no_packages'] = 'אין חבילות זמינות כרגע.';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'עדכון הגדרות';
-$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'חבילות נסתרות';
-$lang['AdminExcludedPackages.index.heading_available_packages'] = 'חבילות זמינות';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'חבילות נסתרות';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'חבילות זמינות';
-$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'חבילות שאינן כלולות';
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'החבילות שהוחרגו עודכנו בהצלחה.';
+$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'חבילות שאינן כלולות';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'עדכון הגדרות';
+$lang['AdminExcludedPackages.index.heading_available_packages'] = 'חבילות זמינות';
+$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'חבילות נסתרות';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'חבילות זמינות';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'חבילות נסתרות';
+$lang['AdminExcludedPackages.index.text_no_packages'] = 'אין חבילות זמינות כרגע.';
 

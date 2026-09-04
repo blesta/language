@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Verilen seçenek değeri kimliklerinden biri mevcut değil';
-$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'Verilen seçenek kimliği mevcut değil';
-$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'Verilen seçenek grubu kimliği mevcut değil';
 $lang['PackageOptionConditionSets.!error.id.exists'] = 'Verilen seçenek koşulu kimliği mevcut değil';
+$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'Verilen seçenek grubu kimliği mevcut değil';
+$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'Verilen seçenek kimliği mevcut değil';
+$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Verilen seçenek değeri kimliklerinden biri mevcut değil';
 

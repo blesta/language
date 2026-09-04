@@ -10,7 +10,7 @@
  */
 
 $lang['Offline.!error.instructions.valid'] = 'Πρέπει να εισαγάγετε ορισμένες οδηγίες.';
-$lang['Offline.instructions'] = 'Οδηγίες';
 $lang['Offline.description'] = 'Σας επιτρέπει να εμφανίζετε ειδικές οδηγίες για τη λήψη πληρωμών εκτός σύνδεσης';
+$lang['Offline.instructions'] = 'Οδηγίες';
 $lang['Offline.name'] = 'Πληρωμή εκτός σύνδεσης';
 

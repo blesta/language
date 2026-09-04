@@ -9,23 +9,23 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Checkout.complete.order_more_btn'] = 'הזמן הזמנה נוספת';
-$lang['Checkout.complete.header_almost_complete'] = 'כמעט שם...';
-$lang['Checkout.complete.header_complete'] = 'ההזמנה הושלמה';
 $lang['Checkout.ach_info.heading_ach'] = 'פרטי חשבון בנק';
 $lang['Checkout.cc_info.heading_cc'] = 'פרטי כרטיס האשראי';
-$lang['Checkout.contact_info.text_select_contact'] = 'ניתן לבחור איש קשר קיים כדי למלא את הטופס מראש.';
+$lang['Checkout.complete.header_almost_complete'] = 'כמעט שם...';
+$lang['Checkout.complete.header_complete'] = 'ההזמנה הושלמה';
+$lang['Checkout.complete.order_more_btn'] = 'הזמן הזמנה נוספת';
 $lang['Checkout.contact_info.field_contact_id'] = 'העתק פרטי יצירת קשר מ-';
 $lang['Checkout.contact_info.heading_contact'] = 'פרטי יצירת קשר';
-$lang['Checkout.index.no_options'] = 'אין אפשרויות תשלום זמינות.';
-$lang['Checkout.index.continue_btn'] = 'המשך';
-$lang['Checkout.index.pay_credit_btn'] = 'החל את האשראי ושלח את ההזמנה';
-$lang['Checkout.index.pay_btn'] = 'שלח הזמנה';
+$lang['Checkout.contact_info.text_select_contact'] = 'ניתן לבחור איש קשר קיים כדי למלא את הטופס מראש.';
 $lang['Checkout.index.apply_credit'] = 'השתמש באשראי (ניתן להשתמש ב-%1$s )';
-$lang['Checkout.index.heading_payment_options'] = 'אפשרויות תשלום';
-$lang['Checkout.index.heading_other_payment_options'] = 'אפשרויות תשלום אחרות';
+$lang['Checkout.index.continue_btn'] = 'המשך';
 $lang['Checkout.index.field_newdetails'] = 'פרטי תשלום חדשים';
 $lang['Checkout.index.field_useaccount'] = 'השתמש בחשבון תשלום';
-$lang['Checkout.index.header_paymethod'] = 'בחר את אמצעי התשלום שלך';
 $lang['Checkout.index.header_checkout'] = 'לעבור לקופה';
+$lang['Checkout.index.header_paymethod'] = 'בחר את אמצעי התשלום שלך';
+$lang['Checkout.index.heading_other_payment_options'] = 'אפשרויות תשלום אחרות';
+$lang['Checkout.index.heading_payment_options'] = 'אפשרויות תשלום';
+$lang['Checkout.index.no_options'] = 'אין אפשרויות תשלום זמינות.';
+$lang['Checkout.index.pay_btn'] = 'שלח הזמנה';
+$lang['Checkout.index.pay_credit_btn'] = 'החל את האשראי ושלח את ההזמנה';
 

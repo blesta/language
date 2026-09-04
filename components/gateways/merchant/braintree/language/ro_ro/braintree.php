@@ -9,18 +9,18 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Braintree.environment'] = 'Mediu';
-$lang['Braintree.live_mode'] = 'Modul Live';
-$lang['Braintree.private_key'] = 'Cheia privată';
-$lang['Braintree.public_key'] = 'Cheia publică';
-$lang['Braintree.merchant_id'] = 'ID-ul comerciantului';
 $lang['Braintree.!error.environment'] = 'Vă rugăm să selectați un mediu valid.';
+$lang['Braintree.!error.live_mode.valid'] = 'Modul live trebuie să fie setat la "true", dacă este dat.';
+$lang['Braintree.!error.merchant_id'] = 'Vă rugăm să introduceți ID-ul comerciantului.';
 $lang['Braintree.!error.private_key'] = 'Vă rugăm să introduceți cheia dvs. privată.';
 $lang['Braintree.!error.public_key'] = 'Vă rugăm să introduceți cheia dvs. publică.';
-$lang['Braintree.!error.merchant_id'] = 'Vă rugăm să introduceți ID-ul comerciantului.';
-$lang['Braintree.!error.live_mode.valid'] = 'Modul live trebuie să fie setat la "true", dacă este dat.';
+$lang['Braintree.description'] = 'Necesită PHP &gt;= 7.3. Comercianții din peste 45 de țări/regiuni din întreaga lume pot accepta, împărți și activa plăți în mai mult de 130 de valute utilizând Braintree';
+$lang['Braintree.environment'] = 'Mediu';
 $lang['Braintree.environment.production'] = 'Producție';
 $lang['Braintree.environment.sandbox'] = 'Sandbox';
-$lang['Braintree.description'] = 'Necesită PHP &gt;= 7.3. Comercianții din peste 45 de țări/regiuni din întreaga lume pot accepta, împărți și activa plăți în mai mult de 130 de valute utilizând Braintree';
+$lang['Braintree.live_mode'] = 'Modul Live';
+$lang['Braintree.merchant_id'] = 'ID-ul comerciantului';
 $lang['Braintree.name'] = 'Braintree';
+$lang['Braintree.private_key'] = 'Cheia privată';
+$lang['Braintree.public_key'] = 'Cheia publică';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CoinPayments.description'] = 'Um sistema de checkout para criptomoedas, como Bitcoin e Litecoin, com taxas baixas';
 $lang['CoinPayments.buildprocess.submit'] = 'Pague com CoinPayments';
+$lang['CoinPayments.description'] = 'Um sistema de checkout para criptomoedas, como Bitcoin e Litecoin, com taxas baixas';
 $lang['CoinPayments.ipn_secret'] = 'Segredo da IPN';
 $lang['CoinPayments.merchant_id'] = 'ID do comerciante da CoinPayments';
 $lang['CoinPayments.name'] = 'CoinPayments.net';

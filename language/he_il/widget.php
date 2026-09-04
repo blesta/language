@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = 'החלף מסננים';
-$lang['Widget.submit'] = 'החל מסננים';
 $lang['Widget.clear'] = 'נקי';
 $lang['Widget.resize_widget'] = 'שינוי גודל הווידג\'ט';
+$lang['Widget.submit'] = 'החל מסננים';
+$lang['Widget.toggle_filters'] = 'החלף מסננים';
 

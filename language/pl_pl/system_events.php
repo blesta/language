@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemEvents.!error.observer.valid'] = 'Podaj obserwatora wywoływalnego przez przestrzeń nazw lub ścieżkę systemu plików.';
-$lang['SystemEvents.!error.event.length'] = 'Długość zdarzenia nie może przekraczać %1$s znaków.';
 $lang['SystemEvents.!error.event.empty'] = 'Wprowadź nazwę wydarzenia.';
+$lang['SystemEvents.!error.event.length'] = 'Długość zdarzenia nie może przekraczać %1$s znaków.';
+$lang['SystemEvents.!error.observer.valid'] = 'Podaj obserwatora wywoływalnego przez przestrzeń nazw lub ścieżkę systemu plików.';
 

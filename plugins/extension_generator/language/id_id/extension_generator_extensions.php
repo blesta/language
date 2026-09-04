@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Format opsi contoh kode tidak valid.';
+$lang['ExtensionGeneratorExtensions.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
+$lang['ExtensionGeneratorExtensions.!error.date_updated.format'] = 'Format pembaruan tanggal tidak valid.';
+$lang['ExtensionGeneratorExtensions.!error.form_type.valid'] = 'Jenis formulir tidak valid.';
+$lang['ExtensionGeneratorExtensions.!error.id.exists'] = 'ID ekstensi yang diberikan tidak valid.';
+$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Masukkan nama ekstensi.';
+$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Jenis ekstensi tidak valid.';
 $lang['ExtensionGeneratorExtensions.getformtypes.advanced'] = 'Lanjutan';
 $lang['ExtensionGeneratorExtensions.getformtypes.basic'] = 'Dasar';
-$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Gerbang Non-Merchant';
 $lang['ExtensionGeneratorExtensions.gettypes.merchant'] = 'Gerbang Pedagang';
-$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
 $lang['ExtensionGeneratorExtensions.gettypes.module'] = 'Modul';
-$lang['ExtensionGeneratorExtensions.!error.id.exists'] = 'ID ekstensi yang diberikan tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Format opsi contoh kode tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.form_type.valid'] = 'Jenis formulir tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Jenis ekstensi tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.date_updated.format'] = 'Format pembaruan tanggal tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
-$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Masukkan nama ekstensi.';
+$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Gerbang Non-Merchant';
+$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
 

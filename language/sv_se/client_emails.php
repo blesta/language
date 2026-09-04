@@ -9,15 +9,15 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientEmails.index.no_results'] = 'Du har ingen e-posthistorik.';
-$lang['ClientEmails.index.text_from'] = 'Från';
-$lang['ClientEmails.index.text_cc'] = 'CC';
-$lang['ClientEmails.index.text_to'] = 'Till';
-$lang['ClientEmails.index.heading_summary'] = 'Sammanfattning';
-$lang['ClientEmails.index.heading_subject'] = 'Ämne';
-$lang['ClientEmails.index.heading_date'] = 'Datum';
 $lang['ClientEmails.index.boxtitle_emails'] = 'E-posthistorik';
+$lang['ClientEmails.index.heading_date'] = 'Datum';
+$lang['ClientEmails.index.heading_subject'] = 'Ämne';
+$lang['ClientEmails.index.heading_summary'] = 'Sammanfattning';
+$lang['ClientEmails.index.no_results'] = 'Du har ingen e-posthistorik.';
 $lang['ClientEmails.index.page_title'] = 'Klient #%1$s e-posthistorik';
+$lang['ClientEmails.index.text_cc'] = 'CC';
+$lang['ClientEmails.index.text_from'] = 'Från';
 $lang['ClientEmails.index.text_html'] = 'HTML';
 $lang['ClientEmails.index.text_text'] = 'Text';
+$lang['ClientEmails.index.text_to'] = 'Till';
 

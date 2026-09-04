@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'De categorie die wordt bijgewerkt bestaat niet.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'Voer een categoriebeschrijving in.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'Voer een categorienaam in.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
-$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'De geselecteerde hoofdcategorie mag niet de categorie zelf zijn.';
 $lang['DownloadManagerCategories.!error.parent_id.exists'] = 'De geselecteerde hoofdcategorie bestaat niet.';
+$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'De geselecteerde hoofdcategorie mag niet de categorie zelf zijn.';
 

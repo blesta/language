@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['States.!error.name.format'] = 'Vänligen ange statens namn.';
-$lang['States.!error.country_alpha2.in_use'] = 'Alpha2 landskod %1$s och subdivisionskod %2$s är redan upptagna.';
-$lang['States.!error.country_alpha2.format'] = 'Country Alpha2 måste vara 2 alfa-tecken.';
 $lang['States.!error.code.format'] = 'Delstatskoden måste vara alfanumerisk enligt definitionen i ISO 3166-2.';
+$lang['States.!error.country_alpha2.format'] = 'Country Alpha2 måste vara 2 alfa-tecken.';
+$lang['States.!error.country_alpha2.in_use'] = 'Alpha2 landskod %1$s och subdivisionskod %2$s är redan upptagna.';
+$lang['States.!error.name.format'] = 'Vänligen ange statens namn.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.provision_pending_services.success'] = 'Чакащата услуга #%1$s от клиент #%2$s вече е активна.';
-$lang['Automation.task.provision_pending_services.error'] = 'Чакащата услуга #%1$s от клиент #%2$s не може да бъде активирана.';
-$lang['Automation.task.provision_pending_services.completed'] = 'Задачата за платени чакащи услуги е завършена.';
 $lang['Automation.task.provision_pending_services.attempt'] = 'Опит за предоставяне на платени чакащи услуги.';
+$lang['Automation.task.provision_pending_services.completed'] = 'Задачата за платени чакащи услуги е завършена.';
+$lang['Automation.task.provision_pending_services.error'] = 'Чакащата услуга #%1$s от клиент #%2$s не може да бъде активирана.';
+$lang['Automation.task.provision_pending_services.success'] = 'Чакащата услуга #%1$s от клиент #%2$s вече е активна.';
 

@@ -10,6 +10,6 @@
  */
 
 $lang['Module.!error.general'] = 'Er is een fout opgetreden bij het verwerken van de aanvraag met de module.';
-$lang['Module.!error.unsupported'] = 'De module ondersteunt deze actie niet.';
 $lang['Module.!error.invalid'] = 'Er is een ongeldig of niet herkend API-antwoord ontvangen.';
+$lang['Module.!error.unsupported'] = 'De module ondersteunt deze actie niet.';
 

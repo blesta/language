@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'Το αναγνωριστικό τύπου μονάδας είναι άκυρο.';
 $lang['ModuleTypes.!error.name.valid'] = 'Το όνομα είναι άκυρο.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'Το αναγνωριστικό τύπου μονάδας είναι άκυρο.';
 

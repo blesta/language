@@ -10,10 +10,10 @@
  */
 
 $lang['ClientFeed.!error.invalid_endpoint'] = 'Запрошенная конечная точка недействительна или не существует.';
+$lang['ClientFeed.description'] = 'Возвращает количество клиентов с определенным статусом.';
+$lang['ClientFeed.getOptionFields.example_code_active'] = 'Отображает количество активных клиентов:';
 $lang['ClientFeed.getOptionFields.example_code_fraud'] = 'Показать количество клиентов-мошенников:';
 $lang['ClientFeed.getOptionFields.example_code_inactive'] = 'Показывает количество неактивных клиентов:';
-$lang['ClientFeed.getOptionFields.example_code_active'] = 'Отображает количество активных клиентов:';
 $lang['ClientFeed.getOptionFields.title_row_example_code'] = 'Пример кода';
-$lang['ClientFeed.description'] = 'Возвращает количество клиентов с определенным статусом.';
 $lang['ClientFeed.name'] = 'Клиенты';
 

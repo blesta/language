@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s אינו תקף.';
-$lang['CustomReports.options.field_report_select'] = '-- אנא בחר --';
-$lang['CustomReports.options.field_report'] = 'דו"ח';
 $lang['CustomReport.name'] = 'Custom Report';
+$lang['CustomReports.options.field_report'] = 'דו"ח';
+$lang['CustomReports.options.field_report_select'] = '-- אנא בחר --';
 

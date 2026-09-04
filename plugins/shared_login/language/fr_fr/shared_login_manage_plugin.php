@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.page_title'] = 'Connexion partagée';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Connexion partagée';
 $lang['SharedLoginManagePlugin.index.field_key'] = 'Clé partagée';
+$lang['SharedLoginManagePlugin.index.page_title'] = 'Connexion partagée';
 $lang['SharedLoginManagePlugin.index.submit'] = 'Économiser';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['404.text_go_to_home'] = '返回首页';
-$lang['404.text_error'] = '抱歉，您试图访问的页面不存在或可能已移动。';
 $lang['404.heading_error'] = '404';
+$lang['404.text_error'] = '抱歉，您试图访问的页面不存在或可能已移动。';
+$lang['404.text_go_to_home'] = '返回首页';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s недействителен.';
-$lang['CustomReports.options.field_report_select'] = '-- Пожалуйста, выберите...';
-$lang['CustomReports.options.field_report'] = 'Отчет';
 $lang['CustomReport.name'] = 'Пользовательский отчет';
+$lang['CustomReports.options.field_report'] = 'Отчет';
+$lang['CustomReports.options.field_report_select'] = '-- Пожалуйста, выберите...';
 

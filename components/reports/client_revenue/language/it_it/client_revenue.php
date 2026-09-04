@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientRevenue.heading.total'] = 'Totale';
-$lang['ClientRevenue.heading.company'] = 'Azienda';
-$lang['ClientRevenue.heading.client_name'] = 'Nome del cliente';
+$lang['ClientRevenue.description'] = 'Calcola i ricavi da una valuta per ogni cliente, totalizzando l\'importo pagato per tutte le fatture associate al cliente.';
 $lang['ClientRevenue.heading.client_id_code'] = 'ID cliente';
+$lang['ClientRevenue.heading.client_name'] = 'Nome del cliente';
+$lang['ClientRevenue.heading.company'] = 'Azienda';
+$lang['ClientRevenue.heading.total'] = 'Totale';
+$lang['ClientRevenue.name'] = 'Ricavi dei clienti';
+$lang['ClientRevenue.option.any'] = 'Qualsiasi';
+$lang['ClientRevenue.options.currency'] = 'Valuta';
 $lang['ClientRevenue.options.field_end_date'] = 'Data di fine';
 $lang['ClientRevenue.options.field_start_date'] = 'Data di inizio';
-$lang['ClientRevenue.options.currency'] = 'Valuta';
-$lang['ClientRevenue.option.any'] = 'Qualsiasi';
-$lang['ClientRevenue.description'] = 'Calcola i ricavi da una valuta per ogni cliente, totalizzando l\'importo pagato per tutte le fatture associate al cliente.';
-$lang['ClientRevenue.name'] = 'Ricavi dei clienti';
 

@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'מספר חשבונית%1$s';
-$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'מספר חשבונית%1$s';
 $lang['InvoiceDelivery.!error.libxml_required'] = 'התוספים libxml ו-simplexml נדרשים לצורך משלוח חשבוניות.';
+$lang['InvoiceDelivery.deliverinvoices.interfax_subject'] = 'מספר חשבונית%1$s';
+$lang['InvoiceDelivery.deliverinvoices.postalmethods_description'] = 'מספר חשבונית%1$s';
 

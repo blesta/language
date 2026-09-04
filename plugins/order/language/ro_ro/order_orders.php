@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Domeniul selectat nu este disponibil pentru transferuri.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s comandă plasată #%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Comanda #%1$s Primită';
+$lang['OrderOrders.getstatuses.accepted'] = 'Acceptat';
 $lang['OrderOrders.getstatuses.canceled'] = 'Anulat';
 $lang['OrderOrders.getstatuses.fraud'] = 'Fraudă';
-$lang['OrderOrders.getstatuses.accepted'] = 'Acceptat';
 $lang['OrderOrders.getstatuses.pending'] = 'În revistă';
-$lang['OrderOrders.bell.order_received.title'] = 'Comanda #%1$s Primită';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s comandă plasată #%2$s (%3$s)';
 

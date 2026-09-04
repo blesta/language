@@ -10,8 +10,8 @@
  */
 
 $lang['Automation.task.autodebit.attempt'] = 'Forsøg på automatisk debitering af åbne fakturaer.';
-$lang['Automation.task.autodebit.completed'] = 'Opgaven med automatisk debitering af fakturaer er afsluttet.';
 $lang['Automation.task.autodebit.charge_attempt'] = 'Forsøger at autodebitere klient #%1$s for alle åbne fakturaer på %2$s.';
 $lang['Automation.task.autodebit.charge_failed'] = 'Kan ikke behandle betalingen.';
 $lang['Automation.task.autodebit.charge_success'] = 'Behandlingen af betalingen lykkedes.';
+$lang['Automation.task.autodebit.completed'] = 'Opgaven med automatisk debitering af fakturaer er afsluttet.';
 

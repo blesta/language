@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Es konnte keine Verbindung zum Remote-Server hergestellt werden. cURL-Fehler: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Anfrage zur Entsperrung gesendet.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'IP entsperren';
 $lang['IpUnblockerPlugin.description'] = 'Ein Plugin für Blesta, das sich in cPanel und DirectAdmin integriert, um gesperrte IPs zu entsperren';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'IP entsperren';
 

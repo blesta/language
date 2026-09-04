@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_changes_filters.field_date_status'] = 'Datum Aktualisierungen';
 $lang['Util.filters.service_changes_filters.field_date_added'] = 'Datum hinzugefügt';
+$lang['Util.filters.service_changes_filters.field_date_status'] = 'Datum Aktualisierungen';
 $lang['Util.filters.service_changes_filters.field_invoice'] = 'Invoice #';
 $lang['Util.filters.service_changes_filters.field_service_id'] = 'Dienst-ID';
 

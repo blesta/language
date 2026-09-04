@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.no_downloads'] = 'Det finns inga tillgängliga nedladdningar i detta avsnitt.';
-$lang['ClientMain.index.login'] = 'Du måste logga in för att se nedladdningar i detta avsnitt.';
-$lang['ClientMain.index.boxtitle_downloads'] = 'Nedladdningar';
-$lang['ClientMain.index.page_title'] = 'Nedladdningar';
 $lang['ClientMain.!text.root_directory'] = 'Hem';
+$lang['ClientMain.index.boxtitle_downloads'] = 'Nedladdningar';
+$lang['ClientMain.index.login'] = 'Du måste logga in för att se nedladdningar i detta avsnitt.';
+$lang['ClientMain.index.no_downloads'] = 'Det finns inga tillgängliga nedladdningar i detta avsnitt.';
+$lang['ClientMain.index.page_title'] = 'Nedladdningar';
 

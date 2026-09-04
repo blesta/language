@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderTypeRegistration.name'] = 'Registro de clientes';
-$lang['OrderTypeRegistration.!success.signup'] = 'Gracias por registrar una cuenta con nosotros.';
 $lang['OrderTypeRegistration.!error.template.valid'] = 'El registro de clientes sólo admite la plantilla Estándar.';
+$lang['OrderTypeRegistration.!success.signup'] = 'Gracias por registrar una cuenta con nosotros.';
+$lang['OrderTypeRegistration.name'] = 'Registro de clientes';
 

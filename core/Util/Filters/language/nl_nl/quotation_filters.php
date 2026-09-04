@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Inhoud lijnitem';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citaat #';
 $lang['Util.filters.quotation_filters.any'] = 'Elke';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
+$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Inhoud lijnitem';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citaat #';
 

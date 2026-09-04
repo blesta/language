@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = 'Agenda automaticamente os serviços para cancelamento.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Agenda automaticamente os serviços suspensos para cancelamento.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Cancelamento automático do horário';
-$lang['AutoCancelPlugin.description'] = 'Agenda automaticamente os serviços para cancelamento.';
 $lang['AutoCancelPlugin.name'] = 'Auto Cancel';
 

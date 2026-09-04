@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.module.completed'] = 'Beendetes Modul cron für %1$s %2$s.';
 $lang['Automation.task.module.attempt'] = 'Ich versuche das Modul cron für %1$s %2$s.';
+$lang['Automation.task.module.completed'] = 'Beendetes Modul cron für %1$s %2$s.';
 

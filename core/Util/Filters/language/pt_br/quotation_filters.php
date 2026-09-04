@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Conteúdo do item de linha';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Moeda';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Cotação #';
 $lang['Util.filters.quotation_filters.any'] = 'Qualquer';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Moeda';
+$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Conteúdo do item de linha';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Cotação #';
 

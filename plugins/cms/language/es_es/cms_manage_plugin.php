@@ -10,10 +10,10 @@
  */
 
 $lang['CmsManagePlugin.!success.plugin_updated'] = 'El Portal se ha actualizado correctamente.';
-$lang['CmsManagePlugin.index.page_title'] = 'Portal > Gestionar';
 $lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
-$lang['CmsManagePlugin.index.field_title'] = 'Índice Título de la página';
-$lang['CmsManagePlugin.index.field_tags'] = 'Etiquetas disponibles';
 $lang['CmsManagePlugin.index.field_content'] = 'Contenido de la página de índice';
 $lang['CmsManagePlugin.index.field_submit'] = 'Página de actualización';
+$lang['CmsManagePlugin.index.field_tags'] = 'Etiquetas disponibles';
+$lang['CmsManagePlugin.index.field_title'] = 'Índice Título de la página';
+$lang['CmsManagePlugin.index.page_title'] = 'Portal > Gestionar';
 

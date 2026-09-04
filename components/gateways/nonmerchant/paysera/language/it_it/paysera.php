@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Paysera.buildprocess.submit'] = 'Invia il pagamento';
-$lang['Paysera.sandbox'] = 'Sandbox';
-$lang['Paysera.project_password'] = 'Password del progetto';
-$lang['Paysera.project_id'] = 'ID progetto';
-$lang['Paysera.!error.sandbox.valid'] = 'Sandbox deve essere "true" o "false".';
-$lang['Paysera.!error.project_password.valid'] = 'La password del progetto fornita non sembra essere valida.';
-$lang['Paysera.!error.project_password.empty'] = 'Inserire una password di progetto valida.';
 $lang['Paysera.!error.project_id.empty'] = 'Inserire un ID progetto valido.';
+$lang['Paysera.!error.project_password.empty'] = 'Inserire una password di progetto valida.';
+$lang['Paysera.!error.project_password.valid'] = 'La password del progetto fornita non sembra essere valida.';
+$lang['Paysera.!error.sandbox.valid'] = 'Sandbox deve essere "true" o "false".';
+$lang['Paysera.buildprocess.submit'] = 'Invia il pagamento';
 $lang['Paysera.description'] = 'Un comodo e popolare strumento di elaborazione dei pagamenti online, che consente di accettare pagamenti in diversi Paesi e in diverse valute.';
 $lang['Paysera.name'] = 'Paysera';
+$lang['Paysera.project_id'] = 'ID progetto';
+$lang['Paysera.project_password'] = 'Password del progetto';
+$lang['Paysera.sandbox'] = 'Sandbox';
 

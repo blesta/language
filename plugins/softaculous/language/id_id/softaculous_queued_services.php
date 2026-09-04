@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Upaya harus berupa nilai numerik positif.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Perusahaan yang diberikan tidak ada.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Layanan yang diberikan tidak mengantri untuk pemasangan.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Layanan yang diberikan tidak ada.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Layanan yang diberikan tidak mengantri untuk pemasangan.';
 

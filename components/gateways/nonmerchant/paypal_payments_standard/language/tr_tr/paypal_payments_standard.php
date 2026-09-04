@@ -9,26 +9,26 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'Geliştirici modu verilmişse "true" olarak ayarlanmalıdır.';
 $lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Geçerli bir e-posta adresi girmelisiniz.';
-$lang['PaypalPaymentsStandard.buildprocess.submit'] = 'PayPal ile ödeme yapın';
-$lang['PaypalPaymentsStandard.pay_type_both'] = 'Mümkün olduğunda tek seferlik ve abonelik ödemeleri';
-$lang['PaypalPaymentsStandard.pay_type_subscribe'] = 'Yalnızca abonelik ödemeleri';
-$lang['PaypalPaymentsStandard.pay_type_onetime'] = 'Sadece tek seferlik ödemeler';
-$lang['PaypalPaymentsStandard.pay_type'] = 'Ödeme Seçenekleri';
-$lang['PaypalPaymentsStandard.api_signature'] = 'API İmzası';
-$lang['PaypalPaymentsStandard.api_password'] = 'API Şifresi';
-$lang['PaypalPaymentsStandard.api_username_note'] = 'PayPal aracılığıyla geri ödemeleri işlemek için API Şifresi ve API İmzasının yanı sıra bu da gereklidir.';
-$lang['PaypalPaymentsStandard.api_username'] = 'API Kullanıcı Adı';
-$lang['PaypalPaymentsStandard.dev_mode_note'] = 'Bu seçeneğin etkinleştirilmesi, işlemleri PayPal Sandbox ortamına gönderir. Bu seçeneği yalnızca bir PayPal Sandbox hesabıyla test yapıyorsanız etkinleştirin.';
-$lang['PaypalPaymentsStandard.dev_mode'] = 'Geliştirici Modu';
-$lang['PaypalPaymentsStandard.page_style_note'] = 'PayPal\'da oluşturduğunuz özel ödeme sayfası temasının Sayfa Stili Adı. Varsayılan sayfa stili için boş bırakın.';
-$lang['PaypalPaymentsStandard.page_style'] = 'Sayfa Stili Adı';
-$lang['PaypalPaymentsStandard.account_id'] = 'PayPal Hesap E-postası';
-$lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard, çevrimiçi kredi kartı ve PayPal ödemelerini güvenli bir şekilde kabul etmenin en kolay yollarından biridir';
-$lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'Geliştirici modu verilmişse "true" olarak ayarlanmalıdır.';
 $lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Eşleme verilerinizde yinelenen e-postalar bulundu, yinelenenleri kaldırın ve tekrar deneyin.';
 $lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Eşleme verilerinizde geçersiz bir satır bulundu, e-posta adresinin ve Müşteri Kimliğinin geçerli olup olmadığını kontrol edin ve tekrar deneyin.';
-$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Blesta dışında oluşturulan PayPal Abonelikleri ile kullanım için tasarlanmıştır. Payer_email\'i dahili Müşteri Kimliği ile eşleştirin, her satır için 1 tane. Örneğin: email,client-id';
+$lang['PaypalPaymentsStandard.account_id'] = 'PayPal Hesap E-postası';
+$lang['PaypalPaymentsStandard.api_password'] = 'API Şifresi';
+$lang['PaypalPaymentsStandard.api_signature'] = 'API İmzası';
+$lang['PaypalPaymentsStandard.api_username'] = 'API Kullanıcı Adı';
+$lang['PaypalPaymentsStandard.api_username_note'] = 'PayPal aracılığıyla geri ödemeleri işlemek için API Şifresi ve API İmzasının yanı sıra bu da gereklidir.';
+$lang['PaypalPaymentsStandard.buildprocess.submit'] = 'PayPal ile ödeme yapın';
+$lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard, çevrimiçi kredi kartı ve PayPal ödemelerini güvenli bir şekilde kabul etmenin en kolay yollarından biridir';
+$lang['PaypalPaymentsStandard.dev_mode'] = 'Geliştirici Modu';
+$lang['PaypalPaymentsStandard.dev_mode_note'] = 'Bu seçeneğin etkinleştirilmesi, işlemleri PayPal Sandbox ortamına gönderir. Bu seçeneği yalnızca bir PayPal Sandbox hesabıyla test yapıyorsanız etkinleştirin.';
+$lang['PaypalPaymentsStandard.name'] = 'PayPal Payments Standard';
+$lang['PaypalPaymentsStandard.page_style'] = 'Sayfa Stili Adı';
+$lang['PaypalPaymentsStandard.page_style_note'] = 'PayPal\'da oluşturduğunuz özel ödeme sayfası temasının Sayfa Stili Adı. Varsayılan sayfa stili için boş bırakın.';
+$lang['PaypalPaymentsStandard.pay_type'] = 'Ödeme Seçenekleri';
+$lang['PaypalPaymentsStandard.pay_type_both'] = 'Mümkün olduğunda tek seferlik ve abonelik ödemeleri';
+$lang['PaypalPaymentsStandard.pay_type_onetime'] = 'Sadece tek seferlik ödemeler';
+$lang['PaypalPaymentsStandard.pay_type_subscribe'] = 'Yalnızca abonelik ödemeleri';
 $lang['PaypalPaymentsStandard.payment_mapping'] = 'Ödeme Eşleme';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Blesta dışında oluşturulan PayPal Abonelikleri ile kullanım için tasarlanmıştır. Payer_email\'i dahili Müşteri Kimliği ile eşleştirin, her satır için 1 tane. Örneğin: email,client-id';
 

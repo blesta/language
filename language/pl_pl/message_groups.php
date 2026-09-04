@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessageGroups.getTypes.shared'] = 'Współdzielony';
-$lang['MessageGroups.getTypes.client'] = 'Klient';
-$lang['MessageGroups.getTypes.staff'] = 'Personel';
-$lang['MessageGroups.!error.tags.empty'] = 'Wprowadź tagi.';
-$lang['MessageGroups.!error.plugin_dir.empty'] = 'Wprowadź katalog wtyczek.';
-$lang['MessageGroups.!error.type.valid'] = 'Typ grupy wiadomości musi być ustawiony na "client", "staff" lub "shared".';
 $lang['MessageGroups.!error.action.empty'] = 'Wprowadź działanie.';
+$lang['MessageGroups.!error.plugin_dir.empty'] = 'Wprowadź katalog wtyczek.';
+$lang['MessageGroups.!error.tags.empty'] = 'Wprowadź tagi.';
+$lang['MessageGroups.!error.type.valid'] = 'Typ grupy wiadomości musi być ustawiony na "client", "staff" lub "shared".';
+$lang['MessageGroups.getTypes.client'] = 'Klient';
+$lang['MessageGroups.getTypes.shared'] = 'Współdzielony';
+$lang['MessageGroups.getTypes.staff'] = 'Personel';
 

@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'O domínio selecionado não está disponível para transferências.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s Pedido feito nº%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Número do pedido%1$s Recebido';
+$lang['OrderOrders.getstatuses.accepted'] = 'Aceito';
 $lang['OrderOrders.getstatuses.canceled'] = 'Cancelado';
 $lang['OrderOrders.getstatuses.fraud'] = 'Fraude';
-$lang['OrderOrders.getstatuses.accepted'] = 'Aceito';
 $lang['OrderOrders.getstatuses.pending'] = 'Em análise';
-$lang['OrderOrders.bell.order_received.title'] = 'Número do pedido%1$s Recebido';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s Pedido feito nº%2$s (%3$s)';
 

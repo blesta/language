@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerSettings.!error.settings[][value].length'] = 'Длина каждого отдельного значения настройки не должна превышать 255 символов.';
-$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Ни одна клавиша настройки не может быть пустой.';
 $lang['MassMailerSettings.!error.company_id.exists'] = 'Неверный идентификатор компании.';
+$lang['MassMailerSettings.!error.settings[][key].empty'] = 'Ни одна клавиша настройки не может быть пустой.';
+$lang['MassMailerSettings.!error.settings[][value].length'] = 'Длина каждого отдельного значения настройки не должна превышать 255 символов.';
 

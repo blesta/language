@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = 'Schemalägger automatiskt tjänster för annullering.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Schemalägger automatiskt avbrutna tjänster för annullering.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatisk annullering av schema';
-$lang['AutoCancelPlugin.description'] = 'Schemalägger automatiskt tjänster för annullering.';
 $lang['AutoCancelPlugin.name'] = 'Auto Avbryt';
 

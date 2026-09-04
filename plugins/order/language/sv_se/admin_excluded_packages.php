@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminExcludedPackages.index.text_no_packages'] = 'Det finns inga aktiva paket tillgängliga.';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Uppdatera inställningar';
-$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Dolda paket';
-$lang['AdminExcludedPackages.index.heading_available_packages'] = 'Tillgängliga paket';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Dolda paket';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Tillgängliga paket';
-$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Paket som inte ingår';
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'De undantagna paketen uppdaterades framgångsrikt.';
+$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Paket som inte ingår';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Uppdatera inställningar';
+$lang['AdminExcludedPackages.index.heading_available_packages'] = 'Tillgängliga paket';
+$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Dolda paket';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Tillgängliga paket';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Dolda paket';
+$lang['AdminExcludedPackages.index.text_no_packages'] = 'Det finns inga aktiva paket tillgängliga.';
 

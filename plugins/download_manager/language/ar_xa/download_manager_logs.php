@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'جهة الاتصال غير موجودة.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = 'العميل غير موجود.';
+$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'جهة الاتصال غير موجودة.';
 $lang['DownloadManagerLogs.!error.file_id.exists'] = 'الملف غير موجود.';
 

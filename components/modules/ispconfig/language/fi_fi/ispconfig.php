@@ -1,0 +1,134 @@
+<?php
+/**
+ * Ispconfig
+ *
+ * @package blesta
+ * @subpackage blesta.language.fi_fi
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Ispconfig.!error.account_limit_valid'] = 'Tiliraja on jätettävä tyhjäksi (rajoittamattomille tileille) tai asetettava joksikin kokonaislukuarvoksi.';
+$lang['Ispconfig.!error.api.internal'] = 'Tapahtui sisäinen virhe tai palvelin ei vastannut pyyntöön.';
+$lang['Ispconfig.!error.host_name_valid'] = 'Isäntänimi näyttää olevan virheellinen.';
+$lang['Ispconfig.!error.ispconfig_domain.format'] = 'Syötä kelvollinen verkkotunnus, esim. domain.com.';
+$lang['Ispconfig.!error.ispconfig_domain.test'] = 'Verkkotunnus ei saa alkaa sanalla ”test”.';
+$lang['Ispconfig.!error.ispconfig_password.matches'] = 'Salasana ja salasanan vahvistus eivät täsmää.';
+$lang['Ispconfig.!error.ispconfig_password.valid'] = 'Salasanan on oltava vähintään 8 merkkiä pitkä.';
+$lang['Ispconfig.!error.ispconfig_username.format'] = 'Käyttäjätunnus saa sisältää vain kirjaimia ja numeroita, eikä se saa alkaa numerolla.';
+$lang['Ispconfig.!error.ispconfig_username.length'] = 'Käyttäjätunnuksen pituuden on oltava 1–16 merkkiä.';
+$lang['Ispconfig.!error.ispconfig_username.test'] = 'Käyttäjätunnus ei saa alkaa sanalla ”test”.';
+$lang['Ispconfig.!error.meta[package].empty'] = 'ISPConfig-paketti on välttämätön.';
+$lang['Ispconfig.!error.module_row.missing'] = 'Sisäinen virhe. Moduulin rivi ei ole käytettävissä.';
+$lang['Ispconfig.!error.name_servers_count'] = 'Sinun on määritettävä vähintään kaksi nimipalvelinta.';
+$lang['Ispconfig.!error.name_servers_valid'] = 'Yksi tai useampi syötetyistä nimipalvelimista on virheellinen.';
+$lang['Ispconfig.!error.port_format'] = 'Portin on oltava luku.';
+$lang['Ispconfig.!error.remote_password_valid'] = 'Salasana näyttää olevan virheellinen.';
+$lang['Ispconfig.!error.remote_password_valid_connection'] = 'Yhteyttä palvelimeen ei voitu muodostaa. Tarkista, että isäntänimi, käyttäjätunnus ja salasana ovat oikein.';
+$lang['Ispconfig.!error.server_name_valid'] = 'Sinun on annettava palvelimen nimi.';
+$lang['Ispconfig.!error.user_name_valid'] = 'Käyttäjänimi näyttää olevan virheellinen.';
+$lang['Ispconfig.add_module_group'] = 'Lisää palvelinryhmä';
+$lang['Ispconfig.add_module_row'] = 'Lisää palvelin';
+$lang['Ispconfig.add_row.add_btn'] = 'Lisää palvelin';
+$lang['Ispconfig.add_row.basic_title'] = 'Perusasetukset';
+$lang['Ispconfig.add_row.box_title'] = 'Lisää ISPConfig-palvelin';
+$lang['Ispconfig.add_row.name_server'] = 'Nimipalvelin %1$s';
+$lang['Ispconfig.add_row.name_server_btn'] = 'Lisää uusi nimipalvelin';
+$lang['Ispconfig.add_row.name_server_col'] = 'Nimipalvelin';
+$lang['Ispconfig.add_row.name_server_host_col'] = 'Isäntänimi';
+$lang['Ispconfig.add_row.name_servers_title'] = 'Nimipalvelimet';
+$lang['Ispconfig.add_row.notes_title'] = 'Huomautukset';
+$lang['Ispconfig.add_row.remove_name_server'] = 'Poista';
+$lang['Ispconfig.back_to_manage'] = 'Takaisin';
+$lang['Ispconfig.description'] = 'ISPConfig 3 on Linuxille tarkoitettu avoimen lähdekoodin hallintapaneeli, jonka avulla voidaan hallita useita palvelimia yhdestä hallintapaneelista käsin.';
+$lang['Ispconfig.edit_row.add_btn'] = 'Muokkaa palvelinta';
+$lang['Ispconfig.edit_row.basic_title'] = 'Perusasetukset';
+$lang['Ispconfig.edit_row.box_title'] = 'Muokkaa ISPConfig-palvelinta';
+$lang['Ispconfig.edit_row.name_server'] = 'Nimipalvelin %1$s';
+$lang['Ispconfig.edit_row.name_server_btn'] = 'Lisää uusi nimipalvelin';
+$lang['Ispconfig.edit_row.name_server_col'] = 'Nimipalvelin';
+$lang['Ispconfig.edit_row.name_server_host_col'] = 'Isäntänimi';
+$lang['Ispconfig.edit_row.name_servers_title'] = 'Nimipalvelimet';
+$lang['Ispconfig.edit_row.notes_title'] = 'Huomautukset';
+$lang['Ispconfig.edit_row.remove_name_server'] = 'Poista';
+$lang['Ispconfig.manage.module_groups_heading.name'] = 'Ryhmän nimi';
+$lang['Ispconfig.manage.module_groups_heading.options'] = 'Vaihtoehdot';
+$lang['Ispconfig.manage.module_groups_heading.servers'] = 'Palvelinten lukumäärä';
+$lang['Ispconfig.manage.module_groups_no_results'] = 'Palvelinryhmiä ei ole.';
+$lang['Ispconfig.manage.module_groups_title'] = 'Palvelinryhmät';
+$lang['Ispconfig.manage.module_groups.confirm_delete'] = 'Haluatko varmasti poistaa tämän palvelinryhmän?';
+$lang['Ispconfig.manage.module_groups.delete'] = 'Poista';
+$lang['Ispconfig.manage.module_groups.edit'] = 'Muokkaa';
+$lang['Ispconfig.manage.module_rows_heading.accounts'] = 'Tilit';
+$lang['Ispconfig.manage.module_rows_heading.hostname'] = 'Isäntänimi';
+$lang['Ispconfig.manage.module_rows_heading.name'] = 'Palvelimen nimi';
+$lang['Ispconfig.manage.module_rows_heading.options'] = 'Vaihtoehdot';
+$lang['Ispconfig.manage.module_rows_no_results'] = 'Palvelimia ei ole.';
+$lang['Ispconfig.manage.module_rows_title'] = 'Palvelimet';
+$lang['Ispconfig.manage.module_rows.confirm_delete'] = 'Haluatko varmasti poistaa tämän palvelimen?';
+$lang['Ispconfig.manage.module_rows.count'] = '%1$s / %2$s';
+$lang['Ispconfig.manage.module_rows.delete'] = 'Poista';
+$lang['Ispconfig.manage.module_rows.edit'] = 'Muokkaa';
+$lang['Ispconfig.manage.tab_groups'] = 'Palvelinryhmät';
+$lang['Ispconfig.manage.tab_rows'] = 'Palvelimet';
+$lang['Ispconfig.module_group'] = 'Palvelinryhmä';
+$lang['Ispconfig.module_row'] = 'Palvelin';
+$lang['Ispconfig.module_row_plural'] = 'Palvelimet';
+$lang['Ispconfig.name'] = 'ISPConfig';
+$lang['Ispconfig.order_options.first'] = 'Ensimmäinen palvelin, joka ei ole täynnä';
+$lang['Ispconfig.order_options.roundrobin'] = 'Jaa tasaisesti palvelimien kesken';
+$lang['Ispconfig.package_fields.package'] = 'ISPConfig-paketti';
+$lang['Ispconfig.package_fields.php_options'] = 'PHP-asetukset';
+$lang['Ispconfig.package_fields.ssh_options'] = 'SSH-asetukset';
+$lang['Ispconfig.row_meta.account_limit'] = 'Tilin rajoitus';
+$lang['Ispconfig.row_meta.default_port'] = '8080';
+$lang['Ispconfig.row_meta.host_name'] = 'Isäntänimi';
+$lang['Ispconfig.row_meta.password'] = 'Salasana';
+$lang['Ispconfig.row_meta.port'] = 'Satama';
+$lang['Ispconfig.row_meta.server_name'] = 'Palvelimen nimi';
+$lang['Ispconfig.row_meta.use_ssl'] = 'Käytä SSL-yhteyttä, kun muodostat yhteyden sovellusliittymään (suositeltavaa)';
+$lang['Ispconfig.row_meta.user_name'] = 'Käyttäjänimi';
+$lang['Ispconfig.service_field.domain'] = 'Verkkotunnus';
+$lang['Ispconfig.service_field.password'] = 'Salasana';
+$lang['Ispconfig.service_field.tooltip.password'] = 'Voit jättää salasanakentän tyhjäksi, jolloin järjestelmä luo salasanan automaattisesti.';
+$lang['Ispconfig.service_field.tooltip.username'] = 'Voit jättää käyttäjätunnuksen kentän tyhjäksi, jolloin järjestelmä luo sen automaattisesti.';
+$lang['Ispconfig.service_field.username'] = 'Käyttäjätunnus';
+$lang['Ispconfig.service_info.option_login'] = 'Kirjaudu sisään';
+$lang['Ispconfig.service_info.options'] = 'Vaihtoehdot';
+$lang['Ispconfig.service_info.password'] = 'Salasana';
+$lang['Ispconfig.service_info.server'] = 'Palvelin';
+$lang['Ispconfig.service_info.username'] = 'Käyttäjätunnus';
+$lang['Ispconfig.tab_client_actions'] = 'Toimenpiteet';
+$lang['Ispconfig.tab_client_actions.change_password'] = 'Vaihda salasana';
+$lang['Ispconfig.tab_client_actions.field_ispconfig_password'] = 'Salasana';
+$lang['Ispconfig.tab_client_actions.field_password_submit'] = 'Päivitä salasana';
+$lang['Ispconfig.tab_client_stats'] = 'Tilastot';
+$lang['Ispconfig.tab_client_stats.bandwidth_title'] = 'Kaistanleveyden käyttö (kuukauden alusta tähän mennessä)';
+$lang['Ispconfig.tab_client_stats.disk_title'] = 'Levytilan käyttö';
+$lang['Ispconfig.tab_client_stats.info_heading.field'] = 'Kenttä';
+$lang['Ispconfig.tab_client_stats.info_heading.value'] = 'Arvo';
+$lang['Ispconfig.tab_client_stats.info_title'] = 'Tiedot';
+$lang['Ispconfig.tab_client_stats.info.limit_database'] = 'Tietokantojen rajoitus';
+$lang['Ispconfig.tab_client_stats.info.limit_ftp_user'] = 'FTP-käyttäjien enimmäismäärä';
+$lang['Ispconfig.tab_client_stats.info.limit_traffic_quota'] = 'Kaistanleveyskiintiö';
+$lang['Ispconfig.tab_client_stats.info.limit_web_aliasdomain'] = 'Alias-verkkotunnusten enimmäismäärä';
+$lang['Ispconfig.tab_client_stats.info.limit_web_domain'] = 'Verkkotunnusten enimmäismäärä';
+$lang['Ispconfig.tab_client_stats.info.limit_web_quota'] = 'Verkkokäyttökiintiö';
+$lang['Ispconfig.tab_client_stats.info.limit_web_subdomain'] = 'Aliverkkotunnusten enimmäismäärä';
+$lang['Ispconfig.tab_client_stats.info.limit_webdav_user'] = 'WebDAV-käyttäjien enimmäismäärä';
+$lang['Ispconfig.tab_client_stats.usage'] = '(%1$s MB /%2$s MB)';
+$lang['Ispconfig.tab_client_stats.usage_unlimited'] = '(%1$s MB/∞)';
+$lang['Ispconfig.tab_stats'] = 'Tilastot';
+$lang['Ispconfig.tab_stats.info_heading.field'] = 'Kenttä';
+$lang['Ispconfig.tab_stats.info_heading.value'] = 'Arvo';
+$lang['Ispconfig.tab_stats.info_title'] = 'Tiedot';
+$lang['Ispconfig.tab_stats.info.limit_database'] = 'Tietokantojen rajoitus';
+$lang['Ispconfig.tab_stats.info.limit_ftp_user'] = 'FTP-käyttäjien enimmäismäärä';
+$lang['Ispconfig.tab_stats.info.limit_traffic_quota'] = 'Kaistanleveyden kiintiö';
+$lang['Ispconfig.tab_stats.info.limit_web_aliasdomain'] = 'Alias-verkkotunnusten enimmäismäärä';
+$lang['Ispconfig.tab_stats.info.limit_web_domain'] = 'Verkkotunnusten rajoitus';
+$lang['Ispconfig.tab_stats.info.limit_web_quota'] = 'Verkkokäyttökiintiö';
+$lang['Ispconfig.tab_stats.info.limit_web_subdomain'] = 'Aliverkkotunnusten rajoitus';
+$lang['Ispconfig.tab_stats.info.limit_webdav_user'] = 'WebDAV-käyttäjien enimmäismäärä';
+

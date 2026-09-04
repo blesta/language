@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_changes_filters.field_date_status'] = 'Ενημερώσεις ημερομηνίας';
 $lang['Util.filters.service_changes_filters.field_date_added'] = 'Ημερομηνία προσθήκης';
+$lang['Util.filters.service_changes_filters.field_date_status'] = 'Ενημερώσεις ημερομηνίας';
 $lang['Util.filters.service_changes_filters.field_invoice'] = 'Τιμολόγιο #';
 $lang['Util.filters.service_changes_filters.field_service_id'] = 'Αναγνωριστικό υπηρεσίας';
 

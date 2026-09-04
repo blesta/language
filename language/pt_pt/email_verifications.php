@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['EmailVerifications.!error.redirect_url.valid'] = 'Introduza um URL válido.';
-$lang['EmailVerifications.!error.verified.valid'] = 'O campo verificado deve ser "1" ou "0".';
-$lang['EmailVerifications.!error.token.format'] = 'Introduza um token válido.';
-$lang['EmailVerifications.!error.email.valid'] = 'Introduza um endereço de correio eletrónico válido.';
-$lang['EmailVerifications.!error.contact_id.exists'] = 'ID de contacto inválido.';
 $lang['EmailVerifications.!error.client.valid'] = 'Não foi possível verificar o seu endereço de correio eletrónico porque a sua conta não está ativa.';
+$lang['EmailVerifications.!error.contact_id.exists'] = 'ID de contacto inválido.';
+$lang['EmailVerifications.!error.email.valid'] = 'Introduza um endereço de correio eletrónico válido.';
+$lang['EmailVerifications.!error.redirect_url.valid'] = 'Introduza um URL válido.';
+$lang['EmailVerifications.!error.token.format'] = 'Introduza um token válido.';
+$lang['EmailVerifications.!error.verified.valid'] = 'O campo verificado deve ser "1" ou "0".';
 

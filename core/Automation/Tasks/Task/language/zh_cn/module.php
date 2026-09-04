@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.module.completed'] = '完成 %1$s %2$s 的 cron 模块。';
 $lang['Automation.task.module.attempt'] = '尝试 %1$s %2$s 的模块 cron。';
+$lang['Automation.task.module.completed'] = '完成 %1$s %2$s 的 cron 模块。';
 

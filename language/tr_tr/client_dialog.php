@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDialog.password.btn_use_password'] = 'Şifre Kullan';
-$lang['ClientDialog.password.btn_cancel'] = 'İptal';
-$lang['ClientDialog.password.btn_generate'] = 'Oluşturmak';
-$lang['ClientDialog.password.field_modal_password_copied'] = 'Bu şifreyi güvenli bir yere kopyaladım';
-$lang['ClientDialog.password.field_modal_password'] = 'Şifre';
-$lang['ClientDialog.password.title'] = 'Şifre Oluştur';
 $lang['ClientDialog.confirm.text_no'] = 'Hayır';
 $lang['ClientDialog.confirm.text_yes'] = 'Evet';
+$lang['ClientDialog.password.btn_cancel'] = 'İptal';
+$lang['ClientDialog.password.btn_generate'] = 'Oluşturmak';
+$lang['ClientDialog.password.btn_use_password'] = 'Şifre Kullan';
+$lang['ClientDialog.password.field_modal_password'] = 'Şifre';
+$lang['ClientDialog.password.field_modal_password_copied'] = 'Bu şifreyi güvenli bir yere kopyaladım';
+$lang['ClientDialog.password.title'] = 'Şifre Oluştur';
 

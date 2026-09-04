@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.delete.!success'] = 'Сторінку успішно видалено!';
 $lang['AdminMain.!success.manage'] = 'Зміни успішно збережено!';
-$lang['AdminMain.manage.submit'] = 'Надіслати';
+$lang['AdminMain.delete.!success'] = 'Сторінку успішно видалено!';
+$lang['AdminMain.index.add'] = 'Додати сторінку';
+$lang['AdminMain.index.boxtitle'] = 'Сторінки CMS';
+$lang['AdminMain.index.delete'] = 'Видалити';
+$lang['AdminMain.index.edit'] = 'Редагувати';
+$lang['AdminMain.index.empty'] = 'Немає сторінок...';
+$lang['AdminMain.index.heading.options'] = 'Дії';
+$lang['AdminMain.index.heading.title'] = 'Назва';
+$lang['AdminMain.index.heading.uri'] = 'URI';
+$lang['AdminMain.index.page_title'] = 'Сторінки CMS';
+$lang['AdminMain.manage.back'] = 'Повернутися до сторінок';
+$lang['AdminMain.manage.boxtitle'] = 'Керування сторінкою CMS';
 $lang['AdminMain.manage.label.content'] = 'Зміст';
 $lang['AdminMain.manage.label.content_type'] = 'Тип вмісту';
 $lang['AdminMain.manage.label.tags'] = 'Теги';
 $lang['AdminMain.manage.label.title'] = 'Назва';
 $lang['AdminMain.manage.label.uri'] = 'URI';
-$lang['AdminMain.manage.boxtitle'] = 'Керування сторінкою CMS';
+$lang['AdminMain.manage.submit'] = 'Надіслати';
 $lang['AdminMain.modal.delete'] = 'Ви дійсно хочете видалити цю сторінку?';
-$lang['AdminMain.index.empty'] = 'Немає сторінок...';
-$lang['AdminMain.index.delete'] = 'Видалити';
-$lang['AdminMain.index.edit'] = 'Редагувати';
-$lang['AdminMain.index.add'] = 'Додати сторінку';
-$lang['AdminMain.index.heading.title'] = 'Назва';
-$lang['AdminMain.index.heading.uri'] = 'URI';
-$lang['AdminMain.index.boxtitle'] = 'Сторінки CMS';
-$lang['AdminMain.index.page_title'] = 'Сторінки CMS';
-$lang['AdminMain.index.heading.options'] = 'Дії';
-$lang['AdminMain.manage.back'] = 'Повернутися до сторінок';
 

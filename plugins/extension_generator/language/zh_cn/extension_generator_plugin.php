@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = '扩展发电机';
 $lang['ExtensionGeneratorPlugin.description'] = '这是一个插件，用于为新的 Blesta 扩展程序自动生成文件';
 $lang['ExtensionGeneratorPlugin.name'] = 'Extension Generator';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = '扩展发电机';
 

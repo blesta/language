@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.service_filters.field_service_meta'] = 'Servis Meta';
-$lang['Util.filters.service_filters.field_package_name'] = 'Paket Adı';
-$lang['Util.filters.service_filters.field_module_id'] = 'Modül';
 $lang['Util.filters.service_filters.any'] = 'Herhangi bir';
+$lang['Util.filters.service_filters.field_module_id'] = 'Modül';
+$lang['Util.filters.service_filters.field_package_name'] = 'Paket Adı';
 $lang['Util.filters.service_filters.field_service_id'] = 'Hizmet Kimliği';
+$lang['Util.filters.service_filters.field_service_meta'] = 'Servis Meta';
 

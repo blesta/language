@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'الحفظ';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'المفتاح المشترك';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'تسجيل الدخول المشترك';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'المفتاح المشترك';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'تسجيل الدخول المشترك';
+$lang['SharedLoginManagePlugin.index.submit'] = 'الحفظ';
 

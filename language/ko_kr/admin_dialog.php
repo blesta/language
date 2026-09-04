@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.password.btn_use_password'] = '비밀번호 사용';
-$lang['AdminDialog.password.btn_cancel'] = '취소';
-$lang['AdminDialog.password.btn_modal_password'] = '비밀번호';
-$lang['AdminDialog.password.btn_generate'] = '생성';
-$lang['AdminDialog.password.field_modal_password_copied'] = '이 비밀번호를 안전한 곳에 복사했습니다.';
-$lang['AdminDialog.password.field_modal_password'] = '비밀번호';
 $lang['AdminDialog.confirm.text_no'] = '아니요';
 $lang['AdminDialog.confirm.text_yes'] = '예';
-$lang['AdminDialog.password.title'] = '비밀번호 생성';
+$lang['AdminDialog.password.btn_cancel'] = '취소';
+$lang['AdminDialog.password.btn_generate'] = '생성';
+$lang['AdminDialog.password.btn_modal_password'] = '비밀번호';
+$lang['AdminDialog.password.btn_use_password'] = '비밀번호 사용';
+$lang['AdminDialog.password.field_modal_password'] = '비밀번호';
+$lang['AdminDialog.password.field_modal_password_copied'] = '이 비밀번호를 안전한 곳에 복사했습니다.';
 $lang['AdminDialog.password.text_click_generate'] = '생성을 클릭하여 보안 비밀번호를 생성합니다.';
+$lang['AdminDialog.password.title'] = '비밀번호 생성';
 

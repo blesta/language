@@ -11,14 +11,14 @@
 
 $lang['ClientsCredits.!error.currency'] = 'La moneda no es válida.';
 $lang['ClientsCredits.!error.status'] = 'El estado del cliente no es válido.';
-$lang['ClientsCredits.heading.currency'] = 'Moneda';
-$lang['ClientsCredits.heading.credits'] = 'Créditos';
-$lang['ClientsCredits.heading.email'] = 'Correo electrónico';
 $lang['ClientsCredits.heading.company'] = 'Empresa';
-$lang['ClientsCredits.heading.last_name'] = 'Apellido';
+$lang['ClientsCredits.heading.credits'] = 'Créditos';
+$lang['ClientsCredits.heading.currency'] = 'Moneda';
+$lang['ClientsCredits.heading.email'] = 'Correo electrónico';
 $lang['ClientsCredits.heading.first_name'] = 'Nombre';
 $lang['ClientsCredits.heading.id_code'] = 'ID de cliente';
+$lang['ClientsCredits.heading.last_name'] = 'Apellido';
+$lang['ClientsCredits.name'] = 'Clients with Credits';
 $lang['ClientsCredits.options.field_currency'] = 'Moneda';
 $lang['ClientsCredits.options.field_status'] = 'Estado del cliente';
-$lang['ClientsCredits.name'] = 'Clients with Credits';
 

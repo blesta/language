@@ -15,8 +15,8 @@ $lang['Automation.task.deliver_invoices.delivery_error'] = 'Αδυναμία π�
 $lang['Automation.task.deliver_invoices.delivery_error_one'] = 'Αδυναμία παράδοσης 1 τιμολογίου στον πελάτη #%1$s μέσω %2$s λόγω σφάλματος: %3$s';
 $lang['Automation.task.deliver_invoices.delivery_success'] = 'Παραδόθηκαν επιτυχώς %3$s τιμολόγια στον πελάτη #%1$s μέσω %2$s.';
 $lang['Automation.task.deliver_invoices.delivery_success_one'] = 'Παραδόθηκε επιτυχώς 1 τιμολόγιο στον πελάτη #%1$s μέσω %2$s.';
-$lang['Automation.task.deliver_invoices.none'] = 'Δεν έχει προγραμματιστεί η παράδοση τιμολογίων.';
 $lang['Automation.task.deliver_invoices.method_email'] = 'Ηλεκτρονικό ταχυδρομείο';
 $lang['Automation.task.deliver_invoices.method_interfax'] = 'InterFax';
 $lang['Automation.task.deliver_invoices.method_postalmethods'] = 'PostalMethods';
+$lang['Automation.task.deliver_invoices.none'] = 'Δεν έχει προγραμματιστεί η παράδοση τιμολογίων.';
 

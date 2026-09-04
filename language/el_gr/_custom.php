@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Μετρητά';
+$lang['_PaymentTypes.check'] = 'Ελέγξτε το';
 $lang['_PaymentTypes.in_house_credit'] = 'Πίστωση εντός του οίκου';
 $lang['_PaymentTypes.money_order'] = 'Ένταλμα πληρωμής';
-$lang['_PaymentTypes.check'] = 'Ελέγξτε το';
-$lang['_PaymentTypes.cash'] = 'Μετρητά';
 

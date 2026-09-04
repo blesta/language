@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Длина каждого отдельного значения настройки не должна превышать 255 символов.';
-$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ни одна клавиша настройки не может быть пустой.';
 $lang['SystemOverviewSettings.!error.company_id.exists'] = 'Неверный идентификатор компании.';
+$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ни одна клавиша настройки не может быть пустой.';
+$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Длина каждого отдельного значения настройки не должна превышать 255 символов.';
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = 'Неверный идентификатор сотрудника.';
 

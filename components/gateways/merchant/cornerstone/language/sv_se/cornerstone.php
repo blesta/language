@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Cornerstone.security_key'] = 'Säkerhetsnyckel';
+$lang['Cornerstone.!error.security_key.empty'] = 'Ange din säkerhetsnyckel.';
 $lang['Cornerstone.description'] = 'Cornerstone är en av de ledande kristet ägda och drivna oberoende säljorganisationerna i USA inom branschen för handelstransaktioner';
 $lang['Cornerstone.name'] = 'Hörnsten';
-$lang['Cornerstone.!error.security_key.empty'] = 'Ange din säkerhetsnyckel.';
+$lang['Cornerstone.security_key'] = 'Säkerhetsnyckel';
 

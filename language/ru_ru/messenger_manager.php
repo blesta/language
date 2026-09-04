@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'Версия недействительна.';
-$lang['MessengerManager.!error.name.valid'] = 'Имя недействительно.';
-$lang['MessengerManager.!error.dir.valid'] = 'Каталог недействителен.';
 $lang['MessengerManager.!error.company_id.valid'] = 'Идентификатор компании недействителен.';
+$lang['MessengerManager.!error.dir.valid'] = 'Каталог недействителен.';
 $lang['MessengerManager.!error.messenger.missing'] = 'Для данного типа не настроен ни один мессенджер.';
+$lang['MessengerManager.!error.name.valid'] = 'Имя недействительно.';
+$lang['MessengerManager.!error.version.valid'] = 'Версия недействительна.';
 

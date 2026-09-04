@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Perfectmoney.payee_account'] = 'Betalingsmodtagerkonto';
+$lang['Perfectmoney.!error.passphrase.valid'] = 'Du skal indtaste en gyldig passphrase.';
+$lang['Perfectmoney.!error.payee_account.valid'] = 'Du skal indtaste en gyldig konto.';
+$lang['Perfectmoney.buildprocess.submit'] = 'Betal med Perfect Money';
+$lang['Perfectmoney.name'] = 'Perfect Money';
 $lang['Perfectmoney.passphrase'] = 'Alternativ adgangssætning';
 $lang['Perfectmoney.passphrase_note'] = 'Den alternative passphrase bruges til beregning af MD5-hash til validering af betalinger.';
-$lang['Perfectmoney.buildprocess.submit'] = 'Betal med Perfect Money';
-$lang['Perfectmoney.!error.payee_account.valid'] = 'Du skal indtaste en gyldig konto.';
-$lang['Perfectmoney.!error.passphrase.valid'] = 'Du skal indtaste en gyldig passphrase.';
-$lang['Perfectmoney.name'] = 'Perfect Money';
+$lang['Perfectmoney.payee_account'] = 'Betalingsmodtagerkonto';
 

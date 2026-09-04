@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsPlugin.index.title'] = 'Kundportal';
 $lang['CmsPlugin.description'] = 'CMS ger dig möjlighet att skapa ytterligare sidor i din Blesta.';
+$lang['CmsPlugin.index.title'] = 'Kundportal';
 $lang['CmsPlugin.name'] = 'CMS';
 $lang['CmsPlugin.nav_secondary_staff.index'] = 'CMS';
 

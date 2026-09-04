@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'A versão é inválida.';
-$lang['MessengerManager.!error.name.valid'] = 'O nome é inválido.';
-$lang['MessengerManager.!error.dir.valid'] = 'O diretório é inválido.';
 $lang['MessengerManager.!error.company_id.valid'] = 'O ID da empresa é inválido.';
+$lang['MessengerManager.!error.dir.valid'] = 'O diretório é inválido.';
 $lang['MessengerManager.!error.messenger.missing'] = 'Nenhum mensageiro está configurado para o tipo fornecido.';
+$lang['MessengerManager.!error.name.valid'] = 'O nome é inválido.';
+$lang['MessengerManager.!error.version.valid'] = 'A versão é inválida.';
 

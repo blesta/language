@@ -34,3 +34,4 @@ To install these languages, follow the steps:
 | Português, BR  | pt_br  |
 | Português, PT  | pt_pt  |
 | 中文, CN | zh_cn |
+| Suomi, FI | fi_fi |

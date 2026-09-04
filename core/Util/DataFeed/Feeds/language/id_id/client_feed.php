@@ -10,10 +10,10 @@
  */
 
 $lang['ClientFeed.!error.invalid_endpoint'] = 'Titik akhir yang diminta tidak valid atau tidak ada.';
+$lang['ClientFeed.description'] = 'Mengembalikan jumlah klien dengan status tertentu.';
+$lang['ClientFeed.getOptionFields.example_code_active'] = 'Menampilkan jumlah klien aktif:';
 $lang['ClientFeed.getOptionFields.example_code_fraud'] = 'Menunjukkan jumlah klien yang melakukan penipuan:';
 $lang['ClientFeed.getOptionFields.example_code_inactive'] = 'Menampilkan jumlah klien yang tidak aktif:';
-$lang['ClientFeed.getOptionFields.example_code_active'] = 'Menampilkan jumlah klien aktif:';
 $lang['ClientFeed.getOptionFields.title_row_example_code'] = 'Contoh Kode';
-$lang['ClientFeed.description'] = 'Mengembalikan jumlah klien dengan status tertentu.';
 $lang['ClientFeed.name'] = 'Clients';
 

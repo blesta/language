@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Languages.!error.name.format'] = 'O nome do idioma não pode estar vazio.';
-$lang['Languages.!error.company_id.format'] = 'O ID da empresa parece ser inválido.';
-$lang['Languages.!error.code.unique'] = 'Esse código de idioma já existe para essa empresa.';
 $lang['Languages.!error.code.format'] = 'O código do idioma não está formatado corretamente.';
+$lang['Languages.!error.code.unique'] = 'Esse código de idioma já existe para essa empresa.';
 $lang['Languages.!error.code.valid'] = 'O idioma padrão "en_us" não pode ser removido.';
+$lang['Languages.!error.company_id.format'] = 'O ID da empresa parece ser inválido.';
+$lang['Languages.!error.name.format'] = 'O nome do idioma não pode estar vazio.';
 

@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDialog.password.btn_use_password'] = 'Используйте пароль';
-$lang['ClientDialog.password.btn_cancel'] = 'Отмена';
-$lang['ClientDialog.password.btn_generate'] = 'Создать';
-$lang['ClientDialog.password.field_modal_password_copied'] = 'Я скопировал этот пароль в надежное место.';
-$lang['ClientDialog.password.field_modal_password'] = 'Пароль';
-$lang['ClientDialog.password.title'] = 'Сгенерировать пароль';
 $lang['ClientDialog.confirm.text_no'] = 'Нет';
 $lang['ClientDialog.confirm.text_yes'] = 'Да';
+$lang['ClientDialog.password.btn_cancel'] = 'Отмена';
+$lang['ClientDialog.password.btn_generate'] = 'Создать';
+$lang['ClientDialog.password.btn_use_password'] = 'Используйте пароль';
+$lang['ClientDialog.password.field_modal_password'] = 'Пароль';
+$lang['ClientDialog.password.field_modal_password_copied'] = 'Я скопировал этот пароль в надежное место.';
+$lang['ClientDialog.password.title'] = 'Сгенерировать пароль';
 

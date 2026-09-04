@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDataPortability.!tooltip.client_id'] = 'Acesta este ID-ul intern al clientului afișat în URL atunci când vizualizați profilul unui client.';
 $lang['ClientDataPortability.!error.client_id'] = 'ID-ul clientului nu este valid.';
-$lang['ClientDataPortability.options.field_client_id'] = 'ID client';
+$lang['ClientDataPortability.!tooltip.client_id'] = 'Acesta este ID-ul intern al clientului afișat în URL atunci când vizualizați profilul unui client.';
 $lang['ClientDataPortability.name'] = 'Client Data Portability';
+$lang['ClientDataPortability.options.field_client_id'] = 'ID client';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['Offline.!error.instructions.valid'] = 'È necessario inserire alcune istruzioni.';
-$lang['Offline.instructions'] = 'Istruzioni';
 $lang['Offline.description'] = 'Consente di visualizzare istruzioni speciali per l\'accettazione di pagamenti offline.';
+$lang['Offline.instructions'] = 'Istruzioni';
 $lang['Offline.name'] = 'Pagamento offline';
 

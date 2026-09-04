@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Kassacompleet.buildprocess.submit'] = 'Оплата с помощью Kassa Compleet';
-$lang['Kassacompleet.tooltip.api_key'] = 'Чтобы использовать тестовый режим, просто введите API-ключ из тестовой учетной записи';
-$lang['Kassacompleet.api_key'] = 'Ключ API';
-$lang['Kassacompleet.description'] = 'Интеграция Kassa Compleet для типа оплаты "Кредитная карта".';
-$lang['Kassacompleet.!error.api_key.valid'] = 'Ключ API недействителен';
 $lang['Kassacompleet.!error.api_key.empty'] = 'Пожалуйста, введите ключ API';
+$lang['Kassacompleet.!error.api_key.valid'] = 'Ключ API недействителен';
+$lang['Kassacompleet.api_key'] = 'Ключ API';
+$lang['Kassacompleet.buildprocess.submit'] = 'Оплата с помощью Kassa Compleet';
+$lang['Kassacompleet.description'] = 'Интеграция Kassa Compleet для типа оплаты "Кредитная карта".';
 $lang['Kassacompleet.name'] = 'Credit/Debit Card (Kassa Compleet)';
+$lang['Kassacompleet.tooltip.api_key'] = 'Чтобы использовать тестовый режим, просто введите API-ключ из тестовой учетной записи';
 

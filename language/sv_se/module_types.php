@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'ID för modultyp är ogiltigt.';
 $lang['ModuleTypes.!error.name.valid'] = 'Namnet är ogiltigt.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'ID för modultyp är ogiltigt.';
 

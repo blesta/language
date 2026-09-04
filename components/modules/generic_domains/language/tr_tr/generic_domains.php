@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['GenericDomains.manage.text'] = 'Personel grubu bu BCC bildirimlerini ayarlamışsa ve personel üyesi [Bilgilerim] -> [Bildirimler] bölümünden bunlara abone olmuşsa, personel hizmet oluşturma, askıya alma ve iptal e-postalarının BCC kopyalarını alabilir.';
-$lang['GenericDomains.package_fields.tld_options'] = 'TLD\'ler';
-$lang['GenericDomains.transfer.transfer_key'] = 'EPP Kodu';
-$lang['GenericDomains.transfer.domain'] = 'Etki Alanı';
-$lang['GenericDomains.domain.domain'] = 'Etki Alanı';
-$lang['GenericDomains.module_row_plural'] = 'Modül Satırları';
-$lang['GenericDomains.module_row'] = 'Modül Satırı';
+$lang['Generic_domains.back_to_manage'] = 'Geri';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Virgülle ayrılmış tüm alıcı e-postaları.';
 $lang['GenericDomains.description'] = 'Alan adı kaydı için genel bir modül.';
-$lang['GenericDomains.name'] = 'Generic Domains';
-$lang['GenericDomains.manage.save_btn'] = 'Kaydet';
-$lang['GenericDomains.manage.email_text'] = 'Metin';
+$lang['GenericDomains.domain.domain'] = 'Etki Alanı';
 $lang['GenericDomains.manage.email_html'] = 'HTML';
-$lang['GenericDomains.manage.renewal_email'] = 'Yenileme E-postası';
-$lang['GenericDomains.manage.registration_email'] = 'Kayıt E-postası';
-$lang['GenericDomains.manage.to_emails'] = 'E-postalara';
+$lang['GenericDomains.manage.email_text'] = 'Metin';
 $lang['GenericDomains.manage.from_email'] = 'E-postadan';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Bildirim Ayarları';
-$lang['GenericDomains.!tooltip.to_emails'] = 'Virgülle ayrılmış tüm alıcı e-postaları.';
-$lang['Generic_domains.back_to_manage'] = 'Geri';
+$lang['GenericDomains.manage.registration_email'] = 'Kayıt E-postası';
+$lang['GenericDomains.manage.renewal_email'] = 'Yenileme E-postası';
+$lang['GenericDomains.manage.save_btn'] = 'Kaydet';
+$lang['GenericDomains.manage.text'] = 'Personel grubu bu BCC bildirimlerini ayarlamışsa ve personel üyesi [Bilgilerim] -> [Bildirimler] bölümünden bunlara abone olmuşsa, personel hizmet oluşturma, askıya alma ve iptal e-postalarının BCC kopyalarını alabilir.';
 $lang['GenericDomains.manage.text_available_tags'] = 'Mevcut Etiketler';
+$lang['GenericDomains.manage.to_emails'] = 'E-postalara';
+$lang['GenericDomains.module_row'] = 'Modül Satırı';
+$lang['GenericDomains.module_row_plural'] = 'Modül Satırları';
+$lang['GenericDomains.name'] = 'Generic Domains';
+$lang['GenericDomains.package_fields.tld_options'] = 'TLD\'ler';
+$lang['GenericDomains.transfer.domain'] = 'Etki Alanı';
+$lang['GenericDomains.transfer.transfer_key'] = 'EPP Kodu';
 

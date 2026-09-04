@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['EmailGroups.!error.action.empty'] = 'Wprowadź działanie.';
+$lang['EmailGroups.!error.action.length'] = 'Długość akcji nie może przekraczać 64 znaków.';
+$lang['EmailGroups.!error.action.unique'] = 'Akcja o tej nazwie już istnieje.';
 $lang['EmailGroups.!error.group_id.exists'] = 'Nieprawidłowy identyfikator grupy e-mail.';
 $lang['EmailGroups.!error.notice_type.valid'] = 'Typ powiadomienia musi być ustawiony na bcc lub to.';
 $lang['EmailGroups.!error.type.format'] = 'Nieprawidłowy typ.';
-$lang['EmailGroups.!error.action.unique'] = 'Akcja o tej nazwie już istnieje.';
-$lang['EmailGroups.!error.action.length'] = 'Długość akcji nie może przekraczać 64 znaków.';
-$lang['EmailGroups.!error.action.empty'] = 'Wprowadź działanie.';
 

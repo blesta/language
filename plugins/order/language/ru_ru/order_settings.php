@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderSettings.getantifraud.maxmind_v2'] = 'MaxMind v2';
-$lang['OrderSettings.getantifraud.maxmind'] = 'Наследие MaxMind';
-$lang['OrderSettings.getantifraud.fraudlabspro'] = 'FraudLabs Pro';
 $lang['OrderSettings.!error.embed_code.parse'] = 'Ошибка разбора кода встраивания: %1$s';
+$lang['OrderSettings.getantifraud.fraudlabspro'] = 'FraudLabs Pro';
+$lang['OrderSettings.getantifraud.maxmind'] = 'Наследие MaxMind';
+$lang['OrderSettings.getantifraud.maxmind_v2'] = 'MaxMind v2';
 

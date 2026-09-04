@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'معرف نوع الوحدة النمطية غير صالح.';
 $lang['ModuleTypes.!error.name.valid'] = 'الاسم غير صالح.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'معرف نوع الوحدة النمطية غير صالح.';
 

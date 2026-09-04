@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Notifications.notification.Order.staff_order_received_name'] = 'Παραγγελία που ελήφθη';
 $lang['Notifications.notification.Order.staff_order_received_desc'] = 'Μια νέα παραγγελία έχει τοποθετηθεί ή απαιτεί χειροκίνητη αναθεώρηση.';
-$lang['Notifications.notification.Order.staff_payout_requested_name'] = 'Αιτούμενη πληρωμή θυγατρικών';
+$lang['Notifications.notification.Order.staff_order_received_name'] = 'Παραγγελία που ελήφθη';
 $lang['Notifications.notification.Order.staff_payout_requested_desc'] = 'Ένας συνεργάτης έχει ζητήσει πληρωμή.';
+$lang['Notifications.notification.Order.staff_payout_requested_name'] = 'Αιτούμενη πληρωμή θυγατρικών';
 

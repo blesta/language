@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'Identyfikator typu modułu jest nieprawidłowy.';
 $lang['ModuleTypes.!error.name.valid'] = 'Nazwa jest nieprawidłowa.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'Identyfikator typu modułu jest nieprawidłowy.';
 

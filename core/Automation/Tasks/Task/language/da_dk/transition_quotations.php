@@ -11,7 +11,7 @@
 
 $lang['Automation.task.transition_quotations.attempt'] = 'Forsøg på at overføre udløbne tilbud.';
 $lang['Automation.task.transition_quotations.completed'] = 'Overgangsopgaven for tilbud er afsluttet.';
-$lang['Automation.task.transition_quotations.none'] = 'Ingen udløbne tilbud er tilgængelige for overgang.';
-$lang['Automation.task.transition_quotations.expiration_success'] = 'Det afventende tilbud #%1$s fra kunde #%2$s er nu udløbet.';
 $lang['Automation.task.transition_quotations.dead_success'] = 'Det udløbne tilbud #%1$s fra kunde #%2$s er nu dødt.';
+$lang['Automation.task.transition_quotations.expiration_success'] = 'Det afventende tilbud #%1$s fra kunde #%2$s er nu udløbet.';
+$lang['Automation.task.transition_quotations.none'] = 'Ingen udløbne tilbud er tilgængelige for overgang.';
 

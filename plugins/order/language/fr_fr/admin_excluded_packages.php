@@ -11,10 +11,10 @@
 
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'Les paquets exclus ont été mis à jour avec succès.';
 $lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Forfaits exclus';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Packages disponibles';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Paquets cachés';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Mise à jour des paramètres';
 $lang['AdminExcludedPackages.index.heading_available_packages'] = 'Packages disponibles';
 $lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Paquets cachés';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Mise à jour des paramètres';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Packages disponibles';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Paquets cachés';
 $lang['AdminExcludedPackages.index.text_no_packages'] = 'Il n\'y a pas de forfaits actifs disponibles.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Gotówka';
+$lang['_PaymentTypes.check'] = 'Sprawdź';
 $lang['_PaymentTypes.in_house_credit'] = 'Kredyt wewnętrzny';
 $lang['_PaymentTypes.money_order'] = 'Przekaz pieniężny';
-$lang['_PaymentTypes.check'] = 'Sprawdź';
-$lang['_PaymentTypes.cash'] = 'Gotówka';
 

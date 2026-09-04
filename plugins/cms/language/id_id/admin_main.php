@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.delete.!success'] = 'Halaman berhasil dihapus!';
 $lang['AdminMain.!success.manage'] = 'Perubahan berhasil disimpan!';
-$lang['AdminMain.manage.submit'] = 'Kirim';
+$lang['AdminMain.delete.!success'] = 'Halaman berhasil dihapus!';
+$lang['AdminMain.index.add'] = 'Tambahkan Halaman';
+$lang['AdminMain.index.boxtitle'] = 'Halaman CMS';
+$lang['AdminMain.index.delete'] = 'Menghapus';
+$lang['AdminMain.index.edit'] = 'Sunting';
+$lang['AdminMain.index.empty'] = 'Tidak ada halaman...';
+$lang['AdminMain.index.heading.options'] = 'Tindakan';
+$lang['AdminMain.index.heading.title'] = 'Judul';
+$lang['AdminMain.index.heading.uri'] = 'URI';
+$lang['AdminMain.index.page_title'] = 'Halaman CMS';
+$lang['AdminMain.manage.back'] = 'Kembali ke Halaman';
+$lang['AdminMain.manage.boxtitle'] = 'Mengelola Halaman CMS';
 $lang['AdminMain.manage.label.content'] = 'Konten';
 $lang['AdminMain.manage.label.content_type'] = 'Jenis Konten';
 $lang['AdminMain.manage.label.tags'] = 'Tags';
 $lang['AdminMain.manage.label.title'] = 'Judul';
 $lang['AdminMain.manage.label.uri'] = 'URI';
-$lang['AdminMain.manage.boxtitle'] = 'Mengelola Halaman CMS';
+$lang['AdminMain.manage.submit'] = 'Kirim';
 $lang['AdminMain.modal.delete'] = 'Apakah Anda yakin ingin menghapus halaman ini?';
-$lang['AdminMain.index.empty'] = 'Tidak ada halaman...';
-$lang['AdminMain.index.delete'] = 'Menghapus';
-$lang['AdminMain.index.edit'] = 'Sunting';
-$lang['AdminMain.index.add'] = 'Tambahkan Halaman';
-$lang['AdminMain.index.heading.title'] = 'Judul';
-$lang['AdminMain.index.heading.uri'] = 'URI';
-$lang['AdminMain.index.boxtitle'] = 'Halaman CMS';
-$lang['AdminMain.index.page_title'] = 'Halaman CMS';
-$lang['AdminMain.index.heading.options'] = 'Tindakan';
-$lang['AdminMain.manage.back'] = 'Kembali ke Halaman';
 

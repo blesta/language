@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'Bakım';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'Bakım Modu';
+$lang['ClientMaintenance.index.page_title'] = 'Bakım';
 

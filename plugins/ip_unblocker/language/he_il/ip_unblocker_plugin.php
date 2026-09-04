@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'לא ניתן להתחבר לשרת המרוחק. שגיאת cURL: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'בקשת הסרת החסימה נשלחה.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'הסרת חסימת כתובת IP';
 $lang['IpUnblockerPlugin.description'] = 'תוסף ל-Blesta שמשתלב עם cPanel ו-DirectAdmin כדי להסיר את החסימה מכתובות IP שנכללו ברשימה השחורה';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'הסרת חסימת כתובת IP';
 

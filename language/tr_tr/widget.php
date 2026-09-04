@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = 'Filtreleri Değiştir';
-$lang['Widget.submit'] = 'Filtreleri Uygula';
 $lang['Widget.clear'] = 'Temiz';
 $lang['Widget.resize_widget'] = 'Widget\'ı Yeniden Boyutlandır';
+$lang['Widget.submit'] = 'Filtreleri Uygula';
+$lang['Widget.toggle_filters'] = 'Filtreleri Değiştir';
 

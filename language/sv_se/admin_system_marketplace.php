@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Förlängning %1$s';
-$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Marketplace är för närvarande inte tillgängligt.';
 $lang['AdminSystem.marketplace.category_all'] = 'Alla';
 $lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Marknadsplats';
 $lang['AdminSystemMarketplace.index.page_title'] = 'Inställningar > System > Marknadsplats';
+$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Marketplace är för närvarande inte tillgängligt.';
+$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Förlängning %1$s';
 

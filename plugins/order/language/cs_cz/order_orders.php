@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Vybraná doména není k dispozici pro přenosy.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s zadal objednávku #%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Objednávka č.%1$s Přijato';
+$lang['OrderOrders.getstatuses.accepted'] = 'Přijato';
 $lang['OrderOrders.getstatuses.canceled'] = 'Zrušeno';
 $lang['OrderOrders.getstatuses.fraud'] = 'Podvody';
-$lang['OrderOrders.getstatuses.accepted'] = 'Přijato';
 $lang['OrderOrders.getstatuses.pending'] = 'V přehledu';
-$lang['OrderOrders.bell.order_received.title'] = 'Objednávka č.%1$s Přijato';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s zadal objednávku #%2$s (%3$s)';
 

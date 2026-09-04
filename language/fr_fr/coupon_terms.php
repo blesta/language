@@ -10,12 +10,12 @@
  */
 
 $lang['CouponTerms.!error.coupon_id.exists'] = 'Le coupon donné n\'existe pas.';
-$lang['CouponTerms.!error.term.format'] = 'Veuillez saisir un terme valide pour chaque période.';
 $lang['CouponTerms.!error.period.valid'] = 'Veuillez saisir une période valide.';
 $lang['CouponTerms.!error.term_id.exists'] = 'Le terme de coupon donné n\'existe pas.';
+$lang['CouponTerms.!error.term.format'] = 'Veuillez saisir un terme valide pour chaque période.';
 $lang['CouponTerms.getperiods.day'] = 'Jour';
-$lang['CouponTerms.getperiods.week'] = 'Semaine';
 $lang['CouponTerms.getperiods.month'] = 'Mois';
-$lang['CouponTerms.getperiods.year'] = 'Année';
 $lang['CouponTerms.getperiods.onetime'] = 'Une seule fois';
+$lang['CouponTerms.getperiods.week'] = 'Semaine';
+$lang['CouponTerms.getperiods.year'] = 'Année';
 

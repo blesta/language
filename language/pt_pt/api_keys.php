@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ApiKeys.!error.user.unique'] = 'O utilizador da API já existe para a empresa indicada.';
-$lang['ApiKeys.!error.user.valid'] = 'O utilizador ou a chave da API parece ser inválido.';
-$lang['ApiKeys.!error.user.format'] = 'Introduza um utilizador da API com um comprimento entre 3 e 64 caracteres.';
 $lang['ApiKeys.!error.company_id.exists'] = 'A empresa indicada não existe.';
 $lang['ApiKeys.!error.key.generate'] = 'A chave não foi gerada.';
+$lang['ApiKeys.!error.user.format'] = 'Introduza um utilizador da API com um comprimento entre 3 e 64 caracteres.';
+$lang['ApiKeys.!error.user.unique'] = 'O utilizador da API já existe para a empresa indicada.';
+$lang['ApiKeys.!error.user.valid'] = 'O utilizador ou a chave da API parece ser inválido.';
 

@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'CoinPayments ile ödeme yapın';
+$lang['CoinPayments.description'] = 'Bitcoin ve Litecoin gibi kripto para birimleri için düşük ücretli bir ödeme sistemi';
 $lang['CoinPayments.ipn_secret'] = 'IPN Gizli';
 $lang['CoinPayments.merchant_id'] = 'CoinPayments Satıcı Kimliği';
-$lang['CoinPayments.description'] = 'Bitcoin ve Litecoin gibi kripto para birimleri için düşük ücretli bir ödeme sistemi';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

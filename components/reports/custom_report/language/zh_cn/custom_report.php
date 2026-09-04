@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s 无效。';
-$lang['CustomReports.options.field_report_select'] = '-- 请选择';
-$lang['CustomReports.options.field_report'] = '报告';
 $lang['CustomReport.name'] = 'Custom Report';
+$lang['CustomReports.options.field_report'] = '报告';
+$lang['CustomReports.options.field_report_select'] = '-- 请选择';
 

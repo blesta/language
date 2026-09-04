@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.provision_pending_services.success'] = '클라이언트 #%2$s의 보류 중인 서비스 #%1$s가 이제 활성화되었습니다.';
-$lang['Automation.task.provision_pending_services.error'] = '클라이언트 #%2$의 보류 중인 서비스 #%1$을(를) 활성화하지 못했습니다.';
-$lang['Automation.task.provision_pending_services.completed'] = '유료 보류 중인 서비스 작업이 완료되었습니다.';
 $lang['Automation.task.provision_pending_services.attempt'] = '유료 보류 중인 서비스를 제공하려고 시도합니다.';
+$lang['Automation.task.provision_pending_services.completed'] = '유료 보류 중인 서비스 작업이 완료되었습니다.';
+$lang['Automation.task.provision_pending_services.error'] = '클라이언트 #%2$s 의 보류 중인 서비스 #%1$s 을 활성화할 수 없습니다.';
+$lang['Automation.task.provision_pending_services.success'] = '클라이언트 #%2$s의 보류 중인 서비스 #%1$s가 이제 활성화되었습니다.';
 

@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Ongeldig formaat codevoorbeelden optie.';
+$lang['ExtensionGeneratorExtensions.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
+$lang['ExtensionGeneratorExtensions.!error.date_updated.format'] = 'Ongeldige datum bijgewerkt formaat.';
+$lang['ExtensionGeneratorExtensions.!error.form_type.valid'] = 'Ongeldig formuliertype.';
+$lang['ExtensionGeneratorExtensions.!error.id.exists'] = 'De opgegeven extensie-ID is ongeldig.';
+$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Voer een extensienaam in.';
+$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Ongeldig type extensie.';
 $lang['ExtensionGeneratorExtensions.getformtypes.advanced'] = 'Geavanceerd';
 $lang['ExtensionGeneratorExtensions.getformtypes.basic'] = 'Basis';
-$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Gateway voor niet-verkopers';
 $lang['ExtensionGeneratorExtensions.gettypes.merchant'] = 'Gateway voor verkopers';
-$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
 $lang['ExtensionGeneratorExtensions.gettypes.module'] = 'Module';
-$lang['ExtensionGeneratorExtensions.!error.id.exists'] = 'De opgegeven extensie-ID is ongeldig.';
-$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Ongeldig formaat codevoorbeelden optie.';
-$lang['ExtensionGeneratorExtensions.!error.form_type.valid'] = 'Ongeldig formuliertype.';
-$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Ongeldig type extensie.';
-$lang['ExtensionGeneratorExtensions.!error.date_updated.format'] = 'Ongeldige datum bijgewerkt formaat.';
-$lang['ExtensionGeneratorExtensions.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
-$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Voer een extensienaam in.';
+$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Gateway voor niet-verkopers';
+$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
 

@@ -11,6 +11,6 @@
 
 $lang['_PaymentTypes.cash'] = 'Efectivo';
 $lang['_PaymentTypes.check'] = 'Consulte';
-$lang['_PaymentTypes.money_order'] = 'Giro postal';
 $lang['_PaymentTypes.in_house_credit'] = 'Crédito interno';
+$lang['_PaymentTypes.money_order'] = 'Giro postal';
 

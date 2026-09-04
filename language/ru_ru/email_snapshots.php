@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'Идентификатор электронной почты не существует.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Идентификатор моментального снимка не существует.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Снимок не принадлежит указанному электронному письму.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Идентификатор моментального снимка не существует.';
 

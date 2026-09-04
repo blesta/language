@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MassMailerEmails.!error.log.valid'] = 'Параметр журнала должен быть установлен на 0 или 1.';
-$lang['MassMailerEmails.!error.html.empty'] = 'Введите содержимое письма в формате HTML.';
-$lang['MassMailerEmails.!error.subject.empty'] = 'Пожалуйста, введите тему.';
 $lang['MassMailerEmails.!error.from_address.valid'] = 'Пожалуйста, введите действительный адрес электронной почты.';
 $lang['MassMailerEmails.!error.from_name.empty'] = 'Пожалуйста, введите имя пользователя.';
+$lang['MassMailerEmails.!error.html.empty'] = 'Введите содержимое письма в формате HTML.';
 $lang['MassMailerEmails.!error.job_id.unique'] = 'Работе уже присвоен адрес электронной почты.';
 $lang['MassMailerEmails.!error.job_id.valid'] = 'Неверный идентификатор задания.';
+$lang['MassMailerEmails.!error.log.valid'] = 'Параметр журнала должен быть установлен на 0 или 1.';
+$lang['MassMailerEmails.!error.subject.empty'] = 'Пожалуйста, введите тему.';
 

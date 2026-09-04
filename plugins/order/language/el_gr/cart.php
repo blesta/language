@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Cart.!error.coupon_applied'] = 'Το κουπόνι δεν μπόρεσε να εφαρμοστεί.';
+$lang['Cart.!success.all_items_removed'] = 'Όλα τα προϊόντα έχουν αφαιρεθεί από το καλάθι σας.';
 $lang['Cart.!success.coupon_applied'] = 'Το κουπόνι εφαρμόστηκε με επιτυχία.';
 $lang['Cart.!success.item_removed'] = 'Το προϊόν αφαιρέθηκε από το καλάθι σας.';
-$lang['Cart.!success.all_items_removed'] = 'Όλα τα προϊόντα έχουν αφαιρεθεί από το καλάθι σας.';
-$lang['Cart.!error.coupon_applied'] = 'Το κουπόνι δεν μπόρεσε να εφαρμοστεί.';
 $lang['Cart.index.quantity'] = '%1$s @';
 $lang['Cart.index.totals.discount'] = 'Έκπτωση:';
 $lang['Cart.index.totals.subtotal'] = 'Υποσύνολο:';

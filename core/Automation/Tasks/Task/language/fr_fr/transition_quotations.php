@@ -11,7 +11,7 @@
 
 $lang['Automation.task.transition_quotations.attempt'] = 'Tentative de transition des cotations expirées.';
 $lang['Automation.task.transition_quotations.completed'] = 'La tâche de transition des devis est terminée.';
-$lang['Automation.task.transition_quotations.none'] = 'Aucune offre expirée n\'est disponible pour la transition.';
-$lang['Automation.task.transition_quotations.expiration_success'] = 'Le devis en attente #%1$s du client #%2$s est maintenant expiré.';
 $lang['Automation.task.transition_quotations.dead_success'] = 'Le devis expiré #%1$s du client #%2$s est maintenant mort.';
+$lang['Automation.task.transition_quotations.expiration_success'] = 'Le devis en attente #%1$s du client #%2$s est maintenant expiré.';
+$lang['Automation.task.transition_quotations.none'] = 'Aucune offre expirée n\'est disponible pour la transition.';
 

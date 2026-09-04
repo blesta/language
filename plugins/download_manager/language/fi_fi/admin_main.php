@@ -1,0 +1,132 @@
+<?php
+/**
+ * Admin Main
+ *
+ * @package blesta
+ * @subpackage blesta.language.fi_fi
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['AdminMain.!error.post_max_size'] = 'Tiedosto, jota yritit ladata, on liian suuri. Se ylittää tämän palvelimen enimmäiskokorajan, joka on %1$s. Lataa pienempi tiedosto tai pyydä palvelimen järjestelmänvalvojaa suurentamaan PHP-asetuksia ”post_max_size” ja ”upload_max_filesize”.';
+$lang['AdminMain.!performance.xsendfile'] = 'Apachen mod_http2-moduuli on käytössä, mutta mod_xsendfile-moduulia ei ole otettu käyttöön. Suosittelemme mod_xsendfile-moduulin ottamista käyttöön tai asentamista, jotta suorituskyky paranee ja lataukset nopeutuvat.';
+$lang['AdminMain.!success.category_added'] = 'Kategoria on luotu onnistuneesti.';
+$lang['AdminMain.!success.category_deleted'] = 'Kategoria on poistettu onnistuneesti.';
+$lang['AdminMain.!success.category_updated'] = 'Luokka on päivitetty onnistuneesti.';
+$lang['AdminMain.!success.file_added'] = 'Tiedosto on lisätty onnistuneesti.';
+$lang['AdminMain.!success.file_deleted'] = 'Tiedosto on poistettu onnistuneesti.';
+$lang['AdminMain.!success.file_updated'] = 'Tiedosto on päivitetty onnistuneesti.';
+$lang['AdminMain.!success.url_added'] = 'Staattinen URL-osoite on lisätty onnistuneesti.';
+$lang['AdminMain.!success.url_deleted'] = 'Staattinen URL-osoite on poistettu onnistuneesti.';
+$lang['AdminMain.!success.url_updated'] = 'Staattinen URL-osoite on päivitetty onnistuneesti.';
+$lang['AdminMain.!text.closed_parenthesis'] = ')';
+$lang['AdminMain.!text.forward_slash'] = '/';
+$lang['AdminMain.!text.open_parenthesis'] = '(';
+$lang['AdminMain.!text.root_directory'] = 'Etusivu Hakemisto';
+$lang['AdminMain.!tooltip.category_type'] = 'URL-osoite osoittaa tähän luokkaan viimeksi ladattuun tiedostoon.';
+$lang['AdminMain.!tooltip.path_to_file'] = 'Kirjoita tiedoston absoluuttinen polku tiedostojärjestelmässä.';
+$lang['AdminMain.add.boxtitle_add'] = 'Lisää lataus luokkaan [%1$s]';
+$lang['AdminMain.add.boxtitle_root'] = 'Lisää ”Lataa” kohtaan %1$s';
+$lang['AdminMain.add.field_available_to_client_groups'] = 'Saatavilla asiakasryhmille';
+$lang['AdminMain.add.field_available_to_packages'] = 'Saatavilla paketteihin';
+$lang['AdminMain.add.field_file'] = 'Tiedosto';
+$lang['AdminMain.add.field_file_name'] = 'Tiedoston polku';
+$lang['AdminMain.add.field_file_type'] = 'Tiedoston lähde';
+$lang['AdminMain.add.field_logged_in'] = 'Sinun on oltava kirjautuneena sisään';
+$lang['AdminMain.add.field_name'] = 'Nimi';
+$lang['AdminMain.add.field_path'] = 'Määritä tiedoston polku';
+$lang['AdminMain.add.field_public'] = 'Julkisesti saatavilla';
+$lang['AdminMain.add.field_upload'] = 'Lataa tiedosto';
+$lang['AdminMain.add.logged_in'] = 'Sinun on oltava kirjautuneena sisään';
+$lang['AdminMain.add.page_title'] = 'Lataushallinta &gt; Lisää lataus';
+$lang['AdminMain.add.path'] = 'Määritä tiedoston polku';
+$lang['AdminMain.add.public'] = 'Julkisesti saatavilla';
+$lang['AdminMain.add.submit_add'] = 'Lisää lataus';
+$lang['AdminMain.add.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.add.text_availableclientgroups'] = 'Saatavilla olevat asiakasryhmät';
+$lang['AdminMain.add.text_availablepackages'] = 'Saatavilla olevat paketit';
+$lang['AdminMain.add.text_clientgroups'] = 'Valitut asiakasryhmät';
+$lang['AdminMain.add.text_fileinfo'] = 'HUOMAUTUS: Tiedostojen on sijaittava jossain uploads-kansiossa.';
+$lang['AdminMain.add.text_full_path'] = 'HUOMAUTUS: Tiedostojen on sijaittava jossain uploads-kansiossa: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.add.text_packagegroups'] = 'Valitut paketit';
+$lang['AdminMain.add.upload'] = 'Lataa tiedosto';
+$lang['AdminMain.addcategory.boxtitle_addcategory'] = 'Lisää kategoria kategoriaan [%1$s]';
+$lang['AdminMain.addcategory.boxtitle_root'] = 'Lisää luokka kohtaan %1$s';
+$lang['AdminMain.addcategory.field_description'] = 'Kuvaus';
+$lang['AdminMain.addcategory.field_name'] = 'Nimi';
+$lang['AdminMain.addcategory.page_title'] = 'Lataushallinta &gt; Lisää kategoria';
+$lang['AdminMain.addcategory.submit_add'] = 'Luo kategoria';
+$lang['AdminMain.addcategory.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.addurl.boxtitle_add'] = 'Lisää staattinen URL-osoite';
+$lang['AdminMain.addurl.field_category'] = 'Luokka';
+$lang['AdminMain.addurl.field_file'] = 'Tiedosto';
+$lang['AdminMain.addurl.field_url'] = 'URL-nimi';
+$lang['AdminMain.addurl.page_title'] = 'Lataushallinta &gt; Lisää staattinen URL-osoite';
+$lang['AdminMain.addurl.submit_add'] = 'Lisää URL-osoite';
+$lang['AdminMain.addurl.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.edit.boxtitle_edit'] = 'Päivitä Lataa';
+$lang['AdminMain.edit.field_available_to_client_groups'] = 'Saatavilla asiakasryhmille';
+$lang['AdminMain.edit.field_available_to_packages'] = 'Saatavilla paketteihin';
+$lang['AdminMain.edit.field_file'] = 'Tiedosto';
+$lang['AdminMain.edit.field_file_name'] = 'Tiedoston polku';
+$lang['AdminMain.edit.field_logged_in'] = 'Sinun on oltava kirjautuneena sisään';
+$lang['AdminMain.edit.field_name'] = 'Nimi';
+$lang['AdminMain.edit.field_path'] = 'Määritä tiedoston polku';
+$lang['AdminMain.edit.field_public'] = 'Julkisesti saatavilla';
+$lang['AdminMain.edit.field_upload'] = 'Lataa tiedosto';
+$lang['AdminMain.edit.page_title'] = 'Lataushallinta &gt; Lisää lataus';
+$lang['AdminMain.edit.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.edit.submit_edit'] = 'Päivitä Lataa';
+$lang['AdminMain.edit.text_availableclientgroups'] = 'Saatavilla olevat asiakasryhmät';
+$lang['AdminMain.edit.text_availablepackages'] = 'Saatavilla olevat paketit';
+$lang['AdminMain.edit.text_clientgroups'] = 'Valitut asiakasryhmät';
+$lang['AdminMain.edit.text_full_path'] = 'HUOMAUTUS: Tiedostojen on sijaittava jossain uploads-kansiossa: <strong class="d-inline-block m-0">%1$s</strong>.';
+$lang['AdminMain.edit.text_packagegroups'] = 'Valitut paketit';
+$lang['AdminMain.editcategory.boxtitle_editcategory'] = 'Päivitä luokka [%1$s]';
+$lang['AdminMain.editcategory.field_description'] = 'Kuvaus';
+$lang['AdminMain.editcategory.field_name'] = 'Nimi';
+$lang['AdminMain.editcategory.page_title'] = 'Lataushallinta &gt; Päivitä luokka';
+$lang['AdminMain.editcategory.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.editcategory.submit_edit'] = 'Päivitä luokka';
+$lang['AdminMain.editurl.boxtitle_add'] = 'Muokkaa staattista URL-osoitetta';
+$lang['AdminMain.editurl.field_category'] = 'Luokka';
+$lang['AdminMain.editurl.field_file'] = 'Tiedosto';
+$lang['AdminMain.editurl.field_url'] = 'URL-nimi';
+$lang['AdminMain.editurl.page_title'] = 'Lataushallinta &gt; Muokkaa staattista URL-osoitetta';
+$lang['AdminMain.editurl.submit_add'] = 'Muokkaa URL-osoitetta';
+$lang['AdminMain.editurl.submit_cancel'] = 'Peruuta';
+$lang['AdminMain.files.add_category'] = 'Lisää kategoria';
+$lang['AdminMain.files.add_download'] = 'Lisää latauslinkki tähän';
+$lang['AdminMain.files.boxtitle_downloadmanager'] = 'Lataushallinta';
+$lang['AdminMain.files.delete'] = 'Poista';
+$lang['AdminMain.files.edit'] = 'Muokkaa';
+$lang['AdminMain.files.go_back'] = 'Takaisin';
+$lang['AdminMain.files.no_downloads'] = 'Tässä osiossa ei ole ladattavia tiedostoja.';
+$lang['AdminMain.files.page_title'] = 'Lataushallinta &gt; Hallitse';
+$lang['AdminMain.files.tab_files'] = 'Tiedostot';
+$lang['AdminMain.files.tab_urls'] = 'Staattiset URL-osoitteet';
+$lang['AdminMain.modal.cancel'] = 'Peruuta';
+$lang['AdminMain.modal.confirm_delete'] = 'Vahvista poisto';
+$lang['AdminMain.modal.delete'] = 'Poista';
+$lang['AdminMain.modal.delete_category'] = 'Haluatko varmasti poistaa tämän luokan? Kaikki tämän luokan alaluokat ja tiedostot siirretään yläluokkaan.';
+$lang['AdminMain.modal.delete_file'] = 'Haluatko varmasti poistaa tämän tiedoston?';
+$lang['AdminMain.modal.delete_url'] = 'Haluatko varmasti poistaa tämän staattisen URL-osoitteen?';
+$lang['AdminMain.modal.save'] = 'Tallenna';
+$lang['AdminMain.package_name'] = '%1$s (%2$s)';
+$lang['AdminMain.sidebar.files'] = 'Tiedostot';
+$lang['AdminMain.sidebar.urls'] = 'Staattiset URL-osoitteet';
+$lang['AdminMain.urls.add_url'] = 'Lisää staattinen URL-osoite';
+$lang['AdminMain.urls.boxtitle_downloadmanager'] = 'Lataushallinta';
+$lang['AdminMain.urls.delete'] = 'Poista';
+$lang['AdminMain.urls.edit'] = 'Muokkaa';
+$lang['AdminMain.urls.heading_file'] = 'Tiedosto';
+$lang['AdminMain.urls.heading_link'] = 'Linkki';
+$lang['AdminMain.urls.heading_options'] = 'Toimenpiteet';
+$lang['AdminMain.urls.heading_url'] = 'URL';
+$lang['AdminMain.urls.latest_file'] = 'Uusin tiedosto kohteesta <strong>%1$s</strong>';
+$lang['AdminMain.urls.no_urls'] = 'Tässä osiossa ei ole staattisia URL-osoitteita.';
+$lang['AdminMain.urls.page_title'] = 'Lataushallinta &gt; Hallitse';
+$lang['AdminMain.urls.tab_files'] = 'Tiedostot';
+$lang['AdminMain.urls.tab_urls'] = 'Staattiset URL-osoitteet';
+

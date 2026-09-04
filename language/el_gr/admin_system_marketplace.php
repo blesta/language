@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Επέκταση %1$s';
-$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Η Αγορά δεν είναι προς το παρόν διαθέσιμη.';
 $lang['AdminSystem.marketplace.category_all'] = 'Όλα';
 $lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Αγορά';
 $lang['AdminSystemMarketplace.index.page_title'] = 'Ρυθμίσεις > Σύστημα > Αγορά';
+$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Η Αγορά δεν είναι προς το παρόν διαθέσιμη.';
+$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Επέκταση %1$s';
 

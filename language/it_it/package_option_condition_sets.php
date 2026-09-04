@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Uno degli ID dei valori delle opzioni indicati non esiste.';
-$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'L\'ID dell\'opzione indicata non esiste';
-$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'L\'ID del gruppo di opzioni indicato non esiste';
 $lang['PackageOptionConditionSets.!error.id.exists'] = 'L\'ID della condizione dell\'opzione indicata non esiste';
+$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'L\'ID del gruppo di opzioni indicato non esiste';
+$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'L\'ID dell\'opzione indicata non esiste';
+$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Uno degli ID dei valori delle opzioni indicati non esiste.';
 

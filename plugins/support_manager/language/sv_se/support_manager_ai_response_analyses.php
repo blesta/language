@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Ogiltigt biljett-ID.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Ogiltig status. Måste vara en av: pending, used, expired, no_response_needed.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'Förtroendet måste vara ett tal.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Ogiltig status. Måste vara en av: pending, used, expired, no_response_needed.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Ogiltigt biljett-ID.';
 

@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'Betala med CoinPayments';
+$lang['CoinPayments.description'] = 'Ett kassasystem för kryptovalutor som Bitcoin och Litecoin med låga avgifter';
 $lang['CoinPayments.ipn_secret'] = 'IPN Hemlig';
 $lang['CoinPayments.merchant_id'] = 'ID för CoinPayments-handlare';
-$lang['CoinPayments.description'] = 'Ett kassasystem för kryptovalutor som Bitcoin och Litecoin med låga avgifter';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

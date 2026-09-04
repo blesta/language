@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s není platný.';
-$lang['CustomReports.options.field_report_select'] = '-- Vyberte prosím --';
-$lang['CustomReports.options.field_report'] = 'Nahlásit';
 $lang['CustomReport.name'] = 'Vlastní zpráva';
+$lang['CustomReports.options.field_report'] = 'Nahlásit';
+$lang['CustomReports.options.field_report_select'] = '-- Vyberte prosím --';
 

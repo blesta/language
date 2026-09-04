@@ -11,6 +11,6 @@
 
 $lang['_PaymentTypes.cash'] = 'Argent liquide';
 $lang['_PaymentTypes.check'] = 'Vérifier';
-$lang['_PaymentTypes.money_order'] = 'Mandat postal';
 $lang['_PaymentTypes.in_house_credit'] = 'Crédit à domicile';
+$lang['_PaymentTypes.money_order'] = 'Mandat postal';
 

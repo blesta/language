@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = 'Försöker uppdatera valutakurser.';
+$lang['Automation.task.exchange_rates.completed'] = 'Uppgiften om växelkurser har slutförts.';
 $lang['Automation.task.exchange_rates.failed'] = 'Valutakurserna kunde inte uppdateras.';
 $lang['Automation.task.exchange_rates.success'] = 'Valutakurserna uppdaterades framgångsrikt.';
-$lang['Automation.task.exchange_rates.completed'] = 'Uppgiften om växelkurser har slutförts.';
-$lang['Automation.task.exchange_rates.attempt'] = 'Försöker uppdatera valutakurser.';
 

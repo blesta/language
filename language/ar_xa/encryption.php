@@ -11,7 +11,7 @@
 
 $lang['Encryption.!error.agree.empty'] = 'يجب أن توافق على حفظ عبارة المرور هذه في مكان آمن.';
 $lang['Encryption.!error.confirm_new_passphrase.matches'] = 'عبارة المرور الجديدة غير مطابقة.';
-$lang['Encryption.!error.private_key_passphrase.empty'] = 'الرجاء إدخال عبارة مرور مفتاح خاص جديد.';
-$lang['Encryption.!error.current_passphrase.matches'] = 'عبارة مرور المفتاح الخاص الحالية غير صالحة.';
 $lang['Encryption.!error.current_passphrase.empty'] = 'الرجاء إدخال عبارة مرور المفتاح الخاص الحالية.';
+$lang['Encryption.!error.current_passphrase.matches'] = 'عبارة مرور المفتاح الخاص الحالية غير صالحة.';
+$lang['Encryption.!error.private_key_passphrase.empty'] = 'الرجاء إدخال عبارة مرور مفتاح خاص جديد.';
 

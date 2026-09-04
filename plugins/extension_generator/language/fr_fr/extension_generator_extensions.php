@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Veuillez saisir un nom d\'extension.';
+$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Format d\'option des exemples de code non valide.';
 $lang['ExtensionGeneratorExtensions.!error.company_id.exists'] = 'ID d\'entreprise non valide.';
 $lang['ExtensionGeneratorExtensions.!error.date_updated.format'] = 'Format de mise à jour de la date invalide.';
-$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Type d\'extension non valide.';
 $lang['ExtensionGeneratorExtensions.!error.form_type.valid'] = 'Type de formulaire non valide.';
-$lang['ExtensionGeneratorExtensions.!error.code_examples.format'] = 'Format d\'option des exemples de code non valide.';
 $lang['ExtensionGeneratorExtensions.!error.id.exists'] = 'L\'identifiant d\'extension donné n\'est pas valide.';
-$lang['ExtensionGeneratorExtensions.gettypes.module'] = 'Module';
-$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
-$lang['ExtensionGeneratorExtensions.gettypes.merchant'] = 'Passerelle marchande';
-$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Passerelle non marchande';
-$lang['ExtensionGeneratorExtensions.getformtypes.basic'] = 'De base';
+$lang['ExtensionGeneratorExtensions.!error.name.empty'] = 'Veuillez saisir un nom d\'extension.';
+$lang['ExtensionGeneratorExtensions.!error.type.valid'] = 'Type d\'extension non valide.';
 $lang['ExtensionGeneratorExtensions.getformtypes.advanced'] = 'Avancé';
+$lang['ExtensionGeneratorExtensions.getformtypes.basic'] = 'De base';
+$lang['ExtensionGeneratorExtensions.gettypes.merchant'] = 'Passerelle marchande';
+$lang['ExtensionGeneratorExtensions.gettypes.module'] = 'Module';
+$lang['ExtensionGeneratorExtensions.gettypes.nonmerchant'] = 'Passerelle non marchande';
+$lang['ExtensionGeneratorExtensions.gettypes.plugin'] = 'Plugin';
 

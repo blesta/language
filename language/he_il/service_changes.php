@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ServiceChanges.status.canceled'] = 'בוטל';
-$lang['ServiceChanges.status.error'] = 'שגיאה';
-$lang['ServiceChanges.status.completed'] = 'הושלם';
-$lang['ServiceChanges.status.pending'] = 'בהמתנה';
-$lang['ServiceChanges.!error.status.valid'] = 'אנא בחר סטטוס תקף.';
-$lang['ServiceChanges.!error.invoice_id.unique'] = 'מספר החשבונית כבר הוגדר עבור שינוי בשירות, ואין להגדיר אותו שוב.';
-$lang['ServiceChanges.!error.invoice_id.exists'] = 'מספר חשבונית לא חוקי.';
-$lang['ServiceChanges.!error.service_id.exists'] = 'מזהה שירות לא חוקי.';
 $lang['ServiceChanges.!error.id.exists'] = 'מזהה שינוי שירות לא חוקי.';
+$lang['ServiceChanges.!error.invoice_id.exists'] = 'מספר חשבונית לא חוקי.';
+$lang['ServiceChanges.!error.invoice_id.unique'] = 'מספר החשבונית כבר הוגדר עבור שינוי בשירות, ואין להגדיר אותו שוב.';
+$lang['ServiceChanges.!error.service_id.exists'] = 'מזהה שירות לא חוקי.';
+$lang['ServiceChanges.!error.status.valid'] = 'אנא בחר סטטוס תקף.';
 $lang['ServiceChanges.!error.void_invoice.paid'] = 'החשבונית כבר שולמה ואינה ניתנת לביטול.';
+$lang['ServiceChanges.status.canceled'] = 'בוטל';
+$lang['ServiceChanges.status.completed'] = 'הושלם';
+$lang['ServiceChanges.status.error'] = 'שגיאה';
+$lang['ServiceChanges.status.pending'] = 'בהמתנה';
 

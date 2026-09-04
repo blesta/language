@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'הלקוח אינו קיים.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'יש להזין תאריך תקף.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'יש להזין שם מסמך.';
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'הלקוח אינו קיים.';
 

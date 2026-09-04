@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = '切换过滤器';
-$lang['Widget.submit'] = '应用过滤器';
 $lang['Widget.clear'] = '清晰';
 $lang['Widget.resize_widget'] = '调整部件大小';
+$lang['Widget.submit'] = '应用过滤器';
+$lang['Widget.toggle_filters'] = '切换过滤器';
 

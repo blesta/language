@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'العميل غير موجود.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'يلزم إضافة تاريخ صحيح.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'مطلوب اسم المستند.';
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'العميل غير موجود.';
 

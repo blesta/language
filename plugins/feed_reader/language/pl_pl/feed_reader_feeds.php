@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderFeeds.!error.date.valid'] = 'Podane dane są nieprawidłowe.';
-$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Podany pracownik nie istnieje.';
-$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Podany kanał nie istnieje.';
-$lang['FeedReaderFeeds.!error.updated.valid'] = 'Należy podać prawidłową datę aktualizacji.';
 $lang['FeedReaderFeeds.!error.company_id.exists'] = 'Podana firma nie istnieje.';
+$lang['FeedReaderFeeds.!error.date.valid'] = 'Podane dane są nieprawidłowe.';
+$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Podany kanał nie istnieje.';
+$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Podany pracownik nie istnieje.';
+$lang['FeedReaderFeeds.!error.updated.valid'] = 'Należy podać prawidłową datę aktualizacji.';
 $lang['FeedReaderFeeds.!error.url.valid'] = 'Podany adres URL jest nieprawidłowy.';
 

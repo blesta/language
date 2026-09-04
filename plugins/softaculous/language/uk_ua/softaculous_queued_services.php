@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Спроби повинні бути додатнім числовим значенням.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Дана компанія не існує.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Дана послуга не ставиться в чергу на встановлення.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Даної послуги не існує.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Дана послуга не ставиться в чергу на встановлення.';
 

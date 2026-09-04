@@ -9,30 +9,30 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.index.no_results'] = 'V současné době nejsou k dispozici žádná pracovní místa pro rozesílání.';
-$lang['AdminMain.index.no_export_details'] = 'O vývozu nejsou k dispozici žádné podrobnosti.';
-$lang['AdminMain.index.email_to_recipients'] = '%1$s Příjemce (příjemci)';
-$lang['AdminMain.index.email_subject'] = 'Předmět';
+$lang['AdminMain.!error.export_found'] = 'Export nebyl v souborovém systému nalezen.';
+$lang['AdminMain.!success.options_updated'] = 'Nastavení hromadného rozesílače bylo úspěšně aktualizováno!';
+$lang['AdminMain.!tooltip.rate_limit'] = 'Omezí množství e-mailů odeslaných při každém spuštění úlohy cron. Při dalším spuštění pokračuje tam, kde skončila, a odešle další dávku e-mailů, a tak dále, dokud nejsou odeslány všechny e-maily. 0 pro žádný limit.';
+$lang['AdminMain.index.boxtitle'] = 'Pracovní nabídky pro hromadné rozesílání';
+$lang['AdminMain.index.categorylink_compose'] = 'Vytvoření nové pošty';
 $lang['AdminMain.index.email_from'] = 'Z';
+$lang['AdminMain.index.email_subject'] = 'Předmět';
 $lang['AdminMain.index.email_to'] = 'Na';
-$lang['AdminMain.index.type.export'] = 'Export';
-$lang['AdminMain.index.type.email'] = 'E-mail';
-$lang['AdminMain.index.option_export'] = 'Export';
-$lang['AdminMain.index.heading_options'] = 'Akce';
+$lang['AdminMain.index.email_to_recipients'] = '%1$s Příjemce (příjemci)';
 $lang['AdminMain.index.heading_complete'] = 'Dokončeno';
+$lang['AdminMain.index.heading_date'] = 'Datum přidání';
+$lang['AdminMain.index.heading_options'] = 'Akce';
 $lang['AdminMain.index.heading_status'] = 'Stav';
 $lang['AdminMain.index.heading_type'] = 'Typ';
-$lang['AdminMain.index.heading_date'] = 'Datum přidání';
 $lang['AdminMain.index.job_task_total'] = '%1$s / %2$s';
-$lang['AdminMain.index.categorylink_compose'] = 'Vytvoření nové pošty';
-$lang['AdminMain.index.boxtitle'] = 'Pracovní nabídky pro hromadné rozesílání';
+$lang['AdminMain.index.no_export_details'] = 'O vývozu nejsou k dispozici žádné podrobnosti.';
+$lang['AdminMain.index.no_results'] = 'V současné době nejsou k dispozici žádná pracovní místa pro rozesílání.';
+$lang['AdminMain.index.option_export'] = 'Export';
 $lang['AdminMain.index.page_title'] = 'Hromadný rozesílač';
-$lang['AdminMain.!error.export_found'] = 'Export nebyl v souborovém systému nalezen.';
-$lang['AdminMain.settings.submit_cancel'] = 'Zrušit';
-$lang['AdminMain.settings.submit_settings'] = 'Uložit nastavení';
+$lang['AdminMain.index.type.email'] = 'E-mail';
+$lang['AdminMain.index.type.export'] = 'Export';
+$lang['AdminMain.settings.boxtitle'] = 'Nastavení hromadného mailu';
 $lang['AdminMain.settings.form.rate_limit'] = 'Limit sazby';
 $lang['AdminMain.settings.heading'] = 'Nastavení';
-$lang['AdminMain.settings.boxtitle'] = 'Nastavení hromadného mailu';
-$lang['AdminMain.!tooltip.rate_limit'] = 'Omezí množství e-mailů odeslaných při každém spuštění úlohy cron. Při dalším spuštění pokračuje tam, kde skončila, a odešle další dávku e-mailů, a tak dále, dokud nejsou odeslány všechny e-maily. 0 pro žádný limit.';
-$lang['AdminMain.!success.options_updated'] = 'Nastavení hromadného rozesílače bylo úspěšně aktualizováno!';
+$lang['AdminMain.settings.submit_cancel'] = 'Zrušit';
+$lang['AdminMain.settings.submit_settings'] = 'Uložit nastavení';
 

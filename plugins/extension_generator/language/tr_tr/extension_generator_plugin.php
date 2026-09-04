@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Uzatma Jeneratörü';
 $lang['ExtensionGeneratorPlugin.description'] = 'Bu, yeni Blesta uzantıları için otomatik olarak dosya oluşturmaya yarayan bir eklentidir';
 $lang['ExtensionGeneratorPlugin.name'] = 'Extension Generator';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'Uzatma Jeneratörü';
 

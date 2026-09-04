@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.invalid'] = 'İstenen kaynak mevcut değil veya geçersiz.';
 $lang['Feed.!error.disabled'] = 'Bu veri akışı devre dışıdır, etkinleştirmek için personel alanındaki Ayarlar > Şirket > Akışlar bölümünü ziyaret edin.';
+$lang['Feed.!error.invalid'] = 'İstenen kaynak mevcut değil veya geçersiz.';
 

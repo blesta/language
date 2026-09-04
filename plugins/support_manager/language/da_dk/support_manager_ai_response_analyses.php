@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Ugyldigt billet-ID.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Ugyldig status. Skal være en af: pending, used, expired, no_response_needed.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'Tillid skal være et tal.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Ugyldig status. Skal være en af: pending, used, expired, no_response_needed.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Ugyldigt billet-ID.';
 

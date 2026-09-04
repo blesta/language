@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Неверный идентификатор билета.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Недействительный статус. Должен быть одним из: ожидает, использован, истек, нет_ответа_необходим.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'Уверенность должна быть числом.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Недействительный статус. Должен быть одним из: ожидает, использован, истек, нет_ответа_необходим.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Неверный идентификатор билета.';
 

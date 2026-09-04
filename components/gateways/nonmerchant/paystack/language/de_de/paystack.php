@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Paystack.!error.secret_key.valid'] = 'Der geheime Schlüssel muss mindestens 40 Zeichen lang sein.';
 $lang['Paystack.buildprocess.submit'] = 'Bezahlen mit Paystack';
-$lang['Paystack.tooltip.secret_key'] = 'Um den Testmodus zu nutzen, geben Sie einfach einen Testschlüssel ein.';
-$lang['Paystack.secret_key'] = 'Paystack Geheimschlüssel';
 $lang['Paystack.description'] = 'Paystack ist der schnellste und einfachste Weg, um Online-Zahlungen in Nigeria zu akzeptieren.';
 $lang['Paystack.name'] = 'Paystack Standard';
-$lang['Paystack.!error.secret_key.valid'] = 'Der geheime Schlüssel muss mindestens 40 Zeichen lang sein.';
+$lang['Paystack.secret_key'] = 'Paystack Geheimschlüssel';
+$lang['Paystack.tooltip.secret_key'] = 'Um den Testmodus zu nutzen, geben Sie einfach einen Testschlüssel ein.';
 

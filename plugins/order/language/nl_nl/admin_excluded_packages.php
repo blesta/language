@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminExcludedPackages.index.text_no_packages'] = 'Er zijn geen actieve pakketten beschikbaar.';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Instellingen bijwerken';
-$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Verborgen pakketten';
-$lang['AdminExcludedPackages.index.heading_available_packages'] = 'Beschikbare pakketten';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Verborgen pakketten';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Beschikbare pakketten';
-$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Uitgesloten pakketten';
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'De uitgesloten pakketten zijn succesvol bijgewerkt.';
+$lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Uitgesloten pakketten';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Instellingen bijwerken';
+$lang['AdminExcludedPackages.index.heading_available_packages'] = 'Beschikbare pakketten';
+$lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Verborgen pakketten';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Beschikbare pakketten';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Verborgen pakketten';
+$lang['AdminExcludedPackages.index.text_no_packages'] = 'Er zijn geen actieve pakketten beschikbaar.';
 

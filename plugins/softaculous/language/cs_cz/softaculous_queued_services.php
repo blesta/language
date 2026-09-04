@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Pokusy musí mít kladnou číselnou hodnotu.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Daná společnost neexistuje.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Daná služba není ve frontě na instalaci.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Daná služba neexistuje.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Daná služba není ve frontě na instalaci.';
 

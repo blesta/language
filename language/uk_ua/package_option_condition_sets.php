@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Один з наведених ідентифікаторів значення опції не існує';
-$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'Вказаний ідентифікатор опції не існує';
-$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'Вказаний ідентифікатор групи опцій не існує';
 $lang['PackageOptionConditionSets.!error.id.exists'] = 'Вказаний ідентифікатор умови опції не існує';
+$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'Вказаний ідентифікатор групи опцій не існує';
+$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'Вказаний ідентифікатор опції не існує';
+$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'Один з наведених ідентифікаторів значення опції не існує';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = 'Το %1$s δεν είναι έγκυρο.';
-$lang['CustomReports.options.field_report_select'] = '-- Παρακαλώ επιλέξτε --';
-$lang['CustomReports.options.field_report'] = 'Αναφορά';
 $lang['CustomReport.name'] = 'Προσαρμοσμένη αναφορά';
+$lang['CustomReports.options.field_report'] = 'Αναφορά';
+$lang['CustomReports.options.field_report_select'] = '-- Παρακαλώ επιλέξτε --';
 

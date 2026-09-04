@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderSettings.getantifraud.maxmind_v2'] = 'ماكس مايند v2';
-$lang['OrderSettings.getantifraud.maxmind'] = 'ماكس ماكس مايند ليجاسي';
-$lang['OrderSettings.getantifraud.fraudlabspro'] = 'FraudLabs Pro';
 $lang['OrderSettings.!error.embed_code.parse'] = 'خطأ في تحليل رمز التضمين: %1$s';
+$lang['OrderSettings.getantifraud.fraudlabspro'] = 'FraudLabs Pro';
+$lang['OrderSettings.getantifraud.maxmind'] = 'ماكس ماكس مايند ليجاسي';
+$lang['OrderSettings.getantifraud.maxmind_v2'] = 'ماكس مايند v2';
 

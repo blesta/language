@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = 'Přepínání filtrů';
-$lang['Widget.submit'] = 'Použít filtry';
 $lang['Widget.clear'] = 'Přehledně';
 $lang['Widget.resize_widget'] = 'Změna velikosti widgetu';
+$lang['Widget.submit'] = 'Použít filtry';
+$lang['Widget.toggle_filters'] = 'Přepínání filtrů';
 

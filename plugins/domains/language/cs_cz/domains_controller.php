@@ -9,17 +9,17 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsController.example'] = 'Příklad jazyka';
-$lang['DomainsController.getDomainActions.unparent'] = 'Odstranění rodiče a resetování ceny';
-$lang['DomainsController.getDomainActions.push_to_client'] = 'Push to Client';
-$lang['DomainsController.getDomainActions.update_nameservers'] = 'Aktualizace jmenných serverů';
-$lang['DomainsController.getDomainActions.domain_renewal'] = 'Obnovení domény';
-$lang['DomainsController.getDomainActions.change_registrar'] = 'Změna registrátora';
-$lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Změna automatického obnovení';
 $lang['DomainsController.!error.move_error'] = 'Vybrané domény nebylo možné přesunout na vybraného klienta.';
-$lang['DomainsController.getDomainActions.change_registration_date'] = 'Změna data registrace';
+$lang['DomainsController.example'] = 'Příklad jazyka';
+$lang['DomainsController.getDomainActions.change_auto_renewal'] = 'Změna automatického obnovení';
 $lang['DomainsController.getDomainActions.change_expiration_date'] = 'Změnit datum vypršení platnosti';
+$lang['DomainsController.getDomainActions.change_registrar'] = 'Změna registrátora';
+$lang['DomainsController.getDomainActions.change_registration_date'] = 'Změna data registrace';
+$lang['DomainsController.getDomainActions.domain_renewal'] = 'Obnovení domény';
+$lang['DomainsController.getDomainActions.push_to_client'] = 'Push to Client';
+$lang['DomainsController.getDomainActions.queue_sync'] = 'Synchronizace fronty';
 $lang['DomainsController.getDomainActions.remove_price_override'] = 'Odstranění přepisu ceny';
 $lang['DomainsController.getDomainActions.set_price_override'] = 'Nastavení přepisu ceny';
-$lang['DomainsController.getDomainActions.queue_sync'] = 'Synchronizace fronty';
+$lang['DomainsController.getDomainActions.unparent'] = 'Odstranění rodiče a resetování ceny';
+$lang['DomainsController.getDomainActions.update_nameservers'] = 'Aktualizace jmenných serverů';
 

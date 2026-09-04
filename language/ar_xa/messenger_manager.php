@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'الإصدار غير صالح.';
-$lang['MessengerManager.!error.name.valid'] = 'الاسم غير صالح.';
-$lang['MessengerManager.!error.dir.valid'] = 'الدليل غير صالح.';
 $lang['MessengerManager.!error.company_id.valid'] = 'معرّف الشركة غير صالح.';
+$lang['MessengerManager.!error.dir.valid'] = 'الدليل غير صالح.';
 $lang['MessengerManager.!error.messenger.missing'] = 'لم يتم تكوين أي رسول للنوع المحدد.';
+$lang['MessengerManager.!error.name.valid'] = 'الاسم غير صالح.';
+$lang['MessengerManager.!error.version.valid'] = 'الإصدار غير صالح.';
 

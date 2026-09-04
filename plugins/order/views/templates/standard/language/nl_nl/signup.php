@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Signup.index.heading_settings'] = 'Extra instellingen';
+$lang['Signup.index.header_login'] = 'Aanmelden';
+$lang['Signup.index.header_login_or_signup'] = 'Registreren of aanmelden';
 $lang['Signup.index.heading_authentication'] = 'Authenticatie';
 $lang['Signup.index.heading_billing'] = 'Factureringsgegevens';
 $lang['Signup.index.heading_contact'] = 'Contactgegevens';
-$lang['Signup.index.header_login'] = 'Aanmelden';
+$lang['Signup.index.heading_settings'] = 'Extra instellingen';
 $lang['Signup.index.link_resetpassword'] = 'Mijn wachtwoord opnieuw instellen';
-$lang['Signup.index.header_login_or_signup'] = 'Registreren of aanmelden';
 

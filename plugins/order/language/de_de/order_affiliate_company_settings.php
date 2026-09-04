@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Festgelegt';
+$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Prozentsatz';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.any'] = 'Jede';
 $lang['OrderAffiliateCompanySettings.getorderfrequencies.first'] = 'Erste';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.percentage'] = 'Prozentsatz';
-$lang['OrderAffiliateCompanySettings.getcommissiontypes.fixed'] = 'Festgelegt';
-$lang['OrderAffiliateCompanySettings.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 

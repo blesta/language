@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['GenericDomains.manage.text'] = 'Mitarbeiter können BCC-Kopien von E-Mails zur Einrichtung, Aussetzung und Kündigung von Diensten erhalten, wenn ihre Personalgruppe diese BCC-Benachrichtigungen eingestellt hat und der Mitarbeiter sie unter [Meine Info] -> [Benachrichtigungen] abonniert hat.';
-$lang['GenericDomains.package_fields.tld_options'] = 'TLDs';
-$lang['GenericDomains.transfer.transfer_key'] = 'EPP-Code';
-$lang['GenericDomains.transfer.domain'] = 'Bereich';
-$lang['GenericDomains.domain.domain'] = 'Bereich';
-$lang['GenericDomains.module_row_plural'] = 'Modul-Zeilen';
-$lang['GenericDomains.module_row'] = 'Modulreihe';
+$lang['Generic_domains.back_to_manage'] = 'Zurück';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Alle Empfänger-E-Mails, getrennt durch ein Komma.';
 $lang['GenericDomains.description'] = 'Ein allgemeines Modul für die Domainregistrierung.';
-$lang['GenericDomains.name'] = 'Generische Domains';
-$lang['GenericDomains.manage.save_btn'] = 'Speichern Sie';
-$lang['GenericDomains.manage.email_text'] = 'Text';
+$lang['GenericDomains.domain.domain'] = 'Bereich';
 $lang['GenericDomains.manage.email_html'] = 'HTML';
-$lang['GenericDomains.manage.renewal_email'] = 'Verlängerungs-E-Mail';
-$lang['GenericDomains.manage.registration_email'] = 'Anmeldung E-Mail';
-$lang['GenericDomains.manage.to_emails'] = 'An E-Mails';
+$lang['GenericDomains.manage.email_text'] = 'Text';
 $lang['GenericDomains.manage.from_email'] = 'Von E-Mail';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Einstellungen für Benachrichtigungen';
-$lang['GenericDomains.!tooltip.to_emails'] = 'Alle Empfänger-E-Mails, getrennt durch ein Komma.';
-$lang['Generic_domains.back_to_manage'] = 'Zurück';
+$lang['GenericDomains.manage.registration_email'] = 'Anmeldung E-Mail';
+$lang['GenericDomains.manage.renewal_email'] = 'Verlängerungs-E-Mail';
+$lang['GenericDomains.manage.save_btn'] = 'Speichern Sie';
+$lang['GenericDomains.manage.text'] = 'Mitarbeiter können BCC-Kopien von E-Mails zur Einrichtung, Aussetzung und Kündigung von Diensten erhalten, wenn ihre Personalgruppe diese BCC-Benachrichtigungen eingestellt hat und der Mitarbeiter sie unter [Meine Info] -> [Benachrichtigungen] abonniert hat.';
 $lang['GenericDomains.manage.text_available_tags'] = 'Verfügbare Tags';
+$lang['GenericDomains.manage.to_emails'] = 'An E-Mails';
+$lang['GenericDomains.module_row'] = 'Modulreihe';
+$lang['GenericDomains.module_row_plural'] = 'Modul-Zeilen';
+$lang['GenericDomains.name'] = 'Generische Domains';
+$lang['GenericDomains.package_fields.tld_options'] = 'TLDs';
+$lang['GenericDomains.transfer.domain'] = 'Bereich';
+$lang['GenericDomains.transfer.transfer_key'] = 'EPP-Code';
 

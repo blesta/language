@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDataPortability.!tooltip.client_id'] = 'Dit is de interne klant-ID die wordt weergegeven in de URL wanneer je een klantprofiel bekijkt.';
 $lang['ClientDataPortability.!error.client_id'] = 'Client-ID is ongeldig.';
-$lang['ClientDataPortability.options.field_client_id'] = 'Klant-ID';
+$lang['ClientDataPortability.!tooltip.client_id'] = 'Dit is de interne klant-ID die wordt weergegeven in de URL wanneer je een klantprofiel bekijkt.';
 $lang['ClientDataPortability.name'] = 'Portabiliteit van klantgegevens';
+$lang['ClientDataPortability.options.field_client_id'] = 'Klant-ID';
 

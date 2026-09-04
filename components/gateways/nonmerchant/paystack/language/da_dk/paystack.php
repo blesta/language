@@ -10,9 +10,9 @@
  */
 
 $lang['Paystack.!error.secret_key.valid'] = 'Den hemmelige nøgle skal være mindst 40 tegn lang.';
+$lang['Paystack.buildprocess.submit'] = 'Betal med Paystack';
 $lang['Paystack.description'] = 'Paystack er den hurtigste og enkleste måde at begynde at modtage onlinebetalinger på i Nigeria.';
+$lang['Paystack.name'] = 'Paystack Standard';
 $lang['Paystack.secret_key'] = 'Paystacks hemmelige nøgle';
 $lang['Paystack.tooltip.secret_key'] = 'For at bruge testtilstand skal du blot indtaste en testnøgle.';
-$lang['Paystack.buildprocess.submit'] = 'Betal med Paystack';
-$lang['Paystack.name'] = 'Paystack Standard';
 

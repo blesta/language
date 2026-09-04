@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.card_expiration_reminders.success'] = 'Pomyślnie dostarczono przypomnienie o wygaśnięciu dla kontaktu %1$s %2$s od klienta #%3$s.';
-$lang['Automation.task.card_expiration_reminders.failed'] = 'Przypomnienie o wygaśnięciu dla kontaktu %1$s %2$s od klienta #%3$s nie mogło zostać wysłane.';
-$lang['Automation.task.card_expiration_reminders.completed'] = 'Zadanie przypomnienia o wygaśnięciu karty zostało zakończone.';
 $lang['Automation.task.card_expiration_reminders.attempt'] = 'Próba wysłania przypomnienia o wygaśnięciu ważności karty.';
+$lang['Automation.task.card_expiration_reminders.completed'] = 'Zadanie przypomnienia o wygaśnięciu karty zostało zakończone.';
+$lang['Automation.task.card_expiration_reminders.failed'] = 'Przypomnienie o wygaśnięciu dla kontaktu %1$s %2$s od klienta #%3$s nie mogło zostać wysłane.';
+$lang['Automation.task.card_expiration_reminders.success'] = 'Pomyślnie dostarczono przypomnienie o wygaśnięciu dla kontaktu %1$s %2$s od klienta #%3$s.';
 

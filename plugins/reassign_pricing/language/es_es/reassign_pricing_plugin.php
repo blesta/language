@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ReassignPricingPlugin.name'] = 'Reasignar precios';
-$lang['ReassignPricingPlugin.description'] = 'Permite actualizar los precios de los servicios con los de otros paquetes que utilicen el mismo módulo.';
 $lang['ReassignPricingPlugin.action_staff_client.index'] = 'Reasignar precios';
+$lang['ReassignPricingPlugin.description'] = 'Permite actualizar los precios de los servicios con los de otros paquetes que utilicen el mismo módulo.';
+$lang['ReassignPricingPlugin.name'] = 'Reasignar precios';
 

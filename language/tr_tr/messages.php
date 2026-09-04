@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Messages.getStatusTypes.inactive'] = 'Aktif değil';
-$lang['Messages.getStatusTypes.active'] = 'Aktif';
-$lang['Messages.getTypes.sms'] = 'SMS';
+$lang['Messages.!error.company_id.valid'] = 'Geçersiz şirket kimliği.';
 $lang['Messages.!error.content.format'] = 'Mesaj içeriği bir dizi olmalıdır.';
+$lang['Messages.!error.message_group_id.valid'] = 'Geçersiz mesaj grubu kimliği.';
 $lang['Messages.!error.status.valid'] = 'Mesaj durumu "aktif" veya "inaktif" olarak ayarlanmalıdır.';
 $lang['Messages.!error.type.valid'] = 'Mesaj türü "sms" olarak ayarlanmalıdır.';
-$lang['Messages.!error.company_id.valid'] = 'Geçersiz şirket kimliği.';
-$lang['Messages.!error.message_group_id.valid'] = 'Geçersiz mesaj grubu kimliği.';
+$lang['Messages.getStatusTypes.active'] = 'Aktif';
+$lang['Messages.getStatusTypes.inactive'] = 'Aktif değil';
+$lang['Messages.getTypes.sms'] = 'SMS';
 

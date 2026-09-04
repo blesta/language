@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ApiKeys.!error.user.unique'] = 'API kullanıcısı verilen şirket için zaten mevcut.';
-$lang['ApiKeys.!error.user.valid'] = 'API kullanıcısı veya anahtarı geçersiz görünüyor.';
-$lang['ApiKeys.!error.user.format'] = 'Lütfen 3 ila 64 karakter uzunluğunda bir API kullanıcısı girin.';
 $lang['ApiKeys.!error.company_id.exists'] = 'Belirtilen şirket mevcut değildir.';
 $lang['ApiKeys.!error.key.generate'] = 'Anahtar oluşturulamadı.';
+$lang['ApiKeys.!error.user.format'] = 'Lütfen 3 ila 64 karakter uzunluğunda bir API kullanıcısı girin.';
+$lang['ApiKeys.!error.user.unique'] = 'API kullanıcısı verilen şirket için zaten mevcut.';
+$lang['ApiKeys.!error.user.valid'] = 'API kullanıcısı veya anahtarı geçersiz görünüyor.';
 

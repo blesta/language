@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Extensão %1$s';
-$lang['AdminSystemMarketplace.index.text_unavailable'] = 'O Marketplace está atualmente indisponível.';
 $lang['AdminSystem.marketplace.category_all'] = 'Todos';
 $lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Mercado';
 $lang['AdminSystemMarketplace.index.page_title'] = 'Definições &gt; Sistema &gt; Mercado';
+$lang['AdminSystemMarketplace.index.text_unavailable'] = 'O Marketplace está atualmente indisponível.';
+$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Extensão %1$s';
 

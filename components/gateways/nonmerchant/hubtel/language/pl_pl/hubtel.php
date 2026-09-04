@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Hubtel.!error.client_secret.valid'] = 'Należy wprowadzić prawidłowy Client Secret.';
 $lang['Hubtel.!error.client_id.valid'] = 'Należy wprowadzić prawidłowy identyfikator klienta.';
+$lang['Hubtel.!error.client_secret.valid'] = 'Należy wprowadzić prawidłowy Client Secret.';
 $lang['Hubtel.buildprocess.submit'] = 'Płać za pomocą Hubtel';
-$lang['Hubtel.client_secret'] = 'Tajemnica klienta';
 $lang['Hubtel.client_id'] = 'Identyfikator klienta';
+$lang['Hubtel.client_secret'] = 'Tajemnica klienta';
 $lang['Hubtel.description'] = 'Hubtel jest wiodącą w Ghanie mobilną platformą agregacji wartości dodanej i płatności';
 $lang['Hubtel.name'] = 'Hubtel';
 

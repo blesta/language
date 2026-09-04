@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderFeeds.!error.date.valid'] = 'Указанные данные недействительны.';
-$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Указанный сотрудник не существует.';
-$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Указанный корм не существует.';
-$lang['FeedReaderFeeds.!error.updated.valid'] = 'Вы должны указать действительную дату обновления.';
 $lang['FeedReaderFeeds.!error.company_id.exists'] = 'Указанная компания не существует.';
+$lang['FeedReaderFeeds.!error.date.valid'] = 'Указанные данные недействительны.';
+$lang['FeedReaderFeeds.!error.feed_id.exists'] = 'Указанный корм не существует.';
+$lang['FeedReaderFeeds.!error.staff_id.exists'] = 'Указанный сотрудник не существует.';
+$lang['FeedReaderFeeds.!error.updated.valid'] = 'Вы должны указать действительную дату обновления.';
 $lang['FeedReaderFeeds.!error.url.valid'] = 'Указанный URL недействителен.';
 

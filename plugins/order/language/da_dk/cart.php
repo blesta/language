@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Cart.!error.coupon_applied'] = 'Kuponen kunne ikke anvendes.';
+$lang['Cart.!success.all_items_removed'] = 'Alle varer er blevet fjernet fra din indkøbskurv.';
 $lang['Cart.!success.coupon_applied'] = 'Kuponen blev anvendt med succes.';
 $lang['Cart.!success.item_removed'] = 'Varen blev fjernet fra din indkøbskurv.';
-$lang['Cart.!success.all_items_removed'] = 'Alle varer er blevet fjernet fra din indkøbskurv.';
-$lang['Cart.!error.coupon_applied'] = 'Kuponen kunne ikke anvendes.';
 $lang['Cart.index.quantity'] = '%1$s @';
 $lang['Cart.index.totals.discount'] = 'Rabat:';
 $lang['Cart.index.totals.subtotal'] = 'Subtotal:';

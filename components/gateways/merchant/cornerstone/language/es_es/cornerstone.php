@@ -10,7 +10,7 @@
  */
 
 $lang['Cornerstone.!error.security_key.empty'] = 'Introduzca su clave de seguridad.';
-$lang['Cornerstone.name'] = 'Piedra angular';
 $lang['Cornerstone.description'] = 'Cornerstone es una de las principales organizaciones de ventas independientes de propiedad y gestión cristianas en el sector del procesamiento comercial en EE.UU.';
+$lang['Cornerstone.name'] = 'Piedra angular';
 $lang['Cornerstone.security_key'] = 'Clave de seguridad';
 

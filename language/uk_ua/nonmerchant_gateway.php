@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'Виникла помилка при обробці запиту шлюзом.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'Шлюз не підтримує цю дію.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Транзакція є недійсною або більше не доступна для обробки цієї дії.';
 $lang['NonmerchantGateway.!error.invalid'] = 'Отримано відповідь про недійсний або невизнаний платіж.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Транзакція є недійсною або більше не доступна для обробки цієї дії.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Шлюз не підтримує цю дію.';
 

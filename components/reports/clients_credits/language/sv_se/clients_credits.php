@@ -11,14 +11,14 @@
 
 $lang['ClientsCredits.!error.currency'] = 'Valutan är inte giltig.';
 $lang['ClientsCredits.!error.status'] = 'Klientstatus är inte giltig.';
-$lang['ClientsCredits.heading.currency'] = 'Valuta';
-$lang['ClientsCredits.heading.credits'] = 'Krediter';
-$lang['ClientsCredits.heading.email'] = 'E-post';
 $lang['ClientsCredits.heading.company'] = 'Företag';
-$lang['ClientsCredits.heading.last_name'] = 'Efternamn';
+$lang['ClientsCredits.heading.credits'] = 'Krediter';
+$lang['ClientsCredits.heading.currency'] = 'Valuta';
+$lang['ClientsCredits.heading.email'] = 'E-post';
 $lang['ClientsCredits.heading.first_name'] = 'Förnamn';
 $lang['ClientsCredits.heading.id_code'] = 'Klient-ID';
+$lang['ClientsCredits.heading.last_name'] = 'Efternamn';
+$lang['ClientsCredits.name'] = 'Clients with Credits';
 $lang['ClientsCredits.options.field_currency'] = 'Valuta';
 $lang['ClientsCredits.options.field_status'] = 'Klientens status';
-$lang['ClientsCredits.name'] = 'Clients with Credits';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Dokument';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokument';
 $lang['ClientDocumentsPlugin.description'] = 'Ladda upp filer för nedladdning av specifika kunder.';
 $lang['ClientDocumentsPlugin.name'] = 'Kunddokument';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Dokument';
 

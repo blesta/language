@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'Wystąpił błąd podczas przetwarzania żądania przez bramę.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'Bramka nie obsługuje tego działania.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Transakcja jest nieważna lub nie jest już dostępna do przetwarzania tej akcji.';
 $lang['NonmerchantGateway.!error.invalid'] = 'Otrzymano nieprawidłową lub nierozpoznaną odpowiedź dotyczącą płatności.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Transakcja jest nieważna lub nie jest już dostępna do przetwarzania tej akcji.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Bramka nie obsługuje tego działania.';
 

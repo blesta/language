@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s är inte giltigt.';
-$lang['CustomReports.options.field_report_select'] = '-- Vänligen välj --';
-$lang['CustomReports.options.field_report'] = 'Rapport';
 $lang['CustomReport.name'] = 'Anpassad rapport';
+$lang['CustomReports.options.field_report'] = 'Rapport';
+$lang['CustomReports.options.field_report_select'] = '-- Vänligen välj --';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Feed.!error.invalid'] = 'O recurso solicitado não existe ou é inválido.';
 $lang['Feed.!error.disabled'] = 'Este feed de dados está desativado. Para o ativar, visite Definições &gt; Empresa &gt; Feeds na área de pessoal.';
+$lang['Feed.!error.invalid'] = 'O recurso solicitado não existe ou é inválido.';
 

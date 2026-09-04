@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Paystack.!error.secret_key.valid'] = 'يجب ألا يقل طول المفتاح السري عن 40 حرفاً.';
 $lang['Paystack.buildprocess.submit'] = 'الدفع باستخدام Paystack';
-$lang['Paystack.tooltip.secret_key'] = 'لاستخدام وضع الاختبار، ما عليك سوى إدخال مفتاح اختبار.';
-$lang['Paystack.secret_key'] = 'مفتاح Paystack السري';
 $lang['Paystack.description'] = 'Paystack هي أسرع وأبسط طريقة لبدء قبول المدفوعات عبر الإنترنت في نيجيريا.';
 $lang['Paystack.name'] = 'Paystack Standard';
-$lang['Paystack.!error.secret_key.valid'] = 'يجب ألا يقل طول المفتاح السري عن 40 حرفاً.';
+$lang['Paystack.secret_key'] = 'مفتاح Paystack السري';
+$lang['Paystack.tooltip.secret_key'] = 'لاستخدام وضع الاختبار، ما عليك سوى إدخال مفتاح اختبار.';
 

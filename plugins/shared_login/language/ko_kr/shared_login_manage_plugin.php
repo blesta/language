@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = '저장';
-$lang['SharedLoginManagePlugin.index.field_key'] = '공유 키';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = '공유 로그인';
+$lang['SharedLoginManagePlugin.index.field_key'] = '공유 키';
 $lang['SharedLoginManagePlugin.index.page_title'] = '공유 로그인';
+$lang['SharedLoginManagePlugin.index.submit'] = '저장';
 

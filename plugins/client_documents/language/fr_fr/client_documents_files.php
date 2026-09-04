@@ -10,6 +10,6 @@
  */
 
 $lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Le client n\'existe pas.';
-$lang['ClientDocumentsFiles.!error.name.valid'] = 'Un nom de document est requis.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Une date valide ajoutée est requise.';
+$lang['ClientDocumentsFiles.!error.name.valid'] = 'Un nom de document est requis.';
 

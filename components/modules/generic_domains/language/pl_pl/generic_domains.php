@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['GenericDomains.manage.text'] = 'Pracownicy mogą otrzymywać kopie BCC wiadomości e-mail o utworzeniu, zawieszeniu i anulowaniu usługi, jeśli ich grupa pracowników ma ustawione powiadomienia BCC, a pracownik subskrybuje je w sekcji [Moje informacje] -> [Powiadomienia].';
-$lang['GenericDomains.package_fields.tld_options'] = 'TLD';
-$lang['GenericDomains.transfer.transfer_key'] = 'Kod PPE';
-$lang['GenericDomains.transfer.domain'] = 'Domena';
-$lang['GenericDomains.domain.domain'] = 'Domena';
-$lang['GenericDomains.module_row_plural'] = 'Wiersze modułu';
-$lang['GenericDomains.module_row'] = 'Wiersz modułu';
+$lang['Generic_domains.back_to_manage'] = 'Powrót';
+$lang['GenericDomains.!tooltip.to_emails'] = 'Wszystkie e-maile odbiorców, oddzielone przecinkami.';
 $lang['GenericDomains.description'] = 'Ogólny moduł do rejestracji domen.';
-$lang['GenericDomains.name'] = 'Domeny ogólne';
-$lang['GenericDomains.manage.save_btn'] = 'Zapisz';
-$lang['GenericDomains.manage.email_text'] = 'Tekst';
+$lang['GenericDomains.domain.domain'] = 'Domena';
 $lang['GenericDomains.manage.email_html'] = 'HTML';
-$lang['GenericDomains.manage.renewal_email'] = 'E-mail odnowienia';
-$lang['GenericDomains.manage.registration_email'] = 'E-mail rejestracyjny';
-$lang['GenericDomains.manage.to_emails'] = 'Do wiadomości e-mail';
+$lang['GenericDomains.manage.email_text'] = 'Tekst';
 $lang['GenericDomains.manage.from_email'] = 'Z adresu e-mail';
 $lang['GenericDomains.manage.notification_settings_title'] = 'Ustawienia powiadomień';
-$lang['GenericDomains.!tooltip.to_emails'] = 'Wszystkie e-maile odbiorców, oddzielone przecinkami.';
-$lang['Generic_domains.back_to_manage'] = 'Powrót';
+$lang['GenericDomains.manage.registration_email'] = 'E-mail rejestracyjny';
+$lang['GenericDomains.manage.renewal_email'] = 'E-mail odnowienia';
+$lang['GenericDomains.manage.save_btn'] = 'Zapisz';
+$lang['GenericDomains.manage.text'] = 'Pracownicy mogą otrzymywać kopie BCC wiadomości e-mail o utworzeniu, zawieszeniu i anulowaniu usługi, jeśli ich grupa pracowników ma ustawione powiadomienia BCC, a pracownik subskrybuje je w sekcji [Moje informacje] -> [Powiadomienia].';
 $lang['GenericDomains.manage.text_available_tags'] = 'Dostępne tagi';
+$lang['GenericDomains.manage.to_emails'] = 'Do wiadomości e-mail';
+$lang['GenericDomains.module_row'] = 'Wiersz modułu';
+$lang['GenericDomains.module_row_plural'] = 'Wiersze modułu';
+$lang['GenericDomains.name'] = 'Domeny ogólne';
+$lang['GenericDomains.package_fields.tld_options'] = 'TLD';
+$lang['GenericDomains.transfer.domain'] = 'Domena';
+$lang['GenericDomains.transfer.transfer_key'] = 'Kod PPE';
 

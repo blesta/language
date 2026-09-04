@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessageGroups.getTypes.shared'] = 'Partilhado';
-$lang['MessageGroups.getTypes.client'] = 'Cliente';
-$lang['MessageGroups.getTypes.staff'] = 'Pessoal';
-$lang['MessageGroups.!error.tags.empty'] = 'Introduzir as etiquetas.';
-$lang['MessageGroups.!error.plugin_dir.empty'] = 'Introduza o diretório do plugin.';
-$lang['MessageGroups.!error.type.valid'] = 'O tipo de grupo de mensagens deve ser definido como "cliente", "pessoal" ou "partilhado".';
 $lang['MessageGroups.!error.action.empty'] = 'Introduzir uma ação.';
+$lang['MessageGroups.!error.plugin_dir.empty'] = 'Introduza o diretório do plugin.';
+$lang['MessageGroups.!error.tags.empty'] = 'Introduzir as etiquetas.';
+$lang['MessageGroups.!error.type.valid'] = 'O tipo de grupo de mensagens deve ser definido como "cliente", "pessoal" ou "partilhado".';
+$lang['MessageGroups.getTypes.client'] = 'Cliente';
+$lang['MessageGroups.getTypes.shared'] = 'Partilhado';
+$lang['MessageGroups.getTypes.staff'] = 'Pessoal';
 

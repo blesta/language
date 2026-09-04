@@ -10,6 +10,6 @@
  */
 
 $lang['Module.!error.general'] = 'אירעה שגיאה בעת עיבוד הבקשה באמצעות המודול.';
-$lang['Module.!error.unsupported'] = 'המודול אינו תומך בפעולה זו.';
 $lang['Module.!error.invalid'] = 'התקבלה תגובת API לא חוקית או לא מזוהה.';
+$lang['Module.!error.unsupported'] = 'המודול אינו תומך בפעולה זו.';
 

@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.no_downloads'] = 'Não há downloads disponíveis nesta secção.';
-$lang['ClientMain.index.login'] = 'É necessário iniciar sessão para ver os downloads nesta secção.';
-$lang['ClientMain.index.boxtitle_downloads'] = 'Transferências';
-$lang['ClientMain.index.page_title'] = 'Transferências';
 $lang['ClientMain.!text.root_directory'] = 'Início';
+$lang['ClientMain.index.boxtitle_downloads'] = 'Transferências';
+$lang['ClientMain.index.login'] = 'É necessário iniciar sessão para ver os downloads nesta secção.';
+$lang['ClientMain.index.no_downloads'] = 'Não há downloads disponíveis nesta secção.';
+$lang['ClientMain.index.page_title'] = 'Transferências';
 

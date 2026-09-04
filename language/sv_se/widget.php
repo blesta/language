@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = 'Växla filter';
-$lang['Widget.submit'] = 'Tillämpa filter';
 $lang['Widget.clear'] = 'Klar';
 $lang['Widget.resize_widget'] = 'Ändra storlek på widget';
+$lang['Widget.submit'] = 'Tillämpa filter';
+$lang['Widget.toggle_filters'] = 'Växla filter';
 

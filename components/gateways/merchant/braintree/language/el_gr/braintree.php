@@ -10,17 +10,17 @@
  */
 
 $lang['Braintree.!error.environment'] = 'Παρακαλούμε επιλέξτε ένα έγκυρο περιβάλλον.';
+$lang['Braintree.!error.live_mode.valid'] = 'Η λειτουργία "Live" πρέπει να είναι "true", αν δίνεται.';
+$lang['Braintree.!error.merchant_id'] = 'Παρακαλούμε εισάγετε το αναγνωριστικό του εμπόρου σας.';
 $lang['Braintree.!error.private_key'] = 'Εισάγετε το ιδιωτικό σας κλειδί.';
 $lang['Braintree.!error.public_key'] = 'Εισάγετε το δημόσιο κλειδί σας.';
-$lang['Braintree.!error.merchant_id'] = 'Παρακαλούμε εισάγετε το αναγνωριστικό του εμπόρου σας.';
-$lang['Braintree.!error.live_mode.valid'] = 'Η λειτουργία "Live" πρέπει να είναι "true", αν δίνεται.';
+$lang['Braintree.description'] = 'Απαιτεί PHP &gt;= 7.3. Οι έμποροι σε περισσότερες από 45 χώρες/περιοχές παγκοσμίως μπορούν να δέχονται, να διαχωρίζουν και να ενεργοποιούν πληρωμές σε περισσότερα από 130 νομίσματα χρησιμοποιώντας το Braintree.';
+$lang['Braintree.environment'] = 'Περιβάλλον';
 $lang['Braintree.environment.production'] = 'Παραγωγή';
 $lang['Braintree.environment.sandbox'] = 'Sandbox';
-$lang['Braintree.environment'] = 'Περιβάλλον';
 $lang['Braintree.live_mode'] = 'Λειτουργία Live';
+$lang['Braintree.merchant_id'] = 'Αναγνωριστικό εμπόρου';
+$lang['Braintree.name'] = 'Braintree';
 $lang['Braintree.private_key'] = 'Ιδιωτικό κλειδί';
 $lang['Braintree.public_key'] = 'Δημόσιο κλειδί';
-$lang['Braintree.merchant_id'] = 'Αναγνωριστικό εμπόρου';
-$lang['Braintree.description'] = 'Απαιτεί PHP &gt;= 7.3. Οι έμποροι σε περισσότερες από 45 χώρες/περιοχές παγκοσμίως μπορούν να δέχονται, να διαχωρίζουν και να ενεργοποιούν πληρωμές σε περισσότερα από 130 νομίσματα χρησιμοποιώντας το Braintree.';
-$lang['Braintree.name'] = 'Braintree';
 

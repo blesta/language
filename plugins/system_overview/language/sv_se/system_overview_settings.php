@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Längden på varje enskilt inställningsvärde får inte överstiga 255 tecken.';
-$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ingen inställningsnyckel får vara tom.';
 $lang['SystemOverviewSettings.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
+$lang['SystemOverviewSettings.!error.settings[][key].empty'] = 'Ingen inställningsnyckel får vara tom.';
+$lang['SystemOverviewSettings.!error.settings[][value].length'] = 'Längden på varje enskilt inställningsvärde får inte överstiga 255 tecken.';
 $lang['SystemOverviewSettings.!error.staff_id.exists'] = 'Ogiltigt personal-ID.';
 

@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.permissions.empty'] = 'Du måste tilldela minst en behörighet till chefen.';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Du är inte behörig att hantera detta konto.';
-$lang['ManagedAccounts.!error.contact_id.exists'] = 'Ogiltigt kontakt-ID.';
-$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Giltigt ID för inbjudan.';
-$lang['ManagedAccounts.!error.email.invitation'] = 'En inbjudan har redan skickats till detta konto.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Ogiltigt klient-ID.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Det finns inget konto kopplat till den angivna e-postadressen.';
+$lang['ManagedAccounts.!error.contact_id.exists'] = 'Ogiltigt kontakt-ID.';
 $lang['ManagedAccounts.!error.email.exists'] = 'En inbjudan kunde inte skickas. Kontrollera att e-postadressen är korrekt eller be användaren att registrera sig först.';
+$lang['ManagedAccounts.!error.email.invitation'] = 'En inbjudan har redan skickats till detta konto.';
+$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Giltigt ID för inbjudan.';
+$lang['ManagedAccounts.!error.permissions.empty'] = 'Du måste tilldela minst en behörighet till chefen.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'Du är inte behörig att hantera detta konto.';
 

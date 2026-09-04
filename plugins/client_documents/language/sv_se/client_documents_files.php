@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klienten existerar inte.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Ett giltigt tilläggsdatum krävs.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'Ett dokumentnamn krävs.';
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Klienten existerar inte.';
 

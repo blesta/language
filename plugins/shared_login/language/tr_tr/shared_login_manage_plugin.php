@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Kaydet';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Paylaşılan Anahtar';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Paylaşılan Giriş';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Paylaşılan Anahtar';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Paylaşılan Giriş';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Kaydet';
 

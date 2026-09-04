@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Duitku.buildprocess.submit'] = 'Plaťte s Duitku';
-$lang['Duitku.sandbox'] = 'Sandbox';
-$lang['Duitku.merchant_code'] = 'Kód obchodníka';
-$lang['Duitku.merchant_key'] = 'Klíč obchodníka';
-$lang['Duitku.!error.sandbox.valid'] = 'Pole Sandbox musí mít hodnotu true nebo false.';
 $lang['Duitku.!error.merchant_code.empty'] = 'Kód obchodníka nesmí být prázdný.';
 $lang['Duitku.!error.merchant_key.valid'] = 'Zadaný klíč obchodníka není platný.';
+$lang['Duitku.!error.sandbox.valid'] = 'Pole Sandbox musí mít hodnotu true nebo false.';
+$lang['Duitku.buildprocess.submit'] = 'Plaťte s Duitku';
 $lang['Duitku.description'] = 'Přijímejte kreditní a debetní karty, elektronické peněženky, bankovní převody a posílejte hromadné platby prostřednictvím jediné integrace v Indonésii.';
+$lang['Duitku.merchant_code'] = 'Kód obchodníka';
+$lang['Duitku.merchant_key'] = 'Klíč obchodníka';
 $lang['Duitku.name'] = 'Duitku';
+$lang['Duitku.sandbox'] = 'Sandbox';
 

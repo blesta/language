@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientCardsPlugin.description'] = 'Viser klientoversigtsoplysninger i kort på klientgrænsefladen.';
-$lang['ClientCardsPlugin.card_client.services'] = 'Tjenester';
 $lang['ClientCardsPlugin.card_client.invoices'] = 'Fakturaer';
+$lang['ClientCardsPlugin.card_client.services'] = 'Tjenester';
+$lang['ClientCardsPlugin.description'] = 'Viser klientoversigtsoplysninger i kort på klientgrænsefladen.';
 $lang['ClientCardsPlugin.name'] = 'Client Cards';
 

@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Seçilen alan adı transferler için uygun değildir.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s sipariş #%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Sipariş #%1$s Alındı';
+$lang['OrderOrders.getstatuses.accepted'] = 'Kabul Edildi';
 $lang['OrderOrders.getstatuses.canceled'] = 'İptal edildi';
 $lang['OrderOrders.getstatuses.fraud'] = 'Dolandırıcılık';
-$lang['OrderOrders.getstatuses.accepted'] = 'Kabul Edildi';
 $lang['OrderOrders.getstatuses.pending'] = 'İncelemede';
-$lang['OrderOrders.bell.order_received.title'] = 'Sipariş #%1$s Alındı';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s sipariş #%2$s (%3$s)';
 

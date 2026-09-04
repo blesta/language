@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'A categoria que está a ser actualizada não existe.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'ID de empresa inválido.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'Introduza uma descrição da categoria.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'Introduza um nome de categoria.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'ID de empresa inválido.';
-$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'A categoria principal selecionada pode não ser a própria categoria.';
 $lang['DownloadManagerCategories.!error.parent_id.exists'] = 'A categoria principal selecionada não existe.';
+$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'A categoria principal selecionada pode não ser a própria categoria.';
 

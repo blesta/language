@@ -11,7 +11,7 @@
 
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'Не може да се свърже с отдалечения сървър. cURL Error: %1$s';
 $lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Изпратена е заявка за деблокиране.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Отблокиране на IP';
 $lang['IpUnblockerPlugin.description'] = 'Плъгин за Blesta, който се интегрира с контролния панел cPanel и DirectAdmin за деблокиране на IP адреси от черния списък';
 $lang['IpUnblockerPlugin.name'] = 'IP Unblocker';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Отблокиране на IP';
 

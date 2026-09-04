@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = '维护';
 $lang['ClientMaintenance.index.maintenance_heading'] = '维护模式';
+$lang['ClientMaintenance.index.page_title'] = '维护';
 

@@ -11,7 +11,7 @@
 
 $lang['Automation.task.suspendservices.attempt'] = 'Προσπάθεια διεκπεραίωσης αναστολών υπηρεσιών.';
 $lang['Automation.task.suspendservices.completed'] = 'Η εργασία αναστολής της υπηρεσίας έχει ολοκληρωθεί.';
-$lang['Automation.task.suspendservices.suspension_reason'] = 'Μη πληρωμή';
 $lang['Automation.task.suspendservices.error'] = 'Η υπηρεσία #%1$s από τον πελάτη %2$s δεν μπόρεσε να ανασταλεί.';
 $lang['Automation.task.suspendservices.success'] = 'Η υπηρεσία #%1$s από τον πελάτη %2$s έχει ανασταλεί.';
+$lang['Automation.task.suspendservices.suspension_reason'] = 'Μη πληρωμή';
 

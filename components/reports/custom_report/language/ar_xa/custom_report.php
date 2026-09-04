@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s غير صالح.';
-$lang['CustomReports.options.field_report_select'] = '-- يرجى اختيار --';
-$lang['CustomReports.options.field_report'] = 'تقرير';
 $lang['CustomReport.name'] = 'Custom Report';
+$lang['CustomReports.options.field_report'] = 'تقرير';
+$lang['CustomReports.options.field_report_select'] = '-- يرجى اختيار --';
 

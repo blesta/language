@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CoinPayments.name'] = 'CoinPayments.net';
-$lang['CoinPayments.description'] = 'Un sistema de pago para criptomonedas como Bitcoin y Litecoin con comisiones bajas';
-$lang['CoinPayments.merchant_id'] = 'CoinPayments ID de comerciante';
-$lang['CoinPayments.ipn_secret'] = 'IPN Secreto';
 $lang['CoinPayments.buildprocess.submit'] = 'Pagar con CoinPayments';
+$lang['CoinPayments.description'] = 'Un sistema de pago para criptomonedas como Bitcoin y Litecoin con comisiones bajas';
+$lang['CoinPayments.ipn_secret'] = 'IPN Secreto';
+$lang['CoinPayments.merchant_id'] = 'CoinPayments ID de comerciante';
+$lang['CoinPayments.name'] = 'CoinPayments.net';
 

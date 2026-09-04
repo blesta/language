@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Turnstile.name'] = 'Turnstile';
 $lang['Turnstile.options.field_turnstile_secret_key'] = 'Chave secreta da catraca';
 $lang['Turnstile.options.field_turnstile_site_key'] = 'Chave do site da catraca';
-$lang['Turnstile.name'] = 'Turnstile';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_name'] = 'Rappel de l\'expiration du certificat SSL';
 $lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_desc'] = 'Avis envoyé avant 30 jours de la date d\'expiration du certificat.';
+$lang['AdminCompanyEmails.templates.Thesslstore.expiration_reminder_name'] = 'Rappel de l\'expiration du certificat SSL';
 

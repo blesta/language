@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['PackageOptionGroups.!error.company_id.exists'] = 'Lütfen geçerli bir şirket kimliği belirtin.';
+$lang['PackageOptionGroups.!error.group_id.exists'] = 'Geçersiz paket seçeneği grup kimliği.';
 $lang['PackageOptionGroups.!error.hidden.valid'] = 'Bu seçenek grubunun gizlenip gizlenmeyeceği 0 veya 1 olarak ayarlanmalıdır.';
 $lang['PackageOptionGroups.!error.hide_options.valid'] = 'Seçeneklerin gizlenip gizlenmeyeceği 0 veya 1 olarak ayarlanmalıdır.';
-$lang['PackageOptionGroups.!error.group_id.exists'] = 'Geçersiz paket seçeneği grup kimliği.';
-$lang['PackageOptionGroups.!error.name.length'] = 'Grup adının uzunluğu 128 karakteri geçemez.';
 $lang['PackageOptionGroups.!error.name.empty'] = 'Lütfen bir grup adı belirtin.';
-$lang['PackageOptionGroups.!error.company_id.exists'] = 'Lütfen geçerli bir şirket kimliği belirtin.';
+$lang['PackageOptionGroups.!error.name.length'] = 'Grup adının uzunluğu 128 karakteri geçemez.';
 

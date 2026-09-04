@@ -10,7 +10,7 @@
  */
 
 $lang['Offline.!error.instructions.valid'] = 'Трябва да въведете някои инструкции.';
-$lang['Offline.instructions'] = 'Инструкции';
 $lang['Offline.description'] = 'Позволява ви да показвате специални инструкции за приемане на плащания офлайн';
+$lang['Offline.instructions'] = 'Инструкции';
 $lang['Offline.name'] = 'Offline Payment';
 

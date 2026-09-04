@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Cornerstone.security_key'] = 'Chave de segurança';
-$lang['Cornerstone.description'] = 'A Cornerstone é uma das principais organizações de vendas independentes de propriedade de cristãos e operada por eles no setor de processamento de comerciantes nos EUA';
 $lang['Cornerstone.!error.security_key.empty'] = 'Digite sua chave de segurança.';
+$lang['Cornerstone.description'] = 'A Cornerstone é uma das principais organizações de vendas independentes de propriedade de cristãos e operada por eles no setor de processamento de comerciantes nos EUA';
 $lang['Cornerstone.name'] = 'Cornerstone';
+$lang['Cornerstone.security_key'] = 'Chave de segurança';
 

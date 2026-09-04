@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Розширення %1$s';
-$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Маркетплейс наразі недоступний.';
 $lang['AdminSystem.marketplace.category_all'] = 'Усе.';
 $lang['AdminSystemMarketplace.index.boxtitle_marketplace'] = 'Маркетплейс';
 $lang['AdminSystemMarketplace.index.page_title'] = 'Налаштування > Система > Маркетплейс';
+$lang['AdminSystemMarketplace.index.text_unavailable'] = 'Маркетплейс наразі недоступний.';
+$lang['AdminSystemMarketplace.listing.boxtitle_listing'] = 'Розширення %1$s';
 

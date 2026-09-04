@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'O ID de e-mail não existe.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'O ID do instantâneo não existe.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'O instantâneo não pertence ao e-mail especificado.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'O ID do instantâneo não existe.';
 

@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.version.valid'] = 'Verze je neplatná.';
-$lang['MessengerManager.!error.name.valid'] = 'Název je neplatný.';
-$lang['MessengerManager.!error.dir.valid'] = 'Adresář je neplatný.';
 $lang['MessengerManager.!error.company_id.valid'] = 'ID společnosti je neplatné.';
+$lang['MessengerManager.!error.dir.valid'] = 'Adresář je neplatný.';
 $lang['MessengerManager.!error.messenger.missing'] = 'Pro daný typ není nakonfigurován žádný messenger.';
+$lang['MessengerManager.!error.name.valid'] = 'Název je neplatný.';
+$lang['MessengerManager.!error.version.valid'] = 'Verze je neplatná.';
 

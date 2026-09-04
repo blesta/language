@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Hotovost';
+$lang['_PaymentTypes.check'] = 'Podívejte se na stránky .';
 $lang['_PaymentTypes.in_house_credit'] = 'In House Credit';
 $lang['_PaymentTypes.money_order'] = 'Peněžní poukázka';
-$lang['_PaymentTypes.check'] = 'Podívejte se na stránky .';
-$lang['_PaymentTypes.cash'] = 'Hotovost';
 

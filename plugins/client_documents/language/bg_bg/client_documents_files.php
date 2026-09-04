@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Клиентът не съществува.';
 $lang['ClientDocumentsFiles.!error.date_added.valid'] = 'Изисква се добавяне на валидна дата.';
 $lang['ClientDocumentsFiles.!error.name.valid'] = 'Изисква се име на документа.';
-$lang['ClientDocumentsFiles.!error.client_id.exists'] = 'Клиентът не съществува.';
 

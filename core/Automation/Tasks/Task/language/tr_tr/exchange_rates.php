@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = 'Döviz kurları güncellenmeye çalışılıyor.';
+$lang['Automation.task.exchange_rates.completed'] = 'Döviz kurları görevi tamamlanmıştır.';
 $lang['Automation.task.exchange_rates.failed'] = 'Döviz kurları güncellenememiştir.';
 $lang['Automation.task.exchange_rates.success'] = 'Döviz kurları başarıyla güncellendi.';
-$lang['Automation.task.exchange_rates.completed'] = 'Döviz kurları görevi tamamlanmıştır.';
-$lang['Automation.task.exchange_rates.attempt'] = 'Döviz kurları güncellenmeye çalışılıyor.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = '서비스 취소를 자동으로 예약합니다.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = '일시 중단된 서비스를 자동으로 취소하도록 예약합니다.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = '자동 일정 취소';
-$lang['AutoCancelPlugin.description'] = '서비스 취소를 자동으로 예약합니다.';
 $lang['AutoCancelPlugin.name'] = 'Auto Cancel';
 

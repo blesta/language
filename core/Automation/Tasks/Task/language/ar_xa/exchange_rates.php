@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Automation.task.exchange_rates.attempt'] = 'محاولة تحديث أسعار الصرف.';
+$lang['Automation.task.exchange_rates.completed'] = 'اكتملت مهمة أسعار الصرف.';
 $lang['Automation.task.exchange_rates.failed'] = 'تعذر تحديث أسعار الصرف.';
 $lang['Automation.task.exchange_rates.success'] = 'تم تحديث أسعار الصرف بنجاح.';
-$lang['Automation.task.exchange_rates.completed'] = 'اكتملت مهمة أسعار الصرف.';
-$lang['Automation.task.exchange_rates.attempt'] = 'محاولة تحديث أسعار الصرف.';
 

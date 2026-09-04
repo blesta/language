@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.option_download'] = 'Unduh';
-$lang['ClientMain.index.heading_options'] = 'Tindakan';
+$lang['ClientMain.index.boxtitle_documents'] = 'Dokumen';
 $lang['ClientMain.index.heading_date_added'] = 'Tanggal Ditambahkan';
 $lang['ClientMain.index.heading_description'] = 'Deskripsi';
 $lang['ClientMain.index.heading_name'] = 'Nama';
+$lang['ClientMain.index.heading_options'] = 'Tindakan';
 $lang['ClientMain.index.no_results'] = 'Tidak ada dokumen yang tersedia untuk diunduh.';
-$lang['ClientMain.index.boxtitle_documents'] = 'Dokumen';
+$lang['ClientMain.index.option_download'] = 'Unduh';
 $lang['ClientMain.index.page_title'] = 'Dokumen';
 

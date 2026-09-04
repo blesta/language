@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Domain yang dipilih tidak tersedia untuk transfer.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s memesan #%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Pesanan #%1$s Diterima';
+$lang['OrderOrders.getstatuses.accepted'] = 'Diterima';
 $lang['OrderOrders.getstatuses.canceled'] = 'Dibatalkan';
 $lang['OrderOrders.getstatuses.fraud'] = 'Penipuan';
-$lang['OrderOrders.getstatuses.accepted'] = 'Diterima';
 $lang['OrderOrders.getstatuses.pending'] = 'Dalam Ulasan';
-$lang['OrderOrders.bell.order_received.title'] = 'Pesanan #%1$s Diterima';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s memesan #%2$s (%3$s)';
 

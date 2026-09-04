@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'E-mailové ID neexistuje.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'ID snímku neexistuje.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Snímek nepatří k zadanému e-mailu.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'ID snímku neexistuje.';
 

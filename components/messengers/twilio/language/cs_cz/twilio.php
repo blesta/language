@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Twilio.configuration_fields.token'] = 'Token';
-$lang['Twilio.configuration_fields.sid'] = 'SID účtu';
 $lang['Twilio.configuration_fields.phone_number'] = 'Telefonní číslo';
+$lang['Twilio.configuration_fields.sid'] = 'SID účtu';
+$lang['Twilio.configuration_fields.token'] = 'Token';
 $lang['Twilio.description'] = 'Odesílání oznámení SMS pomocí služby Twilio.';
 $lang['Twilio.name'] = 'Twilio';
 

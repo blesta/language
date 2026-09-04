@@ -10,7 +10,7 @@
  */
 
 $lang['Offline.!error.instructions.valid'] = '您必须输入一些说明。';
-$lang['Offline.instructions'] = '说明';
 $lang['Offline.description'] = '允许您显示离线付款的特殊说明';
+$lang['Offline.instructions'] = '说明';
 $lang['Offline.name'] = 'Offline Payment';
 

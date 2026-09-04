@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['States.!error.name.format'] = 'Моля, въведете името на държавата.';
-$lang['States.!error.country_alpha2.in_use'] = 'Кодът на страната %1$s и кодът на подразделението %2$s вече са заети.';
-$lang['States.!error.country_alpha2.format'] = 'Country Alpha2 трябва да съдържа 2 буквени символа.';
 $lang['States.!error.code.format'] = 'Кодът на държавата трябва да бъде буквено-цифров, както е определено в ISO 3166-2.';
+$lang['States.!error.country_alpha2.format'] = 'Country Alpha2 трябва да съдържа 2 буквени символа.';
+$lang['States.!error.country_alpha2.in_use'] = 'Кодът на страната %1$s и кодът на подразделението %2$s вече са заети.';
+$lang['States.!error.name.format'] = 'Моля, въведете името на държавата.';
 

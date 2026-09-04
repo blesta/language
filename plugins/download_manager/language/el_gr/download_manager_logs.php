@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.file_id.exists'] = 'Το αρχείο δεν υπάρχει.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = 'Ο πελάτης δεν υπάρχει.';
 $lang['DownloadManagerLogs.!error.contact_id.exists'] = 'Η επαφή δεν υπάρχει.';
+$lang['DownloadManagerLogs.!error.file_id.exists'] = 'Το αρχείο δεν υπάρχει.';
 

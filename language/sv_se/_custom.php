@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['_PaymentTypes.cash'] = 'Kontanter';
+$lang['_PaymentTypes.check'] = 'Kontrollera';
 $lang['_PaymentTypes.in_house_credit'] = 'Kredit inom företaget';
 $lang['_PaymentTypes.money_order'] = 'Postanvisning';
-$lang['_PaymentTypes.check'] = 'Kontrollera';
-$lang['_PaymentTypes.cash'] = 'Kontanter';
 

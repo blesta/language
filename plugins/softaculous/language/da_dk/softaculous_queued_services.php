@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Forsøg skal være en positiv numerisk værdi.';
+$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Den givne virksomhed eksisterer ikke.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Den givne tjeneste findes ikke.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Den givne tjeneste er ikke sat i kø til installation.';
-$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'Den givne virksomhed eksisterer ikke.';
-$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Forsøg skal være en positiv numerisk værdi.';
 

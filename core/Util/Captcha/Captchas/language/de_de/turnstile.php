@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Turnstile.name'] = 'Turnstile';
 $lang['Turnstile.options.field_turnstile_secret_key'] = 'Geheimschlüssel für Drehkreuze';
 $lang['Turnstile.options.field_turnstile_site_key'] = 'Drehkreuz-Standortschlüssel';
-$lang['Turnstile.name'] = 'Turnstile';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Notifications.notification.SupportManager.staff_ticket_updated_name'] = 'Bilet de asistență actualizat';
-$lang['Notifications.notification.SupportManager.staff_ticket_updated_desc'] = 'Un client a creat sau a răspuns la un bilet de asistență.';
-$lang['Notifications.notification.SupportManager.staff_ticket_assigned_name'] = 'Bilet de asistență atribuit';
 $lang['Notifications.notification.SupportManager.staff_ticket_assigned_desc'] = 'Un bilet de asistență v-a fost atribuit.';
+$lang['Notifications.notification.SupportManager.staff_ticket_assigned_name'] = 'Bilet de asistență atribuit';
+$lang['Notifications.notification.SupportManager.staff_ticket_updated_desc'] = 'Un client a creat sau a răspuns la un bilet de asistență.';
+$lang['Notifications.notification.SupportManager.staff_ticket_updated_name'] = 'Bilet de asistență actualizat';
 

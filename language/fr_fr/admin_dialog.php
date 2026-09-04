@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.confirm.text_yes'] = 'Oui';
 $lang['AdminDialog.confirm.text_no'] = 'Non';
-$lang['AdminDialog.password.field_modal_password'] = 'Mot de passe';
-$lang['AdminDialog.password.field_modal_password_copied'] = 'J\'ai copié ce mot de passe dans un endroit sûr';
+$lang['AdminDialog.confirm.text_yes'] = 'Oui';
+$lang['AdminDialog.password.btn_cancel'] = 'Annuler';
 $lang['AdminDialog.password.btn_generate'] = 'Générer';
 $lang['AdminDialog.password.btn_modal_password'] = 'Mot de passe';
-$lang['AdminDialog.password.btn_cancel'] = 'Annuler';
 $lang['AdminDialog.password.btn_use_password'] = 'Utiliser le mot de passe';
-$lang['AdminDialog.password.title'] = 'Générer un mot de passe';
+$lang['AdminDialog.password.field_modal_password'] = 'Mot de passe';
+$lang['AdminDialog.password.field_modal_password_copied'] = 'J\'ai copié ce mot de passe dans un endroit sûr';
 $lang['AdminDialog.password.text_click_generate'] = 'Cliquez sur Générer pour créer un mot de passe sécurisé.';
+$lang['AdminDialog.password.title'] = 'Générer un mot de passe';
 

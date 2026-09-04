@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['EmailVerifications.!error.redirect_url.valid'] = 'Zadejte prosím platnou adresu URL.';
-$lang['EmailVerifications.!error.verified.valid'] = 'Ověřené pole musí mít hodnotu "1" nebo "0".';
-$lang['EmailVerifications.!error.token.format'] = 'Zadejte prosím platný token.';
-$lang['EmailVerifications.!error.email.valid'] = 'Zadejte prosím platnou e-mailovou adresu.';
-$lang['EmailVerifications.!error.contact_id.exists'] = 'Neplatné ID kontaktu.';
 $lang['EmailVerifications.!error.client.valid'] = 'Vaši e-mailovou adresu se nepodařilo ověřit, protože váš účet není aktivní.';
+$lang['EmailVerifications.!error.contact_id.exists'] = 'Neplatné ID kontaktu.';
+$lang['EmailVerifications.!error.email.valid'] = 'Zadejte prosím platnou e-mailovou adresu.';
+$lang['EmailVerifications.!error.redirect_url.valid'] = 'Zadejte prosím platnou adresu URL.';
+$lang['EmailVerifications.!error.token.format'] = 'Zadejte prosím platný token.';
+$lang['EmailVerifications.!error.verified.valid'] = 'Ověřené pole musí mít hodnotu "1" nebo "0".';
 

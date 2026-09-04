@@ -11,6 +11,6 @@
 
 $lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'As tentativas devem ser um valor numérico positivo.';
 $lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'A empresa fornecida não existe.';
-$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'O serviço fornecido não está na fila para instalação.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'O serviço fornecido não existe.';
+$lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'O serviço fornecido não está na fila para instalação.';
 

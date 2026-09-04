@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.apply_invoice_late_fees.late_fee_success'] = 'تم تطبيق رسوم التأخير بنجاح على الفاتورة رقم%1$s للعميل رقم%2$s.';
-$lang['Automation.task.apply_invoice_late_fees.late_fee_failed'] = 'يتعذر تطبيق رسوم التأخير على الفاتورة رقم%1$s للعميل رقم%2$s.';
-$lang['Automation.task.apply_invoice_late_fees.invoice_line'] = 'رسوم التأخير';
-$lang['Automation.task.apply_invoice_late_fees.completed'] = 'اكتملت مهمة تطبيق الرسوم المتأخرة.';
 $lang['Automation.task.apply_invoice_late_fees.attempt'] = 'محاولة تطبيق الرسوم المتأخرة على الفواتير المتأخرة.';
+$lang['Automation.task.apply_invoice_late_fees.completed'] = 'اكتملت مهمة تطبيق الرسوم المتأخرة.';
+$lang['Automation.task.apply_invoice_late_fees.invoice_line'] = 'رسوم التأخير';
+$lang['Automation.task.apply_invoice_late_fees.late_fee_failed'] = 'يتعذر تطبيق رسوم التأخير على الفاتورة رقم%1$s للعميل رقم%2$s.';
+$lang['Automation.task.apply_invoice_late_fees.late_fee_success'] = 'تم تطبيق رسوم التأخير بنجاح على الفاتورة رقم%1$s للعميل رقم%2$s.';
 

@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DataFeeds.execute.endpoint_not_found'] = 'L\'endpoint richiesto non esiste.';
+$lang['DataFeeds.!error.class.valid'] = 'La classe fornita non è una classe di alimentazione dati valida.';
+$lang['DataFeeds.!error.company_id.exists'] = 'ID azienda non valido.';
+$lang['DataFeeds.!error.dir.empty'] = 'Inserire la directory del plugin.';
+$lang['DataFeeds.!error.dir.valid'] = 'La directory del plugin contiene caratteri non validi.';
 $lang['DataFeeds.!error.enabled.valid'] = 'L\'opzione abilitata deve essere impostata su 1 o 0.';
 $lang['DataFeeds.!error.endpoint.valid'] = 'Inserire l\'endpoint.';
-$lang['DataFeeds.!error.company_id.exists'] = 'ID azienda non valido.';
-$lang['DataFeeds.!error.class.valid'] = 'La classe fornita non è una classe di alimentazione dati valida.';
-$lang['DataFeeds.!error.dir.empty'] = 'Inserire la directory del plugin.';
 $lang['DataFeeds.!error.feed.valid'] = 'Inserire il nome del feed di dati.';
-$lang['DataFeeds.!error.dir.valid'] = 'La directory del plugin contiene caratteri non validi.';
+$lang['DataFeeds.execute.endpoint_not_found'] = 'L\'endpoint richiesto non esiste.';
 

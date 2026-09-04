@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMain.index.option_download'] = 'Scaricare';
-$lang['ClientMain.index.heading_options'] = 'Azioni';
+$lang['ClientMain.index.boxtitle_documents'] = 'Documenti';
 $lang['ClientMain.index.heading_date_added'] = 'Data aggiunta';
 $lang['ClientMain.index.heading_description'] = 'Descrizione';
 $lang['ClientMain.index.heading_name'] = 'Nome';
+$lang['ClientMain.index.heading_options'] = 'Azioni';
 $lang['ClientMain.index.no_results'] = 'Non ci sono documenti disponibili per il download.';
-$lang['ClientMain.index.boxtitle_documents'] = 'Documenti';
+$lang['ClientMain.index.option_download'] = 'Scaricare';
 $lang['ClientMain.index.page_title'] = 'Documenti';
 

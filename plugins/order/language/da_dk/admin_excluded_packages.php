@@ -11,10 +11,10 @@
 
 $lang['AdminExcludedPackages.!success.packages_updated'] = 'De ekskluderede pakker blev opdateret med succes.';
 $lang['AdminExcludedPackages.index.boxtitle_excluded_packages'] = 'Ekskluderede pakker';
-$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Tilgængelige pakker';
-$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Skjulte pakker';
+$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Opdater indstillinger';
 $lang['AdminExcludedPackages.index.heading_available_packages'] = 'Tilgængelige pakker';
 $lang['AdminExcludedPackages.index.heading_hidden_packages'] = 'Skjulte pakker';
-$lang['AdminExcludedPackages.index.field_updatesubmit'] = 'Opdater indstillinger';
+$lang['AdminExcludedPackages.index.tab_available_packages'] = 'Tilgængelige pakker';
+$lang['AdminExcludedPackages.index.tab_hidden_packages'] = 'Skjulte pakker';
 $lang['AdminExcludedPackages.index.text_no_packages'] = 'Der er ingen aktive pakker tilgængelige.';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['NonmerchantGateway.!error.general'] = 'Při zpracování požadavku bránou došlo k chybě.';
-$lang['NonmerchantGateway.!error.unsupported'] = 'Brána tuto akci nepodporuje.';
-$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Transakce je neplatná nebo již není k dispozici pro zpracování dané akce.';
 $lang['NonmerchantGateway.!error.invalid'] = 'Byla přijata neplatná nebo nerozpoznaná platební odpověď.';
+$lang['NonmerchantGateway.!error.transaction_not_found'] = 'Transakce je neplatná nebo již není k dispozici pro zpracování dané akce.';
+$lang['NonmerchantGateway.!error.unsupported'] = 'Brána tuto akci nepodporuje.';
 

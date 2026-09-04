@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'أحد معرّفات قيمة الخيار المحددة غير موجود';
-$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'معرف الخيار المحدد غير موجود';
-$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'معرف مجموعة الخيارات المحدد غير موجود';
 $lang['PackageOptionConditionSets.!error.id.exists'] = 'معرف شرط الخيار المحدد غير موجود';
+$lang['PackageOptionConditionSets.!error.option_group_id.exists'] = 'معرف مجموعة الخيارات المحدد غير موجود';
+$lang['PackageOptionConditionSets.!error.option_id.exists'] = 'معرف الخيار المحدد غير موجود';
+$lang['PackageOptionConditionSets.!error.option_value_ids.exists'] = 'أحد معرّفات قيمة الخيار المحددة غير موجود';
 

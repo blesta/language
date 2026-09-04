@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'Το email ID δεν υπάρχει.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Το αναγνωριστικό στιγμιότυπου δεν υπάρχει.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Το στιγμιότυπο δεν ανήκει στο καθορισμένο email.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'Το αναγνωριστικό στιγμιότυπου δεν υπάρχει.';
 

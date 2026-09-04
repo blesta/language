@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Paystack.buildprocess.submit'] = 'Плащане с Paystack';
-$lang['Paystack.tooltip.secret_key'] = 'За да използвате тестовия режим, просто въведете тестови ключ.';
-$lang['Paystack.secret_key'] = 'Секретен ключ на Paystack';
-$lang['Paystack.description'] = 'Paystack е най-бързият и най-простият начин да започнете да приемате онлайн плащания в Нигерия.';
 $lang['Paystack.!error.secret_key.valid'] = 'Тайният ключ трябва да е с дължина най-малко 40 символа.';
+$lang['Paystack.buildprocess.submit'] = 'Плащане с Paystack';
+$lang['Paystack.description'] = 'Paystack е най-бързият и най-простият начин да започнете да приемате онлайн плащания в Нигерия.';
 $lang['Paystack.name'] = 'Paystack Standard';
+$lang['Paystack.secret_key'] = 'Секретен ключ на Paystack';
+$lang['Paystack.tooltip.secret_key'] = 'За да използвате тестовия режим, просто въведете тестови ключ.';
 

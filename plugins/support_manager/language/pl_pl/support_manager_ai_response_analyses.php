@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Nieprawidłowy identyfikator zgłoszenia.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Nieprawidłowy status. Musi być jednym z: pending, used, expired, no_response_needed.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'Zaufanie musi być liczbą.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Nieprawidłowy status. Musi być jednym z: pending, used, expired, no_response_needed.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'Nieprawidłowy identyfikator zgłoszenia.';
 

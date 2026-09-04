@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = '所选域不可用于转移。';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s 下订单号%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = '订单号%1$s 已收到';
+$lang['OrderOrders.getstatuses.accepted'] = '已接受';
 $lang['OrderOrders.getstatuses.canceled'] = '已取消';
 $lang['OrderOrders.getstatuses.fraud'] = '欺诈';
-$lang['OrderOrders.getstatuses.accepted'] = '已接受';
 $lang['OrderOrders.getstatuses.pending'] = '回顾';
-$lang['OrderOrders.bell.order_received.title'] = '订单号%1$s 已收到';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s 下订单号%2$s (%3$s)';
 

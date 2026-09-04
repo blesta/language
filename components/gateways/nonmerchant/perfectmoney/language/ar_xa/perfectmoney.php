@@ -12,8 +12,8 @@
 $lang['Perfectmoney.!error.passphrase.valid'] = 'يجب إدخال عبارة مرور صالحة.';
 $lang['Perfectmoney.!error.payee_account.valid'] = 'يجب أن تدخل حساباً صالحاً.';
 $lang['Perfectmoney.buildprocess.submit'] = 'الدفع بالمال المثالي';
-$lang['Perfectmoney.passphrase_note'] = 'تُستخدم عبارة المرور البديلة لحساب تجزئة MD5 للتحقق من صحة المدفوعات.';
-$lang['Perfectmoney.passphrase'] = 'عبارة المرور البديلة';
-$lang['Perfectmoney.payee_account'] = 'حساب المدفوع له';
 $lang['Perfectmoney.name'] = 'Perfect Money';
+$lang['Perfectmoney.passphrase'] = 'عبارة المرور البديلة';
+$lang['Perfectmoney.passphrase_note'] = 'تُستخدم عبارة المرور البديلة لحساب تجزئة MD5 للتحقق من صحة المدفوعات.';
+$lang['Perfectmoney.payee_account'] = 'حساب المدفوع له';
 

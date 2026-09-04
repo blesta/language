@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.license_validation.completed'] = 'L\'attività di convalida della licenza è stata completata.';
 $lang['Automation.task.license_validation.attempt'] = 'Tentativo di convalida della licenza.';
+$lang['Automation.task.license_validation.completed'] = 'L\'attività di convalida della licenza è stata completata.';
 

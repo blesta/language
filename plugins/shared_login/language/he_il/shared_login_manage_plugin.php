@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'שמור';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'מפתח משותף';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'כניסה משותפת';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'מפתח משותף';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'כניסה משותפת';
+$lang['SharedLoginManagePlugin.index.submit'] = 'שמור';
 

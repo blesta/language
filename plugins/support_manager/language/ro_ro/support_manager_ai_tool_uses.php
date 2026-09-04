@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Punctajul de încredere trebuie să fie un număr valid.';
 $lang['SupportManagerAiToolUses.!error.ticket_id.exists'] = 'ID bilet invalid.';
 $lang['SupportManagerAiToolUses.!error.tool_name.empty'] = 'Numele uneltei nu poate fi gol.';
 $lang['SupportManagerAiToolUses.!error.tool_name.length'] = 'Numele uneltei nu poate depăși 50 de caractere.';
-$lang['SupportManagerAiToolUses.!error.confidence.valid'] = 'Punctajul de încredere trebuie să fie un număr valid.';
 

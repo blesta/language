@@ -11,7 +11,7 @@
 
 $lang['Automation.task.suspendservices.attempt'] = 'Tentative de traitement des suspensions de service.';
 $lang['Automation.task.suspendservices.completed'] = 'La tâche de suspension du service est terminée.';
-$lang['Automation.task.suspendservices.suspension_reason'] = 'Non-paiement';
 $lang['Automation.task.suspendservices.error'] = 'Le service #%1$s du client %2$s n\'a pas pu être suspendu.';
 $lang['Automation.task.suspendservices.success'] = 'Le service #%1$s du client %2$s a été suspendu.';
+$lang['Automation.task.suspendservices.suspension_reason'] = 'Non-paiement';
 

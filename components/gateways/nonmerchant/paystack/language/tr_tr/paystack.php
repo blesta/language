@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Paystack.buildprocess.submit'] = 'Paystack ile ödeme yapın';
-$lang['Paystack.tooltip.secret_key'] = 'Test modunu kullanmak için bir test tuşu girmeniz yeterlidir.';
-$lang['Paystack.secret_key'] = 'Paystack Gizli Anahtarı';
-$lang['Paystack.description'] = 'Paystack, Nijerya\'da çevrimiçi ödemeleri kabul etmeye başlamanın en hızlı ve en basit yoludur.';
 $lang['Paystack.!error.secret_key.valid'] = 'Gizli anahtar en az 40 karakter uzunluğunda olmalıdır.';
+$lang['Paystack.buildprocess.submit'] = 'Paystack ile ödeme yapın';
+$lang['Paystack.description'] = 'Paystack, Nijerya\'da çevrimiçi ödemeleri kabul etmeye başlamanın en hızlı ve en basit yoludur.';
 $lang['Paystack.name'] = 'Paystack Standard';
+$lang['Paystack.secret_key'] = 'Paystack Gizli Anahtarı';
+$lang['Paystack.tooltip.secret_key'] = 'Test modunu kullanmak için bir test tuşu girmeniz yeterlidir.';
 

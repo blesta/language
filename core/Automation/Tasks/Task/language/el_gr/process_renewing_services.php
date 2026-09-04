@@ -11,6 +11,6 @@
 
 $lang['Automation.task.process_renewing_services.attempt'] = 'Προσπάθεια επεξεργασίας ανανέωσης υπηρεσιών.';
 $lang['Automation.task.process_renewing_services.completed'] = 'Η διαδικασία ανανέωσης υπηρεσιών έχει ολοκληρωθεί.';
-$lang['Automation.task.process_renewing_services.renew_success'] = 'Ανανεώθηκε η υπηρεσία #%1$s για τον πελάτη %2$s.';
 $lang['Automation.task.process_renewing_services.renew_error'] = 'Δεν είναι δυνατή η ανανέωση της υπηρεσίας #%1$s για τον πελάτη %2$s.';
+$lang['Automation.task.process_renewing_services.renew_success'] = 'Ανανεώθηκε η υπηρεσία #%1$s για τον πελάτη %2$s.';
 

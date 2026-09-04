@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsManagePlugin.index.field_submit'] = 'Uppdatera sidan';
+$lang['CmsManagePlugin.!success.plugin_updated'] = 'Portalen har uppdaterats framgångsrikt.';
+$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.field_content'] = 'Innehåll på indexsidan';
+$lang['CmsManagePlugin.index.field_submit'] = 'Uppdatera sidan';
 $lang['CmsManagePlugin.index.field_tags'] = 'Tillgängliga taggar';
 $lang['CmsManagePlugin.index.field_title'] = 'Index Sida Titel';
-$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.page_title'] = 'Portal > Hantera';
-$lang['CmsManagePlugin.!success.plugin_updated'] = 'Portalen har uppdaterats framgångsrikt.';
 

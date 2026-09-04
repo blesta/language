@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientMaintenance.index.page_title'] = 'Поддръжка';
 $lang['ClientMaintenance.index.maintenance_heading'] = 'Режим на поддръжка';
+$lang['ClientMaintenance.index.page_title'] = 'Поддръжка';
 

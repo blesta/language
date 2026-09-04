@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['BillingOverviewSettings.!error.settings[][value].length'] = 'لا يجوز أن يتجاوز طول قيمة كل إعداد فردي 255 حرفاً.';
-$lang['BillingOverviewSettings.!error.settings[][key].empty'] = 'قد لا يكون مفتاح الإعداد فارغاً.';
 $lang['BillingOverviewSettings.!error.company_id.exists'] = 'معرّف الشركة غير صالح.';
+$lang['BillingOverviewSettings.!error.settings[][key].empty'] = 'قد لا يكون مفتاح الإعداد فارغاً.';
+$lang['BillingOverviewSettings.!error.settings[][value].length'] = 'لا يجوز أن يتجاوز طول قيمة كل إعداد فردي 255 حرفاً.';
 $lang['BillingOverviewSettings.!error.staff_id.exists'] = 'معرّف الموظف غير صالح.';
 

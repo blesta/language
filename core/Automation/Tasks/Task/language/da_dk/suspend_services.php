@@ -11,7 +11,7 @@
 
 $lang['Automation.task.suspendservices.attempt'] = 'Forsøg på at behandle suspensioner af tjenester.';
 $lang['Automation.task.suspendservices.completed'] = 'Opgaven med at suspendere tjenesten er afsluttet.';
-$lang['Automation.task.suspendservices.suspension_reason'] = 'Manglende betaling';
 $lang['Automation.task.suspendservices.error'] = 'Tjenesten #%1$s fra klient %2$s kunne ikke suspenderes.';
 $lang['Automation.task.suspendservices.success'] = 'Tjenesten #%1$s fra klient %2$s er blevet suspenderet.';
+$lang['Automation.task.suspendservices.suspension_reason'] = 'Manglende betaling';
 

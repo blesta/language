@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerUrls.!error.file_id.exists'] = 'Il file selezionato non esiste.';
 $lang['DownloadManagerUrls.!error.category_id.exists'] = 'La categoria selezionata non esiste.';
+$lang['DownloadManagerUrls.!error.company_id.exists'] = 'ID azienda non valido.';
+$lang['DownloadManagerUrls.!error.file_id.exists'] = 'Il file selezionato non esiste.';
+$lang['DownloadManagerUrls.!error.url.exists'] = 'Questo URL esiste già.';
 $lang['DownloadManagerUrls.!error.url.format'] = 'Il formato dell\'URL non è valido, può contenere solo lettere, numeri e trattini.';
 $lang['DownloadManagerUrls.!error.url.match'] = 'Questo URL non corrisponde all\'estensione del file.';
-$lang['DownloadManagerUrls.!error.url.exists'] = 'Questo URL esiste già.';
-$lang['DownloadManagerUrls.!error.company_id.exists'] = 'ID azienda non valido.';
 

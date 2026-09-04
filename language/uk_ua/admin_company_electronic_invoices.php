@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyElectronicInvoices.index.field_submit'] = 'Оновлення налаштувань';
-$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'Немає доступних форматів електронних інвойсів. Переконайтеся, що компонент InvoiceFormats встановлено належним чином.';
-$lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'Опис';
 $lang['AdminCompanyElectronicInvoices.!success.formats_updated'] = 'Формати електронних рахунків-фактур успішно оновлено.';
-$lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'Формат інвойсу';
 $lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'Електронні рахунки-фактури';
+$lang['AdminCompanyElectronicInvoices.index.field_submit'] = 'Оновлення налаштувань';
+$lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'Опис';
+$lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'Формат інвойсу';
+$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'Немає доступних форматів електронних інвойсів. Переконайтеся, що компонент InvoiceFormats встановлено належним чином.';
 

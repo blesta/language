@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Les tentatives doivent être une valeur numérique positive.';
+$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'L\'entreprise indiquée n\'existe pas.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists'] = 'Le service donné n\'existe pas.';
 $lang['SoftaculousQueuedServices.errors.service_id.exists_softaculous'] = 'Le service donné n\'est pas en file d\'attente pour l\'installation.';
-$lang['SoftaculousQueuedServices.errors.company_id.exists'] = 'L\'entreprise indiquée n\'existe pas.';
-$lang['SoftaculousQueuedServices.errors.attempts.valid'] = 'Les tentatives doivent être une valeur numérique positive.';
 

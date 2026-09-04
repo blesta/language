@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'المستندات';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'المستندات';
 $lang['ClientDocumentsPlugin.description'] = 'تحميل الملفات للتحميل من قبل عملاء محددين.';
 $lang['ClientDocumentsPlugin.name'] = 'Client Documents';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'المستندات';
 

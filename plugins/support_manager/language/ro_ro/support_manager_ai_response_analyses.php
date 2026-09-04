@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID bilet invalid.';
-$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Stare invalidă. Trebuie să fie unul dintre: pending, used, expired, no_response_needed.';
 $lang['SupportManagerAiResponseAnalyses.!error.confidence.valid'] = 'Încrederea trebuie să fie un număr.';
+$lang['SupportManagerAiResponseAnalyses.!error.status.valid'] = 'Stare invalidă. Trebuie să fie unul dintre: pending, used, expired, no_response_needed.';
+$lang['SupportManagerAiResponseAnalyses.!error.ticket_id.exists'] = 'ID bilet invalid.';
 

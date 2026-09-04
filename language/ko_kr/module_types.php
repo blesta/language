@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = '모듈 유형 ID가 잘못되었습니다.';
 $lang['ModuleTypes.!error.name.valid'] = '이름이 잘못되었습니다.';
+$lang['ModuleTypes.!error.type_id.valid'] = '모듈 유형 ID가 잘못되었습니다.';
 

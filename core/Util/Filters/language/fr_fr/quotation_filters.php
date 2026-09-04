@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.quotation_filters.any'] = 'Tous';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citation #';
 $lang['Util.filters.quotation_filters.field_currency'] = 'Monnaie';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Contenu du poste';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citation #';
 

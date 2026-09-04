@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Signup.index.heading_settings'] = 'Setări suplimentare';
+$lang['Signup.index.header_login'] = 'Autentificare';
+$lang['Signup.index.header_login_or_signup'] = 'Înregistrare sau Log In';
 $lang['Signup.index.heading_authentication'] = 'Autentificare';
 $lang['Signup.index.heading_billing'] = 'Informații de facturare';
 $lang['Signup.index.heading_contact'] = 'Informații de contact';
-$lang['Signup.index.header_login'] = 'Autentificare';
+$lang['Signup.index.heading_settings'] = 'Setări suplimentare';
 $lang['Signup.index.link_resetpassword'] = 'Resetați-mi parola';
-$lang['Signup.index.header_login_or_signup'] = 'Înregistrare sau Log In';
 

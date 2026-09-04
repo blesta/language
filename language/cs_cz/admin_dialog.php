@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminDialog.password.btn_use_password'] = 'Použití hesla';
-$lang['AdminDialog.password.btn_cancel'] = 'Zrušit';
-$lang['AdminDialog.password.btn_modal_password'] = 'Heslo';
-$lang['AdminDialog.password.btn_generate'] = 'Generovat';
-$lang['AdminDialog.password.field_modal_password_copied'] = 'Toto heslo jsem si zkopíroval na bezpečné místo.';
-$lang['AdminDialog.password.field_modal_password'] = 'Heslo';
 $lang['AdminDialog.confirm.text_no'] = 'Ne';
 $lang['AdminDialog.confirm.text_yes'] = 'Ano';
-$lang['AdminDialog.password.title'] = 'Generování hesla';
+$lang['AdminDialog.password.btn_cancel'] = 'Zrušit';
+$lang['AdminDialog.password.btn_generate'] = 'Generovat';
+$lang['AdminDialog.password.btn_modal_password'] = 'Heslo';
+$lang['AdminDialog.password.btn_use_password'] = 'Použití hesla';
+$lang['AdminDialog.password.field_modal_password'] = 'Heslo';
+$lang['AdminDialog.password.field_modal_password_copied'] = 'Toto heslo jsem si zkopíroval na bezpečné místo.';
 $lang['AdminDialog.password.text_click_generate'] = 'Kliknutím na tlačítko Generovat vytvořte bezpečné heslo.';
+$lang['AdminDialog.password.title'] = 'Generování hesla';
 

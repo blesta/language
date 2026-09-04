@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderPlugin.description'] = 'צפה בכל עדכון RSS/Atom ישירות בלוח המחוונים שלך.';
 $lang['FeedReaderPlugin.!error.dom_required'] = 'תוסף dom נדרש עבור תוסף זה.';
 $lang['FeedReaderPlugin.!error.libxml_required'] = 'התוסף libxml נדרש עבור תוסף זה.';
+$lang['FeedReaderPlugin.description'] = 'צפה בכל עדכון RSS/Atom ישירות בלוח המחוונים שלך.';
 $lang['FeedReaderPlugin.name'] = 'Feed Reader';
 

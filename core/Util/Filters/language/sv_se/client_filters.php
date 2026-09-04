@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.client_filters.field_last_seen_end_date'] = 'Slutdatum';
-$lang['Util.filters.client_filters.field_last_seen_start_date'] = 'Startdatum';
-$lang['Util.filters.client_filters.field_last_seen'] = 'Senast sedd';
-$lang['Util.filters.client_filters.field_invoice_method'] = 'Faktureringsmetod';
+$lang['Util.filters.client_filters.any'] = 'Någon';
 $lang['Util.filters.client_filters.field_client_group_id'] = 'Kundgrupp';
-$lang['Util.filters.client_filters.field_contact_country'] = 'Land';
 $lang['Util.filters.client_filters.field_contact_company'] = 'Företag';
+$lang['Util.filters.client_filters.field_contact_country'] = 'Land';
 $lang['Util.filters.client_filters.field_contact_email'] = 'E-post';
 $lang['Util.filters.client_filters.field_contact_name'] = 'Namn';
-$lang['Util.filters.client_filters.any'] = 'Någon';
+$lang['Util.filters.client_filters.field_invoice_method'] = 'Faktureringsmetod';
+$lang['Util.filters.client_filters.field_last_seen'] = 'Senast sedd';
+$lang['Util.filters.client_filters.field_last_seen_end_date'] = 'Slutdatum';
+$lang['Util.filters.client_filters.field_last_seen_start_date'] = 'Startdatum';
 

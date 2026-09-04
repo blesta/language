@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Запазете';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Споделен ключ';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Споделено влизане';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Споделен ключ';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Споделено влизане';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Запазете';
 

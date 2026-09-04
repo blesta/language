@@ -11,6 +11,6 @@
 
 $lang['Automation.task.exchange_rates.attempt'] = 'Προσπάθεια ενημέρωσης των συναλλαγματικών ισοτιμιών.';
 $lang['Automation.task.exchange_rates.completed'] = 'Η εργασία για τις συναλλαγματικές ισοτιμίες έχει ολοκληρωθεί.';
-$lang['Automation.task.exchange_rates.success'] = 'Οι συναλλαγματικές ισοτιμίες ενημερώθηκαν με επιτυχία.';
 $lang['Automation.task.exchange_rates.failed'] = 'Οι συναλλαγματικές ισοτιμίες δεν ήταν δυνατόν να ενημερωθούν.';
+$lang['Automation.task.exchange_rates.success'] = 'Οι συναλλαγματικές ισοτιμίες ενημερώθηκαν με επιτυχία.';
 

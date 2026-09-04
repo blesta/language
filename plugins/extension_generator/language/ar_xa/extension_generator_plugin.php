@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'مولد التمديد';
 $lang['ExtensionGeneratorPlugin.description'] = 'هذا مكون إضافي لإنشاء ملفات لملحقات Blesta الجديدة تلقائيًا';
 $lang['ExtensionGeneratorPlugin.name'] = 'Extension Generator';
+$lang['ExtensionGeneratorPlugin.nav_secondary_staff.admin_main'] = 'مولد التمديد';
 

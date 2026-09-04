@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CmsManagePlugin.index.field_submit'] = 'Halaman Pembaruan';
+$lang['CmsManagePlugin.!success.plugin_updated'] = 'Portal berhasil diperbarui.';
+$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.field_content'] = 'Konten Halaman Indeks';
+$lang['CmsManagePlugin.index.field_submit'] = 'Halaman Pembaruan';
 $lang['CmsManagePlugin.index.field_tags'] = 'Tag yang Tersedia';
 $lang['CmsManagePlugin.index.field_title'] = 'Judul Halaman Indeks';
-$lang['CmsManagePlugin.index.boxtitle_portal'] = 'Portal';
 $lang['CmsManagePlugin.index.page_title'] = 'Portal > Kelola';
-$lang['CmsManagePlugin.!success.plugin_updated'] = 'Portal berhasil diperbarui.';
 

@@ -9,29 +9,29 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['BtcpayServer.buildprocess.submit'] = 'Zahlung einreichen';
-$lang['BtcpayServer.webhook_note'] = 'Bevor Sie mit der Nutzung dieses Gateways beginnen, müssen Sie die folgende URL als Webhook in Ihrem BTCPay-Server konfigurieren.';
-$lang['BtcpayServer.webhook'] = 'BTCPay Server Webhook';
-$lang['BtcpayServer.transaction.speed.low'] = 'Niedrig';
-$lang['BtcpayServer.transaction.speed.medium'] = 'Mittel';
-$lang['BtcpayServer.transaction.speed.high'] = 'Hoch';
-$lang['BtcpayServer.meta.webhook_secret'] = 'Webhook Geheimnis';
-$lang['BtcpayServer.meta.transaction_speed'] = 'Transaktionsgeschwindigkeit';
-$lang['BtcpayServer.meta.api_key'] = 'API-Schlüssel';
-$lang['BtcpayServer.meta.store_id'] = 'Speicher-ID';
-$lang['BtcpayServer.meta.server_url'] = 'Server-URL';
-$lang['BtcpayServer.!error.webhook_secret.valid'] = 'Sie müssen ein gültiges Webhook-Geheimnis eingeben.';
+$lang['BtcpayServer.!error.api_key.valid'] = 'API-Schlüssel ungültig.';
+$lang['BtcpayServer.!error.failed.response'] = 'Die Transaktion konnte nicht verarbeitet werden.';
+$lang['BtcpayServer.!error.payment_method.valid'] = 'Bitte wählen Sie eine gültige Zahlungsmethode.';
 $lang['BtcpayServer.!error.payment.expired'] = 'Die Transaktion ist abgelaufen und konnte nicht bearbeitet werden.';
 $lang['BtcpayServer.!error.payment.invalid'] = 'Die Transaktion ist ungültig und konnte nicht verarbeitet werden.';
-$lang['BtcpayServer.!error.failed.response'] = 'Die Transaktion konnte nicht verarbeitet werden.';
-$lang['BtcpayServer.!error.api_key.valid'] = 'API-Schlüssel ungültig.';
+$lang['BtcpayServer.!error.server_url.valid'] = 'Server-URL ungültig.';
 $lang['BtcpayServer.!error.store_id.valid'] = 'Store ID ungültig.';
 $lang['BtcpayServer.!error.transaction_speed.valid'] = 'Bitte wählen Sie eine gültige Transaktionsgeschwindigkeit.';
-$lang['BtcpayServer.!error.server_url.valid'] = 'Server-URL ungültig.';
+$lang['BtcpayServer.!error.webhook_secret.valid'] = 'Sie müssen ein gültiges Webhook-Geheimnis eingeben.';
+$lang['BtcpayServer.buildprocess.submit'] = 'Zahlung einreichen';
 $lang['BtcpayServer.description'] = 'BTCPayServer ist ein selbstgehostetes, gebührenfreies Bitcoin-Zahlungsgateway.';
-$lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
-$lang['BtcpayServer.meta.payment_method_store'] = 'Erzwingen Sie die in BTCPay Server konfigurierte Voreinstellung für die Speicherung.';
-$lang['BtcpayServer.meta.payment_method_client'] = 'Ermöglichen Sie dem Kunden die Wahl der Zahlungsmethode.';
+$lang['BtcpayServer.meta.api_key'] = 'API-Schlüssel';
 $lang['BtcpayServer.meta.payment_method'] = 'Zahlungsmethode';
-$lang['BtcpayServer.!error.payment_method.valid'] = 'Bitte wählen Sie eine gültige Zahlungsmethode.';
+$lang['BtcpayServer.meta.payment_method_client'] = 'Ermöglichen Sie dem Kunden die Wahl der Zahlungsmethode.';
+$lang['BtcpayServer.meta.payment_method_store'] = 'Erzwingen Sie die in BTCPay Server konfigurierte Voreinstellung für die Speicherung.';
+$lang['BtcpayServer.meta.server_url'] = 'Server-URL';
+$lang['BtcpayServer.meta.store_id'] = 'Speicher-ID';
+$lang['BtcpayServer.meta.transaction_speed'] = 'Transaktionsgeschwindigkeit';
+$lang['BtcpayServer.meta.webhook_secret'] = 'Webhook Geheimnis';
+$lang['BtcpayServer.name'] = 'BTCPay (Bitcoin)';
+$lang['BtcpayServer.transaction.speed.high'] = 'Hoch';
+$lang['BtcpayServer.transaction.speed.low'] = 'Niedrig';
+$lang['BtcpayServer.transaction.speed.medium'] = 'Mittel';
+$lang['BtcpayServer.webhook'] = 'BTCPay Server Webhook';
+$lang['BtcpayServer.webhook_note'] = 'Bevor Sie mit der Nutzung dieses Gateways beginnen, müssen Sie die folgende URL als Webhook in Ihrem BTCPay-Server konfigurieren.';
 

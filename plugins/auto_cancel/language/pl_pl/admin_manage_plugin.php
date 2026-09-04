@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminManagePlugin.getDays.text_days'] = '%1$s dni';
-$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Day';
+$lang['AdminManagePlugin.!success.settings_saved'] = 'Ustawienia zostały zapisane.';
 $lang['AdminManagePlugin.getDays.never'] = 'Nigdy';
-$lang['AdminManagePlugin.index.field.submit'] = 'Zapisz';
+$lang['AdminManagePlugin.getDays.text_day'] = '%1$s Day';
+$lang['AdminManagePlugin.getDays.text_days'] = '%1$s dni';
+$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Automatyczne anulowanie';
 $lang['AdminManagePlugin.index.field.cancel_days'] = 'Anulowanie usług kilka dni po zawieszeniu';
 $lang['AdminManagePlugin.index.field.schedule_days'] = 'Dni anulowania harmonogramu po zawieszeniu';
+$lang['AdminManagePlugin.index.field.submit'] = 'Zapisz';
 $lang['AdminManagePlugin.index.heading_settings'] = 'Ustawienia';
-$lang['AdminManagePlugin.index.boxtitle_auto_cancel'] = 'Automatyczne anulowanie';
 $lang['AdminManagePlugin.index.page_title'] = 'Automatyczne anulowanie';
-$lang['AdminManagePlugin.!success.settings_saved'] = 'Ustawienia zostały zapisane.';
 

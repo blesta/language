@@ -1,0 +1,129 @@
+<?php
+/**
+ * Cwatch
+ *
+ * @package blesta
+ * @subpackage blesta.language.fi_fi
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['CWatch.!error.api.internal'] = 'Sisäinen virhe tai palvelin ei vastannut pyyntöön.';
+$lang['CWatch.!error.cwatch_country.length'] = 'Virheellinen piirikunta.';
+$lang['CWatch.!error.cwatch_domain.format'] = 'Syötä kelvollinen verkkotunnus, esim. domain.com.';
+$lang['CWatch.!error.cwatch_domain.unique'] = 'Verkkotunnus on jo rekisteröity. Valitse toinen verkkotunnus.';
+$lang['CWatch.!error.cwatch_email.format'] = 'Sähköpostiosoitteen muoto on virheellinen.';
+$lang['CWatch.!error.cwatch_email.unique'] = 'Asiakas, jolla on annettu sähköpostiosoite, on jo olemassa.';
+$lang['CWatch.!error.cwatch_firstname.empty'] = 'Kirjoita etunimi.';
+$lang['CWatch.!error.cwatch_lastname.empty'] = 'Kirjoita sukunimi.';
+$lang['CWatch.!error.ftp_test'] = 'FTP-yhteyden muodostaminen epäonnistui! Tarkista asetuksesi ja yritä uudelleen.';
+$lang['CWatch.!error.limit_exceeded'] = 'Verkkotunnuksille tällä hetkellä osoitettujen lisenssien määrä ylittää syötetyn rajan. Vapauta lisenssejä poistamalla verkkotunnuksia ennen kuin pienennät rajaa.';
+$lang['CWatch.!error.password.valid'] = 'Syötä salasana.';
+$lang['CWatch.!error.password.valid_connection'] = 'Yhteyden muodostaminen annetuilla tunnuksilla ei onnistu.';
+$lang['CWatch.!error.sftp_test'] = 'SFTP-yhteyden muodostaminen epäonnistui! Tarkista asetuksesi ja yritä uudelleen.';
+$lang['CWatch.!error.username.valid'] = 'Syötä käyttäjätunnus.';
+$lang['CWatch.!success.ftp_test'] = 'FTP-yhteys muodostettiin onnistuneesti!';
+$lang['CWatch.!success.sftp_test'] = 'SFTP-yhteys muodostettiin onnistuneesti!';
+$lang['CWatch.!tooltip.autoSsl'] = 'Asennetaanko Comodon ilmainen SSL-varmenne.';
+$lang['CWatch.!tooltip.initiateDns'] = 'Käynnistetäänkö DNS-tietueiden tarkistus.';
+$lang['CWatch.add_row.add_btn'] = 'Lisää tili';
+$lang['CWatch.add_row.basic_title'] = 'Käyttäjäasetukset';
+$lang['CWatch.add_row.box_title'] = 'Lisää API-tili';
+$lang['CWatch.add_row.field_password'] = 'Salasana';
+$lang['CWatch.add_row.field_sandbox'] = 'Ota SandBox käyttöön';
+$lang['CWatch.add_row.field_username'] = 'Käyttäjätunnus';
+$lang['Cwatch.back_to_manage'] = 'Takaisin';
+$lang['CWatch.description'] = 'Suojausratkaisu verkkosivustollesi, verkkopalvelimillesi ja verkkosovelluksillesi yhä kehittyneempiä hakkereiden uhkia vastaan.';
+$lang['CWatch.edit_row.add_btn'] = 'Muokkaa tunnistetietoja';
+$lang['CWatch.edit_row.basic_title'] = 'Käyttäjäasetukset';
+$lang['CWatch.edit_row.box_title'] = 'Muokkaa API-tiliä';
+$lang['CWatch.edit_row.field_password'] = 'Salasana';
+$lang['CWatch.edit_row.field_sandbox'] = 'Ota SandBox käyttöön';
+$lang['CWatch.edit_row.field_username'] = 'Käyttäjätunnus';
+$lang['CWatch.getsitestatuses.dns_completed'] = 'DNS-skannaus suoritettu';
+$lang['CWatch.getsitestatuses.dns_failed'] = 'Sivusto lisätty, DNS-tarkistus epäonnistui';
+$lang['CWatch.getsitestatuses.dns_inprogress'] = 'DNS-skannaus käynnissä';
+$lang['CWatch.getsitestatuses.dns_retry'] = 'DNS-skannauksen uusiminen';
+$lang['CWatch.getsitestatuses.site_completed'] = 'Sivusto lisätty';
+$lang['CWatch.getsitestatuses.site_failed'] = 'Sivuston luominen epäonnistui';
+$lang['CWatch.getsitestatuses.site_inprogress'] = 'Sivuston valmistelu on käynnissä';
+$lang['CWatch.getsitestatuses.site_retry'] = 'Sivuston käyttöönoton uudelleenyrittäminen';
+$lang['CWatch.getsitestatuses.ssl_completed'] = 'SSL-varmenne lisätty';
+$lang['CWatch.getsitestatuses.ssl_fail'] = 'Sivusto lisätty, SSL-asennus epäonnistui';
+$lang['CWatch.getsitestatuses.ssl_inprogress'] = 'SSL-asennus käynnissä';
+$lang['CWatch.getsitestatuses.ssl_retry'] = 'SSL-asennuksen uudelleenkäynnistäminen';
+$lang['CWatch.getsitestatuses.waiting'] = 'Odotus';
+$lang['CWatch.manage.add_module_row'] = 'Lisää API-tili';
+$lang['CWatch.manage.boxtitle'] = 'Hallinnoi CWatchia';
+$lang['CWatch.manage.confirm_delete'] = 'Haluatko varmasti poistaa tämän käyttäjän? ';
+$lang['CWatch.manage.delete'] = 'Poista';
+$lang['CWatch.manage.heading_options'] = 'Vaihtoehdot';
+$lang['CWatch.manage.heading_username'] = 'Käyttäjätunnus';
+$lang['CWatch.manage.no_results'] = 'Tilejä ei löytynyt';
+$lang['CWatch.manage.option_edit'] = 'Muokkaa';
+$lang['CWatch.manage.title'] = 'API-tilit';
+$lang['CWatch.module_row_plural.name'] = 'API-tilit';
+$lang['CWatch.module_row.name'] = 'API-tili';
+$lang['CWatch.name'] = 'CWatch';
+$lang['CWatch.package_fields.available_terms'] = 'Saatavilla olevat ehdot';
+$lang['CWatch.package_fields.license_basic_detection'] = 'Perusasiat';
+$lang['CWatch.package_fields.license_premium'] = 'Premium';
+$lang['CWatch.package_fields.license_premium_free'] = 'Premium-kokeilujakso';
+$lang['CWatch.package_fields.license_premium_free_60d'] = 'Pidennetty Premium-kokeilujakso';
+$lang['CWatch.package_fields.license_premium_paid_with_trial'] = 'Premium-maksu suoritettu kokeilujakson aikana';
+$lang['CWatch.package_fields.license_pro'] = 'Ammattilainen';
+$lang['CWatch.package_fields.license_pro_free'] = 'Ammattilaiskokeilu';
+$lang['CWatch.package_fields.license_pro_free_60d'] = 'Laajennettu ammattikäyttöön tarkoitettu kokeiluversio';
+$lang['CWatch.package_fields.license_pro_paid_with_trial'] = 'Ammattimainen maksullinen versio kokeilujakson jälkeen';
+$lang['CWatch.package_fields.license_starter'] = 'Aloitus';
+$lang['CWatch.package_fields.license_starter_paid_with_trial'] = 'Kokeilujakson aikana maksettu aloituspaketti';
+$lang['CWatch.package_fields.license_type'] = 'Lisenssityyppi';
+$lang['CWatch.package_fields.license_waf_starter'] = 'Waf-aloituspaketti';
+$lang['CWatch.package_fields.package_type'] = 'Pakettityyppi';
+$lang['CWatch.package_fields.tooltip.package_type'] = 'Yksittäisissä lisenssipaketeissa toimitetaan vain yksi cWatch-lisenssi, jonka tyyppi on valittu tässä paketin yhteydessä. Monilisenssipaketeissa käytetään konfiguroitavia vaihtoehtoja, joiden avulla asiakkaat voivat tilata vaihtelevan määrän eri tyyppisiä lisenssejä.';
+$lang['CWatch.packagetypes.multi_license'] = 'Monikäyttöinen lisenssi';
+$lang['CWatch.packagetypes.single_license'] = 'Yksittäinen lisenssi';
+$lang['Cwatch.service_field.country'] = 'Maa';
+$lang['Cwatch.service_field.domain'] = 'Verkkotunnus';
+$lang['Cwatch.service_field.email'] = 'Sähköposti';
+$lang['Cwatch.service_field.firstname'] = 'Etunimi';
+$lang['Cwatch.service_field.lastname'] = 'Sukunimi';
+$lang['CWatch.service_info.option_login'] = 'Kirjaudu sisään cWatch-palveluun';
+$lang['CWatch.tab_licenses.add'] = 'Lisää uusi sivusto';
+$lang['CWatch.tab_licenses.add_site'] = 'Lisää sivusto';
+$lang['CWatch.tab_licenses.autoSsl'] = 'AutoSSL';
+$lang['CWatch.tab_licenses.cancel'] = 'Peruuta';
+$lang['CWatch.tab_licenses.confirm_deactivate'] = 'Haluatko varmasti poistaa tämän lisenssin käytöstä?';
+$lang['CWatch.tab_licenses.confirm_delete'] = 'Haluatko varmasti poistaa tämän verkkotunnuksen?';
+$lang['CWatch.tab_licenses.current_license'] = 'Voimassa oleva lisenssi';
+$lang['CWatch.tab_licenses.deactivate_license'] = 'Poista lisenssi käytöstä';
+$lang['CWatch.tab_licenses.domain'] = 'Verkkotunnus';
+$lang['CWatch.tab_licenses.inactive_licenses'] = 'Passiiviset lisenssit';
+$lang['CWatch.tab_licenses.initiateDns'] = 'Alkuperäinen DNS';
+$lang['CWatch.tab_licenses.license_name'] = '%1$s (%2$s)';
+$lang['CWatch.tab_licenses.licenseKey'] = 'Lisenssiavain';
+$lang['CWatch.tab_licenses.licenses'] = 'Lisenssien hallinta';
+$lang['CWatch.tab_licenses.malware_scanner'] = 'Skanneri';
+$lang['CWatch.tab_licenses.no_results'] = 'Tälle palvelulle ei ole myönnetty yhtään käyttöoikeutta.';
+$lang['CWatch.tab_licenses.no_upgrade_options'] = 'Päivitykseen ei ole saatavilla lisenssejä.';
+$lang['CWatch.tab_licenses.not_applicable'] = 'Ei saatavilla';
+$lang['CWatch.tab_licenses.options'] = 'Vaihtoehdot';
+$lang['CWatch.tab_licenses.remove_site'] = 'Poista sivusto';
+$lang['CWatch.tab_licenses.status'] = 'Verkkotunnuksen tila';
+$lang['CWatch.tab_licenses.submit'] = 'Lähetä';
+$lang['CWatch.tab_licenses.type'] = 'Tyyppi';
+$lang['CWatch.tab_licenses.upgrade_delay'] = 'Päivitysten voimaantulo voi kestää jonkin aikaa, joten vanha lisenssityyppi saattaa edelleen näkyä.';
+$lang['CWatch.tab_licenses.upgrade_site'] = 'Päivitä sivusto';
+$lang['CWatch.tab_malware.add_scanner'] = 'Lisää skanneri';
+$lang['CWatch.tab_malware.domainname'] = 'Verkkotunnus';
+$lang['CWatch.tab_malware.ftppassword'] = 'FTP-salasana';
+$lang['CWatch.tab_malware.ftpusername'] = 'FTP-käyttäjätunnus';
+$lang['CWatch.tab_malware.host'] = 'FTP-palvelimen nimi';
+$lang['CWatch.tab_malware.malware'] = 'Haittaohjelmien torjunta';
+$lang['CWatch.tab_malware.path'] = 'Sivuston sisällysluettelo';
+$lang['CWatch.tab_malware.port'] = 'FTP-portti';
+$lang['CWatch.tab_malware.sftp'] = 'Käytä SFTP:tä';
+$lang['CWatch.tab_malware.submit'] = 'Lähetä';
+$lang['CWatch.tab_malware.test_credentials'] = 'Testaa nämä tunnistetiedot';
+

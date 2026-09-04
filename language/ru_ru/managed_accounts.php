@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.permissions.empty'] = 'Вам нужно назначить менеджеру хотя бы одно разрешение.';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Вы не уполномочены управлять этим счетом.';
-$lang['ManagedAccounts.!error.contact_id.exists'] = 'Неверный идентификатор контакта.';
-$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Неверный идентификатор приглашения.';
-$lang['ManagedAccounts.!error.email.invitation'] = 'Приглашение уже было отправлено на эту учетную запись.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Неверный идентификатор клиента.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Для указанного адреса электронной почты не существует учетной записи.';
+$lang['ManagedAccounts.!error.contact_id.exists'] = 'Неверный идентификатор контакта.';
 $lang['ManagedAccounts.!error.email.exists'] = 'Не удалось отправить приглашение. Убедитесь, что адрес электронной почты указан правильно, или попросите пользователя сначала зарегистрироваться.';
+$lang['ManagedAccounts.!error.email.invitation'] = 'Приглашение уже было отправлено на эту учетную запись.';
+$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Неверный идентификатор приглашения.';
+$lang['ManagedAccounts.!error.permissions.empty'] = 'Вам нужно назначить менеджеру хотя бы одно разрешение.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'Вы не уполномочены управлять этим счетом.';
 

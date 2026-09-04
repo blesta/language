@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'אין איש קשר כזה.';
 $lang['DownloadManagerLogs.!error.client_id.exists'] = 'הלקוח אינו קיים.';
+$lang['DownloadManagerLogs.!error.contact_id.exists'] = 'אין איש קשר כזה.';
 $lang['DownloadManagerLogs.!error.file_id.exists'] = 'הקובץ אינו קיים.';
 

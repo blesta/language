@@ -10,17 +10,17 @@
  */
 
 $lang['Braintree.!error.environment'] = 'Bitte wählen Sie eine gültige Umgebung aus.';
+$lang['Braintree.!error.live_mode.valid'] = 'Der Live-Modus muss auf "true" gesetzt werden, wenn er angegeben ist.';
+$lang['Braintree.!error.merchant_id'] = 'Bitte geben Sie Ihre Händlernummer ein.';
 $lang['Braintree.!error.private_key'] = 'Bitte geben Sie Ihren privaten Schlüssel ein.';
 $lang['Braintree.!error.public_key'] = 'Bitte geben Sie Ihren öffentlichen Schlüssel ein.';
-$lang['Braintree.!error.merchant_id'] = 'Bitte geben Sie Ihre Händlernummer ein.';
-$lang['Braintree.!error.live_mode.valid'] = 'Der Live-Modus muss auf "true" gesetzt werden, wenn er angegeben ist.';
+$lang['Braintree.description'] = 'Benötigt PHP &gt;= 7.3. Händler in mehr als 45 Ländern/Regionen weltweit können mit Braintree Zahlungen in mehr als 130 Währungen akzeptieren, splitten und ermöglichen';
+$lang['Braintree.environment'] = 'Umwelt';
 $lang['Braintree.environment.production'] = 'Produktion';
 $lang['Braintree.environment.sandbox'] = 'Sandkasten';
-$lang['Braintree.environment'] = 'Umwelt';
 $lang['Braintree.live_mode'] = 'Live-Modus';
+$lang['Braintree.merchant_id'] = 'Händler-ID';
+$lang['Braintree.name'] = 'Braintree';
 $lang['Braintree.private_key'] = 'Privater Schlüssel';
 $lang['Braintree.public_key'] = 'Öffentlicher Schlüssel';
-$lang['Braintree.merchant_id'] = 'Händler-ID';
-$lang['Braintree.description'] = 'Benötigt PHP &gt;= 7.3. Händler in mehr als 45 Ländern/Regionen weltweit können mit Braintree Zahlungen in mehr als 130 Währungen akzeptieren, splitten und ermöglichen';
-$lang['Braintree.name'] = 'Braintree';
 

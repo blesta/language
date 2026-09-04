@@ -10,9 +10,9 @@
  */
 
 $lang['DownloadManagerCategories.!error.category_id.exists'] = 'Den kategori som uppdateras existerar inte.';
+$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 $lang['DownloadManagerCategories.!error.description.empty'] = 'Ange en beskrivning av kategorin.';
 $lang['DownloadManagerCategories.!error.name.empty'] = 'Vänligen ange ett kategorinamn.';
-$lang['DownloadManagerCategories.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
-$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'Den valda överordnade kategorin behöver inte vara kategorin i sig.';
 $lang['DownloadManagerCategories.!error.parent_id.exists'] = 'Den valda överordnade kategorin finns inte.';
+$lang['DownloadManagerCategories.!error.parent_id.loop'] = 'Den valda överordnade kategorin behöver inte vara kategorin i sig.';
 

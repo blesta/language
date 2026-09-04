@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'Bayar dengan CoinPayments';
+$lang['CoinPayments.description'] = 'Sistem pembayaran untuk mata uang kripto seperti Bitcoin dan Litecoin dengan biaya rendah';
 $lang['CoinPayments.ipn_secret'] = 'Rahasia IPN';
 $lang['CoinPayments.merchant_id'] = 'ID Pedagang CoinPayments';
-$lang['CoinPayments.description'] = 'Sistem pembayaran untuk mata uang kripto seperti Bitcoin dan Litecoin dengan biaya rendah';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

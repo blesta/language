@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientDocumentsPlugin.name'] = 'Documentos del cliente';
-$lang['ClientDocumentsPlugin.description'] = 'Cargue archivos para que los descarguen determinados clientes.';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documentos';
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Documentos';
+$lang['ClientDocumentsPlugin.description'] = 'Cargue archivos para que los descarguen determinados clientes.';
+$lang['ClientDocumentsPlugin.name'] = 'Documentos del cliente';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documentos';
 

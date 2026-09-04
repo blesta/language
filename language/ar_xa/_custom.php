@@ -10,7 +10,7 @@
  */
 
 $lang['_PaymentTypes.cash'] = 'نقداً';
+$lang['_PaymentTypes.check'] = 'تحقق';
 $lang['_PaymentTypes.in_house_credit'] = 'ائتمان داخلي';
 $lang['_PaymentTypes.money_order'] = 'حوالة بريدية';
-$lang['_PaymentTypes.check'] = 'تحقق';
 

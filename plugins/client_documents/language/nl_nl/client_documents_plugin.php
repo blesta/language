@@ -10,7 +10,7 @@
  */
 
 $lang['ClientDocumentsPlugin.action_staff_client.index'] = 'Documenten';
-$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documenten';
 $lang['ClientDocumentsPlugin.description'] = 'Bestanden uploaden om te downloaden door specifieke klanten.';
 $lang['ClientDocumentsPlugin.name'] = 'Documenten van klanten';
+$lang['ClientDocumentsPlugin.nav_primary_client.main'] = 'Documenten';
 

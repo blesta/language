@@ -10,7 +10,7 @@
  */
 
 $lang['CustomReport.!error.field'] = '%1$s jest nieprawidłowe.';
-$lang['CustomReports.options.field_report_select'] = '-- Wybierz';
-$lang['CustomReports.options.field_report'] = 'Raport';
 $lang['CustomReport.name'] = 'Raport niestandardowy';
+$lang['CustomReports.options.field_report'] = 'Raport';
+$lang['CustomReports.options.field_report_select'] = '-- Wybierz';
 

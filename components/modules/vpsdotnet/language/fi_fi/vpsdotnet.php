@@ -1,0 +1,136 @@
+<?php
+/**
+ * Vpsdotnet
+ *
+ * @package blesta
+ * @subpackage blesta.language.fi_fi
+ * @copyright Copyright (c) 2026, Phillips Data, Inc.
+ * @license http://www.blesta.com/license/ The Blesta License Agreement
+ * @link http://www.blesta.com/ Blesta
+ */
+
+$lang['Vpsdotnet.!actions.boot'] = 'Kenkä';
+$lang['Vpsdotnet.!actions.hostname'] = 'Vaihda isäntänimi';
+$lang['Vpsdotnet.!actions.password'] = 'Nollaa salasana';
+$lang['Vpsdotnet.!actions.reboot'] = 'Käynnistä uudelleen';
+$lang['Vpsdotnet.!actions.reinstall'] = 'Asenna uudelleen';
+$lang['Vpsdotnet.!actions.shutdown'] = 'Sammutus';
+$lang['Vpsdotnet.!error.confirm.valid'] = 'Sinun on vahvistettava, että ymmärrät uudelleenasennuksen kulun, jotta voit suorittaa mallin uudelleenasennuksen.';
+$lang['Vpsdotnet.!error.email.format'] = 'Syötä kelvollinen sähköpostiosoite.';
+$lang['Vpsdotnet.!error.key.empty'] = 'Syötä API-avaimesi.';
+$lang['Vpsdotnet.!error.key.valid_connection'] = 'Yhteyttä palvelimeen ei voitu muodostaa. Tarkista, että sähköpostiosoite ja API-avain ovat oikein.';
+$lang['Vpsdotnet.!error.meta[cloud].format'] = 'Valitse kelvollinen pilvipalvelu.';
+$lang['Vpsdotnet.!error.meta[number_of_nodes].format'] = 'Syötä allokoitavien solmujen lukumäärä.';
+$lang['Vpsdotnet.!error.meta[set_cloud].format'] = 'Valitse, sallitaanko asiakkaan määrittää pilvi.';
+$lang['Vpsdotnet.!error.meta[set_template_group].format'] = 'Valitse, sallitaanko asiakkaan määrittää käyttöjärjestelmä.';
+$lang['Vpsdotnet.!error.meta[set_template].format'] = 'Valitse, sallitaanko asiakkaan määrittää malli.';
+$lang['Vpsdotnet.!error.meta[template_group].format'] = 'Valitse kelvollinen käyttöjärjestelmä.';
+$lang['Vpsdotnet.!error.meta[template].format'] = 'Valitse kelvollinen malli.';
+$lang['Vpsdotnet.!error.nodes.add_failed'] = 'Vaadittuja solmuja ei voitu lisätä.';
+$lang['Vpsdotnet.!error.server_name.empty'] = 'Anna tälle palvelimelle nimi.';
+$lang['Vpsdotnet.!error.vps.action_failed'] = 'Tapahtui virhe, eikä toimintoa voitu suorittaa.';
+$lang['Vpsdotnet.!error.vps.cancel_failed'] = 'Tapahtui virhe, eikä palvelua voitu peruuttaa.';
+$lang['Vpsdotnet.!error.vps.reinstall_failed'] = 'Tapahtui virhe, eikä mallia voitu asentaa uudelleen.';
+$lang['Vpsdotnet.!error.vps.update_failed'] = 'Tapahtui virhe, eikä virtuaalikoneen päivitystä voitu suorittaa.';
+$lang['Vpsdotnet.!error.vpsdotnet_cloud.format'] = 'Valitse kelvollinen pilvipalvelu.';
+$lang['Vpsdotnet.!error.vpsdotnet_hostname.format'] = 'Isäntänimi näyttää olevan virheellinen.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.empty'] = 'Kirjoita nimi.';
+$lang['Vpsdotnet.!error.vpsdotnet_label.format'] = 'Tunnisteessa ei saa olla erikoismerkkejä.';
+$lang['Vpsdotnet.!error.vpsdotnet_template_group.format'] = 'Valitse kelvollinen käyttöjärjestelmä.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.format'] = 'Valitse kelvollinen malli.';
+$lang['Vpsdotnet.!error.vpsdotnet_template.valid'] = 'Valitse kelvollinen malli.';
+$lang['Vpsdotnet.add_module_group'] = 'Lisää palvelinryhmä';
+$lang['Vpsdotnet.add_module_row'] = 'Lisää palvelin';
+$lang['Vpsdotnet.add_row.add_btn'] = 'Lisää palvelin';
+$lang['Vpsdotnet.add_row.basic_title'] = 'Perusasetukset';
+$lang['Vpsdotnet.add_row.box_title'] = 'Lisää VPS.NET-palvelin';
+$lang['Vpsdotnet.back_to_manage'] = 'Takaisin';
+$lang['Vpsdotnet.description'] = 'VPS.NET tarjoaa virtualisoituja palvelinpalveluita.';
+$lang['Vpsdotnet.edit_row.add_btn'] = 'Päivityspalvelin';
+$lang['Vpsdotnet.edit_row.basic_title'] = 'Perusasetukset';
+$lang['Vpsdotnet.edit_row.box_title'] = 'Muokkaa VPS.NET-palvelinta';
+$lang['Vpsdotnet.manage.module_groups_heading.name'] = 'Ryhmän nimi';
+$lang['Vpsdotnet.manage.module_groups_heading.options'] = 'Vaihtoehdot';
+$lang['Vpsdotnet.manage.module_groups_heading.servers'] = 'Palvelinten lukumäärä';
+$lang['Vpsdotnet.manage.module_groups_no_results'] = 'Palvelinryhmiä ei ole.';
+$lang['Vpsdotnet.manage.module_groups_title'] = 'VPS.NET:n pääpalvelinryhmät';
+$lang['Vpsdotnet.manage.module_groups.confirm_delete'] = 'Haluatko varmasti poistaa tämän palvelinryhmän?';
+$lang['Vpsdotnet.manage.module_groups.delete'] = 'Poista';
+$lang['Vpsdotnet.manage.module_groups.edit'] = 'Muokkaa';
+$lang['Vpsdotnet.manage.module_rows_heading.email'] = 'Sähköposti';
+$lang['Vpsdotnet.manage.module_rows_heading.options'] = 'Vaihtoehdot';
+$lang['Vpsdotnet.manage.module_rows_heading.server_label'] = 'Palvelimen nimi';
+$lang['Vpsdotnet.manage.module_rows_no_results'] = 'Palvelimia ei ole.';
+$lang['Vpsdotnet.manage.module_rows_title'] = 'VPS.NET-pääpalvelimet';
+$lang['Vpsdotnet.manage.module_rows.confirm_delete'] = 'Haluatko varmasti poistaa tämän palvelimen?';
+$lang['Vpsdotnet.manage.module_rows.delete'] = 'Poista';
+$lang['Vpsdotnet.manage.module_rows.edit'] = 'Muokkaa';
+$lang['Vpsdotnet.manage.tab_groups'] = 'Palvelinryhmät';
+$lang['Vpsdotnet.manage.tab_rows'] = 'Palvelimet';
+$lang['Vpsdotnet.module_group'] = 'VPS.NET Master -ryhmä';
+$lang['Vpsdotnet.module_row'] = 'VPS.NET-pääpalvelin';
+$lang['Vpsdotnet.module_row_plural'] = 'Palvelimet';
+$lang['Vpsdotnet.name'] = 'VPS.NET';
+$lang['Vpsdotnet.order_options.first'] = 'Ensimmäinen palvelin, joka ei ole täynnä';
+$lang['Vpsdotnet.package_fields.admin_set_cloud'] = 'Valitse pilvipalvelu/alue';
+$lang['Vpsdotnet.package_fields.admin_set_template'] = 'Valitse malli';
+$lang['Vpsdotnet.package_fields.admin_set_template_group'] = 'Valitse käyttöjärjestelmä';
+$lang['Vpsdotnet.package_fields.client_set_cloud'] = 'Annetaan asiakkaan määrittää pilvipalvelu/alue, käyttöjärjestelmä ja malli';
+$lang['Vpsdotnet.package_fields.client_set_template'] = 'Annetaan asiakkaan määrittää malli';
+$lang['Vpsdotnet.package_fields.client_set_template_group'] = 'Annetaan asiakkaan määrittää käyttöjärjestelmä ja malli';
+$lang['Vpsdotnet.package_fields.cloud'] = 'Pilvi/Alue';
+$lang['Vpsdotnet.package_fields.number_of_nodes'] = 'Solmujen lukumäärä';
+$lang['Vpsdotnet.package_fields.template'] = 'Malli';
+$lang['Vpsdotnet.package_fields.template_group'] = 'Käyttöjärjestelmä';
+$lang['Vpsdotnet.please_wait'] = 'Odota hetki...';
+$lang['Vpsdotnet.row_meta.email'] = 'Sähköposti';
+$lang['Vpsdotnet.row_meta.key'] = 'API-avain';
+$lang['Vpsdotnet.row_meta.server_name'] = 'Palvelimen nimi';
+$lang['Vpsdotnet.service_field.vpsdotnet_cloud'] = 'Pilvi/Alue';
+$lang['Vpsdotnet.service_field.vpsdotnet_hostname'] = 'Isäntänimi';
+$lang['Vpsdotnet.service_field.vpsdotnet_label'] = 'VPS-etiketti';
+$lang['Vpsdotnet.service_field.vpsdotnet_template'] = 'Malli';
+$lang['Vpsdotnet.service_field.vpsdotnet_template_group'] = 'Käyttöjärjestelmä';
+$lang['Vpsdotnet.service_info.vpsdotnet_password'] = 'Salasana';
+$lang['Vpsdotnet.service_info.vpsdotnet_primary_ip_address'] = 'Ensisijainen IP-osoite';
+$lang['Vpsdotnet.tab_actions'] = 'Palvelimen toiminnot';
+$lang['Vpsdotnet.tab_actions.field_confirm'] = 'Ymmärrän, että uudelleenasennuksen yhteydessä kaikki palvelimella olevat tiedot poistetaan pysyvästi ja valittu käyttöjärjestelmä sekä malli asennetaan.';
+$lang['Vpsdotnet.tab_actions.field_hostname_submit'] = 'Vaihda isäntänimi';
+$lang['Vpsdotnet.tab_actions.field_password_submit'] = 'Nollaa salasana';
+$lang['Vpsdotnet.tab_actions.field_reinstall_submit'] = 'Asenna uudelleen';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_hostname'] = 'Isäntänimi';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template'] = 'Malli';
+$lang['Vpsdotnet.tab_actions.field_vpsdotnet_template_group'] = 'Käyttöjärjestelmä';
+$lang['Vpsdotnet.tab_actions.heading_actions'] = 'Toimenpiteet';
+$lang['Vpsdotnet.tab_actions.heading_hostname'] = 'Vaihda isäntänimi';
+$lang['Vpsdotnet.tab_actions.heading_password'] = 'Nollaa salasana';
+$lang['Vpsdotnet.tab_actions.heading_reinstall'] = 'Asenna uudelleen';
+$lang['Vpsdotnet.tab_actions.server_status'] = 'Palvelimen tila';
+$lang['Vpsdotnet.tab_actions.status_offline'] = 'Offline-tilassa';
+$lang['Vpsdotnet.tab_actions.status_online'] = 'Verkossa';
+$lang['Vpsdotnet.tab_actions.status_pending'] = 'Käsiteltävänä';
+$lang['Vpsdotnet.tab_actions.status_unknown'] = 'Tuntematon';
+$lang['Vpsdotnet.tab_client_actions'] = 'Palvelimen toiminnot';
+$lang['Vpsdotnet.tab_client_actions.field_confirm'] = 'Ymmärrän, että uudelleenasennuksen yhteydessä kaikki palvelimella olevat tiedot poistetaan pysyvästi ja valittu käyttöjärjestelmä sekä malli asennetaan.';
+$lang['Vpsdotnet.tab_client_actions.field_hostname_submit'] = 'Vaihda isäntänimi';
+$lang['Vpsdotnet.tab_client_actions.field_password_submit'] = 'Nollaa salasana';
+$lang['Vpsdotnet.tab_client_actions.field_reinstall_submit'] = 'Asenna uudelleen';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_hostname'] = 'Isäntänimi';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template'] = 'Malli';
+$lang['Vpsdotnet.tab_client_actions.field_vpsdotnet_template_group'] = 'Käyttöjärjestelmä';
+$lang['Vpsdotnet.tab_client_actions.heading_actions'] = 'Palvelimen toiminnot';
+$lang['Vpsdotnet.tab_client_actions.heading_hostname'] = 'Vaihda isäntänimi';
+$lang['Vpsdotnet.tab_client_actions.heading_password'] = 'Nollaa salasana';
+$lang['Vpsdotnet.tab_client_actions.heading_reinstall'] = 'Asenna uudelleen';
+$lang['Vpsdotnet.tab_client_actions.heading_server_status'] = 'Palvelimen tila';
+$lang['Vpsdotnet.tab_client_actions.status_offline'] = 'Offline-tilassa';
+$lang['Vpsdotnet.tab_client_actions.status_online'] = 'Verkossa';
+$lang['Vpsdotnet.tab_client_actions.status_pending'] = 'Käsiteltävänä';
+$lang['Vpsdotnet.tab_client_actions.status_unknown'] = 'Tuntematon';
+$lang['Vpsdotnet.tab_client_console'] = 'Konsoli';
+$lang['Vpsdotnet.tab_client_console.heading_console'] = 'Konsoli';
+$lang['Vpsdotnet.tab_client_console.root_password'] = 'Salasana';
+$lang['Vpsdotnet.tab_console'] = 'Konsoli';
+$lang['Vpsdotnet.tab_console.heading_console'] = 'Konsoli';
+$lang['Vpsdotnet.tab_console.root_password'] = 'Salasana:';
+

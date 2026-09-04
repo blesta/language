@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['Summary.index.box_heading'] = 'O seu carrinho';
 $lang['Summary.index.cart_empty'] = 'Não existem itens no seu carrinho.';
-$lang['Summary.index.coupon_btn'] = 'Resgatar';
-$lang['Summary.index.coupon'] = 'Cupão';
-$lang['Summary.index.have_coupon'] = 'Tem um cupão?';
 $lang['Summary.index.checkout_btn'] = 'Finalizar a compra';
-$lang['Summary.index.login_btn'] = 'Iniciar sessão';
+$lang['Summary.index.coupon'] = 'Cupão';
+$lang['Summary.index.coupon_btn'] = 'Resgatar';
 $lang['Summary.index.field_password'] = 'Palavra-passe';
 $lang['Summary.index.field_username'] = 'Nome de utilizador';
+$lang['Summary.index.have_coupon'] = 'Tem um cupão?';
 $lang['Summary.index.link_resetpassword'] = 'Redefinir a minha palavra-passe';
-$lang['Summary.index.login_link'] = 'Iniciar sessão';
+$lang['Summary.index.login_btn'] = 'Iniciar sessão';
 $lang['Summary.index.login_customer'] = 'Cliente existente?';
-$lang['Summary.index.box_heading'] = 'O seu carrinho';
+$lang['Summary.index.login_link'] = 'Iniciar sessão';
 

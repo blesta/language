@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.permissions.empty'] = 'Menedżerowi należy przypisać co najmniej jedno uprawnienie.';
-$lang['ManagedAccounts.!error.permissions.manage'] = 'Nie jesteś upoważniony do zarządzania tym kontem.';
-$lang['ManagedAccounts.!error.contact_id.exists'] = 'Nieprawidłowy identyfikator kontaktu.';
-$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Nieprawidłowy identyfikator zaproszenia.';
-$lang['ManagedAccounts.!error.email.invitation'] = 'Zaproszenie zostało już wysłane na to konto.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'Nieprawidłowy identyfikator klienta.';
 $lang['ManagedAccounts.!error.client.exists'] = 'Do podanego adresu e-mail nie jest przypisane żadne konto.';
+$lang['ManagedAccounts.!error.contact_id.exists'] = 'Nieprawidłowy identyfikator kontaktu.';
 $lang['ManagedAccounts.!error.email.exists'] = 'Nie można wysłać zaproszenia. Upewnij się, że adres e-mail jest poprawny lub poproś użytkownika o zarejestrowanie się.';
+$lang['ManagedAccounts.!error.email.invitation'] = 'Zaproszenie zostało już wysłane na to konto.';
+$lang['ManagedAccounts.!error.invitation_id.exists'] = 'Nieprawidłowy identyfikator zaproszenia.';
+$lang['ManagedAccounts.!error.permissions.empty'] = 'Menedżerowi należy przypisać co najmniej jedno uprawnienie.';
+$lang['ManagedAccounts.!error.permissions.manage'] = 'Nie jesteś upoważniony do zarządzania tym kontem.';
 

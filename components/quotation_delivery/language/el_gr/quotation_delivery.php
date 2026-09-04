@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Παράθεση #%1$s';
-$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Παράθεση #%1$s';
 $lang['QuotationDelivery.!error.libxml_required'] = 'Οι επεκτάσεις libxml και simplexml απαιτούνται για την παράδοση τιμολογίων.';
+$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Παράθεση #%1$s';
+$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Παράθεση #%1$s';
 

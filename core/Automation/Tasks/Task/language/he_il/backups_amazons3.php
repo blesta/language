@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.backups_amazons3.success'] = 'הגיבוי הושלם בהצלחה.';
-$lang['Automation.task.backups_amazons3.completed'] = 'משימת הגיבוי של מסד הנתונים Amazon S3 הושלמה.';
 $lang['Automation.task.backups_amazons3.attempt'] = 'מנסה לגבות את מסד הנתונים ל-Amazon S3.';
+$lang['Automation.task.backups_amazons3.completed'] = 'משימת הגיבוי של מסד הנתונים Amazon S3 הושלמה.';
+$lang['Automation.task.backups_amazons3.success'] = 'הגיבוי הושלם בהצלחה.';
 

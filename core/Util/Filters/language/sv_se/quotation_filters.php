@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Innehåll i linjepost';
-$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citat #';
 $lang['Util.filters.quotation_filters.any'] = 'Någon';
+$lang['Util.filters.quotation_filters.field_currency'] = 'Valuta';
+$lang['Util.filters.quotation_filters.field_quotation_line'] = 'Innehåll i linjepost';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Citat #';
 

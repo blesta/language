@@ -9,11 +9,11 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessageGroups.getTypes.shared'] = 'Paylaşılan';
-$lang['MessageGroups.getTypes.client'] = 'Müşteri';
-$lang['MessageGroups.getTypes.staff'] = 'Personel';
-$lang['MessageGroups.!error.tags.empty'] = 'Lütfen etiketleri girin.';
-$lang['MessageGroups.!error.plugin_dir.empty'] = 'Lütfen eklenti dizinini girin.';
-$lang['MessageGroups.!error.type.valid'] = 'Mesaj grubu türü "müşteri", "personel" veya "paylaşılan" olarak ayarlanmalıdır.';
 $lang['MessageGroups.!error.action.empty'] = 'Lütfen bir eylem girin.';
+$lang['MessageGroups.!error.plugin_dir.empty'] = 'Lütfen eklenti dizinini girin.';
+$lang['MessageGroups.!error.tags.empty'] = 'Lütfen etiketleri girin.';
+$lang['MessageGroups.!error.type.valid'] = 'Mesaj grubu türü "müşteri", "personel" veya "paylaşılan" olarak ayarlanmalıdır.';
+$lang['MessageGroups.getTypes.client'] = 'Müşteri';
+$lang['MessageGroups.getTypes.shared'] = 'Paylaşılan';
+$lang['MessageGroups.getTypes.staff'] = 'Personel';
 

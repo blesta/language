@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ServiceChanges.status.canceled'] = 'Zrušeno';
-$lang['ServiceChanges.status.error'] = 'Chyba';
-$lang['ServiceChanges.status.completed'] = 'Dokončeno';
-$lang['ServiceChanges.status.pending'] = 'Čeká se na';
-$lang['ServiceChanges.!error.status.valid'] = 'Vyberte prosím platný stav.';
-$lang['ServiceChanges.!error.invoice_id.unique'] = 'ID faktury je již nastaveno pro změnu služby a nesmí být nastaveno znovu.';
-$lang['ServiceChanges.!error.invoice_id.exists'] = 'Neplatné ID faktury.';
-$lang['ServiceChanges.!error.service_id.exists'] = 'Neplatné ID služby.';
 $lang['ServiceChanges.!error.id.exists'] = 'Neplatné ID změny služby.';
+$lang['ServiceChanges.!error.invoice_id.exists'] = 'Neplatné ID faktury.';
+$lang['ServiceChanges.!error.invoice_id.unique'] = 'ID faktury je již nastaveno pro změnu služby a nesmí být nastaveno znovu.';
+$lang['ServiceChanges.!error.service_id.exists'] = 'Neplatné ID služby.';
+$lang['ServiceChanges.!error.status.valid'] = 'Vyberte prosím platný stav.';
 $lang['ServiceChanges.!error.void_invoice.paid'] = 'Faktura již byla uhrazena a nelze ji zrušit.';
+$lang['ServiceChanges.status.canceled'] = 'Zrušeno';
+$lang['ServiceChanges.status.completed'] = 'Dokončeno';
+$lang['ServiceChanges.status.error'] = 'Chyba';
+$lang['ServiceChanges.status.pending'] = 'Čeká se na';
 

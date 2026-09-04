@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['CustomReports.options.field_report'] = 'Rapport';
-$lang['CustomReports.options.field_report_select'] = '-- Vælg venligst --';
 $lang['CustomReport.!error.field'] = '%1$s er ikke gyldig.';
 $lang['CustomReport.name'] = 'Custom Report';
+$lang['CustomReports.options.field_report'] = 'Rapport';
+$lang['CustomReports.options.field_report_select'] = '-- Vælg venligst --';
 

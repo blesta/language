@@ -9,16 +9,16 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SitebuilderPlugin.ftpFormPath'] = 'FTP-sti';
-$lang['SitebuilderPlugin.ftpFormPassword'] = 'FTP-adgangskode';
-$lang['SitebuilderPlugin.ftpFormUsername'] = 'FTP-brugernavn';
-$lang['SitebuilderPlugin.ftpFormHost'] = 'FTP-vært/domæne';
-$lang['SitebuilderPlugin.enterFtpData'] = 'Indtast FTP-data:';
-$lang['SitebuilderPlugin.SelectDomain'] = 'Vælg domæne:';
 $lang['SitebuilderPlugin.cPanelNew.DocRoot'] = 'Dokumentets rod';
 $lang['SitebuilderPlugin.cPanelNew.Domain'] = 'Domæne';
-$lang['SitebuilderPlugin.launch'] = 'Lancering';
-$lang['SitebuilderPlugin.description'] = 'Skab din egen hjemmesidebygger. Kun 15-30 minutter, og du har dit produkt. Giv dine kunder en hjemmesidebygger.';
 $lang['SitebuilderPlugin.defaultName'] = 'Site.pro Hjemmesideprogram';
+$lang['SitebuilderPlugin.description'] = 'Skab din egen hjemmesidebygger. Kun 15-30 minutter, og du har dit produkt. Giv dine kunder en hjemmesidebygger.';
+$lang['SitebuilderPlugin.enterFtpData'] = 'Indtast FTP-data:';
+$lang['SitebuilderPlugin.ftpFormHost'] = 'FTP-vært/domæne';
+$lang['SitebuilderPlugin.ftpFormPassword'] = 'FTP-adgangskode';
+$lang['SitebuilderPlugin.ftpFormPath'] = 'FTP-sti';
+$lang['SitebuilderPlugin.ftpFormUsername'] = 'FTP-brugernavn';
+$lang['SitebuilderPlugin.launch'] = 'Lancering';
 $lang['SitebuilderPlugin.name'] = 'Site.pro Website Builder';
+$lang['SitebuilderPlugin.SelectDomain'] = 'Vælg domæne:';
 

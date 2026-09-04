@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.submit'] = 'Appliquer les filtres';
-$lang['Widget.toggle_filters'] = 'Filtres à bascule';
 $lang['Widget.clear'] = 'Clair';
 $lang['Widget.resize_widget'] = 'Redimensionner le widget';
+$lang['Widget.submit'] = 'Appliquer les filtres';
+$lang['Widget.toggle_filters'] = 'Filtres à bascule';
 

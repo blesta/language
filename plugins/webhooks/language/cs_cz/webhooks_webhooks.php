@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['WebhooksWebhooks.getMethods.json'] = 'JSON';
-$lang['WebhooksWebhooks.getMethods.post'] = 'POST';
-$lang['WebhooksWebhooks.getMethods.get'] = 'GET';
-$lang['WebhooksWebhooks.getTypes.type_outgoing'] = 'Odchozí';
-$lang['WebhooksWebhooks.getTypes.type_incoming'] = 'Příchozí';
-$lang['WebhooksWebhooks.!error.fields[][parameter].length'] = 'Název parametru nesmí překročit 255 znaků.';
-$lang['WebhooksWebhooks.!error.fields[][parameter].empty'] = 'Parametr pole nesmí být prázdný.';
-$lang['WebhooksWebhooks.!error.fields[][field].length'] = 'Název pole nesmí překročit 255 znaků.';
-$lang['WebhooksWebhooks.!error.fields[][field].empty'] = 'Název pole nesmí být prázdný.';
-$lang['WebhooksWebhooks.!error.method.valid'] = 'Vyberte platný způsob.';
-$lang['WebhooksWebhooks.!error.type.valid'] = 'Vyberte platný typ.';
-$lang['WebhooksWebhooks.!error.event.exists'] = 'Zadaná událost neexistuje.';
-$lang['WebhooksWebhooks.!error.callback.length'] = 'Zpětné volání nesmí překročit 255 znaků.';
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Zadejte prosím platné zpětné volání.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Webhook tohoto typu již existuje s tímto zpětným voláním.';
+$lang['WebhooksWebhooks.!error.callback.length'] = 'Zpětné volání nesmí překročit 255 znaků.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Poskytnutá společnost neexistuje.';
-$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.!error.event.exists'] = 'Zadaná událost neexistuje.';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Zadaná událost neexistuje.';
+$lang['WebhooksWebhooks.!error.fields[][field].empty'] = 'Název pole nesmí být prázdný.';
+$lang['WebhooksWebhooks.!error.fields[][field].length'] = 'Název pole nesmí překročit 255 znaků.';
+$lang['WebhooksWebhooks.!error.fields[][parameter].empty'] = 'Parametr pole nesmí být prázdný.';
+$lang['WebhooksWebhooks.!error.fields[][parameter].length'] = 'Název parametru nesmí překročit 255 znaků.';
+$lang['WebhooksWebhooks.!error.method.valid'] = 'Vyberte platný způsob.';
+$lang['WebhooksWebhooks.!error.type.valid'] = 'Vyberte platný typ.';
+$lang['WebhooksWebhooks.getMethods.get'] = 'GET';
+$lang['WebhooksWebhooks.getMethods.json'] = 'JSON';
+$lang['WebhooksWebhooks.getMethods.post'] = 'POST';
 $lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
 $lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
-$lang['WebhooksWebhooks.!error.events[].exists'] = 'Zadaná událost neexistuje.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getTypes.type_incoming'] = 'Příchozí';
+$lang['WebhooksWebhooks.getTypes.type_outgoing'] = 'Odchozí';
 

@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'ID-ul tipului de modul nu este valid.';
 $lang['ModuleTypes.!error.name.valid'] = 'Numele este invalid.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'ID-ul tipului de modul nu este valid.';
 

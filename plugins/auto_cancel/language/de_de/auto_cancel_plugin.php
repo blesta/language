@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AutoCancelPlugin.description'] = 'Plant automatisch Dienste für die Stornierung ein.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_desc'] = 'Plant automatisch unterbrochene Dienste zur Stornierung ein.';
 $lang['AutoCancelPlugin.getCronTasks.schedule_cancellation_name'] = 'Automatische Terminstornierung';
-$lang['AutoCancelPlugin.description'] = 'Plant automatisch Dienste für die Stornierung ein.';
 $lang['AutoCancelPlugin.name'] = 'Automatisch abbrechen';
 

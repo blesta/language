@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DownloadManagerUrls.!error.file_id.exists'] = 'Den valda filen existerar inte.';
 $lang['DownloadManagerUrls.!error.category_id.exists'] = 'Den valda kategorin existerar inte.';
+$lang['DownloadManagerUrls.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
+$lang['DownloadManagerUrls.!error.file_id.exists'] = 'Den valda filen existerar inte.';
+$lang['DownloadManagerUrls.!error.url.exists'] = 'Denna URL finns redan.';
 $lang['DownloadManagerUrls.!error.url.format'] = 'URL-formatet är inte giltigt, det kan bara innehålla bokstäver, siffror och bindestreck.';
 $lang['DownloadManagerUrls.!error.url.match'] = 'Denna URL matchar inte filförlängningen.';
-$lang['DownloadManagerUrls.!error.url.exists'] = 'Denna URL finns redan.';
-$lang['DownloadManagerUrls.!error.company_id.exists'] = 'Ogiltigt företags-ID.';
 

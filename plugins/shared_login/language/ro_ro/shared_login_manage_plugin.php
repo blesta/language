@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Salvați';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Cheie partajată';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Autentificare partajată';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Cheie partajată';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Autentificare partajată';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Salvați';
 

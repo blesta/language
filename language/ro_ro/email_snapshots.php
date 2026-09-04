@@ -10,6 +10,6 @@
  */
 
 $lang['EmailSnapshots.!error.email_id.exists'] = 'ID-ul de e-mail nu există.';
-$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'ID-ul instantaneu nu există.';
 $lang['EmailSnapshots.!error.snapshot_id.belongs_to_email'] = 'Instantaneul nu aparține e-mailului specificat.';
+$lang['EmailSnapshots.!error.snapshot_id.exists'] = 'ID-ul instantaneu nu există.';
 

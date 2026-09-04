@@ -10,8 +10,8 @@
  */
 
 $lang['CoinPayments.buildprocess.submit'] = 'Bezahlen mit CoinPayments';
+$lang['CoinPayments.description'] = 'Ein Checkout-System für Kryptowährungen wie Bitcoin und Litecoin mit niedrigen Gebühren';
 $lang['CoinPayments.ipn_secret'] = 'IPN Geheimnis';
 $lang['CoinPayments.merchant_id'] = 'CoinPayments-Händler-ID';
-$lang['CoinPayments.description'] = 'Ein Checkout-System für Kryptowährungen wie Bitcoin und Litecoin mit niedrigen Gebühren';
 $lang['CoinPayments.name'] = 'CoinPayments.net';
 

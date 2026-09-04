@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['FeedReaderFeeds.!error.url.valid'] = 'La URL indicada no es válida.';
 $lang['FeedReaderFeeds.!error.company_id.exists'] = 'La empresa especificada no existe.';
-$lang['FeedReaderFeeds.!error.updated.valid'] = 'Debe especificar una fecha de actualización válida.';
+$lang['FeedReaderFeeds.!error.date.valid'] = 'Los datos especificados no son válidos.';
 $lang['FeedReaderFeeds.!error.feed_id.exists'] = 'La alimentación dada no existe.';
 $lang['FeedReaderFeeds.!error.staff_id.exists'] = 'El miembro del personal especificado no existe.';
-$lang['FeedReaderFeeds.!error.date.valid'] = 'Los datos especificados no son válidos.';
+$lang['FeedReaderFeeds.!error.updated.valid'] = 'Debe especificar una fecha de actualización válida.';
+$lang['FeedReaderFeeds.!error.url.valid'] = 'La URL indicada no es válida.';
 

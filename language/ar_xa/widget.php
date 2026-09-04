@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Widget.toggle_filters'] = 'تبديل الفلاتر';
-$lang['Widget.submit'] = 'تطبيق الفلاتر';
 $lang['Widget.clear'] = 'واضح';
 $lang['Widget.resize_widget'] = 'تغيير حجم القطعة';
+$lang['Widget.submit'] = 'تطبيق الفلاتر';
+$lang['Widget.toggle_filters'] = 'تبديل الفلاتر';
 

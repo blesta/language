@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Обраний домен недоступний для трансферу.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s розміщене замовлення №%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Замовлення №%1$s Отримано';
+$lang['OrderOrders.getstatuses.accepted'] = 'Прийнято';
 $lang['OrderOrders.getstatuses.canceled'] = 'Скасовано';
 $lang['OrderOrders.getstatuses.fraud'] = 'Шахрайство';
-$lang['OrderOrders.getstatuses.accepted'] = 'Прийнято';
 $lang['OrderOrders.getstatuses.pending'] = 'В огляді';
-$lang['OrderOrders.bell.order_received.title'] = 'Замовлення №%1$s Отримано';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s розміщене замовлення №%2$s (%3$s)';
 

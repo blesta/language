@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Cornerstone.security_key'] = 'مفتاح الأمان';
-$lang['Cornerstone.description'] = 'Cornerstone هي واحدة من مؤسسات المبيعات المستقلة الرائدة التي يملكها ويديرها مسيحيون في مجال معالجة التاجر في الولايات المتحدة الأمريكية';
 $lang['Cornerstone.!error.security_key.empty'] = 'الرجاء إدخال مفتاح الأمان الخاص بك.';
+$lang['Cornerstone.description'] = 'Cornerstone هي واحدة من مؤسسات المبيعات المستقلة الرائدة التي يملكها ويديرها مسيحيون في مجال معالجة التاجر في الولايات المتحدة الأمريكية';
 $lang['Cornerstone.name'] = 'Cornerstone';
+$lang['Cornerstone.security_key'] = 'مفتاح الأمان';
 

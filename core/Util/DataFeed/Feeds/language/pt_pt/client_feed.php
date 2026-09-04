@@ -10,10 +10,10 @@
  */
 
 $lang['ClientFeed.!error.invalid_endpoint'] = 'O ponto final solicitado não é válido ou não existe.';
+$lang['ClientFeed.description'] = 'Devolve o número de clientes com um determinado estado.';
+$lang['ClientFeed.getOptionFields.example_code_active'] = 'Mostra o número de clientes activos:';
 $lang['ClientFeed.getOptionFields.example_code_fraud'] = 'Mostrar o número de clientes fraudulentos:';
 $lang['ClientFeed.getOptionFields.example_code_inactive'] = 'Mostrar o número de clientes inactivos:';
-$lang['ClientFeed.getOptionFields.example_code_active'] = 'Mostra o número de clientes activos:';
 $lang['ClientFeed.getOptionFields.title_row_example_code'] = 'Exemplo de código';
-$lang['ClientFeed.description'] = 'Devolve o número de clientes com um determinado estado.';
 $lang['ClientFeed.name'] = 'Clients';
 

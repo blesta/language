@@ -11,6 +11,6 @@
 
 $lang['Automation.task.exchange_rates.attempt'] = 'Forsøger at opdatere valutakurser.';
 $lang['Automation.task.exchange_rates.completed'] = 'Opgaven med valutakurser er afsluttet.';
-$lang['Automation.task.exchange_rates.success'] = 'Valutakurserne blev opdateret med succes.';
 $lang['Automation.task.exchange_rates.failed'] = 'Valutakurserne kunne ikke opdateres.';
+$lang['Automation.task.exchange_rates.success'] = 'Valutakurserne blev opdateret med succes.';
 

@@ -9,14 +9,14 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderAffiliates.getStatuses.inactive'] = 'Inactief';
-$lang['OrderAffiliates.getStatuses.active'] = 'Actief';
-$lang['OrderAffiliates.!error.date_updated.format'] = 'De bijgewerkte datum heeft een ongeldige datumnotatie.';
-$lang['OrderAffiliates.!error.date_added.format'] = 'De toegevoegde datum heeft een ongeldig datumformaat.';
-$lang['OrderAffiliates.!error.status.valid'] = 'Selecteer een geldige partnerstatus.';
-$lang['OrderAffiliates.!error.code.unique'] = 'Deze code is al ingenomen door een andere partner.';
-$lang['OrderAffiliates.!error.code.empty'] = 'Voer een affiliatecode in.';
-$lang['OrderAffiliates.!error.client_id.unique'] = 'De klant-ID is al gekoppeld aan een andere partner.';
-$lang['OrderAffiliates.!error.client_id.exists'] = 'Ongeldig client-ID.';
 $lang['OrderAffiliates.!error.affiliate_id.exists'] = 'Ongeldig affiliate-ID.';
+$lang['OrderAffiliates.!error.client_id.exists'] = 'Ongeldig client-ID.';
+$lang['OrderAffiliates.!error.client_id.unique'] = 'De klant-ID is al gekoppeld aan een andere partner.';
+$lang['OrderAffiliates.!error.code.empty'] = 'Voer een affiliatecode in.';
+$lang['OrderAffiliates.!error.code.unique'] = 'Deze code is al ingenomen door een andere partner.';
+$lang['OrderAffiliates.!error.date_added.format'] = 'De toegevoegde datum heeft een ongeldig datumformaat.';
+$lang['OrderAffiliates.!error.date_updated.format'] = 'De bijgewerkte datum heeft een ongeldige datumnotatie.';
+$lang['OrderAffiliates.!error.status.valid'] = 'Selecteer een geldige partnerstatus.';
+$lang['OrderAffiliates.getStatuses.active'] = 'Actief';
+$lang['OrderAffiliates.getStatuses.inactive'] = 'Inactief';
 

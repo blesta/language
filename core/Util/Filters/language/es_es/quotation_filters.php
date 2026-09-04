@@ -10,7 +10,7 @@
  */
 
 $lang['Util.filters.quotation_filters.any'] = 'Cualquier';
-$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Presupuesto';
 $lang['Util.filters.quotation_filters.field_currency'] = 'Moneda';
 $lang['Util.filters.quotation_filters.field_quotation_line'] = 'Contenido de la partida';
+$lang['Util.filters.quotation_filters.field_quotation_number'] = 'Presupuesto';
 

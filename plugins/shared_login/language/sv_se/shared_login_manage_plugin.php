@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SharedLoginManagePlugin.index.submit'] = 'Spara';
-$lang['SharedLoginManagePlugin.index.field_key'] = 'Delad nyckel';
 $lang['SharedLoginManagePlugin.index.boxtitle_manage'] = 'Delad inloggning';
+$lang['SharedLoginManagePlugin.index.field_key'] = 'Delad nyckel';
 $lang['SharedLoginManagePlugin.index.page_title'] = 'Delad inloggning';
+$lang['SharedLoginManagePlugin.index.submit'] = 'Spara';
 

@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
+$lang['AdminCompanyElectronicInvoices.!success.formats_updated'] = 'Elektronische factuurformaten zijn met succes bijgewerkt.';
+$lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'Elektronische facturen';
 $lang['AdminCompanyElectronicInvoices.index.field_submit'] = 'Instellingen bijwerken';
-$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'Er zijn geen elektronische factuurformaten beschikbaar. Zorg ervoor dat de component InvoiceFormats correct is geïnstalleerd.';
 $lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'Beschrijving';
 $lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'Factuurformaat';
-$lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'Elektronische facturen';
-$lang['AdminCompanyElectronicInvoices.!success.formats_updated'] = 'Elektronische factuurformaten zijn met succes bijgewerkt.';
+$lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'Er zijn geen elektronische factuurformaten beschikbaar. Zorg ervoor dat de component InvoiceFormats correct is geïnstalleerd.';
 

@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Offline.name'] = 'Pago fuera de línea';
+$lang['Offline.!error.instructions.valid'] = 'Debe introducir algunas instrucciones.';
 $lang['Offline.description'] = 'Permite mostrar instrucciones especiales para aceptar pagos sin conexión.';
 $lang['Offline.instructions'] = 'Instrucciones';
-$lang['Offline.!error.instructions.valid'] = 'Debe introducir algunas instrucciones.';
+$lang['Offline.name'] = 'Pago fuera de línea';
 

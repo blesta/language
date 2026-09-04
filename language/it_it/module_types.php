@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ModuleTypes.!error.type_id.valid'] = 'L\'ID del tipo di modulo non è valido.';
 $lang['ModuleTypes.!error.name.valid'] = 'Il nome non è valido.';
+$lang['ModuleTypes.!error.type_id.valid'] = 'L\'ID del tipo di modulo non è valido.';
 

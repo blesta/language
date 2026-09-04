@@ -9,9 +9,9 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['IpUnblockerPlugin.name'] = 'Desbloqueador de IP';
-$lang['IpUnblockerPlugin.description'] = 'Un plugin para Blesta que se integra con cPanel y DirectAdmin para desbloquear IPs de listas negras.';
-$lang['IpUnblockerPlugin.unblock_ip'] = 'Desbloquear IP';
-$lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Solicitud de desbloqueo enviada.';
 $lang['IpUnblockerPlugin.!error.remote_curl'] = 'No se ha podido conectar con el servidor remoto. cURL Error: %1$s';
+$lang['IpUnblockerPlugin.!success.unblock_ip'] = 'Solicitud de desbloqueo enviada.';
+$lang['IpUnblockerPlugin.description'] = 'Un plugin para Blesta que se integra con cPanel y DirectAdmin para desbloquear IPs de listas negras.';
+$lang['IpUnblockerPlugin.name'] = 'Desbloqueador de IP';
+$lang['IpUnblockerPlugin.unblock_ip'] = 'Desbloquear IP';
 

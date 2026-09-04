@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderTypeRegistration.!success.signup'] = 'Tak, fordi du registrerede en konto hos os.';
 $lang['OrderTypeRegistration.!error.template.valid'] = 'Klientregistrering understøtter kun standardskabelonen.';
+$lang['OrderTypeRegistration.!success.signup'] = 'Tak, fordi du registrerede en konto hos os.';
 $lang['OrderTypeRegistration.name'] = 'Client Registration';
 

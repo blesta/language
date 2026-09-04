@@ -9,18 +9,18 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Braintree.description'] = 'Kræver PHP &gt;= 7.3. Forhandlere i mere end 45 lande/regioner verden over kan acceptere, opdele og aktivere betalinger i mere end 130 valutaer ved hjælp af Braintree.';
-$lang['Braintree.merchant_id'] = 'Forhandler-ID';
-$lang['Braintree.public_key'] = 'Offentlig nøgle';
-$lang['Braintree.private_key'] = 'Privat nøgle';
-$lang['Braintree.live_mode'] = 'Live-tilstand';
-$lang['Braintree.environment'] = 'Miljø';
-$lang['Braintree.environment.sandbox'] = 'Sandkasse';
-$lang['Braintree.environment.production'] = 'Produktion';
+$lang['Braintree.!error.environment'] = 'Vælg venligst et gyldigt miljø.';
 $lang['Braintree.!error.live_mode.valid'] = 'Live-tilstand skal sættes til "true", hvis den er angivet.';
 $lang['Braintree.!error.merchant_id'] = 'Indtast venligst dit forhandler-id.';
-$lang['Braintree.!error.public_key'] = 'Indtast venligst din offentlige nøgle.';
 $lang['Braintree.!error.private_key'] = 'Indtast venligst din private nøgle.';
-$lang['Braintree.!error.environment'] = 'Vælg venligst et gyldigt miljø.';
+$lang['Braintree.!error.public_key'] = 'Indtast venligst din offentlige nøgle.';
+$lang['Braintree.description'] = 'Kræver PHP &gt;= 7.3. Forhandlere i mere end 45 lande/regioner verden over kan acceptere, opdele og aktivere betalinger i mere end 130 valutaer ved hjælp af Braintree.';
+$lang['Braintree.environment'] = 'Miljø';
+$lang['Braintree.environment.production'] = 'Produktion';
+$lang['Braintree.environment.sandbox'] = 'Sandkasse';
+$lang['Braintree.live_mode'] = 'Live-tilstand';
+$lang['Braintree.merchant_id'] = 'Forhandler-ID';
 $lang['Braintree.name'] = 'Braintree';
+$lang['Braintree.private_key'] = 'Privat nøgle';
+$lang['Braintree.public_key'] = 'Offentlig nøgle';
 

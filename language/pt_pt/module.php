@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Module.!error.unsupported'] = 'O módulo não suporta essa ação.';
-$lang['Module.!error.invalid'] = 'Foi recebida uma resposta de API inválida ou não reconhecida.';
 $lang['Module.!error.general'] = 'Ocorreu um erro ao processar o pedido com o módulo.';
+$lang['Module.!error.invalid'] = 'Foi recebida uma resposta de API inválida ou não reconhecida.';
+$lang['Module.!error.unsupported'] = 'O módulo não suporta essa ação.';
 

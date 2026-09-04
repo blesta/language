@@ -10,8 +10,8 @@
  */
 
 $lang['AiConversations.!error.company_id.exists'] = 'Ugyldigt virksomheds-id.';
-$lang['AiConversations.!error.staff_id.valid'] = 'Personale-ID skal være numerisk.';
 $lang['AiConversations.!error.model.empty'] = 'Angiv venligst en AI-model.';
+$lang['AiConversations.!error.staff_id.valid'] = 'Personale-ID skal være numerisk.';
 $lang['AiConversations.!error.status.valid'] = 'Ugyldig status.';
 $lang['AiConversations.!error.type.length'] = 'Typen skal bestå af 64 tegn eller færre.';
 

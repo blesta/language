@@ -10,10 +10,10 @@
  */
 
 $lang['OrderOrders.!error.price_transfer_disabled'] = 'Wybrana domena nie jest dostępna dla transferów.';
+$lang['OrderOrders.bell.order_received.message'] = '%1$s złożono zamówienie #%2$s (%3$s)';
+$lang['OrderOrders.bell.order_received.title'] = 'Order #%1$s Received';
+$lang['OrderOrders.getstatuses.accepted'] = 'Przyjęte';
 $lang['OrderOrders.getstatuses.canceled'] = 'Anulowane';
 $lang['OrderOrders.getstatuses.fraud'] = 'Oszustwo';
-$lang['OrderOrders.getstatuses.accepted'] = 'Przyjęte';
 $lang['OrderOrders.getstatuses.pending'] = 'W recenzji';
-$lang['OrderOrders.bell.order_received.title'] = 'Order #%1$s Received';
-$lang['OrderOrders.bell.order_received.message'] = '%1$s złożono zamówienie #%2$s (%3$s)';
 
